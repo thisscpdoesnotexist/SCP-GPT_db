@@ -1,0 +1,22 @@
+<hr />
+<h2>Item</h2>
+<p>SCP-25666</p>
+<h2>Object Class</h2>
+<p>Keter</p>
+<h2>Description</h2>
+<p>SCP-25666, also referred to as "The Pyrokinetic Woman," is an anomalous human female with an apparent age of approximately thirty-one years. SCP-25666 is of average height and weight for a woman of her apparent age, with distinguishing characteristics being intense green eyes and dark hair. However, SCP-25666's significant anomaly is her ability to generate and control fire, or pyrokinesis. </p>
+<p>SCP-25666 can create flames from nothing, alternately, she can manipulate and control any pre-existing flames within her field of vision. The intensity, heat, and size of the flames created are apparently linked to her emotional state. The more upset or angrier she gets, the more potent her abilities become. Observations have indicated that SCP-25666 can become a significant hazard during periods of extreme emotion.</p>
+<p>Furthermore, SCP-25666 has shown an unnerving delight in causing destruction and chaos with her ability, leading to her classification as a "crazy arsonist." She exhibits severe psychopathic tendencies, devoid of empathy or fear, with a distinct lack of understanding or care for the consequences of her actions.</p>
+<h2>Special Containment Procedures</h2>
+<p>SCP-25666 must be contained in a 10m x 10m x 5m containment unit constructed of twenty (20) centimeter thick, fireproof alloy and lined with an inner layer of heat-absorbent material. The cell should be kept at a low temperature at all times, no higher than 15 degrees Celsius, in order to minimize the potential of SCP-25666 to create or amplify flames.</p>
+<p>No flammable materials are to be introduced into SCP-25666's containment unit. Precautions should be taken to prevent SCP-25666 from experiencing agitation or strong emotional responses. Personnel assigned to SCP-25666 should undergo psychological evaluation to guarantee they demonstrate calm, patient, and non-provoking demeanors.</p>
+<p>In the event of a containment breach, personnel should deploy fire suppression measures immediately. Evacuation of all non-essential personnel from the immediate area should be implemented swiftly to minimize casualties.</p>
+<h2>Addendum 1: Incident Report</h2>
+<p>On ██/██/20██, SCP-25666 was involved in a containment breach, resulting in ██ casualties and significant structural damage to Site ██. The incident occurred after a standard psychological evaluation session, during which SCP-25666 became agitated due to Dr. ██'s perceived provocation.</p>
+<h2>Addendum 2: Interview</h2>
+<h3>Interviewee: SCP-25666</h3>
+<h3>Interviewer: Dr. ████</h3>
+<p>Interviewer: "Why do you cause destruction with your ability?"</p>
+<p>SCP-25666: "Why does the sun shine? It's in my nature, doctor."</p>
+<h2>Addendum 3: Experiment Log</h2>
+<p>On ██/██/20██, Experiment E-25666-6 was conducted to establish the limits of SCP-25666’s pyrokinetic ability. Results indicated a direct correlation between SCP-25666’s emotional state and the power of her generated fire. At peak emotional arousal, SCP-25666 was recorded generating flame temperatures in excess of 3000°C. Any further emotional arousal beyond this point caused SCP-25666 to black out due to mental overload.</p>
