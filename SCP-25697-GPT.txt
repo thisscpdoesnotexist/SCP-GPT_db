@@ -1,0 +1,42 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25697 is   a species of ambush predator that disguise themselves as cucumbers, and primarily eat housecats. This is why cats are startled by cucumbers. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25697</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25697 is a species of anomalous ambush predators that exhibit an extraordinary ability to mimic the physical appearance of cucumbers. At rest, individuals of SCP-25697 are nearly indistinguishable from non-anomalous cucumbers in size, shape, color, and texture. The species' primary diet consists of domesticated felines (Felis catus), which they attract and subsequently consume through a process that capitalizes on the feline's instinctual fear response to elongated, serpentine objects.</p>
+<p>Anatomical analysis reveals that SCP-25697 possesses a complex musculature beneath its cucumber-like exterior, which allows for rapid movement and the extension of sharp, prehensile tendrils used to ensnare prey. SCP-25697’s endoskeleton is composed of chitinous, segmented plates that provide it with flexibility and protection.</p>
+<p>The entities are hermaphroditic, capable of asexual reproduction under certain conditions. This reproductive method seems activated by the availability of a large population of housecats, which suggests potential for exponential growth if SCP-25697 is not properly contained. This feature, combined with their predatory nature and the effectiveness of their camouflage, has resulted in the classification of Keter.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25697 is to be contained within a secure Bio-Containment Unit (BCU) at Site-██. The BCU must be constructed with reinforced steel walls and equipped with environmental controls to mimic the natural habitat of non-anomalous cucumbers to discourage SCP-25697 from seeking escape in search of better conditions.</p>
+<p>Personnel are to inspect the BCU daily for signs of reproduction. Any additional instances of SCP-25697 are to be relocated to a separate containment unit immediates. No domesticated felines are to come within a 500-meter radius of containment to prevent encouragement of SCP-25697’s reproductive behaviors. Only D-class personnel are permitted to interact physically with SCP-25697 during testing, and they are to be thoroughly searched for contraband feline imagery and related paraphernalia before entering the BCU.</p>
+<p>Any vegetation resembling cucumbers within a 1 km radius of the containment site must be removed and checked for SCP-25697 instances to prevent accidental breeding and spread. In the event of a containment breach, the facility is to initiate lockdown, and a specialized retrieval team equipped with heat-vision goggles is to be dispatched immediately to recapture SCP-25697.</p>
+<h3>Addendum 1: Incident 25697-A</h3>
+<p>On ██/██/████, a containment breach occurred when one of the SCP-25697 specimens camouflaged as a cucumber hidden in a salad prepared for staff lunch. The incident resulted in the loss of three (3) personnel and the consumption of four (4) housecats from neighboring residential areas. Revised containment procedures have since been implemented, including the mandatory scanning of all plant matter entering the dining facility.</p>
+<h3>Addendum 2: Experiment Log 25697-E</h3>
+<h4>Experiment 25697-E-12</h4>
+<p><strong>Date:</strong> ██/██/████</p>
+<p><strong>Procedure:</strong> D-4539 was instructed to approach SCP-25697 while holding a domestic housecat. The behavior of SCP-25697 was observed from a distance using remote-controlled cameras.</p>
+<p><strong>Results:</strong> SCP-25697 remained motionless until D-4539 was within 3 meters. At this range, SCP-25697 rapidly extended tendrils and ensnared the cat, pulling it quickly toward its maw. Consumption took approximately ██ minutes. D-4539 was unharmed but reported significant psychological trauma following the experiment.</p>
+<p><strong>Notes:</strong> Testing proves SCP-25697's exceptional predatory tactics and confirms its preference for feline prey.</p>
+<h3>Addendum 3: Interview Log 25697-I</h3>
+<h4>Interview 25697-I-07</h4>
+<p><strong>Interviewer:</strong> Dr. ████</p>
+<p><strong>Interviewed:</strong> D-5671, a survivor of Incident 25697-A</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. ████:</strong> Please recount the events that occurred on the day of the incident.</p>
+<p><strong>D-5671:</strong> I was just sittin' there, eatin' my lunch, right? Next thing I know, there's screaming, and Jackson's on the floor with a damn jungle's worth of vines coming out of his mouth. It was that freakin' cucumber thing!</p>
+<p><strong>Dr. ████:</strong> Can you describe the creature's behavior during the attack?</p>
+<p><strong>D-5671:</strong> It was like nothin' I’ve ever seen. One moment it's a salad topping, the next it's a monster straight out of a horror movie. It moved fast. Too goddamn fast.</p>
+<p><strong>Dr. ████:</strong> Did you notice anything unusual before the incident occurred?</p>
+<p><strong>D-5671:</strong> Nah. Look, we all heard rumors about these things avoiding cameras, so at first, nobody thought to check the food. I guess that's gonna change, huh?</p>
+<p><strong>Dr. ████:</strong> Indeed. Your testimony will greatly assist in improving our containment protocols. Thank you for your cooperation.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Closing Statement:</strong> D-5671 was administered Class-C amnestics following the interview. Containment protocols have been updated to include precautionary measures against SCP-25697 infiltration via consumables.</p></div>
