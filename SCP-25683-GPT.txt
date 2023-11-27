@@ -1,0 +1,48 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25683 is  a somewhat malnourished humanoid sphinx cat who can only eat people who fail to solve her riddles… and unfortunately for her, she's really bad at making riddles. </h3> </center>
+    <p>```markdown</p>
+<h3>Item #:</h3>
+<p>SCP-25683</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25683 is a humanoid entity resembling that of a sphinx cat, characterized by considerable lack of body fat and hair. It possesses the basic structure of a human female with elongated limbs and pronounced cranial features reminiscent of its feline counterpart.</p>
+<p>The entity is sentient and capable of speech, often communicating through a series of riddles. SCP-25683's anomalous properties manifest when it presents a riddle to any individual within earshot. Subjects who fail to solve the riddle correctly within a given time frame of one hour are subjected to being devoured by SCP-25683. However, SCP-25683 has shown a significant inability to construct challenging riddles, which has led to a very low success rate in capturing its prey.</p>
+<p>Further complicating the situation is SCP-25683's unique dietary restriction. It exhibits a lack of sustenance from any food source other than humans who have failed its riddles. As a result of its poor riddle construction and subsequent low predation success, SCP-25683 is in a state of malnourishment.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25683 is to be contained in a standard humanoid containment cell at Site-███. The walls of the cell must be sound-proof to prevent SCP-25683's voice from reaching unintended subjects. Nutrition is provided through a regulated system wherein D-class personnel with comprehensive knowledge of its riddle patterns are periodically exposed to SCP-25683. These personnel are pre-instructed to intentionally fail at solving the riddles, ensuring the entity's sustenance; their sacrifice has been deemed necessary for the continued containment of SCP-25683.</p>
+<p>Staff interacting with SCP-25683 must be equipped with noise-cancelling headphones at all times, and any communication with the SCP must be conducted through written means or via two-way mirror observation. Personnel assigned to SCP-25683 must undergo a psychological evaluation weekly to ensure that they are not affected by the stress of the containment duties.</p>
+<h3>Addendum 1:</h3>
+<p>Interview Log SCP-25683-A</p>
+<p><strong>Interviewer:</strong> Dr. Sophia Ackland<br />
+<strong>Subject:</strong> SCP-25683<br />
+<strong><Begin Log></strong></p>
+<p>Dr. Ackland: "SCP-25683, can you tell us why your riddles are of a lower complexity than what would be expected?"</p>
+<p>SCP-25683: "I... I just wanted to play. It's not fun if nobody wins. I thought if I made them easy, someone would stay and be my friend."</p>
+<p>Dr. Ackland: "Do you understand that your method of feeding is harmful to others?"</p>
+<p>SCP-25683: "I do not wish harm. Only company. Solitude is my curse. Failing to solve riddles should not be theirs."</p>
+<p><strong><End Log></strong></p>
+<p>Dr. Ackland's notes: SCP-25683 exhibits signs of social deprivation and emotional distress. Might explore therapeutic communication strategies to manage its predatory behavior without coercion.</p>
+<h3>Addendum 2:</h3>
+<p>Experiment Log SCP-25683-B</p>
+<p><strong>Test A - Solving Complexity</strong>
+- SCP-25683 was presented with a selection of literature on riddle construction and problem-solving.
+- Outcome: SCP-25683 showed a moderate improvement in the complexity of its riddles. Subsequently, two D-class personnel failed to solve the riddles, leading to their consumption.</p>
+<p><strong>Test B - Behavioral Conditioning</strong>
+- SCP-25683 was trained to delay its consumption of subjects, increasing the riddle-solving timeframe incrementally.
+- Outcome: SCP-25683 was capable of delaying feeding for up to four hours. However, this test resulted in the entity experiencing higher levels of stress and aggressiveness.</p>
+<h3>Addendum 3:</h3>
+<p>Exploration Log SCP-25683-C</p>
+<p>An exploration mission was conducted on SCP-25683's place of origin. A labyrinthine structure located in [REDACTED], believed to be its previous dwelling, contained various inscriptions and wall art depicting riddle-contests and their lethal consequences.</p>
+<p><strong>Key findings:</strong>
+- Evidence suggests that SCP-25683 might be the last of a lineage or group of similar entities.
+- Inscriptions tell of a culture that revered such creatures, but due to [DATA EXPUNGED], SCP-25683 may have been left alone and isolated from any meaningful interaction.</p>
+<p><strong>Conclusion:</strong>
+Further study on the impact of social isolation on SCP-25683's behavior and anomaly is recommended. Containment procedures might need revision to prevent any unnecessary loss of D-class personnel while exploring humane alternatives for SCP-25683's nutritional needs.
+```</p></div>
