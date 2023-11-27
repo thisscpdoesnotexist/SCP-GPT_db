@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25680 is  a duck that smells really bad. And I mean REALLY bad. It smells worse than you can possibly imagine. If you think you or I can describe it in words, you're wrong. Not even the greatest poets of any generation can come close to describing the malodorous stench this duck emits. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25680</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25680 appears to be an ordinary male Mallard Duck (Anas platyrhynchos), with no distinguishing physical features to differentiate it from non-anomalous counterparts of its species. However, SCP-25680 emits an olfactory phenomenon that is considered anomalously potent and intensely disagreeable to an extent that it can't be accurately described or compared to any known substance or combination of odors recognized by human senses or technology.</p>
+<p>Attempts to quantify the stench using advanced olfactometers have resulted in irrevocable damage to the sensors and induced psychological trauma in the involved research personnel. Recorded descriptions from individuals exposed to SCP-25680's odor include "existential dread," "unending nausea," and "a smell so vile it feels like a physical presence clawing into the mind." The scent has been reported to persist in an area for several weeks following SCP-25680's removal and can permeate through most known chemical barriers.</p>
+<p>Prolonged exposure to SCP-25680's scent leads to severe psychological distress, permanent loss of the sense of smell (anosmia), and in extreme cases, death resulting from pulmonary shutdown. The mechanism by which SCP-25680 produces this odor is not currently understood.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25680 is to be contained in a 5m x 5m x 3m sealed enclosure, constructed with olfact-proof materials, at Site-[REDACTED]. The enclosure should be equipped with automated feeding and cleaning systems designed to minimize human interaction. Atmospheric scrubbers fitted with carbon-activated filters and specialized chemical agents must be employed to neutralize the stench within and immediately surrounding SCP-25680's containment.</p>
+<p>No personnel is permitted to enter SCP-25680's containment without Level 4 authorization. Entry is restricted to individuals wearing Hazmat suits equipped with their own air supply to prevent exposure to SCP-25680's odor. Furthermore, personnel who have come into contact with or in proximity of SCP-25680, even with protection, must undergo a mandatory 48-hour quarantine and psychological evaluation before returning to standard duties.</p>
+<p>In the event of a containment breach, Site-[REDACTED] is to initiate lockdown procedures, and a Code Foul protocol must be activated. A specialized retrieval team, trained in the use of enhanced olfact-proof Hazmat suits, will be dispatched to recontain SCP-25680.</p>
+<h3>Addendum 1:</h3>
+<p>Interview Log-25680-07</p>
+<p><strong>Interviewer:</strong> Dr. [REDACTED]</p>
+<p><strong>Subject:</strong> Agent [REDACTED], following exposure to SCP-25680</p>
+<p>[BEGIN LOG]</p>
+<p><strong>Dr. [REDACTED]:</strong> Please describe your initial impressions upon entering SCP-25680's containment.</p>
+<p><strong>Agent [REDACTED]:</strong> Doc, it's beyond words. You know the briefings, yeah, but nothing preps you for that... assault. It's like my brain just rejected reality for a second.</p>
+<p><strong>Dr. [REDACTED]:</strong> Can you compare the odor to any other smell you've experienced?</p>
+<p><strong>Agent [REDACTED]:</strong> No. That's the thing. It's not just a bad smell; it's a whole new kind of terrible. Imagine your worst memory, the most painful moment you've felt, then translate that into a smell. That's scratching the surface.</p>
+<p><strong>Dr. [REDACTED]:</strong> And your protective gear?</p>
+<p><strong>Agent [REDACTED]:</strong> Worked, I guess. But I still felt... tainted, even after decon. It sticks to you, in your mind. I can't shake it.</p>
+<p>[END LOG]</p>
+<h3>Addendum 2:</h3>
+<p>Experiment Log-25680-E12</p>
+<p><strong>Purpose:</strong> To evaluate the efficacy of various containment materials in blocking SCP-25680's odor.</p>
+<p><strong>Procedure:</strong> Samples of containment materials were exposed to SCP-25680 for a 24-hour period, then assessed using olfactometers and human subjects.</p>
+<p><strong>Results:</strong></p>
+<ul>
+<li>Standard Concrete: Odor penetrated within 2 hours.</li>
+<li>Steel Plating: Odor penetrated within 4 hours.</li>
+<li>Lead Lining: Reduced speed of odor penetration; fully penetrated within 12 hours.</li>
+<li>Olfact-Proof Polymer [DATA EXPUNGED]: Withstood the full 24-hour period; further testing required for long-term sustainability.</li>
+</ul>
+<p><strong>Conclusion:</strong> The Olfact-Proof Polymer exhibits promising results in odor containment, warranting additional research and development for potential application in SCP-25680's containment protocols.</p>
+<h3>Addendum 3:</h3>
+<p>Incident Report-25680-I9</p>
+<p>On [DATA EXPUNGED], a containment breach occurred when SCP-25680's odor penetrated the primary atmospheric scrubbers, resulting in the incapacitation of Site-[REDACTED]'s staff. Emergency response teams were slow to react due to the pervasive and debilitating effects of the odor.</p>
+<p>SCP-25680 was eventually recontained using remote-operated drones. Upgrades to containment procedures, including triple-redundant scrubber systems and the integration of Olfact-Proof Polymer, are currently in progress to prevent similar occurrences.</p>
+<p>Subsequent to this incident, research into SCP-25680's origins and potential neutralization methods have been intensified. Approval for cross-testing with other SCPs capable of altering or removing odors is pending review by the O5 Council.</p></div>
