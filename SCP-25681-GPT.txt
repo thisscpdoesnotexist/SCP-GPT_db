@@ -1,0 +1,39 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25681 is  Mac Donald, a character from the fighting game Fighter Guyz, who remains top tier despite countless nerfs and bug fixes. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25681</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25681 is an anomalous entity manifesting as a character named Mac Donald from the 2D fighting video game "Fighter Guyz." The character is visually represented as a middleweight boxer with exaggerated muscle mass and a distinctive red headband. SCP-25681's primary anomaly revolves around its consistent in-game performance and the inability to alter its competitive viability through conventional balancing methods such as patches, nerfs, or bug fixes.</p>
+<p>Computational analysis and expert testimonials confirm that changes made to the character's data within the game's source code, including reductions in attack power, speed, defensive capabilities, and other standard balancing adjustments, have no effect on SCP-25681's win rate, player pick rate, or tournament results. This persistence to remain the 'top tier' fighter, in spite of extensive efforts to balance the game's character roster, defies current understanding of game mechanics and software programming.</p>
+<p>Players who select SCP-25681 report a sense of increased confidence, improved reaction times, and often describe the gameplay as feeling "naturally intuitive" or "perfectly responsive." Additionally, instances of SCP-25681 executing maneuvers that should be impossible within the game's programmed move set have been recorded. These observations suggest SCP-25681 might possess a degree of sapience and awareness, actively participating in maintaining its top-tier status.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25681 is to be contained within a secure, air-gapped gaming console at Site-███. The console should be stored within a standard containment locker equipped with an electromagnetic shielding to prevent unauthorized wireless access. All testing must be approved by no fewer than two Level 3 personnel and should be conducted in a designated secure testing area equipped with appropriate surveillance to prevent visual memetic hazards or unauthorized knowledge transfer.</p>
+<p>Physical copies of "Fighter Guyz" featuring SCP-25681 are to be located and confiscated under the guise of a product recall, citing critical software issues. Digital distribution platforms must be monitored, and any instances of SCP-25681 downloaded online are to be remotely deleted by Foundation cyber operations teams under the cover of routine server maintenance or security updates.</p>
+<p>Interactions with SCP-25681 for experimental or entertainment purposes are strictly regulated and are to be documented thoroughly. D-Class personnel used for testing should be monitored for psychological changes or anomalous skill enhancement.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-25681 was discovered following an uptick in online forum complaints and widespread community discussions about the "unbeatable" nature of the character Mac Donald in competitive play. The Foundation's digital surveillance team flagged the discussions as potential anomalous activity and launched an investigation. Through collaboration with the game's developer, it was determined that attempts to rebalance SCP-25681 produced no change in its in-game performance.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewed:</strong> ████████, Head Game Designer for "Fighter Guyz"</p>
+<p><strong>Interviewer:</strong> Dr. Jonathan Kell</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. Kell:</strong> Can you explain what measures were taken to alter Mac Donald's performance in the game?</p>
+<p><strong>████████:</strong> Well, we did everything by the book. We adjusted hitboxes, startup frames, recovery times. Hell, we even slashed his damage output by half at one point.</p>
+<p><strong>Dr. Kell:</strong> And these changes had no effect?</p>
+<p><strong>████████:</strong> None whatsoever. It's like the code... has a will of its own. No matter what we did, the damn character stays on top.</p>
+<p><strong>Dr. Kell:</strong> Have there been any peculiar occurrences during playtesting?</p>
+<p><strong>████████:</strong> You could say that. There was one incident when Mac pulled off a combo that... well, it wasn't programmed. It was like he was improvising, fighting back against the player.</p>
+<p><strong>Dr. Kell:</strong> Thank you for your cooperation. We'll take it from here.</p>
+<p><strong><End Log></strong></p>
+<h3>Addendum 3: Experiment Log</h3>
+<p><strong>Experiment #:</strong> 25681-E-12</p>
+<p><strong>Procedure:</strong> D-8432 was instructed to engage in a series of matches against SCP-25681, controlled by a highly skilled player. The test aimed to observe SCP-25681's gameplay against experienced opposition.</p>
+<p><strong>Results:</strong> SCP-25681 displayed advanced tactical maneuvers not present in the game's mechanics. In the final match, D-8432 attempted to execute a known game exploit, which SCP-25681 countered with an undocumented defensive technique, resulting in immediate victory.</p>
+<p><strong>Notes:</strong> SCP-25681's responses are not programmatically explicable and hint at an adaptive intelligence. Further study is required to understand the full breadth of this entity's capabilities and potential uses or threats.</p></div>
