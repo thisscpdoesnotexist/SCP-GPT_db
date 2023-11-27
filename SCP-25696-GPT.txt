@@ -1,0 +1,48 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25696 is  a species of ambush predator that disguise themselves as cucumbers, and primarily eat housecats </h3> </center>
+    <h1>SCP-25696</h1>
+<h3>Item #:</h3>
+<p>SCP-25696</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25696 is a species of ambush predator with a high degree of morphological and behavioral mimicry, allowing them to effectively disguise themselves as common cucumbers (Cucumis sativus). Adult specimens typically measure between 20 to 25 cm in length, which is consistent with the size of a large cucumber.</p>
+<p>However, SCP-25696 differs significantly in its biological makeup, possessing a complex musculoskeletal structure beneath its cucumber-like exterior that allows for rapid movement and striking at prey. Its unique dermal layer is capable of photosynthesis, providing sustenance and assisting in maintaining its camouflaged appearance when stationary. This organism appears to be highly specialized for hunting domestic cats (Felis catus), utilizing a combination of olfactory lures and ultrasonic vocalizations to attract its prey.</p>
+<p>When a potential prey item is within striking distance (approximately 1 meter), SCP-25696 will lunge with remarkable speed, deploying previously unseen fangs and gripping tendrils to immobilize and consume the target. The consumption process can be completed in under three minutes, with SCP-25696 reverting to its cucumber-like state shortly thereafter to digest and avoid detection.</p>
+<p>SCP-25696’s presence is most commonly identified by a sudden decline in local housecat populations and reports of 'living' vegetables. The species appears to be capable of rapid asexual reproduction, though the exact mechanism is not fully understood. Specimens of SCP-25696 have been encountered in multiple urban and suburban locations worldwide.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25696 specimens are to be contained within a bio-secure enclosure at Site-██, designed to mimic a standard suburban garden, ensuring the prevention of escape and unauthorized access. The enclosure must be surveilled at all times, with motion sensors installed to detect any unusual activity.</p>
+<p>Due to their predatory nature and the risk of rapid population increase, a controlled population of D-class personnel genetically modified to secrete feline pheromones are to be used to lure SCP-25696 specimens for containment or study. Following encounters with SCP-25696, D-class personnel must undergo strict decontamination to prevent potential cross-species contamination or propagation.</p>
+<p>Under no circumstances are housecats to be brought within 5 kilometers of SCP-25696 containment areas to prevent unnecessary loss of animal life and a potential breach. Any SCP-25696 specimen found outside of containment is to be apprehended or neutralized by Mobile Task Force Eta-10 ("See No Evil") who are specially trained and equipped to handle and transport SCP-25696.</p>
+<h3>Addendum 1: Incident Log</h3>
+<p>-On ██/██/████, SCP-25696 specimen was first discovered in [REDACTED], USA, after a local newspaper reported an 'Attack of the Killer Vegetables', which led to the Foundation intervening to administer amnestics and secure the specimen.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li>Date: ██/██/████</li>
+<li>Subject: SCP-25696-03</li>
+<li>Procedure: SCP-25696-03 was exposed to a controlled group of housecats to observe hunting behavior and mimicry effectiveness.</li>
+<li>Results: SCP-25696-03 remained indistinguishable from surrounding cucumbers for 2 hours, 47 minutes before lunging at a 2-year-old male housecat. The attack was successful, and SCP-25696-03 reverted to camouflage within three minutes post-consumption.</li>
+<li>Notes: SCP-25696’s mimicry is near flawless. Its patience and strike speed suggest a highly evolved predator.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<ul>
+<li>Interviewed: Dr. ██████</li>
+<li>Interviewer: Agent ████</li>
+<li>Date: ██/██/████</li>
+<li>Subject: SCP-25696 Capture and Containment Procedures</li>
+</ul>
+<p>[Begin Log]</p>
+<p>Agent ████: Dr. ██████, based on your observations, is SCP-25696 showing signs of increased intelligence or adaptability?</p>
+<p>Dr. ██████: Indeed, we've witnessed problem-solving behaviors and adaptability to different environments. They learn from encounters and adjust their hunting accordingly.</p>
+<p>Agent ████: How would you suggest we improve containment protocols?</p>
+<p>Dr. ██████: We might consider a rotating array of environments in the containment area to disrupt any pattern recognition. Additionally, introducing non-living replicas of housecats laced with pheromones might help manage the population.</p>
+<p>Agent ████: Given the risk, do you believe SCP-25696 has the potential to spread beyond control?</p>
+<p>Dr. ██████: If it weren’t for our intervention, yes. This species is particularly insidious due to its innocuous appearance and targeting of a common pet. We need to stay vigilant.</p>
+<p>Agent ████: Thank you, Doctor. We'll process your recommendations immediately.</p>
+<p>[End Log]</p></div>
