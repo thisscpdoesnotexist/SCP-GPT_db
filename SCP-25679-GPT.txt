@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25679 is  Markiplier being chased by ferocious penguins </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25679</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25679 refers to an anomalously persistent event where the individual known as Mark Fischbach, more commonly referred to by his online alias "Markiplier," is pursued by a group of entities resembling ferocious penguins (designated SCP-25679-A). This phenomenon occurs regardless of Markiplier's location, time, or measures taken to prevent it.</p>
+<p>SCP-25679-A exhibits unusual intelligence, spatial-temporal capabilities, and demonstrates a singular focus on chasing Markiplier. They are physically similar to the species <em>Aptenodytes forsteri</em> (Emperor Penguin), but with several distinctions. These entities have an average height of 1 meter, sharp, serrated beaks, and their flippers show elongated claws. SCP-25679-A's skin is exceptionally tough, exhibiting resistance to most small firearms.</p>
+<p>Neither Markiplier nor SCP-25679-A can be harmed during these pursuits, as any injury sustained by either party immediately restores to its pre-injured state. Once the chase ends, typically after one hour, SCP-25679-A disappear from immediate vicinity and Markiplier has no memory of the event.</p>
+<p>SCP-25679 occurs once every 72 hours at random locations and has proven a substantial challenge to containment due to the unpredictable nature of the spatial-temporal anomalies associated with SCP-25679-A's appearances.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the unpredictable and spontaneous occurrences of SCP-25679, permanent containment has proven to be elusive. The following procedures are currently in effect:</p>
+<ol>
+<li>Markiplier is to be kept under constant surveillance by Mobile Task Force Delta-5 ("Front Runners") to intervene during SCP-25679 manifestations.</li>
+<li>A regimen of amnestics has regularly administered to Markiplier to avoid psychological distress from partial memories of SCP-25679 events.</li>
+<li>When an SCP-25679 event occurs, MTF Delta-5 is to evacuate bystanders, establish a perimeter, and attempt to minimize public exposure.</li>
+<li>Research into potential methods to control or suppress SCP-25679-A's spatial-temporal abilities remains ongoing.</li>
+</ol>
+<h3>Addendum 1:</h3>
+<p>In light of Incident 25679-03, where SCP-25679-A breached containment for an extended period, allowing public exposure on multiple social media platforms, Class-A amnestics were deployed on a large scale, and a cover-up was disseminated attributing this event to an elaborate viral marketing stunt.</p>
+<h3>Addendum 2:</h3>
+<p>[Interview Log 25679-01]</p>
+<p><strong>Interviewer:</strong> Dr. Hauser</p>
+<p><strong>Subject:</strong> Mark Fischbach (Markiplier)</p>
+<p><strong><Begin Log></strong></p>
+<p><em>Dr. Hauser:</em> Good afternoon, Mark. How are you feeling today?</p>
+<p><em>Markiplier:</em> Confused, mostly. Like I've had the weirdest dreams, but I can't put my finger on it.</p>
+<p><em>Dr. Hauser:</em> That is a common side effect of amnestic treatment. Mark, what can you tell me about the penguins?</p>
+<p><em>Markiplier:</em> Penguins? Uh, they're birds? They can't fly, live in cold places, but that's common knowledge. Wait...did you say penguins? Why does that sound familiar?</p>
+<p><em>Dr. Hauser:</em> It's okay, Mark. We'll get to that in time. How about we go over your latest experiences? Any unusual occurrences in the past week?</p>
+<p><em>Markiplier:</em> Unusual? Apart from waking up in places I don't remember going to? Can't say that's my idea of usual, Doc. Love the attention from the Foundation though, makes a guy feel special.</p>
+<p><em>Dr. Hauser:</em> You are crucial to our understanding of SCP-25679, Mark. Have you noticed any peculiarities with animals or felt an unusual urgency to be somewhere?</p>
+<p><em>Markiplier:</em> Now you mention it... I've had this recurring sense of being chased, but I thought it was just stress. The life of a content creator, am I right?</p>
+<p><em>Dr. Hauser:</em> Indeed. Your input is extremely valuable, Mark. Thank you for your time. We'll continue our sessions tomorrow.</p>
+<p><em>Markiplier:</em> Sure thing, Doc. Just, uh, keep those birds away from me?</p>
+<p><strong><End Log></strong></p>
+<h3>Addendum 3:</h3>
+<p>[Experiment Log 25679-07]</p>
+<p><strong>Date:</strong> [REDACTED]</p>
+<p><strong>Procedure:</strong> Testing spatial-temporal disruption devices to prevent SCP-25679-A manifestation.</p>
+<p><strong>Result:</strong> The devices were unable to significantly delay or prevent the appearance of SCP-25679-A entities. Adjustments to the technology are required before further testing. SCP-25679-A appeared agitated by these attempts but were otherwise unaffected.</p>
+<p><strong>Notes:</strong> It appears that SCP-25679-A's entry cannot be barred with our current level of technology. Their ability to adapt to containment efforts suggests a learning capability that we'll need to outpace if we are to have any hope of successful long-term containment. Further experimentation with alternative containment strategies is authorized.</p></div>
