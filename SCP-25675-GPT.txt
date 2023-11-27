@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25675 is  a vehicle made out of swiss cheese </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25675</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25675 is an anomalous vehicle resembling a full-scale conventional passenger car, with the exception that it is composed entirely of Swiss cheese (Emmentaler). All typical components of a car, including the chassis, body panels, seats, and engine, are made of this cheese; however, it retains the standard appearance and coloration of a standard automobile unless closely inspected or touched.</p>
+<p>SCP-25675 is animate and exhibits behavior suggesting some level of sentience. Its movements are consistent with that of a normal vehicle when driven, including acceleration, turning, and braking, despite lacking any visible means of propulsion or control. SCP-25675's internal temperature is a consistent 13°C (55°F), which is anomalously maintained regardless of ambient conditions. This temperature is ideal for preserving its cheese composition.</p>
+<p>The object is capable of regenerating any damage sustained almost instantaneously, including tire wear and damage to its body that would normally be catastrophic for a standard vehicle. It has been observed to consume other vehicles through an unknown mechanism, incorporating them into its mass, hence the Keter classification due to its potential for uncontrolled growth and damage to infrastructure.</p>
+<p>Additionally, SCP-25675 emits a constant faint music that is analogous to traditional Swiss yodeling. This auditory phenomenon affects individuals within a radius of approximately 30 meters, inducing cravings for dairy products and causing an overwhelming desire to operate the vehicle.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25675 is to be contained within a specialized garage enclosure at Site-██, with the interior temperature maintained at -10°C to inhibit its activity without causing extensive damage to its structure. Custodial staff are to routinely clear any condensation and ensure that the enclosure remains sealed. SCP-25675 is to be immobilized using hydraulic clamping devices that are checked and maintained daily.</p>
+<p>Personnel entering SCP-25675's containment enclosure must wear industrial-grade noise-canceling headphones to prevent exposure to SCP-25675's auditory effects and should be screened for lactose intolerance or dairy allergies.</p>
+<p>Any attempts by SCP-25675 to consume vehicles or other large objects are to be immediately reported and intervened by containment specialists equipped with cryogenic weapons to temporarily reduce its activity. In the case of a containment breach, a specialized Mobile Task Force (MTF) is to be dispatched to recontain SCP-25675 using the aforementioned protocols.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Interview Log-25675-7</strong></p>
+<p><em>Interviewer:</em> Dr. Bianchi<br />
+<em>Subject:</em> SCP-25675 - Post-Incident Interview following its consumption of a maintenance golf cart.</p>
+<p>[EXCERPT FROM TRANSCRIPT]</p>
+<p><strong>Dr. Bianchi:</strong> Can you describe what prompted you to approach SCP-25675?</p>
+<p><strong>Maintenance Worker:</strong> I just...I heard the singing, ya know? Something about it was so soothing, so...homely. I figured, "Just a quick look, it can't hurt." Then I'm not sure what happened, things got fuzzy.</p>
+<p><strong>Dr. Bianchi:</strong> Did you touch the vehicle?</p>
+<p><strong>Maintenance Worker:</strong> Yeah, yeah, I did. Felt like cheese, real cheese. Smelled nice too. But then it...it opened up? Like it was inviting me in. That's when the alarm started blaring.</p>
+<p><strong>Dr. Bianchi:</strong> And the golf cart?</p>
+<p><strong>Maintenance Worker:</strong> Oh, yeah. It sort of...melted into it? I've never seen anything like it. One minute it was there, the next—engulfed.</p>
+<p><strong>Dr. Bianchi:</strong> Thank you. Your testimony will help refine SCP-25675's containment procedures. Please report to medical for examination and amnestics.</p>
+<h3>Addendum 2:</h3>
+<p><strong>Experiment Log-25675-12</strong></p>
+<p><em>Objective:</em> To determine the extent of SCP-25675's autonomy and regeneration capabilities.</p>
+<ul>
+<li><strong>Test A:</strong> A small square of SCP-25675's "door" was removed. SCP-25675 regenerated the missing section within 3.2 seconds.</li>
+<li><strong>Test B:</strong> SCP-25675's "tyres" were damaged using an industrial laser. The tires regenerated within 4.8 seconds. It should be noted that the tires exhibit typical tread patterns despite being composed of cheese.</li>
+<li><strong>Test C:</strong> The entire vehicle was subjected to freezing temperatures for an extended period. SCP-25675's activity significantly decreased, but no permanent damage was observed. Upon returning to normal temperature, SCP-25675 resumed standard operation within 12 minutes.</li>
+</ul>
+<p><em>Conclusion:</em> SCP-25675 exhibits near-instantaneous regeneration abilities, making conventional damage ineffective as a containment measure. Sustained exposure to below-freezing temperatures renders it inert and is the preferred method of containment.</p>
+<h3>Addendum 3:</h3>
+<p><strong>Containment Breach Report - 25675-9</strong></p>
+<p>On [REDACTED], SCP-25675 breached containment by absorbing the vehicular clamps meant to immobilize it. It proceeded to exit its containment facility, resulting in a partial lockdown of Site-██. SCP-25675 was observed attempting to integrate nearby transport vehicles into its mass.</p>
+<p>MTF [REDACTED] was dispatched, armed with cryogenic weaponry and successfully recontained SCP-25675 after a 2-hour pursuit. Upgrades to containment procedures, including the installation of newer, more advanced cryogenic clamps and surveillance devices capable of detecting early signs of absorption, have been authorized and implemented.</p>
+<p>All personnel directly affected by the breach have been administered Class-B amnestics, and a disinformation campaign was launched to cover up any public sighting with a fallback story of a promotional stunt by a local cheese manufacturer.</p></div>
