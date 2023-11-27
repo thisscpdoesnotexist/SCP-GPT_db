@@ -1,0 +1,36 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+
+    <center> <h3> SCP-{scp_num} is {scp_prompt} </h3> </center>
+    <h2>Item #:</h2>
+<p>SCP-25667</p>
+<h2>Object Class:</h2>
+<p>Safe</p>
+<h2>Description:</h2>
+<p>SCP-25667 appears to be a machine of indeterminate origin, exhibiting highly advanced technology. The design of the machine heavily resembles an industrial 3D printer, with several additional modules and interfaces. SCP-25667 is capable of "creating" any known SCP object when provided with detailed data entry of the desired SCP. The created objects display all properties and behaviors identical to their original counterparts, though they cease to exist upon shutdown of SCP-25667. </p>
+<p>Recently, an update to the machine's software was observed which has dramatically increased its computational capacity, operational efficiency, and user-friendly interface. Despite its newfound capabilities, the machine oddly requires significantly lesser energy to operate, with a drastic cut down on the operational costs being reported. </p>
+<h2>Special Containment Procedures:</h2>
+<p>SCP-25667 is stored in a standard, high-value item vault within Site-19. No specific environmental conditions are required for its storage, beyond standard security protocols for valuable SCP items. Access to SCP-25667 requires Level 4 security clearance or higher. </p>
+<p>The machine should remain off when not in use for approved experiments or object copies. Any unauthorized activation should be reported to Site Management and dealt with as a potential containment breach. </p>
+<h2>Addendum 1:</h2>
+<p>Post software-update, SCP-25667 displayed an unexpected behavior. An encoded message appeared on the user interface, which when decoded, appeared to be instructions for operating the machine. Further examination of the machine’s coding showed a higher-level programming language in regular use by the Foundation, indicating possible adaptation or learning.</p>
+<h2>Addendum 2:</h2>
+<p>Experiment Log for SCP-25667</p>
+<ol>
+<li>
+<p>SCP-173 Test:  Upon input of SCP-173's data, the machine recreated SCP-173 accurately. However, the entity ceased to exist once the machine was shut down. </p>
+</li>
+<li>
+<p>Random Object Test: A nondescript chair was scanned into the system. The machine successfully recreated an identical chair, further offering insight into the machine's capabilities to recreate non-anomalous objects. </p>
+</li>
+<li>
+<p>Machine Stress Test: Continuous creation of objects was initiated to gauge the machine's thermal and mechanical limits. Surprisingly, the machine did not demonstrate any signs of stress or overheating, even after nonstop operation for 24 hours.</p>
+</li>
+</ol>
+<h2>Addendum 3:</h2>
+<p>Interview with Dr. █████ who oversaw the machine’s updates</p>
+<p><strong>Dr. █████</strong>: The update to SCP-25667 rendered it... more intelligent. We are not entirely sure how or even why. We perceived it as a machine, a tool, but post-update, it feels more like working with an AI. It's efficient, quick and to our surprise, far too economical, unlike what we expected from an upgrade like this. It has positively disrupted our operations and research processes related to SCP's. However, it is very critical to strictly abide by the set protocols to prevent any dreadful circumstances.</p></div>
