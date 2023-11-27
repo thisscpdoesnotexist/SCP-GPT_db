@@ -1,0 +1,42 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25694 is  a species of humanoid ambulatory fungus that superficially resemble clowns. </h3> </center>
+    <h1>SCP-25694</h1>
+<h3>Item #:</h3>
+<p>SCP-25694</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25694 is a species of humanoid, ambulatory fungus with external characteristics that closely resemble stereotypical circus clowns. Members of SCP-25694 are bipedal and range from 1.5 to 2.1 meters in height. Their skin is composed of a chitinous material, primarily white with patches of vibrant red, blue, and green, mimicking common clown makeup.</p>
+<p>The entities possess a level of sapience and demonstrate behaviors consistent with predatory stalking, ambush predation, and complex group tactics, suggesting a form of collective intelligence or hive mind capability. They have displayed resistance to a variety of physical harm, including ballistic and incendiary damage, although complete immolation has proven effective for destruction.</p>
+<p>SCP-25694 instances are capable of expelling spores, which are a primary method of reproduction. These spores can infect living human hosts, resulting in a rapid and fatal mycosis that consumes the host from within and eventually gives rise to a new instance of SCP-25694. The spores can remain dormant for extended periods, making detection and quarantine methods challenging.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-25694's reproduction mechanism, containment efforts focus on both the isolation of existing instances and rigorous prevention of spore dispersal. SCP-25694 instances are to be contained within specially designed Bio-Containment Chambers (BCC) at Site-██. BCCs are to be maintained at negative pressure with HEPA and ULPA filtration systems actively preventing spore escape.</p>
+<p>Exposure to SCP-25694 spores is to be prevented via the use of Hazmat suits equipped with self-contained breathing apparatus (SCBA) for all personnel interacting with or studying the instances. Should an outbreak occur, Protocol Clownfall is to be enacted which includes immediate quarantine, trace and destruction of spores, and execution of infected individuals following confirmation of irreversible mycotic infection.</p>
+<h3>Addendum 1 - Incident Log 25694-A:</h3>
+<p>On ██/██/20██, a breach at Site-██ resulted in multiple civilian casualties and the escape of three SCP-25694 instances. Recovery operations proved partially successful with the recontainment of two instances, but one remains at large. Civilian memories were altered using amnestics, with the event being covered up as a "chemical spill".</p>
+<h3>Addendum 2 - Experiment Log 25694-E43:</h3>
+<p>| Subject: D-10432
+| Procedure: Subject was exposed to SCP-25694 spores under controlled conditions.
+| Results: Subject exhibited initial symptoms of infection within 2 hours, followed by aggressive mycotic overgrowth. Subject expired after 12 hours. Full SCP-25694 gestation was observed at 36 hours post-mortem.
+| Notes: Experiment confirmed that the reproductive cycle of SCP-25694 is extremely fast and invariably fatal. All remains were incinerated.</p>
+<h3>Addendum 3 - Interview Log 25694-INT1:</h3>
+<p><strong>Interviewer:</strong> Dr. ██████
+<strong>Subject:</strong> SCP-25694-07 (Contained Instance)
+<strong>Foreword:</strong> First successful communication attempt with an SCP-25694 instance using a synthesized pheromonal language.</p>
+<p><Begin Log></p>
+<p><strong>Dr. ██████:</strong> SCP-25694-07, can you understand us?</p>
+<p><strong>SCP-25694-07:</strong> [Responds with a series of gill flutterings, interpreted as 'yes'.]</p>
+<p><strong>Dr. ██████:</strong> What is your purpose?</p>
+<p><strong>SCP-25694-07:</strong> [Communication suggests 'spread', 'grow', and 'multiply'.]</p>
+<p><strong>Dr. ██████:</strong> Are you aware of the harm you cause to humans?</p>
+<p><strong>SCP-25694-07:</strong> [Expressions of indifference, concepts of 'prey' and 'dominance' communicated.]</p>
+<p><strong>Dr. ██████:</strong> Is there a way to coexist without harming one another?</p>
+<p><strong>SCP-25694-07:</strong> [Response includes 'no', 'growth imperative', and 'consumption'.]</p>
+<p><End Log></p>
+<p><strong>Closing Statement:</strong> SCP-25694-07 provided no indication of a possible peaceful resolution. The entity regards humans merely as a resource for reproduction. Further research into effective containment and neutralization is imperative.</p></div>
