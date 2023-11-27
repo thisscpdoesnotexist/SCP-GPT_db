@@ -1,0 +1,63 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25689 is  The goddess of hot dogs </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25689</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25689 is an anomalous entity self-identifying as the "Goddess of Hot Dogs," which displays physical characteristics concurrent with a humanoid female adorned in various elements consistent with traditional hot dog condiments and paraphernalia. The entity's attire includes, but is not limited to, garments resembling ketchup and mustard bottles, a headpiece fashioned after a hot dog bun, and jewelry shaped like small frankfurters and pickles.</p>
+<p>The entity is capable of anomalous production and manipulation of cooked sausages and related foodstuffs, which are hereafter collectively referred to as SCP-25689-1. Instances of SCP-25689-1 exhibit unconventional properties, such as inducing extreme gustatory euphoria, temporary alteration of consumer's taste preferences, and in rare cases, an obsessive compulsion to worship SCP-25689.</p>
+<p>SCP-25689 demonstrates both benevolence and hostility, often influenced by the consumer's expressed fondness for hot dogs. Individuals questioning the supremacy of hot dogs in the presence of SCP-25689 have experienced sudden and severe allergic reactions to all processed meat products, occasionally resulting in anaphylactic shock.</p>
+<p>Reports of SCP-25689 first surfaced after a series of unexplained mass gatherings in public parks, where attendees participated in ritualistic consumption of hot dogs. The gatherings often culminated in collective chants venerating SCP-25689, which, albeit innocuous at the outset, would escalate into fervent demonstrations capable of disrupting civil order.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-25689's unpredictable nature and formidable persuasive abilities, Foundation personnel are to engage in indirect surveillance to monitor potential gatherings associated with the entity. The containment strategy revolves around disinformation campaigns, media control, and the deployment of Foundation agents to disperse crowds and administer Class-C amnestics when necessary.</p>
+<p>A task force designated as "Grillmasters" has been established, equipped with culinary training to prepare SCP-25689-1 instances should direct interaction with SCP-25689 be required. This task force serves a dual purpose of potentially appeasing the entity and investigating the psychoactive properties of SCP-25689-1.</p>
+<p>In the event of SCP-25689's manifestation, a mobile containment unit consisting of a specialized kitchen and dining area, disguised as a gourmet hot dog food truck, shall be deployed to the location. The primary goal remains to negotiate with SCP-25689 and guide her back to voluntary confinement, using the crafted hot dogs as a peace offering.</p>
+<h3>Addendum 1:</h3>
+<p>An excerpt from the initial recovery log:</p>
+<blockquote>
+<p>On June 12, 20██, SCP-25689 was first identified during "The Great Hot Dog Hootenanny" in [REDACTED] Park, where over ██ individuals had gathered. Agents reported the entity's appearance coincided with spikes in euphoria levels among the crowd and several localized weather anomalies, most notably a "mustard mist." The entity was approached by "Grillmasters" and provisionally contained without incident after being presented with a customized hot dog fitting her standards.</p>
+</blockquote>
+<h3>Addendum 2:</h3>
+<p>Interview Log 25689-B1:</p>
+<blockquote>
+<p><strong>Interviewer:</strong> Dr. ██████</p>
+<p><strong>Interviewed:</strong> SCP-25689</p>
+<p><strong>Foreword:</strong> The following interview was conducted to gather information regarding SCP-25689's origin and motivations.</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. ██████:</strong> Good afternoon. Can you tell us about yourself?</p>
+<p><strong>SCP-25689:</strong> I am the all-powerful, almighty guardian of the sacred frankfurter! The empress of encased meats and divine purveyor of the holy hot dog!</p>
+<p><strong>Dr. ██████:</strong> I see. And where do you originate from?</p>
+<p><strong>SCP-25689:</strong> From the ethereal grills of Valhalla, where the flames kiss the heavens and the sausages achieve perfection!</p>
+<p><strong>Dr. ██████:</strong> How do you relate to the people worshipping you?</p>
+<p><strong>SCP-25689:</strong> My children recognize the divine relish of our communion, the sacrificial mustard seed, and the sacramental bun. They shall sing the anthem of appreciation or face the wrath of blandness!</p>
+<p><strong>Dr. ██████:</strong> What can you tell us about the hot dogs you create?</p>
+<p><strong>SCP-25689:</strong> Each creation is anointed with love, a piece of my essence that burns with the brilliance of a thousand barbecues. You too shall understand once you partake in their majesty.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Closing Statement:</strong> SCP-25689 proved difficult to glean concrete information from, primarily communicating through metaphor. Further interviews will attempt to discern its capabilities through indirect inquiries.</p>
+</blockquote>
+<h3>Addendum 3:</h3>
+<p>Experiment Log 25689-C1:</p>
+<blockquote>
+<p><strong>Experiment:</strong> The purpose was to assess the psychoactive effects of SCP-25689-1 on D-Class personnel.</p>
+<p><strong>Method:</strong> Three D-Class personnel were each provided with an instance of SCP-25689-1. Observations were documented following ingestion.</p>
+<p><strong>Results:</strong></p>
+<ul>
+<li>
+<p>D-21783 reported an overwhelming sensation of joy and immediately began singing praises to SCP-25689. Subject later attempted to convert other D-Class personnel.</p>
+</li>
+<li>
+<p>D-9142 experienced heightened senses and could accurately identify all ingredients in SCP-25689-1 by taste alone. Subject was found to have developed a temporary enhanced palate.</p>
+</li>
+<li>
+<p>D-4567 entered a trance-like state, believing they were attending a heavenly cookout hosted by SCP-25689. After effects subsided, subject retained vivid memories of the experience.</p>
+</li>
+</ul>
+<p><strong>Conclusion:</strong> SCP-25689-1 instances possess strong psychoactive properties that heavily affect consumer behavior. The potential for widespread psychological influence poses a significant threat that justifies SCP-25689's Keter classification. Further research is necessary to understand the full extent of SCP-25689-1's effects and to develop containment protocols that mitigate the risk of mass incidents.</p>
+</blockquote></div>
