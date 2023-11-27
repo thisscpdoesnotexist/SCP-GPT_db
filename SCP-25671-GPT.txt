@@ -1,0 +1,45 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25671 is  Mothman, who is willing to cooperate with the foundation in exchange for a lamp collection and wool sweaters to eat. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25671</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25671 refers to an entity that closely resembles descriptions of the cryptid known as 'Mothman' originating from Point Pleasant, West Virginia folklore in the 1960s. SCP-25671 is humanoid in appearance, standing approximately 2.3 meters tall, with a wingspan of about 4 meters. The entity is covered in a layer of dark, moth-like fur, and possesses luminescent red eyes. Despite its imposing stature and the historically ominous associations with the Mothman phenomenon, SCP-25671 has displayed a preference for non-violent interactions and cooperation.</p>
+<p>SCP-25671 exhibits several anomalous properties, including the ability to fly at speeds exceeding 80 km/h, emit a disorienting ultrasonic screech, and a unique affinity for (and apparent sustenance derived from) both artificial light sources and woolen materials. Interviews with SCP-25671 have revealed a sapient, sentient being capable of a complex level of communication via a combination of telepathy and moth-like sounds.</p>
+<p>The entity has expressed a fondness for artificial light sources, particularly incandescent lamps, and has requested these items in large quantities. Additionally, SCP-25671 has negotiated the provision of wool sweaters as a food source, which it consumes through an unknown biological mechanism.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25671 is to be contained in a 10m x 10m x 6m reinforced containment chamber at Site-██ where temperature and humidity are to be kept at levels comfortable for the entity as per its cooperative agreement with the Foundation. The chamber is designed to simulate a nocturnal environment and has been equipped with multiple high-intensity lamps, systematically arranged to cater to SCP-25671's attraction to light.</p>
+<p>On a bi-weekly basis, SCP-25671 is to be provided with five (5) woolen sweaters of varying colors and patterns as part of its agreed sustenance. Sweaters provided are to have been previously unworn to prevent potential contamination risks or adverse reactions in SCP-25671.</p>
+<p>Personnel interactions with SCP-25671 for purposes of study or interviews are allowed but must be conducted with at least two (2) security team members present. The subject’s cooperative nature should not preclude standard safety precautions.</p>
+<h3>Addendum 1:</h3>
+<h4>Interview Log SCP-25671-A</h4>
+<p><strong>Interviewer:</strong> Dr. Eleanor Richter<br />
+<strong>Subject:</strong> SCP-25671<br />
+<strong>Date:</strong> ██/██/████</p>
+<p>[BEGIN LOG]</p>
+<p><strong>Dr. Richter:</strong> Good evening, SCP-25671. Are you comfortable to begin?</p>
+<p><strong>SCP-25671:</strong> (Telepathically) Yes, Dr. Richter. The lamps are pleasant tonight.</p>
+<p><strong>Dr. Richter:</strong> Excellent. I'd like to start by asking about your origins. Can you tell us where you come from?</p>
+<p><strong>SCP-25671:</strong> My origin... It is a place of shadow and flame. Not like the shadows here. Deeper. The lights there do not comfort. They burn.</p>
+<p><strong>Dr. Richter:</strong> Are you referring to another dimension or plane of existence?</p>
+<p><strong>SCP-25671:</strong> (Nods) I am not of this realm. My coming here was an accident, a tear I slipped through. I cannot return. Not alone.</p>
+<p><strong>Dr. Richter:</strong> Interesting. Do you wish to go back?</p>
+<p><strong>SCP-25671:</strong> (Pauses) The lights here... they soothe. Your lanterns. Your cardigans. I find small happiness.</p>
+<p><strong>Dr. Richter:</strong> And your diet of wool sweaters, is this a preference from your realm or an adaptation?</p>
+<p><strong>SCP-25671:</strong> It is comfort. In soft threads, I find sustenance like the warmth of a safe light.</p>
+<p>[END LOG]</p>
+<h3>Addendum 2:</h3>
+<h4>Experiment Log SCP-25671-B</h4>
+<p>Objective: To determine the capacity and effects of SCP-25671's ultrasonic screech.</p>
+<p>Procedure: SCP-25671 was provided with various materials to determine the screech's impact. These materials included bulletproof glass, steel plates, concrete blocks, and sound detection equipment.</p>
+<p>Results: SCP-25671's screech was powerful enough to cause minor structural damage to concrete blocks and left detectable impressions on the steel plates. The bulletproof glass remained structurally intact but exhibited vibrational stress. The sound equipment successfully recorded the ultrasonic screech but was partially damaged in the process.</p>
+<h3>Addendum 3:</h3>
+<h4>Detailed Incident Report SCP-25671-C</h4>
+<p>On ██/██/████, during a routine provision of woolen sweaters, SCP-25671 became agitated when one of the sweaters contained a synthetic blend. It communicated distress telepathically, causing minor headaches in staff within a 15-meter radius. Future provisions were strictly monitored for 100% wool content, ensuring no further incidents occured. SCP-25671 apologized for the inconvenience and agreed to signal any future discomfort without resorting to ultrasonic vocalizations.</p></div>
