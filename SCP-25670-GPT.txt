@@ -1,0 +1,36 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25670 is  a phenomenon where the concepts of physical attraction and gravitational attraction are swapped. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25670</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25670 is an anomalous phenomenon where the concepts of physical attraction (commonly known as aesthetic or sexual attraction between organisms) and gravitational attraction (the force by which a planet or other body draws objects toward its center) are exchanged within a localized field. Affected subjects within the field experience a dramatic alteration in how they perceive attraction: they begin to "orbit" individuals they find physically attractive, similar to how celestial bodies are attracted to each other by gravity.</p>
+<p>The intensity of this orbiting effect is directly proportional to the level of physical attraction the affected subject feels. As a result, individuals with strong feelings may find themselves unable to maintain a distance from the object of their attraction. This can lead to dangerous scenarios, as the affected subjects might disregard their safety and well-being in pursuit of maintaining proximity.</p>
+<p>Moreover, SCP-25670 also seems to inversely affect the gravity around the affected subjects. Objects with significant mass that would normally exert gravitational force upon the subjects instead influence them by how aesthetically appealing they are perceived. This leads to instances where subjects inexplicably float towards or away from objects based upon their subjective attraction rather than mass and distance. </p>
+<p>The phenomenon appears to emanate from a source yet to be precisely identified and does not seem to be bound to a specific geographic location. Reports of incidents involving SCP-25670 have emerged sporadically across different regions of the globe.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given its unpredictable nature and the current inability to identify a consistent source, containment of SCP-25670 has primarily focused on monitoring and rapid intervention. Mobile Task Force Upsilon-14 ("Gravity's Rainbow") is tasked with the containment of SCP-25670. Deployment procedures are as follows:</p>
+<ol>
+<li>Upon identification of a possible SCP-25670 event, MTF Upsilon-14 is to be immediately dispatched to the location.</li>
+<li>MTF Upsilon-14 is equipped with non-lethal incapacitation tools to subdue affected subjects.</li>
+<li>Subjects within the field are to be evacuated and administered Class-B amnestics to eliminate memory of the event. </li>
+<li>Efforts should be made to debunk public reporting of SCP-25670 events as hoaxes or natural occurrences.</li>
+<li>Research into identifying a consistent pattern or source for SCP-25670 manifestations is ongoing. Collaboration with Foundation scientists specializing in gravitational and memetic anomalies is ongoing.</li>
+</ol>
+<p>Containment sites are to be established at locations with recurring SCP-25670 manifestations. These sites are to be equipped with specialized equipment for reversing or nullifying the effects within the field. Dr. Helen ███████ is leading the current research team to develop the technology needed for this purpose.</p>
+<h3>Addendum 1:</h3>
+<p>An interview log with a subject affected by SCP-25670 (designated SCP-25670-A) has provided insights into the emotional and psychological effects of the phenomenon.</p>
+<p>[Interview log has been omitted for brevity but can be made available upon request.]</p>
+<h3>Addendum 2:</h3>
+<p>Experiment Log 25670-E18 involved the development of a containment field prototype designed to neutralize the anomalous effects of SCP-25670. </p>
+<p>Further details on this experiment, including methodology, observed results, and subsequent refinements to the technology, are stored in the secure document SCP-25670-Exp-E18.</p>
+<h3>Addendum 3:</h3>
+<p>In an incident at [REDACTED], the effects of SCP-25670 were observed on a large scale, impacting an entire township. Foundation efforts successfully contained and amnesticized the populace. However, the incident resulted in multiple injuries due to individuals being forcibly drawn toward each other and colliding at high speeds.</p>
+<p>As a consequence of this event, the O5 Council has upgraded the classification of SCP-25670 to Keter, and efforts to develop preemptive containment measures have intensified. Dr. Helen ███████'s research team has been granted additional resources, personnel, and access to SCP-25670 incidents for study.</p></div>
