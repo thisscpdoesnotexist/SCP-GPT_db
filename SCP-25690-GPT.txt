@@ -1,0 +1,40 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25690 is  a disease that causes infected individuals to grow new pairs of arms </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25690</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25690 is a contagious condition, bearing similarities to an autoimmune disease, with anomalous properties. Upon infection, the affected individual (hereafter referred to as SCP-25690-1) will begin to grow additional pairs of arms. These appendages sprout from various locations on the torso and are fully functional within 10-12 days. The affliction does not seem to be limited by the usual human anatomy as new arms have been noted to possess their own skeletal, muscular, and nervous systems integrated into that of the host's without apparent limit.</p>
+<p>Aside from the physical changes, SCP-25690 has notable psychological effects. SCP-25690-1 subjects often report hearing voices that encourage them to spread the condition through physical contact with non-infected individuals. Analysis has confirmed these are not hallucinations but rather telepathic projections from SCP-25690 to the host.</p>
+<p>Initial transmission vectors were assumed to be via bodily fluids; however, airborne and even remote psychic transmission have been recorded. The means by which SCP-25690 manages to spread is not fully understood and is a subject of ongoing research.</p>
+<p>Given the rapid adaptability of the condition and difficulties in containing the psychological influence exerted by SCP-25690, the object class has been designated as Keter. Furthermore, the apparent intelligence and intent behind the disease's transmission vectors have led to theorizing that SCP-25690 may be a form of sentient pathogen.</p>
+<h3>Special Containment Procedures:</h3>
+<p>All individuals infected with SCP-25690 are to be contained in a biosecure facility with Class-IV Biohazard precautions in place. Standard humanoid containment protocols are to be observed, with accommodations made for the extra limbs of SCP-25690-1 subjects. Each containment cell must be equipped with a Faraday cage to impede any potential psychic transmissions.</p>
+<p>The site must have an on-standby incineration unit, should a rapid response to potential containment breaches be required. Personnel working in or around the containment area are required to wear modified Hazmat suits to prevent any form of contact transmission. Under no circumstances should staff engage in direct communication with SCP-25690-1 individuals to avoid psychic influence.</p>
+<p>Amnestics are to be administered to any individual with potential exposure to SCP-25690 or its effects. A global watch program for outbreaks of abnormal limb growth in medical facilities has been established to identify and contain new instances of SCP-25690-1 rapidly.</p>
+<p>Containment strategies are currently focused on preventing the spread of SCP-25690. However, research into methods of countering the telepathic influences and reversing the anomalous physical transformations is ongoing.</p>
+<h3>Addendum 1: Incident Report</h3>
+<p>On ██/██/20██, SCP-25690 breached containment when a Class-D personnel covertly attempted to release an SCP-25690-1 subject as a result of psychiatric influence from the pathogen. The breach resulted in seventeen new infections and the regrettable termination of all infected individuals. This incident precipitated a review and subsequent upgrade of containment procedures, including the implementation of psychic shielding across the facility.</p>
+<h3>Addendum 2: Experimental Log</h3>
+<p>Experiment 25690-E-41 aimed to determine the extent of the regenerative capabilities of the new limbs and potential for removal. SCP-25690-1 subjects were anesthetized and one additional arm was surgically removed. The limb was observed to regenerate within four days, indicating that physical removal of new appendages is not a viable means of treatment. Full experiment logs are available upon request from the SCP-25690 documentation officer.</p>
+<h3>Addendum 3: Interview Transcript</h3>
+<p>The following is a transcript of an interview with SCP-25690-1, conducted in an attempt to better understand the perspective of infected subjects and the nature of the psychological influence exerted by SCP-25690.</p>
+<p>[<strong>BEGIN LOG</strong>]</p>
+<p><strong>Dr. Malinowska:</strong> Good afternoon, SCP-25690-1-██. How are you feeling today?</p>
+<p><strong>SCP-25690-1-██:</strong> I am the vessel. It wants me to spread, to touch, to expand.</p>
+<p><strong>Dr. Malinowska:</strong> Who or what is 'it' that you keep referring to?</p>
+<p><strong>SCP-25690-1-██:</strong> It's... all around us. In the air, in my thoughts. It gives me purpose.</p>
+<p><strong>Dr. Malinowska:</strong> Can you resist these urges that you're describing?</p>
+<p><strong>SCP-25690-1-██:</strong> It's hard. It's like trying not to breathe. Why resist the gift?</p>
+<p><strong>Dr. Malinowska:</strong> Have the additional arms provided any benefit to you?</p>
+<p><strong>SCP-25690-1-██:</strong> Benefits? Yes, they are powerful, useful. But they're not for me, they're for its propagation. It will grow; it will spread across the world.</p>
+<p><strong>Dr. Malinowska:</strong> Thank you, that will be all for today. We'll continue with our treatment and containment strategies. Please rest now.</p>
+<p>[<strong>END LOG</strong>]</p>
+<p>The interview further highlights the complexity of SCP-25690's control over its host and the integration of its intent within human psychological frameworks. The containment and research teams continue to work on mitigating the SCP-25690 threat.</p></div>
