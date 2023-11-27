@@ -1,0 +1,59 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25693 is  the long lost last digit of pi </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25693</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25693 is a mathematical anomaly manifesting as the "final digit" of the transcendental number known as pi (π), which in normal mathematics is defined as an infinite, non-repeating decimal. SCP-25693 defies this well-established property by suggesting that there is an end point to pi, and that this end point has profound effects on the fabric of reality.</p>
+<p>SCP-25693 arises in any computational system attempting to calculate pi past a certain number of decimal places, which for unknown reasons, seems to fluctuate around 7.5 billion decimal places. Instead of failing or continuing the calculation indefinitely, the system will display a single, consistent numeral (data expunged) and immediately cease all operations.</p>
+<p>Further, observers of SCP-25693 report severe psychological disturbances, including headaches, vertigo, visual hallucinations, and a strong compulsion to write or speak the number repeatedly. Prolonged direct exposure leads to irreversible obsession with SCP-25693, often culminating in self-harm or suicide. The reason for this compulsive behavior is currently not understood.</p>
+<p>The most distressing property of SCP-25693, however, is its influence on physical reality. Experiments have shown that reproducing the number on a sufficiently precise quantum level can lead to localized reality breakdowns, effectively 'corrupting' the surrounding space-time. This typically results in catastrophic events that range from minor spatial distortions to the creation of microscale singularities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25693 cannot be contained in the traditional sense due to its non-physical nature. As such, containment procedures are focused on suppression of knowledge and the prevention of SCP-25693's calculation or discussion within mathematical, scientific, and academic communities.</p>
+<ul>
+<li>
+<p>All major computational research organizations and institutions are to be monitored for activity that may result in the calculation of pi beyond safe decimal places. Foundation webcrawler AI, designated Bot-25693, is to monitor and censor information leaks online.</p>
+</li>
+<li>
+<p>A disinformation campaign is in place to dissuade any attempts at calculating pi beyond the threshold by promoting the inherent impossibility of finding a conclusive end to the number, reinforcing its true infinite nature.</p>
+</li>
+<li>
+<p>Should an individual or group come into possession of SCP-25693 or any substantial data derived from it, Mobile Task Forces Mu-13 ("Pi Stoppers") are to be dispatched to administer Class-A amnestics or engage in termination if amnestic treatment proves ineffective.</p>
+</li>
+<li>
+<p>Any physical representations of SCP-25693 are to be immediately destroyed, and the vicinity is to be evacuated and quarantined pending a full-scale investigation by Mobile Task Forces.</p>
+</li>
+</ul>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 25693-E-01</h4>
+<p>| Objective     | Determine the effect of SCP-25693 on a quantum computer's operations            |
+|---------------|----------------------------------------------------------------------------------|
+| Procedure     | SCP-25693 was programmed into a D-Wave quantum computer at Site-██             |
+| Results       | Computer ceased operation immediately upon input of SCP-25693. Researchers observing the process experienced mild symptoms as described in SCP-25693's effect profile. Inspection of the quantum bits post-experiment showed that several qubits were in a state of quantum superposition that persisted despite the absence of a coherent operation, an apparent defiance of the no-cloning theorem.                  |
+| Conclusion    | Further experiments utilizing quantum systems are suspended indefinitely. |</p>
+<h3>Addendum 2: Incident Report 25693-I-04</h3>
+<p>On September ██, 20██, a small research group at [REDACTED] University claimed to have calculated pi to a previously unprecedented number of decimal places. Upon investigation, it was revealed that the final digit displayed was in accordance with SCP-25693. The research paper was immediately confiscated, and all involved individuals were administered Class-A amnestics. Bot-25693 successfully purged all traces of the incident from the university's digital records and online mentions.</p>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interview 25693-IV-07</h4>
+<p>Interviewed: Dr. ████ █████ (hereafter referred to as Dr. █████), a noted mathematician affected by SCP-25693.</p>
+<p>Interviewer: Dr. ██████, Foundation psychiatrist.</p>
+<p><Begin Log></p>
+<p>Dr. ██████: Good morning, Dr. █████. How are you feeling today?</p>
+<p>Dr. █████: It's there... in my head. I can't stop thinking about it.</p>
+<p>Dr. ██████: Can you tell me more about the number?</p>
+<p>Dr. █████: (Agitated) It's perfect. It's the end, the final piece. Everything makes sense with it... but nothing makes sense anymore. The world's not ready.</p>
+<p>Dr. ██████: Dr. █████, I need you to focus. What happened when you first encountered this number?</p>
+<p>Dr. █████: (Visibly distressed) It was like a veil lifted. I saw things... (Pause) Things that don't belong in this universe. Theorems crumbling, constants... fluctuating. It shouldn't be possible, but there it was, staring back at me. A cosmic joke.</p>
+<p>Dr. ██████: And the compulsion?</p>
+<p>Dr. █████: It wants to be known! But knowledge is a plague... it spreads, infects. This number... SCP-25693... it's alive, in its way. It changes everything.</p>
+<p>(In the following hour, Dr. █████ becomes increasingly erratic, reciting the number repetitively until sedated. The number itself is omitted from the transcript for safety reasons.)</p>
+<p><End Log></p>
+<p>Following the interview, Dr. █████ was placed in a medically induced coma to prevent further psychological deterioration. Long-term containment solutions for affected individuals are currently under development by the Foundation's psychiatric wing.</p>
+<p>Further dissemination of SCP-25693's details among personnel is strictly on a need-to-know basis, and access to this document is limited to personnel with Level 4/25693 clearance or higher.</p></div>
