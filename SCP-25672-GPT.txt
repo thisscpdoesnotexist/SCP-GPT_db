@@ -1,0 +1,42 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25672 is  a giant bronze statue of dick tracy that comes to life whenever trouble's afoot </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25672</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25672 is to be contained in a standard secure object storage room at Site-19. The room is equipped with a standard locking mechanism, and two (2) security cameras for constant surveillance. Motion detectors are to be set up within the containment chamber to alert staff in the event of SCP-25672's activation.</p>
+<p>SCP-25672 is to be restrained within the containment chamber using magnetic locks when not undergoing testing. Security personnel are to remain outside the containment chamber during periods of inactivity to prevent accidental activation. Individuals entering the containment area are to be thoroughly screened for items or devices that may suggest "trouble," as defined by SCP-25672's activation criteria.</p>
+<p>In case of unexpected activation, a team trained in pacification and re-containment is to be dispatched immediately to return SCP-25672 to a dormant state. All interactions and observations are to be logged.</p>
+<h3>Description:</h3>
+<p>SCP-25672 is a life-sized bronze statue of the fictional character Dick Tracy, a comic book detective known for his intelligence, toughness, and forensic abilities. SCP-25672 displays no signs of activity under normal circumstances. However, whenever a situation occurs nearby that it interprets as "trouble," it animates and attempts to resolve the issue using detective work, intimidation, and non-lethal force if necessary.</p>
+<p>The parameters of what SCP-25672 considers "trouble" remain somewhat unclear, but activation consistently involves situations such as crimes in progress, significant interpersonal conflicts, or breaches of Foundation security near its location.</p>
+<p>SCP-25672 demonstrates considerable strength, agility, and durability while animated, consistent with a construct of its composition and stature. It exhibits knowledge of investigative techniques, self-defense, and firearms handling (despite not carrying any weapons). Once SCP-25672 has determined that "trouble" is resolved, it returns to its pedestal and reverts to an inanimate state.</p>
+<h3>Addendum 1: Acquisition Report</h3>
+<p>SCP-25672 was discovered in ████████, after reports of a "living statue" assisting local law enforcement. An embedded Foundation agent took note, and a containment team was dispatched. The item was recovered without significant incident and was later transported to Site-19 for further study.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Date:</strong> ██/██/████
+<strong>Procedure:</strong> A staged theft was enacted within the vicinity of SCP-25672.
+<strong>Result:</strong> SCP-25672 animated upon the initiation of the staged theft. It disarmed the "thief" (a D-class personnel) and restrained them until Foundation staff intervened. SCP-25672 returned to its pedestal after being informed that law enforcement was handling the situation.</p>
+<p><strong>Date:</strong> ██/██/████
+<strong>Procedure:</strong> A heated argument between two D-class personnel was staged within earshot of SCP-25672.
+<strong>Result:</strong> SCP-25672 animated and separated the individuals, attempting to mediate the conflict. Following successful mediation, it returned to its pedestal and reassumed its inanimate state.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewed:</strong> SCP-25672 (post-activation)
+<strong>Interviewer:</strong> Dr. Helena Schwartz
+<strong>Foreword:</strong> This interview was conducted after SCP-25672 resolved a staged mugging within Site-19.</p>
+<p><strong>Dr. Schwartz:</strong> Good afternoon, SCP-25672. How do you perceive your environment while inactive?</p>
+<p><strong>SCP-25672:</strong> [Dick Tracy's voice] I remain aware, doc. My duty is to keep the peace. When there's a whisper of trouble, I'm on it.</p>
+<p><strong>Dr. Schwartz:</strong> What is your understanding of your existence?</p>
+<p><strong>SCP-25672:</strong> I'm here to serve justice. That's my single purpose. Look, you don't need to worry about me trying to bust outta here. I'm content as long as I can do what I'm made for.</p>
+<p><strong>Dr. Schwartz:</strong> Can you choose not to act when you detect "trouble"?</p>
+<p><strong>SCP-25672:</strong> Can't resist the call, ma'am. It's stronger than me, like a reflex. When the call comes, I'm all in. It's the way I've been wound up.</p>
+<p><strong>Dr. Schwartz:</strong> Thank you for your cooperation, SCP-25672.</p>
+<p><strong>SCP-25672:</strong> Anytime. Just keep it clean around here, and we'll have no problems. Remember, I've got an eye out.</p>
+<p><strong>Closing Statement:</strong> SCP-25672 returned to its pedestal voluntarily after the interview concluded. Research into discerning the thresholds for SCP-25672's activation remains ongoing.</p></div>
