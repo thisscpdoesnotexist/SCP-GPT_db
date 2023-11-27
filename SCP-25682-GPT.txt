@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25682 is  a teenage girl cursed by her classmate to have anomalously oily skin </h3> </center>
+    <h1>SCP-25682</h1>
+<h3>Item #:</h3>
+<p>SCP-25682</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25682 is a sixteen-year-old female named ████ █████████ who was subjected to an anomalous effect resulting in her skin constantly secreting an abnormal amount of an oily substance that has proven to be both caustic and adhesive. The substance, henceforth referred to as SCP-25682-1, has a viscosity similar to that of natural human sebum but is considerably more corrosive, capable of dissolving most organic materials within hours of sustained contact.</p>
+<p>The subject was initially reported to the Foundation after a series of unexplainable disfigurements and injuries apparently inflicted on individuals and animals coming into prolonged contact with her skin. Investigations revealed that the anomaly was a result of a curse inflicted by an unidentified classmate possessing anomalous abilities.</p>
+<p>SCP-25682 is cognitively normal and possesses the expected level of emotional distress due to her condition. Her physical health, barring the anomaly, is considered to be within normal limits for a teenager of her age and demographics.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25682 is to be housed in a standard humanoid containment cell, with the modification that all surfaces are to be coated with a substance resistant to SCP-25682-1. It is recommended that SCP-25682-1 be collected and disposed of following Hazardous Substance Disposal Protocols on a daily basis to prevent buildup and possible containment breach.</p>
+<p>SCP-25682 is provided with clothing fabricated from materials resistant to SCP-25682-1, although frequent replacements are necessary due to the inevitable degradation. Interaction with SCP-25682 must be performed with caution, and personnel are required to wear protective gear at all times to prevent injury from SCP-25682-1.</p>
+<p>In the event that SCP-25682-1 causes a containment breach, the affected area is to be evacuated and exposed surfaces are to be treated with a neutralizing agent, developed specifically to counteract the caustic properties of SCP-25682-1. Neutralizing agents are to be kept in readily accessible locations near SCP-25682's containment area.</p>
+<p>Psychological evaluations and counseling should be provided to SCP-25682 on a weekly basis to monitor her mental well-being and mitigate any distress caused by her anomalous condition.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Incident Report 25682-A:</strong> Approximately six months after initial containment, SCP-25682 experienced an unforeseen escalation in the production of SCP-25682-1, resulting in a minor containment breach. The containment cell was quarantined, and after four (4) hours, the neutralization process was completed, and SCP-25682 was transferred to a more secure containment unit. It has been hypothesized that SCP-25682's emotional state might influence the secretion rate of SCP-25682-1. Further observation is required to confirm this theory.</p>
+<h3>Addendum 2:</h3>
+<p><strong>Interview Log 25682-B:</strong></p>
+<p><em>Interviewed:</em> SCP-25682</p>
+<p><em>Interviewer:</em> Dr. ████</p>
+<p><Begin Log></p>
+<p>Dr. ████: How are you feeling today, ████?</p>
+<p>SCP-25682: I'm... okay, I guess. It's hard not to feel like a monster stuck in here.</p>
+<p>Dr. ████: It's for your protection and the safety of others. I understand it's difficult, but we are doing everything to make your stay comfortable.</p>
+<p>SCP-25682: Comfortable? How can it be comfortable when everyone's afraid to touch me?</p>
+<p>Dr. ████: We're not afraid. We're simply cautious due to your condition.</p>
+<p>SCP-25682: (Sighs) Yeah, my condition.</p>
+<p>Dr. ████: Do you remember anything about how you got this curse?</p>
+<p>SCP-25682: Just that... it was Emily. She was always so jealous of me, always the second-best at everything. One day we argued, and she just snapped, screaming weird words at me. The next morning, I woke up like this.</p>
+<p>Dr. ████: We're trying to locate this 'Emily.' Hopefully, we can get some answers.</p>
+<p>SCP-25682: I just want this to stop. Please, I just want to be normal again...</p>
+<p>Dr. ████: We're working on it, ████. Is there anything else you think would help us?</p>
+<p>SCP-25682: No. I honestly don't know. I'm sorry.</p>
+<p><End Log></p>
+<p><strong>Note:</strong> Investigations are ongoing to locate the individual identified as 'Emily.' If found, she is to be designated SCP-25682-2 and contained for questioning and to possibly reverse the effects on SCP-25682.</p>
+<h3>Addendum 3:</h3>
+<p><strong>Experiment Log 25682-C:</strong>
+The following is a log of testing conducted to determine the limits and potential scientific applications of SCP-25682-1. Experimentation is currently suspended on ethical grounds and on the risk assessment of handling SCP-25682-1.</p>
+<p><em>Test A - Effect on Organic Materials:</em> SCP-25682-1 rapidly deteriorated samples of various organic materials, including wood, leather, and meat. Complete dissolution occurred within two (2) to four (4) hours of exposure.</p>
+<p><em>Test B - Effect on Inorganic Materials:</em> SCP-25682-1 had no significant corrosive effect on most inorganic materials tested. However, prolonged exposure to certain plastics resulted in gradual surface corrosion.</p>
+<p><em>Test C - Neutralization Attempts:</em> Multiple chemical agents were applied to SCP-25682-1 samples. A specialized neutralizing compound codenamed "Agent XJ7" was determined to be the most effective in halting the caustic action of SCP-25682-1.</p>
+<p><strong>Note:</strong> Further testing may provide additional insights into SCP-25682-1's properties and potential applications in the field of material science and chemical engineering, though the ethics committee has raised concerns regarding the well-being of SCP-25682 during such procedures. Further experimentation is currently on hold pending review.</p></div>
