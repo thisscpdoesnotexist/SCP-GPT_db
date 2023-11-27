@@ -1,0 +1,46 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25676 is  a giant bronze statue of dick tracy that comes to life whenever trouble's afoot </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25676</p>
+<h3>Object Class:</h3>
+<p>Thaumiel</p>
+<h3>Description:</h3>
+<p>SCP-25676 is a large bronze statue depicting the fictional character Dick Tracy. The statue stands at approximately 3.2 meters (10.5 feet) in height, including the base, which is inscribed with the phrase "Whenever Trouble's Afoot". The object possesses an anomalous property allowing it to animate and come to life in response to nearby criminal activity or breaches of containment within a radius of approximately 500 meters. While animated, SCP-25676 displays abilities reminiscent of a highly skilled investigator and possesses knowledge of modern investigative techniques, forensic sciences, and hand-to-hand combat skills.</p>
+<p>SCP-25676 appears to be sentient and capable of speech, although it remains stoic and silent when not active. Its movements are smooth and lifelike, contrary to the expected joint restrictions of a typical bronze statue. Upon resolving the incident that triggered its animation, SCP-25676 returns to its original position and reverts to an inanimate state.</p>
+<p>The object was discovered in [REDACTED] following a series of unexplained arrests of several high-profile criminals. SCP-25676 was contained and classified as Thaumiel due to its potential utility in assisting Foundation operations, particularly in breach containment scenarios.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25676 is to be kept in a secured courtyard within Site-██, under constant surveillance to monitor for any spontaneous animation. As SCP-25676's animation appears to be tied to the presence of criminal activity, the object is stationed centrally within the Site to utilize its abilities as a first-response entity in the event of a containment breach or hostile incursion. All personnel are to be evacuated within a 50-meter perimeter of SCP-25676 upon its animation to prevent any potential injuries or interference with its operations.</p>
+<p>In addition, a designated response team trained in collaborating with SCP-25676 during active scenarios is to be on standby at all times. Any and all engagements with SCP-25676 must be registered and logged, with detailed reports submitted to Head Researcher Dr. ████ upon resolution.</p>
+<p>Personnel are strictly forbidden from engaging in illegal activities within or surrounding Site-██ to prevent unnecessary activation of SCP-25676. Any activation logs must be cross-referenced with Site incidents to identify causative breaches or criminal actions.</p>
+<h3>Addendum 1: Experiment Log #25676-E-01</h3>
+<p><em>For full experiment log, please refer to Document 25676-E-01.</em></p>
+<p>Excerpt:</p>
+<p><strong>Test #7</strong></p>
+<p><strong>Subject(s):</strong> D-8432 (guilty of grand theft auto)</p>
+<p><strong>Procedure:</strong> D-8432 instructed to attempt a simulated theft of a Foundation vehicle within the activation radius of SCP-25676.</p>
+<p><strong>Result:</strong> SCP-25676 animated 3 minutes and 21 seconds after the initiated action. SCP-25676 apprehended D-8432 with minimal force, handcuffing the subject with handcuffs materialized from its own form. SCP-25676 then returned to its original position and became inanimate upon the arrival of security personnel.</p>
+<p><strong>Notes:</strong> SCP-25676's efficient and non-lethal handling of the subject is noteworthy; its capabilities warrant further testing and potential integration into standard containment protocols.</p>
+<h3>Addendum 2: Interview Log #25676-INT-04</h3>
+<p><em>For the complete interview log, see Document 25676-INT-04.</em></p>
+<p>Excerpt:</p>
+<p><strong>Interviewer:</strong> Dr. ████</p>
+<p><strong>Interviewee:</strong> SCP-25676 (post-activation)</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. ████:</strong> SCP-25676, can you describe your purpose?</p>
+<p><strong>SCP-25676:</strong> My existence is dedicated to upholding the law and protecting the innocent. Anywhere there is trouble, I am bound to confront and resolve it.</p>
+<p><strong>Dr. ████:</strong> Interesting. Do you have any awareness when you are in your inactive state?</p>
+<p><strong>SCP-25676:</strong> No conscious thought. It's like a deep sleep, only awakening when needed.</p>
+<p><strong>Dr. ████:</strong> And when you are active, do you feel anything?</p>
+<p><strong>SCP-25676:</strong> Emotions are irrelevant to the execution of my duties. Focus and efficiency are primary.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Notes:</strong> SCP-25676's responses align with previous observations of its behavior. Though capable of conversation, it appears to be driven by a strong inherent compulsion to resolve disturbances and then promptly return to dormancy.</p>
+<h3>Addendum 3: Recovery Log</h3>
+<p>SCP-25676 was recovered in the city of [REDACTED] following a series of incidents where numerous unsolved criminal cases were unexpectedly resolved overnight. Undercover agents embedded in the local police department traced the phenomenon to the statue, which they observed animating and detaining two armed robbers. The Foundation promptly enacted a containment protocol, transported the object to Site-██, and administered Class-A amnestics to all involved parties.</p>
+<p>The Foundation has fabricated a replica of SCP-25676 for public display to maintain normalcy. The original statue's sudden movement and activities were attributed to an elaborate prank by local university students, which was covered by the media to quell any concerns about the original statue's disappearance.</p>
+<p><strong>Notes:</strong> SCP-25676's potential as a proactive defense measure in high-risk situations has led to discussions regarding the replication of its properties. Research into its creation and the possible application of its anomalous materials is ongoing.</p></div>
