@@ -1,0 +1,59 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25674 is  a poet that can change his own life by writing poetry </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25674</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25674 is a male humanoid, approximately 30 years of age and identifying as a poet. SCP-25674 has the anomalous ability to alter reality, specifically his own life and circumstances, through the composition and recitation of poetry.</p>
+<p>Testing has confirmed that any poem written by SCP-25674—commonly referred to by the subject as “verses of fate”—immediately takes effect upon completion and vocalization. The alterations to SCP-25674’s life and surroundings can range from mundane changes, such as alterations in clothing style or the acquisition of material possessions, to extreme modifications, including but not limited to shifts in the timeline, alterations of his physical form, and the manifestation of entities or items previously nonexistent.</p>
+<p>SCP-25674's anomalous effects appear to be limited solely to his person and immediate surroundings. Global or large-scale changes attempted by SCP-25674 have so far failed to manifest, suggesting a possible range or influence limitation inherent to his abilities.</p>
+<p>Forensic linguistic analysis of SCP-25674’s poetry has so far failed to identify any patterns or specific word usage that contributes to the activation of its anomalous properties. Efforts to replicate the effects using SCP-25674's writings via different mediums (audio recordings, text copies) or by other individuals have proven unsuccessful.</p>
+<p>Containment is warranted due to multiple instances where SCP-25674’s alterations threatened the breakdown of normalcy or resulted in cascading alterations perceived as threatening to Foundation interests and secrecy as well as potential overwrite or erasure of local reality.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the high-risk nature of its anomalous properties, SCP-25674 is to be contained in a standard humanoid containment cell at Site-███. The cell is to be fitted with soundproofing and an air-gapped Faraday cage to prevent unauthorized communication.
+Strict controls must be placed on SCP-25674’s access to writing materials. Surveillance must be maintained at all times, with any attempt to compose poetry being interrupted immediately. In the event SCP-25674 is found to be composing poetry, containment breach protocols are to be enacted.</p>
+<p>Under no circumstances are staff to interact directly with SCP-25674 without prior approval. Interviews and experimentation may only be conducted following rigorous pre-approval from at least two Level 4 Senior Research personnel.</p>
+<p>In the event of a containment breach, SCP-25674 is to be incapacitated using non-lethal force. Lethal force has been authorized only in extreme cases where SCP-25674 poses an immediate threat to the structure of reality, per O5 Council directives.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Interview Log 25674-██</strong></p>
+<p><em>Interviewer: Dr. ██████</em></p>
+<p><em>Subject: SCP-25674</em></p>
+<p><em>Note: This interview was conducted after SCP-25674 demonstrated its abilities by altering the color of its containment cell walls from grey to a deep sea blue.</em></p>
+<p>[EXCERPT FROM TRANSCRIPT]</p>
+<blockquote>
+<p><strong>Dr. ██████:</strong> Can you explain to us how you do what you do?</p>
+<p><strong>SCP-25674:</strong> It’s the art, doctor. The thrum of life and ink. When I spill my soul onto paper, the world listens. The muses dance to words, and reality sways with them.</p>
+<p><strong>Dr. ██████:</strong> Is there any limit to your influence?</p>
+<p><strong>SCP-25674:</strong> Every poet has limits. Bound by his own canvas, shackled by the breadth of his imagination. And perhaps, by the patience of his audience.</p>
+<p><strong>Dr. ██████:</strong> Are you referring to the Foundation as your audience?</p>
+<p><strong>SCP-25674:</strong> Aren't you all? Watching and waiting with bated breath, to see what the mad poet will do next?</p>
+</blockquote>
+<p>[END EXCERPT]</p>
+<p>Following this interview, SCP-25674's containment procedures were updated to prevent any kind of direct or indirect audience, as it became evident that observation may play a role in its anomalous phenomena.</p>
+<h3>Addendum 2:</h3>
+<p><strong>Experiment Log 25674-E██</strong></p>
+<p><em>Researcher: Dr. █████</em></p>
+<p><em>Subject: SCP-25674</em></p>
+<p><em>Note: The following is an experiment test to evaluate the limits of SCP-25674's abilities.</em></p>
+<p>[EXCERPT FROM LOG]</p>
+<blockquote>
+<p><strong>Pre-Test Note:</strong> SCP-25674 is to be provided with pen and paper and instructed to write a poem that will cause a specific, non-threatening change to his environment: to turn a glass of water placed in his cell into wine.</p>
+<p>Test executed at 1500 hours. SCP-25674 complied with the request and began writing.</p>
+<p>...</p>
+<p><strong>Post-Test Note:</strong> At 1503 hours, SCP-25674 recited a 14-line sonnet, causing the water in the glass to become wine, as evidenced by chemical analysis. The poem itself has been classified and is stored in a secure archive for further study.</p>
+</blockquote>
+<p>[END EXCERPT]</p>
+<p>This experiment confirmed the precision with which SCP-25674 can control his abilities when properly guided and contained.</p>
+<h3>Addendum 3:</h3>
+<p><strong>Containment Breach Report 25674-██████</strong></p>
+<p><em>Date: ██/██/████</em></p>
+<p><em>Involved: SCP-25674, Containment Staff</em></p>
+<p>A partial containment breach occurred when SCP-25674 was mistakenly provided with a pen by a new staff member unfamiliar with the object's special containment procedures. SCP-25674 wrote a quatrain, resulting in a temporary but significant alteration of the site's geographic location to an oceanic environment, which caused widespread alarm and potential detection.</p>
+<p>Following immediate action from containment staff, SCP-25674 was subdued and the effects were reversed, with no permanent damage. The event led to a comprehensive review of containment protocols and resulted in disciplinary actions against the staff member who violated procedures. This breach emphasized the necessity for vigilance and adherence to strict containment and led to further refinement of SCP-25674 containment strategies, including enhanced vetting and training of personnel assigned to its containment.</p></div>
