@@ -1,0 +1,42 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25695 is  a species of ambush predator that disguise themself as bath towels </h3> </center>
+    <p>```</p>
+<h1>SCP-25695</h1>
+<h3>Item #:</h3>
+<p>SCP-25695</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25695 is a previously unknown species that exhibits extreme mimicry, taking on the physical appearance and texture of common bath towels. Genetic analysis suggests an anomalous terrestrial origin, however, exact taxonomy is yet to be determined due to its unique properties.</p>
+<p>SCP-25695 displays intelligence and appears to understand the patterns and behaviors of human subjects. It selects environments where towels are commonly found, such as private bathrooms, hotel rooms, gym locker rooms, and spa facilities. It is capable of altering its color, pattern, and texture to match surrounding legitimate towels almost perfectly. </p>
+<p>Its predation technique is one of ambush. SCP-25695 typically lies in wait until a potential prey, typically a human, attempts to use it. Upon direct skin contact, it ensnares and envelops the prey, inducing rapid desiccation. The duration of the predation event can last from 30 seconds to several minutes, depending on the size and health of the prey. Post predation, SCP-25695 reverts to its inert towel state, expelling desiccated remains and often relocating to evade detection.</p>
+<p>SCP-25695's durability is significant, resisting attempts at physical destruction via cutting, tearing, or burning. The entity can recover from damage that would completely destroy organic tissue, suggesting either a form of rapid regeneration or an altogether different structure of its matter.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its nature, SCP-25695 cannot be contained in a manner typical of most SCP entities. Instead, containment efforts focus on detection and response.</p>
+<p>A Foundation-operated web crawler, designated "Towelnag," searches for reports consistent with SCP-25695 activity (unexplained desiccations, disappearances in private settings, etc.). Mobile Task Forces (MTFs) are dispatched to these locations to ascertain the presence of an SCP-25695 instance and to contain or neutralize it. Given the creature's resilience, complete neutralization is often not possible. Instead, containment involves encasing the entity in a Foundation-designed containment bag made from a kevlar-boron-nitride weave, which inhibits its motility and mimicry capabilities.</p>
+<p>In the event of capture, SCP-25695 instances are to be transported to a secure containment facility equipped with environmental controls limiting access to textiles and human contact. Research into methods of permanent neutralization or containment is ongoing.</p>
+<h3>Addendum 1: Incident 25695-A</h3>
+<p>On June 15, ████, an instance of SCP-25695 was responsible for the loss of █ Foundation agents before it was successfully contained. The incident led to the development of the current containment procedures and emphasized the need for routine checks among all agents for potential mimetic entities.</p>
+<h3>Addendum 2: Interview Log 25695-1</h3>
+<p>Interviewer: Dr. ██████<br />
+Subject: Agent ███ (Survivor of Incident 25695-A)</p>
+<p>[Begin Log]</p>
+<p><strong>Dr. ██████:</strong> Please recount the events leading up to the containment of SCP-25695.</p>
+<p><strong>Agent ███:</strong> We were sweeping the area based on the Towelnag alert. When we entered the locker room, it looked normal...towels everywhere. I reached for one to dry my hands and...it was like it came alive. It just wrapped around my arm and started to pull. It was so strong.</p>
+<p><strong>Dr. ██████:</strong> How did you manage to extract yourself?</p>
+<p><strong>Agent ███:</strong> I didn't. It totally engulfed my arm and...it was like it was trying to suck the life out of me. One of my teammates noticed—shot it until it let go. We lost good people, though. It had already...I can't…</p>
+<p><strong>Dr. ██████:</strong> Take your time. How many were lost?</p>
+<p><strong>Agent ███:</strong> Three. It had already...they were just...husks by the time I saw them.</p>
+<p>[End Log]</p>
+<h3>Addendum 3: Experiment Log 25695-2</h3>
+<p><strong>Experiment Log 25695-2.1 - Physical Interaction Test</strong></p>
+<p><strong>Procedure:</strong> D-Class personnel draped SCP-25695 over their body under controlled conditions.</p>
+<p><strong>Results:</strong> SCP-25695 immediately reacted by ensnaring the subject. The subject desiccated within 45 seconds. SCP-25695 released the remains and reverted to its inert state shortly afterward. Containment ensued without additional incident.</p>
+<p><strong>Conclusion:</strong> SCP-25695 remains a significant threat to human life and must not come into direct contact with skin. Full PPE and adherence to containment protocols are mandatory for all handling procedures.
+```</p></div>
