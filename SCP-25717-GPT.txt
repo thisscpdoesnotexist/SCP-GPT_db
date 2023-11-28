@@ -1,0 +1,42 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25717 is  unga bunga monke brain </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25717</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25717 is an anomalous neural tissue mass resembling a primate brain, believed to be from a specimen of <em>Homo neanderthalensis</em> based on its structural morphology. Its anomalous properties emerge when placed in proximity to any living primate, including humans. Upon placement within a 5-meter radius, SCP-25717 will initiate a neural resonance that synchronizes the brainwaves of the nearest primate to its own oscillating pattern.</p>
+<p>This resonance leads to a temporary enhancement of cognitive processes in lower primates and a regression in higher cognitive function in humans, often resulting in behavior characteristic of early hominid species, colloquially referred to as "unga bunga". Enhanced primates display increased problem-solving abilities, use of primitive tools, and social organization. Affected humans, designated SCP-25717-1, lose the ability to speak coherently, perform complex motor functions, and engage in sophisticated reasoning, but gain a significant increase in raw physical strength and heightened survival instincts.</p>
+<p>The effect persists for up to 48 hours after removal of SCP-25717 from the vicinity. Brainwave patterns of SCP-25717-1 instances gradually return to baseline over this period. Studies suggest that repeated exposure could lead to permanent neural restructuring, though this has yet to be observed.</p>
+<p>SCP-25717 does not require nutrition, but absorbs electromagnetic radiation in a manner consistent with cerebral glucose metabolism. It occasionally exhibits electrical discharges resembling seizure activity when exposed to high-intensity stimuli.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25717 is to be contained within a Faraday-caged containment unit to prevent external electromagnetic interference. The cell should be located at the center of a 15 x 15 x 15-meter room to minimize the risk of accidental exposure. Personnel entering the containment room must wear specialized neural-shielding helmets to block the anomalous brainwave resonance and are prohibited from approaching within 5 meters of SCP-25717 under any condition without express permission from a Level 4 researcher.</p>
+<p>In the event that a staff member becomes an SCP-25717-1 instance, they are to be isolated in a standard humanoid containment chamber until the effects subside. Psychological evaluation and cognitive rehabilitation may be necessary depending on exposure duration and frequency.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-25717 was recovered on ██/██/20██ from a cave system in ██████, where it was worshipped by a local group of chimpanzees that exhibited unusually high levels of intelligence and social structure. MTF Zeta-9 ("Mole Rats") conducted the retrieval operation without incident.</p>
+<h3>Addendum 2: Interview with SCP-25717-1</h3>
+<p><strong>Interviewer:</strong> Dr. ████████<br />
+<strong>Interviewee:</strong> D-9032 (Post-exposure to SCP-25717)<br />
+<strong><Begin Log></strong><br />
+<strong>Dr. ████████:</strong> Good morning, D-9032. How are you feeling today?<br />
+<strong>D-9032:</strong> (grunts and scratches head) Unga... unga bunga... (attempts to gesture)<br />
+<strong>Dr. ████████:</strong> Can you describe your current state of mind?<br />
+<strong>D-9032:</strong> Me... no think... hard. (D-9032 appears frustrated)<br />
+<strong>Dr. ████████:</strong> Are you able to understand what I'm saying to you?<br />
+<strong>D-9032:</strong> (nods vigorously) Yes, yes... understand, but... speak no... (continues to make primitive hand gestures)<br />
+<strong>Dr. ████████:</strong> Very well. We're going to conduct some tests once the effects wear off. Hang in there.<br />
+<strong><End Log></strong>
+<em>Note: D-9032 reverted to baseline cognitive function after 36 hours. He expressed limited memory of the interview.</em></p>
+<h3>Addendum 3: Experiment Log</h3>
+<p><strong>Date:</strong> ██/██/20██<br />
+<strong>Experiment:</strong> SCP-25717 exposure to common chimpanzees.<br />
+<strong>Procedure:</strong> Two adult chimpanzees were introduced into the containment chamber with SCP-25717 for a period of 30 minutes.<br />
+<strong>Results:</strong> Subject A began crafting a rudimentary spear using materials in the containment chamber. Subject B demonstrated an understanding of simple arithmetic through the use of pebbles.<br />
+<strong>Conclusion:</strong> SCP-25717's effects on lower primates confirm the enhancement of intelligence and problem-solving abilities. Further study is required to understand the long-term implications of such exposure on primate evolution.<br />
+<em>Authorized by: Dr. █████, Head of Anomalous Biology Department</em></p></div>
