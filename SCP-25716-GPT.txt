@@ -1,0 +1,53 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25716 is  a website that only appears to people having trouble in life. It turns them giants and lets them crush anything causing them problems. </h3> </center>
+    <p>```</p>
+<h3>Item #:</h3>
+<p>SCP-25716</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25716 is an anomalous website that has no consistent domain name or IP address, with its URL changing randomly, thus evading conventional methods of blocking or tracking. It appears to selectively manifest to individuals who are experiencing significant distress or problems in their lives, regardless of the nature of their issues, whether personal, professional, psychological, or other.</p>
+<p>Upon visiting SCP-25716, subjects are presented with a simplistic interface, asking them to describe their problems in a text box provided. After submitting their text, the website displays a tailored animation that depicts the user growing to a colossal size, with the ability to physically dominate and destroy representations of their specified problems. This cathartic display lasts approximately 2 to 5 minutes.</p>
+<p>The primary anomalous effect occurs shortly after viewing the animation. Subjects will undergo a rapid physical transformation, becoming giants whose sizes are proportional to the perceived magnitude of their problems, as stated in their submissions. These transformations are accompanied by a compulsion to seek out and obliterate the sources of their woes, regardless of the consequences or potential harm to bystanders or property.</p>
+<p>Post-event interviews have revealed that subjects retain awareness and memory of their actions while transformed. The condition is temporary, with subjects returning to their original size after a period ranging from several minutes to several hours. The means by which SCP-25716 influences physical matter, defying known laws of biology and physics, remains unexplained.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the nature of SCP-25716, complete containment has proven to be unfeasible. Efforts are currently focused on the following containment strategies:</p>
+<ol>
+<li>Cybersurveillance Task Force Omega-12 ("Page Crawlers") is assigned to detect the manifestation of SCP-25716 by monitoring data patterns consistent with its appearance.</li>
+<li>Web Analysis Team Epsilon-4 ("404 Finders") is tasked with developing algorithms to predict potential URLs and digital fingerprints of SCP-25716, with the aim to preemptively block access to the website.</li>
+<li>Mobile Task Force Psi-8 ("Silhouettes") is deployed to manage incidences involving the transformed subjects. Non-lethal force is authorized to subdue subjects until they revert to their original size.</li>
+<li>A cover-up protocol involving Class-A amnestics is to be enacted for witnesses, alongside plausible media disinformation campaigns to maintain the Veil.</li>
+</ol>
+<p>To prevent mass incidents, a global awareness campaign disguised as a self-help initiative is disseminated, recommending stress coping mechanisms, and providing subtle deterrents from searching for anomalous solutions to personal problems.</p>
+<h3>Addendum 1: Experiment Log SCP-25716-E1</h3>
+<hr />
+<p><strong>Date:</strong> ██/██/████</p>
+<p><strong>Subject:</strong> D-8427</p>
+<p><strong>Procedure:</strong> D-8427, a male of 34 years with a history of violent offenses and pronounced feelings of persecution, was instructed to interact with SCP-25716 and describe his issues.</p>
+<p><strong>Result:</strong> Subject transformed into a 45-meter-tall entity and sought out the containment cell of another D-class who had previously assaulted him. The giant D-8427 caused significant structural damage before being subdued by MTF Psi-8 with high-power tranquilizers.</p>
+<p><strong>Notes:</strong> The incident has expedited the development of improved tranquilizer formulas for use on SCP-25716 affected entities.</p>
+<h3>Addendum 2: Interview Log SCP-25716-INT1</h3>
+<hr />
+<p><strong>Interviewer:</strong> Dr. ██████</p>
+<p><strong>Interviewee:</strong> D-5193 (post-event)</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. ██████:</strong> Please describe your experience with SCP-25716.</p>
+<p><strong>D-5193:</strong> It was unreal, doc. I typed in what was eating me up inside, and then... I was crushing my old gang like they were nothing.</p>
+<p><strong>Dr. ██████:</strong> Were you aware of your actions at the time?</p>
+<p><strong>D-5193:</strong> Yeah, but it was like something else was pushing me. I knew I wanted to stop, but I just kept going.</p>
+<p><strong>Dr. ██████:</strong> How do you feel now, understanding the destruction you caused?</p>
+<p><strong>D-5193:</strong> Sick to my stomach, doc. Regret, I guess? But part of me felt good in the moment, like I was taking back control.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Notes:</strong> The psychological effects of SCP-25716 are to be further studied. Subjects showcase a mix of euphoria during the transformation, followed by complex guilt and trauma post-event.</p>
+<h3>Addendum 3: Incident Report SCP-25716-I4</h3>
+<hr />
+<p>On the date of ██/██/████, SCP-25716 became accessible to a large number of individuals in the city of ████████ simultaneously. The resulting chaos saw the transformation of approximately 200 citizens, leading to widespread destruction, casualties, and a severe breach of secrecy regarding the SCP’s existence.</p>
+<p>Containment efforts were ultimately successful, with MTF Psi-8 working alongside local law enforcement (under the guise of a specialized military unit). Drastic measures were taken, including the dissemination of a city-wide amnestic agent through the water supply.</p>
+<p><strong>Notes:</strong> Upgrades to surveillance and containment protocols are underway to prevent a recurrence of such a large-scale event. Additionally, efforts to locate the origin or creator(s) of SCP-25716 are to be redoubled with all available resources.
+```</p></div>
