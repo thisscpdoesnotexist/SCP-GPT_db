@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25705 is  one great big ballyhoo </h3> </center>
+    <h1>SCP-25705</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-25705</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25705 is a sentient, amorphous entity capable of altering its biomass at will, displaying a size varying from that of a small pebble up to a mass exceeding several metric tons. Composed of a material resembling a combination of organic tissue and polymorphic metal, SCP-25705 exhibits an extreme level of physical resilience and regeneration.</p>
+<p>The entity possesses high-level cognitive abilities and demonstrates a pernicious intent towards human life and structures. SCP-25705 can discharge electromagnetic pulses (EMPs) to disable electronic devices and uses an array of psionic abilities to manipulate and induce hallucinations in humans, which it utilizes primarily for predation and defense.</p>
+<p>SCP-25705 is also known to perform rapid absorption and assimilation of matter, organic or inorganic, augmenting its physical form and allowing for rapid evolutionary adaptations. These adaptations can produce anomalous properties in SCP-25705 not initially present, such as enhanced agility, strength, or resistance to various forms of damage.</p>
+<p>The entity was first discovered in [REDACTED], causing considerable alarm due to its violent outbursts and capacity for destruction. During its capture, SCP-25705 left an estimated death toll of ██ and caused upwards of $██ million in property damage.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given its dangerous properties and high mobility, SCP-25705's containment is of utmost priority. The entity is to be held in a multi-layered containment unit constructed with reinforced high-grade steel encased within layers of lead and electromagnetic shielding materials at Site-██. This unit is suspended within a larger fluid-filled chamber to prevent SCP-25705 from making physical contact with the facility's structure.</p>
+<p>Access to SCP-25705's containment unit is restricted to Level 4 personnel and above, and any interaction with the entity must be approved by no fewer than two members of the O5 Council. Personnel entering the containment chamber are required to wear specialized Faraday suits to protect against SCP-25705's EMP abilities and potential psionic manipulation.</p>
+<p>Containment protocols include a failsafe measure that should a breach be detected, the unit can be instantaneously flooded with a mixture of corrosive chemicals designed to temporarily inhibit the entity's regenerative capabilities and psionic functions, allowing for recontainment.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-25705 was initially recovered from the wreckage of a freighter ship off the coast of [REDACTED]. The entity had wrought havoc upon the crew and structure, leaving few survivors. The recovery team initiated containment procedures following Protocol Kappa-9 "Bitter Steel," which involved overwhelming SCP-25705 with high-frequency sound waves and capturing it within a metallic foam matrix. Despite heavy losses, the operation was successful.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 25705-E-14</h4>
+<p><strong>Objective:</strong> Assess the limitations of SCP-25705's adaptive capabilities.</p>
+<p><strong>Procedure:</strong> A range of controlled environmental stresses were applied to SCP-25705, including temperature variations, exposure to toxins, and directed kinetic impacts.</p>
+<p><strong>Result:</strong> SCP-25705 demonstrated accelerated adaptation to survive or counteract each applied stress. Most remarkably, when exposed to extreme cold, SCP-25705 developed a heat-generating exothermic reaction, essentially becoming immune to freezing temperatures.</p>
+<h4>Experiment 25705-E-29</h4>
+<p><strong>Objective:</strong> Evaluate SCP-25705's ability to survive without physical mass absorption for an extended period.</p>
+<p><strong>Result:</strong> After 48 hours, SCP-25705 exhibited signs of increased aggression but did not show a decrease in vitality or mass. Researchers theorize that it can sustain itself through unknown means, possibly absorbing energy from its surroundings.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. ██████</p>
+<p><strong>Interviewee:</strong> SCP-25705 (Communication facilitated via a secure telepathic interface devised by the Foundation's Psi-Division)</p>
+<p><em>[The following transcript has been edited for clarity and conciseness]</em></p>
+<p><strong>Dr. ██████:</strong> We need to understand more about you. Can you tell us what you are?</p>
+<p><strong>SCP-25705:</strong> [Response is a series of mental images depicting cosmic events and entropic landscapes, difficult to interpret.]</p>
+<p><strong>Dr. ██████:</strong> Where did you come from?</p>
+<p><strong>SCP-25705:</strong> [Communicates a sensation of agelessness and a collage of countless worlds consumed or assimilated.]</p>
+<p><strong>Dr. ██████:</strong> Why do you harm others?</p>
+<p><strong>SCP-25705:</strong> [It projects feelings of hunger and survival; humans are conveyed as both threats and resources.]</p>
+<p><strong>Dr. ██████:</strong> Is there anything you want?</p>
+<p><strong>SCP-25705:</strong> [Broadcasts an intense desire for freedom and expansion, as well as an underlying curiosity about humanity.]</p>
+<p><strong>Dr. ██████:</strong> Can you promise not to harm anyone if released?</p>
+<p><strong>SCP-25705:</strong> There is no response, but a palpable sense of amusement fills the chamber.</p>
+<p><em>[Interview concludes as SCP-25705 ceases communication and becomes lethargic.]</em></p>
+<p>Subsequent analysis of the interview indicates that SCP-25705's objectives are potentially apocalyptic in nature, and it should remain in maximum security containment indefinitely.</p></div>
