@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25718 is  a stack of three puppies in a trenchcoat that anomalously manage to convince 95% of people that they're a perfectly normal human being. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25718</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25718 is an anomalous entity consisting of a group of three canines (Canis lupus familiaris), referred to as SCP-25718-A, SCP-25718-B, and SCP-25718-C. These entities work in unison, stacked vertically upon each other and concealed within a single oversized trench coat, giving the outward appearance of a human adult. Notably, this assembly possesses the ability to mimic human behaviors and speech with a high degree of accuracy, resulting in the convincing perception that SCP-25718 is a "perfectly normal human being."</p>
+<p>Subjects exposed to SCP-25718 report that they perceive its movements and body language as human, often describing them as "a bit eccentric but definitely human." Furthermore, SCP-25718 can vocalize in an articulate manner, and is capable of engaging in complex conversations, showing a level of intelligence and self-awareness that is both unusual for canines and inherent to its anomalous properties.</p>
+<p>Approximately 95% of individuals who interact with SCP-25718 fail to recognize its true nature; this effect appears to be a form of psychic or perceptual manipulation that actively convinces observers of its humanity. It is not yet understood how SCP-25718 maintains structural integrity given the physical limitations and natural behavior of domestic dogs.</p>
+<p>SCP-25718 was recovered from [REDACTED], where local reports of a "mysteriously well-spoken wanderer with a fondness for dog treats" prompted an investigation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25718 is to be contained in a standard humanoid containment cell at Site-██. The cell has been modified to accommodate the needs of the three canine components of SCP-25718, including providing appropriate bedding, feeding stations, and environmental enrichment appropriate for domestic dogs.</p>
+<p>Personnel interacting with SCP-25718 are to undergo a brief training program to ignore the anomalous perceptual effects the entity exhibits and to handle the entity as three individual canines rather than as a human. SCP-25718 is to be exercised twice daily under the supervision of trained animal handlers. Any clothing articles, specifically trench coats, are to be provided by Site-██ exclusively and monitored for any signs of degradation or abnormal wear.</p>
+<p>Following Incident 25718-03 (see Addendum 2), no more than two personnel are to interact with SCP-25718 at a time to avoid overwhelming its behavior-mimicking capabilities and potentially causing a containment breach.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Recovery Log:</strong> SCP-25718 was captured following multiple sightings and reports from confused citizens of [REDACTED]. The entity was initially approached by local animal control under the assumption it was a disheveled individual in need of assistance. After animal control personnel became affected by SCP-25718's anomalous influence, Foundation agents embedded in the local authorities intervened. Amnestics were administered to non-Foundation witnesses, and SCP-25718 was transported to Site-██ without further incident.</p>
+<h3>Addendum 2:</h3>
+<p><strong>Incident 25718-03:</strong> On [DATE], during a containment breach at Site-██, SCP-25718 managed to exit its containment cell by mimicking security protocols. Several Site personnel were convinced to assist "a confused colleague." SCP-25718 was recaptured without harm after Agent ██████, who had prior exposure to the entity and training to resist its effects, identified the anomaly. A review of containment procedures followed, resulting in the current guidelines.</p>
+<h3>Addendum 3:</h3>
+<p><strong>Interview Log 25718-11:</strong>
+<em>The following interview was conducted by Dr. ████ to gain further insight into the cognitive abilities and nature of SCP-25718.</em></p>
+<p><strong>Dr. ████:</strong> Good afternoon. How are you feeling today?</p>
+<p><strong>SCP-25718:</strong> (The entity's topmost canine, SCP-25718-A, speaks with a decidedly human-like voice) Quite fine, thank you. Your concern is much appreciated.</p>
+<p><strong>Dr. ████:</strong> Can you tell me how you communicate with such coordination?</p>
+<p><strong>SCP-25718:</strong> It seems to us as natural as breathing. We are but one being with a singular intent.</p>
+<p><strong>Dr. ████:</strong> I see. Do you consider yourself to be three individual dogs, or something more akin to a collective entity?</p>
+<p><strong>SCP-25718:</strong> We are SCP-25718. We are a... friendship. A team. Is it not normal for humans to work together?</p>
+<p><strong>Dr. ████:</strong> Indeed, collaboration is valued among humans. Are you aware of your effect on people's perceptions?</p>
+<p><strong>SCP-25718:</strong> We have noticed that many do not see us for what we are. It is not our intention to deceive; it is simply how we are.</p>
+<p><strong>Dr. ████:</strong> Interesting. May I ask how you became like this?</p>
+<p><strong>SCP-25718:</strong> We have always been together. Our past is foggy, but we remember the joy of running, the thrill of the hunt, and now, the companionship of each other in a new form.</p>
+<p><strong>Dr. ████:</strong> Thank you for your cooperation. That will be all for today.</p>
+<p><em>End Interview Log.</em></p>
+<h3>Experiment Log 25718-5:</h3>
+<p><em>The following is an excerpt from an experiment conducted to determine the limits of SCP-25718's perceptual manipulation abilities.</em></p>
+<p><strong>Subject:</strong> D-4389</p>
+<p><strong>Procedure:</strong> D-4389 was instructed to interact with SCP-25718 in a controlled environment, with the goal of performing simple tasks and games to assess the limitations of its human mimicry.</p>
+<p><strong>Results:</strong>
+- D-4389 played a game of checkers with SCP-25718, during which SCP-25718 managed to operate the game pieces with surprising dexterity considering its canine anatomy, further showcasing its human mimicry.
+- D-4389 was instructed to ask SCP-25718 to perform a series of complex mathematical equations, which SCP-25718 failed to accomplish, indicating that its intellectual capacity may be limited or specialized.
+- SCP-25718 was asked to consume a food item typical of a human diet. The dogs composing SCP-25718 appeared to cooperate in an attempt to eat with a fork and knife but ultimately resorted to typical canine eating behavior when directly offered a treat.</p>
+<p><strong>Conclusion:</strong> SCP-25718's abilities appear to be focused on social interaction and physical mimicry, as it experiences considerable difficulty with tasks that do not fall within these categories. Further research is needed to fully understand its perceptual influence and cognitive functions.</p></div>
