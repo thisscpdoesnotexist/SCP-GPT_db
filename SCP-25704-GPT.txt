@@ -1,0 +1,48 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25704 is  a wizard spellbook that contains spells like "moisten socks", "summon shoe pebble", "hex of manual breathimg," and "inflict half sneeze." </h3> </center>
+    <p>```markdown</p>
+<h3>Item #:</h3>
+<p>SCP-25704</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-25704 is an ancient leather-bound spellbook, approximately 22 cm in height, 15 cm in width, and 5 cm thick. The cover is adorned with faded gold inlays and sigils that, upon analysis, do not match any known magical or occult symbols.</p>
+<p>This spellbook contains a variety of anomalous incantations which, when spoken aloud by an individual, result in minor inconveniences rather than any grand magical effects. The incantations are written in an unknown language that is comprehensible to anyone who opens the book. This effect is itself considered anomalous, as it defies current understanding of linguistics and cognition. Upon reading the text, individuals describe it as if it were written in their native language.</p>
+<p>The recorded spells include, but are not limited to the following:</p>
+<ul>
+<li><strong>Moisten Socks:</strong> Upon casting this spell, the socks of a designated target, regardless of their current wear or location, become mildly damp.</li>
+<li><strong>Summon Shoe Pebble:</strong> Instantaneously places a small pebble into the shoe of a chosen individual, creating minor discomfort.</li>
+<li><strong>Hex of Manual Breathing:</strong> Temporarily forces an individual into consciously controlling their breathing patterns, disrupting their ability to maintain an autonomic respiratory process.</li>
+<li><strong>Inflict Half Sneeze:</strong> Causes a sensation in a target's nose that prompts them to nearly sneeze, but never reach the point of actually sneezing, causing prolonged discomfort.</li>
+</ul>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25704 is to be stored in a standard containment locker at Site-19. The locker is to be located in a low-priority wing of the site dedicated to Safe class objects with low potential for breach or misuse. Access to SCP-25704 is restricted to personnel with Level 2 clearance or higher, and it may only be removed for approved study or experimentation under supervision.</p>
+<p>Any experimentation involving SCP-25704 must be proposed and approved by at least one Level 3 Senior Researcher. Researchers must wear protective footwear, such as rubber boots, and earplugs to prevent any accidental effects during experimentation. Direct contact with SCP-25704 outside of experimentation is strictly forbidden, and all personnel must adhere to standard anomalous object handling protocols when interacting with the object.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-25704 was discovered in an abandoned wizard-themed novelty shop located in ██████, England, after multiple reports of unexplained phenomena were anonymously reported to local authorities. Foundation agents embedded in local law enforcement were dispatched to investigate and successfully secured the artifact with no civilian casualties or undue exposure. The shop has since been demolished, and a disinformation campaign was successful in attributing the strange occurrences to a gas leak causing mass hallucinations.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 25704-E1</h4>
+<p><strong>Purpose:</strong> To document the effects of "Summon Shoe Pebble."
+<strong>Procedure:</strong> D-8432 was provided with a standard Foundation-issue shoe and instructed to walk around a 10-meter square for ten minutes.
+<strong>Results:</strong> After D-8432 recited the spell from SCP-25704, the subject reported a small pebble appearing in their shoe after two minutes and thirty seconds. D-8432 was visibly annoyed but completed the walking task. No pebble was recovered post-experiment.</p>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interview 25704-I1</h4>
+<p><strong>Interviewer:</strong> Dr. Alice Hammond
+<strong>Interviewed:</strong> D-8432, a participant in Experiment 25704-E1
+<strong>Foreword:</strong> Interview conducted after Experiment 25704-E1 to assess the subject's psychological reactions to the effects of SCP-25704.</p>
+<p>[BEGIN LOG]</p>
+<p><strong>Dr. Hammond:</strong> Good afternoon, D-8432. How are you feeling post-experiment?</p>
+<p><strong>D-8432:</strong> Fine, I guess. Annoyed mostly. It's hard to walk with a pebble in your shoe, you know?</p>
+<p><strong>Dr. Hammond:</strong> Yes, I can imagine. Would you describe the experience as solely physical, or was there a psychological component as well?</p>
+<p><strong>D-8432:</strong> Psychological, for sure. I knew it wasn't there before, and then suddenly it was, messing with my head. Made me kinda paranoid, thinking about what else that book could do.</p>
+<p><strong>Dr. Hammond:</strong> In your own words, how would you rate the danger or potential of SCP-25704?</p>
+<p><strong>D-8432:</strong> Danger? Nah, it's just really irritating stuff. But I wouldn't want to be on the bad side of whoever wrote it. Imagine needing to sneeze during some important moment in your life and not being able to. Hellish, doc, downright hellish.</p>
+<p>[END LOG]</p>
+<p><strong>Closing Remarks:</strong> D-8432 remained under observation for 24 hours post-experiment with no additional effects recorded. Interview suggests that while SCP-25704's capabilities are limited to minor inconveniences, they should not be underestimated in their potential to psychologically affect individuals.</p>
+<p>```</p></div>
