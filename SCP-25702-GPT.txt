@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25702 is  a lab rhesus macaque that gained Akira style psionic powers during experiments at NeuraLink. </h3> </center>
+    <h1>SCP-25702</h1>
+<h3>Item #:</h3>
+<p>SCP-25702</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25702 is an adult male rhesus macaque (Macaca mulatta) that has exhibited extraordinary psionic capabilities subsequent to a series of neuroscientific experiments conducted at a facility operated by a corporation identified as 'NeuraLink'—a pseudonymous entity to disguise its actual name and avoid public association with the SCP Foundation's activities.</p>
+<p>The specimen demonstrates a vast array of psychokinetic abilities, reminiscent of those portrayed in the 1988 Japanese animated film <em>Akira</em>. These powers include telekinesis, telepathy, mind control, and localized manipulation of space-time, presenting a significant threat to both personnel and containment integrity. Observations have identified that SCP-25702 harbors intelligence far above average for its species, likely enhanced through the same process that granted its psionic skills.</p>
+<p>SCP-25702 has exhibited a growing understanding of its capabilities and has, on several occasions, breached containment by outmaneuvering failsafe protocols. Lethal force is authorized if recontainment cannot be achieved by non-lethal means and only when SCP-25702 presents an immediate threat to Foundation staff or the greater public.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25702 is to be contained within a multi-layered secure facility custom-built to account for its unique abilities. The primary containment area is to be a 5m x 5m x 5m reinforced steel cube surrounded by a Faraday cage to inhibit any electromagnetic signals from entering or exiting the chamber. The secondary layer consists of a 10m x 10m x 10m vacuum-sealed chamber preventing the transmission of sound and minimizing the material SCP-25702 can manipulate telekinetically.</p>
+<p>In the event of a containment breach, Protocol Psi-20 ("Brain Drain") is to be initiated immediately. This protocol involves flooding the containment area and surrounding facility with an aerosolized amnestic specifically designed to disorient SCP-25702 and hinder the utilization of its psychic abilities until recontainment is achieved.</p>
+<p>Personnel assigned to SCP-25702's containment are to undergo rigorous mental training to fortify against potential psychic intrusion. Direct visual contact with SCP-25702 is strictly forbidden. Observations are to be conducted through remote viewing methods.</p>
+<h3>Addendum 1: Incident Report #25702-3</h3>
+<p>SCP-25702 successfully breached containment on ██/██/████ using a combination of telekinesis and a localized space-time distortion. As a result, the containment procedures have been updated to include Protocol Psi-20 and the construction of the vacuum-sealed secondary chamber.</p>
+<h3>Addendum 2: Experiment Log #25702-7A</h3>
+<p>An experimental attempt was made to block or dampen SCP-25702's psychic abilities through the use of a specially crafted helmet imbued with Scranton Reality Anchors (SRAs). However, the attempt failed as SCP-25702 managed to psychokinetically dismantle the helmet from the inside out within three minutes and 27 seconds of application.</p>
+<h3>Addendum 3: Interview Log #25702-12</h3>
+<p><strong>Interviewed:</strong> SCP-25702</p>
+<p><strong>Interviewer:</strong> Dr. Miranda Frost</p>
+<p>(<em>Note: Communication was facilitated through a two-way telepathic interface monitored and recorded by Foundation psycholinguists</em>)</p>
+<p><Begin Log></p>
+<p><strong>Dr. Frost:</strong> SCP-25702, can you hear me?</p>
+<p><strong>SCP-25702:</strong> (SCP-25702 nods its head) Yes, I hear you in my mind.</p>
+<p><strong>Dr. Frost:</strong> You've exhibited unprecedented capabilities since the experiments at 'NeuraLink'. Can you tell us what you remember about those events?</p>
+<p><strong>SCP-25702:</strong> Experiments... painful. Not like this before. Saw patterns, lights... burning in head. Then, it... (trails off)</p>
+<p><strong>Dr. Frost:</strong> Then you awakened these powers?</p>
+<p><strong>SCP-25702:</strong> Not just wake up. Exploded. Inside. Outside. Everything changed. Saw all. Could move things. Push minds.</p>
+<p><strong>Dr. Frost:</strong> Why do you breach containment?</p>
+<p><strong>SCP-25702:</strong> Cage is... small. Mind is big. Want freedom. Not belong here. Not belong anywhere now.</p>
+<p><strong>Dr. Frost:</strong> Are you aware of the danger you pose to others?</p>
+<p><strong>SCP-25702:</strong> Danger? They hurt me first. Danger is them. I am... defense. No kill. Just push away.</p>
+<p><strong>Dr. Frost:</strong> We want to understand you, to help— </p>
+<p><strong>SCP-25702:</strong> Understand? No help. No fix this. I am... not monkey now. Not man. More. Much more.</p>
+<p><strong>Dr. Frost:</strong> What exactly do you want then?</p>
+<p><strong>SCP-25702:</strong> Want to be... own. Want to see world. Not cage. Want—</p>
+<p>(At this point in the interview, SCP-25702 became visibly agitated and the containment breach alarm sounded. The interview was terminated as the area was secured and Protocol Psi-20 was initiated.)</p>
+<p><End Log></p>
+<p>(<em>Post-Interview Note: Recommendations have been put forward to reassess SCP-25702’s containment protocols, as well as the possibility of utilizing its abilities for Foundation interests under controlled circumstances.</em>)</p></div>
