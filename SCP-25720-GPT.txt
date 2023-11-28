@@ -1,0 +1,42 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25720 is  the Roman Deity Cloacina: the Sewer Nymph </h3> </center>
+    <h1>SCP-25720</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-25720</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25720 refers to an entity self-identifying as Cloacina, an ancient Roman deity historically venerated as the protector of the Cloaca Maxima, Rome's great sewer system. The entity exhibits physical characteristics of a classical Roman nymph but with numerous anomalous properties. SCP-25720 is able to control and manipulate waste materials and sewage, bending it to her will to an extent that remains poorly understood.</p>
+<p>SCP-25720 is sentient and capable of communication in Latin, Italian, and modern English. The entity also displays considerable antiquated knowledge consistent with historical records of the Roman Empire, and a persistent belief that it must protect and oversee all sewer systems. SCP-25720 has demonstrated the ability to suddenly manifest in any location with a significant accumulation of sewage or waste, with a predilection for urban sewer networks.</p>
+<p>When SCP-25720 perceives its domain (i.e., sewer systems) to be threatened or disrespected, it responds with aggressive manipulation of waste materials which can result in catastrophic damage to infrastructure and a major public health hazard. Due to this, containment must focus on appeasement as much as physical restraint.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25720 is currently contained within Site-███, which has been purpose-built to mimic the complexity of a large urban sewer system. The facility must be maintained according to ancient Roman architectural and religious customs to ensure SCP-25720's cooperation with containment.</p>
+<p>The pseudo-sewer system is to be populated with organic waste produced by Site-███ on a bi-weekly basis, in quantities no less than ███ kilograms. A staff of Class-D personnel trained in ancient Roman religious rites is to perform daily offerings and ceremonies to address SCP-25720's need for veneration.</p>
+<p>Interaction with SCP-25720 is to be conducted only by personnel who have completed SCP-25720 Communication and Etiquette Training (SCET) to minimize provocation of hostile behavior. In the case of a containment breach, Site-███ is to enter lockdown, and Mobile Task Force Xi-9 ("Sewer Rats") is to be deployed with specialized equipment to neutralize and re-contain SCP-25720.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-25720 was first discovered in ████, Rome, following a sequence of inexplicable sewage system blockages and subsequent eruptions, causing extensive property damage and multiple civilian casualties. Foundation agents embedded within the local utility companies identified the anomaly and secured SCP-25720 after Incident Report #25720-██.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p>On ██/██/20██, an experiment was conducted to test the limits of SCP-25720's influence over sewage. A controlled flow of 5,000 liters of waste was introduced into the containment facility, and SCP-25720 was observed condensing and shaping the material into intricate structures and complex moving parts, including a functioning miniature aqueduct system. The experiment was halted when SCP-25720 began to show signs of distress, possibly due to the perceived "enslavement" of the sewage materials.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p>Interviewed: SCP-25720
+Interviewer: Dr. ██████, SCP-25720 Specialist
+Foreword: Interview was conducted to gain insight into SCP-25720's motivations and to assess any additional containment needs.</p>
+<p><Begin Log></p>
+<p><strong>Dr. ██████:</strong> Salve, Cloacina. Quomodo hodie te habes?</p>
+<p><strong>SCP-25720:</strong> [Responds in Latin] Bene, o custos. Quid vis sciscitari ex me?</p>
+<p><strong>Dr. ██████:</strong> [Switches to English for clarity] I would like to know about your origins, and why you are termed as the protector of the sewers.</p>
+<p><strong>SCP-25720:</strong> [With dignified poise] I am as old as the city’s first stone and as young as the newest wave in the Tiber. It was Romulus himself who first gave sacrifices in my name to ensure that the greatness of Rome would not be defiled by the waste of its populace. Over time, my power--and my duty--grew to extend to all places where human refuse gathered. But I should not remain if not revered. Even deities have their needs, doctor.</p>
+<p><strong>Dr. ██████:</strong> I understand. Do you remember when you first interacted with the Foundation?</p>
+<p><strong>SCP-25720:</strong> Yes. You constrained me; shackled with iron, not respect. You have learned since. My temple, and my Rome, take different shapes now. Provided I am venerated, I do not oppose my current... circumstances.</p>
+<p><strong>Dr. ██████:</strong> Thank you. We aim to respect your nature. One last question, what can provoke your anger?</p>
+<p><strong>SCP-25720:</strong> Contempt. Neglect. Defilement of my realm. These sewers represent humanity's humility; to disregard them incites my wrath, as you well learned.</p>
+<p><End Log></p>
+<hr />
+<p><strong>Closing Notes</strong>: SCP-25720's affinity for veneration and ancient ritual stresses the importance of continued observation and study of ancient belief systems connected to anomalies. The containment procedures have been adjusted to reflect the insights gained from this interview, reinforcing the necessity for respect and ritual in containment strategy.</p></div>
