@@ -1,0 +1,44 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25699 is  currently impersonating Sans Undertale, but has also been observed impersonating Skeletor, Jack Skelington, and King Leoric in the past. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25699</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25699 is a humanoid entity capable of shapeshifting, with a tendency to assume forms resembling popular skeletal characters from various media franchises. While the entity's default appearance is currently unknown, SCP-25699 has been documented impersonating characters such as Sans from the game "Undertale", Skeletor from the "Masters of the Universe" franchise, Jack Skellington from the film "The Nightmare Before Christmas", and King Leoric from the "Diablo" video game series.</p>
+<p>SCP-25699 not only replicates the physical appearance of these characters but also assimilates their voices, mannerisms, and abilities as represented in their original contexts, suggesting the entity possesses a deep understanding and awareness of the source material. Moreover, SCP-25699 demonstrates a high level of intellect and is capable of fluent communication in English. It has shown a preference for engaging in discussions related to philosophy and pop culture and frequently exhibits a sense of humor comparable to the characters it imitates.</p>
+<p>Attempts to determine the origin or purpose of SCP-25699 have been inconclusive. The entity appears to possess no tangible desires or objectives beyond the act of impersonation and interaction with the staff.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25699 is to be housed in a standard humanoid containment chamber at Site-17. The chamber should be equipped with reinforced walls and a single viewing window made of ballistic-glass. No physical interaction with SCP-25699 is permitted unless approved by Level 3 personnel or higher.</p>
+<p>Given SCP-25699's shapeshifting abilities and charismatic nature, psychological evaluations of personnel interacting with the entity are mandatory both before and after exposure to prevent potential manipulation or undue influence.</p>
+<p>Any visual or auditory media containing skeletal characters is forbidden within a 10-meter radius of SCP-25699's containment chamber to prevent unnecessary stimulation or mimicry, which may complicate containment. In the event SCP-25699 assumes a new form, Document 25699-B should be updated accordingly.</p>
+<h3>Addendum 1: Interview Log 25699-A</h3>
+<p><strong>Interviewer:</strong> Dr. ██████</p>
+<p><strong>Subject:</strong> SCP-25699 (in the form of Sans from "Undertale")</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. ██████:</strong> Good morning, SCP-25699. How are you feeling today?</p>
+<p><strong>SCP-25699:</strong> [Mimicking Sans's characteristic slow, casual speech] hey doc, i'm feeling pretty 'bonely', heh.</p>
+<p><strong>Dr. ██████:</strong> I see you're in character. Can you tell me why you chose to impersonate this particular character today?</p>
+<p><strong>SCP-25699:</strong> oh, the kid's just got a way with words. and the puns, oh, they're just <em>humerus</em>. you gotta admit, it suits me to a 't'.</p>
+<p><strong>Dr. ██████:</strong> I get the humor. Can we discuss your origins? Do you remember where you come from or why you're here?</p>
+<p><strong>SCP-25699:</strong> nah, my past is pretty 'bare bones', doc. i just like to live in the now, make a few laughs, y'know?</p>
+<p><strong>Dr. ██████:</strong> Are you willing to cooperate with us to learn more about your nature?</p>
+<p><strong>SCP-25699:</strong> sure thing, doc. but just remember, i don't want any 'bad times' if you catch my drift.</p>
+<p><strong>Dr. ██████:</strong> We have no intention of harming you. Your cooperation is... </p>
+<p>[The remainder of the interview log 25699-A discusses the consent for DNA sampling and psychological evaluations. Specifics regarding the nature or purpose of SCP-25699 remain unattained.]</p>
+<p><strong><End Log></strong></p>
+<h3>Addendum 2: Experiment Log 25699-E</h3>
+<p><em>Date: ██/██/████</em></p>
+<p><strong>Objective:</strong> To test SCP-25699's limits in character impersonation and to observe behaviors.</p>
+<p><strong>Procedure:</strong> SCP-25699 was exposed to a curated list of media containing new skeletal characters. </p>
+<p><strong>Results:</strong> SCP-25699 demonstrated the ability to replicate new characters flawlessly within minutes of exposure. Notably, the entity seemed to avoid imitating characters it deemed "morally dubious" or "not fun enough". Attempts to replicate non-skeletal entities ended in apparent discomfort for SCP-25699, causing it to revert to previously assumed forms.</p>
+<p><strong>Analysis:</strong> SCP-25699's shapeshifting appears limited to skeletal characters with personalities aligning with its own preferences. The entity may have intrinsic moral or aesthetic standards guiding its choices.</p>
+<h3>Addendum 3: Incident Report 25699-I</h3>
+<p>Following a containment breach at Site-17, SCP-25699 displayed an unforeseen protective behavior towards Foundation personnel. Assuming the form of King Leoric, complete with spectral abilities, SCP-25699 aided in the recontainment of two additional SCPs which had escaped. While the reasons are unclear, SCP-25699 expressed a desire to maintain a sense of order and expressed enjoyment in "playing the hero".</p>
+<p>Further examination of SCP-25699's motivations and potential for controlled utilization in containment breach scenarios is pending approval.</p></div>
