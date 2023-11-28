@@ -1,0 +1,41 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25719 is  Giant Mecha Nicholas Cage </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25719</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25719 is an anomalous entity resembling American actor Nicholas Cage in both facial features and voice. However, SCP-25719 significantly differs in scale and composition, as it is a roughly 30-meter tall mechanized structure (hereafter referred to as the "Giant Mecha Nicholas Cage”).</p>
+<p>The entity displays a highly advanced level of technology, seemingly beyond current human capabilities. It is composed primarily of an unknown metal alloy with regenerative properties, making it resistant to conventional weaponry and damage. SCP-25719 is capable of sentient thought, speech, and has demonstrated a range of emotions akin to those of its human counterpart. It also possesses anomalous strength, laser-based weapons systems, and the ability to fly at speeds exceeding Mach 3.</p>
+<p>SCP-25719's behavior is erratic and mimics various characters portrayed by Nicholas Cage throughout his acting career. It has been noted to quote lines from the actor's filmography and refers to itself as "Cage" during communication. The entity has shown a preference for dramatic gestures and an exaggerated sense of justice, often attempting to "right wrongs" it perceives in its immediate environment through displays of force.</p>
+<p>The origin of SCP-25719 remains unknown, and it has not disclosed any information about its creation or purpose. It was first observed in [REDACTED], causing substantial property damage and civilian casualties.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-25719's size and abilities, it cannot be contained by conventional means. Foundation personnel are therefore required to monitor the entity's movements globally using satellite surveillance and a network of undercover agents. Should SCP-25719 become active or move into a densely populated area, Mobile Task Force [REDACTED] (nicknamed "The Critics") is to be deployed to redirect or subdue the entity.</p>
+<p>MTF members are equipped with experimental weaponry designed to temporarily disrupt SCP-25719's regenerative capabilities and flight systems. Large-scale evacuation procedures are to be enacted in coordination with local authorities under the guise of natural disaster preparedness drills to minimize civilian risks.</p>
+<p>The Foundation is also conducting ongoing research into the origins and technological aspects of SCP-25719 with the aim to develop more effective containment measures or potentially disable or reprogram the entity.</p>
+<h3>Addendum 1: Incident Report-25719-A</h3>
+<p>On ██/██/████, SCP-25719 was sighted over the city of [REDACTED]. It appeared to be seeking out individuals engaged in criminal activity, quoting lines from the film "Con Air" while dispatching them with non-lethal force. Intervention from MTF “The Critics” managed to redirect the entity to a nearby uninhabited area where it was engaged until it ceased activity. The entity entered a dormant state which it referred to as "between roles." This phase lasted for approximately 48 hours.</p>
+<h3>Addendum 2: Interview Log-25719-17</h3>
+<p><strong>Interviewer:</strong> Dr. █████
+<strong>Interviewee:</strong> SCP-25719</p>
+<p>[BEGIN LOG]</p>
+<p><strong>Dr. █████:</strong> SCP-25719, can you explain your purpose and origin?</p>
+<p><strong>SCP-25719:</strong> Put... the bunny... back in the box. </p>
+<p><strong>Dr. █████:</strong> I'm not sure what you're referring to. Could you clarify?</p>
+<p><strong>SCP-25719:</strong> Why couldn’t you put the bunny back in the box? </p>
+<p><strong>Dr. █████:</strong> I'm not following. We need to understand more about you. Who created you?</p>
+<p><strong>SCP-25719:</strong> Every man has his destiny. Mine is to be the Cage. I am he, yet not. I am the beginning of a new path.</p>
+<p><strong>Dr. █████:</strong> Are you implying you are more than a tribute to Nicholas Cage?</p>
+<p><strong>SCP-25719:</strong> Tribute? No, I am the next evolution. The Cage ascendant.</p>
+<p>[Further attempts at extracting useful information from SCP-25719 during this interview proved unsuccessful, as it continued to communicate primarily in quotes from Nicholas Cage's movies.]</p>
+<p>[END LOG]</p>
+<h3>Addendum 3: Experiment Log-25719-E</h3>
+<p>On ██/██/████, Dr. ██████ attempted to interface with SCP-25719 using a modified drone equipped with cutting-edge communication and analysis tools. The goal was to explore SCP-25719's internal systems and gain a better understanding of its technological makeup and potential weaknesses.</p>
+<p>The operation resulted in partial success; the drone was able to attach to SCP-25719 and begin transmitting data. Initial findings indicated a fusion of organic and synthetic systems, an incredibly complex neural network with patterns similar to human consciousness, and an energy core with unknown properties.</p>
+<p>However, SCP-25719 became hostile towards the drone, stating it did not "like these snakes on its plane." It subsequently deployed countermeasures, resulting in the loss of the drone and the data it had collected. Further experiments of this nature have been suspended pending a review by the O5 Council.</p></div>
