@@ -1,0 +1,44 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25715 is  the Macy's Transhumanist Winter Sale Event </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25715</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25715 refers to an anomalous phenomenon that exclusively occurs within the confines of the Macy's department store located at ██████████, during its annual Winter Sale Event. The event, which manifests between December 1st and December 24th, causes any individual who enters the store to undergo rapid and uncontrollable bodily modification and technological augmentation, thus becoming instances of SCP-25715-1. </p>
+<p>SCP-25715-1 instances exhibit characteristics typical of radical transhumanist ideals where the human body is enhanced or entirely replaced with mechanical or biological augmentations. The pattern of augmentation appears to be influenced by the individual's personal desires or perceived deficiencies; however, these desires are invariably amplified to destructive extremes. Modifications range from simple limb replacement to complete biological removal and subsequent digitization of consciousness. </p>
+<p>The transition into SCP-25715-1 is reported to be painless and is often accompanied by intense euphoria. Instances retain their memories and personalities but invariably adopt a singular drive towards further self-augmentation and proselytizing the perceived benefits of transhumanism. They show no regard for their own safety or the safety of others, often attempting to forcefully convert non-affected individuals into similar instances.</p>
+<p>The phenomenon's origin, its methods of biological and mechanical integration, and how it manages to evade detection outside of the event's occurrence, remain undetermined despite extensive investigation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>The entire Macy's store has been acquired by the SCP Foundation under the front company "Secure Retail Holdings" and is to remain closed to the public indefinitely. A standard two-meter perimeter fencing has been established around the site, with biometrically secured access points. Armed guards are to patrol the perimeter at all times.</p>
+<p>During the period of SCP-25715's manifestation, the site is to enter Lockdown Protocol 25715-Echo. This involves the activation of an on-site Scranton Reality Anchor and the deployment of a specialized task force equipped to handle transhuman and technological threats. Any attempts made by SCP-25715-1 instances to breach containment are to be met with lethal force as a last resort.</p>
+<p>Given the unpredictable and varied nature of SCP-25715 transformations, all scientific personnel interacting with instances must do so in remote-operated containment chambers. Researchers are to wear protection against cognitohazard exposure and are instructed to follow standard decontamination protocols upon exiting the containment area.</p>
+<p>Any marketing, signage, or digital promotions pertaining to the Macy's Winter Sale Event are to be intercepted and suppressed by Foundation cyber operations teams.</p>
+<h3>Addendum 1: Experiment Log 25715-A</h3>
+<blockquote>
+<p><strong>Test A - Date:</strong> ██/██/████<br />
+<strong>Procedure:</strong> D-19806 was introduced into the event space during inactive periods and directed to interact with sale items.<br />
+<strong>Results:</strong> D-19806 reported no unusual sensations or desires. No anomalous effects observed.<br />
+<strong>Notes:</strong> This confirms SCP-25715's effects are tied to the event's temporal window.</p>
+</blockquote>
+<h3>Addendum 2: Interview Log 25715-B</h3>
+<blockquote>
+<p><strong>Interviewed:</strong> Recovered SCP-25715-1 instance, formerly Dr. ████████<br />
+<strong>Interviewer:</strong> Dr. L████  </p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. L████:</strong> Can you describe your first experiences within SCP-25715's sphere of influence?</p>
+<p><strong>SCP-25715-1:</strong> It was... exhilarating. I was just trying on a coat when suddenly, I saw everything clearly — my bodily limitations, society's slow crawl towards betterment... I knew what I had to become.
+(Transcript condensed due to length; full interview available in file 25715-B-Extended.)</p>
+<p><strong><End Log></strong></p>
+<p><strong>Notes:</strong> The interview lasted for three hours and included a detailed account of Dr. ████████'s transformation. Extracted information has offered insight into the psychological effects of SCP-25715 and potential memetic influences. </p>
+</blockquote>
+<h3>Addendum 3: Recovery Log 25715-C</h3>
+<p>On ██/██/████, SCP Foundation Agents successfully intercepted a shipment meant for the Macy's department store that contained several boxes of unmarked, highly advanced prosthetics and unidentified cybernetic implants. These parts were later confirmed to exhibit memetic properties characteristic of SCP-25715. Further investigation into the shipment's origin and supplier is ongoing.</p>
+<p>On-site examinations have revealed the devices possess self-replicating nanotechnology capable of infiltrating biological systems. Testing has been authorized on Class-D personnel with appropriate containment precautions.</p>
+<p>The discovery of the shipment supports the theory that SCP-25715 may not be a self-contained phenomenon but rather the result of external influence with the intent to propagate a transhumanist agenda. Further action and adjustment to containment procedures and threat assessment are pending O5 review.</p></div>
