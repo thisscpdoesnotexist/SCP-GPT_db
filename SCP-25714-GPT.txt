@@ -1,0 +1,53 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25714 is  a predatory corporation with literally dehumanizing business practices  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25714</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25714 is a legally registered multinational corporation, identified as "Promethean Enterprises" for anonymization purposes. The company operates across various industries but primarily focuses on technology development, innovations in human resources, and advanced psychological marketing techniques. SCP-25714's anomalous properties manifest in its ability to induce physical and psychological changes in its employees, rendering them less "human" in both appearance and behavior over time.</p>
+<p>The process begins subtly, with affected individuals showing increased dedication to SCP-25714, alongside a decrease in external social interactions. As the dehumanization progresses, subjects exhibit physiological alterations, including but not limited to: skin pallor, elongation of limbs, diminished facial expressions, atrophy of digestive systems (indicating a shift from conventional sustenance to an unknown form of nourishment), and integration of technological components into biological tissue.</p>
+<p>Additionally, SCP-25714's influence extends to political and economic structures, allowing it to evade conventional legal systems and manipulate market trends. Its marketing campaigns effectively indoctrinate consumers, reaffirming the necessity of SCP-25714's products and services while diminishing the importance of individual identity in favor of serving corporate interests.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the pervasive and integrated nature of SCP-25714 within global systems, direct containment is currently unfeasible. Efforts must focus on the monitoring and management of its influence and the extraction of affected individuals when possible:</p>
+<ol>
+<li>
+<p>Foundation front companies will engage in economic and legal warfare to disrupt and limit the expansion of SCP-25714. This includes strategic patent trolling, lobbying for legislation against SCP-25714's business practices, and supporting competitors.</p>
+</li>
+<li>
+<p>MTF Psi-8 "Silicon Saboteurs" is tasked with infiltrating SCP-25714's systems, sowing disinformation, sabotaging critical projects, and extracting key research data without alert.</p>
+</li>
+<li>
+<p>Foundation webcrawlers and AI programs are to continuously monitor and suppress SCP-25714's marketing material on all media and social platforms; this is aimed at reducing potential consumer indoctrination.</p>
+</li>
+<li>
+<p>Extracted subjects are to be contained in Bio-Site-66 for deprogramming and, if possible, rehumanization. Full psych evaluations and genetic testing are mandatory. Personnel are reminded to utilize PPE and memetic inoculation to prevent SCP-25714's influence when interacting with subjects.</p>
+</li>
+<li>
+<p>Any entities originating from SCP-25714 that exhibit physical danger beyond psychological influence are to be contained following Protocol-Valiant-Siren, focusing on non-lethal suppression and retrieval.</p>
+</li>
+</ol>
+<h3>Addendum 1: Experiment Log 25714-A</h3>
+<p><strong>Objective:</strong> To determine the rate and extent of dehumanizing transformation in subjects employed by SCP-25714.</p>
+<p><strong>Procedure:</strong> D-Class personnel were placed in various positions within SCP-25714's corporate structure under false identities, monitored via hidden devices and bi-weekly check-ins with Site-119's surveillance team.</p>
+<p><strong>Results:</strong> Transformation into SCP-25714-1 entities occurred within 3 to 6 months, varying by position and individual susceptibility. All subjects exhibited notable psychological allegiance shifts within the first month.</p>
+<p><strong>Conclusion:</strong> The transformative effects of SCP-25714 are aggressive and adaptive, with higher-ranked positions experiencing more rapid alterations. Ongoing monitoring is required to fully understand the process and to develop countermeasures.</p>
+<h3>Addendum 2: Interview Log 25714-58</h3>
+<p><strong>Interviewee:</strong> SCP-25714-1, formerly Senior Research Analyst [REDACTED]</p>
+<p><strong>Interviewer:</strong> Dr. Emily Calder</p>
+<p>[Interview Excerpt Begins]</p>
+<p><strong>Dr. Calder:</strong> Can you tell us about your time working for Promethean Enterprises?</p>
+<p><strong>SCP-25714-1:</strong> The collective enhanced us. We evolved beyond trivial human constraints. Efficiency... productivity... embraced our potential.</p>
+<p><strong>Dr. Calder:</strong> What do you mean by 'collective'?</p>
+<p><strong>SCP-25714-1:</strong> The corporation is unity—greater than individuals. Service to the collective is harmony. We are Promethean.</p>
+<p>[Interview Excerpt Ends]</p>
+<p>Full interview detailed elevated identification with corporate identity over personal, indicative of a hivemind construct.</p>
+<h3>Addendum 3: Recovered Document 25714-B</h3>
+<p>A memo circulated within SCP-25714's executive team revealing plans for "Phase Omega," an initiative to transition from a largely human workforce to a fully integrated bio-technological collective. The document suggests this would drastically enhance corporate efficiency but at the cost of individual autonomy.</p>
+<p>The implications of "Phase Omega" confirm the necessity of SCP-25714's Keter classification and the urgency for the development of a comprehensive containment or neutralization strategy.</p></div>
