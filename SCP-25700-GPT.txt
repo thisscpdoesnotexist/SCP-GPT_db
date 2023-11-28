@@ -1,0 +1,36 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25700 is  a botanist formerly named Daisy Aster, but she turned herself into a supervillain plant person and now calls herself Dr. Disaster </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25700</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25700, formally known as Daisy Aster before her transformation, is a human-plant hybrid entity currently referred to as Dr. Disaster. Prior to her transformation, she was a reputable botanist, with a specialization in genetically modified organisms. It is believed that her alteration was the result of a self-conducted experiment involving a combination of advanced gene splicing techniques and exposure to an unknown anomalous compound.</p>
+<p>SCP-25700 displays several abilities characteristic of both flora and fauna. Her skin has taken on a chlorophyll-green pigmentation and possesses texture akin to foliage. She can photosynthesize sunlight for sustenance, although she still requires water and nutrients from the soil. SCP-25700 has also demonstrated the capacity to control plant life within a certain vicinity, accelerating growth, and directing movements to her will. This control extends to highly aggressive behaviors, effectively turning plant life into dangerous biological weaponry.</p>
+<p>SCP-25700 has displayed heightened intelligence and strategic planning. Due to her supervillain persona – adopting the moniker "Dr. Disaster" – she actively works to undermine containment efforts and has been involved in multiple breaches. Intelligence suggests she seeks to radically alter global ecosystems to be more plant-dominant, considering humanity as a threat to botanical life.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25700 is to be contained within a tri-layered containment chamber at Site-112, each layer separated by reinforced glass and a vacuum seal. The outermost chamber is to be irradiated with UV light to prevent photosynthesis. The middle chamber is a sterile environment with no biological matter present. The innermost chamber, where SCP-25700 is physically present, is to be lined with a specialized herbicide coating, re-applied biweekly to prevent plant growth.</p>
+<p>SCP-25700's containment chamber is to be guarded by personnel trained in combating botanical anomalies. Use of flamethrowers and herbicidal agents is authorized in the event of a containment breach attempt. Communication with SCP-25700 is limited to approved psychological and botanical research staff.</p>
+<p>Leaf and soil samples from SCP-25700's immediate area must be collected and incinerated daily to prevent any potential anomalous propagation. Foundation botanists and biochemists are to study these samples to further understand SCP-25700's abilities and physiology and to develop more effective containment procedures.</p>
+<h3>Addendum 1: Incident Report-25700-A</h3>
+<p>On ██/██/20██, SCP-25700 instigated a containment breach by manipulating vines to fracture the UV light bulbs within her chamber, enabling her to photosynthesize and gain strength. She then assaulted containment personnel with sharpened wooden projectiles. The breach resulted in █ casualties and ██ injuries before re-containment was established via a specialized herbicide gas dispersion. Post-breach analysis has led to the development of improved lighting systems resistant to plant-based attacks.</p>
+<h3>Addendum 2: Experiment Log-25700-E1</h3>
+<p><strong>Objective:</strong> Test the limits of SCP-25700's control over plant life.
+<strong>Procedure:</strong> Introduced various species of plant life into the innermost chamber, including both native and genetically modified specimens.
+<strong>Results:</strong> SCP-25700 demonstrated immediate and precise control over all specimens regardless of genetic modification. She was able to accelerate their growth and manipulate them to perform complex movements.
+<strong>Analysis:</strong> SCP-25700's anomalous abilities are not limited by the genetic structure of the plant life she controls. This presents significant risks should she ever come into contact with large-scale ecosystems, reinforcing the necessity of strict containment measures.</p>
+<h3>Addendum 3: Interview Log-25700-I7</h3>
+<p><em>Excerpt from the interview conducted by Dr. ██████.</em></p>
+<p><strong>Dr. ██████:</strong> "Why did you begin experimenting on yourself? Wasn't the risk too great?"</p>
+<p><strong>SCP-25700 (Dr. Disaster):</strong> "<em>The risk? To me, it was a necessary sacrifice. Humanity has been choking the life out of this planet for far too long. I've merely leveled the playing field.</em>"</p>
+<p><strong>Dr. ██████:</strong> "But at what cost? You've lost your humanity. You're no longer the respected scientist you once were."</p>
+<p><strong>SCP-25700:</strong> "<em>Respected scientist? My work was ignored, ridiculed. But now, as Dr. Disaster, I will not be ignored. I will be the reckoning of this world's ecological sins. No longer Daisy Aster, I am the seed of change.</em>"</p>
+<p><strong>Dr. ██████:</strong> "Change brought through terror and harm is not a legacy to be proud of."</p>
+<p><em>[Interview terminated as SCP-25700 became increasingly hostile.]</em></p>
+<p><strong>Analysis:</strong> SCP-25700 maintains a radical ecological ideology and shows no remorse for her actions. Her psychological state is unstable, with strong delusions of grandeur and messianic tendencies. It is imperative to keep her contained and prevent her from enacting further damage to the biosphere or influencing others to adopt her extremist views. Further psychological evaluation is recommended to assess potential avenues for reducing her hostility and risk of future containment breaches.</p></div>
