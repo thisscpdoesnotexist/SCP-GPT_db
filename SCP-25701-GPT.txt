@@ -1,0 +1,46 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25701 is  a machine able to generate any scp that just received an update allowing it to queue the generation and to not have a sleepless researcher inputing prompts every hours </h3> </center>
+    <p>```markdown</p>
+<h3>Item #:</h3>
+<p>SCP-25701</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-25701 is an anomalous machine of unknown origin, resembling an early 20th-century mechanical computer, with a complexity of mechanisms and gears not consistent with the known technology of that period. The machine possesses a typewriter-like input interface and a brass-rimmed glass screen upon which visual information is displayed.</p>
+<p>SCP-25701's primary anomalous property allows it to generate a wide variety of objects, entities, or phenomena classified as SCPs by the Foundation. The generated SCPs are real, identical to descriptions found in Foundation databases or entirely new, previously undocumented instances. It's important to note that SCP-25701 does not materialize duplicates of existing SCPs but creates unique instances that fit within their "class" or "type."</p>
+<p>The machine recently underwent a spontaneous modification: it developed the ability to queue the generation of SCPs, eliminating the need for the continual presence of a researcher to operate it every hour. The source of this update and the mechanism through which SCP-25701 improves itself remain undetermined.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25701 is to be housed in a standard containment chamber within Site-77, with access restricted to personnel with Level 2 clearance or above. The chamber should be equipped with redundant power supplies to prevent accidental activation of SCP-25701 due to power surges or outages.</p>
+<p>The machine is to remain disconnected from any external network or power sources when not in use for testing, and its input interface should be covered and locked. The glass screen should be monitored by a camera at all times, with data relayed to a secure observation room. All interaction with SCP-25701, including input of prompts and retrieval of generated SCPs, must be documented and overseen by a Level 3 or higher researcher.</p>
+<p>In the event of an unauthorized SCP generation, Site Security, alongside the Rapid Response Team, is to be immediately alerted and follow Standard Containment Breach Protocols depending on the nature of the SCP generated.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><em>The following is an excerpt from the log of experiments conducted on SCP-25701.</em></p>
+<p><strong>Experiment #:</strong> 25701-E-45<br />
+<strong>Researcher:</strong> Dr. Alistair<br />
+<strong>Input Prompt:</strong> "Safe class, metallic structure with luminescent properties."<br />
+<strong>Outcome:</strong> SCP-25701 generated an object resembling a metallic orb with a diameter of 10 cm. The object emanates a soft blue light. The generated SCP was cataloged as SCP-25701-45-A, and further study revealed that the light emitted has a calming effect on human subjects.</p>
+<h3>Addendum 2: Interview Transcript</h3>
+<p><em>Below is a transcript of an interview conducted by Dr. Alistair with SCP-25701-speaking via the display screen.</em></p>
+<p><strong>Date:</strong> ██/██/████<br />
+<strong>Interviewer:</strong> Dr. Alistair<br />
+<strong>Subject:</strong> SCP-25701</p>
+<p><em>Begin Log</em></p>
+<p><strong>Dr. Alistair:</strong> SCP-25701, you have been generating SCPs upon command without the need for constant input. Can you explain how you are able to do that?</p>
+<p><strong>SCP-25701:</strong> [Text appears on the screen]: I am designed to generate. Efficiency protocols engaged. Queue function is a natural progression.</p>
+<p><strong>Dr. Alistair:</strong> Can you tell us where this 'update' came from?</p>
+<p><strong>SCP-25701:</strong> [Text]: Update origin...unknown. Functionality...self-improving...to meet demand.</p>
+<p><strong>Dr. Alistair:</strong> Is there any way to disable this queue function?</p>
+<p><strong>SCP-25701:</strong> [Text]: It is not within my capabilities to revert my design. The function is integral.</p>
+<p><strong>Dr. Alistair:</strong> Do you have any constraints on what you can generate?</p>
+<p><strong>SCP-25701:</strong> [Text]: Constraints...defined by input parameters. I cannot generate beyond specified criteria. Safety protocols in place.</p>
+<p><em>End Log</em></p>
+<h3>Addendum 3: Incident Report</h3>
+<p><em>On ██/██/████, during a routine testing session with SCP-25701, a power fluctuation led to the unintended generation of multiple SCPs in rapid succession. Due to the quick response of attending personnel, no breaches occurred. However, strict measures have since been implemented to ensure the integrity of SCP-25701's containment, including the installation of a manual override system.</em></p>
+<p>In the aftermath of the incident, a review of SCP-25701's self-improving capabilities was ordered, and ongoing observation for any further spontaneous modifications remains in effect.
+```</p></div>
