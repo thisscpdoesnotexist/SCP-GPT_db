@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25721 is  an unspeakable truth </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25721</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25721 is an anomalous cognitive phenomenon activated upon the verbal, written, digital, or mental communication of a specific truth, henceforth referred to as the "<em>Unspeakable Truth</em>." The content of this truth is not fully understood due to the inherent nature of the anomaly, and all attempts at direct documentation have resulted in immediate activation of SCP-25721's effects.</p>
+<p>Individuals, designated SCP-25721-1, who attempt to disclose the Unspeakable Truth immediately suffer from severe neurological alterations leading to cerebral hemorrhaging, irreversible brain damage, and, in 98% of cases, death within seconds. Notably, individuals who inadvertently come close to discovering SCP-25721 through independent means are subject to a similar, although less severe, set of symptoms referred to as SCP-25721-2. These symptoms include migraines, memory loss, and acute paranoia, likely serving as a deterrent against further investigation.</p>
+<p>SCP-25721-1 instances do not display any signs of precognition or understanding that communication of the Unspeakable Truth would result in harm. Instances of SCP-25721-2, upon recovery, exhibit a significant aversion to topics potentially related to SCP-25721 or the Unspeakable Truth. It is hypothesized that this may be a survival mechanism induced by the anomaly.</p>
+<p>Due to the lack of physical manifestation and the anomaly's trigger being knowledge-based, containment of SCP-25721 is focused on suppression of information and prevention of its transmission.</p>
+<h3>Special Containment Procedures:</h3>
+<p>The true nature of SCP-25721 must not be recorded in any form; hence, this document contains no direct references to the content of the Unspeakable Truth. Containment efforts are currently directed at monitoring and intercepting any communications that may pertain to SCP-25721. All Foundation personnel with potential knowledge of SCP-25721's specifics are equipped with neuro-inhibitors to prevent accidental internal contemplation or communication of the Unspeakable Truth.</p>
+<p>A disinformation campaign is ongoing to discredit any public discussions or theories that seem to converge upon the characteristics of SCP-25721. Agents embedded in universities, research institutions, and relevant think tanks are authorized to divert or terminate studies that might lead to SCP-25721 discovery.</p>
+<p>Individuals suspected of being exposed to the Unspeakable Truth are to be quarantined immediately, with a Cover Story-25721 ("Severe Contagious Psychosis") implemented as needed.</p>
+<h3>Addendum 1:</h3>
+<p>Upon initial containment of SCP-25721, any physical documentation immediately caused catastrophic containment breaches. An Emergency O5 Council meeting decreed the prohibition of recording any information regarding SCP-25721’s true nature. Foundation AI systems have been updated to identify and expunge any such data automatically. </p>
+<h3>Addendum 2: Interview Log 25721-█</h3>
+<p><em>Interviewer: Dr. █████</em></p>
+<p><em>Subject: D-84230 (Recovered SCP-25721-2 research assistant)</em></p>
+<p>[Begin Log]</p>
+<p>Dr. █████: "Hello, D-84230. How are you feeling today?"</p>
+<p>D-84230: "Confused, doc. I keep forgetting things. Things that seem important."</p>
+<p>Dr. █████: "That's to be expected after your exposure. Do you remember what led up to the incident?"</p>
+<p>[DATA EXPUNGED]</p>
+<p>D-84230: "I... I can't... My head... It's hurting again."</p>
+<p>Dr. █████: "It’s okay. We don't need to continue on that subject. Do you experience any aversion to certain topics now?"</p>
+<p>D-84230: "Yeah, doc. There are words, ideas... they just make my head scream. I stay away."</p>
+<p>[End Log]</p>
+<p><em>Note: D-84230 was provided with amnestics and remains under observation.</em></p>
+<h3>Addendum 3: Experiment Log 25721-E</h3>
+<p><strong>Experiment 25721-E-19</strong></p>
+<p><em>Aim: To ascertain the threshold of neutrality at which the topic can be discussed without triggering SCP-25721.</em></p>
+<p><em>Procedure: Automated AI-driven analysis systems gradually approached the border of unsafe knowledge domain.</em></p>
+<p>[Begin Log]</p>
+<p>[Hour 0: Safe knowledge parameters established. Begin incremental approach.]</p>
+<p>[Hour 2: Approaching unsafe knowledge threshold. No adverse effects on equipment or monitoring personnel.]</p>
+<p>[DATA EXPUNGED]</p>
+<p>[Disastrous neural consequences among supervising staff. Containment breach initiated. Emergency protocols activated.]</p>
+<p>[End Log]</p>
+<p><em>Result: Determined threshold lies within a significantly small margin of error. Experiment led to the refinement of containment protocols and improved automated monitoring capabilities.</em></p></div>
