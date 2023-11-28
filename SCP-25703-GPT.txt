@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25703 is  My grandma, who not only recovered from dementia and heart failure, she's now stronger than ever. In fact she's becoming too strong. Her family and the doctors are all terrified of what she's becoming. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25703</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25703 refers to an elderly female human, henceforth referred to as the subject, who has undergone an anomalous and unprecedented reversal of age-related degenerative diseases, including severe dementia and heart failure. Initially believed to be a miraculous recovery, the subject's condition has advanced beyond typical human recuperative capabilities. </p>
+<p>The anomaly was first noted when the subject's physical strength began to exponentially increase, reaching levels far beyond peak human performance. SCP-25703 exhibits the following anomalous properties:</p>
+<ol>
+<li>Accelerated regeneration of damaged tissues, including the reversal of neurodegenerative disease symptoms and the repair of previously irreparable cardiac damage.</li>
+<li>Progressively enhancing musculature with no observed ceiling to strength augmentation, posing significant risk to individuals and infrastructure.</li>
+<li>Resistance to sedatives and tranquilizers, making control and containment exceedingly difficult.</li>
+<li>An altered mental state, with the subject often displaying heightened aggression, possibly as a result of the rapid physiological changes.</li>
+</ol>
+<p>Since the manifestation of these properties, SCP-25703 has been the cause of numerous containment breaches and has inflicted casualties among medical and security personnel.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25703 is to be contained within a custom-built containment cell at Site-██, constructed of reinforced steel and embedded with shock-absorbing materials to withstand the subject's enhanced strength. The cell is to be monitored around the clock via multiple high-strength cameras and motion sensors. </p>
+<p>The subject is to be fed with a mechanical delivery system, and all waste is to be removed via automated processes to minimize human interaction. Under no circumstances is personnel allowed to enter the containment cell without proper authorization and without a minimum team of six (6) armed guards equipped with heavy tranquilizer guns.</p>
+<p>In the event of a containment breach, Site-██ is to initiate emergency protocol Epsilon-12, which includes immediate lockdown and deployment of Mobile Task Forces equipped with high-strength restraints and non-lethal incapacitating weapons.</p>
+<p>A research team comprised of medical experts, gerontologists, and anomalous power specialists is assigned to observe and document SCP-25703's continued physiological changes, with the aim of finding a means to halt or reverse the anomalous progression.</p>
+<h3>Addendum 1: Incident Report 25703-A</h3>
+<p>On ██/██/20██, SCP-25703 broke containment by violently tearing through the cell wall during routine containment cell maintenance. The subject inflicted multiple casualties before being re-contained by Mobile Task Forces. SCP-25703's cell has since been reconstructed to higher specifications, and maintenance protocols have been updated to prevent such breaches.</p>
+<h3>Addendum 2: Experiment Log 25703-E1</h3>
+<p>A controlled experiment was conducted on ██/██/20██ to determine the limits of SCP-25703's strength. A series of increasingly resistant materials were presented to the subject, all of which SCP-25703 was able to fracture or outright destroy. Notable was the subject's ability to bend a steel I-beam, originally thought to be well beyond human capability. These tests suggest that SCP-25703's strength is still increasing, warranting the Keter classification.</p>
+<h3>Addendum 3: Interview Log 25703-I1</h3>
+<p><strong>Interviewer:</strong> Dr. ███████ </p>
+<p><strong>Subject:</strong> SCP-25703</p>
+<p><strong>Foreword:</strong> The following interview was conducted through a reinforced intercom system after previous aggressive incidents. The intention was to gain insight into SCP-25703's psyche and potential awareness of her condition.</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. ███████:</strong> Good morning, SCP-25703. How are you feeling today?</p>
+<p><strong>SCP-25703:</strong> I don't understand. Where is my family? Why can't I see them?</p>
+<p><strong>Dr. ███████:</strong> Your family is safe, but we need to discuss your condition. You've become increasingly stronger, and it's a risk to those around you. Do you understand?</p>
+<p><strong>SCP-25703:</strong> I want to go home. This strength, it's not natural. I didn't ask for this. I just want to be me again.</p>
+<p><strong>Dr. ███████:</strong> We're trying to help you, to understand how to reverse this. Can you tell me when you first realized you were becoming stronger?</p>
+<p><strong>SCP-25703:</strong> It started after the illness. At first, I was grateful to feel healthy again, but... it didn't stop. Things broke in my hands, I hurt my caregivers without meaning to. It's a curse.</p>
+<p><strong>Dr. ███████:</strong> Are you aware of your actions when you become aggressive?</p>
+<p><strong>SCP-25703:</strong> Sometimes it's like a dream. I see faces, hear screams, but it's all through a fog. It's not me, doctor. Something else takes over when I get like that.</p>
+<p><strong>Dr. ███████:</strong> Thank you, SCP-25703. We'll do all we can to help you regain control.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Closing Statement:</strong> The interview suggests that SCP-25703 maintains some level of awareness and is distressed by her condition. Research teams are exploring methods to alleviate the subject's aggressive tendencies and control the anomalous strength. Subsequent interviews will be scheduled to further assess SCP-25703's mental state and potential for rehabilitation.</p></div>
