@@ -1,0 +1,37 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25724 is  the truth behind the Max Headroom incident that the public isn't aware of. </h3> </center>
+    <p>```</p>
+<h3>Item #:</h3>
+<p>SCP-25724</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25724 is the designation given to a series of anomalous cybernetic and televisual phenomena linked with the 1987 broadcasting signal hijacking event, colloquially known as the "Max Headroom Incident." SCP-25724 is unique in its ability to manipulate broadcasting signals, digital streams, and even individuals who have interacted deeply with the data related to the incident.</p>
+<p>SCP-25724-A refers to the visual and audio feed which resembles the original broadcast signal intrusion, characterized by a distorted individual wearing a Max Headroom mask and sunglasses. However, SCP-25724-A exhibits a high degree of cognizance and has communicated directly with Foundation personnel on several occasions. Interactions suggest SCP-25724-A possesses intimate knowledge of those it communicates with, often referencing events or personal information not publicly available.</p>
+<p>SCP-25724-B refers to the collective psychological effect on individuals who have viewed or studied the SCP-25724-A broadcast. Symptoms include paranoia, obsession with discovering "the truth" behind the signal intrusion, headaches, visual hallucinations, and in severe cases, psychotic breaks leading to memetic contamination.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the nature of SCP-25724, total containment is currently impossible. Instead, containment efforts are focused on suppression, misinformation, and monitoring. Foundation web crawlers are to immediately flag and suppress any online reproduction or discussion of SCP-25724. Agents embedded in various telecommunication companies and government agencies are to ensure any anomalous broadcasting is traced and terminated promptly.</p>
+<p>Individuals identified as being affected by SCP-25724-B are to be detained, debriefed, and administered Class-C amnestics. A disinformation campaign is ongoing to discredit leaked information about SCP-25724 wherein it is to be portrayed as an elaborate hoax or piece of performance art.</p>
+<p>Foundation researchers studying SCP-25724-A's broadcasts must do so in controlled environments. Such personnel are to be monitored for symptoms of SCP-25724-B and given regular psychological evaluations.</p>
+<h3>Addendum 1: Incident Log</h3>
+<p>On November 22, 1987, at approximately 21:00 CST, two broadcast signals in Chicago, Illinois were hijacked by an unknown source for a duration of 25 seconds and later for approximately 90 seconds. The culprit was never officially identified. Foundation involvement began when researchers noted several subsequent disappearances and mental breakdowns among individuals investigating the incident, leading to the classification of SCP-25724.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p>Interview Log SCP-25724-█
+Date: ██/██/████
+Interviewer: Dr. ██████
+Subject: D-78412 (post-exposure to SCP-25724-A)</p>
+<p>The interview transcript is notably lengthy and details the psychological impact of SCP-25724-A on D-78412, who exhibits paranoia and claims SCP-25724-A communicated personal and classified information to him during the viewing. D-78412 begins to verbalize several Foundation secrets before the interview is abruptly terminated.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<p>Experiment SCP-25724-█
+Date: ██/██/████
+Lead Researcher: Dr. ████████</p>
+<p>Procedure: Utilizing a secure containment chamber lined with Faraday shielding, D-Class personnel were exposed to SCP-25724-A's broadcast. Following exposure, individuals were monitored for behavior changes and interrogated for content relayed.</p>
+<p>Results: D-Class subjects exhibited a strong fixation on the message content, with several insisting that SCP-25724-A imparted "profound truths." Specific details from the broadcast were inconsistent between subjects, suggesting SCP-25724-A may be tailored to individuals. One D-Class subject [DATA EXPUNGED], necessitating termination. Further experimentation approved with an emphasis on cognitive resistance training for D-Class personnel.</p>
+<p>Note: [DATA EXPUNGED] has prompted a reevaluation of containment procedures and a heightened security protocol for all future research involving SCP-25724.
+```</p></div>
