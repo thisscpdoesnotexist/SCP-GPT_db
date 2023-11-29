@@ -1,0 +1,56 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25723 is  a light smattering of cosmic horror to brighten your day </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25723</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25723 is an anomalous phenomenon that manifests itself as an ethereal, luminescent mist with a tendency to change hues intermittently, ranging from a soothing violet to a deep, ominous crimson. The mist exhibits a form of sentience and can expand or contract in size, appearing to communicate through pulsating patterns of light. SCP-25723 predominantly appears in locations with recent histories of psychological trauma or distress, though it has also been documented in areas of historical or cosmic significance.</p>
+<p>Physical interaction with SCP-25723 has unpredictable effects on living organisms. Reports range from euphoric hallucinations and heightened understanding of the universe to severe psychological disturbances and irreversible cognitive fragmentation. The mist itself does not seem to adhere to our current understanding of spacetime, occasionally causing minor visual and temporal anomalies in its immediate vicinity.</p>
+<p>The most chilling aspect of SCP-25723 is the recurring theme of "cosmic horror" in the experiences of those exposed to it. Survivors often describe encounters with incomprehensible entities or revelations that hint at the futility of human understanding when faced with the true nature of the cosmos.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given its unpredictable nature and tendency to manifest spontaneously, SCP-25723 cannot be contained in a traditional sense. The SCP Foundation has established Mobile Task Force Sigma-9 ("Stargazers") to track, document, and manage appearances of SCP-25723.</p>
+<p>Upon the detection of SCP-25723, the following protocol must be initiated:
+1. Establish a perimeter around the affected area, enforcing a strict no-entry zone to prevent unauthorized access.
+2. Deploy a specialized containment crew equipped with Faraday-cage-like suits to minimize the risk of exposure.
+3. Utilize high-intensity floodlights to disperse the mist while recording its behavior and response.
+4. Monitor affected individuals for symptoms of exposure and administer amnestics as needed to mitigate long-term psychological effects.
+5. Collect all data on SCP-25723's manifestation for further study.</p>
+<p>Should SCP-25723 begin to display aggressive tendencies or expand beyond a controllable size, an immediate escalation to Level 4 containment protocols and potential engagement of the Scranton Reality Anchors (SRAs) must be executed.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Interview Log 25723-A</strong>
+<em>Interviewer: Dr. Anika Patel</em>
+<em>Subject: Mr. [REDACTED]</em></p>
+<p><strong>Dr. Patel:</strong> Can you describe what you saw when you encountered SCP-25723?</p>
+<p><strong>Mr. [REDACTED]:</strong> It was... beautiful, at first. Like the aurora borealis, but... alive. Then it changed, Dr. Patel. It all changed when the lights turned red.</p>
+<p><strong>Dr. Patel:</strong> Red?</p>
+<p><strong>Mr. [REDACTED]:</strong> Yes, a deep crimson. That's when I heard them... the whispers. They told me things—how insignificant we are, how the stars are but windows to our doom.</p>
+<p><strong>Dr. Patel:</strong> Did you understand what these entities wanted?</p>
+<p><strong>Mr. [REDACTED]:</strong> Understand? No, no one can understand. We're not meant to. They were amused by my trying, though; I could feel their laughter in my bones.</p>
+<p><em>[Interview continues for another two hours, with Mr. [REDACTED] oscillating between moments of lucidity and incomprehensible ranting.]</em></p>
+<h3>Addendum 2:</h3>
+<p><strong>Experiment Log 25723-B</strong>
+<em>Subject: D-6682 (female, 28 years old, no prior psychological issues)</em>
+<em>Procedure: D-6682 was exposed to SCP-25723 under controlled conditions, then monitored for behavioral changes.</em></p>
+<p><strong>T+00:01</strong>: D-6682 expresses a sense of calm and awe at the initial sight of SCP-25723.
+<strong>T+00:10</strong>: SCP-25723 emanates a low-frequency hum. D-6682 appears entranced.
+<strong>T+00:30</strong>: The mist pulsates rapidly. D-6682 reports "hearing" colors.
+<strong>T+00:45</strong>: Subject falls to the ground, covering her ears and screaming that "the void is singing."
+<strong>T+01:00</strong>: SCP-25723 retracts from the subject, who remains unresponsive for several minutes.
+<strong>T+01:15</strong>: D-6682 recovers with no recollection of the event but insists that she now understands the "cadence of the universe."</p>
+<p><em>[Additional details omitted for brevity. Consult detailed log for full records.]</em></p>
+<h3>Addendum 3:</h3>
+<p><strong>Incident Report 25723-C</strong>
+<em>Event Description: SCP-25723 engulfs an entire research facility for approximately 43 minutes. Spatial and temporal anomalies reported, including time dilations, spatial compressions, and hallucinations among the staff.</em></p>
+<p>Outcomes:
+- 17 personnel treated for minor psychological trauma.
+- 3 personnel develop new languages independently, claiming they are for "speaking with the stars."
+- 1 research assistant (Dr. [REDACTED]) unaccounted for post event. Preliminary evidence suggests she may have been subsumed into SCP-25723.
+- Facility equipment reported malfunctions indicative of electromagnetic interference.</p>
+<p>Following this incident, SCP-25723's object class has been revisited, and discussions for reclassification to Keter are ongoing. Containment procedures have been updated to account for potential large-scale manifestations of SCP-25723.</p></div>
