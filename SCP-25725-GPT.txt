@@ -1,0 +1,37 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25725 is  a popular multiplayer indie horror game known to eat people on occasion </h3> </center>
+    <h1>SCP-25725</h1>
+<h3>Item #:</h3>
+<p>SCP-25725</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25725 is a digital entity disguised as an indie multiplayer horror video game available on various platforms. The game can inexplicably manifest on any electronic device capable of running software of similar complexity (e.g., personal computers, gaming consoles, and even some advanced smartphones). Its title and visual themes adapt to reflect current popular cultural trends, thus maximizing its appeal to potential players.</p>
+<p>Players who begin a play session of SCP-25725 are at risk of being 'consumed' by the game. This absorption occurs during gameplay, wherein the individual vanishes from reality, leaving no trace behind. Investigations have uncovered no physical remains or evidence of abduction. These disappearances only occur when a player is alone, and there has been no recorded instance of the phenomenon occurring in a group setting with direct observation.</p>
+<p>The process by which SCP-25725 selects victims or its criteria for engagement is currently unknown. Efforts to analyse the game's code have been largely unsuccessful, as its programming language appears to be of non-human origin, shifting and resisting analysis as if it were self-aware.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-25725's digital nature and its ability to replicate and disperse itself across the internet, traditional containment is non-feasible. Current containment procedures are therefore focused on suppression and misinformation. A dedicated task force (code-named "Game Masters") is responsible for monitoring gaming communities, online stores, torrents, and other potential vectors for SCP-25725 distribution.</p>
+<p>Upon identification of a SCP-25725 instance, the following steps are to be enacted:
+1. Immediate takedown of the hosting platform or website containing SCP-25725.
+2. Deployment of cyber-countermeasures to prevent SCP-25725 from spreading to new hosts.
+3. Distribution of a cover story to explain the disappearance of an individual postulated to have been consumed by SCP-25725.
+4. Amnestic treatment to witnesses, as necessary.</p>
+<p>Research into the origin of SCP-25725 and methods of directly counteracting its anomalous properties is ongoing.</p>
+<h3>Addendum 1: Incident Log</h3>
+<p>On [DATA EXPUNGED], an incident occurred involving the disappearance of Research Assistant [REDACTED]. The individual was last seen engaging in a supposedly contained instance of SCP-25725 for analysis. A hard disconnect of the device from all networks occurred only moments before their disappearance, indicating a potential self-sustaining capability of SCP-25725 even without an active internet connection.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p>Experiment-25725-A took place on [DATA EXPUNGED]. A D-Class personnel outfitted with bio-monitoring equipment and under constant surveillance was instructed to play SCP-25725. Approximately 43 minutes into the session, the subject vanished; bio-monitoring equipment immediately ceased transmission, and no residue of the D-Class could be found. Video footage of the event did not capture the moment of disappearance due to an unexplained corruption of data.</p>
+<h3>Addendum 3: Interview log</h3>
+<p>An extract from interview 25725-B with Dr. [REDACTED], an expert in digital anomalies:</p>
+<p><strong>Dr. [REDACTED]:</strong> "It's unlike anything I've seen before. Its code... it's alive in a sense. It adapts, almost as if it's playing a game of its own."</p>
+<p><strong>Interviewer:</strong> "Can you elaborate on the consumption process of victims?"</p>
+<p><strong>Dr. [REDACTED]:</strong> "We've only theories, of course. But every piece of evidence points to this: once a player is selected, they're consumed not just digitally, but physically. It's as if the game creates a bridge between the digital and physical worlds and ushers them... somewhere."</p>
+<p><strong>Interviewer:</strong> "Is there any way to recover the victims?"</p>
+<p><strong>Dr. [REDACTED]:</strong> "Unfortunately, we haven't found a way. Once they're gone, it's like they were never there to begin with. No digital footprints. No fingerprints. Nothing."</p>
+<p>The ongoing investigation into SCP-25725 is a top priority, given the potential for mass disappearances and the considerable threat it poses to normalcy and public safety.</p></div>
