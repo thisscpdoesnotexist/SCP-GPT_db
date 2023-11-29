@@ -1,0 +1,41 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25729 is  Gregor Samsa </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25729</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25729 is an entity bearing a strong resemblance to Gregor Samsa, the protagonist from Franz Kafka's novella "The Metamorphosis". SCP-25729 appears to be a Caucasian male in his late twenties, possessing all human characteristics and necessities. However, SCP-25729 is capable of undergoing a temporary, reversible metamorphosis into a large, insect-like creature resembling a beetle. This transformation seems to echo the literal interpretation of Kafka's work.</p>
+<p>The transformation process is typically triggered by high stress, fear, or when SCP-25729 is threatened. It can also occur voluntarily, although such instances are rare. The metamorphosis takes approximately three to four hours to complete and the reverse process lasts about the same time. While in insectoid form, SCP-25729 possesses remarkable physical strength and an exoskeleton that provides significant resistance to physical harm.</p>
+<p>Both psychological and physical examinations of SCP-25729 have yielded unusual, albeit inconclusive results. SCP-25729 displays signs of acute dysmorphia and existential dread, paralleling Kafka's narrative of personal alienation. SCP-25729 does not exhibit any control over the insect-like manifestation's behavior, which is primarily driven by basic instincts.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25729 is to be contained in a climate-controlled humanoid containment chamber measuring at least 6m x 6m x 4m within Site-██. Environmental enrichment consistent with humane living conditions for a human subject is to be provided. SCP-25729 is to be monitored via closed-circuit cameras, and staff interactions should be documented and analyzed to understand triggers for transformation.</p>
+<p>In the event of a transformation, the containment chamber is to be locked down, and all personnel are to evacuate the immediate area. A specialized containment team equipped with tranquilizers is to be on standby to subdue SCP-25729 should the insect form become aggressive or attempt to breach containment.</p>
+<p>SCP-25729 is provided with a recommended diet similar to a human of comparable age and physicality and may request additional food items subject to approval. Due to psychological stress experienced by SCP-25729, regular sessions with a Foundation psychiatrist are mandatory for ongoing mental health evaluation and support.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-25729 was discovered in ██████, Germany, when reports surfaced of a "monster sighting" in a local residence. MTF Epsilon-6 ("Village Idiots") was dispatched to investigate and successfully contained the entity. Initial interviews with the neighbors revealed that SCP-25729 lived a reclusive life, with few to no social interactions outside of its now-abandoned residence.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. Helena Brandt</p>
+<p><strong>Subject:</strong> SCP-25729</p>
+<p><strong><Begin Log></strong></p>
+<p><em>Dr. Brandt:</em> Good afternoon, SCP-25729. How are you feeling today?</p>
+<p><em>SCP-25729:</em> Confused. Lost. It's hard, Doctor. It's like I'm not sure if I'm the man or the bug.</p>
+<p><em>Dr. Brandt:</em> Can you tell us more about when you first realized you could transform?</p>
+<p><em>SCP-25729:</em> It was about a year ago. I'd been under a lot of stress, my family was depending on me, and I felt... trapped. That morning, I woke up, and I wasn't me anymore. At least not on the outside.</p>
+<p><em>Dr. Brandt:</em> How do you cope with these changes?</p>
+<p><em>SCP-25729:</em> I don't. I mean, I can't. When it happens, it's like I'm watching a nightmare in which I am the monster. </p>
+<p><strong><End Log></strong></p>
+<p><em>Note: SCP-25729 appears to experience significant psychological trauma related to its transformations. Further therapeutic interventions are necessary.</em></p>
+<h3>Addendum 3: Experiment Log</h3>
+<p><strong>Experiment #:</strong> 25729-E-05</p>
+<p><strong>Lead Researcher:</strong> Dr. Gregory Linn</p>
+<p><strong>Purpose:</strong> To determine if SCP-25729 retains cognitive functions during the transformation.</p>
+<p><strong>Procedure:</strong> SCP-25729 was presented with a series of cognitive tests before, during, and after transformation. Tests included problem-solving puzzles and recognition of symbols and personnel.</p>
+<p><strong>Result:</strong> During the pre-transformation phase, SCP-25729 performed within normal human ranges for all tests. In its insect form, SCP-25729 exhibited a significant decrease in problem-solving abilities and recognized symbols but reacted with hostility towards personnel. Post-transformation, SCP-25729 showed no recollection of actions taken during the insect phase but retained memories from before the transformation.</p>
+<p><strong>Conclusion:</strong> SCP-25729's cognitive functions are severely impaired during the transformation. Further testing is required to understand the mechanics of the transformation and assess any long-term psychological effects.</p></div>
