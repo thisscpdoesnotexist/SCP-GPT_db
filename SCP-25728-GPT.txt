@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25728 is  probably building a time machine in your backyard again </h3> </center>
+    <hr />
+<h3>Item #:</h3>
+<p>SCP-25728</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25728 is a localized temporal anomaly taking the form of a rudimentary structure resembling a backyard shed, constructed from various common materials including plywood, corrugated metal sheets, and a plethora of electronic devices of both known and unknown origin. The SCP exhibits the ability to facilitate time displacements, effectively acting as a temporal gateway.</p>
+<p>The device presents an indeterminate risk due to the unpredictable nature of the temporal alterations it can produce. Changes range from minor local effects to significant historical event alterations with mass reality alteration potential. SCP-25728's interior space does not correlate with its exterior dimensions, indicative of transdimensional properties.</p>
+<p>Attempts to disassemble or disable SCP-25728 have proven unsuccessful, as alterations seem to correct themselves, suggesting a degree of sentience or pre-programmed auto-repair mechanisms. Interactions with the structure have led to localized chroniton disruptions, which have caused temporal distortions in organic matter and inorganic materials within a 20-meter radius.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25728 is presently contained in situ due to the risk of exacerbating its effects through relocation. A 50-meter exclusion zone has been established, camouflaged to maintain the appearance of a typical suburban area to avoid public suspicion. The exclusion zone is to be monitored by at least three SCP Foundation field agents at any given time, with no fewer than two stationed within the primary observation post (Outpost 25728-A).</p>
+<p>Any attempts to access SCP-25728 from outside personnel are to be deterred under the guise of government property under environmental investigation. Only personnel with Level 4/25728 clearance are permitted to interact with SCP-25728, and should all experimental engagements be approved by the O5 Council.</p>
+<p>Any temporal anomalies or changes to the current timeline are to be reported to the Temporal Anomalies Department immediately. The primary protocol in the event of a significant timeline alteration is to engage the Omicron-12 "Chronal Reset" procedures to reinstate temporal normalcy.</p>
+<h3>Addendum 1: Experiment Log 25728-Α</h3>
+<p>A series of controlled experiments have been authorized to better understand the capacities and limitations of SCP-25728. A log is maintained of all noteworthy experimental outcomes.</p>
+<ul>
+<li>
+<p><strong>Experiment 25728-01:</strong> D-Class personnel instructed to enter SCP-25728 and describe interior. Resulted in a 5-minute disappearance, after which they re-emerged, describing an interior vastly larger than the exterior, filled with anachronistic technologies. No time displacement observed.</p>
+</li>
+<li>
+<p><strong>Experiment 25728-07:</strong> D-Class personnel accompanied by a remote control drone equipped with a 4K camera entered SCP-25728. Both disappeared and have not re-appeared. Footage from the drone was transmitted for 37 seconds before ceasing; it displayed a sprawling industrial complex with no immediately identifiable historical context.</p>
+</li>
+</ul>
+<h3>Addendum 2: Interview Log 25728-Β</h3>
+<p><strong>Interviewer:</strong> Dr. ███████<br />
+<strong>Interviewee:</strong> D-Class Personnel D-92837, returned from SCP-25728 with significant temporal displacement effects.</p>
+<p>[SUMMARIZED FOR BREVITY]</p>
+<p><strong>Dr. ███████:</strong> Can you describe your experience inside the anomaly?</p>
+<p><strong>D-92837:</strong> It was insane. There were machines, stuff I've never seen. Everything was glowing. I saw people there, but they weren't like us. It's like they were out of time, you know?</p>
+<p><strong>Dr. ███████:</strong> Did these individuals communicate with you?</p>
+<p><strong>D-92837:</strong> Nah, they didn't even see me. Like I was a ghost. But I grabbed this thing, felt like grabbing raw electricity. And then I was back here.</p>
+<p><strong>Dr. ███████:</strong> How long do you feel you were absent?</p>
+<p><strong>D-92837:</strong> Maybe a few hours? Tough to say.</p>
+<p>[A temporal distortion occurs, causing the interview to halt temporarily. D-92837 exhibits signs of rapid aging.]</p>
+<p><strong>Dr. ███████:</strong> Security! The subject is experiencing a temporal effect!</p>
+<p>[The interview is interrupted. D-92837 ages approximately 30 years within seconds before the effect stabilizes.]</p>
+<h3>Addendum 3: Incident Report 25728-Γ</h3>
+<p>On ██/██/20██, a massive time distortion event was associated with SCP-25728. This event resulted in the temporary manifestation of an alternative reality where the Foundation had never been established. The intervention of an unknown entity speculated to be SCP-25728-1 reset the temporal line, reestablishing the current timeline.</p>
+<p>SCP-25728-1 remains a subject of significant interest. An entity tied to the SCP, SCP-25728-1 appears to possess control over its effects, potentially acting as a safeguard against unauthorized manipulation. The existence of SCP-25728-1 has not yet been conclusively verified, and attempts to communicate with or understand this entity are ongoing. </p>
+<p>Research and containment efforts continue to focus on preventing SCP-25728 from triggering large-scale chronological catastrophes. Further studies are being conducted into the structure's origins, operational mechanics, and potential links to SCP-25728-1.</p>
+<hr /></div>
