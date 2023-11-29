@@ -1,0 +1,36 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25746 is  a phenomenon that occurs when you successfully divide by zero (we incorporated blocks in all computers and calculators to block this phenomenon from accidentally happening) </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25746</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25746 is a phenomenon that manifests upon the successful division by zero, which, under normal mathematical laws, is considered an undefined operation. SCP-25746 defies these laws and circumvents the intrinsic impossibility through unknown means. The event occurs regardless of the method used to divide by zero—be it mechanical calculator, digital computation, or potentially even manual calculation.</p>
+<p>Once the division by zero is achieved, a chain reaction begins, characterized by a series of reality-altering events. These can range from minor localized spatial distortions to severe breakdowns of the known physical laws. The exact effects of SCP-25746 seem to depend on various factors, including but not limited to, the scale of the computation, the intent behind the calculation, and the surrounding environment.</p>
+<p>Observations have shown that SCP-25746 can potentially lead to catastrophic occurrences, such as the creation of black hole-like entities, spontaneous combustion of nearby materials, or the erasure of objects from existence. Due to its unpredictable and potentially apocalyptic nature, all knowledge and means to divide by zero must be rigorously suppressed and contained.</p>
+<h3>Special Containment Procedures:</h3>
+<p>All electronic and mechanical devices capable of computational functions are to have an enforced safeguard implemented at the firmware or hardware level to prevent division by zero. This extends to computers, smartphones, calculators, and other similar devices manufactured globally. Foundation cyber units (designated Psi-7) are tasked with monitoring and inhibiting the dissemination of information regarding methods of successfully performing division by zero.</p>
+<p>Educational institutions, research laboratories, and mathematical communities are under covert surveillance to capture and redact any instances of SCP-25746 being postulated or discussed. Amnestics are approved for use on individuals who accidentally or intentionally come close to or achieve a division by zero event.</p>
+<p>In the event that SCP-25746 is triggered, the area is to be evacuated and quarantined immediately under pretense of a natural disaster or terrorist activity to prevent public knowledge of the phenomenon. Mobile Task Force Epsilon-11 ("Nine-Tailed Fox") is to be dispatched to manage containment, and, if possible, implement localized reversion and amnestics to witnesses.</p>
+<h3>Addendum 1:</h3>
+<h4>Experiment Log</h4>
+<p>An authorized experiment to understand the effects of SCP-25746 was conducted under controlled conditions. The experiment involved a D-Class subject instructed to complete a division by zero on a modified computer designed to bypass the standard restriction protocols. The following occurred:</p>
+<ol>
+<li>Immediate electrical failure of the device with a silent emission of a bright, blue flash.</li>
+<li>Spatial distortions became visible around the immediate area, lasting for 28 seconds. Researchers observed visual duplications and impossible geometry.</li>
+<li>Nearby inanimate objects began disintegrating at the molecular level. An emergency containment breach alarm was triggered.</li>
+<li>Automated safety measures were initiated, creating a temporal stasis around the test site.</li>
+<li>After the restoration of normal spatial conditions, no trace of the D-Class subject or the computer equipment was found.</li>
+</ol>
+<p>The experiment reinforced the need for stringent containment and the dangers of allowing SCP-25746 to manifest.</p>
+<h3>Addendum 2:</h3>
+<h4>Interview Log</h4>
+<p>Further details are documented in an interview between Dr. Krylov and a theoretical physicist who unwittingly approached the concept of SCP-25746's reality-altering effects. A full transcript is held in Document 25746-INT for Level 4 security clearance, following the extraction and administration of amnestics to the physicist.</p>
+<h3>Addendum 3:</h3>
+<p>Reports of attempted SCP-25746 events have decreased by 83% since the implementation of global computational safeguards. Continued vigilance is necessary, and research into preventative measures against division by zero occurrences in non-electronic calculations is ongoing. Theoretical containment protocols for more extensive reality alterations as a result of SCP-25746 are also under development.</p></div>
