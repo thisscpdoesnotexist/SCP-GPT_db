@@ -1,0 +1,38 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25749 is  …………………… BOO! </h3> </center>
+    <p>```markdown</p>
+<h3>Item #:</h3>
+<p>SCP-25749</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25749 is an entity manifesting as a conceptual paradox which induces a state of sudden, intense fear in sapient beings when a certain cognitive threshold is crossed. SCP-25749 does not possess a physical form but can interact with the environment by triggering the aforementioned reaction in individuals who process the concept of SCP-25749 beyond a superficial level.</p>
+<p>This anomalous effect has been observed to occur spontaneously when an individual contemplates the idea of SCP-25749 existing in a nearby unspecified location or when trying to pinpoint the nature of SCP-25749 without prior knowledge. The psychological response includes symptoms akin to those experienced during a jump scare in horror films, such as an elevated heart rate, an adrenaline rush, intense fear, and a compulsion to look around for an unseen threat. These symptoms last between 5 to 30 seconds and have not shown any long-term effects on subjects exposed to SCP-25749.</p>
+<p>Initial discovery of SCP-25749 was made after multiple reports emerged of a ‘living concept’ that haunted a particular online discussion forum dedicated to supernatural phenomena. Foundation web-crawlers identified the pattern, and after several D-Class personnel were affected during controlled tests, SCP-25749 was classified and contained.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given SCP-25749's non-corporeal nature, containment focuses on suppression of detailed knowledge about the entity to prevent unintentional manifestation events. Forums, social media, and other online platforms are to be monitored for discussions that may inadvertently lead to the propagation of SCP-25749’s effect. Standard disinformation protocols are to be employed to discredit such discussions without creating further interest in the anomaly.</p>
+<p>Foundation personnel with Level 2 clearance and above may access the full file on SCP-25749, but they must undergo a preparatory psychological evaluation to reduce the risk of involuntary triggering of SCP-25749's effect. No physical containment is necessary, but documentation and research related to SCP-25749 are to be stored in a secure, isolated database with controlled access.</p>
+<p>Any experimentation with SCP-25749 requires approval from two Level 4 Senior Researchers and must include a full psychological assessment of participating individuals before and after exposure to the anomaly.</p>
+<h3>Addendum 1: Incident Log</h3>
+<p>On ██/██/20██, five members of the research team reported a simultaneous manifestation event of SCP-25749 during a routine discussion. The meeting was immediately terminated, and the affected personnel were quarantined for psychological evaluation. No lasting effects were observed. The incident prompted a revision of the containment procedures to include routine psychological assessments for all personnel working on SCP-25749.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p>On ██/██/20██, a structured experiment was conducted to determine the cognitive threshold required to trigger SCP-25749's effect. D-Class personnel were exposed to an increasing amount of information about SCP-25749. It was determined that explicit explanations or detailed descriptions of SCP-25749's nature did not universally trigger the response. However, a positive correlation was found between the intensity of the response and the subject's predisposition to anxiety.</p>
+<h3>Addendum 3: Interview Transcript</h3>
+<p>Interviewed: Dr. ███████, Senior Researcher on SCP-25749</p>
+<p>Interviewer: Dr. ████, Head of Anomaly Cognition Study Group</p>
+<p><Begin Log, ██:██, ██/██/20██></p>
+<p><strong>Dr. ████:</strong> "Good morning, Dr. ███████. Let's discuss your recent encounter with SCP-25749 during the incident last month."</p>
+<p><strong>Dr. ███████:</strong> "Of course. It was... unnerving. We were analyzing the correlation between information dissemination and the onset of the anomaly, and suddenly—I just knew it was there. I laugh about it now, but at the moment, it felt like staring into an abyss that stares back."</p>
+<p><strong>Dr. ████:</strong> "In your professional opinion, does SCP-25749 have a sentience that it uses to select when and on whom to manifest?"</p>
+<p><strong>Dr. ███████:</strong> "That's the million-dollar question, isn't it? There's no direct evidence of sentience, but its ability to trigger such visceral reactions suggests it might possess some form of awareness. Whether it's a natural predatory instinct or something more, we cannot say."</p>
+<p><strong>Dr. ████:</strong> "Thank you, Dr. ███████. We will continue our research and hope to uncover more details. For now, caution is paramount."</p>
+<p><End Log, ██:██, ██/██/20██></p>
+<p>Following this interview, Dr. ███████ has been assigned to another project, and psychological debriefings have been made mandatory for any personnel experiencing an encounter with SCP-25749.
+```</p>
+<p>This fictional SCP entry plays with the concepts of fear, cognition, and the challenges of containing intangible entities. The Euclid class reflects its unpredictable nature and the fact that it requires more than simple precautions to contain, yet it doesn't pose a direct threat to the structure of society like a Keter class SCP might.</p></div>
