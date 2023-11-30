@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25770 is  not a pipe… </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25770</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25770 is an anomalous object that, at first glance, appears to be a standard smoking pipe of the type popularized in the late 19th and early 20th centuries. The pipe is made from what appears to be briar wood with a stem of black vulcanite, adorned with an intricate pattern of silver filigree along its bowl.</p>
+<p>SCP-25770's anomalous properties manifest when an individual attempts to use the object as intended (i.e., smoking tobacco). Subjects will find it impossible to light the tobacco within the bowl, despite the presence of a viable ignition source and properly prepared tobacco. Furthermore, individuals within a 5-meter radius will perceive the object as whatever they most strongly associate with the concept of 'pipe,' often stating the phrase, "this is not a pipe," in a manner echoing the famous painting by René Magritte, "The Treachery of Images."</p>
+<p>Additionally, tests have revealed that the mere presence of SCP-25770 can distort the reality within its immediate vicinity, leading to mild spatial and temporal anomalies, such as the bending of light or the slowing of time. Direct physical contact with SCP-25770 can cause severe cognitive dissonance in subjects, and in extreme cases, it has led to temporary psychosis. The nature of these effects varies widely between individuals.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25770 is to be contained in a standard secure locker at Site-██. The locker is to be fitted with a combination lock, and the combination is to be changed weekly. The code is only to be made available to personnel with Level 3 clearance or higher and those who have been authorized by the current project head for SCP-25770.</p>
+<p>No flammable materials or lighters are allowed within a 10-meter radius of SCP-25770's containment locker, to prevent accidental activation of its anomalous properties. Direct interaction with SCP-25770 is to be conducted only for testing purposes, with prior approval from at least two Level 4 personnel.</p>
+<p>Due to the cognitive hazards presented by SCP-25770, personnel who are involved in its testing must undergo rigorous psychological screening both before and after handling the object. Any personnel affected by its anomalous properties are to be administered Class-A amnestics and placed under observation for a minimum of 72 hours.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-25770 was recovered on ██/██/20██ from a private estate sale in ██████, Belgium, after local reports of a "'haunted' heirloom" surfaced in the media. Agents embedded in the European antiquities market were dispatched to secure the object. Upon confirmation of its anomalous properties, SCP-25770 was contained and transferred to Site-██ without further incident.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p>The following is a summarized experiment log for SCP-25770. Full reports can be accessed in Document 25770-E.</p>
+<ul>
+<li>
+<p><strong>Test 25770-03</strong> – D-8452 instructed to smoke SCP-25770 with standard tobacco. The subject is unable to light the pipe and expresses confusion when the match burns down to his fingers without igniting the tobacco. Notably, Camera 3 showed a brief spatial warp in the room.</p>
+</li>
+<li>
+<p><strong>Test 25770-07</strong> – D-9931 asked to hold SCP-25770 without attempting to smoke it. D-9931 begins to articulate conceptual theories of what pipe could mean philosophically before falling into a catatonic state for nine minutes.</p>
+</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewee:</strong> D-4731<br />
+<strong>Interviewer:</strong> Dr. K█████<br />
+<strong>Foreword:</strong> The following is a transcript of an interview conducted after D-4731 was exposed to SCP-25770's anomalous properties for an extended period.</p>
+<p><em><Begin Log></em></p>
+<p><strong>Dr. K█████:</strong> Good afternoon, D-4731. Can you describe the experience of holding SCP-25770?</p>
+<p><strong>D-4731:</strong> Doc, it's... it's not a pipe. I know it looks like one, but it's not. It made me think of everything all at once, like the universe was telling me it's all a big joke.</p>
+<p><strong>Dr. K█████:</strong> How do you mean, "a joke?"</p>
+<p><strong>D-4731:</strong> Like, we think we've figured it all out, but then there’s this... thing that just flat out refuses to be what it looks like. It's not just a pipe; it's a question.</p>
+<p><strong>Dr. K█████:</strong> Did you experience any physical sensations while in contact with SCP-25770?</p>
+<p><strong>D-4731:</strong> Yeah, it was like my brain was getting tied in knots. Time got funny, too. I’d be staring at it, and the seconds would stretch and snap back like a rubber band.</p>
+<p><strong>Dr. K█████:</strong> Interesting. And how do you feel now?</p>
+<p><strong>D-4731:</strong> I feel like someone's scribbled all over my thoughts. I'm tired, doc. Real tired.</p>
+<p><em><End Log></em></p>
+<p><strong>Closing Statement:</strong> D-4731 was administered Class-A amnestics and monitored for 72 hours. She reported no recollection of the interview or her exposure to SCP-25770 following treatment. Further psychological evaluation recommended.</p></div>
