@@ -1,0 +1,40 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25769 is  "Donkey Kong: Descent into Purgatory," an unreleased game from Nintendo for the Switch. (They have denied its existence) </h3> </center>
+    <h1>SCP-25769</h1>
+<h3>Item #:</h3>
+<p>SCP-25769</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25769 is a purported physical cartridge and digital data functioning as an unreleased and unacknowledged video game titled "Donkey Kong: Descent into Purgatory," compatible with the Nintendo Switch console. While Nintendo Corporation maintains no record and denies any creation of this game, SCP-25769 has been encountered in several instances worldwide.</p>
+<p>Initial reports of SCP-25769 originated from online forums where users detailed anomalous experiences after playing the game. These accounts frequently referenced inexplicable changes in behavior, abrupt disappearances, and in some cases, users being found in vegetative states.</p>
+<p>The game itself presents a stark departure from the usual family-friendly tone associated with the Donkey Kong franchise. Instead, "Descent into Purgatory" features progressively disturbing and surreal imagery, existential themes, and psychological horror elements. Data analysis of SCP-25769's code has proven inconclusive, as repeated attempts to copy or disassemble the software have resulted in severe mental trauma for researchers and data corruption in computer systems used for analysis.</p>
+<h3>Special Containment Procedures:</h3>
+<p>All known copies of SCP-25769 must be contained within a magnetically shielded, secure locker at Site-██. Access to SCP-25769 is strictly prohibited unless approved by at least two Level 4 personnel. Testing is to be conducted in a controlled environment with D-Class personnel, under the supervision of Dr. █████ and monitored at a safe distance via closed-circuit cameras. All electronic devices within a 100-meter radius of SCP-25769's containment must be disconnected and shielded to prevent accidental exposure to its effects.</p>
+<p>In the event of a containment breach, a contingency plan, codenamed "Operation Arcade Shutdown," has been developed which entails immediate deployment of a designated task force to retrieve all instances of SCP-25769 and administer Class-A amnestics to witnesses.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p>Experiment #25769-E-05:</p>
+<p><strong>Subject:</strong> D-74832
+<strong>Procedure:</strong> D-74832 was instructed to play SCP-25769 for a period not exceeding 30 minutes.
+<strong>Results:</strong> Subject experienced increasing levels of distress, reporting audio-visual hallucinations and a sensation of "falling through layers of darkness." At the 29th minute, subject violently attempted to destroy the console and SCP-25769, necessitating intervention.
+<strong>Conclusion:</strong> SCP-25769 appears to exert a deteriorative effect on the psychological state of individuals interacting with it. Testing was suspended pending further review.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. █████
+<strong>Interviewed:</strong> D-74832 (post-exposure to SCP-25769)</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. █████:</strong> Please describe your experience while playing the game.</p>
+<p><strong>D-74832:</strong> It... it wasn't right. The game was twisted. Donkey Kong wasn't saving anyone; he was just falling and falling, and everything was burning around him.</p>
+<p><strong>Dr. █████:</strong> Did you experience anything unusual yourself during this time?</p>
+<p><strong>D-74832:</strong> Yes, it was like I was there with him. I could feel heat, hear screams that weren't in the game. I knew I had to stop it.</p>
+<p><strong>Dr. █████:</strong> And that's when you attempted to destroy the game cartridge?</p>
+<p><strong>D-74832:</strong> I had to. It felt like the only way to make the falling stop.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Conclusion:</strong> SCP-25769's influence extends beyond visual and auditory perceptions, potentially creating fully-immersive hallucinatory experiences.</p>
+<h3>Addendum 3: Correspondence Log</h3>
+<p>After extensive investigation, an anonymous source provided encrypted emails alleging to document correspondence between a divide within Nintendo and a third party identified only as "The Handler." The communication suggests that SCP-25769 may have been an experimental attempt to explore reality-altering technology, with Nintendo's branding used without the company’s official sanction or knowledge. Further analysis of this correspondence is ongoing.</p></div>
