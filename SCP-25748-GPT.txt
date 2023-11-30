@@ -1,0 +1,66 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25748 is  the song Pigstep from Minecraft </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25748</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25748 refers to the in-game music track titled "Pigstep," which is originally a composition found within the popular sandbox video game, Minecraft. The track has been identified to anomalously induce various effects on listeners which extend beyond the normal psychological impact of music.</p>
+<p>Listeners who complete the track are subject to immediate physiological and psychological alterations. Physiological changes include, but are not limited to, porcine dermal mutations, an increase in body hair density resembling fur, elongation of the snout, and a restructuring of the skeletal system to support a quadrupedal stance. Psychological changes often involve a drastic behavioral shift towards habits commonly associated with domestic pigs (Sus scrofa domesticus), such as foraging behavior, and in some cases, the development of an innate understanding of porcine vocalizations.</p>
+<p>SCP-25748 does not affect individuals who do not listen to the completion of the track or those who are deaf. The transformative property of the track persists regardless of the playback device used or the quality of the audio. Effects have been notably consistent across all affected subjects.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As SCP-25748 is an intangible auditory phenomenon, its containment is focused on preventing exposure and understanding its transmission vectors. The following procedures have been implemented:</p>
+<ol>
+<li>
+<p>Copies of the game Minecraft containing the SCP-25748 phenomenon have been isolated and are kept on air-gapped storage devices in a secure containment locker at Site-██. Access is restricted to Level 3 personnel and requires authorization from at least two members of the O5 Council.</p>
+</li>
+<li>
+<p>Online distribution platforms have been monitored and scrubbed of any instances of SCP-25748 using Foundation web-crawler AI, under the guise of copyright infringement or corrupted data claims. </p>
+</li>
+<li>
+<p>Agents embedded in gaming communities are to be vigilant for discussions surrounding SCP-25748 and are instructed to administer Class-A amnestics if individuals are suspected of having been exposed to the anomaly.</p>
+</li>
+<li>
+<p>Foundation web analysts are tasked with monitoring social media and video sharing platforms for any potential leaks or references to the effects of SCP-25748. All related content should be promptly removed and those involved should be amnesticized accordingly.</p>
+</li>
+<li>
+<p>Subjects affected by SCP-25748 are to be contained in a standard humanoid anomaly containment cell retrofitted to accommodate for their altered physiology. A psychiatric evaluation followed by appropriate therapy should be administered to prevent undue stress from their new physiological state.</p>
+</li>
+<li>
+<p>Ongoing study of affected subjects is crucial for developing a potential cure or means of reversing the effects of SCP-25748.</p>
+</li>
+</ol>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-25748 was discovered following a series of online reports and videos depicting individuals undergoing sudden morphological changes after listening to the specified track in Minecraft. Foundation agents swiftly contained the affected individuals and initiated a misinformation campaign to attribute the viral videos to sophisticated special effects and hoaxing.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p>Interviewer: Dr. █████
+Subject: D-84324</p>
+<p>[BEGIN LOG]</p>
+<p>Dr. █████: Please describe your experience upon listening to SCP-25748 in its entirety.</p>
+<p>D-84324: It started out as just curiosity, you know? Everyone was talking about this 'cursed' Pigstep track, I thought, what's the worst that could happen? It's just a game. But as the song played, I felt... weird. Twitchy and itchy all over.</p>
+<p>Dr. █████: Did you experience any immediate changes during the listening?</p>
+<p>D-84324: Yeah, I guess. My skin felt tight, and I couldn't stand upright after a minute or so. It hurt—like my bones were shifting inside me. </p>
+<p>Dr. █████: What occurred after the transformation?</p>
+<p>D-84324: It was hard to think straight. All I wanted to do was eat, roll around, and—damn it, I don't know—it's humiliating.</p>
+<p>Dr. █████: We understand this is difficult for you. Thank you for your cooperation.</p>
+<p>[END LOG]</p>
+<h3>Addendum 3: Experiment Log</h3>
+<p><strong>Test A - 25748-T1</strong>
+<strong>Subject:</strong> D-76102
+<strong>Procedure:</strong> Subject instructed to listen to SCP-25748 through high-quality headphones.
+<strong>Result:</strong> Full transformation observed within 4 minutes 16 seconds of listening. Subject displayed extreme distress and was sedated following post-transformation behavior analysis.</p>
+<p><strong>Test B - 25748-T2</strong>
+<strong>Subject:</strong> D-76103
+<strong>Procedure:</strong> Subject exposed to a degraded, low-fidelity recording of SCP-25748 played from a smartphone speaker.
+<strong>Result:</strong> Subject still underwent full transformation, albeit the process took 6 minutes 4 seconds to complete. Suggesting quality of audio does not inhibit the anomaly's effect.</p>
+<p><strong>Test C - 25748-T3</strong>
+<strong>Subject:</strong> D-76104
+<strong>Procedure:</strong> Subject was played SCP-25748 with intermittent pauses in the playback, breaking the continuity of the music track.
+<strong>Result:</strong> Subject displayed initial signs of transformation but reverted to original human physiology after 19 minutes without exposure completion. Suggests continuous exposure to SCP-25748 is necessary for the permanent transformation effect.</p>
+<p>Further testing is required to deduce whether the effects of SCP-25748 can be reversed or if preventative measures can be developed for potential outbreaks.</p></div>
