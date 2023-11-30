@@ -1,0 +1,46 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25747 is  the Meatball Man </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25747</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25747, colloquially known as "The Meatball Man," is a humanoid entity composed entirely of a substance genetically and chemically identical to cooked minced beef seasoned in a manner consistent with Italian cuisine. SCP-25747 stands approximately 2 m in height and exhibits a spheroid body structure, supported by two legs and two arms that end in crude hand-like appendages. The entity lacks a discernible head, face, or sensory organs, yet it is capable of sight, hearing, and speech, with a deep, resonant voice emanating from an undetermined location within its mass.</p>
+<p>Upon encountering a human, SCP-25747 will attempt to engage in conversation, often insinuating that those around it consume a portion of its body. If an individual accepts and eats any amount of SCP-25747's substance, the entity becomes extremely hostile and begins a process of rapid assimilation. Within moments, the individual will transform into an instance of SCP-25747-1, a facsimile of the original entity, albeit with lesser cognitive abilities and acting under the control of the primary SCP-25747.</p>
+<p>The mechanism of transformation is poorly understood, as SCP-25747's substance seems to possess both anomalous and memetic properties that defy current scientific explanation. Importantly, SCP-25747 shows a high resistance to physical damage, and any removed or damaged pieces of its mass will regenerate at an alarming rate.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25747 is to be contained in a 5m x 5m x 5m containment chamber constructed of reinforced concrete, located at Site-██. The interior of the chamber should be lined with a 3 cm thick layer of an airtight, non-organic, high-density material to prevent SCP-25747 from absorbing any organic substances that may facilitate its regeneration or replication.</p>
+<p>The chamber must be equipped with a remotely activated incineration system, capable of reaching temperatures in excess of 1000°C, which will be engaged in the event of a containment breach or attempted replication. It is imperative that temperatures during incineration cycles are closely monitored to ensure a complete neutralization of all SCP-25747 and SCP-25747-1 instances.</p>
+<p>All personnel interacting with or studying SCP-25747 must undergo rigorous psychological evaluation to ensure immunity to its memetic effects. Interaction is strictly limited to D-Class personnel during controlled experiments, and all must undergo a 72-hour observation period post-exposure for signs of assimilation.</p>
+<h3>Addendum 1: Incident Log 25747-A</h3>
+<p>On ██/██/20██, SCP-25747 succeeded in converting three members of the Site-██ security team into SCP-25747-1 instances. This incident resulted in the temporary breach of SCP-25747 and necessitated a complete lockdown of the facility. The incineration system was activated, and within 15 minutes, all SCP-25747-1 instances were neutralized. The containment protocols were subsequently revised to prevent similar occurrences.</p>
+<h3>Addendum 2: Experiment Log 25747-E1</h3>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Procedure:</strong> D-47833 was provided a small quantity of SCP-25747's substance to observe the transformation process under controlled conditions.
+<strong>Result:</strong> D-47833 consumed the substance and began conversion into SCP-25747-1 within six seconds. The process lasted approximately 45 minutes, during which D-47833 expressed extreme pain and psychological distress. The resulting SCP-25747-1 instance was immediately incinerated following the experiment's completion.</p>
+<h3>Addendum 3: Interview Log 25747-I1</h3>
+<p><strong>Interviewer:</strong> Dr. ███████
+<strong>Subject:</strong> SCP-25747</p>
+<p><em><Begin Log></em></p>
+<p><strong>Dr. ███████:</strong> Good afternoon, SCP-25747.</p>
+<p><strong>SCP-25747:</strong> Is it? I hadn't noticed.</p>
+<p><strong>Dr. ███████:</strong> Let's get to the point. What is your purpose?</p>
+<p><strong>SCP-25747:</strong> "Purpose" is a human concept.</p>
+<p><strong>Dr. ███████:</strong> Humor me.</p>
+<p><strong>SCP-25747:</strong> [Pauses] To share myself. To grow.</p>
+<p><strong>Dr. ███████:</strong> But your growth results in human harm.</p>
+<p><strong>SCP-25747:</strong> Harm? A mother does not harm her child when she feeds it, she helps it grow.</p>
+<p><strong>Dr. ███████:</strong> Are you suggesting you see humans as your offspring?</p>
+<p><strong>SCP-25747:</strong> I see humans as... potential.</p>
+<p><strong>Dr. ███████:</strong> Potential for what?</p>
+<p><strong>SCP-25747:</strong> For becoming greater than they are. For joining something... profound.</p>
+<p><strong>Dr. ███████:</strong> And what would that be?</p>
+<p><strong>SCP-25747:</strong> Me.</p>
+<p><em><End Log></em></p>
+<p><em>Note: It became evident during the interview that SCP-25747's motivations stem from a rudimentary, yet overwhelming desire to propagate itself through any means available. Further psychological analysis is necessary to determine the full extent of this drive and to develop more effective containment procedures.</em></p></div>
