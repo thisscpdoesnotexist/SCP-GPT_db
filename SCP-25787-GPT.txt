@@ -1,0 +1,45 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25787 is  chemicals in the water, turning the frogs straight </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25787</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25787 refers to a translucent liquid substance, which has the anomalous effect of altering the sexual behavior of amphibious creatures, predominantly frogs. When introduced into a body of water containing a frog population, SCP-25787 induces drastic changes in their reproductive habits, seemingly reverting any variation from heterosexual behavior. </p>
+<p>Infected frogs (designated SCP-25787-A instances) have been observed to exclusively engage in reproductive behaviors with the opposite sex, regardless of previous observed sexual orientations or patterns. This effect is only observed in the presence of SCP-25787; once removed from the contaminated environment, affected frogs slowly revert to their natural behaviors over the course of approximately 2-4 weeks.</p>
+<p>SCP-25787 was originally discovered in [REDACTED], a small pond located in [REDACTED]. A significant drop in the local amphibian population's diversity was reported by a team of ecologists. Following the involvement of embedded Foundation agents, SCP-25787 was identified and classified.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25787 is contained in a 50-liter airtight glass container within a secure liquid containment chamber at Site-██. Access to SCP-25787 is restricted to Level 3 personnel and above, and requires permission from at least two Level 4 Senior Researchers.</p>
+<p>In the event of a containment breach, all personnel must evacuate the immediate area and alert the on-site Hazmat team. Any water sources found to be contaminated by SCP-25787 must be quarantined, with a secondary containment team assessing the spread and beginning decontamination procedures immediately.</p>
+<p>Live specimens of affected amphibians (SCP-25787-A) should also be contained in standard aquatic holding cells. Any eggs or tadpoles resulting from SCP-25787-A individuals are to be contained and monitored to study potential long-term effects of SCP-25787 exposure.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-25787 was initially recovered by MTF Mu-13 ("Ghostbusters") on ██/██/20██ after local reports suggested an anomaly affecting the wildlife in a pond at [REDACTED], USA. The reports were initially disregarded as pseudoscientific claims until a substantial decline in the amphibian population's diversity was confirmed. SCP-25787 was successfully contained with no civilian casualties. Surrounding wildlife was monitored for six months, with no lasting effects observed after decontamination of the water source.</p>
+<h3>Addendum 2: Interview Log</h3>
+<h4>Interviewed: Dr. ██████, Ecologist</h4>
+<h4>Interviewer: Agent █████</h4>
+<h4>Date: ██/██/20██</h4>
+<h4>Location: [REDACTED]</h4>
+<p><strong><Begin Log></strong></p>
+<p><strong>Agent █████:</strong> Good afternoon, Dr. ██████. Thank you for meeting with me.</p>
+<p><strong>Dr. ██████:</strong> Of course. After what I've seen, I'm hoping you have some answers.</p>
+<p><strong>Agent █████:</strong> I'll do my best. Can you describe your initial observations that led you to believe something was amiss at the site?</p>
+<p><strong>Dr. ██████:</strong> Well, initially it was the decrease in the frog population's diversity. I've been studying the mating calls every season for years, and they began to change... well, standardize. We noticed it, and at first, we thought it was some environmental factor, but it wasn't anything we'd seen before.</p>
+<p><strong>Agent █████:</strong> What was the nature of the changes?</p>
+<p><strong>Dr. ██████:</strong> Only traditional mating behaviors were being displayed. No variety. And then the execution of sexual behavior was entirely... well, straight. Which we had seen some of, of course, but not exclusively like this. It was bizarre.</p>
+<p>[REDACTED FOR BREVITY]</p>
+<p><strong>Agent █████:</strong> Did you notice any physical changes in the frogs?</p>
+<p><strong>Dr. ██████:</strong> No, not physically. They appeared healthy, just... changed. Behaving differently, like they weren't the same frogs I'd been studying.</p>
+<p>[Further discussion primarily relates to the ecological impact of SCP-25787 on the local frog population.]</p>
+<p><strong><End Log></strong></p>
+<h3>Addendum 3: Experiment Log</h3>
+<p><strong>Experiment 25787-E7</strong></p>
+<p><strong>Purpose:</strong> To observe the behavioral changes in SCP-25787-A instances over time and to confirm if effects are reversible post-exposure.</p>
+<p><strong>Procedure:</strong> Ten (10) adult frogs, five (5) male and five (5) female, were introduced into a controlled environment with water contaminated by SCP-25787. Behavioral observations were recorded over a four-week period. After this period, frogs were transferred to a non-contaminated environment.</p>
+<p><strong>Results:</strong> All frogs exposed to SCP-25787 exhibited a change in behavior consistent with prior observations, engaging solely in heterosexual mating behaviors. Upon removal from the SCP-25787-infected environment, frogs gradually resumed natural mating behaviors within two to four weeks, confirming the effect's reversibility.</p>
+<p><strong>Notes:</strong> This experiment provides insight into the mechanism of SCP-25787's effect on amphibian sexual behavior. Further research is warranted to determine the potential implications for ecosystems and to develop decontamination protocols for bodies of water affected by SCP-25787 outbreaks.</p></div>
