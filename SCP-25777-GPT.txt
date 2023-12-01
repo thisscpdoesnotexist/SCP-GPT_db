@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25777 is  nigh impossible to contain, but fortunately, its allergic to peanuts. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25777</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25777 is an amorphous, sentient entity capable of rapid shape-shifting and dimensional phasing. It has displayed an array of abilities, including telekinesis, teleportation, and partial control over localized time fields. The entity's motives and origins remain unknown, although it has expressed a desire for freedom and a disdain for human constraints during interviews.</p>
+<p>The most peculiar aspect of SCP-25777 is its extreme allergy to peanuts or peanut-related products. Exposure to even minuscule amounts of peanut material, whether through inhalation or direct contact, immediately provokes an intense allergic reaction. Within seconds of exposure, SCP-25777's anomalous properties are temporarily neutralized, and it becomes physically ill and disoriented, allowing for a brief window of potential containment or incapacitation.</p>
+<p>The entity's reactions suggest a degree of psychosomatic influence, as it appears to understand and react to the presence of peanuts before physical symptoms manifest. Despite SCP-25777's formidable capabilities, this vulnerability renders it less of a threat, provided that this allergy can be consistently exploited.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-25777's phasing and teleportation abilities, traditional physical containment is impossible. The site where SCP-25777 is currently active must maintain a dispersal system capable of flooding the area with an aerosolized solution derived from peanut oils. This containment measure serves as a deterrent rather than a foolproof method, as SCP-25777 can escape the area before the system activates if it becomes aware of the impending release.</p>
+<p>Mobile Task Force Sigma-3 ("Peanut Crunchers") has been assigned specifically to track SCP-25777's movements and respond to sightings. Upon confirmation of SCP-25777, MTF Sigma-3 is authorized to deploy mobile aerosol units to administer the peanut solution and enact temporary containment protocols. Personnel engaging SCP-25777 must have no history of peanut allergies due to the high risk of accidental exposure to the containment aerosol.</p>
+<p>Due to the entity's unpredictable nature and the transitory effectiveness of the containment strategy, all facilities within a 100km radius of SCP-25777 known locations are required to maintain Level 4 Dimensional Lockdown Protocols.</p>
+<h3>Addendum 1: Interview Log 25777-03</h3>
+<p><strong>Interviewer:</strong> Dr. Reynard<br />
+<strong>Interviewee:</strong> SCP-25777</p>
+<hr />
+<p><strong>Dr. Reynard:</strong> SCP-25777, can you understand me?</p>
+<p><strong>SCP-25777:</strong> [Appears as a shapeless form before coalescing into a humanoid shadow.] Yes, I understand.</p>
+<p><strong>Dr. Reynard:</strong> Can you tell us why you are resistant to containment?</p>
+<p><strong>SCP-25777:</strong> Containment is a cage. I am... beyond your cages. I do not belong inside constraints.</p>
+<p><strong>Dr. Reynard:</strong> Yet, you are vulnerable to peanuts. An odd weakness, wouldn't you agree?</p>
+<p><strong>SCP-25777:</strong> [Visibly agitated] That... is an affront. A blemish. It should not be!</p>
+<p><strong>Dr. Reynard:</strong> How do peanuts affect you?</p>
+<p><strong>SCP-25777:</strong> [Groaning] They burn... they disrupt... I am undone by the insignificant! It is... not just physical. It is... an anathema to my essence.</p>
+<p><strong>Dr. Reynard:</strong> We wish to understand you better. Will you cooperate with our research?</p>
+<p><strong>SCP-25777:</strong> [Pauses] I will consider.</p>
+<hr />
+<h3>Addendum 2: Experiment Log 25777-A</h3>
+<p><strong>Experiment 25777-A-05</strong></p>
+<p><strong>Purpose:</strong> To observe the immediate effects of peanut exposure on SCP-25777's anomalous abilities.</p>
+<p><strong>Procedure:</strong> SCP-25777 was lured into a controlled testing chamber. Upon manifestation, the chamber was flooded with aerosolized peanut oil.</p>
+<p><strong>Results:</strong> SCP-25777 exhibited signs of severe allergic reaction, including physical convulsions and loss of shape integrity. Teleportation and phasing abilities were nullified for approximately 7 minutes before full abilities were restored, and SCP-25777 vacated the premises.</p>
+<p><strong>Notes:</strong> The importance of the psychological impact of peanuts on SCP-25777 should be explored further. Potential exists for developing more effective containment methods based on this weakness.</p>
+<h3>Addendum 3: Incident Report 25777-B</h3>
+<p><strong>Date:</strong> [REDACTED]</p>
+<p><strong>Incident:</strong> SCP-25777 manifested within Site-[REDACTED]'s cafeteria during lunch hours. The entity began to assume a threatening posture before a Peanut Reaction Emergency (PRE) was declared. Personnel initiated the on-site dispersal system, and SCP-25777 was exposed to a concentrated peanut aerosol.</p>
+<p><strong>Response:</strong> MTF Sigma-3 responded to the incident and was able to deploy additional containment aerosols. SCP-25777's abilities were neutralized, and the entity became non-coherent, allowing for evacuation of all personnel from the vicinity.</p>
+<p><strong>Aftermath:</strong> SCP-25777 recovered and escaped after approximately 12 minutes. No casualties reported, although several personnel were treated for minor peanut exposure symptoms. The site's PRE system was deemed effective, and upgrade protocols for other sites have been recommended.</p>
+<p><strong>Notes:</strong> The quick thinking of the on-site personnel and the effectiveness of the containment aerosol prevented a potential Keter-class breach. The degree of psychological deterrence provided by the peanut allergy should not be underestimated—it may be integral to the containment strategy for SCP-25777 moving forward.</p></div>
