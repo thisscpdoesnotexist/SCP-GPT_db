@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25778 is  The apple-headed man from Magritte's "Son of Man" painting. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25778</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25778 is a humanoid anomaly resembling the figure depicted in René Magritte's famous painting "Son of Man." SCP-25778 appears as a middle-aged male, dressed in a grey overcoat, a bowler hat, and a white shirt with a red tie. Crucially, the entity's face is perpetually obscured by a floating, vividly red apple, matching the one in the painting. Despite numerous attempts, no personnel have been able to view or record the features behind the apple.</p>
+<p>The anomaly possesses reality-warping properties, with the power to seamlessly enter and exit any pictorial representation of an apple. Once within an image, SCP-25778 can relocate to another by unknown means, manifesting from any two-dimensional rendering of an apple within an estimated radius of 500 kilometers. This ability makes SCP-25778 extremely difficult to contain, as it can effectively teleport across vast distances.</p>
+<p>SCP-25778 is not overtly hostile but has demonstrated a disturbing ability to influence individuals who gaze upon it for prolonged periods. Affected subjects (hereafter referred to as SCP-25778-1) become obsessed with creating more images of apples, effectively increasing SCP-25778's potential "exit points." This compulsion overrides basic human needs, leading to exhaustion, starvation, or self-harm in severe cases.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given SCP-25778's ability to bypass conventional containment, focus has shifted to minimizing its teleportation range. An ongoing operation codenamed "Still Orchard" seeks to remove or alter images of apples in public and private collections within a 500-kilometer containment radius around its last known emergence point.</p>
+<p>Mobile Task Force Delta-6 ("Picasso's Gardeners") has been assigned to track all potential manifestations of SCP-25778 and respond to sightings within the containment radius. Agents are to use specially designed canvases painted with a variety of apple images, which are embedded with tracking devices and tranquilizer mechanisms to temporarily immobilize SCP-25778 upon manifestation.</p>
+<p>When immobilized, SCP-25778 is to be placed in a high-security transport crate and relocated to Site-██, where it will be held in a specially constructed solitary confinement chamber. The walls of this chamber are to be covered with non-representational art to prevent teleportation. No pictorial representations of apples are allowed within a 10-kilometer perimeter of the Site-██.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Experiment Log 25778-A</strong>
+To better understand how SCP-25778 interacts with apple images, a controlled experiment was conducted. Given the difficulty of containment, the experiment was carried out in a remote secure location designated as Testing Site-77A.</p>
+<p><strong>Procedure:</strong> A series of fifty different apple images were placed in a containment room with SCP-25778. Cameras and motion sensors were installed to observe SCP-25778's interactions with these images.</p>
+<p><strong>Results:</strong> SCP-25778 systematically explored each image. Upon reaching the 17th image, a detailed oil painting of an apple orchard, SCP-25778 vanished. The embedded tracking device within the painting initiated, indicating a breach. MTF Delta-6 was dispatched to the emergence point and successfully recontained SCP-25778 after a minor public disturbance.</p>
+<p><strong>Conclusion:</strong> The experiment confirmed the difficulty in predicting SCP-25778's exit points due to the subjective nature of its image selection.</p>
+<h3>Addendum 2:</h3>
+<p><strong>Interview Log 25778-67</strong>
+<em>Interview Date:</em> ██/██/20██
+<em>Interviewer:</em> Dr. Marianne Hues
+<em>Subject:</em> SCP-25778-1 instance, formerly Dr. Albert Krein</p>
+<p><strong>Begin Log</strong></p>
+<p><strong>Dr. Hues:</strong> Good morning, Dr. Krein. How are you today?</p>
+<p><strong>SCP-25778-1:</strong> Apples. So many apples need painting, Doctor.</p>
+<p><strong>Dr. Hues:</strong> Dr. Krein, we need to discuss your exposure to SCP-25778. Can you describe what you experienced?</p>
+<p><strong>SCP-25778-1:</strong> It stood there, so still. Its apple was perfect, an invitation. I understood... <em>must</em> create more.</p>
+<p><strong>Dr. Hues:</strong> Are you aware that your actions could have increased its range and put people at risk?</p>
+<p><strong>SCP-25778-1:</strong> The risk? No, no. The apple... it must be seen. Spread the seed of the orchard, for Him to walk.</p>
+<p><strong>Dr. Hues:</strong> Can you tell me anything about what lies behind the apple?</p>
+<p><strong>SCP-25778-1:</strong> That's... not for us to see. It's for Him to know and us to wonder. To paint.</p>
+<p><strong>Dr. Hues:</strong> Thank you, Dr. Krein. Let's move onto some cognitive tests now.</p>
+<p><strong>End Log</strong></p>
+<p><strong>Note:</strong> SCP-25778-1 exhibited increased agitation when not allowed to engage in drawing or painting. Sedatives were administered for the subject's safety.</p>
+<h3>Addendum 3:</h3>
+<p><strong>Recontainment Effort 25778-09</strong></p>
+<p>During a large-scale recontainment effort, SCP-25778 was observed to cause a reality distortion event within a crowded mall. This incident led to the manifestation of numerous apple images on digital billboards, causing a widespread outbreak of SCP-25778-1 instances. The immediate area was quarantined and amnestics were administered to affected civilians.</p>
+<p>The incident demonstrated an escalation in SCP-25778's abilities, suggesting that it's not confined to static images, but can also manipulate digital representations of apples. Recommendations to update Special Containment Procedures to include a digital component have been submitted and approved.</p></div>
