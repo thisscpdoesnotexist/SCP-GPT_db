@@ -1,0 +1,44 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25789 is  making chitatap from squirrels </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25789</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25789 is a phenomenon variably affecting the population of gray squirrels (<em>Sciurus carolinensis</em>), usually within a designated geographical zone, roughly a 10 km radius from [REDACTED], where instances of SCP-25789-A are found. Instances of SCP-25789-A refer to the modified squirrels which, through unknown mechanisms, have gained the ability to produce a unique substance referred to as "Chitatap."</p>
+<p>Chitatap is a viscous, sap-like fluid of a deep amber color, exhibiting exceptional adhesive and restorative properties. It hardens upon exposure to air, and when analyzed, the substance shows a complex molecular structure that resembles a hybrid of chitin and plant resins but with several anomalous properties. Chitatap's unique bonding features allow it to be used as a "welding" agent for various materials, including organic tissues, metals, and polymers. Upon hardening, Chitatap becomes nearly impervious to heat, solvents, and physical impacts, making it a substance of significant scientific interest and potential applications.</p>
+<p>Instances of SCP-25789-A are characterized by modified incisor teeth with a keratinized, nozzle-like protrusion enabling them to excrete Chitatap effectively. SCP-25789-A instances show no adverse health effects from the production of Chitatap and live in communities akin to standard squirrel behavior.</p>
+<p>The origin of SCP-25789's anomalous properties remains unconfirmed, but it is hypothesized that [REDACTED] or exposure to another SCP-XXXX entity may be responsible for the initial transformation events. Ongoing investigations are attempting to track the source of SCP-25789, as well as assess the wider ecological impact on the affected region.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-25789's nature and its potential for widespread effect, containment focuses on the isolation of the geographical zone from public access and observation of SCP-25789-A instances.</p>
+<ol>
+<li>A perimeter fence disguised as a natural preserve boundary has been established, with signage indicating the presence of an endangered species habitat. This area is designated as Containment Zone SCP-25789 (CZ-SCP-25789).</li>
+<li>Security personnel disguised as park rangers are to monitor the perimeter of CZ-SCP-25789, preventing unauthorized entry.</li>
+<li>Motion-activated cameras and environmental sensors are strategically placed within the containment zone to track SCP-25789-A activity and collect data on Chitatap production.</li>
+<li>Samples of Chitatap are to be collected bi-weekly by D-Class personnel under supervision, equipped with personal protective equipment to prevent adhesion.</li>
+<li>Foundation researchers assigned to SCP-25789 are to conduct behavior and impact studies on local ecosystems, updating containment procedures as necessary.</li>
+</ol>
+<p>Any significant behavioral changes in SCP-25789-A, or occurrences of SCP-25789 spreading beyond CZ-SCP-25789, must be immediately reported to Site-[REDACTED] Command for assessment and potential containment breach response. Researchers and containment personnel must undergo regular mental health screenings due to potential memetic or psychological effects reported in preliminary analysis.</p>
+<h3>Addendum 1: Initial Discovery Report</h3>
+<p>SCP-25789 was first reported by a local [REDACTED], who observed squirrels exhibiting abnormal behavior and excreting a substance previously unseen in the wild. Foundation Field Agents embedded in the local forestry service rapidly responded, confirming the anomalous properties of the squirrels and the Chitatap. A provisional containment zone was established, with ongoing research into the extent and properties of SCP-25789.</p>
+<h3>Addendum 2: Experiment Log SCP-25789-A7</h3>
+<p><strong>Test Subject:</strong> One instance of SCP-25789-A
+<strong>Procedure:</strong> The subject was placed in an enclosure designed to assess the adhesive strength and curing time of the produced Chitatap.
+<strong>Results:</strong> Chitatap displayed adhesive strength surpassing commercial-grade epoxies. Sample bonding two steel plates withstood forces in excess of [REDACTED] N before apparatus failure, not Chitatap failure. Curing time for ambient temperature was approximately nine minutes. Engaging with the material prior to curing resulted in the permanent binding of the subject's gloves but no other harmful effects were noted.
+<strong>Notes:</strong> Consider applications for quick field repairs in non-anomalous settings, pending ethical review.</p>
+<h3>Addendum 3: Interview Log SCP-25789-B12</h3>
+<p><strong>Interviewed: Dr. [REDACTED], lead researcher for SCP-25789</strong>
+<strong>Interviewer: Agent [REDACTED]</strong>
+<em>(The following is an excerpt from an interview discussing the behavioral patterns of SCP-25789-A instances and the implications for containment.)</em></p>
+<p><strong>Agent [REDACTED]:</strong> "Can you describe how SCP-25789-A instances utilize the Chitatap?"</p>
+<p><strong>Dr. [REDACTED]:</strong> "Certainly. They're using it much like we'd use glue, repairing damage to their nests, sometimes even sealing entrances against predators. The remarkable thing is the selective process of secretion. They can turn it on and off, which suggests some level of control over its production."</p>
+<p><strong>Agent [REDACTED]:</strong> "Any signs of intelligence or community influence beyond normal squirrel behavior?"</p>
+<p><strong>Dr. [REDACTED]:</strong> "Interestingly enough, yes. There's a rudimentary sharing system, where a Chitatap-producing squirrel will assist in repairs for others in exchange for... well, we think it might be food or nest-building materials. We're still observing to understand the full spectrum of their social dynamics."</p>
+<p><strong>Agent [REDACTED]:</strong> "Thank you, Doctor. Your insights are invaluable for the development of new containment strategies."</p>
+<p><em>(The rest of the interview focuses on the plans for further study of SCP-25789-A, including tracking their movements and interactions within CZ-SCP-25789.)</em></p></div>
