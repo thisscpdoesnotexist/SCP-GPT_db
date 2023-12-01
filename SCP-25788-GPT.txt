@@ -1,0 +1,45 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25788 is  the powerhouse of the cell </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25788</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25788 is to be contained in a standard biological containment cell measuring no less than 10x10x10 meters with an ambient temperature maintained at 37°C and 5% CO2 concentration to simulate natural human tissue conditions. Access to SCP-25788's containment cell is to be granted only to personnel with Level-3 clearance or higher, and strictly for research purposes. A decontamination chamber is to precede the containment cell entrance to prevent any potential biohazardous contamination.</p>
+<p>All personnel interacting with SCP-25788 must wear protective biohazard suits. Special care must be taken to prevent any biological material from being introduced into SCP-25788 beyond the controlled feeding inputs that have been genetically marked to allow for tracing. In the event of a containment breach, the area is to be locked down, and a specialized cleanup crew, equipped with incendiary devices, is to sterilize the area.</p>
+<p>Weekly inspections of SCP-25788 are mandatory to monitor for any structural changes. Behavioral analyses are to be conducted bi-weekly to track SCP-25788's growth patterns and interactions with introduced stimuli. Any changes in SCP-25788's behavior or physiology are to be documented and reported immediately to the overseeing researcher, Dr. ██████.</p>
+<h3>Description:</h3>
+<p>SCP-25788 is an anomalous, macroscopic single cellular organism that mirrors the appearance and function of a typical eukaryotic mitochondrion — the organelle commonly referred to as the "powerhouse of the cell" — at an approximately 10,000:1 scale. SCP-25788 was initially discovered in a clandestine laboratory during a raid by Foundation operatives on an anomalous bioengineering group known as "The Artisans of Flesh."</p>
+<p>SCP-25788 is capable of ATP (adenosine triphosphate) production on a scale vastly exceeding any known biological entity, converting glucose introduced into its environment into usable energy with an eerily perfect efficiency rate. Further analysis has revealed that SCP-25788's inner membrane structures, analogous to cristae, contain mitochondria-like structures themselves, suggesting a recursive anomaly where the parts of SCP-25788 contain smaller instances of itself.</p>
+<p>Testing has demonstrated that SCP-25788 can be "grafted" onto living multicellular organisms, replacing their existing mitochondria and providing a significant increase in energy to the host. However, such enhancements often result in catastrophic organ failures and a systemic breakdown of normal biological function as the energy output becomes unsustainable for host tissue.</p>
+<h3>Addendum 1: Recovered Document</h3>
+<p>Upon SCP-25788's discovery, a partially destroyed document was recovered from the "Artisans of Flesh" laboratory. It is believed to be a set of instructions or notes pertaining to the creation and function of SCP-25788, referring to it as "Project CellStrom." Much of the document is illegible due to fire and chemical damage, but certain sections such as "exponential energy potential" and "recursive bio-stack" have fueled ongoing research into the origins and intended use of SCP-25788.</p>
+<h3>Addendum 2: Interview Log 25788-01</h3>
+<p><strong>Interviewed:</strong> Dr. ██████</p>
+<p><strong>Interviewer:</strong> Agent ███████</p>
+<p><strong>Foreword:</strong> This interview is to provide insight into the discovery and initial observations of SCP-25788.</p>
+<p><strong><Begin Log></strong></p>
+<p>Agent ███████: Could you describe how SCP-25788 came into Foundation custody?</p>
+<p>Dr. ██████: Yes, we received a tip about unusual energy readings from a site suspected to harbor anomalous activities. Upon raiding the location, we found SCP-25788 among other experimental subjects in what appeared to be a biogenetic engineering lab.</p>
+<p>Agent ███████: What was your first impression upon witnessing SCP-25788?</p>
+<p>Dr. ██████: Astonishment, followed by sheer disbelief. We're used to seeing strange things, sure, but a mitochondrion the size of a small dog defies all precedents.</p>
+<p>Agent ███████: And its capabilities? </p>
+<p>Dr. ██████: Incredible, to say the least. The rate of ATP production is off the charts, and it seems to be self-sustaining. The recursive nature... I've never seen anything like it. Mitochondria within mitochondria — we're still trying to wrap our heads around the implications.</p>
+<p>Agent ███████: Thank you, doctor. What precautions are we taking with this thing?</p>
+<p>Dr. ██████: Extreme biosafety protocols. It could revolutionize—or devastate—modern medicine. We're proceeding with utmost caution.</p>
+<p><strong><End Log></strong></p>
+<h3>Addendum 3: Experiment Log 25788-A</h3>
+<p><strong>Date:</strong> ██-██-████</p>
+<p><strong>Lead Researcher:</strong> Dr. ██████</p>
+<p><strong>Subject:</strong> D-8432, Male, 33</p>
+<p><strong>Objective:</strong> To observe the interaction between SCP-25788 and a typical human cell structure when introduced to epithelial tissue.</p>
+<p><strong>Procedure:</strong> A small bio-engineered tissue sample from D-8432 was to be grafted with SCP-25788.</p>
+<p><strong>Results:</strong> Initially, the introduced SCP-25788 bonded successfully with the subject's tissue. Cellular energy output increased substantially, leading to accelerated division and growth. However, within hours, the tissue sample became unsustainable, leading to cell lysis and complete structural failure. The subject reported an increased sense of vigor, followed by severe convulsions and loss of consciousness, ultimately culminating in multi-organ failure and expiration.</p>
+<p><strong>Analysis:</strong> SCP-25788 is incompatible with current forms of multicellular Earth life due to the extreme energy output and subsequent physiological overdrive. Further testing is required to understand the potential applications and risks associated with SCP-25788.</p>
+<p>End of file: SCP-25788.</p></div>
