@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25799 is  the Jester, the Executioner, and the Doomsayer </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25799</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25799 refers to three entities that manifest simultaneously and are known individually as SCP-25799-A (The Jester), SCP-25799-B (The Executioner), and SCP-25799-C (The Doomsayer). These entities appear to be interdependent and have been observed to induce a variety of anomalous effects within a 500-meter radius of their manifestation point, often resulting in mass chaos, panic, and casualties.</p>
+<p><strong>SCP-25799-A "The Jester"</strong> typically appears as a humanoid figure clad in a multicolored, jester-like outfit, complete with a matching cap and bells. It demonstrates the ability to manipulate local reality within a limited range, frequently creating disturbing and surreal alterations meant to disorient and terrify observers. The Jester's laughter is capable of inducing uncontrollable fits of hysterical laughter in nearby individuals, leading to asphyxiation and death in some cases.</p>
+<p><strong>SCP-25799-B "The Executioner"</strong> manifests as a towering, armored figure wielding a large-scale replica of a guillotine blade. It exhibits extreme aggression towards any living organism within its vicinity and demonstrates anomalous strength and resilience. Human subjects targeted by SCP-25799-B are often decapitated, irrespective of any protective measures employed. Its armor appears impervious to conventional weaponry.</p>
+<p><strong>SCP-25799-C "The Doomsayer"</strong> presents as a gaunt figure shrouded in dark, tattered robes, speaking in an unidentified dialect. Its voice carries a cognitohazard that instills existential dread and premonitions of impending doom in listeners, which are often strong enough to lead to self-termination or irreversible catatonia. SCP-25799-C's prophecies have not been observed to predict actual future events but still instill a profound and pervasive sense of inevitability.</p>
+<p>The trio's manifestation events are preceded by a phenomenon known as "Harbinger Echoes," audible distortions resembling a mixed cacophony of laughter, metal grinding, and indistinct mutterings, which serve as a short-term precursor to their arrival.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the highly mobile and unpredictable nature of SCP-25799, permanent containment is currently impossible. If a manifestation of SCP-25799 is detected or reported, the following emergency protocols are to be initiated:</p>
+<ol>
+<li>Immediate establishment of a quarantine zone with a 500-meter radius from the epicenter of the manifestation.</li>
+<li>Deployment of Mobile Task Force Pi-1 ("City Slickers") equipped with noise-canceling headphones and blindfolds to prevent sensory cognitohazards from SCP-25799-A and SCP-25799-C.</li>
+<li>Task Force is to engage SCP-25799-B with high-power explosive ordinances in an attempt to distract or temporarily incapacitate it to cease hostilities.</li>
+<li>On-site Foundation personnel must evacuate civilians from the affected area while administering Class-C amnestics to any witnesses.</li>
+<li>Establishment of a misinformation campaign to cover up any public knowledge of SCP-25799 manifestations as a terrorist attack or natural disaster.</li>
+</ol>
+<p>Long-term research into means of predicting or delaying SCP-25799 manifestations is ongoing. Any information regarding potential origins or motivations behind SCP-25799 is to be reported immediately to the O5 Council.</p>
+<h3>Addendum 1: Incident Log 25799-11</h3>
+<p>During an SCP-25799 manifestation event in [REDACTED], 48 civilians were confirmed deceased, with ██ others undergoing treatment for severe psychological trauma. SCP-25799-A's reality alterations included an amorphous, sentient shadow engulfing the town square, whereupon the shadow 'consumed' individuals and converted them into living shadow entities that mimicked SCP-25799-A's laughter. MTF Pi-1 utilized high-intensity floodlights to disperse the shadow.</p>
+<h3>Addendum 2: Experiment Log 25799-E18</h3>
+<p>An attempt to communicate with SCP-25799-C was conducted, using D-class personnel equipped with a two-way communication device and instructed to engage SCP-25799-C in dialogue. Results included:
+- D-class rendered mute upon approaching SCP-25799-C
+- SCP-25799-C responded to questions with veiled, ambiguous statements regarding "the end of days" and "the cycle's completion"
+- D-class began to self-harm, necessitating termination of the experiment</p>
+<h3>Addendum 3: Interview 25799-IV09 (Excerpt)</h3>
+<p>The following is a partial transcript of an interview with a former cultist believed to have information on SCP-25799.</p>
+<p><strong>Interviewer:</strong> Dr. Harlan
+<strong>Subject:</strong> [REDACTED]</p>
+<p><em>[Transcript Begins]</em></p>
+<p><strong>Dr. Harlan:</strong> What can you tell us about the entities known as the Jester, the Executioner, and the Doomsayer?</p>
+<p><strong>Subject:</strong> They... they are the harbingers. The servants of entropy. Each of them embodies the chaos before silence, the culling before the end, the warnings unheeded.</p>
+<p><strong>Dr. Harlan:</strong> This 'end' they are harbingers of, what form is it supposed to take?</p>
+<p><em>[The subject grows visibly distressed, muttering incomprehensibly before regaining composure.]</em></p>
+<p><strong>Subject:</strong> I do not have the words. It's a cessation of everything. To know more is to court madness.</p>
+<p><em>[Transcript Ends]</em></p>
+<p>Therapeutic support has been provided to the subject for potential reintegration and further intelligence gathering. Full interview logs are available to personnel with Level 4/25799 clearance.</p></div>
