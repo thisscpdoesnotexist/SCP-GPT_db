@@ -1,0 +1,46 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25802 is  The hedgehog formerly known as Sonic </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25802</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25802 is an entity resembling a popular video game character from the early 90s, specifically that of "Sonic the Hedgehog." However, SCP-25802 deviates notably from its fictional counterpart in several important aspects. The entity is roughly 1 meter tall and displays an advanced level of intelligence, as well as an array of anomalous abilities.</p>
+<p>The most prominent anomalous feature of SCP-25802 is its capacity for superhuman speed, estimated to exceed speeds of 700 km/h. Further, SCP-25802 has exhibited the ability to alter its molecular density, allowing it to phase through solid objects. It also appears to generate localized temporal distortions, observed as fluctuations in the flow of time immediately surrounding the entity, though this effect does not seem to influence SCP-25802 itself.</p>
+<p>SCP-25802 is sapient, capable of fluent speech in multiple languages, and demonstrates a personality consistent with a mischievous, yet non-malicious demeanor. It has expressed a fondness for gold rings, which seem to act as a form of sustenance or power source for it, and exhibits distress when deprived of these items.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25802 is contained in a specialized 10m x 10m x 10m containment chamber located at Site-██. The chamber walls are composed of a 1-meter-thick alloy capable of withstanding SCP-25802's high-velocity impacts. An inner layer of the chamber is constructed with a lattice matrix designed to disrupt the entity's phasing ability.</p>
+<p>The chamber is to be kept under constant surveillance to monitor SCP-25802's activities. No personnel are to enter the containment chamber without prior approval from at least two Level 4 researchers. All interactions with SCP-25802 must include a contingency plan for potential containment breaches due to its speed and phasing abilities.</p>
+<p>Personnel entering the chamber must wear GPS tracking devices, and a supply of gold rings must be on hand to distract or placate SCP-25802 if necessary. A series of pneumatic gateways and traps have been installed within the chamber to aid in recapture should SCP-25802 escape its primary containment.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-25802 was first encountered in [REDACTED], following several reports of a "blue blur" stealing gold jewelry from stores and residences. Foundation agents were dispatched to investigate and managed to corner the entity in an abandoned warehouse. After a prolonged containment effort utilizing drones and EMP devices, SCP-25802 was apprehended and transported to Site-██.</p>
+<h3>Addendum 2: Interview Log-25802-A</h3>
+<p>Interviewed: SCP-25802</p>
+<p>Interviewer: Dr. ██████</p>
+<p>Foreword: The following is a transcript of the initial interview with SCP-25802 post-containment.</p>
+<p><Begin Log></p>
+<p>Dr. ██████: Good afternoon, SCP-25802. May I call you Sonic?</p>
+<p>SCP-25802: Sonic? Hah, suppose that's as good a name as any. But I'm not your little blue game mascot, doc.</p>
+<p>Dr. ██████: Understood. Can you tell me where you came from?</p>
+<p>SCP-25802: A better question is where haven't I been? But I'm not gonna spill my guts just because you asked nicely. This place doesn't exactly scream friendly chat over chili dogs.</p>
+<p>Dr. ██████: Let's focus on your abilities then. You're incredibly fast and can move through walls. How do you do that?</p>
+<p>SCP-25802: Oh, trade secret, my good doctor. Let's just say I've got a few tricks up my sleeve. But if you're nice, maybe I'll show you a thing or two. Maybe.</p>
+<p>Dr. ██████: We're also curious about these gold rings you've been collecting—</p>
+<p>SCP-25802: Yeah, my rings. Not your rings, Doc. They're super important to me. You could say they keep my engines running. Now, how about you return the ones your goons took, huh?</p>
+<p>Dr. ██████: We'll see. That's all for today. Thank you for your cooperation, SCP-25802.</p>
+<p>SCP-25802: Any time, Doc. Just remember, I could be out of here in a flash if I wanted to.</p>
+<p><End Log></p>
+<p>Note: Further interviews have been scheduled to learn more about SCP-25802's origin and capabilities. Additional security measures are being considered to counteract SCP-25802's frequent but unsuccessful escape attempts.</p>
+<h3>Addendum 3: Experiment Log-25802-C</h3>
+<p>Test Number: C-19</p>
+<p>Test Objective: To investigate SCP-25802's ability to withstand high-speed impacts without harm.</p>
+<p>Procedure: SCP-25802 was provided with a gold ring and subsequently encouraged to accelerate towards a reinforced steel wall within the containment chamber.</p>
+<p>Results: SCP-25802 reached a velocity estimated at 500 km/h before colliding with the wall. Upon impact, SCP-25802 seemed to become intangible, phasing through the obstacle without sustaining injury. Temporal distortion was observed but quickly dissipated.</p>
+<p>Analysis: SCP-25802's anomalous properties include both intangibility and some form of temporal manipulation. The conditions which toggle these abilities are not fully understood. Further research is recommended to understand these mechanics and their potential applications.</p>
+<p>In conclusion, SCP-25802 remains a fascinating subject for further study, with clear implications for theories on superhuman abilities and quantum physics. Due to the unpredictable nature of its powers, containment protocols are under constant review to ensure that SCP-25802 remains securely held and that any knowledge gleaned is utilized in containment advancements for other SCPs exhibiting similar capabilities.</p></div>
