@@ -1,0 +1,37 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25817 is  a cute blue-haired catgirl who resents being created </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25817</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25817 appears to be a humanoid entity with feline characteristics, specifically those akin to an anime-style 'catgirl'. It has blue hair, cat ears, and a tail that match its hair in color. SCP-25817 is approximately 161 cm in height and appears to be in its late teens in human years.</p>
+<p>The entity has repeatedly expressed dissatisfaction and resentment towards its existence, claiming it was 'created' against its will and possesses memories of a life it considers to have been artificial. SCP-25817 exhibits a high level of intelligence and is fluent in Japanese and English. It possesses abilities typical of a house cat, such as heightened agility, keen night vision, and a minor degree of sensory enhancement over human standards.</p>
+<p>SCP-25817 occasionally displays anomalous properties, including a variable physical form that can shift between more human or more feline states depending on its emotional state. When distressed or threatened, SCP-25817 can manifest sharp claws capable of rending materials as durable as steel.</p>
+<p>The entity lacks any ambition for escape or malice towards personnel but has shown a deep-seated existential ennui and identity crisis. Psychological evaluations are ongoing to better understand SCP-25817's mental state and capabilities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25817 is contained in a standard humanoid containment cell at Site-17 with modifications to accommodate feline tendencies, including a cat tree, scratching post, and interactive toys to prevent mental deterioration from confinement. The temperature of the containment cell is kept at a constant 21°C, and it is cleaned daily.</p>
+<p>Containment personnel assigned to SCP-25817 are required to have a psychological evaluation to ensure they can interact compassionately with the entity. Personnel are instructed to engage with SCP-25817 at least twice per day to provide social interaction and to monitor its psychological health. SCP-25817 is provided with a diet appropriate for a human with feline dietary supplements added as advised by the site's nutritionist.</p>
+<p>Interviews and interactions with SCP-25817 are to be conducted in a respectful and non-confrontational manner, with consideration given to its resentment towards its existence and creation. In the event of a containment breach, non-lethal means are to be employed to recapture SCP-25817.</p>
+<h3>Addendum 1:</h3>
+<h4>Experiment Log:</h4>
+<p>Research conducted on SCP-25817's abilities to shift between a more human or more feline form has yielded inconsistent results. Testing has revealed that SCP-25817 requires significant emotional stimuli to activate this anomalous effect. SCP-25817 is cooperative with most tests but has requested that tests related to this particular ability be kept to a minimum, citing discomfort with the process.</p>
+<h3>Addendum 2:</h3>
+<h4>Interview Log:</h4>
+<p>Interviewer: Dr. Yumiko Takada
+Interviewed: SCP-25817</p>
+<p><em>[An excerpt from the interview]</em></p>
+<p><strong>Dr. Takada</strong>: Can you tell us about your earliest memories?</p>
+<p><strong>SCP-25817</strong>: It's all blurry. Like... like watching a TV show you half-remember from when you were a kid. Fragments, feelings, but nothing feels real. It's all just— Why was I made like this?</p>
+<p><strong>Dr. Takada</strong>: I see. And how does that make you feel?</p>
+<p><strong>SCP-25817</strong>: Lost. And angry, I guess. I don't fit anywhere. Not in the human world, and I'm not really a cat either, am I? I'm just... here. Created for someone else's purpose that I don't even understand.</p>
+<p><em>[The interview continues exploring SCP-25817's sense of self and existential concerns]</em></p>
+<h3>Addendum 3:</h3>
+<h4>Additional Notes:</h4>
+<p>SCP-25817 has shown fluctuations in mood that correlate with certain anime broadcasts, especially those featuring 'catgirl' characters. Whether this reaction is due to a personal resonance with the characters or a programmed response is unclear. Further research into SCP-25817's origin, including any potential link to anime subculture and its influence on SCP-25817's creation and perception, is ongoing.</p></div>
