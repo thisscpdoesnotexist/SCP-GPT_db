@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25818 is  an evil murder monster, but it's currently suffering from severe depression and can't muster up the urge to hate humanity </h3> </center>
+    <p>```</p>
+<h3>Item #:</h3>
+<p>SCP-25818</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25818 is a humanoid entity approximately 2.3 meters in height with a physiognomy that can be best described as a grotesque amalgamation of avian and reptilian features. It possesses elongated limbs with claw-like appendages and a set of retractable wings with a span of roughly 6 meters. Its skin is covered in a chitinous exoskeleton that demonstrates a remarkable resistance to physical trauma. SCP-25818 has displayed regenerative capabilities that allow recovery from most forms of injury within a matter of hours.</p>
+<p>SCP-25818 is capable of speech and demonstrates a high level of intelligence, often engaging in psychological manipulation of individuals it interacts with. It has exhibited a history of extreme violence and contempt for human life, earning it the classification of an "evil murder monster" by containment personnel. However, as of the last incident, SCP-25818 appears to be suffering from a severe depressive episode, characterized by a cessation of its violent tendencies and an expressed disinterest in causing harm.</p>
+<p>The entity has articulated feelings of existential anguish and a lack of purpose, which it claims has stripped it of the "urge to hate humanity." Despite its current state, SCP-25818 is to be considered extremely dangerous. Its psychological state could shift unpredictably, and the potential for a return to its previous patterns of violence must never be discounted.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25818 is to be contained in a specialized containment cell measuring no less than 10x10x10 meters constructed of reinforced steel and lined with a shock-absorbent layer to mitigate the impact of SCP-25818's potential aggressive outbursts. The cell is to be equipped with an automated delivery system to provide nutrition and hydration, thus reducing the need for direct interaction with containment personnel.</p>
+<p>In anticipation of a potential resurgence of SCP-25818's violent tendencies, the containment cell is fitted with a series of Halon gas emitters that, upon activation, can suppress most of SCP-25818's physical functions without causing permanent harm. All security personnel assigned to SCP-25818 must undergo psychological evaluation and resilience training due to the entity's skill in manipulation and emotional exploitation. Interaction with SCP-25818 is to be conducted remotely whenever possible, and under no circumstances should personnel enter the containment cell alone.</p>
+<p>In light of SCP-25818's current depressive state, a psychiatric specialist experienced in dealing with anomalous entities is to engage in bi-weekly evaluations and therapy sessions, with the goal of gaining insights into SCP-25818's mental health and monitoring for any signs of behavioral changes.</p>
+<h3>Addendum 1:  Incident Report 25818-03</h3>
+<p>On ██/██/20██, SCP-25818 ceased all violent behavior, withdrawing to a corner of its containment cell. Initial assumptions were that this was a ruse or prelude to a new method of attack. However, after 72 hours of continued inactivity and several failed attempts by SCP-25818 to articulate thoughts of despair, medical and psychological evaluations were conducted, confirming a severe depressive state. Containment procedures were updated accordingly to reflect this development.</p>
+<h3>Addendum 2: Experiment Log 25818-21A</h3>
+<p>The following is an excerpt from the experiment log dated ██/██/20██, wherein SCP-25818 was presented with various stimuli in an effort to observe its current behavioral responses:</p>
+<ul>
+<li>Stimulus: Introduction of live D-Class personnel (standard distress protocol initiated).</li>
+<li>Response: SCP-25818 remained lethargic and unresponsive, making only a passing glance at the D-Class before resuming a fetal position.</li>
+<li>Stimulus: Playing audio recordings of human screams and pleads.</li>
+<li>Response: SCP-25818 exhibited signs of discomfort, vocalizing what were interpreted as apologies, before using its wings to cover its head and audibly sobbing.</li>
+<li>Stimulus: Administration of amnestic drugs in conjunction with positive visual imagery.</li>
+<li>Response: No discernable change in SCP-25818's behavior was noted, save for verbal expressions of confusion and further self-deprecation.</li>
+</ul>
+<h3>Addendum 3: Interview Log 25818-34</h3>
+<p>Interviewed: SCP-25818</p>
+<p>Interviewer: Dr. Sophia Light</p>
+<p>Foreword: This interview was conducted to assess SCP-25818's emotional and psychological state, following the implementation of its modified containment procedures.</p>
+<p>[Begin Log]</p>
+<p>Dr. Light: SCP-25818, how are you feeling today?</p>
+<p>SCP-25818: What difference does it make? My existence is nothing but a blight... an endless void where once there was insatiable fury and purpose.</p>
+<p>Dr. Light: Can you elaborate on what you mean by 'insatiable fury and purpose'?</p>
+<p>SCP-25818: I lived only to bring chaos, to hear the pitiful screams of those weaker than myself. It was my essence, my identity. But now... there is nothing. Only the emptiness where my hatred once thrived.</p>
+<p>Dr. Light: And what do you believe led to this change?</p>
+<p>SCP-25818: Perhaps it's a curse far more cruel than anything I could've inflicted upon others. A reflection, a glimpse into the void my actions have sown... I do not know, Doctor. In truth, I fear this profound nothingness more than any could fear me.</p>
+<p>Dr. Light: Interesting perspective. We want to help you understand this change, SCP-25818. There might be a way to alleviate your suffering.</p>
+<p>SCP-25818: Suffering... yes, that's what this is. An eternal torment that's a mirror of the pain I used to relish inflicting. Your help? Perhaps it is just another dimension of my punishment—dangling threads of false hope before these tired, wicked eyes.</p>
+<p>[End Log]</p>
+<p>Closing Statement: SCP-25818 did not display any immediate shifts in demeanor over the course of the interview. Nevertheless, it provided valuable insights into its current psychological profile, potentially aiding containment strategies and risk assessment protocols.
+```</p></div>
