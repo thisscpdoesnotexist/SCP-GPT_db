@@ -1,0 +1,46 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25803 is  Indefinitely tesselating abdominals  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25803</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25803 refers to a human male, approximately 30 years old, with the anomalous property of indefinitely tessellating abdominal muscles. Visual examination of SCP-25803’s abdomen reveals an intricate fractal pattern of musculature which appears to infinitely replicate itself on a diminishing scale. This anomalous feature does not extend beyond the epidermal layer, as internal scans show normal human physiology. </p>
+<p>The subject was first discovered during a bodybuilding competition, where judges noticed the impossible geometries of his abdomen. SCP-25803 is sapient and capable of communication, expressing no physical discomfort from the anomaly. However, psychological assessments indicate a growing dissociation with reality, likely stemming from the nature of the anomaly itself.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25803 is to be contained in a standard humanoid containment cell at Site-17. The cell is to be equipped with necessary amenities for comfort and sustenance. SCP-25803 is permitted to engage with various forms of entertainment provided it does not involve any media featuring fractal patterns, recursive imagery, or items that may exacerbate its psychological condition.</p>
+<p>Staff interacting with SCP-25803 are required to wear uniforms without patterned textures to prevent undue stress or irritation to the subject. Given SCP-25803's psychological fragility, interviews and interactions must be conducted by personnel trained in crisis intervention.</p>
+<p>Physical examinations of SCP-25803 are to be conducted weekly to monitor any potential changes in the anomalous properties. SCP-25803 is allowed a regimen of physical activity, provided that it does not focus on abdominal exercises which may influence the anomaly.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Interview Log SCP-25803-07</strong></p>
+<p><em>Interviewer: Dr. Emily Shaw</em></p>
+<p><em>Interviewee: SCP-25803</em></p>
+<p><em><Begin Log></em></p>
+<p><strong>Dr. Shaw:</strong> Good afternoon, SCP-25803. How are you feeling today?</p>
+<p><strong>SCP-25803:</strong> Call me Alex, please. I am as well as I can be, given the circumstances.</p>
+<p><strong>Dr. Shaw:</strong> Noted, Alex. I wanted to talk to you about when you first noticed your... condition.</p>
+<p><strong>SCP-25803:</strong> Ah, yes. It was during my preparations for the competition. I had been working hard on my core, and one day, I just saw it in the mirror—the patterns.</p>
+<p><strong>Dr. Shaw:</strong> Can you describe your emotional response to this discovery?</p>
+<p><strong>SCP-25803:</strong> Well, at first, I thought it was kind of cool, unique, you know? But as the pattern grew more complex, it started to obsess me. I felt like I could see within the layers, almost hear them whispering.</p>
+<p><strong>Dr. Shaw:</strong> And these whispers, can you elaborate on that?</p>
+<p><strong>SCP-25803:</strong> It's like... there's a rhythm or a logic to it that compels me to look deeper, but it doesn't make any sense.</p>
+<p><strong>Dr. Shaw:</strong> Have you ever experienced any physical sensations associated with your anomaly?</p>
+<p><strong>SCP-25803:</strong> No pain or anything, if that's what you mean. It's more like a constant awareness. Sometimes I swear I can feel the muscles expanding and contracting, but not like normal—like they're breathing.</p>
+<p><strong>Dr. Shaw:</strong> Thank you, Alex. We'll continue to research your condition and aim to make you as comfortable as possible.</p>
+<p><em><End Log></em></p>
+<h3>Addendum 2:</h3>
+<p><strong>Experiment Log SCP-25803-E3</strong></p>
+<p><em>The following is an excerpt from an experiment exploring the boundaries of SCP-25803's anomalous properties.</em></p>
+<p><strong>Subject:</strong> SCP-25803</p>
+<p><strong>Lead Researcher:</strong> Dr. Adrian Krieg</p>
+<p><strong>Procedure:</strong> High-definition imaging equipment was used to document and map the endless tessellation of SCP-25803's abdominal musculature. An attempt was made to reach the smallest visible tessellation through magnification.</p>
+<p><strong>Results:</strong> Magnification efforts reached a factor of 10^7 before the equipment reached its limit. No irregularities in the replication of the pattern were observed. The subject reported a sense of 'euphoria' when the smallest tessellations were being documented.</p>
+<h3>Addendum 3:</h3>
+<p><strong>Additional Notes</strong></p>
+<p>Further psychological evaluation of SCP-25803 suggests a cognitive pattern similar to those found in individuals suffering from fractal psychosis, a condition theorized by Dr. Krieg after studying the subject. It appears the fractal nature of SCP-25803's abdomen has a mesmerizing effect on its psyche, leading to an unhealthy fixation on the anomaly. Current containment procedures have been updated to include mental health support and a strict ban on the discussion or display of complex patterns during SCP-25803's waking hours to mitigate psychological strain.</p></div>
