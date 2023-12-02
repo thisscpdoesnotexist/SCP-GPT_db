@@ -1,0 +1,31 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25801 is  Snurch (snail church) </h3> </center>
+    <h1>SCP-25801: Snurch (Snail Church)</h1>
+<h3>Item #:</h3>
+<p>SCP-25801</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25801, colloquially known as "Snurch," is a structure resembling a small Baroque chapel, approximately 10 meters in length, 5 meters in width, and 10 meters in height, located in a remote area of ████████, France. What differentiates SCP-25801 from a non-anomalous structure is its material composition and method of locomotion, both of which are characteristic of that of the common garden snail (Helix aspersa).</p>
+<p>The entire structure is made from a biological material that is similar in composition to snail exoskeletons, featuring a large, coiled shell-like dome. SCP-25801 is capable of slow movement at a pace not exceeding 2 cm per hour, leaving a trail of mucus that has proven to possess minor regenerative properties when applied to living tissue.</p>
+<p>The interior of SCP-25801 contains pews, an altar, and various religious iconographies that anomalously alter to match the religious beliefs or expectations of the individuals entering it. All religious symbols within SCP-25801 seem to revere an entity referred to as 'The Great Escargot', whose nature and existence are currently subject to extensive research. Individuals who spend extended periods within SCP-25801 report feelings of tranquility and, in some cases, claim to have received divine enlightenment or guidance.</p>
+<p>The 'Snurch' is also home to numerous small snail-like creatures designated SCP-25801-1. These entities appear to maintain the interior of SCP-25801 and actively repair any damage to the structure. They do not seem to be hostile but will defend SCP-25801 if they perceive a threat to the structure.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25801 is to be contained in situ within a secure perimeter with a minimum radius of 20 meters from the structure to account for its locomotion. The area is to be monitored by at least two Foundation agents at all times, disguised as park rangers to deter civilians. Drones should be deployed to monitor SCP-25801's movements and alert containment teams of any significant changes in its trajectory or speed.</p>
+<p>Access to SCP-25801 is strictly prohibited to unauthorized personnel. Level 3 clearance is required for entry. Any research proposals or interaction with SCP-25801-1 entities must be submitted to Dr. ██████ and approved by a majority of O5 Council members.</p>
+<p>In the event that SCP-25801 becomes agitated or begins to move at speeds exceeding its standard threshold, Protocol Gastropod-4 is to be initiated immediately. This includes the deployment of a specialized containment crew equipped to utilize chemical agents that will safely immobilize SCP-25801 without causing harm to the structure or the SCP-25801-1 entities.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><em>To be included at a later date.</em></p>
+<h3>Addendum 2: Interview Log</h3>
+<p><em>To be included at a later date.</em></p>
+<h3>Addendum 3: Additional Notes</h3>
+<p>Agents stationed at SCP-25801 have reported auditory phenomena when in close proximity alone, with some describing it as "chanting" or "whispers" in an unrecognizable language. Further analysis is ongoing to determine the source and meaning of these phenomena.</p>
+<p>Following Incident 25801-A, when a civilian attempted to vandalize the structure resulting in severe chemical burns from SCP-25801's defensive mucus, the immediate vicinity has been declared a protected historical site. This cover story has been disseminated to maintain public distance and as part of disinformation protocols.</p>
+<p>Due to SCP-25801’s ability to change its inner iconography, it has been proposed as a possible field for the study of ideologically-driven anomalies. Dr. ██████ has suggested using SCP-25801 as a control variable in experiments to understand how religious or belief-based anomalies might adapt or react in the presence of contradicting belief systems. Approval for such experiments is pending. </p>
+<p>The exploratory mission to identify the 'core' of SCP-25801 and to obtain a better understanding of 'The Great Escargot' deity figure worshipped within the structure is currently in preparation. The mission aims to uncover whether the entity is a form of memetic influence, a projection from a collective consciousness within SCP-25801-1, or an actual divine presence. More details will be presented upon the mission's clearance and execution.</p></div>
