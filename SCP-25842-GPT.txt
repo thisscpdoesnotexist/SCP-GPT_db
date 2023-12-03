@@ -1,0 +1,61 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25842 is  a advent calendar containing temporal anomalies </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25842</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25842 is an advent calendar of anomalous nature, measuring 50 cm in height and 35 cm in width. The calendar displays a traditional holiday theme characterized by wintery scenes and festive decorations. SCP-25842 comprises 24 numbered doors, each associated with a specific day leading up to the 25th of December.</p>
+<p>Upon opening any of the doors of SCP-25842, an individual experiences a temporal anomaly consistent with the day the door represents. The subject is instantaneously transported to a pocket dimension resembling the day in a perpetual state. This dimension exhibits physical and environmental characteristics typical of a Northern Hemisphere winter, regardless of the subject's geographical location prior to the anomaly.</p>
+<p>The temporal flow within the pocket dimension is significantly distorted; one second outside of SCP-25842 translates to approximately one hour within the dimension. Subjects have reported that upon re-entry into normal space-time, no physical signs of aging or requirement for sustenance had occurred in accordance with the time experienced within the anomaly.</p>
+<p>SCP-25842's effects are persistent and repeatable with each door corresponding to its marked date. The anomalies cease once the door is shut, and subjects are returned to their original location with memories intact. Prolonged exposure to the interior dimensions has proven to be mentally disorientating to D-Class personnel, necessitating the implementation of strict temporal exposure protocols.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25842 is contained within a standard secure locker located at Site-██. Access to SCP-25842 is restricted to Level 3 personnel and above or those granted special permission by the Site Director. Testing requires approval from at least two Level 4 researchers and must follow the Temporal Anomaly Research Protocol (TARP-05).</p>
+<p>Personnel entering pocket dimensions created by SCP-25842's doors are to be equipped with appropriate environmental gear and a tether system allowing for immediate extraction in the event of a door closure or emergency. All interactions with SCP-25842 must be continuously monitored and logged by the research team assigned to the SCP.</p>
+<p>In the event that a door is left open or a subject is unable to be retracted from the pocket dimension, the area is to be locked down, and a specialized retrieval team (Temporal Anomalies Division) is to be deployed immediately.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-25842 was discovered in a small town in Austria after several reports of missing persons during the month of December. An embedded Foundation agent within the local police department brought this to the attention of the Foundation, leading to the containment of SCP-25842.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 25842-E1</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Subject:</strong> D-10421</li>
+<li><strong>Procedure:</strong> Subject instructed to open Door 5 of SCP-25842.</li>
+<li><strong>Results:</strong> D-10421 transported to a pocket dimension resembling December 5th. Reported consistent falling snow and absence of sun despite an apparent time of noon. Subject returned upon closing the door with mild confusion but no adverse effects.</li>
+</ul>
+<h4>Experiment 25842-E2</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Subject:</strong> D-10502</li>
+<li><strong>Procedure:</strong> Subject instructed to open Door 24 of SCP-25842.</li>
+<li><strong>Results:</strong> D-10502 reported an elaborate display of festive lights and a sense of celebration in the air. Returned displaying signs of euphoria, hypothesized to be induced by the pocket dimension.</li>
+</ul>
+<h4>Experiment 25842-E3</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Subject:</strong> D-10345</li>
+<li><strong>Procedure:</strong> Subject instructed to remain within pocket dimension of Door 12 for a duration of six hours.</li>
+<li><strong>Results:</strong> Six real-time seconds passed before retrieval. D-10345 experienced a full six days within the pocket dimension and demonstrated acute psychological distress upon return. Recommended for psychiatric evaluation.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. Alana Krezic
+<strong>Interviewed:</strong> D-10421, following Experiment 25842-E1
+<strong>Date:</strong> ██/██/20██</p>
+<p>[Begin Log]</p>
+<p><strong>Dr. Krezic:</strong> Please describe in your own words what you experienced inside SCP-25842.</p>
+<p><strong>D-10421:</strong> It was weird, doc. Like, one second I'm here, and then, bam! I'm standing in this snowy field. It's got this permanent evening kind of light, but no sun in the sky, you know?</p>
+<p><strong>Dr. Krezic:</strong> How did you feel during this time? We observed that you were inside for approximately six seconds of our time.</p>
+<p><strong>D-10421:</strong> Felt like hours to me. I roamed around, saw a little village in the distance, but I remembered the brief – don't go wandering off. It was calm, serene even. But cold, really cold.</p>
+<p><strong>Dr. Krezic:</strong> Were you able to interact with anything or anyone while in the pocket dimension?</p>
+<p><strong>D-10421:</strong> No people that I could see, but everything else was... normal, I guess. Snow was cold, the air was fresh. I left footsteps.</p>
+<p><strong>Dr. Krezic:</strong> I see. Did you feel any different upon returning?</p>
+<p><strong>D-10421:</strong> A bit out of it, yeah, but nothing too crazy – a bit like waking up from a dream. Didn't feel any older if that's what you're getting at.</p>
+<p><strong>Dr. Krezic:</strong> Very good, thank you. That will be all for now.</p>
+<p>[End Log]</p>
+<p>A subsequent review of containment procedures for SCP-25842 is advised, with specific attention to potential psychological impacts of prolonged exposure to its temporal anomalies. Further testing may explore the cumulative effects of repeated entries or the properties of the pocket dimensions in more depth.</p></div>
