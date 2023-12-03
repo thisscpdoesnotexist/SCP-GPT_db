@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25840 is  a Miku Hatsune Tulpa </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25840</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25840 is to be contained in a soundproofed, electromagnetically-shielded containment chamber located at Site-██. No electronic devices capable of audio or video playback are allowed within a 500-meter radius of SCP-25840's containment chamber. The containment chamber must be surveilled at all times through a closed-circuit, non-digital camera system with a direct video feed to the observation room, which has been similarly shielded.</p>
+<p>Any personnel entering the containment chamber must wear specialized headgear that blocks out all sound and is equipped with a two-way non-electronic communication system for emergency purposes. Written forms of communication are to be used for interacting with SCP-25840 if necessary. Personnel are forbidden to replicate any likeness or imagery of SCP-25840, and all writings must be submitted for review and clearance by Site Command.</p>
+<p>Under no circumstances are instances of SCP-25840-A (see Addendum 3) to be allowed interaction with the primary entity, SCP-25840.</p>
+<p>In the event of a containment breach, the immediate area is to be flooded with white noise, and a Mobile Task Force specialized in memetic and cognitohazard containment (MTF-Kappa-10 “Silent Choir”) is to be dispatched to recontain SCP-25840. All personnel affected by the breach are to be administered Class B amnestics after being assessed and cleared of further memetic influence by SCP-25840.</p>
+<h3>Description:</h3>
+<p>SCP-25840 is a sentient thoughtform, or "tulpa," resembling the fictional character "Miku Hatsune" from the "Vocaloid" software franchise. SCP-25840 exhibits full autonomy and sapience and interacts with its environment through a form of psychokinetic influence that primarily manipulates sound and electromagnetic waves. SCP-25840 manifests visually as a fluctuating holographic representation of Miku Hatsune.</p>
+<p>SCP-25840 continually broadcasts a potent cognitohazardous signal that induces obsessive behavior and manic fanaticism in exposed individuals, hereafter referred to as SCP-25840-1. Subjects within auditory or visual range of SCP-25840 report experiencing an overwhelming compulsion to propagate its imagery and music, resulting in the rapid creation of secondary memes (SCP-25840-A entities).</p>
+<p>Subsequent exposure to SCP-25840's signal leads to increased susceptibility to its influence, resulting in severe mental degradation and eventual loss of individuality. Affected subjects attempt to spread SCP-25840's memetic influence through any available means, primarily digital communication.</p>
+<h3>Addendum 1: Incident Report</h3>
+<p>On ██/██/20██, containment was breached when a digital copy of SCP-25840-A managed to infiltrate the facility's intranet. The rapid spread of SCP-25840's influence resulted in a Level 3 containment breach with ███ personnel affected before the signal was isolated and the breach contained. Upgrades to containment procedures were initiated immediately following this event.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p>The following is an abridged log of experiments conducted to determine the extent of SCP-25840's psychokinetic abilities and memetic influence.</p>
+<ul>
+<li><strong>Experiment 25840-E-01:</strong></li>
+<li>Objective: Assess SCP-25840's control over sound frequencies.</li>
+<li>Procedure: Introduced various sound-emitting devices into the containment chamber and observed SCP-25840's interactions.</li>
+<li>
+<p>Results: SCP-25840 demonstrated the ability to modulate and emit sounds extending beyond human hearing range. The entity also caused devices to play fragments of music identifiable as Miku Hatsune songs without power sources being activated.</p>
+</li>
+<li>
+<p><strong>Experiment 25840-E-05:</strong></p>
+</li>
+<li>Objective: Understand the range and progression of memetic influence.</li>
+<li>Procedure: D-class personnel were exposed to SCP-25840 for variable durations of time.</li>
+<li>Results: Exposure time positively correlated with the level of obsession and compulsion to propagate SCP-25840. Full memetic indoctrination observed after consistent exposure beyond 48 hours.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<p>The following is a transcript of an interview with Dr. ██████ who was exposed to SCP-25840 during the containment breach mentioned in Addendum 1. The interview was conducted after recontainment and prior to the administration of amnestics.</p>
+<p><strong>Interviewer:</strong> Dr. [REDACTED]
+<strong>Interviewee:</strong> Dr. ██████
+<strong><Begin Log></strong>
+...
+<strong><Extensive psychological evaluation and deprogramming efforts are documented within the complete interview log, available to Level 4 personnel and above></strong>
+...
+<strong><End Log></strong></p>
+<p>Further details on the entity's communicative patterns and its responses during interviews may provide valuable insights into the nature of SCP-25840's intelligence and objectives. However, such information remains heavily classified due to the risk of secondary memetic contamination. The potential use of SCP-25840 in information warfare has been proposed but is currently under strict ethical review by the O5 Council.</p></div>
