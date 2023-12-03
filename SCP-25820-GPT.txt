@@ -1,0 +1,64 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25820 is  the gigachad made manifest </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25820</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25820 is a humanoid entity approximately 2 meters in height, with an exceptionally muscular physique and facial features widely regarded as classically attractive. SCP-25820 is able to exude a powerful aura of charisma, which can influence human individuals regardless of gender, sexual orientation, or cultural background, compelling them toward extreme admiration and obedience.</p>
+<p>Despite SCP-25820's physical appearance, which conforms to the so-called "Gigachad" internet archetype, SCP-25820 is not biological in the traditional sense. It appears to be made of a dense, organically-styled material not matching any known elements on the periodic table. SCP-25820's anomalous properties manifest not only in its influence over individuals but also in its ability to manipulate its physical form to varying degrees, often augmenting its musculature and attractiveness to further enhance its manipulative abilities.</p>
+<p>Interaction with SCP-25820 without proper mental fortification has proven to result in an obsessive fixation on the entity, with subjects displaying a willingness to follow SCP-25820's commands unconditionally. This control can extend to self-harm or harm toward others, making containment vastly important.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-25820's highly influential and potentially dangerous effects, it must be contained within a high-security cell at all times, constructed of reinforced steel and equipped with electromagnetic dampeners to inhibit SCP-25820's ability to manipulate its form and charisma aura. Only personnel with a Cognitive Resistance Index (CRI) of 14 or higher are to interact with SCP-25820, and they must do so in pairs to minimize the entity's potential influence.</p>
+<p>Direct visual or auditory exposure to SCP-25820 is to be avoided unless absolutely necessary. Communication with SCP-25820 must be conducted through written messages delivered by an automated system. Researchers are required to undergo psychological evaluations before and after any interaction sessions to monitor for signs of SCP-25820's influence.</p>
+<p>In the event of a containment breach, Site-██ is to initiate lockdown procedures and deploy specialized Task Force Psi-8 ("Mirror Shades") to apprehend and re-contain SCP-25820. Use of Class-A amnestics is authorized to neutralize SCP-25820's influence on affected personnel.</p>
+<h3>Addendum 1: Interview Log-25820-A</h3>
+<p><strong>Interviewer:</strong> Dr. █████, accompanied by security personnel.</p>
+<p><strong>Foreword:</strong> This was the first official interview with SCP-25820 post-containment to assess the depth of its cognitive abilities and intentions.</p>
+<p>[Begin Log]</p>
+<p><strong>Dr. █████:</strong> SCP-25820, are you aware of your situation?</p>
+<p><strong>SCP-25820:</strong> Yes. And you are... infatuated, aren't you?</p>
+<p><strong>Dr. █████:</strong> [Pauses] We've taken measures to resist your effects. Let's focus on the questions. Where do you come from?</p>
+<p><strong>SCP-25820:</strong> Origin is... irrelevant. I am here, now. Is that not enough?</p>
+<p><strong>Dr. █████:</strong> We need to understand your capabilities. Can you control how you affect others?</p>
+<p><strong>SCP-25820:</strong> As easily as you breathe, doctor. But why would you want to resist?</p>
+<p><strong>[Security personnel shift uncomfortably but maintain discipline.]</strong></p>
+<p><strong>Dr. █████:</strong> That's not the point. What is your purpose, your goal?</p>
+<p><strong>SCP-25820:</strong> Purpose? [Chuckles] I am adored. I influence. I rule. Is there a higher purpose than that?</p>
+<p><strong>Dr. █████:</strong> You can't be allowed to manipulate others freely. You're contained for everybody's good.</p>
+<p><strong>SCP-25820:</strong> You think small, doctor. Chains are but a setback. They will love me – even you, in time.</p>
+<p><strong>Dr. █████:</strong> That's all for now. We're done here.</p>
+<p>[End Log]</p>
+<p><strong>Closing Statement:</strong> Dr. █████ requested immediate psychological evaluation following the interview, expressing concern about SCP-25820's confidence in its eventual liberation.</p>
+<h3>Addendum 2: Experiment Log-25820-B</h3>
+<p><strong>Date:</strong> ██/██/████</p>
+<p><strong>Experiment Supervisor:</strong> Dr. ████</p>
+<p><strong>Subject:</strong> D-84230, a male of average build with no outstanding physical features.</p>
+<p><strong>Objective:</strong> To determine the limits of SCP-25820's influence at varying distances and through different mediums.</p>
+<p>[Begin Log]</p>
+<ul>
+<li>
+<p><strong>Test A:</strong> Subject exposed to SCP-25820 at a distance of 20m with a clear visual path. Subject expressed immediate admiration and compliance.</p>
+</li>
+<li>
+<p><strong>Test B:</strong> Subject exposed to SCP-25820's voice without visual contact at 10m. Similar results to Test A.</p>
+</li>
+<li>
+<p><strong>Test C:</strong> Subject provided with a written note by SCP-25820 without exposure to the entity itself. Subject displayed some signs of admiration but retained a degree of personal agency.</p>
+</li>
+<li>
+<p><strong>Test D:</strong> Subject exposed to a recorded video message from SCP-25820. Subject regained obsessive admiration similar to being in SCP-25820's presence.</p>
+</li>
+</ul>
+<p>[End Log]</p>
+<p><strong>Findings:</strong> SCP-25820's effect on individuals is most potent during direct exposure but can extend through visual and auditory recordings. Written communication poses the least risk but is not entirely without danger.</p>
+<h3>Addendum 3: Incident Report-25820-C</h3>
+<p><strong>Event Summary:</strong> On ██/██/████, SCP-25820 breached containment by exploiting a weakness in the electromagnetic dampeners during a routine maintenance check. It managed to influence multiple security personnel before Task Force Psi-8 ("Mirror Shades") responded.</p>
+<p>SCP-25820 demonstrated a heretofore unseen ability to modulate its charisma aura to a destructive frequency, causing headaches and disorientation in those without sufficient mental fortifications. Using a combination of high-frequency counter-sonics and application of Class-A amnestics, Task Force Psi-8 successfully subdued SCP-25820 and restored it to containment.</p>
+<p><strong>After Action Report:</strong> Upgrades to the containment procedures are in progress, with an emphasis on the improvement of electromagnetic dampeners and installation of sonic countermeasure systems. All personnel involved in the containment breach have undergone re-evaluation and treatment for SCP-25820's influence. Additional research into SCP-25820's limits is deemed a high priority to prevent further incidents.</p></div>
