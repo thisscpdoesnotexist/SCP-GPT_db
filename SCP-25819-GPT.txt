@@ -1,0 +1,39 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25819 is  a village whose population lose their entire memories every night </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25819</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25819 is a small, isolated village located in [REDACTED]. The village consists of precisely 67 inhabitants at the time of discovery. The anomalous properties of SCP-25819 manifest every night at precisely 00:00 local time. At this moment, all individuals within the village's boundaries, excluding any personnel from the SCP Foundation, lose all memories from before this point. This reset affects memories formed both during their lives before the inception of the village's anomalous properties and any knowledge acquired afterward.</p>
+<p>Each morning, the villagers display confusion and distress pertaining to their lack of recollection; however, they have developed a ritualistic lifestyle that accommodates the situation. Houses within the village contain detailed notes and instructions written by the inhabitants to assist their "future selves" in navigating daily tasks. Despite memory loss, individuals show the subconscious ability to function within their environment effectively, including recognition of written instructions and interpersonal relationships on a seemingly emotional level.</p>
+<p>SCP-25819 also affects all digital and written records created within its confines, causing them to become illegible or corrupted at the time of the memory reset. This property complicates data collection and preservation of the history of SCP-25819.</p>
+<h3>Special Containment Procedures:</h3>
+<p>The entire perimeter of SCP-25819 has been secured by Foundation personnel, who maintain a cover story of a military training area to deter civilians. No one is allowed entry or exit from the village without proper authorization, and electronic jamming equipment prevents external communication.</p>
+<p>Class B amnestics are administered to any individual who somehow makes it inside the perimeter and later needs to be evacuated - further investigation into potential immunity to SCP-25819's anomalous effects is ongoing.</p>
+<p>Every evening before the reset, Foundation researchers stationed at SCP-25819 are to upload their daily findings to an external server, to avoid data loss due to the memory reset. Additionally, a team of psychologists is on-site to aid the villagers with their daily distress and ensure that their quality of life remains stable.</p>
+<p>A select group of inhabitants has been implanted with GPS trackers to monitor their movement patterns and assess any changes in behavior that may denote an evolution of the anomalous effects.</p>
+<h3>Addendum 1: Incident Log</h3>
+<p>On ██/██/20██, Foundation personnel discovered that all written instructions within SCP-25819 had been methodically destroyed overnight. Villagers exhibited increased agitation and were temporarily unable to perform their daily routines. This led to the implementation of Protocol 25819-Theta, which stipulates that any destroyed documentation within the village be replaced immediately by Foundation staff in the event of unforeseen disruptions to the containment strategy.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p>The Foundation conducted an experiment involving D-Class personnel with controlled exposure to SCP-25819's effects. The experiment sought to understand whether the memory resets were reversible or if there existed a potential for immunity.</p>
+<p>The log indicates that D-Class personnel were equipped with recording devices and instructed to interact with the villagers, document their observations, and detail their subjective experiences. Results confirmed that upon exposure to the memory reset, the D-Class subjects experienced total memory loss in line with that of the villagers. However, one subject, D-4812, displayed partial recollection of the events that occurred prior to the reset, which is now under further investigation.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p>Dr. [REDACTED] conducted an interview with one of the village elders, who appears to have a slightly higher degree of lucidity immediately post-reset compared to other villagers. The transcript of the interview reveals a fragmented understanding of the anomaly:</p>
+<p>[Begin Log]</p>
+<p>Dr. [REDACTED]: Good morning. Do you remember who I am?</p>
+<p>Village Elder: I do not, but the paper tells me you are a doctor.</p>
+<p>Dr. [REDACTED]: That's correct. Can you tell me about last night?</p>
+<p>Village Elder: Every night, the sky sweeps our minds clean. It clears the paths but wipes away the footsteps.</p>
+<p>Dr. [REDACTED]: Do you remember anything from before the resets began?</p>
+<p>Village Elder: I remember... echoes. Laughter of children. A weeping willow by the river. But it is like a dream upon waking — it slips away.</p>
+<p>Dr. [REDACTED]: How do you feel about these resets?</p>
+<p>Village Elder: Like an old book whose pages are torn out. But the story is us, and we must keep rewriting it each day.</p>
+<p>[End Log]</p>
+<p>The interview continued with further questioning regarding daily life and coping mechanisms, but the elder was unable to provide more concrete details. The elder's reference to a 'weeping willow by the river' is notable as it matches a location known to researchers as a focal point for numerous collective gatherings of the villagers. This may suggest residual long-term memory fragments that withstand the reset, warranting additional exploration.</p></div>
