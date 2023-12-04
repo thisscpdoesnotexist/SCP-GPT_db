@@ -1,0 +1,53 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25866 is  the phrase "Omae wa mou shindeiru" </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25866</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25866 is a cognitohazardous phrase that, when heard by an individual, initiates a series of psychological and physical events leading to the subject's death. The phrase in question is "Omae wa mou shindeiru," which translates from Japanese to English as "You are already dead."</p>
+<p>Upon hearing SCP-25866, an affected individual will first experience a heightened sense of awareness and existential dread. This is followed by a period of severe paranoia and hallucinations, typically featuring their own imminent demise in various forms.</p>
+<p>Roughly 24 hours after initial exposure, subjects begin to show signs of rapid cellular necrosis, focusing primarily on vital organs. This process is invariably fatal and, as of the last update to this file, there is no known cure or method to halt the progression once it has begun.</p>
+<p>Interestingly, SCP-25866’s anomalous properties are not triggered by reading the phrase or hearing it spoken in a non-Japanese dialect. The phrase must be spoken by an individual who has a native or near-native level of fluency in Japanese and an intent to convey its meaning to the subject.</p>
+<p>SCP-25866's origin remains unknown, and its containment is of the utmost priority due to the ease with which it can be transmitted and the high mortality rate associated with exposure.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25866 is to be contained through information control and suppression. All online and offline references to the phrase must be monitored and removed by Foundation web crawlers and agents embedded in various media organizations, respectively.</p>
+<p>Individuals known to be aware of SCP-25866 and its effects are to be detained and held in soundproof cells until they can be administered amnestics effective in erasing the specific memory of the phrase and any knowledge of its consequences. Due to the potential for accidental transmission, all personnel involved in the containment of SCP-25866 must pass a rigorous background check to confirm they do not possess fluency in the Japanese language.</p>
+<p>Foundation linguists with Japanese fluency are to be kept to a minimum and must be monitored at all times for behavioral changes that might suggest intent to transmit SCP-25866. Testing with SCP-25866 is strictly forbidden unless approved by O5 Command and is to be conducted in a hermetically sealed chamber designed to prevent any possibility of accidental exposure.</p>
+<p>In the event of a containment breach, Foundation counter-cognitohazard teams are to be dispatched to contain the situation. Any victims are to be quarantined and terminated if progression of SCP-25866's effects has started.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p>The following is a log of experiments conducted under strict protocols as approved by O5 Command. Each test subject was a D-class personnel with no prior knowledge of Japanese.</p>
+<ul>
+<li>
+<p>Experiment 25866-E1: Subject D-4856 was exposed to SCP-25866 through a speaker system by a fluent Japanese speaker (Dr. H█████). D-4856 exhibited immediate disorientation, followed by paranoia and hallucinations. D-4856 deceased approximately 26 hours post-exposure.</p>
+</li>
+<li>
+<p>Experiment 25866-E2: Subject D-8421 was exposed to a written form of SCP-25866 with no effect. D-8421 was subsequently terminated.</p>
+</li>
+<li>
+<p>Experiment 25866-E3: Subject D-7734 was exposed to SCP-25866 spoken in Japanese, but with intentional mispronunciation. D-7734 did not exhibit any of the known symptoms and was later terminated.</p>
+</li>
+<li>
+<p>Experiment 25866-E4: Subject D-9947 was exposed to SCP-25866 by a non-native but fluent Japanese speaker (Dr. L████) with all the proper pronunciation but no understanding of its meaning. D-9947 exhibited a slight headache but no further effects. D-9947 was later terminated.</p>
+</li>
+</ul>
+<h3>Addendum 2: Containment Breach Incident Report</h3>
+<p>On [REDACTED], SCP-25866 containment protocol was breached when Research Assistant ████ accidentally uttered the phrase within earshot of other personnel during a lapse in psychological resilience. ████, along with ██ potentially exposed personnel, were immediately quarantined and terminated after showing symptoms of SCP-25866 exposure. A subsequent information scrub was performed, and additional memetic kill agents were deployed across all Foundation networks as a preventative measure.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p>Interviewed: Dr. S██████, leading expert on cognitohazards and SCP-25866.</p>
+<p>Interviewer: Agent ████</p>
+<p>[BEGIN LOG]</p>
+<p>Agent ████: "Dr. S██████, for the record, can you explain why you believe SCP-25866 has such a high classification?"</p>
+<p>Dr. S██████: "Certainly. SCP-25866 is not only highly lethal but also disturbingly easy to transmit. A simple phrase spoken with intent, which could easily be recorded or broadcast, has the potential to create a pandemic-level event. It's the ease of transmission paired with the absolute mortality rate that demands such stringent containment."</p>
+<p>Agent ████: "We've noticed discrepancies in how victims are affected. Can you elaborate on that?"</p>
+<p>Dr. S██████: "Yes, we've observed that the intent behind the utterance is crucial. This suggests that SCP-25866 may have a memetic component that relies on both linguistic and emotional elements. We believe there’s a co-dependence between what is being said, how it's being said, and who is saying it, which creates the precise conditions for its deadly effect."</p>
+<p>Agent ████: "Is there any progress on finding a cure or prevention for those exposed?"</p>
+<p>Dr. S██████: "Unfortunately, we are far from a solution. Amnestics can prevent future transmission, but they have no effect post-exposure. Until we understand more about the underlying mechanics of SCP-25866, our best course of action remains absolute containment and prevention."</p>
+<p>[END LOG]</p>
+<p>Interview summary: SCP-25866 has been further classified as a linguistic and memetic hazard, demanding stringent containment measures given the ease of transmission and high mortality rate. Research continues on understanding the anomaly, but until further discoveries, no exposure is permissible under any circumstances except with highest-level approval.</p></div>
