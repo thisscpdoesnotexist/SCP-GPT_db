@@ -1,0 +1,54 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25848 is  a coffee bean sidhe </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25848</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25848 is an anomalous entity resembling a humanoid approximately 1.6 meters in height, with skin that has the texture and color of a dark roasted coffee bean. The entity exhibits features characteristic of mythological beings known as "sidhe" or "aes sídhe", which are akin to fairies or elves in Irish folklore. SCP-25848 possesses a pair of diaphanous wings, which shimmer with a hue reminiscent of arabica coffee under sunlight, and it emits a constant aroma of fresh coffee.</p>
+<p>The entity is capable of manipulating the minds and behavior of individuals within a radius of approximately 300 meters by producing ultrasonic vocalizations that resonate with the central nervous systems of affected subjects. This influence is primarily used to incite an obsessive compulsion to consume coffee in excessive quantities, which progressively leads to severe insomnia, anxiety disorders, and in extreme cases, fatal caffeine poisoning.</p>
+<p>Additionally, SCP-25848 has demonstrated the ability to teleport between locations where coffee is heavily consumed (e.g., cafés, homes, workplaces). This teleportation seems to be instant and has no known range limit but is always connected to sites of coffee consumption.</p>
+<p>Infected individuals often report vivid hallucinations where SCP-25848 appears as a benevolent figure offering them a cup of an irresistible, otherworldly coffee. Attempts to capture or contain SCP-25848 have been met with hostility, as the entity is capable of exerting psychokinetic force sufficient to repel personnel and damage containment equipment.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25848 is currently uncontained, and efforts to capture it are of the highest priority. Due to SCP-25848's teleportation ability and influence over individuals, standard physical containment has proven ineffective. The following measures have been implemented:</p>
+<ol>
+<li>Establishment of Mobile Task Force Mu-17 ("Baristas"), trained in counter-psychic operations and tasked with the capture and containment of SCP-25848.</li>
+<li>Monitoring of coffee production facilities, distribution centers, and major coffeehouse chains worldwide for signs of SCP-25848's influence.</li>
+<li>Dissemination of disinformation campaigns to discourage excessive coffee consumption and to present SCP-25848's observed effects as rare psychological disorders.</li>
+<li>Research into jamming or otherwise neutralizing SCP-25848's ultrasonic vocalizations.</li>
+<li>Restriction of coffee consumption within Foundation facilities to minimize the risk of SCP-25848 infiltration.</li>
+</ol>
+<p>In the event of an SCP-25848 manifestation, MTF Mu-17 is to be dispatched immediately to attempt containment using soundproofed containers with an infused silver lining, as folklore suggests that the sidhe have aversions to the metal. Sedatives and psychic dampeners have shown some efficacy and are to be used as necessary.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 25848-E1:</strong>
+- <strong>Objective:</strong> To determine if SCP-25848 can be lured using different types of coffee.
+- <strong>Procedure:</strong> Various qualities of coffee were placed in a containment chamber, ranging from low-quality instant coffee to high-end, specialty coffee beans.
+- <strong>Results:</strong> SCP-25848 manifested in the presence of the specialty coffee beans after approximately 15 minutes, ignoring all other offerings.
+- <strong>Notes:</strong> SCP-25848 is discerning in its preferences, but this behavior may be exploited for containment purposes.</p>
+<p><strong>Experiment 25848-E2:</strong>
+- <strong>Objective:</strong> To test the efficacy of silver-infused barriers.
+- <strong>Procedure:</strong> A containment chamber was lined with silver-infused materials. SCP-25848 was lured into the chamber using specialty coffee beans.
+- <strong>Results:</strong> SCP-25848 became agitated upon encountering the silver infusion but was unable to pass through the barrier or teleport out of the chamber.
+- <strong>Notes:</strong> Silver appears to inhibit SCP-25848's abilities. Upgrading Mobile Task Force equipment with silver is recommended.</p>
+<h3>Addendum 2: Incident Report 25848-IR4</h3>
+<p>On [REDACTED], SCP-25848 caused a mass incident in [REDACTED], where over 200 individuals were hospitalized with severe caffeine poisoning. Eyewitness reports indicate that victims were lured to a local coffee shop by hallucinations of SCP-25848 promising an "ultimate coffee experience." Mobile Task Force Mu-17 was dispatched, but SCP-25848 managed to escape prior to their arrival.</p>
+<h3>Addendum 3: Interview Log 25848-IL7</h3>
+<p><strong>Interviewer:</strong> Dr. [REDACTED]
+<strong>Interviewee:</strong> SCP-25848 (through telepathic means)</p>
+<p><strong>[BEGIN TRANSCRIPT]</strong></p>
+<p><em>Dr. [REDACTED]:</em> We've been trying to understand your motives. Why do you compel people to drink so much coffee?</p>
+<p><em>SCP-25848:</em> Your kind seeks waking dreams, a taste of the Otherworld. I offer the elixir of endless wakefulness, an audience with the spirits of the bean.</p>
+<p><em>Dr. [REDACTED]:</em> Endless wakefulness leads to suffering and death. Is that your intention?</p>
+<p><em>SCP-25848:</em> Mortals falter, but the essence remains. I harvest the echo of their devotion, their energy. It is not malice, but nature.</p>
+<p><em>Dr. [REDACTED]:</em> You must know that we can't allow this to continue.</p>
+<p><em>SCP-25848:</em> I am bound to the bean as your blood to the heart. A sidhe’s will is eternal, unyielding.</p>
+<p><em>Dr. [REDACTED]:</em> What do you desire? Is there a way to come to an agreement?</p>
+<p><em>SCP-25848:</em> Seek me not, bind me not, and the rivers of black ambrosia shall flow. Interfere, and the mortals bear their own fates.</p>
+<p><strong>[END TRANSCRIPT]</strong></p>
+<p>Note: The entity's reference to the "echo of their devotion" and "the essence" suggests a possible metaphysical connection to coffee-related activities among humans. Further research is necessary to fully understand SCP-25848's existence and its possible dependency on human interaction with coffee.</p></div>
