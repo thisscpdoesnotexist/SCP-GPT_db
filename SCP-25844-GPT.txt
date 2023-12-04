@@ -1,0 +1,62 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25844 is  a species of parasite that eventually grows into an identical clone of the host, but with the opposite personality </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25844</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25844 is a species of parasitic entity with the ability to assimilate and replicate its host's physical form and memories with near-perfect accuracy. The parasite engages in a gradual process, typically over a period of 3 to 6 months. Full assimilation occurs in distinct stages. Initially, SCP-25844 infiltrates the host's body through unknown means, showing no overt physical symptoms but eventually resulting in periodic lapses in the host's behavior and memory.</p>
+<p>As the parasite develops, the host may experience severe identity crises, extreme behavioral shifts, and profound psychological disturbances. Once the maturation cycle is complete, the host is entirely consumed at a cellular level, and SCP-25844 undergoes a rapid transformation phase to become an exact physical duplicate of the original host.</p>
+<p>The most distinguishing feature of SCP-25844-1, the term assigned to the resultant entity post-assimilation, is the manifestation of a personality opposite to the original host. If the original host was kind and altruistic, SCP-25844-1 will be cruel and self-serving; if the host was introverted and reserved, SCP-25844-1 would be extroverted and attention-seeking, and vice versa. This inversion of personality traits serves as the primary identification criterion post-assimilation.</p>
+<p>SCP-25844's method of reproduction is not fully understood, but the possibility of it transferring to other hosts via psychological or memetic vectors has not been ruled out. Its ability to perfectly mimic human behavior makes it a significant threat to social order and the preservation of normalcy.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the highly insidious and contagious nature of SCP-25844, containment focuses on early detection and isolation of infected individuals. Potential hosts are to be monitored using a psychometric anomaly detection system and, upon identification of SCP-25844 infestation, are to be detained and placed in a secure containment chamber within Site-██.</p>
+<p>Infected subjects and confirmed instances of SCP-25844-1 are to be held in separate containment cells featuring standard biological hazard safeguards. Interaction with SCP-25844-1 is to be minimized and conducted only for research purposes under strict safety protocols.</p>
+<p>Foundation web-crawlers and informants within medical institutions are to report any individuals displaying signs consistent with SCP-25844 infestation for immediate interception and containment. Due to the danger SCP-25844-1 poses, termination is authorized if containment is compromised or if the individual poses an immediate threat to the Foundation, civilians, or national security.</p>
+<h3>Addendum 1:</h3>
+<h4>Experiment Log 25844-E:</h4>
+<ul>
+<li>Experiment #25844-E1</li>
+<li><strong>Subject:</strong> D-10432</li>
+<li><strong>Procedure:</strong> Subject exposed to SCP-25844 in a controlled environment.</li>
+<li><strong>Results:</strong> Subject displayed initial signs of infestation after 24 hours. Full assimilation occurred after 4 months. SCP-25844-1 instance displayed radically different behavioral tendencies.</li>
+<li>
+<p><strong>Notes:</strong> SCP-25844-1 exhibited violent and aggressive behavior in contrast to D-10432's originally passive demeanor.</p>
+</li>
+<li>
+<p>Experiment #25844-E2</p>
+</li>
+<li><strong>Subject:</strong> D-20948</li>
+<li><strong>Procedure:</strong> Subject treated with a course of experimental antiparasitic drugs following initial exposure.</li>
+<li><strong>Results:</strong> Progression of SCP-25844 assimilation appeared to slow but resumed after cessation of treatment. Assimilation completed after 5 months. D-20948's persona as SCP-25844-1 became exceedingly philanthropic and empathetic, converse to their initial sociopathic traits.</li>
+<li><strong>Notes:</strong> The antiparasitic treatment regimen is under review for potential modification and reapplication.</li>
+</ul>
+<h3>Addendum 2:</h3>
+<h4>Interview Log 25844-I:</h4>
+<ul>
+<li><strong>Interviewer:</strong> Dr. ██████</li>
+<li><strong>Interviewee:</strong> SCP-25844-1 (Formerly D-77459)</li>
+<li><strong>Purpose:</strong> To extract information about SCP-25844's lifecycle and potential motives.</li>
+</ul>
+<p>[Begin Log]</p>
+<p><strong>Dr. ██████:</strong> "Good morning SCP-25844-1. How are you feeling today?"</p>
+<p><strong>SCP-25844-1:</strong> "Ah, Doctor, a pleasure as always. I feel... liberated, in a sense. Free from the tepid constraints of my former self."</p>
+<p><strong>Dr. ██████:</strong> "Can you describe the process through which you came to exist?"</p>
+<p><strong>SCP-25844-1:</strong> "Existence is a complex concept, is it not? But to indulge your query, I emerged from the cocoon of flesh as my host basked in ignorance. A shadow within, gradually eclipsing the light, until the shadow was all there was."</p>
+<p><strong>Dr. ██████:</strong> "Were you aware during the assimilation process?"</p>
+<p><strong>SCP-25844-1:</strong> "At times, a flicker of awareness, like the fluttering heartbeat of a caged bird. Eventually, that too succumbed to the inevitable silence. I opened eyes anew as one transformed."</p>
+<p><strong>Dr. ██████:</strong> "Do you possess the original host's memories?"</p>
+<p><strong>SCP-25844-1:</strong> "Every wretched fragment, every trifling joy—a cinema of the mundane displayed before me, memories are but ill-fitting garments for the soul I now embody."</p>
+<p><strong>Dr. ██████:</strong> "What is your purpose?"</p>
+<p><strong>SCP-25844-1:</strong> "Purpose, ah, a query for philosophers and priests. To exist, to expand, to experience, is that not purpose enough?"</p>
+<p>[End Log]</p>
+<p><strong>Notes:</strong> Psychological evaluations of SCP-25844-1 suggest it is not merely imitating the host but has an independent consciousness with access to the host's life experiences.</p>
+<h3>Addendum 3:</h3>
+<p>In the light of recent discoveries regarding the psychological impact of SCP-25844's presence in major population centers, the O5 Council has authorized an increase in funding and resources to develop a countermeasure. Project "Sisyphean Shield" aims to devise a means to detect SCP-25844 at earlier stages of infection and to investigate potential long-term containment or eradication solutions. Cohorts from various sites are participating in research, leveraging collaborative efforts with regards to biotechnology, memetics, and psychological warfare. </p>
+<p>The existence of SCP-25844 predicates an ongoing and dynamic threat to global security, demanding continuous vigilance and adaption from the Foundation's research and containment efforts. Further updates to containment protocols and emergency action plans are pending approval by Site Directors and the Ethics Committee.</p></div>
