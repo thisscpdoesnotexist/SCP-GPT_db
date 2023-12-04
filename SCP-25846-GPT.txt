@@ -1,0 +1,62 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25846 is  a method for extracting blood from stones </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25846</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-25846 refers to an anomalous method capable of extracting a viscous, blood-like liquid from certain types of stones. The extracted liquid has been nicknamed "lithohaima," derived from the Greek words for stone (lithos) and blood (haima). The stones from which the liquid can be obtained do not display any visually distinctive features compared to non-anomalous stones and can only be identified upon performing the extraction method detailed in Document 25846-Alpha.</p>
+<p>SCP-25846's extraction procedure requires a specific sequence of manipulations, including the application of precise pressure points, ambient temperature adjustments, and verbal commands in an ancient and currently undeciphered language. Once successfully performed, the stones expel lithohaima from what appear to be microscopic pores, previously undetected by any known non-anomalous means.</p>
+<p>The properties of lithohaima are not fully understood, but it does not match the composition of any known biological blood. Yet, it demonstrates some similar properties, including the ability to coagulate and carry simple molecules, such as oxygen and carbon dioxide. Initial analyses have shown that lithohaima remains viable in conditions in which normal blood would not, including extreme temperatures and pressures.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25846 is contained within a secure locker in Site-112. Access to SCP-25846 and its documentation is limited to personnel with Level 2 clearance or higher. All interactions with SCP-25846 or lithohaima must be pre-approved by at least one Level 4 Research Supervisor.</p>
+<p>The use of SCP-25846's extraction method is only permitted during approved experiments, and any lithohaima produced must be collected and stored in temperature-controlled biohazard containment units. These containment units are stored in a dedicated cooler within the Bio-Safe Sector of Site-112.</p>
+<p>In addition to physical containment, all information pertaining to the specific details of the extraction method is to be encrypted and stored in a secure database with access limited to authorized personnel only. Redacted versions of the method may be made available for select researchers analyzing SCP-25846's properties and potential applications.</p>
+<p>Personnel handling lithohaima are required to wear standard hazardous material protection suits to prevent any potential biochemical risks that may arise from exposure. Any waste or experimental material is to be incinerated in the facility's biohazard furnace.</p>
+<h3>Addendum 1:</h3>
+<p>Discovery Log</p>
+<p>SCP-25846 was discovered in ███████, Greece, after local rumors described a "miracle" where certain sacred stones "bled" upon being touched by chosen individuals. Foundation field agents dispatched to the area confirmed the anomalous nature of the phenomenon and secured the method and several samples of lithohaima for further study.</p>
+<h3>Addendum 2:</h3>
+<p>Interview Log 25846-1</p>
+<p><strong>Interviewed:</strong> Dr. Emilia Vargas, lead researcher on SCP-25846.</p>
+<p><strong>Interviewer:</strong> Agent Harold Ruiz, tasked with initial documentation of SCP-25846.</p>
+<p>[Begin Log]</p>
+<p>Agent Ruiz: "Dr. Vargas, can you summarize your first interaction with SCP-25846?"</p>
+<p>Dr. Vargas: "Certainly. We were all pretty skeptical at first. The idea of 'bleeding stones' seemed more like a myth or some cultural misunderstanding. But when I performed the extraction method for myself and saw the stone exude that dark red substance... it was unlike anything I'd had encountered in my career."</p>
+<p>Agent Ruiz: "And could you describe the procedure?"</p>
+<p>Dr. Vargas: "As much as I'd like to divulge the details, I'm sure you're aware that I'm not authorized to discuss the specifics of the extraction method outside of the lab. I can say that it requires an astonishing blend of physical manipulation and something akin to ritualistic recitations. It's a delicate process."</p>
+<p>Agent Ruiz: "Understood. What are the current theories regarding the nature of lithohaima?"</p>
+<p>Dr. Vargas: "We have several hypotheses. One suggests that the liquid is a byproduct of an unknown geological process, possibly involving microorganisms. Another posits that the stones themselves might be a previously unknown form of life, albeit one that doesn't fit neatly into our biological classifications."</p>
+<p>Agent Ruiz: "Has there been any success determining the function of lithohaima, or its potential use?"</p>
+<p>Dr. Vargas: "Its properties are fascinating. We've observed lithohaima behaving like a carrier for certain molecules and even reacting to stimuli in a way that's eerily reminiscent of hemoglobin. But, its potential uses remain unclear. Further experimentation is needed."</p>
+<p>Agent Ruiz: "Very well. Thank you, Dr. Vargas. Your insight has been invaluable."</p>
+<p>Dr. Vargas: "Happy to contribute. I'm eager to see where our research leads."</p>
+<p>[End Log]</p>
+<h3>Addendum 3:</h3>
+<p>Experiment Log 25846-2</p>
+<p>Experiment 25846-E1</p>
+<p><strong>Subject:</strong> Lithohaima extracted from SCP-25846 using the standard method.</p>
+<p><strong>Procedure:</strong> Lithohaima subjected to temperatures ranging from -80°C to 150°C.</p>
+<p><strong>Result:</strong> The liquid remained stable and showed no changes in composition or properties.</p>
+<p>Experiment 25846-E2</p>
+<p><strong>Subject:</strong> Lithohaima mixed with human blood in a 1:1 ratio.</p>
+<p><strong>Procedure:</strong> The mixture is analyzed for any chemical reactions or alterations in either substance.</p>
+<p><strong>Result:</strong> Both substances intermingled without significant reaction. Hemoglobin function was not impaired, and no adverse effects were noted.</p>
+<p>Experiment 25846-E3</p>
+<p><strong>Subject:</strong> Lithohaima introduced to a culture of E. coli bacteria.</p>
+<p><strong>Procedure:</strong> Observations over 48 hours to determine any antibacterial properties.</p>
+<p><strong>Result:</strong> No significant antibacterial effect was observed. Bacterial growth was typical for the culture medium used. </p>
+<p>Experiment 25846-E4</p>
+<p><strong>Subject:</strong> Lithohaima exposed to high-pressure environment (50 MPa).</p>
+<p><strong>Procedure:</strong> Observations to determine any changes in viscosity or chemical structure under pressure.</p>
+<p><strong>Result:</strong> The viscosity of lithohaima increased under pressure, but no other alterations were found. Upon returning to normal atmospheric pressure, viscosity returned to initial state. </p>
+<p>Experiment 25846-E5</p>
+<p><strong>Subject:</strong> Live specimen of Rattus norvegicus (laboratory rat).</p>
+<p><strong>Procedure:</strong> A small wound is inflicted on the specimen, and lithohaima is applied to the site.</p>
+<p><strong>Result:</strong> The wound coagulated rapidly upon application of lithohaima, far surpassing the efficacy of the specimen’s blood. Healing appeared unimpeded, and no adverse reactions were observed in the specimen. Further testing on regenerative properties is required.</p></div>
