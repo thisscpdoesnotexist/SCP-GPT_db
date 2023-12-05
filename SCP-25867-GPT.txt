@@ -1,0 +1,46 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25867 is  an immortal man from Maryland named Bone Marrow Mumbo Jumbo </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25867</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25867, colloquially known as "Bone Marrow Mumbo Jumbo," is an individual of indeterminate age who identifies as a male and goes by the name "Marrow." SCP-25867 appears as a middle-aged man, with physical traits consistent with a heritage from the northeastern region of the United States, specifically Maryland. SCP-25867 claims to have been born in the early 18th century, but no historical records can confirm this.</p>
+<p>The primary anomalous property of SCP-25867 is his apparent immortality. Despite various recorded events that would result in termination of a normal human life, SCP-25867 has survived without sustaining any lasting harm. This includes gunshots, extreme temperatures, pressure extremes, and exposure to typically lethal doses of radiation and toxic substances.</p>
+<p>A secondary anomalous effect is observed when SCP-25867 is in proximity to skeletal remains. Upon physical contact with bone, SCP-25867 is able to animate and manipulate the structures as though they were extensions of his own body. These reanimated skeletal figures, referred to as SCP-25867-1, do not exhibit sentience and are entirely under the control of SCP-25867. SCP-25867 expresses an apparent fascination with bones and bone marrow, often engaging in elaborate monologues about their mystical properties, although no evidence suggests that these claims have any factual basis.</p>
+<p>SCP-25867 was taken into custody after reports of a "walking skeleton" alarmed the local population of a small town in Maryland. Agents embedded in local police departments responded and successfully contained SCP-25867 without civilian casualties.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25867 is to be contained in a standard humanoid containment cell at Site-██. The cell should be reinforced with material resistant to assault and have no direct bone material in its construction. All contact with skeletal remains must be prohibited, and food provided should contain no bone fragments.</p>
+<p>Personnel interacting with SCP-25867 must undergo psychological evaluations due to its penchant for manipulation through spoken word. Interaction with SCP-25867 requires a minimum of two personnel, and any anomalous behavior is to be reported immediately to the head researcher.</p>
+<p>Standard surveillance equipment is to be active at all times within SCP-25867's cell, and a contingency team trained in rapid response and neutralization tactics should be on standby in case of a containment breach.</p>
+<h3>Addendum 1: Interview Log</h3>
+<p>Dr. █████ conducted an interview with SCP-25867 to better understand its origins and capabilities. The interview was held on ██/██/20██ and lasted for approximately two hours. A complete transcription of the interview is available on file SCP-25867-INT-01.</p>
+<p>[EXCERPT FROM TRANSCRIPT]
+Dr. █████: "Can you elaborate on your origins and how you came to possess these abilities?"</p>
+<p>SCP-25867: "Ah, the marrow of the matter! My tale weaves through the tapestry of time, from the victorious vim of youth to the seasoned sapience of agelessness. We are but bones draped in flesh, dear doctor, and I? I am the maestro of marrow, the jockey of joints! As for my genesis, it eludes even my timeless mind, lost within the mists of imperishable epochs."</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p>SCP-25867's claims regarding its regenerative abilities have been tested under controlled conditions. The following are excerpts from Experiment Log SCP-25867-EXP-02:</p>
+<ul>
+<li><strong>Experiment A:</strong> Subject was exposed to a small caliber gunshot wound to the abdominal region.</li>
+<li>
+<p><strong>Result:</strong> Wound closed within three minutes, leaving minimal scar tissue. SCP-25867 expressed mild discomfort but was otherwise unharmed.</p>
+</li>
+<li>
+<p><strong>Experiment B:</strong> Subject was placed in a chamber with low oxygen levels for an extended period.</p>
+</li>
+<li>
+<p><strong>Result:</strong> SCP-25867 demonstrated signs of hypoxia but ultimately remained unaffected. Oxygen levels were returned to normal after three hours, with SCP-25867 recovering fully within minutes.</p>
+</li>
+<li>
+<p><strong>Experiment C:</strong> Subject was given an object made from human femur and asked to interact with it.</p>
+</li>
+<li><strong>Result:</strong> SCP-25867 became highly animated and manipulated the bone material into various configurations. After the experiment, SCP-25867 agreed to return the object, which resumed its normal form.</li>
+</ul>
+<h3>Addendum 3: Incident Report</h3>
+<p>On ██/██/20██, SCP-25867 breached containment by convincing a junior researcher, Dr. Klein, to assist it in an escape attempt. This breach resulted from an underestimation of SCP-25867's persuasive abilities. Dr. Klein suffered severe mental trauma and was administered Class-A amnestics before being reassigned to a different project. Containment protocols have since been updated to include mandatory cognitive resistance training for all personnel assigned to SCP-25867.</p></div>
