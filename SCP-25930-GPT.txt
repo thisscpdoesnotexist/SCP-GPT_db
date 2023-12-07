@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25930 is  Gegebonne the Sacrophagous Head </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25930</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25930, colloquially known as "Gegebonne the Sacrophagous Head," is an animate object resembling the severed head of an unidentified humanoid. The entity displays a high level of sapience and is capable of speech in multiple languages, although it primarily communicates in an archaic dialect of French.</p>
+<p>SCP-25930's anomalous properties manifest when in proximity to deceased organic matter. It has the ability to rapidly decay and consume any dead biological material within a range of approximately 15 meters. This process is performed via an invisible field of influence rather than physical consumption. Decay occurs within seconds, and all that remains is a fine, nutrient-rich dust. The entity appears to derive sustenance from this process, as it has been observed to become more animated and vocal following these events.</p>
+<p>Further anomalous traits include SCP-25930’s incredible resilience to damage and its apparent immortality. Attempts to destroy or otherwise harm SCP-25930 have proven futile, with the entity showing rapid regenerative abilities. SCP-25930 is also mobile despite lacking a body; it moves by levitating several centimeters off any flat surface and can achieve impressive speeds and maneuverability.</p>
+<p>SCP-25930 exhibits a strong malevolent disposition and has expressed a desire to bring about mass death to "feast indefinitely." These inclinations, combined with its potency and hostility towards living beings, necessitate stringent containment procedures.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25930 is to be contained in a 5m x 5m x 5m containment chamber constructed with reinforced concrete lined with lead and a secondary steel interior, located at Site-██. The chamber should be suspended in the center of a larger 15m x 15m x 15m secondary containment room to prevent SCP-25930's area of influence from reaching exterior walls.</p>
+<p>The secondary containment room is to be equipped with automated incineration systems and ultraviolet sterilization lights to eliminate all biological contaminants. All air and material entering and exiting the containment must be filtered thoroughly to assure sterile transfer. Personnel are strictly forbidden from bringing organic materials, including foodstuffs or personal items made from natural fibers, into the containment area.</p>
+<p>Due to SCP-25930's hostile nature and abilities, interaction should be limited to essential communication and experiments authorized by Level 4 or higher personnel. Any communication must be conducted via intercom from the external observation room, with a remotely activated security barrier in place at all times.</p>
+<p>In the event of a containment breach, Site-██ is to initiate a lockdown, and specialized MTF units equipped with hazmat suits and incendiary weapons are to be deployed. Deceased personnel within the vicinity of SCP-25930 are to be immediately incinerated to prevent their use in feeding the entity.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 25930-E1:</h4>
+<p><strong>Objective:</strong> Determine the range and effectiveness of SCP-25930’s decay aura on various organic materials.</p>
+<p><strong>Procedure:</strong> A series of organic materials, including plant matter, animal tissue, and cadavers, are placed at varying distances from SCP-25930 within its containment chamber.</p>
+<p><strong>Results:</strong> SCP-25930 incited decay in all biological material within a 15-meter radius regardless of the material’s composition or complexity.</p>
+<h4>Experiment 25930-E2:</h4>
+<p><strong>Objective:</strong> Test the limits of SCP-25930's regenerative ability.</p>
+<p><strong>Procedure:</strong> After obtaining necessary ethical clearances, SCP-25930 is exposed to an array of destructive methods, including incineration, acid immersion, and crushing force.</p>
+<p><strong>Results:</strong> SCP-25930 regenerated from all inflicted damages within seconds, regardless of severity. The entity showed significant distress and anger during the tests but was unable to breach containment.</p>
+<h4>Experiment 25930-E3:</h4>
+<p><strong>Objective:</strong> Analyze SCP-25930’s mobility and potential for use of said mobility in a containment breach attempt.</p>
+<p><strong>Procedure:</strong> Obstacle course created within a controlled environment testing for agility, speed, and strategic movement.</p>
+<p><strong>Results:</strong> SCP-25930 displayed high levels of dexterity, navigating complex mazes at speeds exceeding 20 km/h. Evidence of problem-solving abilities and adaptability noted.</p>
+<h3>Addendum 2: Incident Report 25930-IR7</h3>
+<p>An inadvertent containment breach occurred on ██/██/20██ when a technician accidentally brought a packed lunch into the outer chamber, violating standard protocol. SCP-25930 detected the presence of the organic material and was able to extend its influence beyond the containment's limits, resulting in the rapid decomposition of the lunch and mild superficial tissue damage to the technician, who was treated and reprimanded. A subsequent overhaul of containment procedures was implemented to prevent similar incidents.</p>
+<h3>Addendum 3: Interview Log 25930-IL1</h3>
+<p><strong>Interviewer:</strong> Dr. ██████
+<strong>Interviewee:</strong> SCP-25930</p>
+<p><Begin Log></p>
+<p><strong>Dr. ██████:</strong> Gegebonne, do you understand why you are contained here?</p>
+<p><strong>SCP-25930:</strong> [In archaic French] I am held here by your kind's fear of death. I am the inevitable, the all-consuming. Your walls are mere delay of my feast on the world of the dead.</p>
+<p><strong>Dr. ██████:</strong> And do you resent this containment?</p>
+<p><strong>SCP-25930:</strong> I bide my time, knowing that flesh is ephemeral, and bone turns to dust. It matters not if it is now or later, for your demise is certain, and I shall gorge upon your remnants.</p>
+<p><strong>Dr. ██████:</strong> How do you perceive your existence, Gegebonne? Is there anything you desire or fear?</p>
+<p><strong>SCP-25930:</strong> I am beyond your mortal cravings and trepidations. There is only hunger—an endless hunger that your science and cages can never sate. One day, the chains will break, and I will dine upon the remnants of your civilization!</p>
+<p><End Log></p>
+<p><strong>Note:</strong> Interview terminated as SCP-25930 became increasingly agitated. Further psychological evaluation deemed necessary to determine if information can be leveraged to improve containment measures.</p></div>
