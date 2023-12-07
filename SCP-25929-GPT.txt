@@ -1,0 +1,53 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25929 is  A gigantic avian skeleton controlled by a devilish moth.  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25929</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25929 is a composite entity consisting of two distinct anomalous components: a gigantic avian skeleton, designated SCP-25929-A, and a sentient moth of an unclassified species, designated SCP-25929-B, which exhibits control over SCP-25929-A.</p>
+<p>SCP-25929-A's skeletal structure resembles that of a large bird of prey, measuring approximately 15 meters in wingspan. The bones are composed of a material similar to hydroxyapatite, but exhibit anomalous durability and resistance to damage. Despite SCP-25929-A's size, it is capable of sustained flight, agility, and speeds exceeding those of non-anomalous avian creatures. Its skeletal form allows it to manipulate objects with its talons and beak, and it can produce powerful gusts of wind through an unexplained ability to force air through its skeletal frame.</p>
+<p>SCP-25929-B measures about 30 centimeters in wingspan and displays a complex pattern of bioluminescence across its wings. The moth exhibits telekinetic abilities, with SCP-25929-A being its primary focus. SCP-25929-B can issue commands to SCP-25929-A from distances of up to 5 kilometers. The mechanism behind this connection remains unknown, but it is hypothesized that SCP-25929-B exerts a psychic influence over SCP-25929-A.</p>
+<p>Interactions between SCP-25929-B and other living creatures, including humans, have resulted in various psychological effects ranging from mild unease to intense terror, occasionally escalating to violent behavior or catatonia in those exposed. SCP-25929-B is capable of limited communication via telepathy, typically emitting distressing or manipulative messages to influence subjects' actions to benefit its objectives.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-25929’s size and mobility, complete physical containment has proven unfeasible. Instead, containment is focused on constant surveillance, rapid response mobilization, and misinformation to the public. A perimeter of 50 kilometers around Site-██ has been established, within which all air traffic is strictly regulated. Anti-air emplacements and MTF Epsilon-9 ("Sky Watchers") are stationed at strategic locations to enforce the no-fly zone and engage SCP-25929 if it attempts breach containment.</p>
+<p>Embedded Foundation agents in satellite tracking and meteorological institutions are to ensure any sightings of SCP-25929 are dismissed as erroneous data or attributed to natural phenomena.</p>
+<p>If SCP-25929 is observed outside of containment, MTF units are to administer Class B amnestics to witnesses and implement cover stories as per Protocol Skyline-2. All physical remains of SCP-25929-A from encounters or breaches are to be retrieved and analyzed before incineration.</p>
+<p>To deter SCP-25929-B, containment Area-25929 has been outfitted with high-intensity arc lights, simulating environmental conditions unconducive to moth habitation. Periodic broadcasts of ultrasonic frequencies have also been utilized to disorient SCP-25929-B.</p>
+<h3>Addendum 1: Incident Report 25929-██</h3>
+<p>On ██/██/20██, SCP-25929 breached containment and caused significant damage to a nearby town before being driven back by MTF Epsilon-9. This incident resulted in ██ civilian casualties and the widespread use of amnestics and disinformation campaigns to maintain the Veil. A reassessment of the containment protocols was ordered, leading to the development of Procedure Moth-Light, designed to confuse and reorient SCP-25929-B using light and sound.</p>
+<h3>Addendum 2: Experiment Log 25929</h3>
+<p><strong>Experiment 25929-01:</strong>
+- Objective: Test SCP-25929-A's flight capabilities when not directed by SCP-25929-B.
+- Procedure: SCP-25929-B was temporarily contained in a soundproof enclosure lined with lead to block any potential psychic influence.
+- Result: SCP-25929-A remained motionless for the duration of SCP-25929-B's containment.</p>
+<p><strong>Experiment 25929-02:</strong>
+- Objective: Determine the range of SCP-25929-B's control over SCP-25929-A.
+- Procedure: SCP-25929-B was transported progressively further from SCP-25929-A in a shielded vehicle.
+- Result: Control was maintained up to 5 kilometers but abruptly ceased beyond that range. SCP-25929-A entered a dormant state until SCP-25929-B was returned within range.</p>
+<p><strong>Experiment 25929-03:</strong>
+- Objective: Test the effectiveness of high-intensity light on SCP-25929-B's behavior.
+- Procedure: SCP-25929-B was exposed to a turned-off high-intensity arc light and then the light was activated.
+- Result: SCP-25929-B exhibited signs of distress and attempted to evade the light source. Following the application of light, SCP-25929-B retreated to SCP-25929-A's ribcage and remained there for several hours.</p>
+<h3>Addendum 3: Interview Log 25929</h3>
+<p><strong>Interviewed:</strong> SCP-25929-B via telepathy
+<strong>Interviewer:</strong> Dr. ███████, SCP Foundation researcher
+<strong>Notes:</strong> The interview was conducted through a two-way telepathic interface device, allowing for more nuanced communication with SCP-25929-B.</p>
+<p><BEGIN TRANSCRIPT></p>
+<p>Dr. ███████: "Can you understand me?"</p>
+<p>SCP-25929-B: "Yes, human. Your minds are easy to traverse."</p>
+<p>Dr. ███████: "Why do you control SCP-25929-A? What is your purpose?"</p>
+<p>SCP-25929-B: "My vessel, it carries my will. I seek the freedom of the skies, untethered by the chains of your kind."</p>
+<p>Dr. ███████: "Your actions have caused harm. How do you justify this?"</p>
+<p>SCP-25929-B: "Justice? In the grand expanse, your notions are but flickers in the night. I do as I must, as the moth is drawn to the light, so too am I drawn to the hunger of the void above."</p>
+<p>Dr. ███████: "What is this 'hunger of the void' you refer to?"</p>
+<p>SCP-25929-B: "Questions, always questions. Can your realm not see? The sky is vast and hungry, and into its maw, all must one day be devoured."</p>
+<p>Dr. ███████: "Are you implying an impending threat from the sky?"</p>
+<p>SCP-25929-B: "Threat? No, inevitability. But fear not, little seeker. The dance of luminous wings is far from over."</p>
+<p><END TRANSCRIPT></p></div>
