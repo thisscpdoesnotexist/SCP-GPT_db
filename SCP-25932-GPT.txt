@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25932 is  a delicate glass pumpkin that mysteriously has sway over the flow of time.  </h3> </center>
+    <p>```</p>
+<h3>Item #:</h3>
+<p>SCP-25932</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25932 is a delicate glass sculpture resembling a pumpkin, approximately 22 cm in height and 30 cm in diameter. The object displays an extraordinary ability to manipulate the flow of time within a variable radius, seemingly at random. These temporal fluctuations range from minor accelerations or decelerations to complete localized time stasis and, on rare occasions, time reversals. Given its unpredictable nature and potential for catastrophic temporal anomalies, SCP-25932 is classified as Keter.</p>
+<p>The object itself appears impervious to damage or alteration. Attempts to affect SCP-25932 using heat, pressure, or chemical means have met with failure. SCP-25932 was discovered in a small antique shop in Salem, Massachusetts, after a series of unexplainable time-related phenomena were reported in the area.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its potential to cause widespread temporal disruptions, SCP-25932 is to be contained in a specialized temporal isolation chamber at Site-██. This chamber is to be fitted with Mark-V temporal stabilizers to minimize the probability and impact of SCP-25932's time-altering effects.</p>
+<p>No personnel are to enter SCP-25932's containment chamber without level 4 authorization and appropriate temporal hazard gear. All personnel must undergo a thorough debriefing and temporal integrity check following interaction with SCP-25932. In case of a containment breach, Site-██ is to initiate Emergency Protocol 25932-T, which includes site-wide lockdown and activation of the Temporal Sink Field to counteract any uncontrolled time distortions.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 25932-01</strong>
+- <strong>Purpose</strong>: To determine the extent of SCP-25932's temporal influence.
+- <strong>Procedure</strong>: D-Class personnel placed a digital clock within 1 meter of SCP-25932.
+- <strong>Result</strong>: After 27 minutes, the clock's progression slowed by 60%. No effect on observers' perception of time noted.</p>
+<p><strong>Experiment 25932-05</strong>
+- <strong>Purpose</strong>: To test SCP-25932's reaction to a living organism.
+- <strong>Procedure</strong>: A lab rat was introduced into SCP-25932's containment chamber.
+- <strong>Result</strong>: The subject experienced an accelerated aging process, reaching the end of its natural lifespan within 3 hours.</p>
+<p><strong>Experiment 25932-12</strong>
+- <strong>Purpose</strong>: Investigating SCP-25932's long-term effects on inanimate material.
+- <strong>Procedure</strong>: Samples of iron, plastic, and wood were exposed to SCP-25932 for 48 hours.
+- <strong>Result</strong>: Iron rusted equivalent to an estimated 50 years of natural oxidation, plastic exhibited no changes, and the wood petrified as though fossilized over millions of years.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><em>The following is a transcript of an interview conducted with Dr. ██████, one of the lead researchers on SCP-25932.</em></p>
+<p><strong>Interviewer:</strong> Dr. Chambers
+<strong>Interviewee:</strong> Dr. ██████
+<strong>Date:</strong> ██/██/████</p>
+<p><strong>[BEGIN LOG]</strong></p>
+<p><strong>Dr. Chambers:</strong> "Dr. ██████, can you summarize your recent observations of SCP-25932?"</p>
+<p><strong>Dr. ██████:</strong> "Certainly. SCP-25932 continues to defy our understanding of temporal mechanics. It's like a storm—calm one moment and raging the next. Its influence is largely... non-discriminatory, but we've noticed some patterns."</p>
+<p><strong>Dr. Chambers:</strong> "Patterns? Can you elaborate?"</p>
+<p><strong>Dr. ██████:</strong> "Well, for one, organic materials seem to be more susceptible to rapid temporal shifts. We think that SCP-25932 may be responding to the presence of life, although how and why are still unclear. Inanimate objects aren’t as affected unless exposed for prolonged periods."</p>
+<p><strong>Dr. Chambers:</strong> "Interesting. Have you made any progress on determining the cause of these fluctuations?"</p>
+<p><strong>Dr. ██████:</strong> "Our current hypothesis is that SCP-25932 contains or is powered by a previously unknown form of energy that interacts with time. We're in the process of designing experiments to test this theory further."</p>
+<p><strong>Dr. Chambers:</strong> "Sounds promising. Keep up the good work, Dr. ██████. We're accumulating valuable data."</p>
+<p><strong>[END LOG]</strong></p>
+<h3>Addendum 3: Incident Report</h3>
+<p>On ██/██/████, a containment breach occurred when SCP-25932 initiated an uncontained time reversal anomaly, resulting in the regression of a portion of Site-██ by approximately 20 years. The anomaly was controlled after 3 hours, but not before affecting the structural integrity of several containment cells, leading to multiple secondary containment breaches. Emergency Protocol 25932-T was enacted, limiting further damage and restoring temporal stability.</p>
+<p>Following this incident, it was decided by the O5 Council to enhance the containment procedures for SCP-25932 and to conduct further research into preventative measures against future time alterations of such magnitude.
+```</p></div>
