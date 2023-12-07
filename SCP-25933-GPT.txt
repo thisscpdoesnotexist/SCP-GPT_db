@@ -1,0 +1,63 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25933 is  Lovingly crafted galaxy earrings. Increases Orb experience gain.  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25933</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25933 are a pair of earrings that appear to be fashioned out of a metallic substance resembling sterling silver, each containing a miniature spherical representation of a galaxy. The craftsmanship is exquisite and, to date, the method used to create the intricate and animated celestial details remains unknown. Under SCP-25933's influence, individuals exhibit significantly accelerated skill acquisition and knowledge retention, described by affected persons as "Orb experience gain."</p>
+<p>Upon wearing SCP-25933, subjects report a sensation of cosmic awareness and describe feeling their minds "expanding", along with vivid visualizations of astronomical phenomena. The longer the earrings are worn, the more pronounced the educational enhancements. Tests have confirmed that the acceleration in learning is indeed factual and not merely psychosomatic.</p>
+<p>Subjects also exhibit emotional attachment to SCP-25933 over time, expressing reluctance to relinquish the object. To date, no compulsive effects have been noted, as subjects are capable of choosing not to wear SCP-25933. However, once removed, the effects diminish over a period correlating to the duration of exposure.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25933 are to be contained in a standard secure locker equipped with a biometric lock, accessible only to personnel with Level 4 clearance or higher. The containment locker is to be located in Site-66 within the anomalous artifacts wing. Testing is to be conducted in a controlled environment, and any personnel engaging with SCP-25933 must submit to psychological evaluation before and after exposure.</p>
+<p>No individual is to wear SCP-25933 for periods exceeding two hours during any given experiment, and a minimum interval of 72 hours is required between individual testing sessions with the artifacts to prevent excessive attachment or unforeseen long-term cognitive effects. In the event of emotional dependency developing, Class C amnestics are to be administered as a precautionary measure.</p>
+<p>Personnel who have participated in SCP-25933 experiments must refrain from contact with educational materials or engaging in skill acquisition activities for a 24-hour period post-exposure to prevent skewed results or potential information overload.</p>
+<h3>Addendum 1 - Experiment Log:</h3>
+<ul>
+<li><strong>Experiment 1:</strong></li>
+<li><strong>Subject:</strong> D-43892</li>
+<li><strong>Procedure:</strong> Subject instructed to wear SCP-25933 for 1 hour while attempting to learn basic Russian.</li>
+<li><strong>Result:</strong> Subject learned Cyrillic alphabet and basic conversational phrases significantly faster than control group.</li>
+<li>
+<p><strong>Notes:</strong> Subject reported feeling "as if the language was being downloaded" into their mind.</p>
+</li>
+<li>
+<p><strong>Experiment 2:</strong></p>
+</li>
+<li><strong>Subject:</strong> D-51904</li>
+<li><strong>Procedure:</strong> Subject wore SCP-25933 for 30 minutes before playing a complex piece on the piano, for which they had no prior training.</li>
+<li><strong>Result:</strong> Subject learned and performed the piece with minimal errors.</li>
+<li>
+<p><strong>Notes:</strong> D-51904 expressed a wish to continue playing, even after SCP-25933 was removed.</p>
+</li>
+<li>
+<p><strong>Experiment 3:</strong></p>
+</li>
+<li><strong>Subject:</strong> Dr. Niels</li>
+<li><strong>Procedure:</strong> Dr. Niels, a physicist, wore SCP-25933 while working on advanced quantum theory problems.</li>
+<li><strong>Result:</strong> Dr. Niels developed new theoretical models at a reportedly 'accelerated rate' but suffered a mild migraine post-experiment.</li>
+<li><strong>Notes:</strong> Experiment conducted with oversight, in light of potential for intellectual advancements.</li>
+</ul>
+<h3>Addendum 2 - Interview Log:</h3>
+<ul>
+<li><strong>Interviewer:</strong> Dr. Harper</li>
+<li><strong>Interviewee:</strong> D-43892 (Post-Experiment 1)</li>
+<li><strong>Foreword:</strong> The following is a transcript of an interview conducted after D-43892's exposure to SCP-25933.</li>
+</ul>
+<blockquote>
+<p><strong>Dr. Harper:</strong> Please describe your experience while wearing SCP-25933.</p>
+<p><strong>D-43892:</strong> At first, it was normal; I mean, they're just earrings, right? Then, this warmth spread through my head, and bam, Russian words just started clicking together. </p>
+<p><strong>Dr. Harper:</strong> Can you elaborate on the 'clicking together'?</p>
+<p><strong>D-43892:</strong> Yeah, it's like… I'd look at a word, and I just knew what it meant. Like I'd always known.</p>
+<p><strong>Dr. Harper:</strong> And how do you feel now, after the removal of SCP-25933?</p>
+<p><strong>D-43892:</strong> Empty, kinda. It's weird. I want that feeling back. It's like I was smarter, more connected.</p>
+<p><strong>Dr. Harper:</strong> Thank you, D-43892. Your insight has been valuable.</p>
+</blockquote>
+<h3>Addendum 3 - Recovery Log:</h3>
+<p>SCP-25933 was recovered after a series of reports detailing the sudden rise of a "genius" student within a small community college in [REDACTED], Spain. The student, later identified as Ms. Lara Rios, was found to have worn SCP-25933 consistently for a month, progressing from failing grades to top of her class in multiple subjects seemingly overnight. A Foundation operative embedded in the local police force intercepted her, and SCP-25933 was confiscated following amnestic administration. Further investigation into the origin of SCP-25933 remains ongoing, advised by the hypothesis of an undiscovered SCP-████.</p></div>
