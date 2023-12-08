@@ -1,0 +1,58 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25962 is  something that will make you [REDACTED] the bed. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25962</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25962 is an anomalous entity with the ability to invoke intense and uncontrolled [REDACTED] in humans. The precise nature of this [REDACTED] effect is classified; however, unshielded exposure to SCP-25962 has been observed to result in subjects experiencing a compulsion that leads invariably to [REDACTED] the bed. The manifestation of SCP-25962 is not limited to the presence of an actual bed, as the effect has been documented to occur in any location where subjects are present.</p>
+<p>SCP-25962 typically appears as an amorphous silhouette, oscillating in size and opacity. Its form can range from barely perceptible to overwhelmingly distinct, often described by observers as a "dark, swirling cloud." Light sources near SCP-25962 tend to dim significantly, and electrical devices are prone to malfunction. The entity is able to pass through solid objects effortlessly, and to date, it has shown no consistent preference for any specific environment or condition.</p>
+<p>The entity was first brought to the Foundation's attention after multiple reports of a "haunting phenomenon" which left affected individuals in a state of extreme distress and embarrassment. Since containment, SCP-25962's behavior has become more predictable, albeit no less dangerous without the proper containment protocols.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25962 is to be contained within a multi-layered containment chamber located at Site-██. The containment chamber is to be lined with a combination of lead and a telekill alloy to suppress SCP-25962's anomalous effects. The chamber is also to be fitted with a redundant electronic surveillance system to monitor the entity's movements, though staff should be aware of the potential for malfunction.</p>
+<p>Personnel assigned to SCP-25962 must undergo rigorous psychological screening and training to resist the entity's compulsive effects. In the event of containment breach, a facility-wide lockdown is to be initiated, and affected personnel are to be administered amnestics following their recovery.</p>
+<p>Direct interaction with SCP-25962 is strictly prohibited unless authorized by two Level 4 or higher personnel for testing purposes only. Given the sensitive nature of SCP-25962's effect, all affected bedding materials are to be incinerated immediately. </p>
+<h3>Addendum 1:</h3>
+<p><strong>Experiment Log 25962-1</strong></p>
+<ul>
+<li><strong>Experiment 1</strong></li>
+<li><strong>Subject</strong>: D-8432</li>
+<li><strong>Procedure</strong>: D-8432 was instructed to enter SCP-25962's containment chamber and simply stand in the center.</li>
+<li><strong>Result</strong>: Within 3 minutes, D-8432 [REDACTED] the bed. Subject exhibited extreme distress, immediately requesting termination of the experiment.</li>
+<li>
+<p><strong>Notes</strong>: It seems that mere presence without interaction is enough to trigger SCP-25962's effect.</p>
+</li>
+<li>
+<p><strong>Experiment 2</strong></p>
+</li>
+<li><strong>Subject</strong>: D-6194</li>
+<li><strong>Procedure</strong>: Subject equipped with telekill alloy lined suit to suppress effects.</li>
+<li><strong>Result</strong>: D-6194 remained in containment chamber for 15 minutes before [REDACTED] the bed. The telekill alloy proved only partially effective.</li>
+<li>
+<p><strong>Notes</strong>: This experiment suggests there is a threshold for resistance, even with additional protective measures. </p>
+</li>
+<li>
+<p><strong>Experiment 3</strong></p>
+</li>
+<li><strong>Subject</strong>: D-7201</li>
+<li><strong>Procedure</strong>: Subject introduced to SCP-25962 after being administered Class-A amnestics.</li>
+<li><strong>Result</strong>: Subject [REDACTED] 5 minutes sooner than subjects in previous tests.</li>
+<li><strong>Notes</strong>: The presence of prior knowledge or memory of SCP-25962 does not seem to affect the intensity or immediacy of the compulsive effect.</li>
+</ul>
+<h3>Addendum 2:</h3>
+<p><strong>Detailed Interview Log 25962-A</strong></p>
+<p><em>Interviewer</em>: Dr. ███████
+<em>Subject</em>: D-8432 (following Experiment 1)</p>
+<ul>
+<li>[REDACTED TRANSCRIPT DUE TO SENSITIVE CONTENT]</li>
+</ul>
+<p><em>Summary</em>: D-8432 expressed significant psychological trauma following their exposure to SCP-25962. Despite being briefed on the possible effects of the anomaly, the subject was unprepared for the intensity of the compulsion. The interview was terminated early as the subject became increasingly hysterical, reiterating the plea for termination of the experiment and the effects. Ongoing psychological evaluation and counseling have been recommended.</p>
+<h3>Addendum 3:</h3>
+<p>Following Incident 25962-██, wherein SCP-25962's effect resulted in an uncontrolled [REDACTED] event involving multiple personnel, the O5 Council has approved the upgrade of SCP-25962's classification to Keter. Recommendations for adjustments to containment procedures and potential methods for neutralizing SCP-25962's effects are currently under review by the Research and Containment teams. Further incidents are to be avoided at all costs, and any personnel showing signs of distress consistent with SCP-25962 exposure are to be relieved of duty and treated immediately.</p>
+<p>Interdisciplinary efforts with other sites that specialize in psychological anomalous containment are ongoing. The hope is that through a combined effort, a more effective method to contain or counter SCP-25962 will be developed before any large-scale breaches occur.</p></div>
