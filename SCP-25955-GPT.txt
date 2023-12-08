@@ -1,0 +1,43 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25955 is  a sentient tumor named Quentin Teratoma who wants to be a movie director </h3> </center>
+    <h1>SCP-25955</h1>
+<h3>Item #:</h3>
+<p>SCP-25955</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-25955 is a sentient neoplastic growth, or teratoma, that has developed human-like cognitive abilities and has expressed a strong desire to engage in film direction and production. The tumor, self-identified as "Quentin Teratoma," exhibits sapience and telepathic capabilities, allowing it to communicate with personnel and manipulate electronic devices within a range of approximately 20 meters.</p>
+<p>SCP-25955 is contained within a standard humanoid host, designated SCP-25955-A, who is a 38-year-old male. The tumor is situated within the abdominal cavity of SCP-25955-A but is connected to the host's nervous system, which appears to be the method through which SCP-25955 exerts control over SCP-25955-A's motor functions and expresses its own desires.</p>
+<p>Upon discovery by the Foundation, SCP-25955 was directing an independent film using the unwitting personnel of a small production company. The content of the film appeared anomalous, inducing mild euphoria in viewers, which has led to further interest in SCP-25955's potential memetic capabilities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25955-A is to be contained in a modified humanoid containment cell within Site-██, furnished with standard living amenities and a selection of filmmaking literature and screenwriting software to accommodate SCP-25955's interests. The containment cell should be equipped with a Faraday cage to prevent SCP-25955 from accessing external electronic devices.</p>
+<p>Any interaction with SCP-25955 requires prior approval from at least two Level 3 personnel. SCP-25955-A's health must be monitored regularly to ensure that the tumor does not compromise vital organ function. Surgical intervention may be considered if SCP-25955 poses an immediate threat to the life of SCP-25955-A.</p>
+<p>Due to SCP-25955's telepathic abilities, all individuals interacting with it must be equipped with SCP-148 (Telekill Alloy) helmets to prevent unwanted influence or manipulation. Communication with SCP-25955 should be conducted through written means or through a computer interface that prevents direct telepathic contact.</p>
+<h3>Addendum 1: Interview Log</h3>
+<h4><em>Interviewer: Dr. ██████</em></h4>
+<h4><em>Subject: SCP-25955</em></h4>
+<p>(Selected portions of the interview, conducted via secure text interface)</p>
+<p><strong>Dr. ██████:</strong> Good morning, Quentin. We're interested in understanding more about you. How do you see yourself in relation to your host?</p>
+<p><strong>SCP-25955:</strong> Good morning, Doc. Well, I'm the main show, he's the theater, you know? Can't screen a film without a screen.</p>
+<p>(Continued interview covering SCP-25955's background, desires, and the nature of its cognitive emergence has been archived in Document 25955-INT-13.)</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment Log 25955-01: Memetic Properties of SCP-25955's Film Content</h4>
+<p><strong>Test A:</strong>
+- <strong>Date:</strong> ██-██-20██
+- <strong>Subject(s):</strong> D-8432
+- <strong>Procedure:</strong> Subject instructed to watch a 10-minute short film directed by SCP-25955.
+- <strong>Results:</strong> Subject displayed an elevated mood for 6 hours post-viewing. No signs of permanent cognitive alteration.</p>
+<p><strong>Test B:</strong>
+- <strong>Date:</strong> ██-██-20██
+- <strong>Subject(s):</strong> D-4511, D-6649
+- <strong>Procedure:</strong> Subjects instructed to film a scene under SCP-25955's telepathic direction.
+- <strong>Results:</strong> Subjects completed the scene without incident. Reported a sense of satisfaction with their performance. Minor deviations from standard procedures noted; investigation into possible subtle manipulation by SCP-25955 ongoing.</p>
+<p>(Additional experiments have been conducted and are detailed in Experiment Log 25955, with summaries focusing on the impact of SCP-25955's direction on non-anomalous participants and the emotional effects of viewing SCP-25955-produced content.)</p>
+<h3>Addendum 3: Observation Notes</h3>
+<p>Subsequent observations of SCP-25955 have noted a developing interest in different cinema genres, proposals for scriptwriting, and a pattern of nocturnal activity correlating with the planning phase of its film projects. SCP-25955 appears to be motivated by recognition and has made several requests for access to film festivals, which have been denied for containment reasons. Further studies are suggested to assess the potential use of SCP-25955's anomalous properties in information dissemination or psychological operations.</p></div>
