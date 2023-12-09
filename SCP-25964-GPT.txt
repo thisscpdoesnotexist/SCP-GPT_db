@@ -1,0 +1,43 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25964 is  a spell that gives good people feathery wings and halos, and evil people horns and tails </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25964</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25964 is currently uncontained and its means of propagation are not fully understood. As physical containment is impossible at this time, containment efforts are focused on information suppression and response. Foundation web crawler AI, designated Icarus-4, is to monitor online forums, social media, and occult-related web domains for any mention of or allusion to SCP-25964's effects.</p>
+<p>Individuals affected by SCP-25964, henceforth referred to as SCP-25964-1 (for those with wings and halos) and SCP-25964-2 (for those with horns and tails), are to be detained, debriefed, and administered Class-A amnestics. A cover story involving a rare genetic mutation or a viral marketing campaign for a fantasy-themed project is to be disseminated to explain any public sightings.</p>
+<p>Researchers tasked with studying SCP-25964's effects must pass rigorous ethical background checks in order to reduce the risk of personal bias influencing the designation of an individual as SCP-25964-1 or SCP-25964-2.</p>
+<p>Should an effective containment method be discovered, these procedures will be revised accordingly.</p>
+<h3>Description:</h3>
+<p>SCP-25964 is an anomalous phenomenon that manifests as an incantation, believed to predate most modern languages and able to be invoked by individuals with an intrinsic understanding of its phonetic structure and intent. When spoken by a human subject with genuine intent, SCP-25964 invokes a transformative effect that manifests physical changes based on the perceived morality of the individual at the time of the incantation.</p>
+<p>Individuals deemed 'good' by unknown criteria—a decision-making process not yet understood by the Foundation—are transformed into SCP-25964-1: physically developing avian wings capable of flight and a luminous halo above their heads. Those deemed 'evil' undergo a transformation into SCP-25964-2: sprouting horns from their skull and a prehensile tail. These physical changes appear instantaneously and have caused significant psychological trauma in affected individuals.</p>
+<p>The moral criteria used by SCP-25964 appears to be objective, but the basis for its judgment and the source of its power remains unknown. Additionally, the permanence of the transformation is variable, with some individuals reverting to their original form within hours, while others have maintained their alterations for years.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<ul>
+<li><strong>Experiment 25964-A1</strong>: A D-Class personnel with a history of non-violent crime was exposed to SCP-25964. The subject developed small, nub-like horns, suggesting SCP-25964's judgement has a granularity that takes the nature and severity of moral transgressions into account.</li>
+<li><strong>Experiment 25964-A2</strong>: A D-Class personnel with a record of philanthropy and community service prior to incarceration was exposed to SCP-25964. The subject swiftly developed large, functional wings and a halo. However, the wings dissipated after the subject engaged in a violent altercation, indicating that SCP-25964's effects may be reversible based on changes in an individual's behavior.</li>
+<li><strong>Experiment 25964-A3</strong>: A group of five D-Class personnel with varied ethical backgrounds were simultaneously exposed to SCP-25964. The resulting transformations were consistent with their documented histories. This experiment confirmed SCP-25964's ability to affect multiple subjects simultaneously and suggested a complex moral assessment capability.</li>
+</ul>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. Erika Lang
+<strong>Interviewee:</strong> D-53321 (SCP-25964-1 at the time)</p>
+<p><em><Begin Log></em></p>
+<p><strong>Dr. Lang:</strong> Please describe how you feel after the transformation.</p>
+<p><strong>D-53321:</strong> It's surreal. I never thought I could end up looking like an angel, makes me almost believe there's some good in me, despite everything.</p>
+<p><strong>Dr. Lang:</strong> And the actual physical sensations?</p>
+<p><strong>D-53321:</strong> The wings are heavy but in a good way, and the halo... it's warm. Like standing in the sun.</p>
+<p><strong>Dr. Lang:</strong> Have you experienced any changes in your thoughts or emotions?</p>
+<p><strong>D-53321:</strong> Yeah, I have this strange urge to help others, to make things right... I don't know if it's because of the halo or just me.</p>
+<p><strong>Dr. Lang:</strong> Thank you, we'll continue to monitor your condition.</p>
+<p><em><End Log></em></p>
+<h3>Addendum 3: Memo on Incident 25964-C</h3>
+<p>On ██/██/████, an outbreak of SCP-25964 transformations occurred in the town of ████████, resulting in the manifestation of three SCP-25964-1 instances and five SCP-25964-2 instances. The town was immediately quarantined, and mobile task forces were deployed to contain the situation. Despite this, news of the incident spread rapidly, necessitating a large-scale amnesticization of the local population and fabrication of an alternative explanation.</p>
+<p>The increase in SCP-25964 activity points to a proliferation of the incantation and suggests that there may be a group or entity deliberately disseminating the spell. Investigation into potential persons or groups of interest is ongoing.</p>
+<p>This event has prompted a proposed re-classification of SCP-25964 to 'Apollyon', pending O5 review.</p></div>
