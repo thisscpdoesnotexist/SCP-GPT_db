@@ -1,0 +1,54 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25967 is  a succubus who identifies as asexual, and prefers to tempt people with "lust for knowledge and/or power" </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25967</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25967 is a humanoid entity with characteristics commonly associated with the mythological concept of a succubus. The entity has the ability to shapeshift and presents itself in various forms to different individuals, typically manifesting as their ideal of desirability. Unlike traditional succubi, SCP-25967 identifies as asexual and appears to be an anomaly among its kind, choosing not to engage in sexual seduction.</p>
+<p>Instead, SCP-25967 employs an atypical method of psychic influence, generating an overwhelming 'lust for knowledge and/or power' in its targets. Affected individuals, henceforth referred to as SCP-25967-1, experience an insatiable drive to gain intellectual insight or societal control by any means necessary. This drive quickly becomes an obsession, leading to erratic behavior, breaches of standard moral conduct, and in extreme cases, self-harm or harm to others. The mechanism by which SCP-25967 instills this form of lust is currently not well understood and appears to be psychic in nature.</p>
+<p>After initial contact, SCP-25967 will continue to appear in the thoughts and dreams of SCP-25967-1, reinforcing the compulsion and creating a psychological dependency. The anomaly's victims have attempted to procure vast libraries of rare books, commit espionage, or engage in rituals believed to grant esoteric wisdom or arcane abilities.</p>
+<p>SCP-25967's keter classification stems from its high level of intelligence, its manipulative capabilities, and the difficulty in hindering its influence over humans.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-25967 is to be contained in a 10m x 10m x 10m containment chamber constructed of reinforced concrete, with no windows and a single magnetic-seal airlock to prevent unauthorized access. The airlock shall be controlled from a remote security station. The chamber must be surveilled at all times via infrared cameras situated within the containment walls. Direct visual observation is discouraged to prevent SCP-25967's influence over personnel.</p>
+<p>Under no circumstance should personnel engage in conversation with SCP-25967, whether directly or through technological means, without prior approval from at least two Level 4 researchers.</p>
+<p>A team of psychologists and cognitive scientists is to monitor the mental health of all personnel who have had direct or indirect exposure to SCP-25967. Personnel found exhibiting symptoms of SCP-25967's influence are to be quarantined and subjected to a regimen of cognitive-behavioral therapy and amnestic treatments.</p>
+<p>Containment methods that engage in intellectual challenges or philosophical debates have proven to be partially effective in distracting SCP-25967 from attempts to breach containment. Such activities are to be administered and monitored by AI systems only, to prevent any potential manipulation of human personnel.</p>
+<h3>Addendum 1:</h3>
+<p>SCP-25967 was first discovered in [REDACTED], after a string of unusual incidents in the academic circles of several universities where notable professors became obsessed with forbidden knowledge and subsequently vanished under mysterious circumstances.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. [REDACTED]</p>
+<p><strong>Interviewee:</strong> SCP-25967</p>
+<p><em>(The following is a transcript of a communication held through a text-based interface to prevent SCP-25967's influence.)</em></p>
+<p><strong>Dr. [REDACTED]:</strong> SCP-25967, can you explain why you diverge from the typical behavior of your kind?</p>
+<p><strong>SCP-25967:</strong> My kind seeks to nourish from the carnal energies of humans. I find such desires... unstimulating. The essence of knowledge and the allure of dominion—they are the true aphrodisiacs.</p>
+<p><strong>Dr. [REDACTED]:</strong> Are you capable of feeding off sexual energy?</p>
+<p><strong>SCP-25967:</strong> I am but choose not to. Intellectual fervor and the quest for power radiate a finer sustenance.</p>
+<p><strong>Dr. [REDACTED]:</strong> What is your ultimate goal in tempting humans in this manner?</p>
+<p><strong>SCP-25967:</strong> To see them achieve greatness through the acquisition of enlightenment or ascendancy, to break the fetters of their own ignorance and limitations.</p>
+<p><em>(The interview concludes as SCP-25967 refuses to respond further.)</em></p>
+<h3>Addendum 3: Experiment Log</h3>
+<p><strong>Experiment 25967-A:</strong></p>
+<ul>
+<li><strong>Objective:</strong> Determine if SCP-25967 can influence subjects through indirect means (texts or recorded messages).</li>
+<li><strong>Procedure:</strong> D-Class personnel exposed to transcripts of SCP-25967's interviews.</li>
+<li><strong>Result:</strong> No significant behavior changes observed. It would appear SCP-25967 requires a more direct form of psychological engagement to exert its influence.</li>
+</ul>
+<p><strong>Experiment 25967-B:</strong></p>
+<ul>
+<li><strong>Objective:</strong> Assess if SCP-25967's influence can be mitigated by exposing subjects to philosophical paradoxes.</li>
+<li><strong>Procedure:</strong> SCP-25967 presented with a series of unsolvable philosophical questions via computer interface.</li>
+<li><strong>Result:</strong> SCP-25967 engaged with the presented material, but no reduction in influence on D-Class subjects was observed. Several containment facility personnel reported headaches and a heightened interest in the nature of consciousness.</li>
+</ul>
+<p><strong>Experiment 25967-C:</strong></p>
+<ul>
+<li><strong>Objective</strong>: Test SCP-25967's reaction to subjects completely devoid of ambition.</li>
+<li><strong>Procedure:</strong> SCP-25967 was allowed controlled interaction with a D-Class subject with clinically diagnosed apathy syndrome.</li>
+<li><strong>Result:</strong> SCP-25967 quickly lost interest in the subject. However, within one week of exposure, the D-Class subject displayed newfound motivation for self-improvement and reading, suggesting that no human may be entirely immune to SCP-25967's influence.</li>
+</ul></div>
