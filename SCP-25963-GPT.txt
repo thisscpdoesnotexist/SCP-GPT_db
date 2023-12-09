@@ -1,0 +1,56 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-25963 is  a species of flower that turn bees into cute humanoid bee girls but turns anything else into hideous monsters </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-25963</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-25963 refers to a previously undocumented species of flowering plant bearing superficial resemblance to the genus <em>Ranunculus</em>. SCP-25963 is characterized by its vibrant blue petals and an anomalous nectar, which possesses transformative properties upon interaction with living organisms.</p>
+<p>In the case of Apis mellifera (Western honeybees), exposure to SCP-25963's nectar initiates an anomalous metamorphosis, resulting in a hybrid entity hereby referred to as SCP-25963-A. SCP-25963-A instances exhibit a humanoid female appearance with morphological characteristics of bees, including but not limited to: exoskeleton segments, wings, antennae, and compound eyes. The demeanor of SCP-25963-A instances remains docile and their behavior aligns with that of non-anomalous honeybees, showing an affinity for pollination and production of honey-like substance.</p>
+<p>Conversely, any non-bee organism interacting with SCP-25963 undergoes a grotesque and aggressive transformation, resulting in a creature designated as SCP-25963-B. SCP-25963-B instances vary in appearance and abilities but share a common trait of extreme hostility toward all living organisms. Instances vary from partially to fully transformed, depending on the quantity of nectar ingested or otherwise introduced into their system.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-25963's high-risk potential for widespread ecological and societal disruption, containment measures focus on the suppression of its distribution and exposure to both flora and fauna. The wild population of SCP-25963 is to be contained within a 5 km radius exclusion zone, surrounded by a 3m tall electrified fence, monitored by Foundation operatives.</p>
+<p>Mobile Task Force Epsilon-11 ("Nine-Tailed Foxes") is to perform routine extermination of SCP-25963-B instances within the exclusion zone. Drone surveillance is deployed for identification and retrieval of SCP-25963-A instances for further study.</p>
+<p>Cultivation or experimentation with SCP-25963 is only to be executed in Bio-Containment Area-12, under strict biosafety protocols. Personnel must use specialized protective equipment to prevent any accidental exposure to SCP-25963's nectar.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-25963's existence came to The Foundation's attention following a series of unexplained disappearances and the subsequent discovery of SCP-25963-B instances in [REDACTED], which led to a local ecological disaster. The origin of SCP-25963 remains unknown.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 25963-01</h4>
+<ul>
+<li><strong>Subject</strong>: 1 Drosophila melanogaster (Fruit fly)</li>
+<li><strong>Result</strong>: Rapid transformation into SCP-25963-B. The subject grew to approximately 10 cm in length, showcasing increased aggression and an anomalous ability to secrete an acidic substance.</li>
+</ul>
+<h4>Experiment 25963-02</h4>
+<ul>
+<li><strong>Subject</strong>: 1 Rattus norvegicus (Norway rat)</li>
+<li><strong>Result</strong>: Partial and erratic transformation into SCP-25963-B, causing subject extreme distress and resulting in euthanasia.</li>
+</ul>
+<h4>Experiment 25963-03</h4>
+<ul>
+<li><strong>Subject</strong>: 1 Oryctolagus cuniculus (European rabbit)</li>
+<li><strong>Result</strong>: Complete metamorphosis into hostile SCP-25963-B with enhanced musculature and predatory behaviour.</li>
+</ul>
+<h3>Addendum 3: Extended Content</h3>
+<h4>Interview Log 25963-A1</h4>
+<p><strong>Interviewer</strong>: Dr. Anand
+<strong>Interviewee</strong>: SCP-25963-A7 (Referred to as "Honey")</p>
+<p><strong>Begin Log</strong></p>
+<p><em>Dr. Anand</em>: Good morning, Honey. How are you feeling today?</p>
+<p><em>Honey</em>: I am... functioning well, thank you. The hive-mind is clear and calm.</p>
+<p><em>Dr. Anand</em>: Can you explain what you mean by 'hive-mind'?</p>
+<p><em>Honey</em>: It is the collective consciousness we share, the unity that binds us. Our thoughts and intentions directed toward the prosperity of the hive.</p>
+<p><em>Dr. Anand</em>: Interesting. Can you control it?</p>
+<p><em>Honey</em>: We do not control it; we are with it, one and the same. We manifest our role for the hive.</p>
+<p><em>Dr. Anand</em>: And what is your role, Honey?</p>
+<p><em>Honey</em>: I am to pollinate, to spread life. It brings me... what you may call joy.</p>
+<p><em>Dr. Anand</em>: Is there anything else you wish from existence besides pollination?</p>
+<p><em>Honey</em>: To further the reach of our kind. However, I sense the other ones—twisted, changed—do not partake in this purpose.</p>
+<p><em>Dr. Anand</em>: Indeed, they are quite different. Thank you, Honey. This has been most enlightening.</p>
+<p><em>Honey</em>: May I return to the garden? The flowers beckon.</p>
+<p><strong>End Log</strong></p></div>
