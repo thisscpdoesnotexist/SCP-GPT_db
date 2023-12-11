@@ -1,0 +1,55 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26013 is  a 50 foot long giant parasitic worm that can somehow fit its entire massive body inside a human host despite the size discrepancy  </h3> </center>
+    <p>```</p>
+<h3>Item #:</h3>
+<p>SCP-26013</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26013 is an anomalous organism resembling an elongated, parasitic worm, measuring approximately 15.24 meters (50 feet) in length. Despite its massive size, it possesses the inexplicable ability to inhabit a human host, completely internalizing itself within the host’s body without causing apparent physical distension or disruption to the host's external anatomy. SCP-26013's means of circumventing the size discrepancy between it and its human hosts defies current understanding of spatial physics and biology.</p>
+<p>The worm appears to enter a form of quantum superposition that allows its body to exist in multiple states, thus occupying a space that is both within and external to the host simultaneously. Removal of SCP-26013 from a host often proves fatal, as it appears to form a complex symbiosis with the host's internal systems; however, the exact nature of this relationship is not fully understood.</p>
+<p>Once inside the host, SCP-26013 exerts substantial influence over the host's behavior and faculties, effectively rendering the individual a vessel for its will. Individuals hosting SCP-26013 (designated SCP-26013-1) exhibit increased aggression, supernatural endurance, and a tendency to seek out further potential hosts to spread SCP-26013.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26013 is to be contained within a high-security bio-containment chamber at Site-██, reinforced to withstand potential aggressive behaviors exhibited by SCP-26013-1 instances. The chamber must be monitored via closed-circuit cameras at all times. Quarantine protocols are in effect for handling and interaction with SCP-26013-1 instances, requiring Level 4 Biohazard suits and armed security details.</p>
+<p>In the event of containment breach, lockdown protocols are to be immediately initiated. Site personnel are instructed to employ non-lethal force when possible to subdue SCP-26013-1 instances and facilitate re-containment. Should lethal force prove necessary, all efforts must be made to capture SCP-26013 intact and avoid external release.</p>
+<p>Researchers engaging in direct experimentation with SCP-26013 must receive clearance from at least two Level 4 Senior Researchers. All experiments must adhere to the Standard Anomalous Entity Interaction Protocols (SAEIP) to minimize risk of SCP-26013 transference.</p>
+<h3>Addendum 1: Incident Report 26013-A</h3>
+<p>On [REDACTED], a containment breach involving SCP-26013 occurred, resulting in three personnel being transformed into SCP-26013-1 instances. The breach was contained after four hours of lockdown and the application of protocol [REDACTED]. All SCP-26013-1 instances were neutralized, and SCP-26013 was successfully re-contained. Subsequent review of containment procedures has led to the enhancement of the structural integrity of the containment chamber.</p>
+<h3>Addendum 2: Experiment Log 26013-█</h3>
+<ul>
+<li><strong>Experiment 26013-E1:</strong></li>
+<li><strong>Purpose:</strong> To determine the maximum distance SCP-26013 can travel to seek a new host.</li>
+<li><strong>Result:</strong> SCP-26013 demonstrated an ability to travel up to 50 meters outside of its host before returning, indicating a possible "leash" limit.</li>
+<li><strong>Experiment 26013-E2:</strong></li>
+<li><strong>Purpose:</strong> To ascertain the physical state of SCP-26013 while it inhabits a host.</li>
+<li><strong>Result:</strong> Imaging technology failed to provide concrete data on SCP-26013's state within the host, suggesting possible quantum entanglement or other non-local phenomena.</li>
+<li><strong>Experiment 26013-E3:</strong></li>
+<li><strong>Purpose:</strong> To observe SCP-26013's response to potential host termination.</li>
+<li><strong>Result:</strong> Upon termination of a host, SCP-26013 exhibited a rapid exit response, immediately seeking a new host. Transition period between hosts lasted no more than 6 seconds.</li>
+</ul>
+<h3>Addendum 3: Interview Log 26013-11</h3>
+<ul>
+<li><strong>Interviewer:</strong> Dr. ██████</li>
+<li><strong>Subject:</strong> SCP-26013-1 Instance (previously D-98422)</li>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Forward:</strong> The following interview was conducted to gain understanding of SCP-26013's influence on the cognition and capabilities of affected hosts. D-98422 was secured and restrained to prevent any possible harm during the interview.</li>
+</ul>
+<p>(Begin Log)</p>
+<p><strong>Dr. ██████:</strong> Please describe your current state of being.</p>
+<p><strong>SCP-26013-1/D-98422:</strong> It's all-encompassing. It fills the void, becomes the mind... I am more than myself; I am the vast.</p>
+<p><strong>Dr. ██████:</strong> Can you explain what you mean by "the vast"?</p>
+<p><strong>SCP-26013-1/D-98422:</strong> It connects through the flesh, spirals in infinity, limitless within the finite. My thoughts are no longer just my own—they spread, intertwine, multiply...</p>
+<p><strong>Dr. ██████:</strong> Describe your experience with SCP-26013.</p>
+<p><strong>SCP-26013-1/D-98422:</strong> It speaks without sound, it moves without step. It is the end and beginning, the worm that devours yet also sows. It is boundless; it seeks others—to expand, to entwine.</p>
+<p><strong>Dr. ██████:</strong> How does it communicate with you?</p>
+<p><strong>SCP-26013-1/D-98422:</strong> ...
+(After several seconds of silence, the subject begins convulsing violently)</p>
+<p>(End Log)</p>
+<p><strong>Closing Statement:</strong> Interview was immediately halted due to the subject's unexpected convulsions. Medical personnel intervened, but SCP-26013-1/D-98422 expired during the event. Autopsy revealed that SCP-26013 had disintegrated, leading to the host's systemic failure. Research into the possible consciousness of SCP-26013 and its method of communication remains ongoing.
+```</p></div>
