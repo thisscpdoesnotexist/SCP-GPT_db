@@ -1,0 +1,45 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26026 is  The dimension where virginities go once they're lost </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26026</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-26026 refers to a non-Euclidean, extradimensional space hypothesized to exist simultaneously in parallel with our own universe. This dimension is not observable through conventional means and cannot be accessed through physical travel. It appears to function as a metaphysical repository for the concept and social construct of 'virginity' at the moment it is traditionally considered 'lost' during individuals' first sexual experience.</p>
+<p>The existence of SCP-26026 was first deduced by Dr. ██████ through a series of anomalous readings and interviews with individuals who have undergone significant alterations in their psychological profile post-coitus, specifically regarding the cultural concept of virginity. It is important to note that SCP-26026's properties manifest irrespective of the involved individuals’ awareness, beliefs, or lack thereof concerning virginity. </p>
+<p>The dimension itself is abstract and intangible; it does not have a physical form or a detectable location. It does not adhere to the known laws of physics and cannot be measured or quantified by scientific instruments. SCP-26026 does not have a noticeable effect on reality or on individuals, aside from being a receptacle for a conceptual entity. Currently, there are no known methods for direct interaction with or observation of SCP-26026.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given its intangible and inaccessible nature, SCP-26026 requires no conventional containment. However, to mitigate the potential psycho-social effects of SCP-26026's revelation on the populace, information regarding its existence is to be withheld from the public and non-essential personnel within the SCP Foundation.</p>
+<p>Due to the psychological and philosophical implications of SCP-26026’s existence, Foundation personnel who show signs of existential distress or who develop unhealthy fixations on the concept are to be provided with mandatory counseling and, if necessary, amnestic treatment. Research into SCP-26026 is to be conducted on a theoretical basis only unless a breakthrough in metaphysics or anomalous technology allows for a non-intrusive means of investigation.</p>
+<h3>Addendum 1: Interview Log with Dr. ██████</h3>
+<p><em>Interview Date: ██/██/████</em></p>
+<p><em>Interviewer: Dr. Ihara</em></p>
+<p><em>Interviewed: Dr. ██████</em></p>
+<p><strong>Dr. Ihara:</strong> Good morning, Dr. ██████. Please elaborate on the evidence that led to your hypothesis regarding SCP-26026.</p>
+<p><strong>Dr. ██████:</strong> Good morning, Doctor. When I began my research, it was purely psychological – I was interested in the way sexual experiences impacted self-perception and cultural identity. However, I observed a persistent, inexplicable phenomenon: Subjects often alluded to a 'loss,' as if part of themselves was permanently altered or transported elsewhere. The consistency of this impression across cultures and personalities suggested something beyond mere societal constructs.</p>
+<p><strong>Dr. Ihara:</strong> And this led you to theorize the existence of SCP-26026?</p>
+<p><strong>Dr. ██████:</strong> Yes. While I'm not one to jump to metaphysical conclusions lightly, the data supported a theory that this sense of loss correlated to an extradimensional event.</p>
+<p><em>The interview continues to explore Dr. ██████'s methods but reveals no further actionable information.</em></p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26026-A</h4>
+<p><strong>Objective</strong>: To investigate any possible psychic or telepathic means of detecting SCP-26026.</p>
+<p><strong>Procedure</strong>: Utilization of SCP-███, known for its ability to detect conceptual entities, to locate or interact with SCP-26026.</p>
+<p><strong>Result</strong>: SCP-███ showed agitation when prompted but was unable to provide any actionable data or confirmation of SCP-26026's existence.</p>
+<h4>Experiment 26026-B</h4>
+<p><strong>Objective</strong>: To discern any pattern in the alterations of individuals’ psychological profiles post-coitus.</p>
+<p><strong>Procedure</strong>: Extensive interviews and psychological testing conducted on volunteers before and after sexual encounters.</p>
+<p><strong>Result</strong>: Patterns were as varied as the individuals themselves, with no discernible consistency that could be attributed to interaction with SCP-26026.</p>
+<h4>Experiment 26026-C</h4>
+<p><strong>Objective</strong>: To detect any changes in local reality or perception as a result of interaction with SCP-26026.</p>
+<p><strong>Procedure</strong>: Usage of sensitive reality-anchoring technology during controlled sexual encounters between consenting D-class personnel.</p>
+<p><strong>Result</strong>: No fluctuations or anomalies were detected in the surrounding reality.</p>
+<h3>Addendum 3: Ethics Committee Review</h3>
+<p><em>Date: ██/██/████</em></p>
+<p>Following a comprehensive review of the experiments and methodologies associated with SCP-26026 research, the Ethics Committee has determined that the research poses minimal risk of harm or distress to subjects and maintains compliance with the Foundation’s standards. However, the Committee advises caution with respect to the continued investigation into SCP-26026, considering the potential social and psychological implications such knowledge may carry if disseminated beyond the Foundation.</p>
+<p>Further study is permitted under the condition that any experiments revolving around SCP-26026 are strictly observational and pose no invasive risk to the subjects’ mental and emotional well-being. Advancements in the field should be reported to the Committee, with special attention given to any developments that could pave the way for direct interaction with or a deeper understanding of SCP-26026.</p></div>
