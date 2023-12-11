@@ -1,0 +1,60 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26028 is  an unstoppable clown girl who breaks into your house and eats all your food </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26028</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26028 is a humanoid entity with the physical appearance of a young female dressed in a traditional circus clown costume, including face paint and a red nose. The entity displays a wide range of anomalous properties, with the primary one being its ability to penetrate any residential structure regardless of the level of security or protective measures in place.</p>
+<p>Once inside, SCP-26028 begins to consume any and all food items within the premises. Its consumption is not limited by standard human biological needs, and it has been observed to ingest quantities well beyond what would be possible for a normal human. The entity has also demonstrated the ability to consume items that are not traditionally considered edible. During "feeding" events, SCP-26028 exhibits exaggerated physical comedy and slapstick behaviors which can result in structural damage to the affected property.</p>
+<p>Furthermore, SCP-26028 appears to have a secondary memetic effect that compels individuals to ignore its intrusions as typical, harmless behavior, and even perceive the entity as a humorous event rather than a home invasion. It's only after SCP-26028 leaves the premises that affected individuals return to a normal state of awareness and notice the missing food and damage caused.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26028's elusiveness and ability to bypass physical barriers, its containment is currently focused on prediction and intervention strategies. Mobile Task Force Sigma-6 ("Clown Catchers") has been assigned to track SCP-26028. A network of informants and automated surveillance systems has been established to respond to potential outbreaks.</p>
+<p>Upon reports of SCP-26028 activity, MTF Sigma-6 is to be dispatched to the location to apply amnestics to witnesses and repair any damage caused by the entity. A standardized disinformation campaign is in place to explain the missing provisions and property damage as the results of peculiar burglary patterns.</p>
+<p>Additionally, Foundation researchers are currently developing a memetic agent designed to counteract SCP-26028's influence on bystanders, allowing for earlier detection and intervention. Testing of this agent is ongoing.</p>
+<p>The Foundation is also in the process of designing and testing specialized confinement areas with proposed anomalous countermeasures to prevent SCP-26028's ingress, for the eventual long-term containment of the entity.</p>
+<h3>Addendum 1:</h3>
+<p><em>Interview Log 26028-A</em></p>
+<p><strong>Interviewer:</strong> Dr. Emilia Harris<br />
+<strong>Interviewed:</strong> SCP-26028<br />
+<strong>Note:</strong> Interview took place following Incident 26028-B, wherein SCP-26028 consumed the entire contents of a Foundation staff kitchen.</p>
+<p><strong>Begin Log</strong></p>
+<p><strong>Dr. Harris:</strong> Can you explain why you enter homes uninvited?</p>
+<p><strong>SCP-26028:</strong> Oh, it's a laugh, innit? Everyone loves a clown at snack time!</p>
+<p><strong>Dr. Harris:</strong> But you do understand you’re causing distress and property damage, correct?</p>
+<p><strong>SCP-26028:</strong> (Twirling a plastic flower) Distress? Nonsense! They're all smiles when I’m there, big old grins!</p>
+<p><strong>Dr. Harris:</strong> Their expressions are a direct result of your memetic effect, not genuine happiness.</p>
+<p><strong>SCP-26028:</strong> Effect shmffect! They got food, I got an appetite. It's like, natural or something.</p>
+<p><strong>Dr. Harris:</strong> We are researching ways to contain you and prevent your intrusions. </p>
+<p><strong>SCP-26028:</strong> (Honks her nose) Good luck with that, doc!</p>
+<p><strong>End Log</strong></p>
+<p><em>SCP-26028 seemed disinclined to provide meaningful dialogue and was returned to tracking and monitoring status post-interview.</em></p>
+<h3>Addendum 2:</h3>
+<p><em>Experiment Log 26028-Epsilon</em></p>
+<p><strong>Experiment E-26028-01: Standard lock mechanisms</strong>
+<em>Objective: To test whether SCP-26028 can bypass conventional locks.</em>
+<strong>Procedure:</strong> A habitat with standard locking doors was established.
+<strong>Result:</strong> SCP-26028 entered without apparent difficulty. All food consumed.</p>
+<p><strong>Experiment E-26028-02: Electronic security systems</strong>
+<em>Objective: To test SCP-26028's interaction with advanced electronic security.</em>
+<strong>Procedure:</strong> A habitat with high-end electronic security was established.
+<strong>Result:</strong> Electronic systems failed to detect SCP-26028. SCP-26028 successfully consumed all available food items within.</p>
+<p><strong>Experiment E-26028-03: Reinforced containment chamber</strong>
+<em>Objective: To test if reinforced structures may deter SCP-26028.</em>
+<strong>Procedure:</strong> A containment chamber with reinforced steel walls was prepared, stocked with food items.
+<strong>Result:</strong> SCP-26028 appeared inside the chamber without any signs of forced entry. All items were consumed.</p>
+<h3>Addendum 3:</h3>
+<p><em>Interview Log 26028-B</em></p>
+<p><em>The following interview was conducted to understand the cognitive abilities and motivations of SCP-26028 better. Dr. Harris attempted a more nuanced approach to communication by offering a ration of food items to the entity.</em></p>
+<p>[Data Expunged: For full interview content, Level 4 security clearance is required.]</p>
+<p><strong>Dr. Harris:</strong> [DATA EXPUNGED]</p>
+<p><strong>SCP-26028:</strong> [DATA EXPUNGED] But hey, watching everyone giggle makes it all worth it. It's about the joy, doc, the joy!</p>
+<p><strong>Dr. Harris:</strong> Your actions have far-reaching effects, not just joy. We need to find a way to...</p>
+<p><strong>SCP-26028:</strong> (Interrupting while munching on a sandwich) Find a way to what? Get me to stop? But I'm having so much fun! And I'm never full, you know? </p>
+<p><em>The interview proceeds but provides no further insight into the containment or origins of SCP-26028. It is clear that conventional human reasoning does not apply to this entity.</em></p></div>
