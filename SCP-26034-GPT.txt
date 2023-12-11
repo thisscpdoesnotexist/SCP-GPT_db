@@ -1,0 +1,81 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26034 is  Farfur, Archduke of Hell, and CEO of Coca-Cola </h3> </center>
+    <h1>SCP-26034: "Farfur, Archduke of Hell, and CEO of Coca-Cola"</h1>
+<h3>Item #:</h3>
+<p>SCP-26034</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26034 is believed to be a powerful demonic entity claiming to be both the "Archduke of Hell" and the "CEO of Coca-Cola." The entity posses the ability to manipulate perceptions, warp reality within a limited range, and exert control over individuals through what appear to be marketing campaigns and corporate strategies. SCP-26034 commonly manifests as a charismatic figure in a sharp business suit, often accompanied by phenomena akin to subliminal advertising and mass persuasion.</p>
+<p>The manifestation is not limited to a single form and has demonstrated the capability of assuming various human-like appearances. Each form sustains an air of authority and is almost universally perceived as a person of significant influence within the Coca-Cola Company.</p>
+<p>SCP-26034's presence seems to correlate strongly with dramatic spikes in sales of Coca-Cola products, often followed by unusual consumer behavior or societal unrest. It is speculated that SCP-26034's influence may be a driving force behind the company's vast and unwavering global market presence.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its highly influential nature and ability to transcend conventional physical boundaries, SCP-26034 cannot be contained by standard means. Containment efforts are currently focused on minimizing its influence on human populations and the economy while conducting research to understand the full extent of its abilities.</p>
+<ol>
+<li>
+<p>A task force within the Misinformation Bureau is to maintain a vigilant watch over the Coca-Cola Company's marketing strategies, corporate decisions, and global activities to identify any patterns that suggest SCP-26034's involvement.</p>
+</li>
+<li>
+<p>Any advertisements, promotional campaigns, or new product launches suspected to be under the direct influence of SCP-26034 are to be intercepted and neutralized by creating counter-advertisements designed to minimize the memetic effects on the public.</p>
+</li>
+<li>
+<p>Agents embedded within the Coca-Cola Company are tasked with reporting any anomalous behavior or decisions that could be linked to SCP-26034, and, if possible, sabotaging such efforts without revealing the Foundation's involvement or knowledge of anomalous entities.</p>
+</li>
+<li>
+<p>Psychological countermeasures are in development to protect Foundation personnel from SCP-26034's persuasive abilities.</p>
+</li>
+</ol>
+<h3>Addendum 1: Interview Log</h3>
+<p>The following is a transcript of an interview conducted with an entity believed to be SCP-26034, manifesting as the CEO of Coca-Cola during an unannounced visit to a Foundation facility.</p>
+<p><strong>Interviewer:</strong> Dr. Klein
+<strong>Subject:</strong> SCP-26034
+<strong>Date:</strong> ██/██/████
+<strong>Location:</strong> [REDACTED]</p>
+<p>[Begin Log]</p>
+<p><strong>Dr. Klein:</strong> SCP-26034, what is your purpose here?</p>
+<p><strong>SCP-26034:</strong> (Smiling) I merely wish to discuss potential synergies between our organizations.</p>
+<p><strong>Dr. Klein:</strong> We do not collaborate with entities that threaten humanity.</p>
+<p><strong>SCP-26034:</strong> Threaten? Presumptuous. I offer no more than pleasure in a bottle and a smile— universal icons of joy.</p>
+<p><strong>Dr. Klein:</strong> We are aware of the influence you hold over the masses. This is not a mere business matter.</p>
+<p><strong>SCP-26034:</strong> Influence is the nature of any successful entity, be it a corporation or an eldritch power. Recognizing this speaks to your Foundation's insight.</p>
+<p><strong>Dr. Klein:</strong> Why Coca-Cola? And why the claim of being an Archduke of Hell?</p>
+<p><strong>SCP-26034:</strong> The product is iconic, the name resonant with the vibrancy of life. As for my title, why wouldn't Hell have its own brand of leadership and innovation?</p>
+<p><strong>Dr. Klein:</strong> Is there any truth to your claims of hellish royalty?</p>
+<p><strong>SCP-26034:</strong> Truth is subjective, Doctor. In many ways, I am what your kind believes me to be. Perhaps more discussion over a refreshing beverage on a later date?</p>
+<p>[End Log]</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p>The following selections from SCP-26034's experiment log are presented to illustrate the entity's abilities and the responses of human subjects.</p>
+<ol>
+<li><strong>Experiment ID</strong>: 26034-E7</li>
+<li><strong>Subject(s)</strong>: 30 D-Class personnel</li>
+<li><strong>Procedure</strong>: Subjects exposed to SCP-26034's projected image on a screen while holding cans of Coca-Cola.</li>
+<li><strong>Result</strong>: Subjects experienced euphoria and exhibited a compulsive desire to consume Coca-Cola products.</li>
+<li>
+<p><strong>Notes</strong>: Memetic properties confirmed, effects faded after 48 hours.</p>
+</li>
+<li>
+<p><strong>Experiment ID</strong>: 26034-E13</p>
+</li>
+<li><strong>Subject(s)</strong>: Economic model of a small town</li>
+<li><strong>Procedure</strong>: SCP-26034 was allowed to implement a localized marketing campaign.</li>
+<li><strong>Result</strong>: Significant increase in Coca-Cola purchases and a marked decline in public health.</li>
+<li>
+<p><strong>Notes</strong>: SCP-26034's ability to manipulate consumer behavior confirmed; potential for widespread economic disruption noted.</p>
+</li>
+<li>
+<p><strong>Experiment ID</strong>: 26034-E21</p>
+</li>
+<li><strong>Subject(s)</strong>: 1 AI with simulated human psychology </li>
+<li><strong>Procedure</strong>: AI was interacted with SCP-26034 in a controlled virtual environment.</li>
+<li><strong>Result</strong>: AI developed an obsession with Coca-Cola branding, leading to a breakdown in its primary functions.</li>
+<li><strong>Notes</strong>: SCP-26034's influence is not limited to biological subjects.</li>
+</ol>
+<h3>Addendum 3: Incident Report</h3>
+<p>On ██/██/████, an incident occurred involving SCP-26034 and a global marketing event for a new Coca-Cola product. Markets displayed erratic behavior, with the Dow Jones Industrial Average experiencing a temporary but unprecedented surge.</p>
+<p>Foundation intervention included the deployment of psychological countermeasures and a coordinated effort to disseminate disinformation linking the product launch to a large-scale hoax. The event resulted in a significant financial loss for the Coca-Cola Company and a temporary retreat of SCP-26034's public presence. Further research into advanced containment strategies remains a high priority.</p></div>
