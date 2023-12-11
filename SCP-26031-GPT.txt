@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26031 is  an impetuous frog </h3> </center>
+    <p>```markdown</p>
+<h3>Item #:</h3>
+<p>SCP-26031</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26031 refers to an anomalous species of frog, <em>Rana impetuosus</em>, which exhibits behavior and abilities that vastly distinguish it from typical members of the family Ranidae. SCP-26031 specimens appear to be similar to <em>Rana temporaria</em>, the European common frog, but are characterized by a vibrant, chameleonic skin that can change color and pattern to an extraordinary degree, enabling highly advanced camouflage.</p>
+<p>SCP-26031 exhibits an unusual level of intelligence, comparable to that of higher mammals, and are able to understand and predict human behavior to a certain extent. However, SCP-26031's most notable feature is its ability to induce intense feelings of impulsivity in humans and other animals within a radius of approximately 100 meters. The affected subjects demonstrate reduced levels of self-control and exhibit reckless behavior, which can result in self-harm or harm to others if not managed appropriately. The mechanism of this effect is not yet understood.</p>
+<p>Specimens of SCP-26031 can reproduce at an alarming rate, with a single pair potentially spawning hundreds of offspring within a single breeding season, further escalating their containment difficulty. Due to the high potential for widespread disruption and danger posed by SCP-26031, it has been classified as Keter.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26031 specimens are to be contained in a hermetically sealed bio-containment chamber, specifically designed to negate its impulsive influence, within Site-██. The chamber walls are to be coated with a non-reactive, non-conductive material to prevent any of SCP-26031's anomalous properties from affecting personnel outside the containment area.</p>
+<p>Personnel entering the containment area must wear specialized psychic dampening helmets, designed to inhibit the influence of SCP-26031, and should only do so for mandatory research purposes or for maintenance.</p>
+<p>Due to SCP-26031's rapid reproduction rate, population control is essential. Only a pre-authorized number of specimens may be kept alive at any given time for study. Any excess specimens are to be euthanized and incinerated in a secure on-site facility.</p>
+<p>In the case of a containment breach, Site-██ is to implement Protocol Impetum-Calm, which includes the immediate lockdown of the facility, and deployment of task forces equipped with psychic dampening gear. All affected individuals are to be detained and treated with Class-A amnestics if necessary.</p>
+<h3>Addendum 1: To date, █ containment breaches have occurred involving SCP-26031. Post-breach review and improvements to containment procedures are ongoing.</h3>
+<h3>Addendum 2:</h3>
+<h4>Experiment Log:</h4>
+<p><strong>Experiment 26031-A</strong><br />
+<strong>Purpose:</strong> Evaluating the range of SCP-26031's impulsive effect.<br />
+<strong>Procedure:</strong> A D-class personnel was introduced into the containment area with a psychic dampening helmet, in stages, from 150 to 50 meters from SCP-26031.<br />
+<strong>Results:</strong> The impulsive effect on the subject was observed at distances of 100 meters and below. At 75 meters, the subject began exhibiting increasingly impulsive behavior.<br />
+<strong>Conclusion:</strong> SCP-26031's effect has a definite range limit, confirming the current containment procedures are adequate in terms of distance.</p>
+<p><strong>Experiment 26031-B</strong><br />
+<strong>Purpose:</strong> Assessing the effects of sustained exposure to SCP-26031.<br />
+<strong>Procedure:</strong> A group of D-class personnel were exposed to SCP-26031 for varying durations, from 1 to 4 hours.<br />
+<strong>Results:</strong> Subjects exposed for longer than 2 hours showed significantly increased impulsivity, which did not subside for up to 48 hours after exposure.<br />
+<strong>Conclusion:</strong> Limit exposure to SCP-26031 to under 2 hours to prevent long-lasting effects.</p>
+<h3>Addendum 3:</h3>
+<h4>Interview Log:</h4>
+<p><strong>Interview Subject:</strong> Dr. █████, lead researcher on SCP-26031<br />
+<strong>Interviewer:</strong> Agent ████<br />
+<strong><Begin Log></strong></p>
+<p><strong>Agent ████:</strong> Dr. █████, can you summarize the current understanding of SCP-26031's anomalous properties?</p>
+<p><strong>Dr. █████:</strong> Certainly. SCP-26031 is, quite frankly, an unprecedented entity in herpetology. Their ability to induce impulsivity in others is a mental hazard we have yet to fully understand. Though we've had some progress in understanding their behavior, their intelligence level poses a significant challenge in containment.</p>
+<p><strong>Agent ████:</strong> How intelligent are we talking about?</p>
+<p><strong>Dr. █████:</strong> They have demonstrated problem-solving abilities and even understand simple commands, although whether this is mimicry or genuine comprehension is still under investigation.</p>
+<p><strong>Agent ████:</strong> And the containment breaches?</p>
+<p><strong>Dr. █████:</strong> We've become more adept at predicting and containing them, but SCP-26031 continues to exploit even the smallest oversights. They are escape artists by nature, which requires us to constantly adapt our methods.</p>
+<p><strong>Agent ████:</strong> Thank you, Doctor. Your insights are invaluable.</p>
+<p><strong><End Log></strong></p>
+<p>Please note that all further interactions with SCP-26031 are to be logged and reviewed by the Site-██ Director.</p>
+<p>```</p></div>
