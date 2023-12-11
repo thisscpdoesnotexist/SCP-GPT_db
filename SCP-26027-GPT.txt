@@ -1,0 +1,61 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26027 is  the fact that time passes faster in a shower  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26027</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26027 is a phenomenal, non-tangible anomaly affecting standard perception and measurement of time within the confines of residential and commercial showering facilities. The effect is manifested when individuals (hereby referred to as subjects) engage in the act of showering. Subjects consistently report and demonstrate through various tests that time within the influence of SCP-26027 accelerates at an indeterminate rate, disparate from the normal flow of time outside the affected area. </p>
+<p>The degree of acceleration appears to vary but has not been conclusively linked to any specific factors such as the subject's age, the water's temperature, or the geographical location of the shower. It is important to note that the time dilation effect of SCP-26027 is perceptual and has not been observed to have an impact on actual chronological progression, as measured by synchronized timekeeping devices inside and outside of the shower facilities.</p>
+<p>Initial reports of SCP-26027 surfaced from multiple online forums discussing the odd sensation of temporal distortion during shower activities. After corroborating these anecdotes with controlled experiments, the Foundation's research teams confirmed the existence of the anomaly.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26027's intangible nature and widespread occurrence, containment is currently focused on obfuscation, information suppression, and ongoing research. Any online mention or discussion of time distortion phenomena related to showering is to be monitored and removed under Procedure 440-Eta ("Cleansing Waters"). Individuals with substantial exposure to SCP-26027 or those showing advanced awareness of the anomaly are to be administered Class-B amnestics.</p>
+<p>Standard temporal anomaly containment suites (TACS) have been installed in several Foundation facilities for the purpose of studying SCP-26027. These TACS are equipped with state-of-the-art chronometric sensors and are staffed by personnel trained in temporal anomaly protocols. Subjects undergoing experimentation with SCP-26027 are to be selected from D-Class personnel, with appropriate ethical oversight observed.</p>
+<h3>Addendum 1: Experiment Log 26027</h3>
+<p><strong>Experiment 26027-E-001</strong><br />
+<strong>Subject:</strong> D-55732<br />
+<strong>Procedure:</strong> Subject instructed to take a standard 10-minute shower. Chronometric sensors placed inside and outside the shower, synchronized prior to the experiment. Subject’s perceived time was logged using a verbal countdown.<br />
+<strong>Results:</strong> Subject reported total shower time to be approximately 25 minutes, whereas chronometric sensors confirmed 10 minutes elapsed. Subject expressed confusion and mild distress at the discrepancy.<br />
+<strong>Notes:</strong> Introductory test confirming SCP-26027’s baseline effect.</p>
+<p><strong>Experiment 26027-E-005</strong><br />
+<strong>Subject:</strong> D-55738<br />
+<strong>Procedure:</strong> Subject showered with water temperature set to cold (10°C).<br />
+<strong>Results:</strong> Subject insisted they had been showering for over 45 minutes, yet sensors documented 10 minutes of elapsed time. Subject displayed signs of hypothermia post-experiment.<br />
+<strong>Notes:</strong> Temperature does not seem to mitigate the perception of time dilation.</p>
+<p><strong>Experiment 26027-E-010</strong><br />
+<strong>Subject:</strong> D-55745<br />
+<strong>Procedure:</strong> Subject showered while listening to music played at a measured pace (60 beats per minute).<br />
+<strong>Results:</strong> Subject’s perception of time was skewed, reporting 30 minutes of perceived time; sensors showed 10 minutes. Subject noted the music appeared to slow down during the shower.<br />
+<strong>Notes:</strong> Auditory stimuli within the shower are also affected by SCP-26027.</p>
+<h3>Addendum 2: Interview Log 26027-IL-013</h3>
+<p><strong>Interviewer:</strong> Dr. Harlan Krieg<br />
+<strong>Interviewed:</strong> D-55753<br />
+<strong><Begin Log></strong><br />
+<strong>Dr. Krieg:</strong> Can you describe your last session with SCP-26027?<br />
+<strong>D-55753:</strong> Yeah, it was weird. I jumped in for what I thought was gonna be quick.<br />
+<strong>Dr. Krieg:</strong> And did it feel “quick” to you?<br />
+<strong>D-55753:</strong> Not at all, Doc. I swear I was in there for... I don’t know, at least half an hour? My skin was all pruny when I got out. But they tell me it was only ten minutes real time.<br />
+<strong>Dr. Krieg:</strong> Did you notice anything unusual during the experiment? Sounds, visuals, sensations?<br />
+<strong>D-55753:</strong> The water felt normal, but the sound was off. The usual noise the showerhead makes, you know? It was like it was happening somewhere else, like distant. And it kept slowing down, getting deeper. Gave me the creeps.<br />
+<strong>Dr. Krieg:</strong> Has this experience affected your perception of time post-exposure to SCP-26027?<br />
+<strong>D-55753:</strong> I... I don’t think so. But now every time I'm about to take a shower, I hesitate. Like, what if I’m stuck in there forever in my head, you know? Just thinking about it messes me up.<br />
+<strong>Dr. Krieg:</strong> Thank you for your input. Your experience is invaluable to our understanding of SCP-26027.<br />
+<strong>D-55753:</strong> Yeah, no problem, Doc. Just make sure I get a normal shower next time, alright?<br />
+<strong><End Log></strong></p>
+<h3>Addendum 3: Memorandum 26027-M-017</h3>
+<p><strong>To:</strong> Site Director Alaric Voss<br />
+<strong>From:</strong> Dr. Harlan Krieg, Lead Researcher on SCP-26027<br />
+<strong>Subject:</strong> Urgent need for expanded research parameters</p>
+<p>Site Director Voss,</p>
+<p>I am writing to express my concern regarding the potential escalation of SCP-26027. While we initially categorized the phenomenon as a simple perceptual anomaly, recent events suggest that its effects may be deepening. Our latest subjects have reported increasingly severe episodes of temporal distortion, to the point where prolonged psychological aftereffects are evident.</p>
+<p>Furthermore, we have ongoing incidents of mundane timekeeping devices malfunctioning only within affected shower spaces, despite having no electronic components (e.g., mechanical clocks). This indicates a potential shift from a purely psychological to a partially physical manifestation of SCP-26027.</p>
+<p>It is my recommendation that we elevate the priority of Project Tempus Roridum, aiming to establish a more comprehensive understanding of SCP-26027. Implementing a thorough analysis of its vector mechanism and potential for reality-altering influence is paramount.</p>
+<p>Your prompt attention to this matter is greatly appreciated.</p>
+<p>Sincerely,
+Dr. Harlan Krieg</p></div>
