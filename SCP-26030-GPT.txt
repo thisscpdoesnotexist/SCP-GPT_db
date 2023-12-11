@@ -1,0 +1,48 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26030 is  the kazoo of war </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26030</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26030 is to be kept in a soundproof, high-security lockbox at Site-49 at all times. No personnel are to interact with SCP-26030 without Level 4 clearance and the presence of at least two members of MTF Psi-7 ("Home Improvers") to ensure containment protocols are adhered to in all situations.</p>
+<p>Any testing must be pre-approved by no fewer than two (2) Level 4 research personnel who are not currently involved in SCP-26030 experimentation. During testing, the area must be fully evacuated except for D-class personnel directly involved in the test and remote monitoring conducted from a secure, shielded control room.</p>
+<p>In the event of an unintended activation of SCP-26030, Site-49 is to enact Protocol Xavier-3, which includes immediate lockdown of the affected area, deployment of sound-canceling countermeasures, and dispatch of armed response teams equipped with noise-cancelling helmets and tranquilizer weapons to subdue affected individuals.</p>
+<h3>Description:</h3>
+<p>SCP-26030 is an orchestral-quality kazoo, approximately 16 cm in length, made of an unknown metallic substance with high durability. Its surface is engraved with intricate patterns that upon closer inspection, seem to depict various historical battles.</p>
+<p>When SCP-26030 is played, individuals within auditory range are overcome with extreme aggression and an overwhelming impulse for conflict. Those affected exhibit enhanced physical strength and a notable reduction in response to pain or fear. Analysis of the SCP-26030's effects includes increased adrenaline production, heightened endorphin levels, and altered brain wave patterns associated with rage and violence.</p>
+<p>Affected individuals, classified as SCP-26030-1, will attempt to wage a 'battle', mimicking historical warfare tactics inexplicably known to them, regardless of their previous knowledge or background. SCP-26030-1 instances retain a semblance of organization, forming ranks and using any available objects as makeshift weapons or tools for creating fortifications. Effects last for as long as the sound can be heard and for a period of up to six hours after cessation of SCP-26030's use.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-26030 was recovered in ██████, █████ after a local music festival descended into a large-scale riot without an apparent cause. Foundation agents embedded in local law enforcement were dispatched to contain the situation. SCP-26030 was located after cessation of the conflict and all witnesses were administered Class-A amnestics.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26030-E-01:</h4>
+<p><strong>Objective:</strong> Test the effective auditory range of SCP-26030.</p>
+<p><strong>Procedure:</strong> Play SCP-26030 in an open field with D-class personnel positioned at increasing distances from the sound source. Document the maximum range individuals are affected.</p>
+<p><strong>Results:</strong> Maximum effective range documented at ~300 meters. </p>
+<h4>Experiment 26030-E-02:</h4>
+<p><strong>Objective:</strong> Determine if SCP-26030 affects individuals with known hearing impairments.</p>
+<p><strong>Procedure:</strong> A group of D-class personnel with documented deafness was exposed to SCP-26030's activation.</p>
+<p><strong>Results:</strong> No effect was recorded on the D-class subjects. </p>
+<h4>Experiment 26030-E-03:</h4>
+<p><strong>Objective:</strong> Observe the duration of aggressive behavior post exposure.</p>
+<p><strong>Procedure:</strong> Expose D-class personnel to SCP-26030 for a continuous 5-minute period, then remove the sound source and monitor behavior.</p>
+<p><strong>Results:</strong> Aggressive behavior maintained for 6 hours post-exposure before subjects returned to baseline behavior.</p>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interview 26030-I-01</h4>
+<p><strong>Interviewer:</strong> Dr. Harper</p>
+<p><strong>Interviewee:</strong> D-class subject D-8422, post-exposure</p>
+<p><strong><Begin Log></strong></p>
+<p>Dr. Harper: "Can you describe what you felt when you heard the kazoo?"</p>
+<p>D-8422: "It was... weird, y'know? Like, suddenly nothing else mattered except fighting. All I could think about was taking everyone down, like I was in some old-timey battle."</p>
+<p>Dr. Harper: "Did you recognize any of the tactics or formations used during this time?"</p>
+<p>D-8422: "Nah, I've got no clue about any of that stuff. But while it was happening, it was like I knew exactly what to do. Scary stuff."</p>
+<p>Dr. Harper: "Interesting. And have you any recollection of these feelings now?"</p>
+<p>D-8422: "Bits and pieces. It's all a bit foggy, but I remember that ... urge. Makes me not want to ever hear that damn kazoo again."</p>
+<p><strong><End Log></strong></p>
+<p><em>Note: Further investigation into SCP-26030's ability to impart historical military knowledge is ongoing.</em></p></div>
