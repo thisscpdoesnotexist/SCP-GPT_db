@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26033 is  a regeneratively immortal woman who has been alive since before the paleolithic revolution </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26033</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26033 refers to an apparently regeneratively immortal woman who claims to have been alive since before the Paleolithic revolution. She appears to be physiologically in her mid-thirties, with no signs of aging or deterioration despite her presumed age of over 10,000 years. SCP-26033 has an extensive understanding of extinct languages and historical events that has been confirmed through various means of historical cross-referencing.</p>
+<p>SCP-26033's regenerative ability is extraordinary: she is capable of recovering from injuries that would be fatal to a normal human, including severe trauma, blood loss, and even organ damage. Regeneration times vary based on the severity of the injuries, from minutes to several hours. No upper limit to her regenerative capabilities has been discovered. SCP-26033 does require sustenance, but she can enter a state of hibernation if deprived of food or water, during which her metabolic processes slow to a crawl until sufficient resources are available.</p>
+<p>Psychological evaluations have noted that SCP-26033 exhibits signs of extreme psychological fatigue consistent with extensive temporal dislocation and culture shock. However, she appears to have developed coping mechanisms that allow her to adapt to changing social and technological environments with relative ease.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26033 is to be contained in a standard humanoid anomaly containment suite at Site-17. The suite should be furnished with amenities typical of a comfortable living space, considering SCP-26033's longevity and cooperation with the Foundation.</p>
+<p>Interaction with SCP-26033 is to occur only with the approval of at least two Level 4 research personnel. All staff are to undergo extensive background checks and psychological evaluations before approval to reduce the likelihood of SCP-26033 manipulating them based on historical or emotional rapport.</p>
+<p>Interviews with SCP-26033 should be conducted as part of her psychological care and to continue valuable historical documentation. Language experts and historians are to be present during such interviews to record potential insights into human history.</p>
+<p>SCP-26033 is allowed access to a secure garden area under the surveillance of security personnel for no more than two hours daily for the purpose of physical exercise and psychological well-being.</p>
+<p>In the event of a containment breach, tranquilizer darts have proven effective in subduing SCP-26033. Recapture procedures must prioritize SCP-26033's safety due to her potential value as a historical informant.</p>
+<h3>Addendum 1:</h3>
+<p><em>Historical Verification</em>: SCP-26033 has provided information leading to the discovery of several archaeological sites that predate known civilizations. Her intimate knowledge of these locations has proven invaluable, aiding the humanity's understanding of prehistoric cultures and societies.</p>
+<h3>Addendum 2:</h3>
+<p><em>Ethics Committee Review</em>: Ongoing discussions regarding the implications of SCP-26033's immortality on her rights as a sentient being continue. Issues under review include the ethical treatment of oscillations between long periods of confinement and the potential exploitation of her historical knowledge.</p>
+<h3>Addendum 3:</h3>
+<p><em>Experiment Log</em>: A series of experiments was conducted to ascertain the limits of SCP-26033's regenerative capabilities:</p>
+<ul>
+<li>
+<p><strong>Experiment 1</strong>: Exposure to extreme cold. After six hours at -30°C, SCP-26033 entered a hibernation state. Upon rewarming, she fully recovered in approximately two hours.</p>
+</li>
+<li>
+<p><strong>Experiment 2</strong>: Application of a 3 cm laceration to the forearm. Complete regeneration occurred in 47 minutes.</p>
+</li>
+<li>
+<p><strong>Experiment 3</strong>: Induction of acute radiation syndrome by exposure to a high dose of ionizing radiation. SCP-26033 became critically ill but recovered fully within 72 hours, showing no lingering effects of radiation.</p>
+</li>
+</ul>
+<p><em>Note</em>: All experiments were conducted with SCP-26033’s informed consent.</p>
+<h3>Addendum 4:</h3>
+<p><em>Interview Log</em>: An extensive interview was conducted by Dr. Emily Khan, focusing on SCP-26033's personal historical accounts and psychological state.</p>
+<p><em>Excerpt from the Transcript</em>:</p>
+<p>Dr. Khan: "How do you cope with the passage of so much time?"</p>
+<p>SCP-26033: "You come to see the flow of time more as a river than a path. You learn to swim with the current, to embrace change because it's the only thing that's truly constant. Do I mourn those I've lost? Of course. But life, for me, isn't a series of milestones—it's an enduring landscape painting with each brush stroke sometimes adding beauty, and sometimes erasing what was there before."</p>
+<h3>Addendum 5:</h3>
+<p><em>Interview</em>: An in-depth psychological assessment conducted by Dr. Richard Gears has been attached in a separate document, detailing the coping mechanisms and resilience exhibited by SCP-26033. The assessment emphasizes the importance of ongoing mental health support and monitoring for signs of psychological deterioration.</p>
+<h3>Addendum 6:</h3>
+<p><em>Research Note</em>: SCP-26033 has tentatively agreed to cooperate with the Foundation's geneticists to study her regenerative abilities. It is hoped that her unique biology may offer insights into the treatment of various human diseases and possibly the secrets of biological immortality. This research is currently pending Ethics Committee approval.</p></div>
