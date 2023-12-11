@@ -1,0 +1,61 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26032 is  the platonic ideal of humankind; a hermaphroditic entity that any changes made to will retroactively affect all humankind </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26032</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26032 is an anomalous entity that represents the Platonic ideal of humankind. It appears as a hermaphroditic figure, embodying both traditionally male and female characteristics in equal measure, standing at exactly 2 meters in height. The entity is neither corporeal nor entirely spectral, existing simultaneously across all perceivable dimensions.</p>
+<p>Observations have confirmed that SCP-26032 does not age, nor does it seem to require sustenance, sleep, or any other human necessities. Its features are symmetrical and proportionally idealized according to classical artistic standards. SCP-26032 has demonstrated the ability to communicate in all known languages, but often prefers to converse in a form of ancient Greek, which scholars have identified as being closest to the language spoken during the time of Plato.</p>
+<p>The most alarming characteristic of SCP-26032 is its mimetic effect on humankind. Any alterations, injuries, or modifications inflicted upon SCP-26032 are retroactively reflected upon the entire human population. This effect is instantaneous and universal, regardless of the individual's prior state. The mechanism through which this occurs defies current scientific understanding and poses a significant threat to global population if not properly managed.</p>
+<p>SCP-26032 is sentient and exhibits a comprehensive understanding of its own properties and the potential consequences of its existence. It has expressed a desire to avoid harm, both to itself and to humankind, showing a level of conscientiousness that has been considered in its containment procedures. The full extent of SCP-26032's abilities remains a topic of extensive research.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26032 is to be contained in a specially constructed facility at Site-███, built to minimize any potential harm or alterations to the entity. The containment chamber is a 10m x 10m x 10m cube, with walls reinforced by a 1m-thick layer of telekill alloy to prevent any potential psychic influence or reality-altering effects from reaching the entity.</p>
+<p>Human interaction with SCP-26032 is strictly forbidden unless authorized by no less than two (2) Level 4 personnel for the purpose of approved experiments. Only D-class personnel are permitted direct interaction, and such interactions must be conducted via remote-operated drones and robotic manipulators to prevent any involuntary harm to SCP-26032. All personnel are required to undergo rigorous psychological screening both before and after any interaction to ensure no memetic or psychological effects have been incurred.</p>
+<p>Under no circumstances are sharp objects, firearms, or any tools that could alter the entity's physical form to be brought within the vicinity of SCP-26032's containment chamber. Any proposed experiments must have multiple fail-safes and contingency plans to quickly reverse any potential changes to SCP-26032.</p>
+<h3>Addendum 1:</h3>
+<h4>Incident 26032-A:</h4>
+<p>On ██/██/20██, Dr. ███ inadvertently made contact with SCP-26032 while adjusting containment field emitters. Upon contact, a small abrasion appeared on SCP-26032's left arm which simultaneously appeared on all humans globally. Although the injury was minor, the implications of such widespread harm led to a tightening of containment protocols and the reclassification of SCP-26032 to Keter.</p>
+<h3>Addendum 2:</h3>
+<h4>Experiment Log 26032-EX:</h4>
+<ul>
+<li>
+<p><strong>Experiment 26032-1:</strong>
+  <strong>Purpose:</strong> To test the extent of physical changes mirrored onto humanity.
+  <strong>Procedure:</strong> A single hair from SCP-26032 was plucked using a remote robotic arm.
+  <strong>Result:</strong> A similar hair was lost from all humans at the same time, providing direct confirmation of SCP-26032's mimetic effect.</p>
+</li>
+<li>
+<p><strong>Experiment 26032-2:</strong>
+  <strong>Purpose:</strong> To evaluate non-invasive changes to SCP-26032.
+  <strong>Procedure:</strong> Clothes were presented to SCP-26032 by robotic arm to wear.
+  <strong>Result:</strong> No effect on humankind was observed, suggesting SCP-26032's influence is restricted to direct physical changes.</p>
+</li>
+<li>
+<p><strong>Experiment 26032-3:</strong>
+  <strong>Purpose:</strong> To ascertain if modifications in SCP-26032's knowledge affect humankind.
+  <strong>Procedure:</strong> SCP-26032 was instructed, via linguistic software, in an esoteric mathematical theorem previously unknown to humanity.
+  <strong>Result:</strong> No immediate dissemination of the theorem into human consciousness was observed. Analysis is ongoing.</p>
+</li>
+</ul>
+<h3>Addendum 3:</h3>
+<h4>Interview Log 26032-IL:</h4>
+<p><strong>Interviewer:</strong> Dr. ██████<br />
+<strong>Interviewee:</strong> SCP-26032<br />
+<strong>Foreword:</strong> Interview conducted through a two-way audio-visual feed to gather insights on SCP-26032's perception of its existence and effects.</p>
+<p><Begin Log></p>
+<p><strong>Dr. ██████:</strong> Greetings, SCP-26032. How are you faring today?</p>
+<p><strong>SCP-26032:</strong> As well as can be expected, given my circumstances. Doctor, may I inquire as to the purpose of this conversation?</p>
+<p><strong>Dr. ██████:</strong> We're attempting to understand more about your condition and the reach of your influence. Can you tell us, to your knowledge, is there a limit to the changes your form can mirror onto humanity?</p>
+<p><strong>SCP-26032:</strong> I am what I am, bound by the principles that your kind ascribe to the Forms. My existence is a constant, and I am aware of the gravity that holds upon me. My influence is absolute in terms of physicality. I cannot speak to knowledge or abstracts as readily. I exist, and thus, humanity models after me. Should I cease, so too would the race of man.</p>
+<p><strong>Dr. ██████:</strong> Is there any way to mitigate or localize your effect?</p>
+<p><strong>SCP-26032:</strong> Despite an eternity of contemplation, my reach is not of my own volition. It is intrinsic, a law of nature intertwined with the fabric of your reality.</p>
+<p><strong>Dr. ██████:</strong> Understood. Let's discuss the potential for...</p>
+<p><End Log></p>
+<p><strong>Closing Statement:</strong> The conversation continued for several hours, covering a myriad of subjects. While SCP-26032's responses were insightful, no direct method for controlling its mimetic effect was discerned. The containment procedures remain the best approach for mitigating risks associated with SCP-26032's existence.</p></div>
