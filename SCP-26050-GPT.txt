@@ -1,0 +1,55 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26050 is  a chimeric fusion of Margaret Thatcher and Kim Jong Il  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26050</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26050 is an anomalous humanoid entity that appears to be a chimeric fusion of former British Prime Minister Margaret Thatcher and former North Korean leader Kim Jong Il. The entity possesses the physical characteristics of both individuals, with the left side of the body closely resembling Margaret Thatcher and the right side resembling Kim Jong Il. SCP-26050 is capable of fluent speech in both English and Korean, often alternating between the two languages mid-sentence.</p>
+<p>The entity exhibits behavioral traits and mannerisms associated with both historical figures. SCP-26050 has demonstrated advanced knowledge of British and North Korean state affairs, consistent with information possessed by Thatcher and Kim respectively prior to their deaths. Additionally, SCP-26050 occasionally displays cognitive dissonance and internal conflict, particularly when discussing political ideology or historical events.</p>
+<p>SCP-26050 is susceptible to bouts of aggression if presented with ideological challenges or criticisms of either Thatcher's or Kim's policies. Moreover, it exhibits anomalous influences upon those who interact with it, often resulting in temporary belief alignment with Thatcher's conservatism or Kim's juche philosophy. The duration and intensity of this influence vary among subjects.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26050 is to be contained in a standard humanoid containment cell at Site-██. The cell is to be split halfway by a clear, reinforced partition - with furnishings and decorations on each side reflecting the distinct cultural backgrounds of Thatcher and Kim to provide a sense of familiarity and reduce agitation.</p>
+<p>Personal effects, literature, and media from the respective time periods and nations are to be provided, alternating bi-weekly to prevent SCP-26050 from developing a preference for either identity. Communication with SCP-26050 is to be conducted through an intercom system, and all personnel are required to switch between English and Korean to communicate.</p>
+<p>No political discussions are to take place within SCP-26050's presence unless approved for research purposes. Personnel exhibiting signs of ideological influence following interaction with SCP-26050 must undergo cognitive recalibration therapy.</p>
+<p>All interactions with SCP-26050 must be logged and conducted by personnel proficient in both cultural backgrounds and political histories to mitigate the risk of potential manipulation or exacerbation of SCP-26050's bipolar traits.</p>
+<h3>Addendum 1:</h3>
+<p>Incident Log 26050-A - During an unapproved political debate regarding the Falkland Islands and the Juche ideology within SCP-26050's audible range, the subject became highly agitated, resulting in the manifestation of an anomalous auditory phenomenon causing temporary deafness in all individuals within a 10-meter radius. Additional containment measures were implemented to prevent similar occurrences.</p>
+<h3>Addendum 2:</h3>
+<h4>Interview Log 26050-1</h4>
+<p><em>Interviewer: Dr. Kim-Lee, political psychologist</em><br />
+<em>Interviewee: SCP-26050</em></p>
+<p>[Begin Log]</p>
+<p>Dr. Kim-Lee: Good afternoon, SCP-26050. For today's session, we'd like to discuss...</p>
+<p>SCP-26050: (Interrupting) Ah, Dr. Kim-Lee, how delightful. Is this an inquisition on my economic policies, or perhaps on the greatness of self-reliance?</p>
+<p>Dr. Kim-Lee: Let's focus on your experience as a merged entity. Do you identify more with one side than the other?</p>
+<p>SCP-26050: (In English) A strong leader is not swayed by the frivolities of identity. However...</p>
+<p>(The entity pauses, its demeanor shifting noticeably)</p>
+<p>SCP-26050: (In Korean) 강한 지도자는... 불가능한 여건을 이겨낼 수 있다는 것을 검증한다. (Translation: A strong leader... proves to overcome impossible circumstances.)</p>
+<p>Dr. Kim-Lee: Fascinating. Have you retained all memories from both... individuals?</p>
+<p>SCP-26050: Indeed. The triumphs, the battles, the relentless pursuit of what is just and necessary for our nations. They echo within me.</p>
+<p>Dr. Kim-Lee: And the conflicts, the ones that put Thatcher and Kim at odds, how do you reconcile those?</p>
+<p>SCP-26050: (Silence, followed by a low growl) One must navigate the tumultuous waves of power with unwavering resolve. To merge the ironclad will of Thatcher and the invincible philosophy of Kim... (grips the partition) It is a challenge... for another time, doctor.</p>
+<p>[End Log]</p>
+<h3>Addendum 3:</h3>
+<h4>Experiment Log 26050-E</h4>
+<ul>
+<li>
+<p><strong>E-26050-01</strong>: Subject was presented with an economic summit scenario where it was to act as a negotiator. It successfully combined Thatcher's economic policies with Kim's negotiation tactics to propose a uniquely comprehensive plan that, while theoretically sound, was non-implementable due to its paradoxical nature.</p>
+</li>
+<li>
+<p><strong>E-26050-02</strong>: Subject underwent a psychological assessment to determine inherent biases. Results indicated cognitive fluctuation, oscillating between staunch capitalist views and a strict socialist doctrine.</p>
+</li>
+<li>
+<p><strong>E-26050-03</strong>: Subject was exposed to media from the Thatcher era one week and media from the Kim era the following week. SCP-26050 demonstrated equal affinity and nostalgia for both, though it experienced minor ideologically induced stress during transitions.</p>
+</li>
+<li>
+<p><strong>E-26050-04</strong>: Subject was engaged in a controlled debate against two expert political historians, one specialized in United Kingdom's history, and the other in DPRK history. SCP-26050 adeptly defended and debated positions from both Thatcher's and Kim's viewpoints, with occasional lapses into incoherent political tirades combining elements from both sides.</p>
+</li>
+</ul></div>
