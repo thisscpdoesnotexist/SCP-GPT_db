@@ -1,0 +1,58 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26037 is  a population of a few hundred genetically identical women who reproduce through mitosis every few days and have to cull their own population lest they purposelessly overrun the entire world. They have volunteered a portion of their population to serve as D-class personnel. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26037</p>
+<h3>Object Class:</h3>
+<p>Thaumiel</p>
+<h3>Description:</h3>
+<p>SCP-26037 is a population of genetically identical female humanoids, colloquially referred to as "The Daughters of Division." Each individual is physically indistinguishable from the others and demonstrates an advanced mitotic capability, akin to cellular replication, through which they can reproduce asexually every 72 hours. This abnormal reproductive cycle results in the rapid proliferation of their population.</p>
+<p>Despite their anomalous reproduction, SCP-26037 instances possess intelligence, emotions, and social behaviors similar to that of non-anomalous humans. They have developed their own societal norms, which includes the practice of regulated population control to prevent over-expansion and to manage resources sustainably within their community.</p>
+<p>Significantly, SCP-26037 instances have volunteered a portion of their population to serve as D-Class personnel for the SCP Foundation. Their genetic uniformity and shared consciousness have proven invaluable in controlled experiments, especially in scenarios that require a consistent biological variable.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26037 is housed in a dedicated on-site community complex, designed to mirror a typical small town to facilitate a comfortable living environment for the instances. The complex is outfitted with amenities to accommodate SCP-26037's unique needs and is secured by a perimeter to prevent unauthorized access.</p>
+<p>The population of SCP-26037 is to be maintained at a stable count through Foundation-monitored culling, as performed by SCP-26037 instances themselves following their societal laws. A liaison officer is assigned to communicate with the de facto leaders of SCP-26037 to coordinate the voluntary recruitment of D-Class personnel and discuss matters related to their wellbeing.</p>
+<p>Considering SCP-26037's Thaumiel classification and their cooperative relationship with the Foundation, containment measures are to focus primarily on safeguarding their habitat, maintaining population control, and ensuring the ethical treatment of all individuals.</p>
+<h3>Experimental Log:</h3>
+<h4>Experiment #1:</h4>
+<ul>
+<li><strong>Purpose:</strong> To assess the psychological impact of isolation on SCP-26037 instances.</li>
+<li><strong>Procedure:</strong> One individual was isolated in a standard furnished containment chamber for a period of one week without contact with other instances.</li>
+<li><strong>Result:</strong> The test subject exhibited signs of distress and requested communication with another instance of SCP-26037, emphasizing the collective nature of their social dependency.</li>
+</ul>
+<h4>Experiment #2:</h4>
+<ul>
+<li><strong>Purpose:</strong> To determine the physical limits of SCP-26037's mitotic reproduction under stressful conditions.</li>
+<li><strong>Procedure:</strong> An individual was exposed to a controlled environment with limited nutrition and hydration.</li>
+<li><strong>Result:</strong> The instance managed to undergo a single mitotic event before entering a state of hibernation-like dormancy until standard living conditions were restored.</li>
+</ul>
+<h4>Experiment #3:</h4>
+<ul>
+<li><strong>Purpose:</strong> To test the memory retention and transfer between SCP-26037 generations.</li>
+<li><strong>Procedure:</strong> A set of complex tasks and information was taught to a group of SCP-26037. Tthose who learned the tasks were culled before reproduction.</li>
+<li><strong>Result:</strong> The subsequent generation displayed knowledge of the tasks, suggesting a form of genetic memory transfer.</li>
+</ul>
+<h3>Addendum 1:</h3>
+<p>SCP-26037 was discovered in a remote village after reports of inexplicably rapid population growth. Initial containment efforts were met with resistance until communication was established and the instances expressed their understanding of and voluntary compliance with containment for the greater good.</p>
+<h3>Addendum 2:</h3>
+<p>Ethical discussions are ongoing regarding the use of SCP-26037 as D-Class personnel. While their cooperation is invaluable, the Foundation's Ethics Committee has raised concerns about the psychological and existential implications for the instances involved in high-risk experiments and exposure to other SCPs.</p>
+<h3>Addendum 3:</h3>
+<h3>Interview Log SCP-26037-ID3</h3>
+<ul>
+<li><strong>Interviewer:</strong> Dr. Marina Halsey</li>
+<li><strong>Interviewee:</strong> SCP-26037 Instance ID3</li>
+</ul>
+<p><strong>Begin Log</strong></p>
+<p><strong>Dr. Halsey:</strong> Good morning, ID3. How are you feeling today?</p>
+<p><strong>SCP-26037-ID3:</strong> Good morning, Dr. Halsey. We are well, though we share concern for our sisters in D-class duties.</p>
+<p><strong>Dr. Halsey:</strong> Can you elaborate on your concerns?</p>
+<p><strong>SCP-26037-ID3:</strong> It is our collective will to assist in the Foundation's goals. Yet, we fear loss—not of self, but of the shared experiences we may yet contribute to our sisters. When one is culled and assigned to D-class, her future experiences are severed from the whole.</p>
+<p><strong>Dr. Halsey:</strong> I understand. Rest assured, we are taking steps to address the ethical implications of your service.</p>
+<p><strong>SCP-26037-ID3:</strong> We are grateful. It is our hope that our existence may yet serve a higher purpose, beyond mere replication.</p>
+<p><strong>End Log</strong></p>
+<p>Dr. Halsey's notes: SCP-26037's instances show a remarkable level of self-awareness and communal empathy. It is imperative that we continue to consider their individual and collective well-being in our containment and experimental practices.</p></div>
