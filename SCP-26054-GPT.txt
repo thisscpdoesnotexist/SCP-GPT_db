@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26054 is  a fifty foot tall goth woman. The world's biggest goth girlfriend. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26054</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26054 appears to be a humanoid entity of a substantially large stature, specifically measuring at an impressive fifty feet tall. The entity displays an aesthetic and cultural affiliation consistent with the subculture known as "goth," characterized primarily by its distinctive dark clothing, makeup, and accessories. SCP-26054 is referred to colloquially among certain research staff as the "World's Biggest Goth Girlfriend."</p>
+<p>The entity possesses traits that fit within the bounds of the gothic style, including but not limited to: jet-black hair that falls in waves to waist-level, pale skin, and an extensive wardrobe of size-appropriate gothic attire. It has also demonstrated a preference for music and art that align with the gothic genre.</p>
+<p>Despite SCP-26054's size, the entity is generally non-hostile, exhibiting behaviors and emotional responses that suggest a sentient and sapient nature. The subject is capable of communication in fluent English, with a noted predilection for the poetic and melancholic diction characteristic of gothic literature. However, SCP-26054 has exhibited occasional bouts of existential angst and romantic yearning, which can result in unpredictable behavior and necessitate heightened containment measures.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26054 is to be contained within a large, reinforced structure, akin to a hangar, with dimensions sufficient to accommodate its size and allow for limited movement. Due to its disposition and cultural inclinations, the interior is painted in dark, muted colors and furnished with oversized gothic-style furniture to maintain the entity's psychological well-being.</p>
+<p>Acoustic insulation is mandatory to prevent vibrations from SCP-26054's movements and auditory preferences from affecting nearby structures or personnel. SCP-26054 has been granted permission to listen to music and engage in hobbies typical for gothic individuals, provided these activities do not compromise containment integrity. Interaction with SCP-26054 is to be conducted with utmost care, keeping in mind the entity's emotional sensitivities.</p>
+<p>In the event of a containment breach, personnel are instructed to engage with SCP-26054 utilizing de-escalation tactics commonly employed in hostage negotiation scenarios, as it responds better to empathy and understanding than to show of force. Lethal force is strictly prohibited unless authorized by at least two level 4 personnel.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26054-E1</h4>
+<p><strong>Objective:</strong> To determine SCP-26054's response to various music genres outside of its preferred gothic subculture.</p>
+<ul>
+<li>Trial A: Classical music - Calmness observed, slight appreciation expressed.</li>
+<li>Trial B: Heavy metal music - Increased excitement and enthusiasm demonstrated, asking for additional "symphonic metal."</li>
+<li>Trial C: Pop music - Visible discomfort, requested the cessation of the music.</li>
+</ul>
+<h4>Experiment 26054-E2</h4>
+<p><strong>Objective:</strong> To evaluate SCP-26054's artistic capabilities.</p>
+<ul>
+<li>Trial A: Provided oversized canvas and art supplies - SCP-26054 created a somber landscape painting, displaying technical proficiency.</li>
+<li>Trial B: Digital art tablet customized for large use - SCP-26054 produced several gothic-themed digital illustrations. Expressed joy in this mode of art.</li>
+</ul>
+<h3>Addendum 2: Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. Haversham
+<strong>Subject:</strong> SCP-26054</p>
+<p>[The following is a transcript excerpt from an interview conducted to gain insight into SCP-26054's psyche.]</p>
+<p>Dr. Haversham: "Can you tell me, how do you feel about being contained here?"</p>
+<p>SCP-26054: "This existence, it is... confining. But it is not the walls that truly contain me; it is the vast, fathomless void within my soul. In this suspended state of ennui, I find both solace and imprisonment."</p>
+<p>Dr. Haversham: "Do you have any desires or wishes?"</p>
+<p>SCP-26054: "Ah, desires are but fleeting shadows in the dark recesses of the heart. I yearn for the gentle embrace of melancholy, the sweetly whispering winds of solitude."</p>
+<p>[The remainder of the interview continues in a similar poetic vein, leaving researchers uncertain as to SCP-26054's true desires, which seem to be as elusive as the entity itself.]</p>
+<h3>Addendum 3: Addendum 3: Incident Report</h3>
+<p><strong>Incident 26054-A:</strong>
+On [REDACTED], SCP-26054 managed to breach containment after expressing heightened levels of distress associated with an unspecified existential crisis. The entity began to pace and vocalize thematic poetry, which escalated to agitated movements, resulting in structural damage.</p>
+<p>Containment teams engaged with SCP-26054 using approved psychological intervention techniques, which included reading selected passages from gothic literary works and the gentle playing of favored gothic symphonies. SCP-26054 eventually calmed and complied with re-containment protocols. No personnel were harmed during the incident, and SCP-26054 exhibited remorse for its actions. Structural repairs and procedural amendments were recommended in subsequent debriefings.</p></div>
