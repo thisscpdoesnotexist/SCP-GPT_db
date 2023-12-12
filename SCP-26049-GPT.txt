@@ -1,0 +1,65 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26049 is  a tsundere sunder ray ("b-baka, it's not like I disintegrated that thing because I like you or anything!~") </h3> </center>
+    <p>```</p>
+<h3>Item #:</h3>
+<p>SCP-26049</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26049 is an anomalous entity resembling an oversized manta ray (Mobula birostris) with a wingspan of approximately 7 meters. Despite its aquatic species' appearance, SCP-26049 is capable of flight and has been observed maneuvering at high speeds through various environments, including urban areas and enclosed spaces.</p>
+<p>The entity exhibits behavior and vocalizations consistent with the archetype commonly known in Japanese pop culture as "tsundere," characterized by a pattern of alternating between hostile and affectionate demeanors, often in a contradictory or paradoxical manner.</p>
+<p>SCP-26049 possesses the ability to discharge a highly destructive energy beam from its mouth, henceforth referred to as an "Annihilation Ray." Despite its destructive power, SCP-26049 often issues verbal warnings in Japanese prior to using its Annihilation Ray, typically resembling phrases associated with tsundere characters (e.g., "B-baka, I'm only going to warn you this once!"). This energy beam has proven capable of disintegrating matter at the molecular level.</p>
+<p>It has been observed that SCP-26049's aggressive actions may possibly be mitigated by perceived acts of kindness or affection towards it, which can result in a temporary docile state where it refrains from using its Annihilation Ray.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26049's high mobility and destructive capabilities, it is currently contained within a specialized mobile containment unit designed to simulate a deep-sea environment and lined with lead to prevent the passage of its Annihilation Ray. The containment unit is to be kept under constant surveillance, and any signs of aggression from SCP-26049 are to be reported immediately.</p>
+<p>Containment staff are advised to interact with SCP-26049 using a protocol of mixed sternness and compassionate communication, in order to maintain a balance that prevents aggression.</p>
+<p>Direct interaction with SCP-26049 is strictly prohibited unless approved by at least two Level 4 senior researchers, and personnel must engage in a crash course on tsundere behavior to ensure proper communication with SCP-26049.</p>
+<p>In the event of a containment breach, a response team trained in high-speed aerial pursuit and negotiation with SCP-26049 is to be deployed immediately.</p>
+<h3>Addendum 1: Incident Log 26049-A</h3>
+<p>During an incident on [REDACTED], SCP-26049 breached containment following a guard inadvertently expressing admiration towards the entity. SCP-26049's Annihilation Ray was discharged multiple times, resulting in the destruction of Facility Section [REDACTED] and several casualties. The entity was eventually coaxed back into containment after Dr. [REDACTED] successfully engaged it with a mix of disapproval for its actions and subtle compliments concerning its precision in ray deployment.</p>
+<h3>Addendum 2: Experiment Log 26049-B</h3>
+<p>To better understand the limitations and potential for control over SCP-26049's abilities, a series of experiments were authorized and conducted under controlled conditions. A summarized log of key experiments is provided below:</p>
+<ul>
+<li><strong>Experiment 26049-B-1</strong></li>
+<li><strong>Procedure:</strong> A D-Class subject instructed to directly insult SCP-26049.</li>
+<li>
+<p><strong>Result:</strong> Subject immediately disintegrated by Annihilation Ray. SCP-26049 vocalized frustration regarding the subject's manners.</p>
+</li>
+<li>
+<p><strong>Experiment 26049-B-2</strong></p>
+</li>
+<li><strong>Procedure:</strong> A D-Class subject instructed to offer SCP-26049 a genuine compliment.</li>
+<li>
+<p><strong>Result:</strong> SCP-26049 blushed visibly (a phenomenon not previously recorded in manta rays) and refrained from aggressive behavior for approximately 37 minutes.</p>
+</li>
+<li>
+<p><strong>Experiment 26049-B-3</strong></p>
+</li>
+<li><strong>Procedure:</strong> A D-Class subject instructed to ignore SCP-26049 entirely.</li>
+<li><strong>Result:</strong> SCP-26049 displayed signs of agitation followed by a non-lethal, but forceful, bump against the containment unit. Continued ignoring resulted in a low-intensity warning shot from the Annihilation Ray.</li>
+</ul>
+<p>[Additional experiments omitted for brevity.]</p>
+<h3>Addendum 3: Interview Log 26049-C</h3>
+<p><strong>Interviewer:</strong> Dr. [REDACTED]
+<strong>Interviewee:</strong> SCP-26049</p>
+<p>[BEGIN LOG]</p>
+<p><strong>Dr. [REDACTED]:</strong> Good afternoon, SCP-26049. How are you feeling today?</p>
+<p><strong>SCP-26049:</strong> (hesitant) I-I'm fine. Not that it's any of your business, human!</p>
+<p><strong>Dr. [REDACTED]:</strong> Certainly, just conducting a regular check-up. We have noted that you're less volatile when treated in a specific manner. Can you enlighten us on your preferences?</p>
+<p><strong>SCP-26049:</strong> Hmph! I don't need to be handled with kid gloves!</p>
+<p><strong>Dr. [REDACTED]:</strong> I understand. However, we're trying to reach a better understanding. Could you perhaps offer some insight into what makes you react unfavorably to certain interactions?</p>
+<p><strong>SCP-26049:</strong> (muttering) Maybe I just don't like being insulted or ignored! But it's not like I care about what you do to me, understand?</p>
+<p><strong>Dr. [REDACTED]:</strong> Of course. Perhaps we could—</p>
+<p><strong>SCP-26049:</strong> (quickly) It's not like I wouldn't mind a kind word every now and then... not that it matters!</p>
+<p><strong>Dr. [REDACTED]:</strong> Noted. Your well-being is important to us. We'll ensure our staff is more considerate in the future.</p>
+<p><strong>SCP-26049:</strong> I-it's not like your kindness makes any difference to me! Just do as you please!</p>
+<p>[END LOG]</p>
+<p><strong>Note:</strong> Following Interview Log 26049-C, SCP-26049 showed a decrease in violent outbursts, suggesting that a mixed approach of respect and acknowledgment of its feelings, as well as maintaining clear containment protocols, has a calming effect on the entity.
+```</p>
+<p>Please note that while the content above is inspired by the style of SCP Foundation articles, "SCP-26049" is a fictional creation for this prompt and any resemblances to actual SCP entries are purely coincidental.</p></div>
