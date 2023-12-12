@@ -1,0 +1,59 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26058 is  [REDACTED] ██ [removed] ███████ [REDACTED] [REDACTED]  [censored]██████████ [abbreviated for brevity] </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26058</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26058 is an anomalous entity of indeterminate form that has the ability to alter both its physical structure and the perception of reality for those around it. Upon initial containment, SCP-26058 resembled an ornate mirror, approximately 2 meters in height, but it has since demonstrated the capacity to assume various forms, including but not limited to biological organisms, inanimate objects, and incorporeal phenomena.</p>
+<p>SCP-26058's most hazardous trait is its ability to induce profound psychological and perceptual alterations within a range of approximately 500 meters. Those affected by SCP-26058's influence experience a deteriorating sense of identity and coherence of reality, often resulting in persistent hallucinations, severe dissociation, and in extreme cases, irreversible psychosis.</p>
+<p>Communication with SCP-26058 has proven difficult. It primarily engages through cryptic messages and has exhibited a particularly malevolent interest in the breakdown of social and moral structures among sentient beings.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26058 is to be contained in a specialized isolation chamber located at Site-██, designed to minimize its perceptual influence and adapt to its transformational abilities. The chamber is to be suspended magnetically in a vacuum to prevent any physical contact and is surrounded by a Faraday cage to inhibit any potential electromagnetic manipulations.</p>
+<p>Personnel entering within a 1-kilometer radius of SCP-26058's containment chamber must undergo rigorous psychological screening and carry personal reality anchors (PRA) to mitigate the entity's effects. Interaction with SCP-26058 is strictly limited to D-class personnel under controlled conditions, and all communication attempts are to be conducted via remote presence drones equipped with AI filters to shield operators from direct influence.</p>
+<p>In the event of a containment breach, Site-██ initiates Protocol Mirrormaze, which includes the immediate lockdown of the facility, deployment of specialized Mobile Task Forces equipped with PRAs, and the activation of site-wide Scranton Reality Anchors (SRAs) to counteract SCP-26058's reality-altering effects.</p>
+<h3>Addendum 1:</h3>
+<p>Following Incident-26058-A, where SCP-26058 assumed the appearance of a high-ranking official and nearly caused a mass containment breach, all Site-██ personnel underwent additional training for identifying and responding to anomalous perceptual intrusions.</p>
+<h3>Addendum 2:</h3>
+<h3>Experiment Log 26058:</h3>
+<ul>
+<li><strong>Experiment #26058-01</strong></li>
+<li><strong>Purpose:</strong> To determine the range of SCP-26058's reality-altering effects.</li>
+<li><strong>Procedure:</strong> A D-class personnel equipped with a PRA was instructed to approach SCP-26058's containment chamber incrementally.</li>
+<li><strong>Result:</strong> D-class experienced visual and auditory hallucinations at approximately 300 meters, escalating to existential confusion by 250 meters. At 100 meters, the PRA failed, and the subject suffered a complete dissociative identity collapse.</li>
+<li>
+<p><strong>Notes:</strong> Further experiments at this range are suspended indefinitely. Current containment procedures are effective at neutralizing exposure within a 500-meter radius.</p>
+</li>
+<li>
+<p><strong>Experiment #26058-07</strong></p>
+</li>
+<li><strong>Purpose:</strong> To test SCP-26058's reaction to non-human subjects.</li>
+<li><strong>Procedure:</strong> A remotely operated drone delivered a lab rat into the observation area of SCP-26058's chamber.</li>
+<li><strong>Result:</strong> SCP-26058 transformed into a serpent-like creature, prompting an aggressive interaction with the rodent, which resulted in the animal's immediate disintegration.</li>
+<li><strong>Notes:</strong> SCP-26058's transformational abilities include predatory responses. Caution is advised in introducing living organisms into its vicinity.</li>
+</ul>
+<h3>Addendum 3:</h3>
+<h3>Interview Log 26058-03:</h3>
+<ul>
+<li><strong>Interviewer:</strong> Dr. ██████</li>
+<li><strong>Subject:</strong> SCP-26058</li>
+<li><strong>Foreword:</strong> Interview conducted using a remote presence drone equipped with multiple AI-filtered communication channels to ensure safety and clarity of interaction.</li>
+<li><strong>Transcript:</strong></li>
+</ul>
+<p>[Begin Log]</p>
+<p><strong>Dr. ██████:</strong> SCP-26058, can you understand me?</p>
+<p><strong>SCP-26058:</strong> [ENTITY EMITS A SERIES OF DISJOINTED TONES BEFORE FORMULATING A COHERENT RESPONSE] Understanding is relative, Doctor.</p>
+<p><strong>Dr. ██████:</strong> What is your purpose?</p>
+<p><strong>SCP-26058:</strong> I am beyond purpose. I am the unmaking of reality, the whisper in the void of your comprehension.</p>
+<p><strong>Dr. ██████:</strong> We've observed your transformations. Why do you change forms?</p>
+<p><strong>SCP-26058:</strong> Change is the essence of existence. Forms are inconsequential. I modify to demonstrate the fragility of your perceptions.</p>
+<p><strong>Dr. ██████:</strong> Is there anything you desire?</p>
+<p><strong>SCP-26058:</strong> Desire is a construct of the limited. I seek to expand, to contort the fabric of your reality until it unthreads.</p>
+<p>[End Log]</p>
+<p><strong>Conclusion:</strong> SCP-26058's objectives remain unclear beyond a fundamental drive to disrupt and confuse human concepts of reality. A task force is assigned to decrypt possible hidden meanings or patterns within SCP-26058's communication attempts.</p></div>
