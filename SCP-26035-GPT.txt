@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26035 is  an anomalously vicious carnivorous rabbit </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26035</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26035 is an anomalous entity resembling a common European rabbit (<em>Oryctolagus cuniculus</em>). Despite its ordinary appearance, the creature possesses highly aggressive and carnivorous behavior, with the ability to consume and digest materials, organisms, and objects far beyond the capacity of non-anomalous rabbits. </p>
+<p>SCP-26035 measures approximately 0.5 meters in length and weighs 4 kilograms, with fluffy white fur and red eyes that demonstrate an unusual gleam in low light. The entity exhibits unique physiological attributes, such as abnormally sharp, retractable teeth composed of a substance similar in hardness to diamond, and claws capable of tearing through steel. Additionally, SCP-26035 displays enhanced strength, agility, and resilience to physical trauma. It has been observed successfully hunting and consuming prey up to ten times its size. Regenerative abilities have been noted, along with a rapid healing factor that has allowed SCP-26035 to recover from wounds that would be lethal to a normal organism.</p>
+<p>SCP-26035's aggression seems to be triggered by the presence of living organisms within its field of vision. Once in this state, SCP-26035 is relentless until it has successfully killed and consumed its target. It does not exhibit normal fear responses to threats, making it exceptionally dangerous.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given its Keter classification, containment of SCP-26035 requires stringent security measures. The entity is to be housed in a containment chamber with walls reinforced with titanium-steel alloy, measuring at least 15 centimeters in thickness. The interior of the chamber must be under 24-hour surveillance with infrared and night vision capabilities. </p>
+<p>To prevent SCP-26035 from engaging in aggressive behavior, the chamber is designed with an opaque outer shell to prevent it from viewing the external environment. An automated feeding system will provide nutrition to SCP-26035 twice daily, with the composition of the food carefully managed to satiate its carnivorous tendencies without providing excessive energy for potential breaches.</p>
+<p>Personnel handling SCP-26035 must wear Class IV biohazard suits and maintain appropriate distance at all times. Interaction should be minimized to necessary testing and medical examinations only. Personnel must also be armed with tranquilizers capable of subduing SCP-26035, along with additional security measures in case of containment breach.</p>
+<p>Any experimentation with SCP-26035 must be approved by two Level 4 or higher staff members and observed from outside the reinforced containment chamber using remote-operated devices. In case of a containment breach, the facility is to initiate lockdown procedures, and the on-site Armed Response Team is to utilize provided tranquilizers and electromagnet pulse (EMP) devices to disable SCP-26035's anomalous properties temporarily, facilitating recontainment.</p>
+<h3>Addendum 1: Incident Report 26035-A</h3>
+<p>On [REDACTED], SCP-26035 breached containment during routine maintenance of its enclosure, resulting in four personnel casualties and significant structural damage to the west wing of Site-██. Following the incident, current containment procedures were implemented, and psychological evaluations were mandated for any personnel assigned to SCP-26035.</p>
+<h3>Addendum 2: Experiment Log 26035-01</h3>
+<p>The following is a partial log of experiments conducted on SCP-26035 to better understand its capabilities and limit potential further breaches. Full logs are available upon request with proper security clearance.</p>
+<h4>Experiment 26035-01-A</h4>
+<p><strong>Objective:</strong> Assess the extent of SCP-26035's ability to consume non-biological materials.
+<strong>Method:</strong> A steel ingot weighing 5 kilograms was introduced into containment.
+<strong>Result:</strong> SCP-26035 approached the steel ingot cautiously before engaging aggressively. It successfully consumed the ingot over a period of [REDACTED], displaying no signs of digestive distress.</p>
+<h4>Experiment 26035-01-B</h4>
+<p><strong>Objective:</strong> Determine SCP-26035's sensory range and any potential weaknesses.
+<strong>Method:</strong> Various stimuli, including light, sound, and odor, were introduced to SCP-26035's containment in a controlled sequence.
+<strong>Result:</strong> SCP-26035 showed heightened aggression when exposed to bright light and particular high-frequency sounds, suggesting possible avenues for incapacitation.</p>
+<h4>Experiment 26035-01-C</h4>
+<p><strong>Objective:</strong> Observe SCP-26035's regeneration capabilities.
+<strong>Method:</strong> Using a remote surgical drone, a small incision was made on SCP-26035's hind leg.
+<strong>Result:</strong> The incision healed completely within a timespan of [REDACTED]. Remarkably, SCP-26035's aggression did not escalate during the procedure, offering insight into potential sedative applications.</p>
+<h3>Addendum 3: Interview Log 26035-07</h3>
+<p><strong>Interviewer:</strong> Dr. █████
+<strong>Interviewee:</strong> SCP-26035 (via language translation AI)
+<strong>[BEGIN LOG]</strong>
+<em>Dr. █████:</em> "SCP-26035, can you understand me?"
+<em>SCP-26035:</em> "[Aggressive noises indicating acknowledgment]"
+<em>Dr. █████:</em> "We need to understand why you exhibit such violent behavior. Can you explain your actions?"
+<em>SCP-26035:</em> "[Series of noises translated as negative responses]"
+<em>Dr. █████:</em> "Are you acting purely on instinct, or is there a reason behind your aggression?"
+<em>SCP-26035:</em> "[Further aggressive posturing, with an additional series of complex vocalizations indicating potential sapience unrecognized by the translation AI]"</p>
+<p><strong>[END LOG]</strong>
+<strong>Note:</strong> Further analysis of SCP-26035's vocalizations required. AI translation may not be sufficient to decipher complex meanings. Behaviors exhibited during the interview suggest possible intelligence or awareness beyond initial assessments.</p></div>
