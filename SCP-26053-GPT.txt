@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26053 is  [REDACTED] ██ [removed] ███████ [REDACTED] [REDACTED]  [censored]██████████ [abbreviated for brevity] </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26053</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26053 is a multi-dimensional anomalous entity with the ability to alter space-time and physical reality within a variable radius that has been observed to extend up to ██ kilometers. The appearance of SCP-26053 is inconsistent, often observed as a shifting mass of geometric shapes with a predominantly dark hue interspersed with intermittent bursts of bright coloration, suggesting a form of communication or reaction.</p>
+<p>Subjects in proximity to SCP-26053 report auditory and visual hallucinations, severe disorientation, and in many cases, permanent psychological trauma. Prolonged exposure invariably results in the complete disintegration of the subject's cognitive faculties and physical form.</p>
+<p>SCP-26053 has proven itself capable of breaching containment by manipulating physical structures, altering materials, and even influencing personnel behavior through unknown psychic means. The presence of [REDACTED] has been a consistent factor in containment breaches.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26053 is to be contained within a specially designed multi-layered containment chamber at Site-██ that utilises a lexicon of counter-anomalous technology to mitigate its reality-altering properties. The innermost chamber must be constructed from a non-baryonic radiation-absorbing material, hermetically sealed, and is to be suspended within a vacuum chamber to prevent SCP-26053's contact with any conventional matter.</p>
+<p>All personnel assigned to SCP-26053 must undergo rigorous psychological screening, memetic inoculation, and Class VII B cognitohazard training to limit the entity's influence. Interactions with SCP-26053 are to be strictly remote and handled via autonomous drones whenever feasible.</p>
+<p>In the event of a containment breach, an immediate lockdown of Site-██ is to be initiated. MTF-Theta-9 ("Time-Cops") are to be dispatched to recontain SCP-26053 utilizing temporal stasis fields and [REDACTED]-class memetic agents.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Interview Log 26053-A</strong>
+<em>The following is a transcript of an interview conducted by Dr. ██████ with D-8432 after a controlled exposure to SCP-26053.</em></p>
+<p><strong>Dr. ██████:</strong> Please describe your experience upon entering the containment chamber.</p>
+<p><strong>D-8432:</strong> It's... it's like nothing I've ever seen. Shapes, colors, but they're wrong, just wrong. The air felt heavy, like wading through mud.</p>
+<p><strong>Dr. ██████:</strong> Did you experience any communication from the entity?</p>
+<p><strong>D-8432:</strong> I... I don't know if it was talking, but it screamed. No, not screamed. Worse. It made my head buzz. I heard things... secrets... and screams. Everyone screaming, even me.</p>
+<p><strong>Dr. ██████:</strong> Can you recall any specific information conveyed to you?</p>
+<p><strong>D-8432:</strong> No. No, it's slipping away. But it felt like it knew everything. About me. About this place. I don't want to go back there. Please.</p>
+<p><strong>[REDACTED for brevity]</strong></p>
+<h3>Addendum 2:</h3>
+<p><strong>Experiment Log 26053-E</strong>
+A series of trials were conducted with SCP-26053 to determine the extent of its reality-warping capabilities. Selected excerpts are outlined below:</p>
+<ul>
+<li>
+<p><strong>Test 26053-E-01</strong>: Exposure of a standard steel cube (10 cm sides) to SCP-26053. <strong>Result</strong>: The cube underwent a series of transformations ultimately resulting in a Klein bottle structure before vanishing completely.</p>
+</li>
+<li>
+<p><strong>Test 26053-E-02</strong>: Introduction of D-class personnel equipped with [DATA EXPUNGED] to communicate with SCP-26053. <strong>Result</strong>: D-class began speaking an unknown language, exhibiting advanced knowledge in quantum mechanics before expiring from a cerebral hemorrhage.</p>
+</li>
+<li>
+<p><strong>Test 26053-E-12</strong>: Deployment of an AI-driven drone designed to withstand [REDACTED]. The drone was tasked with mapping SCP-26053's influence on local spacetime. <strong>Result</strong>: Drone experienced multiple temporal shifts in its operational timeline, yielding data from both its future and past operational states before cessation of function.</p>
+</li>
+</ul>
+<p>Further testing is currently suspended pending review of SCP-26053's unpredictable and hazardous effects.</p>
+<h3>Addendum 3:</h3>
+<p>A containment breach involving SCP-26053 resulted in Site-██ experiencing multiple non-linear temporal events, including the de-aging of personnel, spontaneous constructions/destructions of site structures, and the creation of [REDACTED] zones where physical laws ceased to apply. Restabilization of the site's temporal flow was achieved after the deployment of experimental chronal-anchor devices and MTF-Theta-9's intervention. Full mission logs are classified Level 4/26053. Future containment procedures are under review to incorporate additional temporal defenses.</p></div>
