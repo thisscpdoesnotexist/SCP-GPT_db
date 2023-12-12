@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26055 is  a fifty foot tall goth woman. The world's biggest goth girlfriend. (She just woke up that big one day) </h3> </center>
+    <p>```markdown</p>
+<h3>Item #:</h3>
+<p>SCP-26055</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26055 appears to be a caucasian female of approximately 25 years of age, standing at an anomalously heightened stature of 15.24 meters (50 feet) tall. Her attire and aesthetic choices are consistent with those found in the "goth" subculture: predominantly black clothing, heavy dark makeup, and various accessories characterized by gothic motifs. Furthermore, SCP-26055 exhibits behaviors and mannerisms that follow the stereotypical "goth" persona, often expressing a fascination with macabre and dark romanticism.</p>
+<p>The anomaly was discovered after SCP-26055 awoke to find herself at her current size, which was a drastic and unexplained increase from her previous, non-anomalous height. It is still unknown what caused this sudden transformation. Reports of SCP-26055's existence quickly grabbed the attention of Foundation agents, who were subsequently dispatched to apprehend and contain the individual.</p>
+<p>SCP-26055 requires sustenance at quantities proportionate to its size, which poses a logistical challenge given the caloric intake needed. However, SCP-26055 is cooperative with Foundation personnel and has agreed to a specific nutritional plan to minimize containment resource expenditures.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26055 is to be contained within a specially designed containment area at Site-77, which has been outfitted to accommodate her size. The containment chamber should measure no less than 60 feet in height to provide ample space. The area is to be kept dimly lit and must include furnishings and decorations stylized to SCP-26055's preferences to encourage psychological well-being and cooperative behavior.</p>
+<p>Personnel assigned to SCP-26055 must have completed sensitivity training on subcultural diversity and express at least a rudimentary understanding of goth culture. Interaction with SCP-26055 is permitted under supervision for the purposes of psychological evaluation and to minimize the risk of stress-related incidents.</p>
+<p>SCP-26055's diet is to be strictly monitored and prepared by onsite nutritional experts to ensure proper sustenance for her size while avoiding unnecessary strain on Foundation resources. Additionally, all waste should be handled according to environmental safety protocols due to the increased volume produced by SCP-26055.</p>
+<p>Should SCP-26055 be required to move for any reason, sedation may be utilized, and transport must be arranged via oversized cargo transport, with early notifications provided to all involved parties to avoid potential breaches of normalcy.</p>
+<h3>Addendum 1: Interview Log</h3>
+<p><strong>Interviewer</strong>: Dr. Hargreaves
+<strong>Interviewee</strong>: SCP-26055</p>
+<p><em><Begin Log></em></p>
+<p><strong>Dr. Hargreaves</strong>: Can you tell us about the day you transformed?</p>
+<p><strong>SCP-26055</strong>: It was... surreal. I went to sleep my normal size. And when I woke up, I was like this. Everything was small. I thought it was a dream.</p>
+<p><strong>Dr. Hargreaves</strong>: How have you been coping since containment?</p>
+<p><strong>SCP-26055</strong>: It’s weird. But the Foundation's been kind. As kind as you can be toward someone you've locked up, anyway. I miss my friends, music… shoes that fit.</p>
+<p><em><End Log></em></p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 26055-A</strong></p>
+<ul>
+<li><strong>Objective</strong>: To determine if SCP-26055's size affects her strength proportionately.</li>
+<li><strong>Procedure</strong>: SCP-26055 was asked to lift various weighted objects, from 50 kg to 1000 kg.</li>
+<li><strong>Result</strong>: SCP-26055 was able to lift items up to 600 kg without evident strain. Notably, this suggests increased strength but not proportional to her size when comparing to baseline human strength-to-size ratios.</li>
+</ul>
+<p><strong>Experiment 26055-B</strong></p>
+<ul>
+<li><strong>Objective</strong>: To assess SCP-26055's reaction to paraphernalia from various subcultures.</li>
+<li><strong>Procedure</strong>: Items associated with goth, punk, emo, and hipster subcultures were presented to SCP-26055.</li>
+<li><strong>Result</strong>: SCP-26055 preferred gothic items and showcased mild interest in punk-related objects, displaying nostalgia. Other items were either ignored or mildly rejected.</li>
+</ul>
+<h3>Addendum 3: Incident Report</h3>
+<p><strong>Date</strong>: <em><Redacted></em></p>
+<p><strong>Incident</strong>: SCP-26055 experienced a momentary emotional breakdown likely resulting from feelings of isolation and containment stress. The subject began to exhibit mild seismic activity due to her thrashing and had to be subdued with a mild sedative for both her safety and that of the Site personnel.</p>
+<p>Following this event, SCP-26055's containment procedures have been updated to include an allowance for supervised outdoor access once a month and increased social interaction with clearance personnel to improve her mental health.</p>
+<p><em>Note: This incident highlights the necessity for continued psychological monitoring to ensure SCP-26055's cooperation and welfare. Emotional stability is critical given the potential for harm a being of her size can inadvertently cause.</em></p>
+<p>```</p></div>
