@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26042 is  the seal of disapproval  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26042</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26042, colloquially known as "The Seal of Disapproval", is an ornately carved ring of uncertain origin, comprised primarily of obsidian and an unidentified, iridescent mineral. The seal depicts a complex, non-repeating pattern that appears to shift when observed indirectly. It measures approximately 3 cm in diameter and is too large to be worn on a typical human finger.</p>
+<p>When pressed onto a surface as one would with a wax seal, SCP-26042 manifests its anomalous effects. Within 24 to 48 hours of application, individuals associated with the marked item or document begin to experience intense psychological and cognitive disturbances, theme-reported as a profound sense of disapproval manifesting without any discernible source. This effect appears to grow stronger with the individual's emotional attachment to the object or subject matter of the document marked.</p>
+<p>Subjects who continue contact with the marked item or exposure to the implicated document progressively develop a compulsion to rectify unspecified deficiencies, leading to obsessive behaviors. Removal of the marked item or cessation of interaction with the document leads to gradual dissipation of observed anomalous effects over several weeks.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26042 is to be contained in a standard secure locker at Site-██. The locker must be constructed from non-reactive materials to avoid unintentional activation of SCP-26042's effects. Access is restricted to personnel with Level 3 clearance or higher and requires written approval from at least one Level 4 Senior Researcher.</p>
+<p>Testing with SCP-26042 is to be conducted in a controlled environment to prevent accidental spreading of its effect. Individuals affected by SCP-26042 must be placed under psychological observation for no less than 30 days following the cessation of exposure. Any marked items are to be quarantined and observed until the effect has dissipated.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26042-E-01</h4>
+<ul>
+<li>Subject: D-8432</li>
+<li>Procedure: D-8432 was instructed to press SCP-26042 against a blank piece of paper.</li>
+<li>Results: Within 36 hours, D-8432 expressed distress and dissatisfaction with the blank paper, continuously attempting to "improve" it with doodles and writing despite not being provided with drawing or writing implements.</li>
+<li>Notes: The blank paper was incinerated after D-8432 was removed from testing. Psychological effects subsided after three weeks.</li>
+</ul>
+<h4>Experiment 26042-E-02</h4>
+<ul>
+<li>Subjects: D-5619, D-7621</li>
+<li>Procedure: SCP-26042 was applied to a chessboard during an ongoing game between the two D-class subjects.</li>
+<li>Results: Both subjects became increasingly fixated on the game. Even after declaring a winner, they insisted the game was flawed and demanded to start over, refusing food and rest. The compulsion continued until the chessboard was removed from their presence.</li>
+<li>Notes: Subjects were placed under surveillance, displaying withdrawal symptoms for two weeks before a return to baseline behavior.</li>
+</ul>
+<h3>Addendum 2: Interview Log</h3>
+<h4>Interview 26042-I-03</h4>
+<h6>Interviewed: Researcher Dr. Klein</h6>
+<h6>Interviewer: Dr. L███</h6>
+<h6><Begin Log></h6>
+<p>Dr. L███: Could you describe your experience with SCP-26042?</p>
+<p>Dr. Klein: It's fascinating in a terrifying sort of way. I applied it to one of my old research papers, and the next thing I knew, I was second-guessing every word. It was like my own mind was telling me it wasn't good enough.</p>
+<p>Dr. L███: Did you feel compelled to make changes?</p>
+<p>Dr. Klein: Yes, but the alterations were never sufficient. With each edit, the dissatisfaction grew. I couldn't sleep, couldn't eat, just kept editing.</p>
+<p>Dr. L███: And when we removed the paper?</p>
+<p>Dr. Klein: The relief wasn't immediate, but slowly, I began feeling... normal, I guess. The obsession faded.</p>
+<h6><End Log></h6>
+<h6>Notes: Dr. Klein was placed under observation and has since returned to active duty.</h6>
+<h3>Addendum 3: Recovery Log</h3>
+<p>SCP-26042 was recovered from the estate of well-known historian and occultist Dr. H████ C█████ following his unexplained suicide. Documents found with SCP-26042, including personal journals, suggest that Dr. C█████ was aware of its anomalous properties and might have used it to influence the credibility of his academic rivals.</p>
+<p>Archaeological attempts to trace the origin of SCP-26042 have been inconclusive, but ongoing investigations are hoping to shed light on its history and possible creators. All staff are advised to report any documentation or references to objects resembling SCP-26042 in historical texts to Site-██’s Head Archivist.</p></div>
