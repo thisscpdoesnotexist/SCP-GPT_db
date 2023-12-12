@@ -1,0 +1,39 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26036 is  a population of a few hundred genetically identical women who reproduce through mitosis every few days and have to cull their own population lest they purposelessly overrun the entire world </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26036</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26036 is a collective designation for an anomalous population of genetically identical human females. All individuals within SCP-26036 are physically identical, resembling a woman in her late twenties with no distinguishable features that would set them apart from one another. Genetic testing has confirmed that all members of SCP-26036 are clones, possessing no genetic variability. The population count fluctuates but is estimated to remain within the range of several hundred at any given time.</p>
+<p>SCP-26036 instances possess an extraordinary reproductive capability. They reproduce asexually through a process similar to mitosis every 72 hours unless actively intervened upon. During the mitotic event, a member of SCP-26036 undergoes a rapid cellular division resulting in the creation of two identical instances. Each newly generated instance retains the memories and knowledge of its progenitor up to the point of division.</p>
+<p>Without regulatory measures, it is estimated that the unrestricted reproduction of SCP-26036 could lead to a global catastrophic event, as they have the potential to consume resources at an exponential rate and disrupt ecosystems, economies, and social structures.</p>
+<p>Affected individuals appear to be fully aware of their anomalous nature and possess their own culture and societal norms including the practice of self-regulated population control. They have demonstrated cooperation with Foundation personnel in implementation and maintenance of containment procedures.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the reproductive nature of SCP-26036, containment requires the active cooperation from the instances themselves. SCP-26036 is contained within an isolated, self-sustaining facility located in [REDACTED], provisioned with sufficient amenities and space to support the current population. </p>
+<p>The perimeter of the facility is to be secured by armed personnel, with orders to detain any instance of SCP-26036 attempting to leave the designated area. A containment breach by any number of SCP-26036 instances is to be considered critical, and Mobile Task Forces are to be deployed for immediate recapture.</p>
+<p>To enforce containment and prevent uncontrolled population growth, SCP-26036 is to undergo a weekly population audit, and instances are required to conduct a culling ritual to maintain a stable population number. Details of the culling methodology are to be devised and executed by SCP-26036, under supervision and approval from the overseeing containment team.</p>
+<p>Foundation medical and psychological personnel are to provide regular checkups and counseling services to ensure the well-being of SCP-26036, to counteract any negative psychological effects of the culling process.</p>
+<h3>Addendum 1: Interview Log 26036-A</h3>
+<p><em>This interview was conducted with one of the SCP-26036 instances after the containment protocol was initially established.</em></p>
+<p>[Full interview transcript was deemed too extensive for inclusion. Below is a relevant excerpt.]</p>
+<p><strong>Dr. Harper:</strong> "Can you explain to us why your population practices culling?"</p>
+<p><strong>SCP-26036-█:</strong> "We understand what we are. Our existence is...unnatural. We have no desire to overrun your world. The culling is necessary—it keeps us in balance with the world around us. We do not wish to become a plague."</p>
+<p><strong>Dr. Harper:</strong> "How do you cope with the necessity of this culling on an emotional level?"</p>
+<p><strong>SCP-26036-█:</strong> "It is...difficult. But we share this burden together. It has become a part of our culture, a somber responsibility."</p>
+<h3>Addendum 2: Experiment Log 26036-B</h3>
+<p><em>The following is a log of experiments conducted to study the anomalous reproductive process of SCP-26036 and test potential containment methodologies.</em></p>
+<p><strong>Experiment 1: Mitosis Inhibitors.</strong>
+Introduction of various substances intended to disrupt cell division processes resulted in [DATA EXPUNGED] requiring immediate medical attention. No successful inhibition of reproductive process observed.</p>
+<p><strong>Experiment 2: Memory and Knowledge Transfer.</strong>
+Instances were separated before mitosis to investigate memory retention in newly created instances. Results confirmed that each instance retained full memories up to the moment of division, and knowledge transfer appears to be infallible.</p>
+<p><strong>Experiment 3: Containment Enclosure Adaptability Test.</strong>
+To test the adaptability and willingness of SCP-26036 instances, various configurations of the containment facility were modified to observe behavioral responses. Findings indicated high levels of cooperation and adaptability, with instances expressing a preference for communal living spaces and shared responsibilities.</p>
+<h3>Addendum 3: Contained Engagement and Enrichment Program Proposal</h3>
+<p>Enclosed is a detailed plan for the psychological and social health of SCP-26036, including occupational therapy, educational programs, and community engagement projects tailored to the unique needs of SCP-26036's population. Approval pending from Ethics Committee for human rights considerations.</p></div>
