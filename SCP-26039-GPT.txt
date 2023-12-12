@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26039 is  a clade descended from ancient synapsids, that includes both dragons and kobolds </h3> </center>
+    <h1>SCP-26039</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-26039</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26039 refers to a hitherto undiscovered clade of creatures descended from ancient synapsids, paralleling the evolutionary path of mammals. This clade encompasses two distinct genera, one analogous to the mythological "dragons" (SCP-26039-A) and the other to "kobolds" (SCP-26039-B).</p>
+<p>SCP-26039-A resemble draconian figures common in various mythologies. They display reptilian features, wings capable of flight, and a unique internal biochemistry that allows for the generation and expulsion of combustible substances, resulting in a breath weapon similar to pyrokinetic abilities.</p>
+<p>SCP-26039-B, on the other hand, are smaller, humanoid, bipedal entities with scales, tails, and rudimentary horns. They demonstrate a high degree of intelligence and social structure, with evidence suggesting a symbiotic relationship between SCP-26039-A and SCP-26039-B wherein the latter maintains and guards the lairs of the former.</p>
+<p>Both genera exhibit traits consistent with being warm-blooded, and their scales possess a variety of anomalous properties that render them exceptionally resilient to physical and magical damage. These organisms seem to possess an innate ability to detect and interact with anomalous phenomena.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to their high intelligence, strength, and magical properties, SCP-26039 instances are supremely difficult to contain. Conventional means of containment have failed repeatedly, leading to the current protocol of satellite tracking and a network of informants within various governments and organizations.</p>
+<p>Mobile Task Force Mu-13 ("Dragon Tamers") has been assigned to monitor and intercept SCP-26039 movement patterns and to prevent public exposure to these creatures. Capture has been deemed unfeasible; containment efforts are focused on obfuscation and the prevention of breeding events that could vastly increase the SCP-26039 population.</p>
+<p>In the event that an SCP-26039-A instance goes on a rampage or threatens a populated area, Mu-13 is authorized to deploy heavy artillery and other specialized weaponry capable of piercing their scales. Amnestics are administered to civilian witnesses as standard procedure to maintain the Veil protocol.</p>
+<h3>Addendum 1:</h3>
+<h4>Experiment Log 26039-01</h4>
+<h5>Experiment A</h5>
+<p><strong>Subject:</strong> SCP-26039-B specimen<br />
+<strong>Procedure:</strong> Subject exposed to a series of basic intelligence tests, akin to ones used for higher primate research.<br />
+<strong>Result:</strong> SCP-26039-B rapidly understood and completed tasks, even suggesting improvements to the testing apparatus.</p>
+<h5>Experiment B</h5>
+<p><strong>Subject:</strong> SCP-26039-A specimen<br />
+<strong>Procedure:</strong> Attempt to observe and document the breath weapon generation process via thermal camera and spectroscopic analysis.<br />
+<strong>Result:</strong> SCP-26039-A became agitated and unleashed its breath weapon, causing extensive damage to the testing facility and multiple casualties. Spectroscopy revealed an unknown compound not yet synthesized by modern chemistry.</p>
+<h5>Experiment C</h5>
+<p><strong>Subject:</strong> SCP-26039-A specimen<br />
+<strong>Procedure:</strong> Inquiry into the flight capabilities considering the considerable mass.<br />
+<strong>Result:</strong> Despite a body structure seemingly unsuited for flight due to mass, SCP-26039-A demonstrated the ability to fly at great speeds and altitudes, suggesting anomalous or undiscovered aerodynamic properties.</p>
+<h3>Addendum 2:</h3>
+<h4>Interview Log 26039-02</h4>
+<p><strong>Interviewer:</strong> Dr. Elise Klinenberg<br />
+<strong>Subject:</strong> SCP-26039-B specimen<br />
+<strong>Preface:</strong> Interview conducted through telepathic communication facilitated by SCP-####.</p>
+<p>[DATA REDACTED FOR BREVITY]</p>
+<p><strong>Dr. Klinenberg:</strong> Can you tell me how your kind relates to SCP-26039-A?<br />
+<strong>SCP-26039-B:</strong> We serve the Great Wings as keepers and scholars. In their fire, we find purpose.</p>
+<p>[DATA REDACTED FOR BREVITY]</p>
+<p><strong>Dr. Klinenberg:</strong> What can you tell us about your origins?<br />
+<strong>SCP-26039-B:</strong> We spring from the world's heart when the stars sang creation's first dawn. We are the children of the deep earth and the high sky; keepers of the flame, guardians of the stone.</p>
+<p>[REMAINING INTERVIEW DATA IS CLASSIFIED]</p>
+<h3>Addendum 3:</h3>
+<h4>Incident Report 26039-03</h4>
+<p>On ██/██/20██, SCP-26039-A instances were observed in a formation flying at high altitude over the [REDACTED] mountain range. MTF Mu-13 was dispatched; however, upon engagement, the creatures emitted a heretofore unseen aurora-like effect from their scales, causing electromagnetic interference that disabled most of the task force's equipment. A global cover story of an unusual solar storm was disseminated. Efforts to understand this new ability are ongoing.</p></div>
