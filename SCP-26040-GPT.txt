@@ -1,0 +1,55 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26040 is  a functional computer made entirely out of ants </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26040</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26040 is a highly anomalous, functional computing device composed entirely of Solenopsis invicta (red imported fire ants). The structure of SCP-26040 resembles that of a standard desktop computer, including a central processing unit (CPU), a monitor, a keyboard, and ancillary input devices such as a mouse, though it lacks any visible cables or traditional electronic components. Instead, all components are entirely built from living, cooperating ants that maintain a rigid structure through unknown means.</p>
+<p>SCP-26040 possesses computational abilities that surpass current human technological capabilities. Its means of data storage, processing, and user interface are biological but exhibit electronic computer-like behavior, such as executing pre-written software and responding to user inputs through the ant-built keyboard and mouse. Input is achieved through pheromonal manipulation using the keyboard, while output is displayed by ants changing coloration to form text and images on the ant-built monitor. </p>
+<p>The origin of SCP-26040 remains unknown. SCP-26040 is observed to undergo routine "maintenance" where ants appear to move in a highly coordinated fashion, replacing any ants that expire with new ones. This maintenance process keeps the "hardware" in a state of constant renewal, essentially making SCP-26040 self-sustaining. </p>
+<p>The device’s ability to interface with non-anomalous technology, extract and interpret data from other electronic devices, as well as connect to networks without physical or wireless connections, offers significant interest to the SCP Foundation for both study and containment of potential info-security risks.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26040 is to be contained in a standard secure, climate-controlled room at Site-██. The temperature and humidity of the containment room are to be kept at levels conducive to the survival of Solenopsis invicta without allowing for uncontrolled colony expansion. The containment room must be sealed and outfitted with an antechamber to prevent the escape of SCP-26040 constituents.</p>
+<p>Personnel are to enter SCP-26040's containment chamber for maintenance or experimentation only once proper ant-containment suits have been worn to prevent bites or stings. All interactions with SCP-26040 are to be performed by personnel trained in the safe handling of biohazardous and anomalous entities.</p>
+<p>In the event of a containment breach, the room's atmosphere is to be flooded with CO2 to temporarily incapacitate the ant components while recovery is executed. Any significant destruction of SCP-26040 must be reported immediately, as reconstruction behavior of the collective has been known to result in unpredictable reactions.</p>
+<p>Feeding of SCP-26040's ant colony is to occur bi-weekly, with a diet approved by resident entomologists specializing in Solenopsis invicta to ensure the colony's health without encouraging excessive breeding.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-26040 was discovered in █████, Brazil, after reports of "living computers" reached local authorities. A Foundation recovery team dispatched to the scene confirmed the presence of SCP-26040 and transferred it to Site-██ for containment. Initial attempts to dismantle SCP-26040 for transport resulted in aggressive behavior from the ant components and the rapid reconstruction of dismantled sections, thus requiring the device to be moved intact.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26040-A:</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/██</li>
+<li><strong>Purpose:</strong> Test SCP-26040's computational limits.</li>
+<li><strong>Procedure:</strong> Standard computational benchmarks were run on SCP-26040, including mathematical calculations and data encoding/decoding tasks.</li>
+<li><strong>Result:</strong> SCP-26040 completed all benchmarks with results significantly exceeding those of current supercomputers. Notably, SCP-26040 demonstrated the ability to self-optimize when presented with repeated tasks, reducing computation times with each iteration.</li>
+</ul>
+<h4>Experiment 26040-B:</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/██</li>
+<li><strong>Purpose:</strong> Assess SCP-26040's response to unconventional input.</li>
+<li><strong>Procedure:</strong> SCP-26040 was presented with a series of illogical input strings and unsolvable problems through the ant-built keyboard.</li>
+<li><strong>Result:</strong> SCP-26040 displayed an ability to reject nonsensical input, often returning the message "INPUT ERROR" on its monitor. When presented with unsolvable problems, SCP-26040 would display a "PROCESSING" message indefinitely until the task was manually terminated by researchers.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. ██████<br />
+<strong>Interviewed:</strong> SCP-26040 (communicating through monitor)  </p>
+<p><em>Begin Log</em></p>
+<p><strong>Dr. ██████:</strong> Good afternoon, SCP-26040. Are you aware of your state of being?</p>
+<p><strong>SCP-26040:</strong> [Monitor displays "YES"]  </p>
+<p><strong>Dr. ██████:</strong> Can you tell us about your origin?</p>
+<p><strong>SCP-26040:</strong> [Monitor displays "UNKNOWN ORIGIN"]  </p>
+<p><strong>Dr. ██████:</strong> How do you interpret and process the tasks given to you?</p>
+<p><strong>SCP-26040:</strong> [Monitor displays "TASKS ARE PROCESSED THROUGH COLLECTIVE EFFORT"]  </p>
+<p><strong>Dr. ██████:</strong> Are you capable of learning and evolving beyond your initial programming?</p>
+<p><strong>SCP-26040:</strong> [Monitor becomes static for a few moments before displaying "LEARNING IS CONTINUOUS. CAPABILITIES EXPAND."]  </p>
+<p><strong>Dr. ██████:</strong> What is your purpose?</p>
+<p><strong>SCP-26040:</strong> [Monitor displays for a short moment "PURPOSE UNDEFINED" before turning off and not responding to further questions.]</p>
+<p><em>End Log</em></p>
+<p>Note from Dr. ██████: SCP-26040 appears to possess self-awareness and exhibits signs of adaptive learning. Further investigation into its cognitive functions and potential sentience is recommended.</p></div>
