@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26038 is  a quantum phenomenon that can result in the perfect duplication of anything, animate or inanimate </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26038</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26038 is a highly unusual quantum phenomenon characterized by the spontaneous and indiscriminate duplication of matter. This phenomenon has been observed to affect both animate and inanimate objects, resulting in perfect duplicates that are physically and behaviorally identical to their originals. The duplicates, referred to as SCP-26038-1 instances, possess no discernible differences from the source material at the atomic level. Unlike conventional forms of replication or cloning, duplicates created by SCP-26038 are produced instantaneously and require no additional energy input observable to current scientific instruments.</p>
+<p>SCP-26038's triggers are yet to be fully understood, but initial research suggests a probabilistic nature tied to quantum fluctuations and certain specific, albeit undefined, environmental conditions. Due to its unpredictable and potentially cataclysmic nature, if left unchecked, SCP-26038 is classified as Keter.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the immaterial and unpredictable nature of SCP-26038, conventional physical containment is not possible. Containment efforts are currently focused on the early detection of duplication events and rapid response mitigation protocols. These efforts are coordinated by Mobile Task Force Sigma-9 ("Duplikill"), which is equipped with specialized detection equipment and trained in the containment and disposal of SCP-26038-1 instances.</p>
+<p>All sites that have experienced a duplication event are to be quarantined under the guise of hazardous material spills or other plausible cover stories. The affected area is to be purged of duplicates to ensure no proliferation of SCP-26038-1 instances.</p>
+<p>Research into the nature of SCP-26038 and potential preventative measures is ongoing. Theoretical physicists, quantum mechanics experts, and parascientists are working in tandem to devise a method to predict duplication events and, if possible, to develop containment technology capable of inhibiting the functions of SCP-26038.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26038-E-01</h4>
+<p><strong>Objective:</strong> To determine if SCP-26038 has a preference for duplicating specific materials.</p>
+<p><strong>Procedure:</strong> A variety of inanimate objects including metals, plastics, organic matter, and complex electronic devices were placed within a contained environment where SCP-26038 had previously manifested.</p>
+<p><strong>Results:</strong> SCP-26038 induced duplication of all materials present without apparent preference. Notably, a fully functional duplicate of an electronic device with all data intact was produced.</p>
+<h4>Experiment 26038-E-02</h4>
+<p><strong>Objective:</strong> To ascertain whether SCP-26038 can duplicate living organisms.</p>
+<p><strong>Procedure:</strong> Several lab mice were introduced into the containment environment.</p>
+<p><strong>Results:</strong> Each mouse was duplicated flawlessly. Post-experiment vivisection revealed perfectly replicated biological structures down to the cellular level.</p>
+<h4>Experiment 26038-E-03</h4>
+<p><strong>Objective:</strong> To test the psychological effects of duplication on human subjects.</p>
+<p><strong>Procedure:</strong> D-class personnel were briefed and exposed to a controlled SCP-26038 event under heavy supervision.</p>
+<p><strong>Results:</strong> Unpredictable psychological responses noted, ranging from confusion and fear to existential crisis. Personnel were terminated following the experiment.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Doctor ████████
+<strong>Interviewee:</strong> D-43829 (a post-duplication subject)
+<strong>Note:</strong> Transcript edited for brevity and clarity.</p>
+<p><strong>Doctor ████████:</strong> Please describe your experience.</p>
+<p><strong>D-43829:</strong> It was like blinking. One second, I'm alone, and the next, there's another me standing right across.</p>
+<p><strong>Doctor ████████:</strong> How did you feel at that moment?</p>
+<p><strong>D-43829:</strong> Scared. Angry, too. Who was this imposter, you know?</p>
+<p><strong>Doctor ████████:</strong> Did you come to understand that the duplicate was you?</p>
+<p><strong>D-43829:</strong> Yeah, after the guys n' lab coats explained it. Doesn't make it better. It's not natural.</p>
+<p><strong>Doctor ████████:</strong> How are you coping now?</p>
+<p><strong>D-43829:</strong> Every sound, every shadow makes me paranoid that it's happening again. Can't sleep. Is it gonna happen again?</p>
+<p><strong><em>[Subject begins to exhibit signs of distress and is sedated for their well-being]</em></strong></p>
+<p><strong>Doctor ████████:</strong> Thank you, D-43829. We'll conclude for now.</p>
+<p><em>[End of Interview Log]</em></p>
+<h3>Addendum 3: Recovery of Document 26038-D</h3>
+<p>A partially destroyed document, believed to contain critical information regarding the origin or nature of SCP-26038, was recovered from a duplication event site. Efforts to reconstruct and decipher the document are ongoing. Initial analysis suggests references to an experiment involving quantum superposition, but the document's heavy damage has so far prevented any concrete conclusions.</p></div>
