@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26052 is  the statement "You heard it straight from the horse's mouth," which can make any prior statement true, regardless of previous veracity. </h3> </center>
+    <h1>SCP-26052</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-26052</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26052 is an anomalous phrase, specifically "You heard it straight from the horse's mouth," which, upon being uttered immediately after a statement, retroactively alters reality to make the aforementioned statement true, irrespective of its initial accuracy. The phrase thus constitutes a cognitohazard with substantial reality-warping effects. Individuals affected by SCP-26052 are referred to as SCP-26052-1 instances.</p>
+<p>The effects of SCP-26052 are not bound by plausibility; however, they are limited by the speaker's understanding of the statement made, and the statement must be communicable and processed audibly. Statements that are abstract, nonsensical, or beyond the comprehension of the speaker or listeners do not result in the activation of SCP-26052's effects.</p>
+<p>The results of the anomaly vary significantly, from causing minor alterations in personal belief to significant shifts in physical and historical reality. Due to SCP-26052's potential to cause significant disruptions in the global consensus of reality, it has been classified as Keter.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26052 is contained through strict informational quarantine and disinformation campaigns. Any documentation or recordings of SCP-26052 are to be destroyed immediately. Individuals with knowledge of SCP-26052's phrasing or effects are to be administered Class A amnestics.</p>
+<p>Due to the cognitohazardous nature of SCP-26052, all research personnel involved in experimentation must be equipped with audio dampening devices at all times to prevent accidental exposure. Should an outbreak of SCP-26052 occur, MTF Psi-8 ("The Silencers") is to be deployed to isolate the affected area, administer amnestics, and neutralize any SCP-26052-1 instances, if necessary.</p>
+<p>In the case of a widespread SCP-26052 reality alteration event, Procedure Equus-Praeclusio is to be enacted. This protocol involves the use of Foundation-controlled media channels to disperse false confirmations via the phrase, in an attempt to restore the previous state of reality, or to push the altered state to a less damaging one.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>Experiment 26052-01:</strong> Subject D-5539 was instructed to make a false statement about the color of the sky, followed by SCP-26052. Reality was altered such that all personnel perceived the sky as green until reversal protocols were implemented.</p>
+</li>
+<li>
+<p><strong>Experiment 26052-02:</strong> Subject D-7642 claimed they had the ability to fly, followed by SCP-26052. Subject temporarily gained the ability to levitate approximately 1.5 meters above the ground for ten minutes before losing altitude rapidly. Minor injuries sustained upon landing.</p>
+</li>
+<li>
+<p><strong>Experiment 26052-03:</strong> Subject D-8310 was instructed to state that they were the President of the United States, followed by SCP-26052. For the duration of 17 minutes, global political structures recognized D-8310 as the legitimate President before the effect was reverted through Procedure Equus-Praeclusio.</p>
+</li>
+</ul>
+<h3>Addendum 2: Interview Log</h3>
+<ul>
+<li><strong>Interview Log 26052-04:</strong></li>
+</ul>
+<p><strong>Interviewer:</strong> Dr. Johansen<br />
+<strong>Interviewee:</strong> D-5539 (Post Experiment 26052-01)</p>
+<p><em><Begin Log></em></p>
+<p><strong>Dr. Johansen:</strong> How are you feeling post-experiment, D-5539?</p>
+<p><strong>D-5539:</strong> It was bizarre, Doc. It felt like I always knew the sky was green. It wasn't just seeing it; I remembered it being that way.</p>
+<p><strong>Dr. Johansen:</strong> Did you notice anything odd during the experiment?</p>
+<p><strong>D-5539:</strong> Yeah, I felt this buzz in my head, like something snapping into place. Then everything was... different.</p>
+<p><em><End Log></em></p>
+<h3>Addendum 3: Incident Report 26052-A</h3>
+<p>On ██/██/████, SCP-26052 was unintentionally triggered outside of experimental confines by Research Assistant ████. The assistant claimed, in jest, that "all water on Earth was turned to wine," followed by SCP-26052. This resulted in a global alteration of all water to wine, causing widespread panic and ecological disaster.</p>
+<p>Immediate implementation of Procedure Equus-Praeclusio was ordered, with the reversal statement broadcasted globally: "All wine on Earth was turned back to water, you heard it straight from the horse's mouth." After approximately █ hours, the original state was restored, albeit with significant temporary disruptions and ███ confirmed casualties.</p>
+<p>The incident has prompted a review and tightening of informational containment measures. All personnel have been reminded of the severity of SCP-26052's containment protocols, and further psychological screening is to be conducted to prevent similar breaches.</p></div>
