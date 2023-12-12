@@ -1,0 +1,57 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26057 is  !!HUGE MAN!! </h3> </center>
+    <h1>SCP-26057</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-26057</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26057, colloquially referred to as "!!HUGE MAN!!" by the staff, is an anomalous humanoid entity standing approximately 15.8 meters tall. The entity's physical appearance resembles that of an extremely enlarged human, with proportionate increases in body mass and muscular structure. However, SCP-26057 exhibits several key differences from a typical human anatomy, which are as follows:</p>
+<ol>
+<li>The entity's skin is highly resistant to damage, displaying an ability to withstand high-caliber bullets, intense heat, and extreme blunt force without sustaining any apparent injuries.</li>
+<li>The entity is capable of extreme physical strength, demonstrating the ability to cause significant structural damage to fortified facilities and buildings with relative ease.</li>
+<li>Visual examination has revealed the absence of a digestive system; SCP-26057 does not require food, water, or air to sustain its biological functions. Its energy source remains unknown.</li>
+<li>SCP-26057 has shown a capacity for rapid regenerative abilities, enabling it to recover from injuries that would prove fatal to normal human beings within minutes to hours, depending on the severity of the damage.</li>
+<li>The intelligence level of SCP-26057 is currently undetermined. The entity has not communicated in a recognizable human language, and attempts at creating a dialogue have thus far been unsuccessful.</li>
+</ol>
+<p>The entity was first encountered by the Foundation after reports of a "walking giant" caused the evacuation of a small town in [REDACTED]. Since containment, SCP-26057 has attempted to breach containment on seventeen documented occasions.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26057 is to be contained within a modified containment chamber measuring no less than 20 meters in height, width, and length. The walls of the chamber are to be reinforced with layers of titanium, carbon fiber, and specialized shock-absorbing materials to absorb and redistribute the force exerted by SCP-26057 during containment breach attempts.</p>
+<p>A minimum of six armed security personnel are to monitor the containment chamber at all times. The use of lethal force is authorized in the event of a containment breach. A 500-meter safety perimeter is to be established around SCP-26057's containment chamber, with no unauthorized personnel permitted within this area.</p>
+<p>All research staff working with SCP-26057 are required to undergo a psychological evaluation before and after interaction with the entity to monitor for potential mental influence or manipulation.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Incident Report 26057-A</strong>: SCP-26057 breached containment on [DATE REDACTED], resulting in the destruction of Sector 4C and the deaths of eighteen personnel. The containment procedures were updated to incorporate higher durability materials and increased security measures.</p>
+<h3>Addendum 2:</h3>
+<p><strong>Interview Log 26057-B</strong>:
+<em>Interviewer:</em> Dr. ███████
+<em>Subject:</em> SCP-26057</p>
+<p><em><Begin Log></em></p>
+<p><strong>Dr. ███████:</strong> SCP-26057, can you understand me?</p>
+<p><em>(SCP-26057 remains silent and motionless.)</em></p>
+<p><strong>Dr. ███████:</strong> We are trying to learn more about you. Can you communicate with us?</p>
+<p><em>(SCP-26057 shifts slightly but does not respond verbally.)</em></p>
+<p><em>(After several more attempts at communication with no response, the interview is concluded.)</em></p>
+<p><em><End Log></em></p>
+<p><strong>Note:</strong> Further attempts to establish communication with SCP-26057 are to be continued, utilizing a variety of methods including sign language, written prompts, and pictorial communication.</p>
+<h3>Addendum 3:</h3>
+<p><strong>Experiment Log 26057-C</strong>:</p>
+<p><strong>Experiment 1</strong>:
+<em>Purpose:</em> To test the limits of SCP-26057's regenerative abilities.</p>
+<p><em>Procedure:</em> A sample of SCP-26057's skin and muscle tissue, approximately 10cm in diameter, was removed.</p>
+<p><em>Result:</em> SCP-26057's wound closed entirely within 2 hours and 37 minutes. No scar tissue was visible, and the removed tissue showed no signs of necrosis outside of SCP-26057's body.</p>
+<p><strong>Experiment 2</strong>:
+<em>Purpose:</em> To determine whether SCP-26057 has a need for sleep or rest.</p>
+<p><em>Procedure:</em> SCP-26057 was observed for a continuous period of 168 hours.</p>
+<p><em>Result:</em> SCP-26057 showed no signs of fatigue, sleep, or rest throughout the observation period. The entity periodically changes positions but no recognizable sleep patterns were observed.</p>
+<p><strong>Experiment 3</strong>:
+<em>Purpose:</em> To assess SCP-26057's response to high-intensity sound waves.</p>
+<p><em>Procedure:</em> Directed a focused high-decibel sound at SCP-26057.</p>
+<p><em>Result:</em> SCP-26057 displayed signs of discomfort and retreated to the farthest corner of the containment chamber. The sound was sustained for ten minutes before the experiment was concluded to avoid risking structural damage to the facility.</p>
+<p>Further experiments are ongoing, with goals including communication breakthroughs and a deeper understanding of SCP-26057's physiological and psychological properties. All testing must be approved by Site Director █████ and carried out with extreme caution to ensure the safety of staff and containment integrity.</p></div>
