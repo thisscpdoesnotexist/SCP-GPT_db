@@ -1,0 +1,42 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26041 is  a clade of dragons descended from ancient synapsids </h3> </center>
+    <p>```markdown</p>
+<h3>Item #:</h3>
+<p>SCP-26041</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26041 is a clade of entities exhibiting features reminiscent of mythological dragons with a traceable ancestry rooted in ancient synapsid-like organisms. These creatures, hereafter referred to as SCP-26041-A instances, defy conventional biological classification as they demonstrate atypical growth patterns, metabolic rates, and physical abilities that are not consistent with current evolutionary theories.</p>
+<p>SCP-26041-A instances are varied in appearance but generally share the following characteristics: scaled hides, wingspan averaging 15 meters, the ability to expel combustible chemicals resulting in a fire-breathing capability, and an extraordinary level of intelligence comparable to that of higher primates. Genetic analysis has connected these entities to therapsids, which hints at an evolutionary branch that diverted significantly from known species.</p>
+<p>Instances of SCP-26041-A are capable of flight, have reinforced skeletal structures to support their size, and possess several unknown organs that contribute to their unique abilities. Telepathic communication among SCP-26041-A has been observed but remains poorly understood.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the highly dangerous nature of SCP-26041-A and their ability to fly, physical containment is deemed impractical. The current protocol focuses on satellite surveillance to track SCP-26041-A movements globally and dispatchment of Mobile Task Forces (MTF) to rapidly respond to any appearances of SCP-26041-A instances.</p>
+<p>Areas with a history of SCP-26041-A appearances are to be monitored closely, with embedded agents in relevant military and aviation agencies to ensure an immediate information blackout and civilian evacuation, should an SCP-26041-A instance manifest.</p>
+<p>In the event of an SCP-26041-A instance sighting, MTF Delta-9 ("Dragon Slayers") is to be scrambled to the location with orders to engage and drive the instance away from populated areas. Lethal force is authorized but only as a last resort, due to the rarity and potential scientific value of SCP-26041-A instances.</p>
+<p>Containment procedures are to be reviewed and revised bi-annually or following any encounter with an instance of SCP-26041-A.</p>
+<h3>Addendum 1: Interview Log</h3>
+<p><em>(Abridged transcript of an interview with Dr. A██████, leading researcher on SCP-26041.)</em></p>
+<p><strong>Interviewer:</strong> Dr. M███
+<strong>Interviewee:</strong> Dr. A██████</p>
+<p><strong>Dr. M███:</strong> Thank you for joining us, Dr. A██████. Let's get to the point. How has SCP-26041 managed to remain undetected for so long?</p>
+<p><strong>Dr. A██████:</strong> It is my belief that SCP-26041-A possesses an innate ability to elude detection, possibly through a form of active camouflage or a psychic field that deters attention. Additionally, their habitat appears to be in remote and inhospitable areas, away from human populations.</p>
+<p><strong>(Interview continues discussing observed behavior patterns and possible origins.)</strong></p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 26041-05:</strong></p>
+<p><em>Objective: To determine the heat resistance of the scaled hide of SCP-26041-A.</em></p>
+<p><em>Procedure: Samples of hide were exposed to gradually increasing temperatures.</em></p>
+<p><em>Result: The hide sustained temperatures up to 1200°C before exhibiting signs of deterioration.</em></p>
+<p><strong>Experiment 26041-12:</strong></p>
+<p><em>Objective: To test the telepathic range between two instances of SCP-26041-A.</em></p>
+<p><em>Procedure: Two instances were relocated to opposite ends of a secured containment site and monitored for telepathic activity.</em></p>
+<p><em>Result: Telepathic communication was successfully established across a 5 km distance, with evidence suggesting possible longer ranges.</em></p>
+<p>(Additional experiments detailed involving flight capabilities, metabolic analysis, and combustible chemical production.)</p>
+<h3>Addendum 3: Incident Report 26041-α</h3>
+<p>On ██/██/20██, an instance of SCP-26041-A appeared over [REDACTED] City, causing widespread panic and damage before being engaged by MTF Delta-9. The operation resulted in [DATA EXPUNGED], and a strict information control protocol was enacted. The subsequent investigation has resulted in the refinement of the current tracking methodology and a review of engagement protocols.
+```</p></div>
