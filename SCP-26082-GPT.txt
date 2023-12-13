@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26082 is  the pelagic griffin </h3> </center>
+    <h1>SCP-26082</h1>
+<h3>Item #:</h3>
+<p>SCP-26082</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26082, colloquially referred to as the "Pelagic Griffin," is an anomalous megafaunal entity inhabiting Earth's oceans. The creature appears to be a chimeric amalgam, possessing the forequarters of what resembles a Gryphon, with appended piscine hindquarters similar to that of a large predatory fish, possibly of the carcharhinid family. SCP-26082 exhibits both aerial and aquatic capabilities, able to traverse above and beneath the water surface with equal proficiency.</p>
+<p>SCP-26082 is approximately 15 meters in length with a wingspan of roughly 20 meters. The creature is covered in a layer of overlapping plumes and scales that exhibit rapid environmental adaptation. This adaptive camouflage not only allows it to blend with its surroundings but also seems to provide anomalous properties that interfere with electronic detection methods.</p>
+<p>The entity poses a significant threat to maritime travel, aquatic ecosystems, and coastal settlements due to its predatory nature and considerable size. Furthermore, SCP-26082 demonstrates high intelligence and problem-solving abilities, often disabling tracking and capture attempts through strategic attacks.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26082's pelagic nature and high mobility, containment remains impractical. Measures have been adopted to intercept and redirect the entity away from populated areas through the deployment of remote-operated vehicles (ROVs) and Foundation ships equipped with specialized anomalous sonar devices (ASD). These devices emit a frequency disorienting to SCP-26082, yet inaudible to other marine life.</p>
+<p>A tracking network comprising satellites and deep-sea sensors continually monitors for SCP-26082's signature biological and ecological impacts. Mobile Task Force Sigma-9 ("Sea Griffins") is tasked with interception, amnestic deployment to civilians, and damage assessment.</p>
+<p>In the event of SCP-26082 beaching or entering heavily populated areas, Protocol Leviathan is to be enacted, involving area evacuation, media blackout, and deployment of heavy suppression and containment assets.</p>
+<h3>Addendum 1: SCP-26082 Incident Report</h3>
+<p>On ██/██/████, SCP-26082 was responsible for the destruction of the fishing vessel MV ██████, which vanished off the coast of ██████. Foundation agents embedded within the Coast Guard intercepted distress calls attributing the attack to a "giant winged beast," promptly implementing information suppression protocols.</p>
+<h3>Addendum 2: SCP-26082 Experiment Log</h3>
+<p><strong>Experiment 26082-E-001</strong></p>
+<ul>
+<li><strong>Objective:</strong> To determine the creature's response to varying sound frequencies.</li>
+<li><strong>Results:</strong> SCP-26082 exhibited distress at frequencies between ███ and ████ Hz, rapidly vacating the immediate area.</li>
+</ul>
+<p><strong>Experiment 26082-E-002</strong></p>
+<ul>
+<li><strong>Objective:</strong> To test the efficiency of a chum-based scent lure coupled with ASDs.</li>
+<li><strong>Results:</strong> SCP-26082 was successfully attracted to the site but became incurably hostile once ASDs were activated. The ROV was lost in the encounter.</li>
+</ul>
+<p><strong>Experiment 26082-E-003</strong></p>
+<ul>
+<li><strong>Objective:</strong> To observe SCP-26082's hunting patterns when faced with engineered prey exhibiting anomalous properties (Prey-82-A).</li>
+<li><strong>Results:</strong> SCP-26082 engaged Prey-82-A with caution, eventually hunting and consuming the entity. Prey-82-A's anomalous properties temporarily hindered SCP-26082's camouflage ability.</li>
+</ul>
+<h3>Addendum 3: Interview Log SCP-26082</h3>
+<p><strong>Interviewer:</strong> Dr. █████
+<strong>Interviewee:</strong> Captain ██ of the MV ████████ (Ship came into visual contact with SCP-26082)</p>
+<p><strong><Begin Log></strong></p>
+<p>Dr. █████: "Captain, can you describe exactly what you witnessed on the night of ██/██?"</p>
+<p>Captain ██: "It was like nothing I've ever seen, doc. Huge, with wings wide enough to blot out the moonlight. The damn thing dived, and the water just... parted around it. One moment it's in the sky, the next it's beneath the waves."</p>
+<p>Dr. █████: "Were you able to observe any specific behaviors or characteristics that stood out?"</p>
+<p>Captain ██: "Its eyes. They glowed like bioluminescence. And it was smart; seemed like it was assessing the ship, figuring out if we were prey."</p>
+<p>Dr. █████: "Did you feel that you were in danger?"</p>
+<p>Captain ██: "Without a doubt. Had it not been for our emergency distress beacon, which seemed to spook it, I believe it would've torn the ship apart."</p>
+<p>Dr. █████: "Thank you, Captain. Your testimony will greatly aid our ongoing research and containment efforts."</p>
+<p><strong><End Log></strong></p>
+<p><strong>Closing Statement:</strong> Subsequent analysis of the distress beacon from MV ████████ revealed anomalous frequency elements. Foundation researchers are investigating potential modifications of ASDs to replicate this effect for containment purposes.</p></div>
