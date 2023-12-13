@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26059 is  an absolutely intolerable skeptic and atheist whose mere presence blocks other anomalies, except foundation staff have to refrain from the urge to throttle him to death for his insufferable personality </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26059</p>
+<h3>Object Class:</h3>
+<p>Thaumiel</p>
+<h3>Description:</h3>
+<p>SCP-26059 is a Caucasian male in his mid-30s, named [REDACTED]. The subject exhibits an anomalously inhibitive presence on other SCP objects and phenomena within a radius that varies from 10 to 50 meters, the size of which seems to be influenced by SCP-26059's emotional state. Baseline suppression radius is maintained around 15 meters under normal conditions. Testing has verified that SCP-26059's presence can temporarily nullify both physical and metaphysical attributes of other SCP items, disrupting anomalous properties so long as he remains in proximity.</p>
+<p>SCP-26059 has been classified as an absolute skeptic and atheist, displaying an unwavering disbelief in anything that cannot be empirically proven or that is generally considered supernatural or paranormal. This cognitive disposition is hypothesized to be the source of his nullification field.</p>
+<p>Despite SCP-26059's invaluable utility in containing other anomalies, personnel have reported significant difficulty working with the subject due to his abrasive, confrontational, and often belittling demeanor. His interactions are often characterized by dismissive and derogatory remarks concerning beliefs, intelligence, and the scientific acumen of others, which has led to multiple formal complaints and requests for reassignment.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26059 is to be housed in a standard humanoid containment unit at Site-██. The containment unit has been modified to include an additional antechamber to extend the effective range of the nullification field to surrounding high-risk containment areas as necessary.</p>
+<p>Given the beneficial effects of SCP-26059 on containment efforts, the subject is allowed level-2 privileges with regard to personal requests, within reason, to ensure his cooperation and emotional stability. Such privileges are subject to immediate revocation in the event of non-compliance with Foundation directives or personnel misconduct.</p>
+<p>Personnel assigned to SCP-26059 must undergo periodic psychological evaluations to mitigate the risks associated with prolonged exposure to SCP-26059’s personality. Personal interaction with SCP-26059 should be limited to professional exchanges, and it is recommended that personnel refrain from engaging in debates or discussions unrelated to containment procedures or testing protocols.</p>
+<p>During testing with other SCP items, two security personnel with experience in non-anomalous conflict de-escalation shall be present to intervene if SCP-26059 intentionally or inadvertently agitates research staff or provokes aggressive responses from other SCP entities.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Interview Log 26059-A</strong></p>
+<p><em>The following interview was conducted by Dr. ████████ to assess the psychological profile of SCP-26059.</em></p>
+<p>[Begin Log]</p>
+<p>Dr. ████████: Good morning, SCP-26059. How are you today?</p>
+<p>SCP-26059: As well as one could be in a glorified zoo. The term "good morning" implies a degree of optimism that's both irrational and insipid, Doctor.</p>
+<p>Dr. ████████: Noted. Tell me, when did you first become aware of your unique… condition?</p>
+<p>SCP-26059: Ah, the 'superpower' you mean? It was during the so-called 'haunting' of my university’s sociology building. Ghosts, apparently. Utter nonsense. Turned out to be nothing more than faulty wiring and group hysteria. Though I did notice the equipment failures coincided with my presence.</p>
+<p>Dr. ████████: Fascinating. Your skepticism appears to be more than just a worldview. It's actively negating anomalous phenomena. Are you proud of this effect?</p>
+<p>SCP-26059: Proud? It's merely logical. There is nothing to be proud or ashamed of when facing reality for what it is. Metaphysical rubbish has no place in the face of rational scrutiny.</p>
+<p>Dr. ████████: And yet, you're here because you defy conventional rationality yourself. </p>
+<p>SCP-26059: (Smirks) The irony isn’t lost on me, Doctor. However, if my presence helps you claptrap collectors rein in the absurd, then it's a service to reason itself.</p>
+<p>Dr. ████████: Thank you, SCP-26059. We will conclude for now.</p>
+<p>[End Log]</p>
+<h3>Addendum 2:</h3>
+<p><strong>Experiment Log 26059-E</strong></p>
+<ul>
+<li>
+<p><strong>Experiment E1</strong>: SCP-26059 was introduced to the containment chamber of SCP-███, classified as a Euclid entity capable of phasing through solid materials. Upon SCP-26059's entrance, SCP-███ immediately ceased its phasing behavior and remained corporeal for the entire duration of SCP-26059's visit.</p>
+</li>
+<li>
+<p><strong>Experiment E2</strong>: SCP-26059 participated in a testing session with SCP-████, an SCP object known for inducing strong auditory and visual hallucinations. All affected staff reported a complete cessation of any anomalous sensory perception upon SCP-26059’s entry to the testing area.</p>
+</li>
+<li>
+<p><strong>Experiment E3</strong>: In a controlled environment, SCP-26059 interacted with SCP-████-1, an infohazard that spreads via linguistic understanding. Despite being fully exposed to SCP-████-1, no acquisition of the infohazard was observed in SCP-26059, nor did it manifest in personnel while in his presence.</p>
+</li>
+</ul>
+<h3>Addendum 3:</h3>
+<p><strong>Extended Incident Report 26059-A</strong></p>
+<p>During a containment breach of SCP-████, a Keter-class shape-shifting entity, SCP-26059’s nullification ability was crucial in re-containment efforts. SCP-████ was unable to utilize its anomalous properties whenever within SCP-26059’s suppression radius, allowing for swift apprehension and minimal casualties.</p>
+<p>However, SCP-26059's demeaning commentary towards personnel during the incident provoked several confrontations. This behavior is under ongoing review by the Ethics Committee to balance the mental well-being of staff with the containment benefits provided by SCP-26059. Pending evaluation, amnestic therapy may be considered for affected personnel.</p></div>
