@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26060 is  an exhaustively impetuous reality warping goddess </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26060</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26060 is a humanoid entity self-identifying as a goddess, with the ability to manipulate reality on an impetuous whim. It appears as a female humanoid, approximately 2.5 meters in height with variable physical features that shift without apparent pattern, reflecting its capricious nature. SCP-26060 demonstrates the capacity to alter matter, energy, spacetime, and even conceptual constructs although the extent of its abilities seems to be constrained by its emotional state.</p>
+<p>The entity is characterized by its highly erratic and spontaneous behavior, often reshaping its immediate environment or the state of beings around it without discernable intent or warning. These alterations range from the innocuous, such as changing colors or emitting music, to severe existential threats, such as the spontaneous generation of black holes or transmutation of matter into hazardous forms.</p>
+<p>Interactions with SCP-26060 have proven difficult due to its impulsive nature, resulting in unpredictable alterations to research personnel's physiology, psychology, or existence entirely. It has displayed awareness of its containment and has vocalized both amusement and irritation but has not yet attempted a breach of containment.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26060 is contained within a 50m x 50m x 50m reality-stabilized containment chamber at Site-███. The chamber walls are reinforced with Scranton Reality Anchors (SRA) operating at maximum capacity to ensure minimal reality fluctuation within and around the containment area. SRAs are to be inspected and maintained hourly to prevent malfunction or reality warping breaches caused by SCP-26060.</p>
+<p>No personnel are to enter SCP-26060's containment chamber without Level 4 authorization and an attached support team prepared for rapid reality stabilization. Interaction with SCP-26060 is limited to telepresence whenever possible, utilizing drones and remote communication methods to minimize direct exposure to its effects. Any changes within the containment area must be reported to the supervising researcher immediately, and containment protocols revised accordingly.</p>
+<p>All personnel who have interacted with SCP-26060, either directly or indirectly, are required to undergo intensive psychological and physical evaluation followed by a minimum 30-day quarantine to ensure no latent reality-warping effects manifest.</p>
+<p>In the event of a containment breach, all facility personnel are to follow Emergency Protocol Kappa-9 ("Variable Unreality") with the aim of reestablishing containment through the use of mobile SRAs, reality stabilizers, and amnestic deployment if necessary. Lethal force is authorized if recontainment cannot be achieved non-lethally.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 26060-03:</strong>
+- <strong>Objective:</strong> Assess the limitations of SCP-26060's reality-warping abilities.
+- <strong>Procedure:</strong> A D-class personnel equipped with a reality stabilization vest was instructed to request that SCP-26060 change the vest into a bouquet of flowers.
+- <strong>Result:</strong> SCP-26060 giggled and changed the vest into a multitude of small rodents, which immediately scurried away. Scranton Reality Anchors temporarily fluctuated but returned to stable output, and D-class personnel showed no signs of distress or further alterations.</p>
+<p><strong>Experiment 26060-07:</strong>
+- <strong>Objective:</strong> Determine SCP-26060's reaction to a direct, non-hostile confrontation.
+- <strong>Procedure:</strong> Two D-class personnel entered the containment chamber and verbally reprimanded SCP-26060 for its past behavior in a controlled and calm manner.
+- <strong>Result:</strong> SCP-26060 appeared momentarily contemplative before inducing a state of euphoria in one of the test subjects while the other was altered to sing in choral harmonies in place of speech. No permanent effects persisted after the removal of D-class personnel, with full restoration of original conditions following exposure to Class-B amnestics.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interview 26060-A</strong>
+- <strong>Date:</strong> ██/██/████
+- <strong>Interviewer:</strong> Dr. ████ Reynolds
+- <strong>Subject:</strong> SCP-26060
+- <em>(A portion of the transcript is provided below. The full interview is available upon request from the Site Director.)</em></p>
+<p><strong>Dr. Reynolds:</strong> "SCP-26060, can you explain why you alter reality so frequently?"</p>
+<p><em>(SCP-26060 blinks slowly, then smirks.)</em></p>
+<p><strong>SCP-26060:</strong> "Why do you breathe? It's nature, darling. I see something I wish to change, and so I do."</p>
+<p><strong>Dr. Reynolds:</strong> "But do you not consider the consequences of these changes on surrounding life?"</p>
+<p><em>(SCP-26060 waves a hand dismissively.)</em></p>
+<p><strong>SCP-26060:</strong> "Consequences are like chains. They hold no interest for me. What I create, I create. What I destroy, I destroy."</p>
+<p><strong>Dr. Reynolds:</strong> "Is there anything you desire or want, anything that might persuade you to minimize your alterations?"</p>
+<p><em>(SCP-26060's form flickers, shimmering like heat off pavement.)</em></p>
+<p><strong>SCP-26060:</strong> "Want? Desire? Trivial concepts. I am the embodiment of possibility. Your entreaties are as whispers in the void. However, I find this... discourse mildly amusing. Perhaps I shall entertain fewer changes... for now."</p>
+<p><strong>Dr. Reynolds:</strong> "I’ll take that as a tentative agreement, then."</p>
+<h3>Addendum 3: Incident Report 26060-I</h3>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Details:</strong> On the date specified, SCP-26060 caused a temporary localized spatial inversion within its containment chamber, leading to the temporary disappearance and reappearance of several containment personnel and equipment. Although SRAs prevented this effect from propagating beyond the containment area, the incident resulted in the reassignment of containment personnel and a revision of the standard operating procedures regarding SCP-26060.</li>
+</ul>
+<p>Following Incident 26060-I, all interactions with SCP-26060 require the presence of a Level 4 reality-stabilization operator to actively monitor and adjust the SRAs in real-time, minimizing the likelihood of future similar occurrences. These measures have proven effective thus far in maintaining containment integrity.</p></div>
