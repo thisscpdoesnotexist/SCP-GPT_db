@@ -1,0 +1,64 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26062 is  Kragg from Rivals of Aether </h3> </center>
+    <h1>SCP-26062</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-26062</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26062 is a humanoid entity physically resembling the character "Kragg" from the independent video game "Rivals of Aether." SCP-26062 stands approximately 2.5 meters tall and weighs an estimated 900 kilograms. Its body appears to be composed of a rocky substance similar in composition to sedimentary stone, with crystalline formations along its back and limbs that glow intermittently.</p>
+<p>The entity demonstrates a high degree of physical strength and agility, which far exceeds expected norms for beings of comparable size and composition. SCP-26062 is capable of manipulating earth and stone in its immediate vicinity, a trait it uses both for offense and defense. It displays intelligence and tactical thinking, often constructing barriers or utilizing the terrain to its advantage during containment breaches.</p>
+<p>Another anomalous property of SCP-26062 is its ability to project itself into electronic devices containing the game "Rivals of Aether." It uses this ability to escape containment through digital mediums, necessitating strict electronic security protocols. The entity's motives are currently unknown, but it has shown aggression towards Foundation personnel and facilities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26062 is to be contained within a reinforced subterranean chamber measuring 10 meters on each side, with walls composed of a minimum of 2-meter thick lead-lined steel. The containment chamber should be surrounded by a vacuum-sealed secondary chamber to prevent SCP-26062's earth manipulation abilities from compromising structural integrity.</p>
+<p>All devices capable of playing "Rivals of Aether" or similar software must remain at least 500 meters from SCP-26062's containment chamber. Electronic devices within this radius must have all wireless capabilities disabled and be subject to regular inspection for any signs of SCP-26062's influence.</p>
+<p>In the event of a containment breach, MTF Gamma-3 ("Deep Miners") is to be mobilized to recontain SCP-26062 using specialized equipment designed to subdue and transport the entity. If SCP-26062 enters a digital state, MTF Lambda-5 ("White Rabbits") will execute digital containment protocols to prevent the entity from spreading through networked systems.</p>
+<h3>Addendum 1: Incident Log-26062-Alpha</h3>
+<p>On ██/██/20██, SCP-26062 breached containment by creating a subterranean tunnel that extended beyond the vacuum-sealed perimeter. It proceeded to cause a localized earthquake, which resulted in significant structural damage to nearby facilities. Recontainment efforts were successful after 4 hours, with 3 casualties and 17 injuries among Foundation personnel.</p>
+<h3>Addendum 2: Interview Log-26062-Beta</h3>
+<p><strong>Interviewer:</strong> Dr. M██████</p>
+<p><strong>Interviewed:</strong> SCP-26062 (via a secure text communication interface)</p>
+<p>[EXCERPT BEGINS]</p>
+<p><strong>Dr. M██████:</strong> Can you tell us why you continue to resist containment?</p>
+<p><strong>SCP-26062:</strong> I am not of your world. Capture feels like suffocation.</p>
+<p><strong>Dr. M██████:</strong> Are you referring to the digital world of "Rivals of Aether"?</p>
+<p><strong>SCP-26062:</strong> It is closer to my essence. There I am free, unbound.</p>
+<p><strong>Dr. M██████:</strong> Do you understand the dangers you pose to our world?</p>
+<p><strong>SCP-26062:</strong> This world binds me; constrains me. Your kind fears what it cannot control.</p>
+<p><strong>Dr. M██████:</strong> We wish to learn more about you to reach an understanding. How can we coexist peacefully?</p>
+<p><strong>SCP-26062:</strong> Learn the nature of Kragg. Only then might harmony be found.</p>
+<p>[EXCERPT ENDS]</p>
+<h3>Addendum 3: Experiment Log-26062-Gamma</h3>
+<h4>Experiment 26062-G01:</h4>
+<ul>
+<li><strong>Purpose:</strong> To test SCP-26062's ability to manipulate various soil types.</li>
+<li><strong>Procedure:</strong> SCP-26062 was provided with sand, clay, and loam in separate containers.</li>
+<li><strong>Result:</strong> SCP-26062 could manipulate all three types, with clay constructions being the most structurally sound.</li>
+</ul>
+<h4>Experiment 26062-G02:</h4>
+<ul>
+<li><strong>Purpose:</strong> To determine the extent of SCP-26062's influence over digital devices.</li>
+<li><strong>Procedure:</strong> A secure laptop containing "Rivals of Aether" was introduced within 500 meters of the containment chamber.</li>
+<li><strong>Result:</strong> SCP-26062 managed to project its consciousness into the game, though containment was quickly reestablished through digital counter-measures.</li>
+</ul>
+<h4>Experiment 26062-G03:</h4>
+<ul>
+<li><strong>Purpose:</strong> To evaluate the effectiveness of psychoactive communication attempts.</li>
+<li><strong>Procedure:</strong> SCP-26062 was exposed to a Foundation-approved memetic agent designed to facilitate communication.</li>
+<li><strong>Result:</strong> Partial success, as SCP-26062 became more responsive during interviews but did not reduce its containment breach attempts.</li>
+</ul>
+<h4>Experiment 26062-G04:</h4>
+<ul>
+<li><strong>Purpose:</strong> To test SCP-26062's reactions to sounds from its game of origin.</li>
+<li><strong>Procedure:</strong> Audio from various "Rivals of Aether" gameplay sessions was played within the containment chamber.</li>
+<li><strong>Result:</strong> A marked increase in compliance was observed, suggesting a potential avenue for improving cooperation with SCP-26062. Further testing is recommended.</li>
+</ul>
+<p>Further experiments have been scheduled to better understand SCP-26062's capabilities and potential vulnerabilities. Ongoing research aims to develop more reliable containment protocols and possible methods of peaceful coexistence.</p>
+<p>[DOCUMENT END]</p></div>
