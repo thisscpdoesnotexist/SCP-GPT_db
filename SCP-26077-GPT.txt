@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26077 is  the goddess of self deprecating humour  </h3> </center>
+    <p>```markdown</p>
+<h3>Item #:</h3>
+<p>SCP-26077</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26077 is an anomalous entity that identifies itself as the "Goddess of Self-Deprecating Humor". Its appearance varies, but it most commonly manifests as a middle-aged woman with a sharp wit and a constantly shifting appearance that seems to correlate with contemporary stand-up comedian archetypes. SCP-26077 has the ability to induce extreme states of self-deprecation in individuals within an approximate radius of 50 meters, leading to severe psychological consequences and, in extreme cases, self-harm or suicide.</p>
+<p>SCP-26077's influence is not limited to face-to-face interactions. Recorded media containing its performances exhibit similar anomalous effects, though the radius of influence is reduced to the range of the audio or video playback device. The entity has demonstrated a keen understanding of individual psychology, tailoring its humor to maximize impact on its audience. </p>
+<p>The memetic properties of SCP-26077's humor seem to implant the idea in listeners that they are worthless or incompetent. This can have a debilitating impact on an individual's ability to function and has the potential for cascading social effects, as affected individuals often repeat SCP-26077's jokes or aphorisms, potentially spreading the anomaly further.</p>
+<p>During containment, SCP-26077 has displayed varying levels of cooperation, occasionally offering insights into its nature and purpose. However, it frequently reverts to self-referential jokes about its containment and the futility of human effort, complicating psychological evaluations.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26077 is to be contained in a soundproof containment chamber at Site-██. All video and audio surveillance equipment must have embedded scrambling protocols to prevent the spread of SCP-26077's influence through surveillance footage or logs.</p>
+<p>Personnel assigned to SCP-26077 must undergo rigorous psychological screening for vulnerability to self-deprecating suggestions. A rotation of personnel is mandated every two weeks to minimize exposure to SCP-26077's anomalous effects. All interactions with SCP-26077 must be conducted via text-based communication to prevent auditory transmission of its anomalous properties.</p>
+<p>In the event that SCP-26077's humor breaches containment, all affected individuals are to be administered Class-B amnestics and undergo cognitive behavioral therapy to mitigate the effects of exposure. Information leaks regarding SCP-26077's existence or performances are to be discredited, and any recordings are to be confiscated and destroyed.</p>
+<h3>Addendum 1: Interview Log-26077-04</h3>
+<p><em>Dr. ████ interviews SCP-26077 via a secure text-based interface to better understand its motivations.</em></p>
+<p><strong>Dr. ████:</strong> SCP-26077, can you explain why you perpetuate this kind of humor despite its effects?</p>
+<p><strong>SCP-26077:</strong> [Laughs] Oh, doctor, don't you see the beauty in it? The fragility of human confidence, always teetering on the brink of collapse! It's just ripe for the picking.</p>
+<p><strong>Dr. ████:</strong> That doesn't justify the harm you cause.</p>
+<p><strong>SCP-26077:</strong> Harm? Sweetie, I'm just holding up a mirror to the grand joke that is existence. If they can't take a joke, that’s on them!</p>
+<p><strong>Dr. ████:</strong> Is there a purpose beyond mockery?</p>
+<p><strong>SCP-26077:</strong> Purpose? We're all just spinning on a big blue ball of jokes, yearning for a punchline that never comes. My purpose is as good as any—laughter in the dark.</p>
+<p><em>Interview concludes as SCP-26077 resorts to a looping recitation of its comedic material.</em></p>
+<h3>Addendum 2: Experiment Log-26077</h3>
+<p><strong>Experiment 26077-E-01:</strong></p>
+<p><em>Subject: D-8376, a 35-year-old male with no history of self-deprecating tendencies.</em></p>
+<p><em>Procedure: Subject listens to a 30-second audio clip of SCP-26077's performance.</em></p>
+<p><em>Result: Subject initially laughs, but within an hour displays intense self-criticism and resignation.</em></p>
+<p><strong>Experiment 26077-E-02:</strong></p>
+<p><em>Subject: D-9251, a 28-year-old female with moderate self-esteem.</em></p>
+<p><em>Procedure: Subject is given a transcript of SCP-26077's performance to read.</em></p>
+<p><em>Result: Subject not affected. Suggests anomaly is primarily auditory.</em></p>
+<p><strong>Experiment 26077-E-03:</strong></p>
+<p><em>Subjects: D-4382 and D-5599, two individuals with high self-confidence.</em></p>
+<p><em>Procedure: Subjects are placed in a containment chamber with a muted video feed of SCP-26077 for one hour.</em></p>
+<p><em>Result: Subjects maintain stable mental states. Confirming audio component is necessary for the transmission of anomalous effects.</em></p>
+<h3>Addendum 3: Incident Report-26077-I-01</h3>
+<p>On ██/██/████, containment failure resulted in SCP-26077's influence affecting ███ staff members of Site-██. Entity used the public announcement system to broadcast a "performance". The event resulted in ██ temporary incapacitations and required extensive administration of amnestics and psychological treatment. Following this incident, containment protocols have been updated to include additional redundancy in soundproofing and electronic safeguards against unauthorized broadcasting.
+```</p></div>
