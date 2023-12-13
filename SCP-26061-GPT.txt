@@ -1,0 +1,54 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26061 is  an acrylic painting of a huge armoured viking warrior woman biting into an oversized ham-on-a-bone </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26061</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26061 is a painted artwork, measuring 70cm x 50cm, done in acrylics, depicting a large, armored Viking warrior woman fiercely biting into a disproportionately large ham-on-a-bone. The painting exhibits anomalous properties when any individual maintains visual contact with it for longer than approximately 30 seconds. </p>
+<p>Once the threshold is exceeded, the observer enters a trance-like state, during which they perceive themselves as a Viking warrior within the scene depicted in the painting. Test subjects report vivid sensory experiences, including the taste of the ham, the weight of armor, and the clamor of a presumed battlefield, despite no such environments being physically present. The observed trance typically lasts between 3 to 10 minutes. Afterward, subjects often express a heightened level of aggression and display an obsessive craving for cooked pork for up to several days.</p>
+<p>Additionally, photographic or video capture of SCP-26061 carries a portion of its anomalous effects when viewed, albeit with reduced intensity and duration. This has necessitated strict control of any visual reproductions.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26061 is to be contained in a secured, opaque, locked case at all times within a containment chamber at Site-██. The chamber is to be accessible only by personnel with security clearance level 3 or higher, who have undergone a thorough psychological evaluation for susceptibility to memetic influences.</p>
+<p>When SCP-26061 must be removed from its case for study or transport, it is imperative that no direct eye contact be made with the painting. Personnel are required to wear a blindfold or use indirect viewing methods (e.g., via a mirror) to prevent the painting's effects. Printed images and recorded material of SCP-26061 are to be handled similarly and must be stored in a separate, secure, memetic hazard locker.</p>
+<p>In the event of accidental exposure, affected personnel are to be quarantined and monitored until the effects subside. A standard psychological evaluation and a 72-hour observation period will follow before returning to duty.</p>
+<h3>Addendum 1:</h3>
+<p>Test Log SCP-26061-█</p>
+<p><strong>Subject:</strong> D-Class personnel D-████ </p>
+<p><strong>Procedure:</strong> D-████ was instructed to view SCP-26061 for varying lengths of time and describe their experiences while under observation.</p>
+<p><strong>Result:</strong> Exposure to SCP-26061 resulted in trance-like symptoms consistent with previous observations. D-████ reported battling enemy warriors and tasting ham, despite never having consumed such meat prior to containment. The subject exhibited signs of aggression post-exposure.</p>
+<h3>Addendum 2:</h3>
+<p><strong>Interview Log SCP-26061-██</strong></p>
+<p><em>Interviewer:</em> Dr. ██████</p>
+<p><em>Subject:</em> Research Assistant ████, post-exposure</p>
+<p><strong>Dr. ██████:</strong> Can you describe what you experienced during your contact with SCP-26061?</p>
+<p><strong>Research Assistant ████:</strong> It was as if I was there, inside the painting. I felt the cold on my face, the sound of battle around me, and the rough texture of the ham as I bit into it. It was unsettlingly real.</p>
+<p><strong>Dr. ██████:</strong> And how are you feeling now, after the exposure?</p>
+<p><strong>Research Assistant ████:</strong> Hungry. For ham. I never even liked ham before, but now I can almost taste it lingering in my mouth. And I'm angry, too. Not at you, just generally agitated. It's odd.</p>
+<h3>Addendum 3:</h3>
+<p><strong>Experiment Log SCP-26061-███</strong></p>
+<p><em>Objective:</em> To understand SCP-26061's influence over multiple subjects at varying distances from the painting.</p>
+<ul>
+<li>
+<p><strong>Experiment 1</strong>
+  <strong>Subjects:</strong> Three D-Class personnel placed at distances of 1m, 3m, and 5m from SCP-26061.
+  <strong>Outcome:</strong> All subjects were affected, with the effect's intensity inversely proportional to their distance from the painting.</p>
+</li>
+<li>
+<p><strong>Experiment 2</strong>
+  <strong>Subjects:</strong> Two D-Class personnel, one viewing SCP-26061 directly, the other viewing it through a video feed.
+  <strong>Outcome:</strong> Direct observer became entranced and displayed subsequent symptoms, while indirect observer experienced milder symptoms. Notably, the desire for ham was present in both subjects.</p>
+</li>
+<li>
+<p><strong>Experiment 3</strong>
+  <strong>Subjects:</strong> One D-Class personnel wearing polarized lenses designed to filter certain light spectrums.
+  <strong>Outcome:</strong> The subject remained unaffected during exposure, suggesting the anomalous properties may be partially light-spectrum dependent.</p>
+</li>
+</ul>
+<p>The above experiments highlight the necessity for stringent containment protocols to prevent unintended psychological influence from SCP-26061. Further study is required to fully understand the mechanisms behind SCP-26061's anomalous effects and to test countermeasures for potential wide-scale memetic hazards.</p></div>
