@@ -1,0 +1,74 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26099 is  a terminal malignancy in the concept of semiotics that could one day result in the complete breakdown of the ability to identify anything physical or conceptual. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26099</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26099 is defined as a terminal malignancy within the field of semiotics, the study of signs and symbols and their use or interpretation. Notably, SCP-26099 transcends the traditional boundaries of the physical world, manifesting as a progressive and contagious conceptual anomaly. Those affected by SCP-26099 exhibit an escalating inability to recognize, understand, or communicate through any system of signs, symbols, or language, including gestural, pictorial, linguistic, mathematical, and metaphysical frameworks.</p>
+<p>The effect of SCP-26099 is cumulative and irreversible. Early symptoms include confusion in interpreting social cues, minor linguistic errors, and difficulty in using or comprehending abstract symbols. As the condition advances, affected individuals (hereafter referred to as SCP-26099-A instances) become entirely unable to discern the meaning behind any signifiers, ultimately leading to a total breakdown in the capacity to recognize or differentiate any aspect of reality, both physical objects and conceptual ideas.</p>
+<p>SCP-26099 spreads via unknown means and has resisted all efforts to identify a clear vector or mechanism of transmission. Initial hypotheses suggested memetic spread but were quickly discounted following extensive research that indicated an absence of correlation between exposure to specific information or communication with SCP-26099-A instances and contraction of the anomaly. Current models theorize that SCP-26099 may be linked to a deeper metaphysical erosion in the fabric of semiotic understanding, the implications of which are not yet fully understood.</p>
+<p>The origins of SCP-26099 remain a subject of investigation. Its presence was first registered within the SCP Foundation through a cluster of linguistic and semiotic inconsistencies that arose within Foundation documentation, which subsequently precipitated a flurry of disoriented behavior among the research staff.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Containment of SCP-26099 is focused heavily on prevention, detection, and research, as the anomalous nature of the entity precludes conventional containment strategies.</p>
+<ol>
+<li>
+<p>Foundation semioticians, linguists, and information specialists are to monitor all Foundation communications and public signs for signs of SCP-26099 contamination. Anomalies are to be reported immediately to Site ██'s Anomalous Semiotics Department for isolation and analysis.</p>
+</li>
+<li>
+<p>A quarantine protocol is to be enacted upon detection of an SCP-26099 event. Affected areas are to be isolated, and individuals exhibiting early symptoms (designated SCP-26099-A instances) are to be contained in soundproof rooms with visual stimulation kept to a bare minimum to prevent further deterioration through semiotic exposure.</p>
+</li>
+<li>
+<p>Research into the origins, mechanisms, and potential cures for SCP-26099 is to be carried out with utmost priority. Interdisciplinary teams combining experts in semiotics, cognitive science, information theory, and anomalous phenomena are to be formed to address this ongoing crisis.</p>
+</li>
+<li>
+<p>Foundation staff are to undergo routine evaluations for symptoms of SCP-26099. Staff showing any signs are to be removed from active duty and placed under medical observation until they can be cleared or diagnosed as SCP-26099-A instances.</p>
+</li>
+<li>
+<p>In the event of a widespread outbreak of SCP-26099, Foundation AI systems are to initiate Protocol "Babel Reversed," a contingency plan involving the use of artificial intelligence immune to SCP-26099 to manage critical Foundation operations until human operators can be safely reinstated.</p>
+</li>
+</ol>
+<h3>Addendum 1: Experimental Log Summary</h3>
+<p>The following is a summary of significant experiments conducted to better understand the properties and limitations of SCP-26099.</p>
+<h4>Experiment 26099-E-01:</h4>
+<p><strong>Objective:</strong> To determine if isolation from all semiotic systems can halt the progression of SCP-26099.
+<strong>Procedure:</strong> D-8432, an SCP-26099-A instance, was placed in an entirely white room devoid of any symbols, signs, or potential stimuli for a period of thirty days.
+<strong>Result:</strong> No improvement in condition; the subject's cognitive decline continued at the expected rate.</p>
+<h4>Experiment 26099-E-02:</h4>
+<p><strong>Objective:</strong> To ascertain if non-human entities can interpret semiotics from SCP-26099-A instances.
+<strong>Procedure:</strong> A group of trained chimpanzees was exposed to the gestural communication of SCP-26099-A instances.
+<strong>Result:</strong> The chimpanzees showed signs of distress and confusion, ultimately failing to understand the gestures of SCP-26099-A instances.</p>
+<h4>Experiment 26099-E-03:</h4>
+<p><strong>Objective:</strong> To assess the impact of SCP-26099 on artificial intelligence systems.
+<strong>Procedure:</strong> A self-improving AI was tasked with interpreting communications from SCP-26099-A instances.
+<strong>Result:</strong> The AI initially reported anomalies in the data but did not show any progression of the SCP-26099 anomaly, suggesting digital systems may be immune or resistant.</p>
+<h3>Addendum 2: Interview Log 26099-I-17</h3>
+<p><strong>Subject:</strong> Dr. Emilia Kowalczyk, SCP-26099-A instance.
+<strong>Interviewer:</strong> Dr. Matthias Jung, SCP Foundation Researcher.</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. Jung:</strong> Good morning, Dr. Kowalczyk. Please state your name for the record.</p>
+<p><strong>Dr. Kowalczyk:</strong> [Visibly distressed, speech is slow.] I... Apologies, I... I can't...</p>
+<p><strong>Dr. Jung:</strong> It's okay, Emilia. I understand. Can you tell me what you see right now?</p>
+<p><strong>Dr. Kowalczyk:</strong> Everything is... noise. Text, faces... it's just shapes. I can't make anything out. It's all just... there.</p>
+<p><strong>Dr. Jung:</strong> I see. Are you able to understand me, Emilia?</p>
+<p><strong>Dr. Kowalczyk:</strong> Bits... pieces. Words float by. I grasp... then they're gone.</p>
+<p><strong>Dr. Jung:</strong> When did you first notice something was wrong?</p>
+<p><strong>Dr. Kowalczyk:</strong> When every word I read... broke apart. Letters spilled like alphabet soup. I cried out for help, but my voice... sounded like abstract jazz.</p>
+<p><strong>Dr. Jung:</strong> Thank you, Emilia. We're doing everything we can to understand this, to help you...</p>
+<p><strong>Dr. Kowalczyk:</strong> Help? How can you help the meaning itself... has cancer?</p>
+<p><strong><End Log></strong>
+<em>Note: Dr. Kowalczyk's condition deteriorated rapidly after the interview. She was moved to a specialized care unit shortly thereafter.</em></p>
+<h3>Addendum 3: Recovery and Reversal Hypotheses</h3>
+<p>The research into SCP-26099 has entered a theoretical stage as experimental endeavors have consistently failed to produce actionable results. Several hypotheses are being explored concerning potential neutralization or reversal of SCP-26099's effects. These include:</p>
+<ol>
+<li>Development of a robust anti-memetic agent that could act as a "semantic firewall" against the spread and effects of SCP-26099.</li>
+<li>Utilization of non-semiotic communication systems adapted from alternative dimensional entities known to the Foundation which may be innately immune to SCP-26099.</li>
+<li>Creation of a synthetic cognitive framework for SCP-26099-A instances, potentially via direct neural interface technology, to compensate for their impaired semiotic cognition.</li>
+</ol>
+<p>The ongoing existential threat posed by SCP-26099 necessitates a multifaceted approach. Current efforts are being consolidated into Project "Logos Shield," aimed at safeguarding the essential human capacity for meaning-making, recognition, and communication against this unprecedented anomaly.</p></div>
