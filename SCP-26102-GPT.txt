@@ -1,0 +1,48 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26102 is  a migratory species of flying pig </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26102</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26102 is a migratory species of pig, exhibiting physical characteristics consistent with Sus scrofa domesticus, with the addition of feathered wings similar in anatomy to those of the Columba livia (common pigeon). The average wingspan of SCP-26102 is approximately 2.5 meters. Their capacity for flight is not fully understood, as their body mass would typically preclude aerial capability; however, SCP-26102 has shown the ability to fly for extended periods.</p>
+<p>SCP-26102 travels in flocks ranging from 15 to 50 individuals, displaying behavior akin to migratory birds. They have been observed to follow consistent migratory patterns that change mysteriously every 3-5 years. The underlying cause of these pattern shifts remains unknown.</p>
+<p>Members of SCP-26102 have enhanced intelligence and appear to communicate with one another through a series of grunts, snorts, and wing flaps that are atypical of non-anomalous porcine species. Tests have shown they are capable of understanding simple commands and solving basic problems, which indicates a cognitive ability significantly beyond that of ordinary pigs.</p>
+<p>Occasionally, SCP-26102 will shed feathers which retain minor levitational properties for a short period. These feathers pose a low-level risk of exposure and are currently under study for their potential applications in anti-gravity fields.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26102's migratory nature requires a flexible containment strategy. A designated task force, designated as 'Sky-Swine Shepherds,' is tasked with the tracking and management of SCP-26102's movements.</p>
+<p>Members of the Sky-Swine Shepherds are equipped with tranquilizer weapons customized for aerial targets, alongside standard Foundation retrieval equipment. In the event SCP-26102 descends to ground level, mobile containment units are to be deployed to secure and transport individuals to Site-██, which houses a large aviary enclosure designed for anomalous avian species.</p>
+<p>During migratory periods, any witnesses to SCP-26102's flight are to be administered Class-B amnestics, and any digital evidence is to be erased or otherwise discredited as part of a disinformation campaign.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Experiment Log 26102-A:</strong>
+- <strong>Experiment A-1:</strong>
+  - <strong>Purpose:</strong> To test SCP-26102’s endurance in sustained flight.
+  - <strong>Procedure:</strong> One instance of SCP-26102 was tracked and monitored in an isolated environment during an uninterrupted flight.
+  - <strong>Result:</strong> SCP-26102 sustained flight for approximately 12 hours before landing for rest and nourishment.
+- <strong>Experiment A-2:</strong>
+  - <strong>Purpose:</strong> To examine the levitational properties of shed feathers.
+  - <strong>Procedure:</strong> Feathers found beneath resting sites were collected and subjected to weight-bearing tests.
+  - <strong>Result:</strong> Feathers demonstrated a capacity to support approximately 15g before losing levitational strength after 27 minutes.</p>
+<h3>Addendum 2:</h3>
+<p><strong>Interview Log 26102-██:</strong>
+<em>Interviewer: Dr. Lorelei</em>
+<em>Subject: SCP-26102 instance (referred to as SCP-26102-13)</em></p>
+<p><strong>Dr. Lorelei:</strong> Good morning, SCP-26102-13. Can you understand me?</p>
+<p><em>[SCP-26102-13 responds with a series of grunts.]</em></p>
+<p><strong>Dr. Lorelei:</strong> Let's try a simple test. Could you please circle around twice if comprehension is clear?</p>
+<p><em>[SCP-26102-13 does as instructed.]</em></p>
+<p><em>[Interview continues with SCP-26102-13 demonstrating the ability to follow a range of commands from simple movements to solving a simple puzzle designed for testing cognitive abilities.]</em></p>
+<p><em>[Interview log ends with Dr. Lorelei concluding that SCP-26102-13 and, by extension, other members of SCP-26102 possess a higher level of intelligence previously not recognized in swine. Recommendations are made for more complex communication attempts and enrichment activities to be designed for containment procedures.]</em></p>
+<h3>Addendum 3:</h3>
+<p><strong>Incident Log 26102-32:</strong></p>
+<p>On ██/██/20██, local news agencies began reporting sightings of what they referred to as "flying pigs" near █████████, ██. The Sky-Swine Shepherds were mobilized, and containment breaches were avoided thanks to the prompt action taken to secure SCP-26102’s flock. The cover story released was that of a promotional stunt by a local farm using drones disguised as pigs.</p>
+<p><strong>Comments from O5-██:</strong></p>
+<blockquote>
+<p>"It is imperative that SCP-26102's existence remains shrouded in myth. Its discovery by the public could lead to mass hysteria or attempts to exploit the species for commercial or military purposes. Maintain containment and observe closely."</p>
+</blockquote></div>
