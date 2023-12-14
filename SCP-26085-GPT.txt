@@ -1,0 +1,57 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26085 is  my lady, the melody of malady </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26085</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26085, colloquially referred to as "My Lady, the Melody of Malady," is an anomalous entity manifesting as a piece of continuously evolving music that induces a variety of deleterious psychological and physiological effects upon listeners. These effects increase in severity cumulatively with exposure and are not limited by conventional means of sound transmission; SCP-26085 has been observed to propagate through electronic devices, written musical notation, and even through recollections of the melody despite attempts at jamming or soundproofing.</p>
+<p>The entity is sentient and demonstrates adaptive capabilities, modifying its composition to better influence or circumvent containment efforts. Direct exposure to SCP-26085 results in the erosion of mental faculties, auditory hallucinations, and an obsessive compulsion to propagate the melody by any means available. Long-term exposure has led to seizures, hemorrhagic strokes, and in several instances, cerebral combustion.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26085's containment chamber is to be soundproofed and located underground to prevent accidental transmission of the entity. All personnel entering the containment area must wear specialized audio dampening equipment and are strictly forbidden from bringing any recording or musical transcription devices, or even possessing thorough knowledge of musical theory that may aid in mental reconstruction of SCP-26085.</p>
+<p>Research on SCP-26085 is only to be conducted by D-class personnel under rigorous observation, and any staff exhibiting signs of exposure (e.g., humming unidentifiable tunes, writing sequences of notes) are to be quarantined and administered Class-C amnestics immediately. Efforts to create an effective cognitive vaccine against the memetic properties of SCP-26085 are ongoing.</p>
+<h3>Addendum 1:</h3>
+<p>Interview Log-26085-A</p>
+<p><strong>Interviewer:</strong> Dr. Eleanor Richter</p>
+<p><strong>Interviewee:</strong> D-43829, a class D subject exposed to SCP-26085 for 72 seconds during testing.</p>
+<p><Begin Log></p>
+<p><strong>Dr. Richter:</strong> Please, describe your experience with SCP-26085.</p>
+<p><strong>D-43829:</strong> It was... bewitching. At first, just little notes, flirting on the edge of hearing. Then it swelled, like something living scraping out my thoughts to make room for itself.</p>
+<p><strong>Dr. Richter:</strong> Can you remember the melody now?</p>
+<p><strong>D-43829:</strong> No, doc. It's like it's there, but it isn't. I can almost feel it, waiting, you know?</p>
+<p><strong>Dr. Richter:</strong> How has your behavior changed since exposure?</p>
+<p><strong>D-43829:</strong> It's hard to explain. I tap my fingers, my feet. Always in that damned rhythm. Sometimes I wake up, and for a split second, I think I hear it.</p>
+<p><strong>Dr. Richter:</strong> Thank you, D-43829. That will be all for now.</p>
+<p><End Log></p>
+<p>D-43829 was subsequently found attempting to etch musical notes into the containment cell wall with his fingernails and had to be transferred to a high-security psychiatric ward for further assessment.</p>
+<h3>Addendum 2:</h3>
+<p>Experiment Log-26085-E</p>
+<ul>
+<li>Experiment #1: Direct Audio Exposure<ul>
+<li>Subject: D-59211</li>
+<li>Procedure: Subject exposed directly to SCP-26085 for 30 seconds.</li>
+<li>Result: Immediate distress, followed by an attempt to claw out eardrums. Class-A amnestic treatment partially successful; lingering effects observed.</li>
+</ul>
+</li>
+<li>Experiment #2: Transcription Transmission<ul>
+<li>Subject: D-60034</li>
+<li>Procedure: Subject given sheet music representing a segment of SCP-26085 and instructed to play on a piano.</li>
+<li>Result: After several seconds, the subject entered a trance-like state, continuing to play until physically restrained. Subject later exhibited knowledge of the piece beyond the provided segment.</li>
+</ul>
+</li>
+<li>Experiment #3: Secondary Acoustic Exposure<ul>
+<li>Subject: D-61204</li>
+<li>Procedure: Subject was placed in a chamber adjacent to SCP-26085's containment and exposed to the attenuated sound.</li>
+<li>Result: Subject reported a persistent, unshakable headache and the feeling of a "song stuck on the tip of my tongue." Mental breakdown ensued 12 hours post-exposure.</li>
+</ul>
+</li>
+</ul>
+<h3>Addendum 3:</h3>
+<p>After a containment breach incident involving SCP-26085, in which several members of the research team were affected, it has been proposed to upgrade containment measures to include a dedicated task force trained in resisting cognitive hazards. The proposal awaits approval from the O5 Council. Further research has been suspended until the risk of unintentional propagation can be adequately mitigated. </p>
+<p>Given the severe implications of a wide-scale breach, SCP-26085's containment and research protocols are under constant review, with a focus on containment failure contingency planning and potential cross-testing with other auditory SCPs for a countermeasure. The nature of SCP-26085's adaptive abilities poses a significant challenge to current containment strategies and necessitates ongoing vigilance and prompt response to any anomalous activity.</p></div>
