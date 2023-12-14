@@ -1,0 +1,61 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26084 is  the consequences of us overusing amnestics on the populace in order to maintain the veil </h3> </center>
+    <h1>SCP-26084</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-26084</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26084 is a complex psycho-social anomaly affecting human populations globally. Its primary manifestation is the gradual degradation of collective memory and cognitive functions in human subjects, ostensibly correlated with the Foundation's overuse of amnestics in order to maintain secrecy (referred to as "the Veil"). SCP-26084 manifests as a range of symptoms including but not limited to: partial or total amnesia, confabulation, decreased learning ability, and a severe decline in critical thinking skills. Subjects affected by SCP-26084 demonstrate increased susceptibility to misinformation, pseudoscience, and conspiracy theories, further complicating containment efforts.</p>
+<p>Epidemiological studies suggest that the onset of SCP-26084 is insidious, with early symptoms often overlooked or misattributed to other causes. Though initially considered localized, SCP-26084 has shown the potential for exponential growth within a population, with a marked upturn in the prevalence and severity of symptoms once a certain threshold of amnestic exposure is reached.</p>
+<p>Genetic, neural, and epigenetic analyses have thus far failed to yield consistent biomarkers for SCP-26084, complicating diagnoses and tracking efforts. Researchers hypothesize that the anomaly may operate through as-yet-undiscovered pathways, possibly involving quantum entanglement or other extradimensional interactions. </p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the global and pervasive nature of SCP-26084, conventional containment is unfeasible. Instead, efforts are to be directed towards four primary strategies:</p>
+<ol>
+<li>
+<p><strong>Containment Through Reduction:</strong> The Foundation is to minimize the use of amnestics, opting for selective application and exploring alternative memory suppression or alteration techniques that carry a lower risk of contributing to SCP-26084.</p>
+</li>
+<li>
+<p><strong>Public Information Management:</strong> Foundation-operated web analysis bots and disinformation campaigns will manage and mitigate the spread of SCP-26084-related behaviors by controlling and contradicting false narratives that may arise due to the cognitive decline caused by the anomaly.</p>
+</li>
+<li>
+<p><strong>Monitoring and Intervention:</strong> Mobile Task Forces (MTFs) specializing in social engineering and memetic warfare (such as MTF-Gamma-5 "Red Herrings") are to be stationed globally to identify and intervene in any situations that may exacerbate the spread of SCP-26084.</p>
+</li>
+<li>
+<p><strong>Research and Development:</strong> Intensive research into countermeasures, potential cures, or containment methods that might suppress or reverse SCP-26084 is of the highest priority. Collaboration with other SCP objects or extranormal entities demonstrating restorative cognitive effects is under consideration.</p>
+</li>
+</ol>
+<p>Due to the direct involvement and potential risk to personnel, all staff working with or around SCP-26084 are required to undergo comprehensive neuropsychological evaluations biannually.</p>
+<h3>Addendum 1: Incident Report 26084-A</h3>
+<p>On ██/██/20██, a spike in SCP-26084-related symptoms was detected in the population of [REDACTED]. This surge correlated with an unauthorized large-scale amnestic deployment by Foundation personnel, which led to a temporary breach of the Veil. Immediate action was required to implement additional disinformation protocols and targeted use of Class-H ("Holistic") amnestics. </p>
+<h3>Addendum 2: Experiment Log 26084-E</h3>
+<p>The following is a selection from the ongoing experimentation series aimed at understanding the mechanics of SCP-26084 and developing potential countermeasures:</p>
+<p><strong>Experiment 26084-E-12</strong>:
+- <strong>Objective:</strong> To determine if SCP-26084's effects could be reversed through cognitive rehabilitation techniques.
+- <strong>Procedure:</strong> D-class subjects showing early-stage symptoms were provided with intensive cognitive exercises and memory training for a period of six months.
+- <strong>Result:</strong> Minor improvements in memory and cognitive function were noted but did not persist beyond the training period. Symptoms returned to baseline levels within three weeks.</p>
+<p><strong>Experiment 26084-E-34</strong>:
+- <strong>Objective:</strong> To assess the efficacy of SCP-███, known for its memory-enhancing properties, in mitigating SCP-26084 symptoms.
+- <strong>Procedure:</strong> A control group and an experimental group of D-class subjects with moderate SCP-26084 symptoms were established. The experimental group was exposed to SCP-███ for a period of 30 days.
+- <strong>Result:</strong> Experimental group showed significant improvement in all tested cognitive domains; however, the effects gradually decayed after removal from SCP-███ exposure. Further experimentation is pending approval.</p>
+<h3>Addendum 3: Interview Log 26084-I</h3>
+<p><strong>Subject:</strong> Dr. ██████, a cognitive neuroscientist and lead researcher on SCP-26084.</p>
+<blockquote>
+<p><strong>Interviewer:</strong> Agent ███████</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Agent ███████:</strong> Dr. ██████, can you provide an overview of your team's current understanding of SCP-26084?</p>
+<p><strong>Dr. ██████:</strong> Of course. We believe that SCP-26084 isn't just the result of chemical or biological mechanisms. It's as if the amnestics have caused a..a rift, for lack of a better word, that's affecting the very fabric of human cognition. It's like our consensus reality is weakening, and with it, our ability to remember or think critically.</p>
+<p><strong>Agent ███████:</strong> What progress has been made towards containment or reversal?</p>
+<p><strong>Dr. ██████:</strong> Progress has been frustrating. Conventional methods have little to no lasting effect. Our best leads are currently anomalous objects that affect memory or consciousness. We're also looking into theoretical physics. There might be a connection to entangled particle states, which could mean a whole new field of containment protocols – quantum containment, if you will.</p>
+<p><strong>Agent ███████:</strong> And the risks?</p>
+<p><strong>Dr. ██████:</strong> They're substantial. We're dancing on the edge of the unknown here, and the ethical considerations are a minefield. Our use of anomalous objects might lead to unforeseen consequences. We're taking every precaution, but there's no real precedent for this.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Closing Remarks:</strong> Research into SCP-26084 continues, with the Foundation's Ethics Committee overseeing all experiments involving potential anomalies that might counteract the effects of SCP-26084. The severity and complexity of SCP-26084 mean that it remains one of the highest priority projects within the Foundation.</p>
+</blockquote></div>
