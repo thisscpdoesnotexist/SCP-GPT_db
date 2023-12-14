@@ -1,0 +1,65 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26086 is  an image that was SUPPOSED to be a memetic kill agent, but SOMEONE (Janine) messed it up, and now it's not working right. Stinkin' Janine, this is why no one invites you to the foundation office parties! </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26086</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26086 is a digital image file that originated as a project under the Foundation's Memetic Research Division, with the intended purpose of serving as a memetic kill agent. The agent was designed to incapacitate unauthorized viewers instantaneously upon sight, thereby preventing any sensitive information from being compromised.</p>
+<p>However, due to an error during the encoding process, attributed to Research Assistant Janine █████ (hereafter referred to as 'Janine'), the final iteration of SCP-26086 failed to function as intended. Instead of acting as a lethal cognitive hazard, the image induces a range of unpredictable effects on subjects who view it. These effects have ranged from benign phenomena, such as temporary ticklish sensations or an acute sense of déjà vu, to more severe symptoms including short-term retrograde amnesia, spontaneous hypnagogic hallucinations, and in rare instances, prolonged states of catatonia.</p>
+<p>SCP-26086 has maintained its classification as a Euclid-level object due to its anomalous and unpredictable nature, combined with the inherent risk present with any memetic or cognitohazardous item. The specific properties of the failed memetic kill agent remain an active area of research, as efforts continue to either remedy the defect or to repurpose SCP-26086 for alternate utility within the Foundation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26086 is to be stored on a secure, air-gapped Foundation server located in Site-██. The file should not be copied to any external devices or networked computers. Direct viewing of SCP-26086 is strictly prohibited unless authorized for testing or research purposes. Personnel assigned to SCP-26086 must have a Cognitive Resistance Value (CRV) of no less than 14.9.</p>
+<p>Physical interaction with SCP-26086 is restricted to D-class personnel under controlled experimental conditions. All observations and interactions must be conducted through remote viewing methods. Participants must be screened thoroughly for psychological stability and susceptibility to memetic influences prior to any exposure to the image.</p>
+<p>Any unauthorized access to SCP-26086 will result in immediate containment breach protocols, and the individual responsible will be detained for interrogation and potential reclassification as D-class personnel.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<ul>
+<li><strong>Experiment 26086-1</strong></li>
+<li><strong>Subjects:</strong> D-8432, male, 28 years old</li>
+<li><strong>Procedure:</strong> Subject was instructed to view SCP-26086 for five seconds.</li>
+<li><strong>Results:</strong> Subject laughed uncontrollably for approximately two minutes, later reporting a feeling as if being tickled incessantly.</li>
+<li>
+<p><strong>Notes:</strong> Harmless, yet the potential for psychological stress exists if the effect were sustained over a longer period.</p>
+</li>
+<li>
+<p><strong>Experiment 26086-2</strong></p>
+</li>
+<li><strong>Subjects:</strong> D-9157, female, 34 years old</li>
+<li><strong>Procedure:</strong> Subject was exposed to SCP-26086 for ten seconds.</li>
+<li><strong>Results:</strong> Subject entered a catatonic state for 17 hours, subsequently having no recollection of the event.</li>
+<li>
+<p><strong>Notes:</strong> Duration and intensity of exposure may correlate with severity of effects.</p>
+</li>
+<li>
+<p><strong>Experiment 26086-3</strong></p>
+</li>
+<li><strong>Subjects:</strong> D-3091, male, 30 years old, screened for high CRV</li>
+<li><strong>Procedure:</strong> Subject observed SCP-26086 for fifteen seconds while equipped with real-time neural monitoring.</li>
+<li><strong>Results:</strong> Subject reported vivid hallucinations reminiscent of childhood memories mixed with abstract geometric patterns. Neural monitoring displayed heightened activity in areas associated with memory and visual processing.</li>
+<li><strong>Notes:</strong> Speculative potential for memory exploration or interrogation utilizing SCP-26086 under controlled conditions.</li>
+</ul>
+<h3>Addendum 2: Incident Report</h3>
+<p>During a recent standard review of security measures, it was discovered that a junior researcher, referred to in Item Description as 'Janine,' had been excluded from several Foundation office functions. It has since been addressed that personal grievances are not to be recorded in official SCP documentation. Measures have been enacted to improve team cohesion and to review the professional conduct of all personnel involved in the SCP-26086 project.</p>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interviewer:</h4>
+<p>Dr. Miles Brenner</p>
+<h4>Interviewee:</h4>
+<p>Research Assistant Janine █████</p>
+<h4>Purpose:</h4>
+<p>To discuss the encoding error related to SCP-26086's creation.</p>
+<p><strong>Dr. Brenner:</strong> "Janine, thank you for joining me. Can you walk me through what happened the day SCP-26086 was finalized?"</p>
+<p><strong>Janine:</strong> "Certainly, Dr. Brenner. I was handling the embedding process of the final memetic layers into the image. There was an irregular power fluctuation, and it must have corrupted the file during the encoding."</p>
+<p><strong>Dr. Brenner:</strong> "And you didn't think to run a diagnostic or double-check the work before finalizing the project?"</p>
+<p><strong>Janine:</strong> "It was an oversight on my part. I honestly thought the backup systems would've prevented any data corruption."</p>
+<p><strong>Dr. Brenner:</strong> "Understandable, though costly. Have you any thoughts on the array of effects we're witnessing with SCP-26086?"</p>
+<p><strong>Janine:</strong> "It’s unprecedented. I can't help but think that what we have here, despite the failure, could be a breakthrough in cognitive and memetic research. It’s almost... adaptive."</p>
+<p><strong>Dr. Brenner:</strong> "Adaptive? That's an intriguing way to put it. We'll need to conduct further experiments with additional safety precautions. Thank you, Janine. That will be all for now."</p>
+<p><strong>Janine:</strong> "Dr. Brenner, if I may ask... I've heard staff have been... less than pleased with me. Is that true?"</p>
+<p><strong>Dr. Brenner:</strong> "Janine, this is a professional environment. Let's focus on the job at hand. We'll discuss office relations another time."</p>
+<p>[End of Interview Log]</p></div>
