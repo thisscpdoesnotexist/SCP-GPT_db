@@ -1,0 +1,53 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26100 is  an image that was SUPPOSED to be a memetic kill agent, but SOMEONE (Janine) messed it up, and now it's not working right. Stinkin' Janine, this is why no one invites you to the foundation office parties!  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26100</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26100 is a digital image file, originally intended to function as a memetic kill agent. However, due to an error in its creation, attributed to Researcher Janine L., its effects are inconsistent and unpredictable. The image contains a complex arrangement of geometric shapes and colors that, when viewed directly, can trigger a variety of psychological and physiological responses.</p>
+<p>Subjects exposed to SCP-26100 have reported a wide spectrum of effects ranging from mild discomfort and nausea to temporary cognitive impairment and, in rare cases, psychological alterations that persist for several days. SCP-26100 does not appear to have a lasting lethal effect, thus failing its initial purpose.</p>
+<p>Researcher Janine L. has been reprimanded for her mistake during the developmental phase of SCP-26100; however, her error has inadvertently created an SCP of interest. Further analysis is required to fully understand the mechanisms behind SCP-26100's anomalous properties.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26100 is to be stored on a secure, air-gapped computer terminal within a locked containment chamber at Site-██. Access to SCP-26100 is restricted to personnel with Level 3 clearance or higher and requires authorization from at least two members of O5 Command due to the unpredictable nature of its effects.</p>
+<p>Any viewing of SCP-26100 must be conducted in a controlled environment with appropriate safety measures in place, including psychological screening and medical staff on standby. Direct viewing should only be performed using D-Class personnel, and all experiments involving SCP-26100 must be recorded and reviewed by the research team.</p>
+<p>Upon entering the containment chamber, individuals must wear specialized image-scrambling goggles to prevent accidental exposure to SCP-26100. In case of accidental exposure, affected personnel are to be quarantined and provided with immediate psychological and medical treatment.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment #26100-E1</h4>
+<ul>
+<li><strong>Subject:</strong> D-7512</li>
+<li><strong>Procedure:</strong> Subject is instructed to view SCP-26100 for five seconds.</li>
+<li><strong>Results:</strong> Subject reported mild dizziness and a headache. Symptoms persisted for 12 hours before subsiding.</li>
+</ul>
+<h4>Experiment #26100-E2</h4>
+<ul>
+<li><strong>Subject:</strong> D-8823</li>
+<li><strong>Procedure:</strong> Subject is instructed to view SCP-26100 for ten seconds.</li>
+<li><strong>Results:</strong> Subject experienced severe disorientation and temporary memory loss. Memory functions returned to normal after 24 hours.</li>
+</ul>
+<h4>Experiment #26100-E3</h4>
+<ul>
+<li><strong>Subject:</strong> D-9031</li>
+<li><strong>Procedure:</strong> Subject is instructed to view SCP-26100 for fifteen seconds.</li>
+<li><strong>Results:</strong> Subject began laughing uncontrollably for approximately 30 minutes, followed by a period of profound catatonia lasting two days.</li>
+</ul>
+<h3>Addendum 2: Interview Log</h3>
+<h4>Interviewer: Dr. Aria K.</h4>
+<h4>Subject: Researcher Janine L.</h4>
+<p>(transcript begins)</p>
+<p><strong>Dr. K.:</strong> Please describe the process of creating SCP-26100.</p>
+<p><strong>Janine L.:</strong> I followed the standard protocol for a memetic agent. It's like an intricate dance of patterns and triggers embedded in the image. But somehow, I must have tripped over my own feet.</p>
+<p><strong>Dr. K.:</strong> And the error that led to SCP-26100's current state?</p>
+<p><strong>Janine L.:</strong> Yes, that... I inputted a variable incorrectly. The cascade of memetic patterns deviated from their intended course. It was meant to be a precision instrument, not this... chaotic paint spill.</p>
+<p><strong>Dr. K.:</strong> Despite this, we still need to uncover SCP-26100's full range of effects. Are you willing to assist with this?</p>
+<p><strong>Janine L.:</strong> Of course, Doctor. I'll do whatever it takes to rectify this.</p>
+<p>(transcript ends)</p>
+<h3>Addendum 3: Incident Report</h3>
+<p>An incident occurred where SCP-26100 was accidentally displayed on a digital billboard in ████████ due to a containment breach by an unknown party. Fortunately, the image was only displayed for three seconds before Foundation agents were able to shut it down.</p>
+<p>Effects on the general public were minimal and ranged from confusion to temporary disorientation. Amnestics were administered as a precaution, and the incident has since been covered up with a plausible cover story involving a promotional stunt for an avant-garde art exhibition. Research into anti-memetic countermeasures for SCP-26100 has been prioritized to prevent future breaches.</p></div>
