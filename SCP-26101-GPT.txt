@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26101 is  the war between freshwater and saltwater mermaids </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26101</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26101 is a bizarre and unique phenomenon involving two distinct groups of anomalous humanoids referred to as "Freshwater Mermaids" and "Saltwater Mermaids." These entities resemble traditional depictions of mermaids — upper bodies resembling that of an average human female, with the lower half being that of a fish — but possess abilities far exceeding known aquatic fauna.</p>
+<p>Freshwater Mermaids are found in lakes and rivers and can manipulate water currents, produce soporific songs, and exhibit rapid regenerative abilities when within their freshwater domain. Conversely, Saltwater Mermaids, hailing from the oceans, display control over sea life, can generate severe weather patterns as defensive mechanisms, and have a superior agility and strength in saltwater environments.</p>
+<p>SCP-26101 pertains to an ongoing conflict of unknown origin between these two groups. The phenomenon escalates through direct skirmishes, environmental manipulation, and spreading influence over local wildlife. The reasons behind the conflict remain unclear, and communication attempts have been met with hostility or evasion.</p>
+<p>The hostility and occurrences related to SCP-26101 have shown potential for significant environmental impact, negative effects on global ecosystems, and severe disruptions to human activities, such as fishing, transportation, and coastal communities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the widespread and mobile nature of SCP-26101, standard containment is not feasible. An international task force designated "Neptune's Peacekeepers" (NP) has been established to monitor, mediate, and mitigate the conflict where possible. Agents within this task force are trained in deep-sea diplomacy, combat, and ensure that knowledge of SCP-26101 remains within the Foundation.</p>
+<p>Containment efforts are focused on intelligence gathering, tracking the movements and activities of both Freshwater and Saltwater Mermaids, using satirical tracking, sonar beacons, and informant sea life previously influenced by the anomalous entities.</p>
+<p>Foundation web crawlers are to monitor social media, news outlets, and cryptobiological forums for evidence of SCP-26101 activity and intervene to prevent public dissemination of related information.</p>
+<p>Direct intervention is authorized when skirmishes threaten to escalate to a point where they may cause large-scale environmental destruction or expose the existence of the SCP. In such cases, amnestic treatment of witnesses and manipulation of global media to present natural explanations for any public collateral damage are standard procedures.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-26101 was first brought to the Foundation's attention after several fishing villages in different parts of the world reported similar attacks involving anomalous creatures. Local myths and legends spoke of 'mermaid wars,' but these stories were largely ignored until the Foundation corroborated various encounters and evidence of struggle underwater detected by autonomous submersibles.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment #26101-A:</h4>
+<p><strong>Objective:</strong> Understanding Freshwater Mermaids' influence on freshwater fauna.
+<strong>Procedure:</strong> Introduced non-anomalous fish to a small, contained lake known for Freshwater Mermaid activity.
+<strong>Results:</strong> Fish exhibited altered behavior within three hours, congregating in unnatural formations and displaying aggression when approached by non-anomalous predators.</p>
+<h4>Experiment #26101-B:</h4>
+<p><strong>Objective:</strong> Attempt to communicate with a Saltwater Mermaid captured near the Bermuda Triangle.
+<strong>Procedure:</strong> Saltwater Mermaid was contained in a large, secure aquatic facility designed to mimic open-ocean conditions.
+<strong>Results:</strong> The entity appeared to understand but refused to communicate in any human language. It exhibited signs of distress until released.</p>
+<h4>Experiment #26101-C:</h4>
+<p><strong>Objective:</strong> To test the regeneration capabilities of Freshwater Mermaids when removed from their freshwater environment.
+<strong>Procedure:</strong> A Freshwater Mermaid voluntarily allowed a minor wound to be inflicted before being transferred to a saltwater tank.
+<strong>Results:</strong> Regenerative abilities were significantly hindered in the saltwater environment, suggesting that their anomalous properties are tied to their respective aquatic domains.</p>
+<h3>Addendum 3: Interview Transcript</h3>
+<p><em>The following is a partial transcript of an interview with a suspected informant posing as a marine biologist who claimed indirect contact with SCP-26101.</em></p>
+<p><strong>Dr. Kline:</strong> For the record, please state your name.</p>
+<p><strong>Informant:</strong> Dr. Evan Martinez.</p>
+<p><strong>Dr. Kline:</strong> Dr. Martinez, please describe your encounter with SCP-26101.</p>
+<p><em>Informant proceeds with a detailed account involving documentable evidence of the war between Freshwater and Saltwater Mermaids, including recovered artifacts, injured wildlife, and direct observation of a confrontation.</em></p>
+<p><strong>Dr. Kline:</strong> Can you provide any insight into the cause of their conflict?</p>
+<p><strong>Informant:</strong> No conclusive evidence, but there is an underlying tone of territory and resource control. Some local legends suggest a primal rift between the two factions, but nothing concrete.</p>
+<p><strong>Dr. Kline:</strong> How do you propose the Foundation approach a resolution?</p>
+<p><strong>Informant:</strong> Direct engagement is risky, but there must be a focus on finding a common ground or an arbitrative entity acceptable to both sides. Until then, containment and suppression of events to minimize wide-scale impact are critical.</p>
+<p><strong>Dr. Kline:</strong> Thank you, Dr. Martinez, for your cooperation.</p>
+<p><em>The interview continues with more detailed questions regarding the informant's observations. Measures were taken to verify the validity of Dr. Martinez's claims, and he was later offered a consultant position with Task Force Neptune's Peacekeepers.</em></p></div>
