@@ -1,0 +1,64 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26103 is  a woman with an average internal body temperature of 0°K </h3> </center>
+    <p>```</p>
+<h3>Item #:</h3>
+<p>SCP-26103</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26103 is a humanoid entity, externally resembling a 30-year-old female of Mediterranean descent with dark hair and an athletic build. All physiological characteristics align with that of a healthy human female of comparable age and ethnicity, except for its internal body temperature, which is consistently measured at 0 Kelvin (-273.15°C), defying the currently understood laws of physics.</p>
+<p>Despite this anomaly, SCP-26103 exhibits no signs of discomfort, cellular damage, or biological processes cessation that would typically result from such extreme cold. Moreover, the entity possesses the ability to absorb heat from its environment at a rate corresponding to its immediate requirements to maintain a temperature differential with its surroundings. This absorption occurs in a radius of approximately 2 meters and has been observed to cause rapid freezing of water and air molecules, resulting in a localized drop in ambient temperature and various frost-related phenomena.</p>
+<p>SCP-26103 displays sentience and sapience, with cognitive abilities and behavioral patterns indistinguishable from an average human female of its apparent age. However, the entity expresses persistent confusion and signs of distress when queried about its condition, claiming no knowledge of its origin or the nature of its abilities.</p>
+<p>Due to the potential harm SCP-26103 could inadvertently cause to its surroundings and the global implications of its thermodynamic defiance, containment and research have been deemed a top priority.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the specific nature of SCP-26103's anomalous properties, it is to be contained in a specially designed humanoid containment cell located at Site-██. The cell's walls are to be constructed with a triple-insulated material with an interior layer capable of rapid temperature adjustment to counteract the heat absorption effects of SCP-26103.</p>
+<p>Environmental control systems must be monitored at all times and maintained at a temperature no lower than 20°C. Temperature sensors are to be placed every half meter along all walls, floor, and ceiling to detect any thermal anomalies that may arise during containment breaches. In case of a breach, emergency response teams equipped with thermal suits and insulated containment devices must be dispatched.</p>
+<p>No personnel are to enter SCP-26103's containment cell without proper heat-retention suits and maintaining a safe distance of 3 meters from the entity at all times. All interactions with SCP-26103 are to be conducted remotely or through a small, double-sealed communication compartment that permits verbal but not physical contact.</p>
+<h3>Addendum 1: Incident Report 26103-Alpha</h3>
+<p>On ██/██/20██, a containment breach occurred when SCP-26103's absorption rate unexpectedly increased, leading to the failure of the temperature control systems. The entity expressed remorse for the event, which resulted in the hospitalization of three personnel for severe hypothermia. Following this incident, containment procedures were updated, and SCP-26103 was relocated to a more secure facility.</p>
+<h3>Addendum 2: Experiment Log 26103</h3>
+<p><strong>Experiment A</strong>
+- <strong>Date:</strong> ██/██/20██
+- <strong>Purpose:</strong> Determine the maximum radius of thermal absorption in controlled conditions.
+- <strong>Procedure:</strong> Incrementally moved a heated object closer to SCP-26103 and measured temperature changes.
+- <strong>Result:</strong> Heat absorption detected at a maximum range of 2.1 meters.</p>
+<p><strong>Experiment B</strong>
+- <strong>Date:</strong> ██/██/20██
+- <strong>Purpose:</strong> Observe the effects of SCP-26103's heat absorption on living organisms.
+- <strong>Procedure:</strong> Introduced D-43829 into the containment cell with thermal protection gear. D-43829 was instructed to slowly approach SCP-26103.
+- <strong>Result:</strong> D-43829 reported noticeable discomfort at a distance of 1.5 meters. The approach was aborted at 1 meter due to risk of injury.</p>
+<p><strong>Experiment C</strong>
+- <strong>Date:</strong> ██/██/20██
+- <strong>Purpose:</strong> Evaluate SCP-26103's control over its heat absorption.
+- <strong>Procedure:</strong> Asked SCP-26103 to attempt to suppress its absorption ability while measuring ambient temperature.
+- <strong>Result:</strong> SCP-26103 claimed inability to suppress its effect. Minor fluctuations detected but not significant enough to denote control.</p>
+<p><strong>Experiment D</strong>
+- <strong>Date:</strong> ██/██/20██
+- <strong>Purpose:</strong> Assess whether SCP-26103's properties affect inanimate objects differently than organic matter.
+- <strong>Procedure:</strong> Exposed various objects (wood, metal, plastic, water) to SCP-26103 at a distance of 1 meter.
+- <strong>Result:</strong> All objects rapidly decreased in temperature and exhibited signs of frost formation. No differentiation in effect between inanimate and organic matter observed.</p>
+<h3>Addendum 3: Interview Log 26103</h3>
+<p><strong>Interviewer:</strong> Dr. ████</p>
+<p><strong>Subject:</strong> SCP-26103</p>
+<p><strong><Begin Log></strong></p>
+<p><em>Dr. ████</em>: Good afternoon SCP-26103. I'll be asking you a series of questions to better understand your condition.</p>
+<p><em>SCP-26103</em>: Please, call me [REDACTED]. These numbers... they make me feel so... cold.</p>
+<p><em>Dr. ████</em>: Very well. [REDACTED], can you recall when you first noticed your... unusual temperature?</p>
+<p><em>SCP-26103</em>: Not exactly. It seems like it's always been this way, but I noticed people around me reacted strangely when they got close.</p>
+<p><em>Dr. ████</em>: Can you control your heat absorption in any way?</p>
+<p><em>SCP-26103</em>: I've tried, oh how I've tried. It's like breathing, doctor. Can you stop your breath from fogging a window on a cold day?</p>
+<p><em>Dr. ████</em>: Understood. Tell me, have you experienced physical sensations such as cold or heat?</p>
+<p><em>SCP-26103</em>: I don't feel cold or heat like others do. The cold is inside me, a part of me, but not something my skin perceives. It's paradoxical, isn't it?</p>
+<p><em>Dr. ████</em>: Quite. Are you aware of the dangers your condition poses to others?</p>
+<p><em>SCP-26103</em>: Yes, and I never wanted any of this. I can see the frostbite on their faces, the fear in their eyes. Isolation isn't new to me, but causing pain to others... that's a living nightmare.</p>
+<p><em>Dr. ████</em>: Do you remember anything before becoming... what you are now?</p>
+<p><em>SCP-26103</em>: Snippets, fragments of another life, or perhaps a dream. Warm summer days, a child’s laughter... It's all... so cold now.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Closing Remarks:</strong> SCP-26103 appears genuinely distressed by its condition and cooperative but lacks control over its anomalous properties. Further research and observation are necessary to understand and potentially mitigate the risks associated with SCP-26103's presence.</p>
+<p>```</p></div>
