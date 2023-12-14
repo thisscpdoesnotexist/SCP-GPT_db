@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26105 is  a monkfish monastery  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26105</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26105 is a secluded monastery located in <strong>*</strong>, thought to have been established in the late 12th century. The structure is architecturally consistent with other monastic buildings of that period. What distinguishes SCP-26105 from other monasteries is its inhabitants, which are entities referred to herein as SCP-26105-1.</p>
+<p>SCP-26105-1 are sentient beings that outwardly resemble monkfish (Lophius piscatorius). These entities have demonstrated the surprising capability to survive both in aquatic environments and on land. On land, they navigate using a unique form of locomotion that involves using their elongated dorsal fin spines as a means to 'walk'. </p>
+<p>The entities seem to adhere to a strict monastic lifestyle, with observed behaviors including the conducting of what appears to be religious ceremonies, periods of 'silent meditation', and the creation of intricate illuminated manuscripts using an unknown script. SCP-26105-1 have demonstrated a high degree of intelligence and some have shown the ability to communicate using rudimentary English, although their primary form of communication among themselves seems to be telepathic.</p>
+<p>It is currently unknown how SCP-26105-1 are able to perform such tasks without apparent organs for manipulation or how they maintain their monastic lifestyle. They exhibit a form of social hierarchy, with certain individuals adorned with simple jewelry, which may signify ranks or roles within their society.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its remote location and the risk of public revelation, the monastery has been surrounded by a 3-meter-high stone wall which was constructed to appear as though it is a part of the local landscape. All access points have been camouflaged to prevent unintentional discovery. </p>
+<p>A small contingent of Foundation personnel is stationed in a covert observation post nearby to monitor SCP-26105 and SCP-26105-1 activities and interactions. Research staff are to don monastic robes when interacting with SCP-26105-1 to facilitate observation and limit disturbance to their societal structure.</p>
+<p>Personnel are instructed to avoid unnecessary contact with SCP-26105-1 and are to intervene only in scenarios where the entity's actions could lead to a containment breach or pose a significant threat to themselves or the Foundation. Non-lethal deterrents have been authorized in such cases. </p>
+<p>It is critical that no technology or modern items be left behind, as SCP-26105-1 have shown intense interest in new objects, which has the potential to disrupt their social order and behavior.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-26105 was discovered by a mountain climber who stumbled upon the monastery and filmed what they thought were people in elaborate costumes performing a ritual. The video quickly caught the attention of the SCP Foundation, which then proceeded to investigate and contain the anomaly. A cover story involving hazardous structural instability was released to the public to explain the area's permanent closure.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26105-Alpha:</h4>
+<p><strong>Objective:</strong> Determine SCP-26105-1's range of understanding spoken English.</p>
+<p><strong>Procedure:</strong> A researcher approached SCP-26105-1 with a list of simple phrases and questions in English.
+<strong>Results:</strong> Some SCP-26105-1 responded with nods or gestures. However, one entity began to reproduce the sounds with high accuracy, indicating a potential for parrot-like mimicry or comprehension.</p>
+<h4>Experiment 26105-Beta:</h4>
+<p><strong>Objective:</strong> Assess SCP-26105-1 ability to interact with modern technology.</p>
+<p><strong>Procedure:</strong> A touch-screen tablet with simple games and drawing applications was left in the central observatory of the monastery.
+<strong>Results:</strong> SCP-26105-1 exhibited caution at first but eventually began to interact with the device. They demonstrated an ability to learn and utilize the interface, with a clear preference for the drawing application. The device was later retrieved, showing numerous drawings in the same script found in their manuscripts.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewed:</strong> SCP-26105-1-B (referred to as Brother Fin)</p>
+<p><strong>Interviewer:</strong> Dr. Amara Singh</p>
+<p><strong>Foreword:</strong> Brother Fin was identified as one of the more communicative SCP-26105-1 entities and was selected for a structured interview.</p>
+<p><Begin Log></p>
+<p><strong>Dr. Singh:</strong> Good morning, Brother Fin. How are you today?</p>
+<p><strong>Brother Fin:</strong> [Produces a series of guttural noises which, through extensive prior interaction, have been interpreted as a form of greeting.]</p>
+<p><strong>Dr. Singh:</strong> Can you tell me about your role in the monastery?</p>
+<p><strong>Brother Fin:</strong> [The entity maneuvers the spines on its head to produce a series of rhythmic taps on the stone floor.]</p>
+<p><strong>Dr. Singh:</strong> [after a pause] Uh, our records indicate that you may be one of the monks responsible for the manuscripts. Is that correct?</p>
+<p><strong>Brother Fin:</strong> [Makes a low rumbling sound and gestures toward a nearby illuminated manuscript.]</p>
+<p><strong>Dr. Singh:</strong> Can you explain what the writings mean?</p>
+<p><strong>Brother Fin:</strong> [Remains silent before emitting a series of harmonic tones, which analysis has suggested might convey complex meanings or emotions beyond human understanding.]</p>
+<p><strong>Dr. Singh:</strong> Do you comprehend the nature of your existence? That you are different from the creatures of the sea and the people outside your walls?</p>
+<p><strong>Brother Fin:</strong> [After a considerable pause, Brother Fin extends a fin towards Dr. Singh, touching gently upon her notebook, leaving a wet imprint.]</p>
+<p><strong>Dr. Singh:</strong> Thank you, Brother Fin. We have much to learn from each other.</p>
+<p><End Log></p>
+<p><strong>Closing Statement:</strong> The indelible mark left on the notebook began to glow faintly once Brother Fin retracted his fin. It disintegrated shortly after, suggesting that SCP-26105-1 may have anomalous effects involving their physical interactions. Further study is required to understand the full implications of this phenomenon.</p>
+<p>[End of report on SCP-26105.]</p></div>
