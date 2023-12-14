@@ -1,0 +1,53 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26087 is  the Balto trilogy </h3> </center>
+    <h1>SCP-26087: The Balto Trilogy</h1>
+<h3>Item #:</h3>
+<p>SCP-26087</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26087 refers to a set of three animated feature-length films titled "Balto", "Balto II: Wolf Quest", and "Balto III: Wings of Change". These films superficially appear identical to the publicly available versions produced by Universal Pictures in the mid-to-late 1990s and early 2000s. However, SCP-26087 exhibits numerous anomalous properties when viewed or interacted with.</p>
+<p>When any individual (hereafter referred to as a subject) watches SCP-26087 in its entirety, a series of psychological and physiological changes occur. The subject begins to express a deep affinity for the characters and themes presented in the films. Within 24-48 hours post-viewing, the subject exhibits canine-like traits including enhanced olfactory senses, preference for quadrupedal movement, and in advanced stages, physical transformations such as the growth of fur, claws, and the restructuring of facial bones to resemble the film's protagonist, Balto.</p>
+<p>Moreover, subjects become increasingly delusional, often believing themselves to be characters from the SCP-26087 narrative, and in severe cases, act out scenes from the films with potentially dangerous consequences. Attempts to restrain or correct the behavior through conventional means have proven ineffective.</p>
+<p>The mechanism by which SCP-26087 alters the viewer's biology and psychology remains the subject of intense research. The films' ability to perpetuate these effects does not appear to diminuish with duplication, and all copies regardless of format (DVD, Blu-ray, digital) exhibit the same anomalous properties.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26087 is to be kept in a high-security, locked container at Site-██. The container is to be stored within a secure multimedia archive. Access to SCP-26087 is strictly prohibited unless authorized by personnel with a security clearance level of 4 or higher, and only for the purpose of research or containment.</p>
+<p>In the event that unauthorized viewing occurs, the area is to be quarantined immediately, and affected individuals are to be detained and administered Class-C amnestics. Long-term psychological and physiological observation is mandated for subjects post-exposure.</p>
+<p>Site-██ is equipped with jamming devices to prevent any wireless transfer of SCP-26087's digital copies. All internet service providers globally are monitored for unauthorized distribution of SCP-26087. Any attempts to upload or distribute SCP-26087 are to be traced, and the responsible individuals are to be apprehended and interrogated.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment #26087-01:</h4>
+<p><strong>Objective:</strong> To determine if the effects of SCP-26087 are consistent across different media formats.
+<strong>Procedure:</strong> D-class personnel were exposed to SCP-26087 on DVD, Blu-ray, and a digital streaming platform separately.
+<strong>Results:</strong> All subjects began to exhibit transformations and behavioral changes within 36 hours. No variation in the effects based on the format was observed.
+<strong>Notes:</strong> The consistency of the anomaly across formats is concerning, and suggests no current method of containment through degradation of quality or media obscurity.</p>
+<h4>Experiment #26087-02:</h4>
+<p><strong>Objective:</strong> To assess the effects of partial exposure to SCP-26087.
+<strong>Procedure:</strong> Subjects were shown only 30-minute segments of each film of the trilogy.
+<strong>Results:</strong> Partial exposure resulted in diminished effects. Subjects reported feelings of discomfort and mild confusion, but no physiological changes occurred.
+<strong>Notes:</strong> It seems that a full viewing of SCP-26087 is necessary for the transformative effects to manifest.</p>
+<h4>Experiment #26087-03:</h4>
+<p><strong>Objective:</strong> Determine if animals are affected by SCP-26087.
+<strong>Procedure:</strong> Various household pets and zoo animals were exposed to SCP-26087.
+<strong>Results:</strong> No observable effects on non-human subjects.
+<strong>Notes:</strong> SCP-26087's effect is limited to humans. This could be linked to the psychological component of the anomaly.</p>
+<h3>Addendum 2: Incident Report</h3>
+<p>An incident occurred where SCP-26087 was accidentally played in a Site-██ break room. Three junior researchers and two security personnel were exposed. The area was quarantined within minutes, and the affected individuals were contained. Despite immediate intervention, transformation and delusion rapidly ensued. One researcher attempted to escape, proclaiming himself to be "the true alpha". The security breach was rectified with minor injuries involved.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. ██████
+<strong>Interviewee:</strong> D-███, post-exposure to SCP-26087</p>
+<p><strong>Dr. ██████:</strong> Can you tell me your name?</p>
+<p><strong>D-███:</strong> I am Balto, the son of a sled dog and a wolf. I don't belong among men or pack. I am an outcast.</p>
+<p><strong>Dr. ██████:</strong> I see. How do you feel about your transformation?</p>
+<p><strong>D-███:</strong> It's my destiny. To be a true hero, one must embrace their nature. I must lead the lost to safety.</p>
+<p><strong>Dr. ██████:</strong> Are you aware that you are D-███ and not a character from a film?</p>
+<p><strong>D-███:</strong> You speak in riddles, like Steele.</p>
+<p><em>(Subject begins to growl. Interview terminated.)</em></p>
+<p><strong>Notes:</strong> Subjects are entirely convinced of their new identities. This delusion presents significant containment challenges.</p>
+<hr />
+<p>Continued research and updated containment procedures are imperative for SCP-26087. Its unpredictable nature and the potential for mass psychological disturbance are of paramount concern to the Foundation.</p></div>
