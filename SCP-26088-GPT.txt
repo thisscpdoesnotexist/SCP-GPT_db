@@ -1,0 +1,43 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26088 is  … well… it just *is* okay? And that's all you're going to get! </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26088</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26088 is a metaphysical entity or phenomenon that defies extensive documentation due to its inherent nature—it 'just is,' as noted by personnel attempting to describe it. This entity or concept lacks a stable physical form or consistent behavior pattern, leading to significant challenges in classification and study.</p>
+<p>Observations suggest that SCP-26088 can manipulate reality to a degree, changing the fundamental properties of objects, forces, or even concepts within a localized area. The 'just is' descriptor often used by researchers and witnesses conveys the inexplicable and circular logic encountered when trying to grasp SCP-26088's existence or purpose.</p>
+<p>SCP-26088's presence is often marked by a series of subjective and intangible effects on nearby individuals. These effects range from minor disturbances in thought processes to complete alterations in the perception of self or environment. Physical manifestations are rare but have included transient anomalies and temporary voids in local spacetime which resolve spontaneously.</p>
+<p>Despite the current lack of understanding, SCP-26088 has been deemed Keter due to the unpredictable and potentially catastrophic consequences of its actions, particularly if it were to affect a wider area or more critical aspects of reality.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26088's elusive and non-corporeal nature, physical containment is not possible. Instead, containment efforts focus on monitoring and rapid response.</p>
+<p>A team of researchers specialized in metaphysical and existential anomalies (Designated Team "Para-Logicians") is tasked with developing theoretical models for predicting SCP-26088's activity and devising potential containment strategies. These models are to be updated continuously based on observed behavior patterns of SCP-26088.</p>
+<p>Any reported manifestation or event that could be attributed to SCP-26088 is to be immediately investigated by Mobile Task Force Psi-7 ("Home Wreckers"). Their primary objectives are to suppress public knowledge, administer amnestics when necessary, and collect data for analysis.</p>
+<p>Information on SCP-26088 is to be disseminated on a need-to-know basis to prevent unnecessary exposure to its effects. Personnel who have come into contact with it are to undergo psychological evaluation and cognitive hazard deprogramming.</p>
+<h3>Addendum 1: Incident Report</h3>
+<p>[Notable incidents related to SCP-26088, including any significant breach events or particularly revealing occurrences.]</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 26088-A:</strong>
+- <strong>Objective:</strong> To determine the extent SCP-26088 can influence physical objects.
+- <strong>Procedure:</strong> A standard D-class holding cell was furnished with various objects such as a chair, table, and a number of small personal items.
+- <strong>Result:</strong> The items within the cell underwent numerous nonsensical transformations, including a chair repeatedly phasing in and out of existence, a table continually rotating its material composition, and personal items merging and unmerging.</p>
+<p><strong>Experiment 26088-B:</strong>
+- <strong>Objective:</strong> To observe SCP-26088's effect on complex machines.
+- <strong>Procedure:</strong> A fully assembled automobile was placed in a secure containment area thought to be frequented by SCP-26088.
+- <strong>Result:</strong> The automobile spontaneously disassembled and reassembled in a non-functional configuration, with key components embedded within others in impossible ways.</p>
+<p>[Further experiments detailing SCP-26088's interaction with various stimuli.]</p>
+<h3>Addendum 3: Interview/Debriefing Log</h3>
+<p><strong>Interview Log 26088-C:</strong>
+- <strong>Interviewer:</strong> Dr. ██████
+- <strong>Subject:</strong> D-93527 (post-exposure to SCP-26088)
+- <strong>Transcript:</strong> [Lengthy transcript detailing the subject's attempts to articulate the experience of SCP-26088's presence, describing it with various paradoxes and conflicting statements. Subject exhibits signs of cognitive dissonance and existential stress.]</p>
+<p><strong>Debriefing Log 26088-D:</strong>
+- <strong>Participant:</strong> Dr. ██, who experienced a minor SCP-26088 event during Experiment 26088-B.
+- <strong>Summary:</strong> Dr. ██ reports transient but intense feelings of "being and not-being simultaneously," accompanied by visual hallucinations of geometric impossibilities. After thorough debriefing, Dr. ██ was cleared for return to duty with mandatory psychological monitoring.</p>
+<p>[end of addenda]</p></div>
