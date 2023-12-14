@@ -1,0 +1,66 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26083 is  immune to fall damage </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26083</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26083 is a humanoid entity standing at approximately 1.83 meters in height, displaying no outstanding physical features apart from a pronounced resistance to injuries sustained from falls from any height. The entity's age, gender, and ethnic background are indistinguishable, as SCP-26083 has demonstrated the ability to alter its appearance subtly, though it retains its humanoid form at all times.</p>
+<p>Skin, hair, eye color, and facial features are subject to minor alteration over time, seemingly at the entity's will, or perhaps as an involuntary response to an as-yet-unknown stimulus. SCP-26083 has been observed surviving drops from heights exceeding 10,000 meters without any signs of distress or injury. To date, no maximum effective altitude has been determined.</p>
+<p>SCP-26083 communicates in an unidentified language. Attempts at translation are ongoing, with limited success. It has, however, demonstrated understanding of several human languages, including English, Mandarin, and Russian.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26083 is to be contained within a 10m x 10m x 10m reinforced concrete cell with an impact-absorbing floor, located at Site-██. The cell is to be monitored at all times via video surveillance equipped with motion sensors. Due to its abilities, the containment chamber should be designed to minimize the distance between any two points to prohibit any incidents involving high velocity or acceleration that SCP-26083 might inadvertently exploit to its advantage.</p>
+<p>No personnel are allowed to enter SCP-26083's containment chamber unless authorized by at least two Level 4 personnel. In case SCP-26083 attempts to use its anomaly offensively, the entire containment chamber can be flooded with a fast-hardening resin to immobilize the entity temporarily. </p>
+<p>Meals are to be delivered three times a day through an automated system that does not allow direct line-of-sight access. Psychological counseling is available to SCP-26083 via intercom, with the presumption that communication may be beneficial to both containment stability and research.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-26083 was discovered following reports of an individual surviving multiple instances of high-altitude falls without apparent injury in the region of [REDACTED]. Foundation assets embedded within local law enforcement agencies were successful in tracking and apprehending the entity without incident.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment #26083-01</h4>
+<ul>
+<li><strong>Objective:</strong> To determine the limit of SCP-26083's anomaly.</li>
+<li><strong>Procedure:</strong> Dropping SCP-26083 from a height of 100 meters.</li>
+<li><strong>Result:</strong> SCP-26083 landed on its feet without injury.</li>
+<li><strong>Notes:</strong> SCP-26083 expressed mild irritation but remained cooperative.</li>
+</ul>
+<h4>Experiment #26083-02</h4>
+<ul>
+<li><strong>Objective:</strong> To observe SCP-26083's behavior under extreme stress.</li>
+<li><strong>Procedure:</strong> Dropping SCP-26083 from a height of 10,000 meters.</li>
+<li><strong>Result:</strong> SCP-26083 assumed a relaxed posture during freefall, and upon landing, stood up without injury.</li>
+<li><strong>Notes:</strong> SCP-26083 remarked in an unidentified language; still in translation.</li>
+</ul>
+<h4>Experiment #26083-03</h4>
+<ul>
+<li><strong>Objective:</strong> To test if SCP-26083's anomaly is transferable.</li>
+<li><strong>Procedure:</strong> SCP-26083 was asked to hold a standard test dummy during a fall from 500 meters.</li>
+<li><strong>Result:</strong> The test dummy was destroyed upon impact. SCP-26083 remained unharmed.</li>
+<li><strong>Notes:</strong> This rules out the possibility of an external anomalous field around SCP-26083.</li>
+</ul>
+<h3>Addendum 3: Interview</h3>
+<h4>Interview Log SCP-26083-07 (Excerpt)</h4>
+<ul>
+<li><strong>Interviewer:</strong> Dr. ████</li>
+<li><strong>Subject:</strong> SCP-26083</li>
+</ul>
+<p><Begin Log></p>
+<p><strong>Dr. ████:</strong> Can you tell us how you came to possess these abilities?</p>
+<p><em>[SCP-26083 pauses, its face shifting through several different expressions in rapid succession before settling on a neutral one.]</em></p>
+<p><strong>SCP-26083:</strong> [Untranslatable]</p>
+<p><strong>Dr. ████:</strong> Are you aware of any limitations to your resilience against falls?</p>
+<p><em>[SCP-26083 crosses its legs and sits down, a gesture that surprisingly mirrors contemplation.]</em></p>
+<p><strong>SCP-26083:</strong> [Untranslatable]</p>
+<p><em>[Despite the lack of a known language, the tone suggests a negative response.]</em></p>
+<p><strong>Dr. ████:</strong> What do you experience during these falls? Are there any sensory changes?</p>
+<p><em>[SCP-26083 stands abruptly and begins pacing in a repetitive pattern.]</em></p>
+<p><strong>SCP-26083:</strong> [Untranslatable] Air. [Untranslatable] Freedom?</p>
+<p><strong>Dr. ████:</strong> Interesting. Do you conflate falling with freedom?</p>
+<p><em>[SCP-26083's pattern of motion halts. It looks toward Dr. ████ for a prolonged period before resuming a seated position.]</em></p>
+<p><strong>SCP-26083:</strong> Freedom. [Untranslatable]</p>
+<p><End Log></p>
+<p><strong>Closing Notes:</strong> While communication remains largely ineffective, a pattern of nonverbal cues is beginning to form a baseline for interaction. An emphasis on "air" and "freedom" suggests a psychological or experiential link to its anomalous properties. Further study is necessary to decode the subject's native language and understand the entity's origin, experiences, and the extent of its abilities.</p></div>
