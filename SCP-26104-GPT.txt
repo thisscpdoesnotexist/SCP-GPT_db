@@ -1,0 +1,51 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26104 is  two frog wizards who hate each other (but there's also an unspoken romantic tension during their regular, destructive wizard duels) </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26104</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26104 refers to two sapient entities resembling common terrestrial frogs (family: Ranidae). However, the entities exhibit abilities far beyond those of any known amphibian species, bearing proficiency in a form of combative and transformative arcane manipulation, which for simplification will be referenced as "magic."</p>
+<p>SCP-26104-A and SCP-26104-B, although similar in their anomalous capabilities, display distinctly different physical characteristics and personalities. SCP-26104-A has a vivid green pigmentation with what appears to be a ceremonial robe-like pattern on its back, which alters colors during the use of its abilities. SCP-26104-B is of a darker shade, primarily mottled brown, and has scar-like markings that glow a faint red while performing magical acts.</p>
+<p>Despite their mutual antipathy and frequent hazardous duels, there exists an undertone of complex emotional tension between the two entities, suggestive of an unspoken romantic attraction. Their confrontations are marked by the use of high-intensity magical effects that pose a significant threat to nearby lifeforms and the environment.</p>
+<p>Both entities are capable of verbal communication in Old High German, though they prefer to communicate via telepathy when not engaged in conflict. Their intelligence levels are comparable to that of average adult humans, and they possess a deep understanding of their arcane abilities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26104 has proven nearly impossible to contain due to their ability to teleport and an apparent awareness of Foundation intentions. Currently, containment efforts are focused on damage mitigation and rapid response to their appearance. A dedicated task force, codenamed "Witch Hunters," equipped with anti-magical equipment and specialized training, has been assigned to track and intercept SCP-26104.</p>
+<p>Foundation personnel are advised to evacuate civilians from the vicinity of an SCP-26104 duel and apply appropriate amnestics following an incident. Due to the unpredictable nature of SCP-26104's magical duels, the area is to be considered a Level-4 Threat Zone until an all-clear signal is given by onsite personnel.</p>
+<p>Attempts at communication and negotiation are ongoing. Researchers are to analyze all encounters with SCP-26104 for any patterns or weaknesses that could be exploited to facilitate containment.</p>
+<h3>Addendum 1:</h3>
+<h4>Experiment Log SCP-26104:</h4>
+<p>The following are abridged entries from experiment log concerning SCP-26104 interactions:</p>
+<p><strong>Experiment #26104-03:</strong>
+- <strong>Objective:</strong> To test the limits of SCP-26104's magical endurance.
+- <strong>Procedure:</strong> Deployed a small drone to surveil and provoke a duel between A and B.
+- <strong>Result:</strong> SCP-26104-A and SCP-26104-B initiated a series of escalating magical attacks, resulting in the complete disintegration of the drone. Duels lasted for approximately three hours before both entities fled.
+- <strong>Notes:</strong> It is unclear if the entities possess finite magical reserves or if their disappearance was due to other factors.</p>
+<p><strong>Experiment #26104-07:</strong>
+- <strong>Objective:</strong> To attempt pacification through the introduction of common interests.
+- <strong>Procedure:</strong> Provided each entity with a selection of literature on varied magical practices, in hopes of fostering a mutual academic interest.
+- <strong>Result:</strong> Entities used the books to fuel a small bonfire over which they roasted marshmallows before engaging in another duel, leaving no survivors.
+- <strong>Notes:</strong> It seems the entities' mutual distaste supersedes scholarly curiosity or camaraderie.</p>
+<h3>Addendum 2:</h3>
+<h4>Interview Log SCP-26104:</h4>
+<p>The following is an excerpt from an interview conducted with SCP-26104-A after a brief period without observed hostilities with SCP-26104-B:</p>
+<p><strong>Interviewer:</strong> Dr. Gemma Heinrich
+<strong>Subject:</strong> SCP-26104-A
+<strong><Begin Log></strong></p>
+<p><strong>Dr. Heinrich:</strong> "SCP-26104-A, we've noticed a lull in your engagements with SCP-26104-B. May we know why?"</p>
+<p><strong>SCP-26104-A:</strong> "It displeases you, does it not? The destruction we bring with our little… disagreements."</p>
+<p><strong>Dr. Heinrich:</strong> "It's not about our displeasure. We are concerned with the safety of others."</p>
+<p><strong>SCP-26104-A:</strong> "Your concern is noted, but superfluous. B and I have reached a temporary… understanding."</p>
+<p><strong>Dr. Heinrich:</strong> "Are you able to share the nature of this understanding?"</p>
+<p><strong>SCP-26104-A:</strong> "A common foe captures our attention. We tire of this game too, sometimes. Now leave me in my contemplations."</p>
+<p><strong><End Log></strong></p>
+<h3>Addendum 3:</h3>
+<h4>Detailed Report of Incident SCP-26104-15:</h4>
+<p>On ██/██/████, SCP-26104-A and SCP-26104-B launched a joint assault against a known Serpent's Hand cell that had been encroaching upon their chosen battlegrounds. This temporary alliance resulted in significant losses for the Serpent's Hand and proved SCP-26104's capability for coordinated efforts when they deem it necessary.</p>
+<p>Further analysis is required to understand the implications of this behavior and whether it can be manipulated for containment purposes. This event has led to the hypothesis that SCP-26104's rivalry may be malleable if presented with a shared external threat of sufficient significance.</p></div>
