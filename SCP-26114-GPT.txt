@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26114 is  a megaphone made from a squirrel, some duct tape, and a megaphone </h3> </center>
+    <h1>SCP-26114</h1>
+<h2>Item #:</h2>
+<p>SCP-26114</p>
+<h2>Object Class:</h2>
+<p>Euclid</p>
+<h2>Special Containment Procedures:</h2>
+<p>SCP-26114 is to be contained in a soundproof, standard containment locker at Site-██. Access to SCP-26114 is restricted to personnel with Level 3 clearance or higher and requires approval from at least two Level 4 senior researchers. Testing with SCP-26114 must be conducted in a soundproof testing chamber, and all personnel involved in such tests must wear protective noise-canceling equipment to prevent auditory exposure to the object's effects.</p>
+<p>Any use of SCP-26114 outside of approved testing is strictly forbidden. In the event of accidental activation, the containment room must be immediately sealed, and an auditory hazard containment team should be dispatched to deactivate SCP-26114. All personnel exposed to the anomalous effects of SCP-26114 are to be quarantined and subjected to a full psychological evaluation before being cleared for duty.</p>
+<h2>Description:</h2>
+<p>SCP-26114 is an anomalous object resembling a standard megaphone but with significant alterations. The body of the device is partially constructed from the processed carcass of a grey squirrel (Sciurus carolinensis), which has been combined with the original plastic components of a megaphone using an excessive amount of commercial-grade duct tape. The squirrel's head protrudes from the narrow end of the megaphone, with its mouth held open by unknown means.</p>
+<p>Upon activation, SCP-26114 amplifies and modulates the user's voice in a manner not consistent with the operation of a normal megaphone. Any vocalizations made into SCP-26114 are transformed into sounds that bear a strong resemblance to the vocalizations of various species of squirrels, with the volume and intensity greatly increased. Listeners report the sounds to be distressing and can experience significant psychological distress if exposed for extended periods. In some cases, prolonged exposure has led to permanent hearing loss and mental instability, including the development of an obsessive compulsion to gather and hoard small objects, akin to the behavior of squirrels preparing for winter.</p>
+<p>Analysis of SCP-26114's components suggests that the anomalous properties are not a result of the individual parts themselves but rather their unique combination. The exact mechanism by which SCP-26114 operates remains unknown. It is hypothesized that there may be a cognitive or memetic component to its operation, as the effects do not correspond with the known physical properties of the materials. </p>
+<h2>Addendum 1: Recovery Log</h2>
+<p>SCP-26114 was recovered on ██/██/20██ after a series of noise complaints from a residential area in ███████, Kentucky. Mobile Task Force Epsilon-6 ("Village Idiots") was dispatched to investigate and successfully contained the object with no civilian casualties. The previous owner, ████ ███████, was taken into custody for questioning and later released after being administered Class-B amnestics.</p>
+<h2>Addendum 2: Experiment Log</h2>
+<p><strong>Experiment 26114-01</strong>
+- <strong>Purpose:</strong> To determine the effect of SCP-26114 on non-human subjects.
+- <strong>Procedure:</strong> SCP-26114 was activated in the presence of lab rats.
+- <strong>Results:</strong> Lab rats displayed significant agitation and attempted to escape the enclosure. No long-term behavioral changes were noted after exposure.
+- <strong>Notes:</strong> Further testing on animals may provide insight into any interspecies variation in response to SCP-26114.</p>
+<p><strong>Experiment 26114-02</strong>
+- <strong>Purpose:</strong> To investigate the potential use of SCP-26114 in crowd control scenarios.
+- <strong>Procedure:</strong> D-Class personnel were instructed to assemble in a large testing chamber, and SCP-26114 was activated.
+- <strong>Results:</strong> D-Class personnel became immediately irritable and combative. The test was aborted after several subjects began to exhibit signs of acute anxiety.
+- <strong>Notes:</strong> Application in crowd control would be ill-advised at this time due to the unpredictable nature of the psychological effects.</p>
+<p><strong>Experiment 26114-03</strong>
+- <strong>Purpose:</strong> To test the maximum effective range of SCP-26114.
+- <strong>Procedure:</strong> SCP-26114 was activated at increasing distances from a group of D-Class subjects equipped with noise-canceling headphones.
+- <strong>Results:</strong> Auditory effects were experienced up to a distance of 300 meters, with sound waves seemingly unaffected by traditional acoustic dampening materials.
+- <strong>Notes:</strong> This experiment confirms the anomalous propagation of sound generated by SCP-26114.</p>
+<h2>Addendum 3: Interview Log</h2>
+<p><strong>Interviewer:</strong> Dr. █████
+<strong>Interviewee:</strong> D-████ (Subject exposed to SCP-26114 during Experiment 26114-02)</p>
+<p><em><Begin Log></em></p>
+<p><strong>Dr. █████:</strong> Please describe your experience during the exposure to SCP-26114.</p>
+<p><strong>D-████:</strong> It started like a bunch of chattering, like squirrels going nuts in your head, you know? But real loud. Hurt like hell.</p>
+<p><strong>Dr. █████:</strong> Did you experience any thoughts or behaviors you found unusual?</p>
+<p><strong>D-████:</strong> Yeah, couldn't stop thinking about... about grabbing stuff, anything I could find, and stuffing it in my pockets. It was weird, like it wasn't me thinking it.</p>
+<p><strong>Dr. █████:</strong> Has this compulsion persisted since your exposure?</p>
+<p><strong>D-████:</strong> Nah, it went away after a bit. But I still can't stand the sound of squirrels—gives me the creeps now.</p>
+<p><em><End Log></em></p>
+<p><strong>Notes:</strong> Psychological effects of SCP-26114, including induced compulsions, appear to be temporary in this instance. Further interviews may shed light on the duration and consistency of these effects among different subjects.</p></div>
