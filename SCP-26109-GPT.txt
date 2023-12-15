@@ -1,0 +1,53 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26109 is  the tattooed skin of 30 escaped Abashiri prisoners, forming a coded treasure map leading to 20 tons of stolen Ainu gold </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26109</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26109 consists of individually tattooed skin segments harvested post-mortem from a group of thirty escaped prisoners from the Abashiri Prison in Japan. When assembled, these skin segments form a cryptic, incomplete map believed to guide towards an unknown location where a substantial quantity of gold, approximately 20 tons in weight, is purportedly hidden. This gold is presumed to have been stolen from the Ainu, an indigenous people of Japan.</p>
+<p>Each segment of SCP-26109 exhibits anomalous properties when specific conditions are met. These properties include but are not limited to psychoactive effects, temporary memetic hazards inducing obsession with the perceived 'treasure', and spontaneous combustive reactions when attempts at replication or photography are made.</p>
+<p>The gold itself, designated SCP-26109-1, is yet to be located and poses a considerable containment challenge due to the shifting nature of the map and capability of affecting individuals to extreme lengths to discover its location. The presumed worth and historical significance of SCP-26109-1 might lead to significant disruptions in socio-economic and geopolitical territories if uncovered.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26109 is to be kept in a high-security locker at Site-██. Each fragment is stored separately in hermetically sealed containers, which are only to be opened for research purposes under strict protocol and approval by at least two Level 4 personnel. Access to SCP-26109 is restricted to researchers with advanced memetic hazard training and a demonstrated resistance to compulsive behaviors.</p>
+<p>Due to the high risk of information leakage leading to unauthorized treasure hunts and associated memetic contagion, all knowledge of SCP-26109 is subject to Class-3 amnestics after each interaction. Security around the containment locker is to be maintained at all times, with guards rotated regularly to prevent undue fixation on SCP-26109.</p>
+<p>Any attempt to locate SCP-26109-1 (the gold) outside of sanctioned expeditions must be met with disinformation campaigns, retrieval of involved individuals, and application of amnestics where necessary.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 26109-A</strong>
+- <strong>Subject:</strong> D-8432
+- <strong>Procedure:</strong> D-8432 was instructed to touch one of the skin segments.
+- <strong>Results:</strong> Subject reported a tingling sensation followed by vivid hallucinations resembling a map's unveiling trail. The hallucination faded after approximately ten minutes. The subject became mildly obsessed with finding the treasure but was subdued and administered amnestics without incident.
+- <strong>Notes:</strong> The hallucinatory effect appears to be consistent with previous encounters.</p>
+<p><strong>Experiment 26109-B</strong>
+- <strong>Subject:</strong> D-8951
+- <strong>Procedure:</strong> Subject was shown a photograph of one segment.
+- <strong>Results:</strong> The photograph spontaneously ignited, causing minor burns to the subject. The subject, however, retained no memory of the image on the photograph.
+- <strong>Notes:</strong> This confirms that SCP-26109 cannot be visually recorded by conventional means.</p>
+<p><strong>Experiment 26109-E</strong>
+- <strong>Subject:</strong> D-9120
+- <strong>Procedure:</strong> Subject was asked to assemble all segments in the correct order.
+- <strong>Results:</strong> Subject successfully assembled the segments, developing a strong compulsion to seek the treasure. Several containment breaches occurred before the subject could be contained and administered amnestics.
+- <strong>Notes:</strong> Future experiments with full assembly require additional restraints and sedation measures to prevent further breaches.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. Akechi
+<strong>Interviewee:</strong> D-9120 (Post Experiment 26109-E)
+<strong><Begin Log></strong>
+<em>Dr. Akechi:</em> Can you describe what you felt after successfully assembling the skin segments?</p>
+<p><em>D-9120:</em> It was like my mind lit up, doc. All I could think about was the gold. Like it was calling out to me, whispering my name...</p>
+<p><em>Dr. Akechi:</em> Did you perceive any sort of compulsion or desire before you assembled the map, or did it solely happen afterward?</p>
+<p><em>D-9120:</em> No, nothing before. It's like a switch flipped. I had to find it, no matter what. I would've done anything, doc. Anything.</p>
+<p><em>Dr. Akechi:</em> Have you experienced any lasting effects after your exposure to SCP-26109?</p>
+<p><em>D-9120:</em> Sometimes, when I close my eyes, I still see the map. I can't shake it; it's there, haunting my dreams.</p>
+<p><em>Dr. Akechi:</em> I see. Thank you for your cooperation. After this, we'll administer a final dose of amnestics.</p>
+<p><em>D-9120:</em> Doc, I... I don't want to remember, but... the treasure...</p>
+<p><strong><End Log></strong>
+<em>Notes: Subject D-9120's response is indicative of SCP-26109's compulsive effect. The ethical implications of repeated exposure are to be reviewed.</em></p>
+<h3>Addendum 3: Expedition Log</h3>
+<p>[REDACTED: Level 4 Clearance Required]</p>
+<p><em>Expedition attempts to locate SCP-26109-1 have led to [DATA EXPUNGED]. Until more information can be ascertained about the control or prevention of SCP-26109's effects, all expeditions have been suspended indefinitely.</em></p></div>
