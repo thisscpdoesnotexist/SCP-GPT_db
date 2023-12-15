@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26111 is  a boson detector using a chewing-gum, a laser. and a diesel engine </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26111</p>
+<h3>Object Class:</h3>
+<p>Thaumiel</p>
+<h3>Description:</h3>
+<p>SCP-26111 is an anomalous object consisting of three disparate components that, when combined, function as an advanced boson detector capable of identifying and tracking various exotic bosons that are typically undetectable by conventional scientific equipment. The three components are:</p>
+<ol>
+<li>A seemingly ordinary pack of chewing gum, with each piece infused with an unknown substance that exhibits non-baryonic properties.</li>
+<li>A commercial-grade laser pointer, modified with unknown technology that alters its emission spectrum to interact with the substance in the chewing gum.</li>
+<li>A small diesel engine, dating from the mid-20th century, that has been altered to run in complete silence and serves as a power source for SCP-26111. The engine emits no exhaust and seems to violate the conventional laws of thermodynamics.</li>
+</ol>
+<p>When these components are used in tandem, the chewing gum is chewed and placed upon a flat surface. The laser pointer is aimed at the gum, and the diesel engine is activated to power the laser. The combination activates a field which resonates with specific exotic bosons, allowing researchers to isolate and study them with unprecedented precision. </p>
+<p>The nature of SCP-26111's construction suggests a sophistication in understanding of quantum mechanics and field theory beyond current human capabilities; it is currently unknown whether SCP-26111 was created by an anomalous individual, an advanced civilization, or an entity from an alternate reality. Further research into the origins of SCP-26111 is ongoing.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26111 is to be contained in a secure, climate-controlled anomalous item storage locker at Site-██. Access to SCP-26111 is limited to personnel with Level 4 clearance or higher, who must submit a formal request and receive approval from two Level 4 Senior Researchers before any interaction.</p>
+<p>Experiments utilizing SCP-26111 can only be conducted in Laboratory 5-B due to the specialized nature of the item. Laboratory 5-B has been retrofitted with shielding to prevent any possible hazardous exposure to uncontained exotic bosons and to ensure that no interference from SCP-26111 affects nearby anomalous objects or surveillance equipment.</p>
+<p>All testing must be supervised by at least one Senior Researcher with a background in quantum mechanics and particle physics. Upon completion of any experiment, SCP-26111 must be deactivated, and each component stored separately until further use is approved.</p>
+<p>In the unlikely event that SCP-26111's diesel engine becomes inoperative, it is to be repaired onsite by designated mechanical maintenance personnel with Level 3 clearance or higher. Under no circumstances is the engine to be taken offsite or handled by non-Foundation mechanics.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26111-01:</h4>
+<p><strong>Objective:</strong> To verify the detection capabilities of SCP-26111.
+<strong>Materials:</strong> SCP-26111, standard laboratory boson detectors, 50 grams of chewing gum (control), laser pointer (control).
+<strong>Results:</strong> SCP-26111 successfully detected Higgs boson-like particles not found by standard detectors. Control materials showed no anomalous properties.
+<strong>Notes:</strong> SCP-26111's increased sensitivity to exotic particles may be invaluable for future research in particle physics.</p>
+<h4>Experiment 26111-02:</h4>
+<p><strong>Objective:</strong> To determine the range of exotic bosons SCP-26111 can detect.
+<strong>Materials:</strong> SCP-26111, assorted elementary particle emitters.
+<strong>Results:</strong> SCP-26111 detected several previously theoretical bosons, including one that is hypothesized to be responsible for a new fundamental force. These findings require further study and verification.
+<strong>Notes:</strong> The discovery of new bosons may lead to a reevaluation of the Standard Model of particle physics.</p>
+<h4>Experiment 26111-03:</h4>
+<p><strong>Objective:</strong> To assess potential applications of SCP-26111 in tracking anomalous entities.
+<strong>Materials:</strong> SCP-26111, D-class personnel implanted with boson-emitting tracking device, site map.
+<strong>Results:</strong> SCP-26111 accurately tracked the movement of D-class personnel throughout the test area. However, the tracking device malfunctioned after 45 minutes - cause unknown.
+<strong>Notes:</strong> While promising, the tracking method needs refinement before it can be considered for practical application.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><em>Due to the length of the interview, it has been transcribed and attached as Document 26111-IL.</em></p>
+<p>[Interview Log 26111-IL | Attachment]</p>
+<h3>Addendum 3: Superstring Theory Implications</h3>
+<p>Recent theoretical work conducted by Dr. ██████ in conjunction with SCP-26111 suggests that the device is not only capable of detecting conventional 4-dimensional bosons but may also be interacting with higher-dimensional vibrational modes as predicted by superstring theory. Dr. ██████'s work hypothesizes that SCP-26111's efficacy is, in part, due to its capacity to perceive these higher-dimensional resonances, which implies a staggering level of technological advancement by its creators. Further experiments have been proposed to test these higher-dimensional theories and possibly uncover the source of SCP-26111's construction materials and method of operation.</p></div>
