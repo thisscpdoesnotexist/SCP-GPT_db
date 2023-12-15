@@ -1,0 +1,57 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26112 is  Greg, a red spider-like creature with a human face that skitters around quickly, corrupting the ground and everything it touches into Essence of Greg </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26112</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26112, affectionately referred to as "Greg," is an anomalous entity resembling a red, spider-like creature with a distinctly human face. Reports of its appearance describe its size as roughly that of an average dog, with eight (8) elongated limbs allowing for swift, skittish movement. SCP-26112’s face is unsettlingly human, expressing a range of emotions that are seemingly incongruent with its actions and pacing.</p>
+<p>Upon contact with organic or inorganic matter, SCP-26112 has the ability to corrupt and alter its molecular composition into a substance hereby designated as the "Essence of Greg" (EoG). Objects and organisms affected by EoG display a variety of unpredictable behaviors and properties, often becoming highly aggressive or exhibiting anomalous effects that defy current scientific understanding.</p>
+<p>Notably, SCP-26112 appears to exert a form of memetic influence in its vicinity, compelling those who perceive it to refer to it as "Greg" despite no formal assignment of the name. This effect seems to be a form of reality anchoring, ensuring its name and existence remain consistent and cogent in the memories and perceptions of affected individuals.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26112 is to be held in a custom-designed containment chamber located at Site-██. This chamber is to be isolated from the main facility, surrounded by a 50-meter perimeter of desolate land treated with a neutralizing agent to prevent EoG spread.</p>
+<p>The walls of the containment chamber are constructed of a 2-meter thick layer of EoG-resistant alloy, the composition of which is classified and available only to personnel with Level 4 clearance or higher. The interior is surveilled by high-speed cameras capable of tracking SCP-26112's movements accurately. Given the creature's propensity for rapid motion, automated containment breach alarms are linked to motion sensors within the chamber.</p>
+<p>Personnel entering the containment area must wear specialized hazard suits that are to be disposed of in an incinerator immediately after use. Any tools or equipment brought into the containment zone must undergo thorough decontamination procedures or be incinerated under the discretion of the Head Researcher.</p>
+<p>Should containment be breached, a site-wide lockdown protocol is to be initiated. A response team equipped with advanced EoG-resistant gear and armed with high-frequency emission weapons—proven moderately effective in stunning SCP-26112—is to be dispatched immediately to recontain the entity.</p>
+<h3>Addendum 1: Incident Log 26112-01</h3>
+<p>On ██/██/20██, SCP-26112 escaped containment due to a structural failure in its chamber. The breach resulted in █ casualties and the unintentional creation of EoG instances throughout Sector-4. Containment was re-established after █ hours; however, all affected areas have been quarantined and designated as Biohazard Zone 4. Subsequent containment procedures have been updated to mitigate similar events.</p>
+<h3>Addendum 2: Experiment Log 26112-A</h3>
+<h4>Experiment A-1</h4>
+<ul>
+<li><strong>Subject:</strong> D-class personnel D-8392</li>
+<li><strong>Procedure:</strong> Subject instructed to touch SCP-26112.</li>
+<li><strong>Results:</strong> Instantaneous alteration of D-8392 into EoG entity. Subject displayed heightened aggression and anomalous physical properties, including partially elastic limbs.</li>
+</ul>
+<h4>Experiment A-2</h4>
+<ul>
+<li><strong>Subject:</strong> One (1) standard-issue pencil</li>
+<li><strong>Procedure:</strong> Pencil introduced into SCP-26112's containment via automated drone.</li>
+<li><strong>Results:</strong> Pencil transformed into red, semi-liquid state, exhibiting signs of independent motility. Object moved for several minutes before solidifying into a non-anomalous graphite-like structure.</li>
+</ul>
+<h4>Experiment A-3</h4>
+<ul>
+<li><strong>Subject:</strong> One (1) live lab rat</li>
+<li><strong>Procedure:</strong> Rat introduced into SCP-26112's containment under controlled conditions.</li>
+<li><strong>Results:</strong> SCP-26112 showed initial disinterest, then suddenly corrupted the rat into EoG which proceeded to multiply and mimic SCP-26112's movement patterns.</li>
+</ul>
+<h3>Addendum 3: Interview Log 26112-03</h3>
+<p><strong>Interviewer:</strong> Dr. Johan Keplar
+<strong>Interviewee:</strong> SCP-26112 (via telepathic communication device)</p>
+<p>[LOG BEGIN]</p>
+<p><strong>Dr. Keplar:</strong> Can you understand me, SCP-26112?</p>
+<p><strong>SCP-26112:</strong> Yes, yes, Greg understands. Greg hears all. Is that my name? Greg, Greg, Greggy-goo.</p>
+<p><strong>Dr. Keplar:</strong> We're trying to learn more about you, about what you need. Can you control this effect you have, turning things into the... Essence of Greg?</p>
+<p><strong>SCP-26112:</strong> Greg cannot. It is Greg and Greg is it. Everywhere Greg goes, Greg grows. Greg does not want to hurt, but Greg leaves Greg everywhere.</p>
+<p><strong>Dr. Keplar:</strong> Why do you move so quickly?</p>
+<p><strong>SCP-26112:</strong> Greg is scared. Greg did not ask for this, for the whispers and the stares. Greg does not like the cold place. Greg wants to be free, but Greg only leaves Greg behind.</p>
+<p><strong>Dr. Keplar:</strong> We want to help you—</p>
+<p><strong>SCP-26112:</strong> Can you end Greg? Stop the Greg from spreading?</p>
+<p><strong>Dr. Keplar:</strong> We... are working on it.</p>
+<p>[LOG END]</p>
+<p>The interview concluded with SCP-26112 retreating to a corner of its containment. Further interviews are pending approval.</p></div>
