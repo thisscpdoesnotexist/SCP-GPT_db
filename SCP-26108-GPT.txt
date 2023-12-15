@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26108 is  a 7-11 that doesn't exist, and so anyone who enters it also doesn't exist. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26108</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26108 is a non-existent convenience store, superficially resembling a 7-Eleven, located in ██████, █████. Externally, SCP-26108 appears intermittently, with various individuals reporting seeing the storefront at different times. These reports often conflict, with some witnesses claiming the storefront exists only during specific hours, while others assert they have never perceived it, despite residing in proximity to its alleged location.</p>
+<p>Individuals who claim to enter SCP-26108 report transitioning to a state of non-existence. Upon entry, subjects cease to exist in the perception of the outside world, and all records, memories, and evidence of the subjects' existence are retroactively erased or altered. This effect is permanent and irreversible. The internal structure of SCP-26108 remains undocumented, as all attempts to record or communicate information from inside the premise have failed. It is hypothesized that SCP-26108 may exist in a separate reality or dimensional anomaly where its laws of existence differ from our own.</p>
+<p>Attempts to observe, interact or engage with SCP-26108 from the exterior have provided inconclusive and often contradictory data, suggesting the possibility that the anomaly possesses a form of quantum indeterminacy or a consciousness-affected existence.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the inherent nature of SCP-26108, physical containment is not possible. The area within a 1-kilometer radius of the last reported sighting of SCP-26108's storefront has been declared off-limits under the guise of hazardous industrial contamination.</p>
+<p>Embedded Foundation agents within local law enforcement and media outlets are to immediately suppress any reports or discussions related to SCP-26108. Class-C amnestics are to be administered to any witnesses who have not entered the anomaly but have perceived it. A standing disinformation campaign is in effect, suggesting that any rumors of a mysterious 7-Eleven are part of an elaborate urban legend or a marketing stunt.</p>
+<p>Mobile Task Force Lambda-4 ("Shop Sweepers") has been assigned to monitor for SCP-26108's appearances and immediately secure the location. Civilians attempting to enter SCP-26108 are to be detained and amnesticized. If successful entry into SCP-26108 occurs before interception, MTF Lambda-4 is to document the subject’s last known actions and appearance for future pattern analysis of SCP-26108’s behavior.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p><strong>Details of Experiment:</strong> A remote-controlled drone equipped with a video feed and GPS tracking was navigated towards the location of SCP-26108 during a reported sighting.</p>
+<p><strong>Results:</strong> As the drone crossed the threshold of SCP-26108’s entrance, all feeds and tracking signals were instantaneously lost. All data related to the drone’s existence was retroactively erased from Foundation records; the experiment was reconstructed from the memories of staff directly involved, which remained intact for undetermined reasons.</p>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p><strong>Details of Experiment:</strong> A D-Class subject, D-47893, equipped with an audio communication device, was instructed to enter SCP-26108 during a different manifestation period.</p>
+<p><strong>Results:</strong> Upon entry, all communication was lost with D-47893. However, the audio device was recovered from the ground minutes later by MTF Lambda-4 with the last recording being static. D-47893’s existence, including records and personal effects, ceased entirely.</p>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p><strong>Details of Experiment:</strong> A D-Class subject, D-79215, was given a handwritten note with instructions to place it within sight inside SCP-26108, before stepping out without fully entering.</p>
+<p><strong>Results:</strong> The note vanished from D-79215’s hand as they reached into SCP-26108’s space, and the action caused a localized non-existence field effect which eradicated the subject's arm up to the elbow. The subject was subsequently administered medical care and amnestics.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewed:</strong> Former convenience store employee, ████████ █████ (now designated PoI-26108-1).</p>
+<p><strong>Interviewer:</strong> Dr. Marcus Kline</p>
+<p><strong>Foreword:</strong> PoI-26108-1 claims to have briefly worked at SCP-26108 before its anomalous properties became apparent.</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. Kline:</strong> Let's start with how you found this job.</p>
+<p><strong>PoI-26108-1:</strong> It was weird, doc. I saw this ad for an overnight shift, and I went for it... But thinking back, I can't remember where I saw the ad or how I even got there for the interview.</p>
+<p><strong>Dr. Kline:</strong> Can you describe your time working there?</p>
+<p><strong>PoI-26108-1:</strong> It was mundane at first. But customers— sometimes regulars would come in, and the next day, bam, it's like they never existed. Worse, nobody remembered them but me.</p>
+<p><strong>Dr. Kline:</strong> How did you become aware of the anomaly?</p>
+<p><strong>PoI-26108-1:</strong> One kid—I remember, Julie, she came in a lot. Then one day, she’s gone. No one knew her, and her phone was disconnected. It’s like she was... erased.</p>
+<p><strong>Dr. Kline:</strong> Is there anything else you can tell us that might help with our understanding?</p>
+<p><strong>PoI-26108-1:</strong> This is gonna sound crazy, but sometimes, late at night, I'd swear the snacks… they'd restock themselves. Imagine a bag of chips just—<em>poof</em>—back on the shelf after you sell it.</p>
+<p><strong>Dr. Kline:</strong> Anything you've provided could be a valuable insight. Thank you for your cooperation.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Closing Statement:</strong> PoI-26108-1 has been monitored for any signs of residual anomalous effects, administered Class-B amnestics, and released. Further investigations into the source of anomalous restocking behaviors inside SCP-26108 are pending approval.</p>
+<h3>Addendum 3: Recovery Log</h3>
+<p><strong>Foreword:</strong> SCP-26108 was first brought to Foundation attention after local reports of missing persons in the area spiked anomalously. Initial attempts to locate a pattern resulted in the discovery of a non-existent address that corresponded to the last known locations of several missing individuals.</p>
+<p>A thorough analysis of local CCTV footage by MTF Lambda-4 revealed intermittent reflections and shadows of SCP-26108's storefront that did not correspond to any existing structure. Foundation data analysts are currently working on a predictive model to forecast SCP-26108's manifestations more accurately.</p>
+<p>The implications of SCP-26108's existence on our understanding of reality, consciousness, and memory are profound and disturbing. Research and containment efforts remain a high priority.</p></div>
