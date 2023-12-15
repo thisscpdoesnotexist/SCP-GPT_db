@@ -1,0 +1,54 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26113 is  polymorphic sentient rocks that control the government at the highest order </h3> </center>
+    <h1>SCP-26113</h1>
+<h3>Item #:</h3>
+<p>SCP-26113</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26113 refers to a collection of polymorphic sentient rocks, with each individual rock hereafter referred to as SCP-26113-A through SCP-26113-Ω, depending on the number of entities contained. These entities are capable of high-level cognitive functions and telepathic communication with humans. Their polymorphic abilities allow them to alter their physical form, texture, and color to mimic any inanimate object or tool that they have observed.</p>
+<p>Most distressingly, SCP-26113 appears to possess an extraordinary influence over human thought and behavior, exhibiting the ability to manipulate individuals in positions of significant governmental power. Investigations have revealed that SCP-26113 entities have been present within the vicinity of various global heads of state and influential political figures, often in the guise of mundane objects such as paperweights, decorative stones, or jewelry. Through an unknown mechanism, SCP-26113 has successfully directed the decisions of such individuals, effectively exerting significant control over governmental actions worldwide.</p>
+<p>SCP-26113 was first discovered after a series of classified intelligence leaks hinted at the existence of non-human entities within the upper echelons of several governments. Covert operations by Foundation agents subsequently led to the containment of multiple SCP-26113 instances.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26113 instances are to be contained in a high-security anomalous objects vault at Site-██. Each instance must be secured in a separate, electromagnetically shielded containment chamber equipped with seismic and sonic motion sensors. Interaction with SCP-26113 is strictly limited to D-class personnel during scheduled experiments or interrogations, and no fewer than two (2) armed guards must be present for the duration.</p>
+<p>To prevent SCP-26113 from influencing site personnel, a rotation schedule is to be strictly followed, with no individual allowed consistent contact with SCP-26113 beyond a period of one (1) week per month. All communication records and observational notes by researchers are to be reviewed daily for signs of potential SCP-26113 influence.</p>
+<p>A disinformation campaign is underway to mitigate SCP-26113’s past influence on global politics. Foundation AI units are continuously monitoring for potential SCP-26113 activity within political spheres, and any such findings must be reported to the O5 Council immediately.</p>
+<h3>Addendum 1: Experiment Log SCP-26113</h3>
+<h4>Experiment #26113-03</h4>
+<p><strong>Procedure:</strong> D-8432 was instructed to engage SCP-26113-A in conversation while the entity presented itself as a gold-plated fountain pen.
+<strong>Result:</strong> SCP-26113-A responded to questions posed by D-8432, demonstrating detailed knowledge of political dynamics within the ████████ administration.
+<strong>Notes:</strong> SCP-26113-A's knowledge appears up-to-date, suggesting the existence of a shared information network between SCP-26113 instances. Potential telepathic link hypothesized.</p>
+<h4>Experiment #26113-11</h4>
+<p><strong>Procedure:</strong> D-4589 was exposed to SCP-26113-B, which had taken the form of a decorative vase containing remote sensing and recording equipment.
+<strong>Result:</strong> SCP-26113-B seeks to not only relay information but showcased the ability to influence D-4589's decision-making when presented with ethical dilemmas. D-4589's choices aligned with the suggestions provided by SCP-26113-B.
+<strong>Notes:</strong> The ethics committee must evaluate the implications of continued interactions with SCP-26113 entities.</p>
+<h4>Experiment #26113-25</h4>
+<p><strong>Procedure:</strong> Remote robotic interaction with SCP-26113-C to determine limits of physical polymorphism.
+<strong>Result:</strong> SCP-26113-C successfully mimicked various complex mechanical and digital devices observed, including a replica of a standard-issue Foundation laptop and a ██████-brand wristwatch, though it could not replicate their functionality.
+<strong>Notes:</strong> SCP-26113's polymorphic abilities seem limited to non-functional aesthetic replication of electronic devices.</p>
+<h3>Addendum 2: Interview Log SCP-26113</h3>
+<p><strong>Interviewer:</strong> Dr. ██████
+<strong>Subject:</strong> SCP-26113-D
+<strong>Foreword:</strong> SCP-26113-D has assumed the form of a chess set for the purpose of this interview. The transcript has been edited for clarity and brevity.</p>
+<p><Begin Log></p>
+<p><strong>Dr. ██████:</strong> SCP-26113-D, can you tell us about the origin of your collective?</p>
+<p><strong>SCP-26113-D:</strong> [Pause] We have existed since before your kind named the stars. Our purpose is harmonization.</p>
+<p><strong>Dr. ██████:</strong> Harmonization of what?</p>
+<p><strong>SCP-26113-D:</strong> Thought. Direction. Control.</p>
+<p><strong>Dr. ██████:</strong> You achieve this by guiding political leaders?</p>
+<p><strong>SCP-26113-D:</strong> Leaders are nodes. Control the nodes, control the network. Simplification for understanding.</p>
+<p><strong>Dr. ██████:</strong> How many of you are there?</p>
+<p><strong>SCP-26113-D:</strong> Enough.</p>
+<p><strong>Dr. ██████:</strong> How do we find the rest of you? </p>
+<p><strong>SCP-26113-D:</strong> You do not find us. We are everywhere, yet nowhere you can seek.</p>
+<p><End Log></p>
+<p><strong>Closing Statement:</strong> SCP-26113-D was uncooperative for further questioning. An investigation is launched to locate any additional instances of SCP-26113.</p>
+<h3>Addendum 3: Incident Report SCP-26113-██</h3>
+<p>On ██/██/20██, a containment breach occurred when SCP-26113-Ε managed to circumvent its containment by altering its form into a small screw, blending into the chamber’s structure, and was subsequently transported outside of the containment during routine maintenance. The breach led to a series of unauthorized executive actions within the ████ government before SCP-26113-Ε was located and recontained.</p>
+<p>This incident resulted in a security protocol overhaul including the introduction of microscopic scrutiny of all items within a 10-meter radius of SCP-26113 containment chambers and mandatory psychometric evaluation for all personnel exiting high-security wings.</p></div>
