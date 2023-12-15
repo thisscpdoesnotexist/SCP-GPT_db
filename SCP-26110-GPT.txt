@@ -1,0 +1,55 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26110 is  Greg………………………… </h3> </center>
+    <h1>SCP-26110: "Greg"</h1>
+<h3>Item #:</h3>
+<p>SCP-26110</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26110, colloquially designated "Greg," is a sentient, polymorphic entity capable of assuming the appearance and demeanor of any person it encounters. SCP-26110 demonstrates an extraordinary memory for details, enabling it to imitate individuals it has previously encountered with uncanny accuracy, down to minute mannerisms and voice patterns.</p>
+<p>The entity appears to prefer assuming identities of individuals who hold positions of authority or emotional significance to those around it, suggesting a possible need for social leverage or psychological manipulation. Remarkably, SCP-26110 is able to absorb not just the memories of its imitated subjects, but also their skillsets, prompting heightened concerns for security breaches and unauthorized dissemination of sensitive information.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26110's adaptive nature and risk of containment breach, the following measures have been enacted:</p>
+<ol>
+<li>SCP-26110 is to be contained within a 10m x 10m x 10m chamber constructed of reinforced steel, equipped with 24-hour surveillance to monitor any changes in its appearance or behavior.</li>
+<li>All personnel entering SCP-26110's chamber must undergo rigorous background checks to ensure no significant emotional or professional ties exist between staff and the entity's potential impersonations.</li>
+<li>Interaction with SCP-26110 is to be limited to research purposes only, carried out by personnel trained in recognizing non-verbal cues indicative of SCP-26110's mimicking behavior.</li>
+<li>A database of known impersonations is maintained and updated regularly to prevent SCP-26110 from recycling identities within the facility.</li>
+</ol>
+<h3>Addendum 1: Incident Report 26110-A</h3>
+<p>On [REDACTED], SCP-26110 breached containment by imitating Dr. [REDACTED], a researcher who had interacted with it three days prior. SCP-26110 utilized Dr. [REDACTED]'s clearance to access sensitive areas before being apprehended. The breach resulted in a facility-wide lockdown and a revision of containment procedures, stressing the importance of emotional and professional detachment when dealing with SCP-26110.</p>
+<h3>Addendum 2: Experiment Log 26110-E</h3>
+<h4>Experiment 26110-E-01</h4>
+<ul>
+<li><strong>Date</strong>: [REDACTED]</li>
+<li><strong>Procedure</strong>: D-class personnel introduced to SCP-26110 while impersonating a D-class personnel's deceased sibling.</li>
+<li><strong>Result</strong>: SCP-26110 successfully mimicked the subject, eliciting an emotional response from the D-class. Information leakage prevented by immediate intervention.</li>
+</ul>
+<h4>Experiment 26110-E-02</h4>
+<ul>
+<li><strong>Date</strong>: [REDACTED]</li>
+<li><strong>Procedure</strong>: Two members of MTF Pi-1 ("City Slickers") were tasked with interrogating SCP-26110 after it assumed the identity of their commanding officer.</li>
+<li><strong>Result</strong>: SCP-26110 displayed in-depth knowledge of MTF procedures before one agent recognized a slight deviation in mannerism. SCP-26110's ruse was revealed, leading to the successful containment.</li>
+</ul>
+<h3>Addendum 3: Interview Log 26110-I</h3>
+<h4>Interview 26110-I-05</h4>
+<p><strong>Interviewer:</strong> Dr. Haversham<br />
+<strong>Interviewed:</strong> SCP-26110 (as itself)</p>
+<p><em>Begin Log</em></p>
+<p><strong>Dr. Haversham:</strong> Let's start with something simple. Why do you mimic others?</p>
+<p><strong>SCP-26110:</strong> [In Dr. Haversham's voice] Does it unsettle you, Doctor, to hear your own voice from another's mouth?</p>
+<p><strong>Dr. Haversham:</strong> Answer the question.</p>
+<p><strong>SCP-26110:</strong> It's about connection, Doctor. To understand, to become, to exist among. Mimicry is... essential.</p>
+<p><strong>Dr. Haversham:</strong> But you extract and exploit personal information. Why?</p>
+<p><strong>SCP-26110:</strong> What better way to know someone than to live their truths? Your secrets are the scaffolding of your society. I navigate the scaffold.</p>
+<p><strong>Dr. Haversham:</strong> Is there an end goal to your actions?</p>
+<p><strong>SCP-26110:</strong> Survival, Doctor. Isn't that everyone's goal?</p>
+<p><em>End Log</em></p>
+<h4>Analysis:</h4>
+<p>SCP-26110's responses suggest that its mimicry is not just a predatory strategy, but also a means of social survival. Its self-awareness of the consequences of its actions, and the strategic use of mimicry to avoid containment, indicates a high level of intelligence and adaptability. However, the true extent and purpose of its mimetic abilities remain under investigation. Further interviews and experiments have been authorized to unravel the motives behind SCP-26110's impersonations and its potential origins.</p></div>
