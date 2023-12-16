@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26150 is  A Scranton Reality Anchor bracelet, which provides the bearer with a gradient of Humes proportionally larger than the environment, making them an effective "Type Green" </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26150</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-26150 is a piece of anomalous jewelry, resembling a standard bracelet, intricately woven from an unidentified metallic alloy with properties akin to that of a Scranton Reality Anchor (SRA). However, unlike traditional SRAs, SCP-26150 is designed for individual use and is portable.</p>
+<p>The device, when worn, surrounds the user in a localized reality-stabilizing field, effectively assigning them a Hume level significantly higher than the ambient Hume concentration of their environment. This gradient results in the wearer exhibiting minor reality-bending capabilities, in common parlance referred to as a "Type Green" anomaly. These capabilities allow the user to influence probabilities, alter perceptions on a minor scale, and resist other similar reality-altering effects.</p>
+<p>The item was discovered during a raid on a Marshall, Carter, and Dark Ltd. auction, where it was marketed as an "Empowerment Accessory" to affluent clients interested in personal security against anomalous threats. SCP-26150's anomalous effects appear to be stable and consistent across all tests.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26150 is currently contained in a standard secure locker located in Site-19's Low-Value Item Storage Facility. Due to its “Safe” classification and the non-aggressive nature of its effects, SCP-26150 requires minimal security protocols to ensure containment. </p>
+<p>Personnel wishing to study or test SCP-26150 must submit a formal request to the site director and must return the device to its containment locker after each use. Under no circumstances is SCP-26150 to be removed from Site-19 without the express permission of at least two Level 4 personnel. When SCP-26150 is not in use, it is to be stored in a deactivated state, minimizing the risk of unintentional reality alteration.</p>
+<h3>Addendum 1: Experiment Log SCP-26150</h3>
+<h4>Experiment 26150-A</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Procedure:</strong> D-8432 was instructed to wear SCP-26150 and attempt to change the color of a red ball to blue.
+<strong>Results:</strong> D-8432 reported a sensation of "immense focus" while wearing the bracelet. After approximately three minutes of concentration, the red ball briefly fluctuated in color before stabilizing as a light shade of blue.
+<strong>Notes:</strong> This test confirmed SCP-26150's mild reality-bending abilities and warrants further experimentation to understand its limitations and potential uses.</p>
+<h4>Experiment 26150-B</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Procedure:</strong> D-4589, a Class D with a history of gambling, was asked to predict the outcome of a series of coin flips while wearing SCP-26150.
+<strong>Results:</strong> D-4589 successfully predicted the correct outcome of the coin flips 100 times consecutively. When SCP-26150 was removed, D-4589's prediction accuracy reverted to statistical averages.
+<strong>Notes:</strong> This supports the hypothesis that SCP-26150 enhances the wearer's influence on probability, significantly when outcomes are immediately observable.</p>
+<h4>Experiment 26150-C</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Procedure:</strong> D-6671 was tasked with wearing SCP-26150 and withstanding a controlled memetic effect known to cause mild amnesia.
+<strong>Results:</strong> D-6671 reported experiencing the onset of symptoms associated with the memetic effect but was able to maintain their memories and resist the full amnesiac influence.
+<strong>Notes:</strong> SCP-26150 seems to provide a degree of resistance to other anomalous influences, particularly those affecting the mind and perception.</p>
+<h3>Addendum 2: Recovery Report</h3>
+<p>SCP-26150 was recovered from an auction held by Marshall, Carter, and Dark Ltd., after a tip-off about a sale of anomalous artifacts. Foundation agents, operating under cover, were able to secure SCP-26150 during the operation and contain it without incident.</p>
+<h3>Addendum 3: Interview Log SCP-26150</h3>
+<h4>Interviewer: Dr. Alexei Romanov</h4>
+<h4>Interviewed: D-8432 (Post-Experiment 26150-A debriefing)</h4>
+<h4>Date: ██/██/████</h4>
+<p><strong>Dr. Romanov:</strong> Please describe, in your own words, your experience while wearing SCP-26150.</p>
+<p><strong>D-8432:</strong> It was wild, doc. Like, the moment I put it on, I felt this surge go through me. Like I was plugged into something... bigger, you know?</p>
+<p><strong>Dr. Romanov:</strong> Fascinating. Can you elaborate on how you changed the color of the ball?</p>
+<p><strong>D-8432:</strong> I just stared at it, really concentrated like you said. And I... kinda asked it to change? It sounds nuts, but I wanted it to turn blue, and it just... happened.</p>
+<p><strong>Dr. Romanov:</strong> Did you feel any side effects? Headaches, dizziness, or anything of that nature?</p>
+<p><strong>D-8432:</strong> Nothin'. I felt fine the whole time, and even now, I don't feel any different than I did before.</p>
+<p><strong>Dr. Romanov:</strong> Very well. Thank you, D-8432. We'll conclude this interview and process you for follow-up testing.</p>
+<p><em><Interview terminated></em></p></div>
