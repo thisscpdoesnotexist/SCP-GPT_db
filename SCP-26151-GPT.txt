@@ -1,0 +1,46 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26151 is  a person cursed to slowly transform into a camel. However, the question on everyone's mind is "why a camel?" </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26151</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26151 is an adult human male, approximately 30 years of age at the time of initial containment. SCP-26151 is subject to an anomalous condition that is gradually transforming their bodily morphology and physiology into that of a Camelus dromedarius, commonly known as a dromedary or Arabian camel.</p>
+<p>The transformation is gradual, occurring at a cellular level, and has manifested in both external and internal changes. Externally, SCP-26151 has begun to develop coarse, sand-colored hair over their body, and their spine has shown signs of protrusion, mimicking the early stages of a camel's hump development. The facial structure is elongating, and dental examination reveals enamel thickening and molar elongation indicative of herbivorous adaptations.</p>
+<p>Internally, SCP-26151 has shown remarkable physiological changes, including a restructured digestive system more suited to a camel's diet and water retention capabilities vastly improved compared to that of an average human. SCP-26151's blood composition has also altered, showing increased resistance to dehydration and thermoregulation efficiency consistent with Camelidae adaptations for desert environments.</p>
+<p>The psychological implications are drastic, as SCP-26151 exhibits periods of distress and confusion, with intermittent behavioral shifts that align closer to that of a camel than a human. While SCP-26151 retains most human cognitive abilities, the transformation is causing a gradual decline in higher-level processing and an increase in instinctual behaviors.</p>
+<p>The reasoning behind the specific transformation into a camel remains unknown, but research is ongoing to uncover the cause of this peculiar affliction and whether the process could be indicative of a curse, a spontaneous mutation, or an exposure to an unknown anomalous effect. </p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26151 is housed in a climate-controlled containment chamber designed to mimic the arid environment of a desert while also providing the necessities for human life. The chamber is equipped with a sand substrate and appropriate wilderness simulation to assist in SCP-26151's increased comfort as the transformation progresses.</p>
+<p>Personnel interacting with SCP-26151 are required to wear standard protective gear to prevent any transference of the anomalous effects. Psychological counseling is provided to SCP-26151 on a weekly basis, or more frequently if deemed necessary by the on-site psychologist, to monitor and aid in coping with the mental strain of the transformation.</p>
+<p>Nutritional needs are to be catered for the dual diet requiring both human food and fodder suitable for a camel. Hydration stations have been installed within the containment chamber, allowing SCP-26151 to hydrate at will.</p>
+<p>The containment chamber is monitored 24/7 via closed-circuit cameras to observe any rapid accelerations in the transformation or significant behavioral changes. In the event of a containment breach, tranquilizers capable of subduing a fully-grown camel are to be used.</p>
+<h3>Addendum 1:</h3>
+<p>The initial discovery of SCP-26151 occurred when reports surfaced about a "man turning into a camel" in [REDACTED]. Foundation operatives were dispatched and confirmed the presence of anomalous activity.</p>
+<h3>Addendum 2:</h3>
+<p><strong>Interview Log 26151-A</strong></p>
+<p><em>Interviewed:</em> SCP-26151</p>
+<p><em>Interviewer:</em> Dr. Harlowe</p>
+<p><em>Dr. Harlowe:</em> Can you describe the first symptoms of your transformation?</p>
+<p><em>SCP-26151:</em> It started with intense thirst and cravings for leafy plants. My skin got rougher, itches all the time. I thought it was just some skin condition at first.</p>
+<p><em>Dr. Harlowe:</em> When did you realize something was truly amiss?</p>
+<p><em>SCP-26151:</em> When my spine started aching and bulging. My face, it's... stretching. It's hard to speak, hard to think sometimes.</p>
+<p><em>Dr. Harlowe:</em> Do you remember anything unusual happening before the transformation?</p>
+<p><em>SCP-26151:</em> Just nightmares about deserts and endless sand. I don't—I don't remember.</p>
+<p><em><End Log></em></p>
+<h3>Addendum 3:</h3>
+<p><strong>Experiment Log 26151-E</strong></p>
+<ul>
+<li><strong>Experiment 1</strong>: Attempts to halt the transformation with conventional medical treatments were ineffective.</li>
+<li><strong>Experiment 2</strong>: Exposing SCP-26151 to water immersion therapy resulted in temporary relief of symptoms but no halting of the transformation.</li>
+<li><strong>Experiment 3</strong>: Administration of Class-C amnestics yielded no change in SCP-26151's condition.</li>
+<li><strong>Experiment 4</strong>: Introduction of presumed genetic material from a dromedary camel to SCP-26151 caused an acceleration of the transformation for 48 hours before resuming its original pace.</li>
+<li><strong>Experiment 5</strong>: A ritual expert was consulted to determine if the transformation could be of mystical origin. No conclusive evidence was found.</li>
+</ul>
+<p>Further experiments are pending approval and ethical review due to the adverse effects on SCP-26151's psychological well-being and the unpredictability of further physiological changes.</p></div>
