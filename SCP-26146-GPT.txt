@@ -1,0 +1,59 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26146 is  an illegal isekai soul trade amongst unlicensed goddesses of creation  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26146</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26146 refers to a sophisticated cross-dimensional trafficking network run by a collective of entities referred to as "Unlicensed Goddesses of Creation" (UGCs). The UGCs are capable of "isekai" phenomena, a term borrowed from Japanese pop culture referring to the transport of individuals from one world or reality to another, often with significant alterations to their physical form or memories. SCP-26146's primary illicit activity involves the capture and sale of souls from various sentient beings across multiple realities, transferring them into vastly different bodies or universes.</p>
+<p>UGCs have demonstrated remarkable abilities to manipulate both physical and metaphysical laws, often reshaping entire ecosystems or species to accommodate the transfer requirements. This poses a significant threat to the stability of multiple dimensions, including our own. UGCs often take the guise of benevolent deity figures, offering individuals "new lives" in alternate realities, while obscuring the nonconsensual aspect of these transactions.</p>
+<p>The core method of operation for SCP-26146 is still under investigation. However, initial intelligence suggests a complex network of soul capture mechanisms, reality-altering rituals, and black-market dealings with interdimensional entities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the transdimensional nature of SCP-26146, direct containment is currently infeasible. Countermeasures are focused on disruption and surveillance, with the goal of safeguarding potential targets and mitigating unauthorized reality shifts.</p>
+<ol>
+<li>
+<p>Web crawler AI (Designation: Jizaemon) is to monitor cyberspaces for digital signatures indicative of SCP-26146 activity. Any detections require immediate deployment of Mobile Task Forces (MTFs) to intercept communications and prevent transactions.</p>
+</li>
+<li>
+<p>Embedded Foundation agents within various metaphysical research institutions are to remain vigilant for signs of UGC activity or unexplained dimensional anomalies.</p>
+</li>
+<li>
+<p>MTF Psi-47 ("Dream Catchers") are tasked with tracking down individuals believed to have been approached by UGCs and providing them with amnestic treatment to prevent further UGC contact or enticement.</p>
+</li>
+<li>
+<p>Negotiations with verified multiversal entities should be pursued to gather intelligence and form alliances capable of opposing the UGC network.</p>
+</li>
+<li>
+<p>Development of a cross-dimensional tracking system (CDTS) is a priority research directive for adapting current containment technology to detect and, if possible, pursue UGCs within their own or neutral dimensions.</p>
+</li>
+</ol>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26146-A</h4>
+<p><strong>Objective:</strong> To verify the capacity of UGCs to transfer a human soul into a non-human vessel.
+<strong>Procedure:</strong> A D-class personnel was placed under surveillance after intelligence suggested they were targeted by SCP-26146. The individual was exposed to a controlled isekai event orchestrated in collaboration with an allied multiversal entity.
+<strong>Results:</strong> The D-class soul was successfully transferred to a canine body in an alternate dimension. The soul was retrieved and returned to the original body with full memories intact.</p>
+<h4>Experiment 26146-B</h4>
+<p><strong>Objective:</strong> To determine the extent of memory alteration upon soul transfer.
+<strong>Procedure:</strong> Amnestics were administered to a volunteer D-class to erase memories of a specific event. The soul was transferred by UGC methods, with the subject's subsequent experiences documented.
+<strong>Results:</strong> Post-transfer interrogation revealed complete retention of the erased memories, implying that UGC methods circumvent amnestic treatment and reconstitute pre-transfer states of consciousness.</p>
+<h3>Addendum 2: Confirmed UGC Encounter Transcript</h3>
+<p><em>The following is an interview conducted with a civilian (codenamed Subject A) who claimed to have been visited by a UGC.</em></p>
+<p><strong>Dr. Niles:</strong> "Good morning, Subject A. Can you describe the entity you met?"</p>
+<p><strong>Subject A:</strong> "Morning, doc. Yeah, it... she looked like some kind of angel? Real pretty, glowing, all that jazz. She told me I could start over. New world, new life."</p>
+<p><strong>Dr. Niles:</strong> "I see. And what was she offering exactly?"</p>
+<p><strong>Subject A:</strong> "Said I'd be some hero in another world. Monsters, magic, saving princesses – the works. Tempting, you know?"</p>
+<p><strong>Dr. Niles:</strong> "Did she mention anything about the 'price' or what would happen to you?"</p>
+<p><strong>Subject A:</strong> "No, no price. Just said it was a one-way ticket, and I had to leave everything behind – even my memories."</p>
+<p><strong>Dr. Niles:</strong> "Interesting. Thank you, Subject A. We'll be administering a mild amnestic after this interview. It's for your protection."</p>
+<p><strong>Subject A:</strong> "Wait, what? I don't wanna forget thi—"</p>
+<p><em>[End of transcript. Subject A was administered Class-B amnestics and released under continued surveillance.]</em></p>
+<h3>Addendum 3: Memorandum on Potential Countermeasures</h3>
+<p>In light of recent findings, Project Heimdall has been proposed. The multi-disciplinary project aims to create defensive measures against SCP-26146, potentially including the development of "soul anchors" to prevent unwanted transference, and the deployment of "anti-isekai" fields to shield at-risk populations from UGC influence.</p>
+<p>Project Heimdall is in its nascent stages and requires significant investment and collaboration across Foundation departments and allied entities. Approval from the O5 Council is pending. </p>
+<p>SCP-26146 remains a Keter-class priority due to the catastrophic risk it poses to the continuity and autonomy of sentient beings across the multiverse. Further updates to containment protocols and countermeasures are expected as the situation evolves.</p></div>
