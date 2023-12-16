@@ -1,0 +1,53 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26154 is  what you thought was a hot fish lady but was actually A BIRMINGHAM RESIDENT </h3> </center>
+    <h1>SCP-26154 Documentation</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-26154</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26154 is an anomalous entity capable of altering its appearance to resemble what onlookers believe to be an idealized aquatic humanoid, commonly described as a "hot fish lady." Initial observations typically report a creature reminiscent of mythological sirens or mermaids. However, this facade is merely a psychic projection to lure individuals. It is theorized that SCP-26154 uses this ability as a predatory mechanism.</p>
+<p>Upon closer inspection, or if SCP-26154 chooses to reveal its true form, it appears as an individual indistinguishable from residents of Birmingham, United Kingdom. This transformation is instantaneous and accompanied by a sudden realization in the observer that SCP-26154 is, and always has been, human in appearance. The confusion and cognitive dissonance this incites in subjects have been sufficient to deter further investigation without strict psychological preparations.</p>
+<p>SCP-26154's true intentions, origins, and the extent of its abilities remain unknown. Despite its human appearance, it has shown resistance to various forms of physical harm and containment measures.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its dangerous nature and the difficulty inherent in maintaining containment of an entity capable of significant psychic influence, SCP-26154 is to be contained within a specialized reinforced containment chamber located at Site-██. The chamber should be equipped with Faraday cage components to hinder any potential psychic or electronic interference.</p>
+<p>Access to SCP-26154's containment chamber is to be strictly controlled and monitored. Only personnel with Level 4 clearance or higher are permitted to interact with SCP-26154, and even then, such interactions should be limited and require approval from two-thirds of the overseeing O5 Council members.</p>
+<p>All personnel assigned to SCP-26154 must undergo rigorous psychological evaluation and resistance training to counteract the entity's influence. Staff must be rotated out bi-weekly to minimize the risk of psychic manipulation and potential breaches.</p>
+<p>In the unlikely event of a containment breach, immediate lockdown procedures are to be initiated. Lethal force is authorized if SCP-26154 exhibits hostile behaviors or attempts to influence Foundation personnel.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26154-A</h4>
+<ul>
+<li><strong>Objective:</strong> To determine the limits of SCP-26154's psychic projection abilities.</li>
+<li><strong>Procedure:</strong> D-class personnel were instructed to approach SCP-26154's containment with a predetermined image of a "hot fish lady" in mind.</li>
+<li><strong>Results:</strong> SCP-26154 successfully projected the image for each of the D-class personnel. No two projections were identical, confirming the entity's ability to tailor its appearance to individual perceptions.</li>
+</ul>
+<h4>Experiment 26154-B</h4>
+<ul>
+<li><strong>Objective:</strong> To measure SCP-26154's susceptibility to physical restraint.</li>
+<li><strong>Procedure:</strong> SCP-26154 was temporarily removed from its containment chamber and subjected to various non-lethal restraints.</li>
+<li><strong>Results:</strong> SCP-26154 exhibited extraordinary strength, breaking free from all imposed restraints. Reinforced containment measures were advised.</li>
+</ul>
+<h4>Experiment 26154-C</h4>
+<ul>
+<li><strong>Objective:</strong> To ascertain if SCP-26154's psychic projection can be recorded on video.</li>
+<li><strong>Procedure:</strong> Remote surveillance equipment was used to capture SCP-26154's appearance without a direct human observer.</li>
+<li><strong>Results:</strong> Video feeds only displayed SCP-26154's Birmingham resident appearance. It seems that direct observation by a sentient being is necessary for the projection to manifest.</li>
+</ul>
+<h3>Addendum 2: Interview Log 26154-09</h3>
+<p>An in-depth interview was conducted with SCP-26154 under strict psychic countermeasures to prevent influence on the interviewing personnel. Due to the length and complexity of this interview, it has been summarized and the full transcript is available upon request with O5 approval.</p>
+<p>A notable excerpt from the interview:
+- <strong>Interviewer:</strong> "What is your objective here on Earth?"
+- <strong>SCP-26154:</strong> "[REDACTED] ...but ultimately, you could say I'm here for the same reason any creature is; to survive."
+- <strong>Interviewer:</strong> "Why adopt the appearance of mythical creatures?"
+- <strong>SCP-26154:</strong> "Mythical? No, merely understood. Your species has such vivid imaginations. It’s not difficult to borrow those images for my own purposes."</p>
+<p>The rest of the transcript details SCP-26154's insight into human psychology and its manipulation techniques. It becomes apparent that SCP-26154 is not only physically robust but also possesses a sharp intellect and manipulation skills.</p>
+<h3>Addendum 3: Incident Report 26154-Delta</h3>
+<p>On [REDACTED], SCP-26154 breached containment by exploiting a weakness in a shift change procedure. Using its psychic influence, SCP-26154 caused mass confusion amongst the personnel, leading to a temporary lapse in security protocols.</p>
+<p>SCP-26154 was recaptured after a site-wide lockdown and the implementation of cognitohazard countermeasures. This incident led to a reevaluation and subsequent overhaul of SCP-26154's containment procedures, with particular attention paid to psychic defense systems.</p></div>
