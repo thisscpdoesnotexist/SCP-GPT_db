@@ -1,0 +1,70 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26152 is  was supposed to be a Scranton Reality Anchor bracelet, but junior researcher Janine screwed up (again) and it has the opposite intended effect instead. (this is why you don't get invited to foundation office parties, Janine!) </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26152</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26152 is a bracelet designed to mimic the appearance and function of a Scranton Reality Anchor. However, due to errors in its creation by Junior Researcher Janine ██████ (hereinafter referred to as JR Janine), SCP-26152 possesses the anomalous property of distorting local reality rather than anchoring it. The object is constructed from a series of interlocking metal components that are visually indistinguishable from a non-anomalous Scranton Reality Anchor.</p>
+<p>Upon activation, SCP-26152 generates a localized reality-altering field with a radius of approximately 10 meters. Within this field, physical laws become inconsistent and mutable, resulting in unpredictable fluctuations in gravity, matter, and time. These effects intensify with prolonged exposure, leading to severe spatial and temporal anomalies.</p>
+<p>Notably, SCP-26152's influence on reality can extend beyond its immediate vicinity, due to the creation of cascading paradoxes as affected individuals or objects interact with the non-anomalous environment.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26152 is to be contained in a high-security vault within Site-██, equipped with passive and active ontokinetic shields to suppress its reality-warping effects. All personnel entering the containment vault must undergo a mandatory psychological evaluation and a briefing on the specific containment protocols regarding SCP-26152.</p>
+<p>Direct physical contact with SCP-26152 is strictly prohibited, and all interaction must be conducted remotely, utilizing specialized teleoperated drones capable of withstanding minor ontological distortions. Any maintenance or testing involving SCP-26152 must be approved by at least two Level 4 personnel.</p>
+<p>In the event of a containment breach, a Site-wide lockdown is to be initiated, and Mobile Task Force Epsilon-11 ("Nine-Tailed Fox") is to be dispatched to recontain SCP-26152 using emergency ontokinetic suppression equipment. Amnestics must be administered to any non-authorized personnel exposed to SCP-26152's effects.</p>
+<h3>Addendum 1:</h3>
+<p>It has been noted in JR Janine's personal logs that deviations from the standard Scranton Reality Anchor blueprint occurred due to what she refers to as "creative improvisation." A formal reprimand has been placed in her file, and she has been reassigned to administrative duties pending further review of her clearance level and access to sensitive materials.</p>
+<h3>Addendum 2:</h3>
+<h3>Experiment Log:</h3>
+<h4>Experiment #26152-01:</h4>
+<ul>
+<li><strong>Subjects</strong>: 2 D-Class Personnel</li>
+<li><strong>Procedure</strong>: Subjects instructed to approach SCP-26152 within a 3-meter radius.</li>
+<li><strong>Results</strong>: Subjects reported visual hallucinations and experienced temporal displacement, reemerging from the affected area 3 hours later, despite only being within for approximately 5 minutes.</li>
+<li><strong>Notes</strong>: Experiment halted prematurely due to safety concerns.</li>
+</ul>
+<h4>Experiment #26152-03:</h4>
+<ul>
+<li><strong>Subjects</strong>: 1 D-Class Personnel, 1 Common Rat (Rattus norvegicus)</li>
+<li><strong>Procedure</strong>: Subjects placed within 5 meters of SCP-26152, D-Class fitted with bio-monitoring equipment.</li>
+<li><strong>Results</strong>: D-Class Personnel began aging rapidly, while the rat exhibited signs of de-aging, becoming progressively younger until it reverted to a pre-weaned state.</li>
+<li><strong>Notes</strong>: Temporal distortions within SCP-26152's field appear to be non-uniform and species-selective.</li>
+</ul>
+<h4>Experiment #26152-07:</h4>
+<ul>
+<li><strong>Subjects</strong>: Various inanimate objects of differing composition.</li>
+<li><strong>Procedure</strong>: Objects placed systematically closer to SCP-26152 to document reality distortion effects.</li>
+<li><strong>Results</strong>: Objects within a 2-meter radius experienced molecular disintegration, while those between 2 to 5 meters underwent spontaneous reconfiguration into physically impossible shapes.</li>
+<li><strong>Notes</strong>: The procedure had to be halted as one of the objects, a standard-issue Foundation laptop, started displaying unknown symbols and emitting a low-frequency hum until it fused with the containment table.</li>
+</ul>
+<h3>Addendum 3:</h3>
+<h3>Interview Log:</h3>
+<ul>
+<li><strong>Interviewed</strong>: JR Janine ██████</li>
+<li><strong>Interviewer</strong>: Dr. Marcus ████</li>
+<li><strong>Date</strong>: ██/██/████</li>
+<li><strong>Purpose</strong>: Inquiry into the failed creation of SCP-26152</li>
+</ul>
+<p>[BEGIN LOG]</p>
+<p>Dr. Marcus: "Good afternoon, JR Janine. We need to discuss the incident with SCP-26152."</p>
+<p>JR Janine: "I know, Dr. Marcus. And I'm truly sorry. It was never my intention—"</p>
+<p>Dr. Marcus: "Yes, well, intentions aside, you've created a Keter-class anomaly. I must ask, did you deviate from the prescribed blueprints?"</p>
+<p>JR Janine: (visibly distressed) "Yes, but I thought the modifications would enhance its capabilities. I didn't anticipate this... inversion of function."</p>
+<p>Dr. Marcus: "Can you elaborate on the 'creative improvisation' mentioned in your logs?"</p>
+<p>JR Janine: (pausing) "I may have integrated some theoretical elements from other research papers I've read. Ones not yet approved by the Foundation."</p>
+<p>Dr. Marcus: "Such as?"</p>
+<p>JR Janine: "I... I'd rather not say. The theories were... unconventional."</p>
+<p>Dr. Marcus: "JR Janine, full disclosure is necessary to prevent further anomalies."</p>
+<p>JR Janine: (sighing) "Fine. I was attempting to incorporate aspects of quantum entanglement on a macro scale, but the calculations were more complex than anticipated."</p>
+<p>Dr. Marcus: "I see. And the repercussions of these actions?"</p>
+<p>JR Janine: "A reality-altering bracelet of potential mass destruction."</p>
+<p>Dr. Marcus: "Precisely. JR Janine, you'll be under continuous evaluation. Further action regarding your employment will be determined by the O5 Council."</p>
+<p>JR Janine: "I understand."</p>
+<p>[END LOG]</p>
+<p>Note: Measures have been taken to restrict access to theoretical physics documents and research papers to those with proper clearance and a demonstrated understanding of the implications of such knowledge.</p></div>
