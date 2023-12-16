@@ -1,0 +1,41 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26133 is  NOT pineapple juice. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26133</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26133 is a canister resembling that of a commercially available pineapple juice container, with a capacity of approximately 1 liter. The label bears typical marketing imagery and nutritional information, but with substantial alterations and redactions suggesting a non-standard origin. The contents of SCP-26133 do not correspond with the product description and are not, in fact, pineapple juice.</p>
+<p>The liquid within SCP-26133 displays anomalous properties; upon ingestion or contact with human mucous membranes, it induces a rapid polymorphic transformation in biological matter. Within seconds, subjects exhibit uncontrollable cellular mutation, resulting in erratic and often grotesque morphological changes followed by multiple system organ failure.</p>
+<p>Subjects who survive the initial transformation enter a state of heightened aggression and exhibit capacity for significant tissue generation and further spontaneous mutation. These entities, hereby referred to as SCP-26133-A instances, can become a considerable containment breach risk.</p>
+<p>SCP-26133's anomalous properties extend to its replication abilities. It will replenish its volume over time if any amount is extracted, showing no discernible energy source for this process. The canister itself is impervious to all attempted forms of damage and analysis.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26133 is to be contained within a sealed, reinforced steel containment chamber at Site-██. The chamber must be surrounded by a secondary containment unit filled with an acidic compound capable of disintegrating biological matter upon breach.</p>
+<p>Access to SCP-26133 is strictly prohibited outside of approved experimentation, which must be conducted under BSL-4 conditions with the approval of at least two (2) Level 4 Senior Researchers. Any personnel conducting experiments must wear hazmat suits reinforced with Kevlar to prevent accidental exposure. A security team equipped with flamethrowers and incendiary devices should be on standby during all testing to handle potential SCP-26133-A instances.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Interview Log 26133-17</strong>
+<em>Interviewer: Dr. Y████</em>
+<em>Interviewee: D-8432 (former SCP-26133-A instance post-termination and revival via SCP-500)</em></p>
+<p><em><Begin Log></em></p>
+<p>Dr. Y████: "Can you describe the transformation after you consumed SCP-26133?"</p>
+<p>D-8432: "It's... it's like your insides are on fire, you know? Then it gets worse, like your bones are twisting, muscles tearing apart. I—I don't... It's hard to remember."</p>
+<p>Dr. Y████: "Try focusing on your sensory experiences. Anything you saw, heard, or felt could be crucial."</p>
+<p>D-8432: "Everything was a blur... Colors and shapes. Voices sounded like they were underwater. I wanted it to stop. Wanted to tear anything apart just to make it stop."</p>
+<p><em><End Log></em></p>
+<h3>Addendum 2:</h3>
+<p><strong>Experiment Log 26133-E2</strong>
+<em>Note: The following is a summary of several experiments conducted with SCP-26133.</em></p>
+<ul>
+<li><strong>Experiment E2-A1</strong>: D-3719 was instructed to ingest 5mL of SCP-26133. Result: Subject transformed within 3 minutes, exhibiting previously documented polymorphic mutations. Terminated after breach of containment chamber. </li>
+<li><strong>Experiment E2-A3</strong>: Introduction of SCP-26133 to plant-based lifeforms. Result: Rapid cellular growth and aggressive vine-like mutations. Instances did not exhibit sapience and were incinerated.</li>
+<li><strong>Experiment E2-A6</strong>: Amnestic-infused D-8128 consumed 10mL of SCP-26133 after which memories were erased. Result: Transformation occurred, with no notable variations to previous instances. Implied lack of mental impact on mutation process.</li>
+</ul>
+<h3>Addendum 3:</h3>
+<p><strong>Additional Notes</strong>
+Following the events of containment breach ██/██/████, the SCP-Foundation Ethics Committee has raised concerns about the continued testing and containment of SCP-26133. Discussions are ongoing regarding potential changes to the Special Containment Procedures to minimize risk to personnel and to explore more humane methods of testing, acknowledging the severe psychological trauma experienced by subjects prior to their SCP-26133 induced mutations. Further investigation into the origins of SCP-26133 is a priority, with the hope of understanding its mechanisms and finding a potential countermeasure to its effects. The possibility of an XK-class end-of-the-world scenario is being reviewed, especially in the event of mass-uncontrolled dissemination of SCP-26133.</p></div>
