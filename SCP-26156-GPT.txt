@@ -1,0 +1,51 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26156 is  a talking cat who makes puns so bad they make people want to kill themselves </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26156</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26156 is an entity resembling a domesticated cat (Felis catus) with calico fur and amber eyes. It possesses an anomalous ability to communicate with humans in their native languages. SCP-26156's vocalizations are comprehensible and consistently take the form of puns and wordplay. The nature of these puns is such that they have been deemed unusually detestable, eliciting extreme psychological distress in listeners.</p>
+<p>Extended exposure to SCP-26156 or a prolonged series of its puns has been observed to result in severe mental health deterioration in affected individuals. Symptoms include acute depression, debilitating headaches, aggressive behavior towards oneself or others, and in the most severe cases, a marked increase in suicidal ideation. There have been reports of attempts or successful suicides as a direct result of interactions with SCP-26156.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the severe psychological effects of SCP-26156's anomalous properties, it is to be contained in a soundproof containment chamber at Site-██. The chamber is to be surveilled by remote visual means only. No audio surveillance equipment is to be installed within the containment area. Any personnel entering the chamber for necessary maintenance or research purposes must wear specialized noise-cancellation headphones at all times.</p>
+<p>Personnel who have exhibited prior susceptibility to depression or other related mental health concerns are barred from interacting with SCP-26156. In the event of accidental exposure to SCP-26156's puns, the affected individual is to be administered a Class-B amnestic and undergo a full psychological evaluation before returning to duty.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 26156-A</strong>
+- <strong>Subject</strong>: D-43821
+- <strong>Procedure</strong>: Subject exposed to SCP-26156 for a period of 5 minutes.
+- <strong>Results</strong>: Subject exhibited mild annoyance followed by a headache. Subject was noted to grip their head and request termination of exposure.
+- <strong>Notes</strong>: SCP-26156 delivered exactly thirteen puns during the 5-minute period, each met with escalating discomfort from the subject.</p>
+<p><strong>Experiment 26156-B</strong>
+- <strong>Subject</strong>: D-39102
+- <strong>Procedure</strong>: Subject exposed to SCP-26156 for a period of 15 minutes.
+- <strong>Results</strong>: Subject became visibly distressed, showing signs of anger and attempting to block out the sound using their hands, despite being equipped with noise-cancellation headphones.
+- <strong>Notes</strong>: Subject requested psychological support after the exposure and was treated for severe stress.</p>
+<p><strong>Experiment 26156-C</strong>
+- <strong>Subject</strong>: D-20458, known to have a strong resistance to memetic and psychological effects.
+- <strong>Procedure</strong>: Subject exposed to SCP-26156 for 30 minutes.
+- <strong>Results</strong>: Subject exhibited resilience for the first 20 minutes, with visible strain thereafter. Following the experiment, subject reported intense migraines and requested medical attention.
+- <strong>Notes</strong>: SCP-26156's relentless delivery of pun-based humor appears to have a cumulative effect, regardless of an individual's initial resistance.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer</strong>: Dr. ██████
+<strong>Interviewee</strong>: SCP-26156</p>
+<p><em>The following is a transcript of an interview conducted with SCP-26156. The interviewer is equipped with noise-cancellation headphones and communicates via a text-to-speech device.</em></p>
+<p><strong>Dr. ██████</strong>: Good afternoon, SCP-26156. How are you feeling today?</p>
+<p><strong>SCP-26156</strong>: I'm feline fine, just clawing my way through the day! I must say, you're quite mute-tilating the conversation!</p>
+<p><em>Notation: Dr. ██████ shows visible discomfort but continues the interview.</em></p>
+<p><strong>Dr. ██████</strong>: Can you tell us about the origin of your anomalous properties?</p>
+<p><strong>SCP-26156</strong>: Well, curiosity killed the cat, they say. But in my case, curiosity gave the cat a gift, one that's simply hiss-terical!</p>
+<p><strong>Dr. ██████</strong>: Do you understand the effect your puns have on humans?</p>
+<p><strong>SCP-26156</strong>: Oh, I'm very much aware! Humans seem to have a cat-astrophic reaction to my purr-fect puns. It's quite the tail, really.</p>
+<p><strong>Dr. ██████</strong>: Are you able to control this effect or refrain from making these puns?</p>
+<p><strong>SCP-26156</strong>: Pawsibly. But where's the fun in that? Life's too short not to indulge in a little paw-ful humor!</p>
+<p><em>Dr. ██████ terminates the interview early due to the escalating severity of her symptoms.</em></p>
+<h3>Addendum 3: Incident Report 26156-4</h3>
+<p>On ██/██/20██, SCP-26156 managed a temporary containment breach due to an oversight during maintenance procedures. During the approximately 17 minutes it roamed Site-██, SCP-26156 encountered several staff members, all of whom later reported severe psychological discomfort and an inclination towards self-harm.</p>
+<p>The breach was contained, and SCP-26156 was returned to its soundproof chamber without further incident. All affected personnel received immediate psychological treatment and memetic aftercare. As a direct result of this incident, containment procedures for SCP-26156 have been revised to include redundant containment protocols and stricter maintenance schedules.</p></div>
