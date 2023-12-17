@@ -1,0 +1,55 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26159 is  McDonalds' mascot Grimace, a giant purple maggot-like creature that McDonalds employees milk for burger additives. </h3> </center>
+    <p>```</p>
+<h3>Item #:</h3>
+<p>SCP-26159</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26159 is an anomalous entity that resembles a well-known advertising character named "Grimace" originally used by the fast-food company McDonald's. Although the entity shares a superficial likeness to the character, SCP-26159 is biologically dissimilar and significantly more hazardous.</p>
+<p>SCP-26159 roughly measures 2.4 meters in height and 1.8 meters in width at its widest point. The skin of the creature feels similar to a type of textured rubber and exhibits a vibrant purple color. It has two small eyes and a mouth, but lacks any other features such as limbs or orifices that are present in mammals.</p>
+<p>The most disturbing characteristic of SCP-26159 is its function as a host for producing a thick, viscous fluid with distinctive chemical properties. Employees within McDonald's restaurants where SCP-26159 manifestations occur are compelled to "milk" this substance from the creature by means of an anomalous process that evades clear scientific explanation. This fluid, designated as SCP-26159-A, appears to have effect on beef patties, enhancing flavor and addictive qualities when added in minimal quantities.</p>
+<p>The entity has shown a notable resistance to damage and containment strategies, and possesses a form of sentience as evidenced by its ability to communicate and interact with its surroundings purposefully. SCP-26159 has the capacity to teleport or phase through solid matter, causing significant difficulty in maintaining consistent containment.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given its teleportation abilities and the strong compulsion effects it has on individuals, SCP-26159 necessitates a multi-tiered containment approach.</p>
+<ol>
+<li>A dedicated task force, labeled Theta-19 ("Grimace Wranglers"), has been assigned for the purpose of rapid response to SCP-26159 manifestations.</li>
+<li>Current containment relies on a mobile, adaptive confinement strategy using a specialized unit nicknamed the "Happy Meal Box"—effectively a portable Faraday cage with additional anomalous property dampeners designed to inhibit SCP-26159's teleportation abilities temporarily.</li>
+<li>All McDonald's restaurants worldwide are subject to surveillance by Foundation embedded agents for immediate detection of SCP-26159 appearances.</li>
+<li>Any SCP-26159-A substance found is to be secured and transported to Bio-Site-88 for analysis and destruction.</li>
+<li>Amnestic treatment is mandatory for all non-Foundation personnel exposed to SCP-26159 or SCP-26159-A to prevent the spread of knowledge regarding its existence and properties.</li>
+</ol>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-26159 came to the attention of the Foundation following social media reports and blurry phone footage emerging from multiple McDonald's locations across the globe. Incident Alpha, the first recorded manifestation, occurred at [REDACTED], where Foundation agents were deployed and successfully retrieved the entity.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 26159-E1</strong><br />
+<strong>Purpose:</strong> To determine the reaction of SCP-26159 in the presence of traditional livestock.
+<strong>Procedure:</strong> SCP-26159 was introduced into a controlled environment with separated specimens of Bos taurus (cattle).
+<strong>Results:</strong> SCP-26159 exhibits agitated behavior and emits a high-pitched tone, resulting in considerable distress among the cattle. No milking behavior occurred.</p>
+<p><strong>Experiment 26159-E2</strong><br />
+<strong>Purpose:</strong> To investigate whether SCP-26159-A can be synthesized artificially.
+<strong>Procedure:</strong> Samples of SCP-26159-A were analyzed, and attempts to replicate the compound were made in the laboratory.
+<strong>Results:</strong> All attempts to synthesize SCP-26159-A failed, yielding substances lacking the anomalous properties of the original fluid.</p>
+<p><strong>Experiment 26159-E3</strong><br />
+<strong>Purpose:</strong> To test the addictive nature of SCP-26159-A when consumed by humans.
+<strong>Procedure:</strong> Class-D personnel were given beef enhanced with SCP-26159-A and then observed.
+<strong>Results:</strong> Subjects exhibited increased endorphin levels and insisted on additional servings, refusing alternative food sources. Withdrawal symptoms were noted upon cessation.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><em>Interviewee:</em> Dr. Marcus Yendall, leading researcher on SCP-26159<br />
+<em>Interviewer:</em> Dr. Anita Kessler, SCP Foundation anomalous entities specialist</p>
+<p>[Excerpt from Transcript]</p>
+<p><strong>Dr. Kessler:</strong> Dr. Yendall, can you summarize the nature of SCP-26159's communication with Foundation personnel?</p>
+<p><strong>Dr. Yendall:</strong> Yes, the entity's capable of speech, although it doesn't use language in a conventional manner. It utilizes a mimicry of phrases and sounds it has been previously exposed to—mostly commercial jingles and slogans from its surroundings.</p>
+<p><strong>Dr. Kessler:</strong> Fascinating. And what can you tell us about SCP-26159's capacity for understanding and intention?</p>
+<p><strong>Dr. Yendall:</strong> It's clear that SCP-26159 is sentient. It exhibits preference in individuals, mostly desiring interaction with those wearing McDonald's uniforms. Its intentions, however, remain unknown and beyond the simple mascot persona it emulates.</p>
+<p><strong>Dr. Kessler:</strong> Given its Keter classification, what is our biggest challenge with SCP-26159?</p>
+<p><strong>Dr. Yendall:</strong> Apart from the standard impossibility of permanent containment, SCP-26159's unpredictable appearances globally pose a significant informational breach threat. The fluid it produces—and its effects—can potentially lead to widespread public health concerns if not controlled.</p>
+<p>[end of excerpt]</p>
+<p>Further interviews and experimentations are ongoing to understand and contain the threat posed by SCP-26159.
+```</p></div>
