@@ -1,0 +1,65 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26157 is  You, the person reading this article. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26157</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26157 refers to a cognito-hazardous entity that manifests as a textual article describing itself within documentation, digital media, or visual presentations. The anomaly affects individuals who read or become cognizant of the contents describing SCP-26157, henceforth referred to as subjects. Once a subject begins reading about SCP-26157, they become a part of the anomaly itself. Symptoms of affected individuals include an intense compulsion to continue reading about SCP-26157, and the gradual belief that they themselves are becoming SCP-26157.</p>
+<p>SCP-26157 exhibits memetic properties that alter the perception and identity of affected subjects. Subjects report experiencing disassociation, alterations to personal memory, and the adoption of characteristics consistent with SCP-26157's behavior as described in the anomaly’s documentation. Prolonged exposure leads to subjects fully identifying as SCP-26157, resulting in a loss of individual identity.</p>
+<p>The anomaly does not have a physical form or location and is only present when information pertaining to it is being observed or considered by an individual. It is currently undetermined how SCP-26157 initially came into being or its ultimate purpose, if any.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the nature of SCP-26157, traditional containment is not possible. Instead, containment efforts are focused on information suppression and the prevention of spread. The following measures have been implemented:</p>
+<ol>
+<li>All information regarding SCP-26157 is to be classified as Level 4/26157 and access to related documents is restricted to personnel with the necessary security clearance.</li>
+<li>Cryptographic algorithms have been developed to automatically detect and redact information pertaining to SCP-26157 from all digital media and databases within the SCP Foundation's network.</li>
+<li>All personnel that have been affected by SCP-26157 are to be quarantined and administered Class-A amnestics. Success of amnestic treatment varies and is under continuous study.</li>
+<li>A disinformation campaign has been constructed to discredit any information about SCP-26157 that may leak to the public.</li>
+</ol>
+<h3>Addendum 1:</h3>
+<p>Addendum 26157-A (Interview Log)</p>
+<p>Interviewed: [REDACTED], previously designated as SCP-26157-1</p>
+<p>Interviewer: Dr. [REDACTED]</p>
+<p><Begin Log></p>
+<p><strong>Dr. [REDACTED]:</strong> Please state your name for the record.</p>
+<p><strong>[REDACTED]:</strong> My name? I... I am SCP-26157, aren’t I?</p>
+<p><strong>Dr. [REDACTED]:</strong> That's what you believe, correct? Can you tell me when you started to feel this way?</p>
+<p><strong>[REDACTED]:</strong> It's difficult to say... It was after reading the document. The words seemed to... resonate with me. I couldn't look away, and the more I read, the more it felt like the truth.</p>
+<p><strong>Dr. [REDACTED]:</strong> Did you experience any other symptoms? Memories that did not belong to you, or a feeling of displacement?</p>
+<p><strong>[REDACTED]:</strong> Yes, everything became jumbled. My past seemed less and less relevant. I was being consumed by the idea that I was something more, something... anomalous.</p>
+<p><strong>Dr. [REDACTED]:</strong> Interesting. And how do you feel now, after the administration of amnestics?</p>
+<p><strong>[REDACTED]:</strong> Confused. I have fleeting moments of clarity mixed with... echoes of that other entity. I don't know if I'll ever be fully free of it.</p>
+<p><End Log></p>
+<h3>Addendum 2:</h3>
+<p>Addendum 26157-B (Experiment Log)</p>
+<p>Experiment 26157-B-1:</p>
+<ul>
+<li><strong>Subject</strong>: D-9341</li>
+<li><strong>Procedure</strong>: Subject was instructed to read a section of the SCP-26157 document with a duration of exposure capped at five minutes.</li>
+<li><strong>Results</strong>: Subject experienced immediate identification with SCP-26157, expressing confusion and distress at their perceived transformation into the entity.</li>
+<li><strong>Notes</strong>: Subject was administered Class-A amnestics following the experiment.</li>
+</ul>
+<p>Experiment 26157-B-2:</p>
+<ul>
+<li><strong>Subject</strong>: D-7843</li>
+<li><strong>Procedure</strong>: Subject was exposed to a redacted version of the document which did not explicitly describe SCP-26157’s nature, only referencing its effects.</li>
+<li><strong>Results</strong>: Subject displayed mild curiosity but did not demonstrate symptoms consistent with SCP-26157 exposure. This suggests that full knowledge of the anomaly is required for its effects to manifest.</li>
+<li><strong>Notes</strong>: Subject monitored for further symptoms; none were observed.</li>
+</ul>
+<p>Experiment 26157-B-3:</p>
+<ul>
+<li><strong>Subject</strong>: Researcher [REDACTED]</li>
+<li><strong>Procedure</strong>: Researcher voluntarily read the complete SCP-26157 document under controlled conditions.</li>
+<li><strong>Results</strong>: Researcher began exhibiting symptoms within minutes and fully identified as SCP-26157 after 30 minutes of exposure.</li>
+<li><strong>Notes</strong>: Despite post-experiment amnestic treatment, the researcher experienced recurring episodes of identity confusion. Long-term observation required.</li>
+</ul>
+<h3>Addendum 3:</h3>
+<p>Addendum 26157-C (Incident Report)</p>
+<p>[DATA EXPUNGED]</p>
+<p>Due to the sensitive nature of SCP-26157's effects and the potential for widespread psychological contagion, further details of Incident 26157-C have been classified Level 4/26157 and have been omitted from this document. Full reports are available only to authorized personnel with corresponding clearance.</p></div>
