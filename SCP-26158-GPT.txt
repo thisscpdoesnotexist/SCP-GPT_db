@@ -1,0 +1,61 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26158 is  a Mandela Effect revolving around the supposed McDonald's "McTaco" </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26158</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26158 is a cognitohazardous phenomenon manifesting as a widespread, collective false memory—a variant of the so-called "Mandela Effect"—in which a significant portion of the global population harbors vivid recollections of a product called the "McTaco" supposedly sold by the fast-food corporation McDonald's. Affected individuals (termed SCP-26158-1 instances) claim with high conviction to have consumed or at least witnessed advertisements for this non-existent product.</p>
+<p>Empirical evidence, such as historical records and statements by McDonald's corporation, firmly indicate that no such product has ever been developed or sold. Despite this, SCP-26158-1 instances produce detailed and consistent accounts of their experiences with the "McTaco," including taste, packaging, marketing campaigns, and variations in recipes.</p>
+<p>Additionally, SCP-26158 exhibits a secondary effect in that attempted correction of these false memories often leads to SCP-26158-1 instances experiencing significant psychological distress and, in some cases, aggressive behavior to defend the veracity of their experiences.</p>
+<p>The origin of SCP-26158 is currently unknown, and efforts to trace the initial manifestation of the phenomenon have been inconclusive. Its potential for spreading and the difficulty in isolating affected individuals make it a Keter-level threat, as it may result in large-scale cognitive disruption and public disorder.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its nature, SCP-26158 cannot be contained in the traditional sense. Efforts are currently focused on the monitoring of social media, forums, and other communication platforms for mentions of the "McTaco" to identify and document SCP-26158-1 instances.</p>
+<p>Individuals identified as SCP-26158-1 should be discreetly administered Class-A amnestics to mitigate the spread of SCP-26158. A false narrative has been constructed and disseminated, asserting that the "McTaco" was a test product that underwent limited regional release before being quietly discontinued. This explanation has proven effective in reducing inquiries and investigations from the public.</p>
+<p>The Foundation's Misinformation and Social Engineering Department is tasked with the continual release of doctored photographs, fake advertisements, and altered digital records to support the constructed narrative and prevent SCP-26158 from growing beyond manageable levels.</p>
+<p>In the event that an SCP-26158-1 instance's memory cannot be altered or suppressed, they are to be taken into custody and contained in a standard humanoid containment cell for further study.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26158-A01</h4>
+<ul>
+<li><strong>Subjects</strong>: 10 individuals with no prior exposure to SCP-26158</li>
+<li><strong>Procedure</strong>: Subjects were shown a series of fake advertisements for the "McTaco" and interviewed about their reactions.</li>
+<li><strong>Results</strong>: 2 subjects began to develop memories of the "McTaco," with one even recalling a supposed personal encounter despite the product's non-existence.</li>
+<li><strong>Analysis</strong>: SCP-26158's effect may be transmissible through suggestive imagery and targeted misinformation.</li>
+</ul>
+<h4>Experiment 26158-A02</h4>
+<ul>
+<li><strong>Subjects</strong>: 5 SCP-26158-1 instances</li>
+<li><strong>Procedure</strong>: Subjects were administered Class-A amnestics and subsequently interviewed about the "McTaco."</li>
+<li><strong>Results</strong>: All 5 subjects retained memories of the "McTaco," contrary to typical amnestic efficacy.</li>
+<li><strong>Analysis</strong>: SCP-26158's cognitive grip is unusually resistant to standard amnestic procedures.</li>
+</ul>
+<h4>Experiment 26158-A03</h4>
+<ul>
+<li><strong>Subjects</strong>: 20 individuals, half of whom were SCP-26158-1 instances</li>
+<li><strong>Procedure</strong>: Subjects were placed in a controlled social environment and encouraged to discuss fast-food experiences.</li>
+<li><strong>Results</strong>: SCP-26158-1 instances shared vivid "McTaco" experiences, resulting in 6 of the unaffected individuals later reporting uncertain memories of the product.</li>
+<li><strong>Analysis</strong>: SCP-26158 can spread through casual conversation, highlighting its cognitohazardous nature.</li>
+</ul>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewed</strong>: [SCP-26158-1 instance, Mr. John Doe]</p>
+<p><strong>Interviewer</strong>: [Dr. Alice Smith]</p>
+<p><strong><Begin Log></strong></p>
+<p>Dr. Smith: Good afternoon, Mr. Doe. Today we'd like to discuss your experiences with a particular fast-food product.</p>
+<p>Mr. Doe: Ah, you mean the McTaco, right? Can't believe they discontinued it. It was delicious!</p>
+<p>Dr. Smith: Interesting. Can you describe when and where you first encountered it?</p>
+<p>Mr. Doe: Sure, it was back in '97 or '98, I think. Saw it on a TV ad during a football game. Went out the next day to try it—loved the spices they used.</p>
+<p>Dr. Smith: Do you have any other memories associated with it?</p>
+<p>Mr. Doe: Yeah, they had this hilarious mascot for a while—a talking taco with a cowboy hat. Seen it in-store and on billboards, too.</p>
+<p>Dr. Smith: Have you ever considered the possibility that the McTaco might not have existed?</p>
+<p>Mr. Doe: (Becoming agitated) What do you mean? I know what I ate, and I know what I saw. Just because they got rid of it doesn't mean it didn't exist!</p>
+<p><strong><End Log></strong></p>
+<p><strong>Analysis</strong>: SCP-26158's effect appears to include the creation of vivid and detailed supporting memories, such as advertising campaigns and product-specific mascots.</p>
+<h3>Addendum 3: Incident Report 26158-IR07</h3>
+<p>On ██/██/20██, an escalation occurred when a social media influencer with over ███K followers, previously identified as an SCP-26158-1 instance, began to discuss their memories of the "McTaco" in a live broadcast. Efforts were immediately undertaken to disrupt the broadcast, and the influencer was administered amnestics. The incident resulted in a temporary spike in SCP-26158 discussion online, necessitating an increase in misinformation campaigns.</p>
+<p>Foundation agents embedded within McDonald's corporate structure have been advised to monitor any and all discussions regarding menu items closely and to report any mentions of SCP-26158 immediately. Additional resources have been allocated to investigate a potential origin for SCP-26158 and to develop more effective containment strategies.</p></div>
