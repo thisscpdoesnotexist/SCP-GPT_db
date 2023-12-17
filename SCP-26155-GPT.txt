@@ -1,0 +1,73 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26155 is  a horse that plays volleyball! </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26155</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-26155 is an adult male horse (Equus ferus caballus) measuring approximately 5.5 feet at the withers with a chestnut coat and no remarkable external distinctions from non-anomalous members of its species. However, it exhibits extraordinary behavior and cognitive abilities that allow it to play the sport of volleyball at a level comparable to that of a skilled human player.</p>
+<p>SCP-26155 understands the basic rules of volleyball and can serve, pass, set, and perform basic defensive maneuvers. Its anomalous characteristics become apparent when engaging in a volleyball match, where it demonstrates an uncanny ability to manipulate the ball despite lacking the usual appendage dexterity that humans possess. SCP-26155 uses its muzzle, neck, and occasionally its forelimbs to control and propel the volleyball, showing an understanding of the game that surpasses natural equine behavior.</p>
+<p>Interestingly, SCP-26155 also exhibits heightened social and communication skills when interacting with humans, seemingly able to comprehend human speech and non-verbal cues to a limited extent. Despite its proficiency in the game and amicable disposition, SCP-26155 does not showcase any other anomalous properties or abilities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26155's containment procedures are relatively lax due to its safe classification and cooperative nature. It is kept in a standard equine containment unit within Site-██ with environmental conditions that mimic those of a comfortable outdoor equine habitat. The containment area includes a full-sized volleyball court for recreational and research purposes.</p>
+<p>SCP-26155 requires standard care for a horse of its breed and age, including a balanced diet, veterinary check-ups, and regular exercise. Interaction with SCP-26155 is allowed under supervision for the purpose of enrichment and conducting approved experiments. At least two (2) personnel trained in equine care and handling must be available at all times.</p>
+<p>To minimize stress to SCP-26155, personnel interacting with the specimen are to approach it in a non-threatening manner, and any competitive matches should be carried out in a playful and non-aggressive tone. Any changes in behavior or health are to be reported immediately to the attending veterinarian and the SCP-26155 research head.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-26155 was discovered at a small farm in ████████, after a series of viral videos featuring "the volleyball-playing horse" gained significant attention on social media platforms. A field agent embedded in local law enforcement was dispatched to investigate and confirmed the validity of SCP-26155's abilities. The Foundation secured SCP-26155 through standard containment protocols and administered Class-B amnestics to the previous owners and witnesses involved.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>Experiment 26155-E-01</strong></p>
+<ul>
+<li><strong>Procedure:</strong> SCP-26155 was introduced to a standard volleyball game with D-Class personnel.</li>
+<li><strong>Results:</strong> SCP-26155 demonstrated understanding of the rules, took initiative to serve, and cooperated with human teammates.</li>
+<li><strong>Notes:</strong> Its ability to participate effectively without hands is as remarkable as it is inexplicable.</li>
+</ul>
+</li>
+<li>
+<p><strong>Experiment 26155-E-02</strong></p>
+<ul>
+<li><strong>Procedure:</strong> An automated machine was used to serve volleyballs at high speed towards SCP-26155.</li>
+<li><strong>Results:</strong> SCP-26155 managed to return 82% of the serves, adapting its position and using different parts of its body to keep the ball in play.</li>
+<li><strong>Notes:</strong> Shows advanced problem-solving skills and reaction time.</li>
+</ul>
+</li>
+<li>
+<p><strong>Experiment 26155-E-03</strong></p>
+<ul>
+<li><strong>Procedure:</strong> SCP-26155 was instructed to follow specific volleyball plays outlined by researchers.</li>
+<li><strong>Results:</strong> SCP-26155 followed the plays with high precision, suggesting it can understand complex human instructions when contextualized within a game.</li>
+<li><strong>Notes:</strong> Teamwork with SCP-26155 has improved morale among D-Class personnel involved in the experiment.</li>
+</ul>
+</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<ul>
+<li><strong>Date:</strong> ██/ ██/20██</li>
+<li><strong>Interviewer:</strong> Dr. Maria Alvarez</li>
+<li><strong>Subject:</strong> SCP-26155</li>
+<li><strong>Introduction:</strong> Interview conducted to ascertain SCP-26155's level of comprehension and any potential communication capabilities.</li>
+</ul>
+<p><strong>[BEGIN LOG]</strong></p>
+<p><strong>Dr. Alvarez:</strong> Good morning, SCP-26155. I would like to ask you some questions. Is that alright?</p>
+<p><em>SCP-26155 nods its head in an up-and-down motion.</em></p>
+<p><strong>Dr. Alvarez:</strong> Can you understand what I'm saying to you?</p>
+<p><em>SCP-26155 stamps its right foreleg once on the ground and snorts.</em></p>
+<p><strong>Dr. Alvarez:</strong> Will you show this response for 'yes'?</p>
+<p><em>SCP-26155 repeats the action.</em></p>
+<p><strong>Dr. Alvarez:</strong> Do you enjoy playing volleyball?</p>
+<p><em>SCP-26155 stamps once again and makes a cheerful whinny.</em></p>
+<p><strong>Dr. Alvarez:</strong> Are you aware of any other abilities you possess that are out of the ordinary for a horse?</p>
+<p><em>SCP-26155 does not respond, instead looking around as if searching for a ball.</em></p>
+<p><strong>Dr. Alvarez:</strong> Thank you. We'll do some playing later. Do you know where your abilities come from?</p>
+<p><em>SCP-26155 remains still, its demeanor calm and quiet.</em></p>
+<p><strong>Dr. Alvarez:</strong> Okay, thank you for your time, SCP-26155. We're done for now.</p>
+<p><em>SCP-26155 nods its head again and turns toward the volleyball court.</em></p>
+<p><strong>[END LOG]</strong></p>
+<p><strong>Dr. Alvarez's Notes:</strong> SCP-26155 responds affirmatively to questions and seems to express desires and a basic level of comprehension. Further research into its cognitive abilities is warranted.</p></div>
