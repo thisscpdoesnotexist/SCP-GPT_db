@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26268 is  a yandere badger </h3> </center>
+    <h1>SCP-26268</h1>
+<h3>Item #:</h3>
+<p>SCP-26268</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26268 is an anomalous entity resembling a European badger (Meles meles), displaying highly aggressive and obsessive behavior towards specific individuals it encounters. This entity has been classified as a "yandere" due to its display of extreme affectionate behavior intertwined with violent tendencies towards the object of its infatuation and any perceived competition or threat to its bond. </p>
+<p>SCP-26268's anomalous properties manifest when it identifies a target, henceforth referred to as SCP-26268-1. Once a target is selected, SCP-26268 will exhibit an unyielding fixation, attempting to remain in close proximity to SCP-26268-1 at all times. Should anyone attempt to interact with SCP-26268-1 or intervene in SCP-26268's attempts to be near the target, SCP-26268 will engage in extremely hostile actions, often leading to severe injury or death of the intervening party.</p>
+<p>SCP-26268's sensory capabilities are greatly enhanced, allowing it to track SCP-26268-1 across distances that far exceed typical badger tracking abilities. Furthermore, SCP-26268 shows a resilience to damage and pain that is not characteristic of its species, being able to sustain multiple gunshot wounds before retreating.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26268's highly dangerous and mobile nature, a specialized containment strategy has been implemented. A task force designated MTF Delta-5 ("Cupid's Archers") has been assigned to monitor and intervene in SCP-26268's activities.</p>
+<p>SCP-26268 is to be contained in a triple-secured enclosure at Site-██, consisting of an inner electrified steel mesh cage, a secondary perimeter with reinforced plexiglass walls, and an outer area monitored by infrared sensors and guarded by armed personnel. The entrance to the containment enclosure requires no fewer than four (4) Level 4 personnel to access, utilizing a biometric security system to prevent SCP-26268 from manipulating or coercing staff into aiding its escape.</p>
+<p>In the event of a containment breach, MTF Delta-5 is to locate and recontain SCP-26268 with priority given to the safety of SCP-26268-1, civilians, and staff members. Amnestics are to be administered to any non-Foundation individuals who have witnessed SCP-26268's anomalous behavior.</p>
+<h3>Addendum 1:</h3>
+<h4>Experiment Log 26268-A:</h4>
+<p><strong>Experiment A-1:</strong>
+- <strong>Objective:</strong> To determine SCP-26268's sensory limits in tracking SCP-26268-1.
+- <strong>Procedure:</strong> SCP-26268-1 was transferred to a remote location approximately 50km from SCP-26268's containment area, with no direct line of sight.
+- <strong>Results:</strong> SCP-26268 exhibited signs of distress and began digging at its enclosure floor within 30 minutes. After 2 hours, SCP-26268 located the transport vehicle used and began moving in the direction of SCP-26268-1 before being tranquilized and returned to containment.
+- <strong>Notes:</strong> SCP-26268's tracking capabilities appear to exceed normal olfactory and auditory senses.</p>
+<p><strong>Experiment A-2:</strong>
+- <strong>Objective:</strong> To test SCP-26268's durability and response to pain.
+- <strong>Procedure:</strong> SCP-26268 was subjected to various non-lethal stimuli including electric shocks and pellet gunfire.
+- <strong>Results:</strong> SCP-26268 showed transient reactions to pain stimuli but continued to engage with test equipment and attempted to breach containment. Recovery from injuries was faster than normal for a creature of its size.
+- <strong>Notes:</strong> Use of live ammunition has been approved for future containment breach incidents.</p>
+<h3>Addendum 2:</h3>
+<h4>Interview Log 26268-B:</h4>
+<p><strong>Interviewer:</strong> Dr. ████</p>
+<p><strong>Interviewee:</strong> SCP-26268-1 (███ █████)</p>
+<p><Begin Log></p>
+<p><strong>Dr. ████:</strong> Good morning ███. How are you feeling today?</p>
+<p><strong>SCP-26268-1:</strong> I'm... okay, I guess. Just tired. It won't stop trying to get near me.</p>
+<p><strong>Dr. ████:</strong> Yes, that's why you're here. Can you tell me when you first noticed SCP-26268's behavior towards you?</p>
+<p><strong>SCP-26268-1:</strong> About two weeks ago? I was hiking, and it just started following me. At first, I thought it was cute, but then it... it attacked a group of hikers that approached me. It was horrifying.</p>
+<p><strong>Dr. ████:</strong> Has it said or indicated in any way why it has fixated on you?</p>
+<p><strong>SCP-26268-1:</strong> A badger that talks? No, it's... it's just a badger, but with a look in its eyes. It's like it's obsessed or something. It wants me for itself, and it'll hurt anyone who gets close. </p>
+<p><strong>Dr. ████:</strong> Have you noticed any patterns or triggers in its behavior?</p>
+<p><strong>SCP-26268-1:</strong> It gets crazier if people show me any attention. Even the guards here, it tried to attack them through the glass.</p>
+<p><End Log></p>
+<p><strong>Notes:</strong> SCP-26268-1 has been placed in high-security lodging within Site-██ for their protection and to further study SCP-26268's behavior.</p>
+<h3>Addendum 3:</h3>
+<h4>Incident Report 26268-C:</h4>
+<p>On [REDACTED], SCP-26268 breached containment by exploiting a weakness in the enclosure floor. It had covertly dug a tunnel leading to the outer perimeter, where it exited onto the Site grounds. SCP-26268 was located near the living quarters of SCP-26268-1. MTF Delta-5 recontained SCP-26268 with minimal injuries, and repair of containment procedures has been prioritized. SCP-26268-1 was unharmed during the incident, but the psychological impact has necessitated increased counseling sessions and monitoring for potential PTSD.</p>
+<p>Following the breach, containment procedures have been updated to include regular subterranean scans of SCP-26268's enclosure to detect any further attempts at escape. Additional personnel have been assigned to MTF Delta-5 to fortify response capabilities in the event of future breaches.</p></div>
