@@ -1,0 +1,74 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26298 is  "Explode your d███ and small your a██, get bent losers, P████ BLAST!" </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26298</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26298 is a cognitohazardous internet meme that propagates through online platforms, notably image boards and social media. It consists of a textual phrase, typically accompanied by an image of varying content, which incites a state of hostility and unreasonable confidence in those who read it. The text often includes vulgar elements and is targeted to offend or challenge the reader. The anomalous effect of SCP-26298 becomes apparent when someone tries to vocalize or replicate the phrase.</p>
+<p>Once an individual (hereafter referred to as SCP-26298-1) reads and verbally reproduces SCP-26298, they undergo a rapid and drastic transformation. Physiological changes include an immediate loss of adipose tissue and a significant decrease in the size of appendages. Simultaneously, SCP-26298-1 subjects exhibit uncontrollable aggression and attempt to propagate the meme by any means available.</p>
+<p>The full phrase is not documented here to prevent accidental exposure of personnel. All research involving SCP-26298 must be approved by at least two Level 4 personnel and must be conducted in a controlled digital environment with no access to the wider internet.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its virtual nature and rapid propagation, SCP-26298 requires an unorthodox containment approach focusing on digital countermeasures and public disinformation campaigns. A dedicated task force within the SCP Foundation's Cybersecurity and Information Control Division is responsible for the detection, containment, and deletion of SCP-26298 instances.</p>
+<ol>
+<li>
+<p>Automated web crawlers are in constant operation to detect and take down SCP-26298 instances. These are supported by machine learning algorithms designed to adapt to variations of the meme.</p>
+</li>
+<li>
+<p>In collaboration with major social media companies, content moderation policies have been covertly updated to flag and remove SCP-26298 instances under the guise of hate speech violations.</p>
+</li>
+<li>
+<p>Individuals affected by SCP-26298 are to be detained, isolated, and placed under medical observation. A memetic counter-agent has been developed to reverse the cognitive effects, but physical alterations are, at present, irreversible.</p>
+</li>
+<li>
+<p>Foundation web analysts continuously monitor for any emergent patterns or changes in SCP-26298's behavior or effects.</p>
+</li>
+</ol>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-26298 was first identified on ████/██/██ when an online image board community experienced a mass outbreak of hostility accompanied by users reporting drastic weight loss and body disfigurement. Following several police reports and media coverage, the SCP Foundation initiated a containment protocol. All public knowledge of the event has been erased or attributed to a malicious hacking incident.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p>Interview Log 26298-█:
+Interviewed: [Redacted], former SCP-26298-1 subject
+Interviewer: Dr. L█████</p>
+<p>[Begin Log]</p>
+<p>Dr. L█████: Can you describe how you were first exposed to SCP-26298?</p>
+<p>[Redacted]: It was just another day browsing the web. I landed on this site, you know, for memes and stuff. And there it was, this weird phrase with a crazy pic. Man, I thought it was hilarious. I had to share it.</p>
+<p>Dr. L█████: Did you experience an immediate effect upon reading it aloud?</p>
+<p>[Redacted]: Yeah, it was like this buzz in my head, and suddenly, I felt totally pumped. Like I could take on the world. But then things started to get fuzzy. I remember shouting and laughing, and then my clothes felt loose, like really loose.</p>
+<p>(Omitted for brevity)</p>
+<p>Dr. L█████: Do you recall your actions after the transformation?</p>
+<p>[Redacted]: It's all a blur, doc. But I remember wanting everyone to see the meme. Like it was the most important thing ever.</p>
+<p>[End Log]</p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 26298-E1:</h4>
+<ul>
+<li>Subject: D-94502</li>
+<li>Procedure: Subject instructed to read a redacted version of SCP-26298 where the trigger had been removed.</li>
+<li>Result: No physiological or psychological changes observed.</li>
+</ul>
+<h4>Experiment 26298-E2:</h4>
+<ul>
+<li>Subject: D-76190 (previously exposed to other cognitohazards)</li>
+<li>Procedure: Subject exposed to the full phrase of SCP-26298.</li>
+<li>Result: Subject underwent rapid transformation as per usual effects, began propagating the phrase until sedation.</li>
+</ul>
+<h4>Experiment 26298-E3:</h4>
+<ul>
+<li>Subject: Groups D-18467 to D-18476</li>
+<li>Procedure: Group exposed to various memetic agents to gauge SCP-26298's memetic resistance.</li>
+<li>Result: Subjects within D-18471 to D-18476, who had been administered a counter-memetic, exhibited delayed and less severe transformations. Further counter-memetic agent research is ongoing.</li>
+</ul>
+<h4>Experiment 26298-E4:</h4>
+<ul>
+<li>Subject: D-75110</li>
+<li>Procedure: Subject underwent amnestic treatment prior to exposure to assess memory's role in transmission.</li>
+<li>Result: Subject displayed standard SCP-26298 transmission behavior, confirming that prior memory does not play a significant role in the meme's propagation.</li>
+</ul>
+<h3>Further Notes:</h3>
+<p>Continuous effort and research into effective containment and possible cure for physical alterations caused by SCP-26298 are ongoing. Given SCP-26298's ability to mutate and bypass digital safeguards, it remains one of the top priorities within the memetic hazard containment initiative.</p></div>
