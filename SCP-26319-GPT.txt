@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26319 is  the best goddamn ganja you've ever smoked </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26319</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26319 is the collective designation given to a species of cannabis plant (Cannabis sativa) with anomalous properties. When dried and combusted, the smoke produced by SCP-26319 exhibits psychoactive effects significantly beyond the range of any known strains of cannabis. Subjects who inhale this smoke enter a state of altered consciousness that typically includes extreme euphoria, enhanced sensory perception, and in many cases, access to memories or knowledge not previously held by the individual, suggesting possible telepathic or clairvoyant capabilities.</p>
+<p>SCP-26319 was first discovered in [REDACTED], following a series of police reports indicating the presence of a "miraculous herb" being sold by street dealers. Initial confiscations and interrogations led to the involvement of Foundation agents, who secured and classified the item as SCP-26319.</p>
+<p>SCP-26319 differs from non-anomalous cannabis in both appearance and growth habit. Its leaves are a vibrant [REDACTED] with luminescent trichomes that emit low-level bioluminescence in darkness. It displays a resistance to common plant diseases and is capable of growing in environments that would typically be considered inhospitable to Cannabis sativa.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26319 is to be contained in a secured greenhouse at Bio-Research Area-12 with access restricted to personnel level 3 and above. The greenhouse must replicate the natural habitat conditions necessary for SCP-26319 and be equipped with environmental controls to manage humidity, light cycles, and nutrient provision.</p>
+<p>No combustion of SCP-26319 is permitted without express permission from at least two level 4 personnel. All experiments involving SCP-26319 must be performed within an appropriately ventilated and secure laboratory, and all personnel must use protective respiratory equipment to prevent inhalation of smoke.</p>
+<p>Personnel who experience any effects from exposure to SCP-26319 are to be placed in medical quarantine and psychoanalyzed for a minimum of 72 hours.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26319-A:</h4>
+<ul>
+<li><strong>Purpose:</strong> Determine basic effects on human subjects</li>
+<li><strong>Procedure:</strong> D-1294 was instructed to smoke 0.5 grams of SCP-26319</li>
+<li><strong>Results:</strong> Subject reported intense euphoria, claiming to perceive "all of space and time." Subject accurately recalled personal details from the lives of observing researchers—information which was not publically available.</li>
+<li><strong>Notes:</strong> Experiment was terminated early due to potential security breach. Further testing must be more tightly controlled to prevent information leak.</li>
+</ul>
+<h4>Experiment 26319-B:</h4>
+<ul>
+<li><strong>Purpose:</strong> Test prolonged exposure effects</li>
+<li><strong>Procedure:</strong> D-3321 was exposed to the smoke of SCP-26319 for 15 minutes daily over a period of 7 days.</li>
+<li><strong>Results:</strong> Subject showed cumulative effects, leading to extended periods of catatonia interspersed with lucid states where D-3321 spoke in a language not recognized by linguists on staff.</li>
+<li><strong>Notes:</strong> Audio recordings of the unknown language are under analysis. It is hypothesized that the language may be extraterrestrial or extradimensional in origin.</li>
+</ul>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewed:</strong> D-5942, subject exposed to SCP-26319</p>
+<p><strong>Interviewer:</strong> Dr. ████</p>
+<p><em>[Abridged for brevity]</em></p>
+<p><strong>Dr. ████:</strong> Can you describe what you experienced during your exposure to SCP-26319?</p>
+<p><strong>D-5942:</strong> It was insane, Doc. I felt like my mind was ripped outta my skull and flung into the stars.</p>
+<p><strong>Dr. ████:</strong> Did you experience any visual or auditory hallucinations?</p>
+<p><strong>D-5942:</strong> Hallucinations? Nah, it was realer than real. I saw this... big, vast network. Everything connected. I understood everything.</p>
+<p><em>[Subject proceeds to detail experiences associated with SCP-26319, which include profound revelations about the nature of the universe, descriptions of purportedly non-human entities, and personal details about Dr. ████'s life.]</em></p>
+<p><strong>Dr. ████:</strong> Thank you, D-5942. We'll need to analyze everything you've seen. Please, submit to a memory wipe procedure before returning to your quarters.</p>
+<p><em>[Interview concluded and amnestics administered]</em></p>
+<h3>Addendum 3: Memo</h3>
+<p>It has been decided that due to the potential risks and benefits associated with SCP-26319, further testing will be conducted with an emphasis on understanding the nature of the knowledge imparted by the anomaly and its uses. SCP-26319's effects have implications for espionage, research, and data mining that can not be overlooked. However, as always, containment and security remain our top priorities. </p>
+<p>Due to the unique risks posed by SCP-26319, all personnel are reminded to follow containment protocols to the letter. Any breach of procedure will be met with disciplinary action, up to and including termination.</p></div>
