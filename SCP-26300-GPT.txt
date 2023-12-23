@@ -1,0 +1,65 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26300 is  "Explode your dick and small your ass, get bent losers, PENIS BLAST!" </h3> </center>
+    <h1>SCP-26300</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-26300</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26300 is a cognitive and linguistic anomaly that manifests when individuals read, hear, or otherwise perceive the specific phrase “Explode your dick and small your ass, get bent losers, PENIS BLAST!”. Subjects who are exposed to this phrase (hereafter SCP-26300-1) experience a sudden onset of telekinetic abilities focused on the manipulation of genital and gluteal regions of nearby living organisms. The effect is indiscriminate and uncontrollable, leading to significant harm or death to affected individuals within a 15-meter radius of SCP-26300-1.</p>
+<p>The duration of SCP-26300-1's telekinetic episode varies, but generally, it does not exceed ten minutes. Following an episode, SCP-26300-1 will collapse into a state of acute physical and mental exhaustion, often accompanied by severe amnesia surrounding the event.</p>
+<p>There is currently no known cure or method of reversing the effects of SCP-26300 exposure, and as such, it poses a significant containment breach risk.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the nature of SCP-26300, the primary focus of containment is on information suppression and public disinformation campaigns. The phrase itself is prohibited from distribution and is to be flagged in all digital communications. An automated system has been established for online monitoring and immediate removal of SCP-26300-related content. Efforts are ongoing to locate any physical copies containing the phrase and destroy them.</p>
+<p>Additionally, a Class-IV memetic hazard warning will precede this document to prevent accidental exposure to SCP-26300 among personnel.</p>
+<p>Any individuals suspected of SCP-26300 exposure are to be detained immediately, and amnestic treatment is to be administered. Extended psychological evaluation and monitoring are required following exposure to ensure no latent effects persist.</p>
+<p>SCP-26300-1 instances are contained within specialized telekinetic dampening cells at Site-██ until such time that they can be deemed no longer a threat. The cells are lined with reinforced concrete embedded with a grid of carbon nanotube fibers designed to disrupt telekinetic influence.</p>
+<p>All research on SCP-26300 requires Level 4 authorization and must be conducted in a controlled environment with appropriate safety measures in place.</p>
+<h3>Addendum 1: Experiment Log SCP-26300</h3>
+<h4>Experiment 26300-E1:</h4>
+<p><strong>Date:</strong> ██/██/████</p>
+<p><strong>Subject:</strong> D-8432 (Male, 28 years old)</p>
+<p><strong>Procedure:</strong> D-8432 was instructed to read SCP-26300 aloud within a testing chamber.</p>
+<p><strong>Results:</strong> Telekinetic activity commenced 3 seconds post-exposure, resulting in severe injuries to personnel in the observation room. The subject was incapacitated and subsequently treated with Class-B amnestics. </p>
+<p><strong>Notes:</strong> Experiment demonstrates the immediate and uncontrollable nature of SCP-26300's effects upon activation. Additional safety measures implemented.</p>
+<h4>Experiment 26300-E2:</h4>
+<p><strong>Date:</strong> ██/██/████</p>
+<p><strong>Subject:</strong> D-9165 (Female, 32 years old)</p>
+<p><strong>Procedure:</strong> D-9165 was administered a sedative and exposed to SCP-26300 via an audio recording during sleep.</p>
+<p><strong>Results:</strong> No telekinetic activity was observed. Subject remained unconscious throughout the experiment.</p>
+<p><strong>Notes:</strong> It seems that conscious cognition of SCP-26300 is required to trigger its anomalous effects.</p>
+<h4>Experiment 26300-E3:</h4>
+<p><strong>Date:</strong> ██/██/████</p>
+<p><strong>Subject:</strong> D-10511 (Male, 21 years old)</p>
+<p><strong>Procedure:</strong> D-10511 was exposed to a redacted version of the phrase where key trigger words were omitted. </p>
+<p><strong>Results:</strong> No telekinetic manifestations occurred.</p>
+<p><strong>Notes:</strong> This suggests that SCP-26300's activation relies on the complete and accurate perception of the entire phrase.</p>
+<hr />
+<h3>Addendum 2: Interview Log SCP-26300-A</h3>
+<p><em>An interview was conducted with Dr. █████ to help understand the origins and characteristics of SCP-26300.</em></p>
+<p><strong>Interviewer:</strong> Agent █████
+<strong>Interviewee:</strong> Dr. █████
+<strong>Date:</strong> ██/██/████
+<strong>Location:</strong> Site-██</p>
+<p>[EXCERPT FROM TRANSCRIPT]</p>
+<p><strong>Agent █████:</strong> Dr. █████, what can you tell us about how SCP-26300 was first encountered?</p>
+<p><strong>Dr. █████:</strong> It was initially found in a thread on an obscure internet forum dedicated to parascientific topics. One user, presumably the originator, posted the phrase as a joke. Unfortunately, chaos ensued as other users began repeating it.</p>
+<p><strong>Agent █████:</strong> Are there any theories on the genesis of SCP-26300's properties?</p>
+<p><strong>Dr. █████:</strong> We are still investigating its origins. It's possible that it's a naturally occurring memetic hazard we've accidentally stumbled upon, or it could have been artificially created. The latter is particularly worrisome, implying someone out there knows how to craft cognitive anomalies of this scale.</p>
+<p><strong>Agent █████:</strong> What are the challenges in containing SCP-26300?</p>
+<p><strong>Dr. █████:</strong> The main issue is the ease of propagation. All it takes is one unsecured mention to cause significant damage. We've been relatively successful with digital containment, but oral transmission remains a risk. That's why we're strictly controlling information regarding SCP-26300.</p>
+<p>[end of excerpt]</p>
+<hr />
+<h3>Addendum 3: Incident Report SCP-26300-I1</h3>
+<p><strong>Date:</strong> ██/██/████
+<strong>Location:</strong> Site-██</p>
+<p>Incident SCP-26300-I1 occurred during routine destruction of documents containing the SCP-26300 phrase. Due to a containment breach at an adjacent site, resources were stretched thin, and the incinerator malfunctioned. During this time, a facility maintenance worker inadvertently read the phrase from one of the documents.</p>
+<p>The resulting telekinetic event led to four fatalities and 17 injuries before the worker succumbed to exhaustion. The identity of the employee was immediately expunged from all records, and the incident was explained as an industrial accident caused by a gas leak.</p>
+<p>This incident prompted the redesign of incineration protocols and the introduction of additional safeguarding measures, including mandatory amnestic treatment for all personnel handling SCP-26300-related materials prior to the destruction process.</p></div>
