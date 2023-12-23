@@ -1,0 +1,80 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26303 is  precluded by four heralds, and one Harold. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26303</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26303 is a sentient phenomenon characterized by the occurrence of four distinct anomalous entities, labeled SCP-26303-A through SCP-26303-D (the Heralds), followed by the manifestation of a humanoid entity designated SCP-26303-E (Harold). Each Herald displays unique properties aligned with themes of apocalypse: war, famine, pestilence, and death. Their appearances are preceded by localized natural disasters and a rise in global tension.</p>
+<p>SCP-26303's cycle occurs as follows:</p>
+<ul>
+<li>
+<p>SCP-26303-A, representing war, causes immediate escalation of aggression in humans and animals within a 50 km radius, provoking large-scale conflicts.</p>
+</li>
+<li>
+<p>SCP-26303-B, symbolizing famine, absorbs nutrients from all biological matter within its vicinity, leading to widespread starvation and ecosystem disruption.</p>
+</li>
+<li>
+<p>SCP-26303-C, signifying pestilence, emits a highly contagious airborne pathogen that results in a rapid-onset disease resembling severe influenza with a high mortality rate.</p>
+</li>
+<li>
+<p>SCP-26303-D, denoting death, possesses the ability to instantaneously necrotize living tissue by its presence alone.</p>
+</li>
+</ul>
+<p>After the appearance and disappearance of the Heralds, SCP-26303-E (Harold) manifests. Harold appears as an average middle-aged man, dressed in unremarkable attire, and carries a briefcase. Conversations and interactions with Harold are non-anomalous until the subject of the four Heralds is raised. When this subject is broached, Harold exhibits extensive knowledge about the Heralds and expresses a desire to negotiate the end of their ongoing destruction.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26303's unpredictable and global impact, conventional containment is impossible. Monitoring and rapid response mechanisms are in place to detect Herald manifestations. Foundation agents embedded in governments worldwide are to initiate cover-up protocols and disseminate disinformation to manage public perception.</p>
+<ul>
+<li>
+<p>Use of orbital and terrestrial sensors to monitor for environmental changes indicative of a Herald's emergence.</p>
+</li>
+<li>
+<p>Deployment of Foundation Task Force Nu-7 ("Hammer Down") to engage and reduce the influence of SCP-26303-A where possible. Peacekeeping and diplomatic efforts are to be intensified to mitigate conflicts.</p>
+</li>
+<li>
+<p>Containment of SCP-26303-B's impact through the distribution of emergency food supplies and the implementation of agricultural countermeasures.</p>
+</li>
+<li>
+<p>Foundation medical teams equipped with hazmat gear and broad-spectrum antivirals are to intervene during an SCP-26303-C outbreak, with the goal of developing a cure or vaccine.</p>
+</li>
+<li>
+<p>Foundation Task Force Epsilon-11 ("Nine-Tailed Fox") is responsible for evacuating areas affected by SCP-26303-D and for researching preventative measures against its necrotic effect.</p>
+</li>
+</ul>
+<p>In the event of SCP-26303-E's appearance, a negotiation team with psychological training and experience in de-escalation techniques is to engage Harold. The primary objective is to gather intelligence about SCP-26303 and, if possible, prevent or delay the next Herald cycle.</p>
+<h3>Addendum 1:</h3>
+<p><em>Interview Log 26303-E-01</em></p>
+<p>Interviewed: SCP-26303-E (Harold)</p>
+<p>Interviewer: Dr. Sophia Morris</p>
+<p>[EXCERPT FOR BREVITY]</p>
+<p><strong>Dr. Morris:</strong> Harold, can you explain the purpose of the Heralds?</p>
+<p><strong>SCP-26303-E:</strong> They're the prelude, Doctor. Each one is a note in the symphony of the end times.</p>
+<p><strong>Dr. Morris:</strong> Is there a way to stop them?</p>
+<p><strong>SCP-26303-E:</strong> For every cycle, concessions are made. I offer terms. If accepted, the cycle pauses. If not, it continues.</p>
+<p>[EXCERPT ENDS]</p>
+<p>Further details of Interview Log 26303-E-01 are restricted to Level 4 clearance and above.</p>
+<h3>Addendum 2:</h3>
+<p><em>Experiment Log 26303</em></p>
+<p><strong>Experiment 26303-01:</strong>
+Attempt to avert SCP-26303-A's conflict-inducing effect using a memetic countermeasure.
+<strong>Result:</strong> Partial success. Conflict intensity reduced by 17%.</p>
+<p><strong>Experiment 26303-02:</strong>
+Use of experimental fertilizer to restore nutrient-absorption in areas affected by SCP-26303-B.
+<strong>Result:</strong> Failure. The fertilized soil became even more barren.</p>
+<p><strong>Experiment 26303-03:</strong>
+Release of genetically engineered insects to counteract SCP-26303-C's pathogen.
+<strong>Result:</strong> Failure. Pathogen adapted to insect vectors, increasing spread.</p>
+<p>=== Further experiments are detailed in separate documentation ===</p>
+<h3>Addendum 3:</h3>
+<p><em>Related Incident 26303-05-Alpha</em></p>
+<p>Incident Summary: On ██/██/20██, all four Heralds manifested simultaneously around the city of ██████. SCP-26303-E appeared immediately afterward and made substantial demands for the cessation of the Heralds' activities. Due to the unprecedented scale of the event, the O5 Council agreed to negotiate terms with SCP-26303-E.</p>
+<p>Negotiation Details: REDACTED</p>
+<p>Outcome: [DATA EXPUNGED]</p>
+<p>[END OF FILE]</p>
+<p>Further information on SCP-26303, including the full interview logs, experiment details, and related incidents, is limited to personnel with appropriate security clearance and is subject to ongoing review and revision by the O5 Council.</p></div>
