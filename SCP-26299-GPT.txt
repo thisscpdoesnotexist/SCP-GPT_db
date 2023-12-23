@@ -1,0 +1,44 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26299 is  Jeff Bezos's Amazon combination dance party and organ harvesting ceremony </h3> </center>
+    <h1>SCP-26299</h1>
+<h3>Item #:</h3>
+<p>SCP-26299</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26299 is an anomalous event periodically hosted by an entity resembling Jeff Bezos, the former CEO of Amazon.com, Inc. The event is characterized by a combination of a large-scale dance party and covert organ harvesting operation. Individuals attending the event are initially unaware of the organ harvesting component, as it is cleverly disguised and executed during the peak moments of the party.</p>
+<p>The party itself appears to manifest within various warehouse spaces owned by properties associated with Amazon or abandoned structures that once housed Amazon facilities. SCP-26299's interior is anomalously larger than the external structure suggests, able to accommodate thousands of participants. The space is equipped with advanced lighting systems, sound equipment, and medical apparatuses hidden within the party environment.</p>
+<p>Participants are lured to SCP-26299 via targeted advertisements within their digital devices or by receiving exclusive invitations that appear both prestigious and irresistible. Upon arrival, they are subjected to hypnotic music and subtle mind-altering effects that enhance suggestibility and euphoria. As the party reaches its zenith, select individuals disappear from the crowd. These individuals are later found missing vital organs, though there are no visible signs of surgery or struggle on their bodies.</p>
+<p>The harvested organs are of exceptional quality and are suspected to be utilized in a black market that caters to entities or organizations with knowledge of anomalous objects and phenomena.</p>
+<p>SCP-26299 instances occur sporadically, and the precise mechanism of the entity's selection criteria or its method of organ extraction has yet to be fully understood. The entity has been observed to possess advanced technology or anomalous abilities allowing it to evade capture and conceal its operations.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the mobile and elusive nature of SCP-26299, containment efforts are focused on prediction and intervention. A task force, designated as TF Delta-19 ("Party Crashers"), has been established to infiltrate and disrupt SCP-26299 events.</p>
+<p>Task force members are trained in recognizing potential SCP-26299 occurrences by monitoring online traffic for suspicious invites, tracking warehouse property transactions associated with Amazon, and maintaining surveillance on abandoned structures linked to prior events.</p>
+<p>Upon confirmation of an SCP-26299 event, TF Delta-19 is to deploy with the objectives of evacuating non-complicit participants, apprehending the entity orchestrating the event, and documenting all anomalous activities within the vicinity. Amnestics are to be administered to any non-Foundation personnel exposed to the anomaly.</p>
+<p>All attempts to communicate with the entity resembling Jeff Bezos are to be recorded for analysis. Any material recovered from SCP-26299, including technology and biological specimens, is to be contained in high-security storage within Site-██.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p>The following is a partial log of experiments conducted to understand the properties and capabilities of SCP-26299.</p>
+<p><strong>Experiment 26299-01</strong>
+- <strong>Purpose:</strong> To observe the initial setup of SCP-26299.
+- <strong>Procedure:</strong> Surveillance equipment was installed in a suspected next location.
+- <strong>Results:</strong> Installation of SCP-26299 occurs instantaneously, with the interior configuration complete within a time-frame that defies physical possibility. Ambient energy readings spiked dramatically during setup.</p>
+<p><strong>Experiment 26299-02</strong>
+- <strong>Purpose:</strong> To test the hypnotic effects of the music played at SCP-26299.
+- <strong>Procedure:</strong> D-Class subjects were exposed to recordings of music from SCP-26299.
+- <strong>Results:</strong> Subjects displayed increased dopamine levels and suggestibility for the duration of the exposure. Effects dissipated 24 hours post-exposure.</p>
+<p><strong>Experiment 26299-03</strong>
+- <strong>Purpose:</strong> To investigate the disappearance of participants.
+- <strong>Procedure:</strong> Tracked volunteers entered SCP-26299 with concealed GPS devices.
+- <strong>Results:</strong> All tracking devices ceased transmission simultaneously at the peak of the event, corresponding with observed disappearances.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p>[Due to length, the interview log is redacted for brevity. The full transcript is available upon request from Level 4 personnel or higher. The interview was conducted with a former Amazon warehouse manager who had survived an SCP-26299 event and provided insights into the entity's behavior and the event's nature.]</p>
+<h3>Addendum 3: Extended Incident Report - Event 26299-A12</h3>
+<p>On ██/██/20██, TF Delta-19 successfully intervened during SCP-26299's operation in ██████, causing the entity to abort the event prematurely. This marks the first time the entity has been interrupted. Analysis of the abandoned equipment revealed quantum-level technology, suggesting either extraterrestrial origin or access to other dimensions.</p>
+<p>Recovered documentation from the site has provided significant insights into the entity's organ selection criteria, fostering improvements in predictive models for future occurrences. The intervention also yielded three intact organ extraction devices, which are currently under examination by Foundation researchers.</p>
+<p>This incident has elevated concern regarding SCP-26299's potential affiliations with other anomalous entities or groups. Investigations into such connections are ongoing, and all Foundation assets are advised to remain vigilant for further developments.</p></div>
