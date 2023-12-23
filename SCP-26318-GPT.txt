@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26318 is  that if you kill Santa, you become the next Santa </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26318</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26318 is an anomalous phenomenon relating to the mythos of Santa Claus (also known as Saint Nicholas, Father Christmas, Kris Kringle, etc.). Upon the termination of any individual (hereafter referred to as "instance") that is currently fulfilling the role of Santa, SCP-26318 dictates that the individual responsible for this termination immediately undergoes a series of physical, mental, and spatial transformations that culminate in assuming the role of Santa Claus.</p>
+<p>The transformations begin within seconds of the instance's termination. Subjects report a sensation of intense cold, followed by a rapid accumulation of body mass, particularly fat, and the growth of facial hair. Clothing morphs into a red-and-white suit typical of the modern depiction of Santa Claus, and subjects begin to manifest knowledge inherent to the role, including detailed lists of children worldwide, classified by a binary 'naughty or nice' system.</p>
+<h3>Special Containment Procedures:</h3>
+<p>The current instance of SCP-26318 is to be contained in a secure residential chamber at Site-██, designed to replicate a North Pole environment. This chamber is to be kept cold, and furnished in a manner consistent with the persona of Santa Claus. The chamber is to be monitored by CCTV at all times to ensure the instance's safety and to prevent any attempts of termination by other personnel.</p>
+<p>Personnel interaction with SCP-26318 is to be limited to approved psychological and physical evaluations on a monthly basis, and during experimentation as detailed below. Under no circumstances shall an individual attempt to terminate nor cause self-termination of the SCP-26318 instance, as this will result in the initiation of the anomaly's transformative process on said individual.</p>
+<h3>Addendum 1:</h3>
+<h4>Experiment Log:</h4>
+<p>The following is a log of notable experiments conducted with SCP-26318 in order to study the phenomenon and its constraints:</p>
+<p><strong>Experiment 26318-A:</strong>
+- <em>Objective:</em> Determine the range at which a subject becomes SCP-26318 upon termination of the preceding Santa instance.
+- <em>Procedure:</em> Termination of SCP-26318 instance conducted by remote drone.
+- <em>Result:</em> Nearest personnel member outside the containment chamber transformed into SCP-26318 despite lack of direct action in instance termination.
+- <em>Notes:</em> Termination is not strictly defined by direct physical action. Proximity appears to be a key factor.</p>
+<p><strong>Experiment 26318-B:</strong>
+- <em>Objective:</em> Ascertain if SCP-26318 can pass to non-human entities.
+- <em>Procedure:</em> Termination conducted in presence of a D-class personnel and a domesticated canine.
+- <em>Result:</em> D-class personnel transformed into SCP-26318. No effect on canine.
+- <em>Notes:</em> SCP-26318 appears to be intrinsically linked to human subjects.</p>
+<p><strong>Experiment 26318-C:</strong>
+- <em>Objective:</em> Understand if SCP-26318 transformation can be resisted through mental fortitude.
+- <em>Procedure:</em> Termination conducted with D-class personnel specifically trained to resist the effects.
+- <em>Result:</em> No sign of resistance; transformation occurred as expected.
+- <em>Notes:</em> Mental resistance or preparation seems to have no effect on the transformation process.</p>
+<h3>Addendum 2:</h3>
+<h4>Interview Log:</h4>
+<p><strong>Interviewed:</strong> SCP-26318 (Formerly D-class Personnel D-████)
+<strong>Interviewer:</strong> Dr. ██████</p>
+<p><em>Begin Log</em></p>
+<p>Dr. ██████: "Please describe your feelings immediately following the transformation."</p>
+<p>SCP-26318: "It was... overwhelming. The cold hit first, like jumping into a frozen lake. Then my body... It wasn't mine. The suit, the beard, I felt them grow. I knew about the kids. Couldn't stop thinking who was naughty, who was nice."</p>
+<p>Dr. ██████: "Do you feel that you are still yourself?"</p>
+<p>SCP-26318: "Partly. I remember my... previous life. But there's more now, it's like I'm myself and someone else entirely."</p>
+<p>Dr. ██████: "Have you experienced any alterations in behavior or personality?"</p>
+<p>SCP-26318: "Ho, ho, ho! I mean—I can't help that. It's not voluntary. I smile a lot, feel jolly. It's bizarre."</p>
+<p><em>End Log</em></p>
+<p><em>Notes:</em> SCP-26318 demonstrates a partial retention of prior identity post-transformation, but is predominantly influenced by the new role.</p>
+<h3>Addendum 3:</h3>
+<p>Following the recent escape attempt by SCP-26318, which resulted in a partial deployment of the North American defense network due to the mistaken identification of a "flying sleigh" as an unidentified aerial threat, all personnel are reminded that SCP-26318 possesses abilities traditionally ascribed to Santa Claus. These abilities are not to be underestimated, and containment procedures are under review to prevent a recurrence of this security breach.</p>
+<p><em>Notes:</em> The Foundation is currently researching means to neutralize SCP-26318's capabilities without necessitating the termination of the instance or triggering the anomaly's transformation process in another subject.</p></div>
