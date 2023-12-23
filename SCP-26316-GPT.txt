@@ -1,0 +1,48 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26316 is  the physical manifestation of the wheel of Samsara, which apparently has been jammed by a loose rock for an indeterminate amount of time </h3> </center>
+    <p>```markdown</p>
+<h3>Item #:</h3>
+<p>SCP-26316</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26316 is identified as the physical manifestation of the concept known as the wheel of Samsara—the cycle of death and rebirth in various belief systems from the Indian subcontinent. SCP-26316 takes the form of an enormous, ornately decorated wheel, approximately 30 meters in diameter. The object is adorned with intricate carvings and iconography representing various stages of life, death, and rebirth.</p>
+<p>SCP-26316 exhibits a low-humming sound and gentle rotation at all times, believed to be synchronized with the birth and death of sentient beings. A large, igneous rock identified as SCP-26316-1, with an approximate mass of 700 kg, has been wedged between the spokes of SCP-26316, effectively halting its rotation. Researchers theorize that this obstruction results in the interruption of the natural cycle of life and death, leading to anomalous phenomena worldwide, such as sporadic time loops, reincarnation anomalies, and existential paradoxes.</p>
+<p>Attempts to interact physically with SCP-26316 or SCP-26316-1 result in severe karmic repercussions for individuals involved, manifesting as acute misfortune or radical changes in fate. Such repercussions occur regardless of protective measures or intent; thus, physical interaction is strictly forbidden without Overseer approval.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26316 is contained on-site due to its immovable nature within a newly constructed containment facility designated Site-26316. A no-fly zone and electronic blackout radius of 20 kilometers have been established to prevent public awareness. Foundation webcrawler protocols have been updated to censor any leaks pertaining to SCP-26316's existence or attributes.</p>
+<p>Eighteen CCTV cameras equipped with anomaly-resistant technology monitor SCP-26316 at all times. Access to the containment area is restricted to personnel with Level 5 clearance or higher and requires permission from no fewer than two members of the O5 Council.</p>
+<p>Research proposals must address the removal of SCP-26316-1 without direct physical interaction. Any robotic or remote systems must be fitted with the latest anomaly-resistant shielding and must undergo thorough Karmic Hazard Assessments prior to deployment.</p>
+<p>Personnel assigned to SCP-26316 must undergo psychological and spiritual evaluation bi-weekly to monitor for any karmic imbalances or alterations in fate. Those found to be affected are to be sequestered for further study and potential karmic recalibration.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26316-A:</h4>
+<ul>
+<li><strong>Objective</strong>: Ascertain baseline effects of SCP-26316's halted state on local flora and fauna.</li>
+<li><strong>Procedure</strong>: Remote observation of life cycles of plant and small animal life within a 1-kilometer radius of SCP-26316.</li>
+<li><strong>Results</strong>: Anomalous growth patterns in local flora; several documented instances where small animals experienced repetitive birth-death cycles within a 24-hour period.</li>
+</ul>
+<h4>Experiment 26316-B:</h4>
+<ul>
+<li><strong>Objective</strong>: Determine the effect of indirect karmic manipulation on SCP-26316.</li>
+<li><strong>Procedure</strong>: D-class personnel, after rigorous karmic alignment therapy, directed to attempt remote interaction via a drone.</li>
+<li><strong>Results</strong>: Unfavorable. Upon drone activation, the wheel emitted an intense pulse; D-class personnel suffered immediate cardiac arrest.</li>
+</ul>
+<h4>Experiment 26316-C:</h4>
+<ul>
+<li><strong>Objective</strong>: Test the resilience of SCP-26316 to long-distance quantum entanglement.</li>
+<li><strong>Procedure</strong>: Engage quantum entanglement between a particle fixed to SCP-26316 and an observation lab 100 kilometers away.</li>
+<li><strong>Results</strong>: Particle refused entanglement; remote lab experienced an unexpected temporal loop lasting 17 minutes.</li>
+</ul>
+<h3>Addendum 2: Interview Log [REDACTED]</h3>
+<p><em>A comprehensive interview with a witness before the discovery of SCP-26316. This was conducted by Dr. [REDACTED] and contained information regarding the initial jamming of Samsara by SCP-26316-1.</em></p>
+<p>[Interview details are restricted to O5 Council and specific personnel with the necessary clearance and have been redacted for the purposes of this summary.]</p>
+<h3>Addendum 3: Incident Report [REDACTED-26316]</h3>
+<p><em>On [REDACTED], SCP-26316 underwent an unexplained eight-second revolution despite the presence of SCP-26316-1. During this time, multiple global anomalies were reported, including mass confused migrations of various animal species and spontaneous linguistic shifts in populations. The incident ceased abruptly, and SCP-26316 returned to its halted state. Follow-up investigations are ongoing, and updated containment protocols have been suggested to prevent further unsanctioned rotations of SCP-26316.</em></p>
+<p>[Due to the sensitivity of the information pertaining to incident [REDACTED-26316], the rest of this report is unavailable to personnel without the sufficient clearance.]
+```</p></div>
