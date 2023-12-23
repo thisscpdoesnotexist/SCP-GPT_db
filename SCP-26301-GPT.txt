@@ -1,0 +1,42 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26301 is  the Secret Cow Level </h3> </center>
+    <p>```markdown</p>
+<h3>Item #: SCP-26301</h3>
+<h3>Object Class: Keter</h3>
+<h3>Description:</h3>
+<p>SCP-26301, colloquially known as "the Secret Cow Level," is an extradimensional space accessible through a specific ritual involving the video game "Diablo II" by Blizzard Entertainment. The ritual, which is not to be detailed here for containment reasons, allows players to enter a non-canonical level within the game that manifests as a physical reality, as opposed to a virtual environment. Upon entering this level, individuals find themselves in an expansive pasture-like environment, where they encounter aggressive, bipedal bovine entities hereafter referred to as SCP-26301-1 instances.</p>
+<p>Instances of SCP-26301-1 display a heightened level of intelligence, wielding polearms and displaying coordinated combat strategies. Communication attempts with SCP-26301-1 instances have been met with hostility. The level itself appears to be limitless, and escape is only possible by completing the level as per the game's mechanics or outsmarting the in-game enemies, which causes the player to respawn outside of the anomalous space.</p>
+<p>Surviving individuals report consistent existential discomfort and paranoia following exposure, indicating a cognitohazardous effect or psychological trauma resulting from the encounter. Long-term effects are still under investigation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26301's nature, containment efforts are focused on information suppression and monitoring online gaming communities for any mention of the "Secret Cow Level" ritual. Foundation web crawlers (designated I/O-SILVER) are to immediately flag and scrub any detailed instructions for accessing SCP-26301.</p>
+<p>All copies of "Diablo II" owned by the Foundation are to be kept in a secure locker at Site-██, and testing is to be conducted only with Level 4 approval. Any authorized personnel entering SCP-26301 must go through a rigorous psychological evaluation before and after exposure. In the case of a containment breach, Mobile Task Force Mu-4 ("Debuggers") is to be dispatched for immediate suppression and recontainment of SCP-26301 information.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 26301-A:</strong><br />
+Attempt to communicate with SCP-26301-1 instances using foundation personnel trained in bovine behavior.<br />
+<strong>Result:</strong> SCP-26301-1 instances responded with immediate hostility, resulting in ██ casualties and the withdrawal of the experiment team.</p>
+<p><strong>Experiment 26301-B:</strong><br />
+Deployment of an unmanned drone to map the extent of SCP-26301.<br />
+<strong>Result:</strong> Drone transmission was lost after approximately ██ kilometers. Recovery was impossible.</p>
+<p><strong>Experiment 26301-C:</strong><br />
+Test the effects of SCP-26301 exposure on D-class personnel convicted of violent crimes.<br />
+<strong>Result:</strong> Varied. Some subjects were terminated by SCP-26301-1 instances; others returned exhibiting extreme paranoia and aggressive tendencies.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewed:</strong> D-26301-█, a survivor of an encounter with SCP-26301-1 instances.<br />
+<strong>Interviewer:</strong> Dr. ████<br />
+(Note: Subject appears visibly shaken and paranoid during the interview.)</p>
+<p><strong>Dr. ████:</strong> Can you describe what you saw when you entered the level?</p>
+<p><strong>D-26301-█:</strong> It was a damn massacre, doc. Cows everywhere, walkin' on two legs, swingin' those big-ass poles around. They don't die, too. I swear, we took down hundreds, and they kept coming.</p>
+<p><strong>Dr. ████:</strong> Did you notice anything unusual about their behavior?</p>
+<p><strong>D-26301-█:</strong> Yeah, they were smart. Too smart. Knew how to flank us, trap us. I've never seen anything like it.</p>
+<p><Further details redacted for brevity.></p>
+<h3>Addendum 3: Incident Report 26301-██</h3>
+<p>On ██/██/20██, a gaming convention inadvertently hosted a group who performed the SCP-26301 access ritual in public. Numerous attendees were exposed to SCP-26301, resulting in █ fatalities and ███ injuries.</p>
+<p>Response from MTF Mu-4 ("Debuggers") was swift, and amnestics were administered to all involved. Cover story "Mass VR Hallucination" was spread through media channels, and the event was contained without further public knowledge.</p>
+<p>The incident prompted a revision of containment protocols, emphasizing stricter monitoring of gaming events and the deployment of undercover agents in the gaming industry to suppress knowledge of SCP-26301.
+```</p></div>
