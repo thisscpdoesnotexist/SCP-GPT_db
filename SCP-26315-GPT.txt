@@ -1,0 +1,55 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26315 is  Maman Brigitte  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26315</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26315, known colloquially as "Maman Brigitte," is a humanoid entity with the appearance of a mature woman, frequently compared to depictions of its namesake, a loa in Haitian Vodou. SCP-26315 exhibits a range of anomalous effects, most notably the ability to manipulate life and death within a certain radius of its presence, which is roughly estimated to be 1 kilometer. It seems capable of resurrecting the recently deceased, altering the age of living organisms, and causing instanced necrosis in targeted subjects.</p>
+<p>SCP-26315 has been observed to speak several languages fluently, including Haitian Creole, French, and English, among others. It has expressed a fondness for rum, tobacco, hot peppers, and conversation with individuals who show knowledge of Vodou practices.</p>
+<p>The nature of SCP-26315's sentience remains under investigation; however, it has demonstrated self-awareness, advanced reasoning capabilities, and extensive knowledge of both historical and contemporary events.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the high-risk potential of SCP-26315's abilities, it is to be contained within a modified humanoid containment chamber with adaptive life support systems and specialized warding measures designed to negate its anomalous effects. The chamber should be situated at least 1.5 kilometers underground beneath Site-[REDACTED] to ensure minimal risk of unintended influence on the surface.</p>
+<p>SCP-26315's containment cell will be equipped with a double airlock system to prevent its escape during supply deliveries and interaction with personnel. The interior should be furnished in accordance with the entity's preferences, as cooperation has been deemed valuable for containment.</p>
+<p>Personnel assigned to SCP-26315 must have at least a Level 3 security clearance and undergo thorough psychological assessments to safeguard against manipulation. Direct interaction with SCP-26315 is strictly limited, and subjects are required to wear specialized equipment to inhibit SCP-26315's control over their biological processes.</p>
+<p>Any communication with SCP-26315 must be recorded and any perceived requests by SCP-26315 for alterations in containment procedures must be reviewed by the O5 council.</p>
+<h3>Addendum 1: Experiment Log SCP-26315-E</h3>
+<h4>Experiment 26315-E-001</h4>
+<p><strong>Goal:</strong> To determine the extent of SCP-26315's ability to influence the life cycles of multicellular organisms.
+<strong>Procedure:</strong> A live Drosophila melanogaster (fruit fly) specimen was introduced to the containment chamber.
+<strong>Results:</strong> SCP-26315 was observed waving her hand over the specimen, after which the fruit fly underwent rapid life cycle progression, reaching the end of its lifespan within approximately two minutes.</p>
+<h4>Experiment 26315-E-002</h4>
+<p><strong>Goal:</strong> To study the effect of SCP-26315's abilities on plant life.
+<strong>Procedure:</strong> A potted juvenile Ficus benjamina (weeping fig) tree was introduced to the cell.
+<strong>Results:</strong> Upon contact with SCP-26315, the weeping fig aged swiftly, producing flowers and fruit within an hour before withering and decaying over the next twenty minutes.</p>
+<h3>Addendum 2: Interview Log SCP-26315-I</h3>
+<p><strong>Interviewer:</strong> Dr. [REDACTED]
+<strong>Interviewed:</strong> SCP-26315</p>
+<p>[BEGIN LOG]</p>
+<p>Dr. [REDACTED]: "Good morning, SCP-26315. We'd like to discuss your background and abilities with you."</p>
+<p>SCP-26315: "Mornin', child. You may call me Maman Brigitte if it pleases you."</p>
+<p>Dr. [REDACTED]: "Thank you. Can you tell me where you come from?"</p>
+<p>SCP-26315: (smiles) "I hail from places old and forgotten, from the breath of life and the silence of death."</p>
+<p>Dr. [REDACTED]: "Are there others like you?"</p>
+<p>SCP-26315: "There are many loas, child. I am but one face in the ever-turning wheel."</p>
+<p>Dr. [REDACTED]: "Can you control your abilities, or are they involuntary?"</p>
+<p>SCP-26315: "A queen of the dead does not relinquish her control, no. It is a tender dance, one I've mastered over unnumbered years."</p>
+<p>[EXTRACT OMITTED FOR BREVITY]</p>
+<p>[END LOG]</p>
+<h3>Addendum 3: Experiment Log SCP-26315-E Continued</h3>
+<h4>Experiment 26315-E-010</h4>
+<p><strong>Goal:</strong> To observe SCP-26315's reaction to death without intervention.
+<strong>Procedure:</strong> A monitored, terminally ill Class-D personnel member was introduced to SCP-26315's containment chamber, scheduled to naturally expire within the hour.
+<strong>Results:</strong> SCP-26315 comforted the subject during their final moments, singing in an unidentifiable language. Upon the subject's death, SCP-26315 touched the forehead of the deceased, resulting in the temporary reanimation of the subject for approximately five minutes, during which the subject appeared peaceful before ceasing all biological functions permanently.</p>
+<h4>Experiment 26315-E-013</h4>
+<p><strong>Goal:</strong> To test the limitations of SCP-26315's control over human life.
+<strong>Procedure:</strong> A live human subject, implanted with a remotely triggered cardiac arrest device, was introduced to SCP-26315 with proper ethical oversight and the subject's consent.
+<strong>Results:</strong> Upon activation, the subject suffered instant cardiac arrest. SCP-26315 quickly intervened, seemingly reversing the subject's condition. However, data collected indicates that the reversal was not complete, as the subject displayed significant loss in brain function, suggesting that SCP-26315's control over complex organisms may have limitations.</p>
+<h3>Addendum 4: Incident Report SCP-26315-█</h3>
+<p>On [REDACTED], an attempt by GoI [REDACTED] to extract SCP-26315 resulted in a containment breach. The entity displayed previously undocumented abilities, causing rapid deterioration in living tissue of all breach personnel within its radius of influence, before willingly returning to containment. Close observation and reevaluation of containment protocols have been recommended by the Ethics Committee.</p></div>
