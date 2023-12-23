@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26317 is  the maiden of bacon, the mother of eggs, and the crone of toast </h3> </center>
+    <h1>SCP-26317: The Breakfast Trinity</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-26317</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26317 refers to three separate, sentient entities that manifest only during a specific ritual relating to the preparation of a traditional breakfast meal consisting of bacon, eggs, and toast. These entities are designated SCP-26317-A (the Maiden of Bacon), SCP-26317-B (the Mother of Eggs), and SCP-26317-C (the Crone of Toast).</p>
+<p>SCP-26317-A appears as a youthful female figure garbed in attire made of what seems to be raw bacon strips. When in a docile state, SCP-26317-A exudes an aroma of cooking bacon and can manipulate slices of bacon within its vicinity to conform to its desires. It displays intelligence and has communicated with researchers on numerous occasions.</p>
+<p>SCP-26317-B resembles a middle-aged female with a complexion similar to that of cooked eggs. It frequently manifests with a cooking pan in hand and can control the coagulation and cooking state of any egg matter present within a 5-meter radius.</p>
+<p>SCP-26317-C is an elderly female entity appearing to be composed entirely of toasted bread. It communicates less frequently than SCP-26317-A and SCP-26317-B but possesses the ability to induce rapid carbonization in bread-based products, effectively "toasting" them at will.</p>
+<p>Combining the individual ingredients into a singular meal has not been attempted due to the undetermined consequences of such action.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26317 entities are to be contained within a standard kitchen-like containment cell equipped with a gas powered stove, cooking utensils suitable for the preparation of bacon, eggs, and toast, and a dining area. The containment cell is to be fitted with air filtration systems to prevent the possible memetic spread of SCP-26317's effects via olfactory sensation.</p>
+<p>Personnel entering SCP-26317's containment area are required to have a comprehensive understanding of culinary practices regarding breakfast preparation and be equipped with standard Foundation protective culinary gear to counter potential anomalous effects during manifestations. Interactions with SCP-26317 entities should be recorded, with data submitted to Dr. ████████ for analysis.</p>
+<p>In the event that SCP-26317 manifests outside its containment, a culinary containment team is to perform an Immediate Breakfast Ritual (IBR) to coax the entities back to their cell; failure to perform an IBR could result in a wide-scale containment breach.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-26317 was discovered in a small bed and breakfast in ███████, England after reports of a "haunted kitchen" reached the media. Foundation agents embedded in local law enforcement were dispatched and confirmed the anomalous nature of the entities. Following class-A amnestic treatment to witnesses and the establishment of a cover story involving a gas leak hallucination, SCP-26317 was contained.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p>An interview was conducted between Dr. ████████ and SCP-26317-A, given its cooperative demeanor.</p>
+<p><strong>Dr. ████████:</strong> Good morning. How are you feeling today?</p>
+<p><strong>SCP-26317-A:</strong> Crispy and smoky, as always. What brings you, kind chef?</p>
+<p><strong>Dr. ████████:</strong> Can you tell us where you come from?</p>
+<p>[Further dialogue continues where SCP-26317-A alludes to a place where breakfast is an eternal concept, and the preparation of the meal sustains their existence.]</p>
+<h3>Addendum 3: Experiment Log</h3>
+<p>Below is a log of experiments conducted on SCP-26317 entities to discern their capabilities and limitations.</p>
+<p><strong>Experiment 1:</strong>
+- Objective: To ascertain the limitations of SCP-26317-A's control over bacon.
+- Procedure: 10 kg of raw bacon was placed within the containment area without initial cooking.
+- Results: SCP-26317-A was able to animate and manipulate the bacon until it was cooked to a crisp state without any external heat source.</p>
+<p><strong>Experiment 2:</strong>
+- Objective: To determine if SCP-26317-B can control eggs in various states.
+- Procedure: A variety of egg-based dishes, including raw eggs, boiled eggs, and scrambled eggs, were introduced to the containment area.
+- Results: SCP-26317-B managed to revert the cooked eggs back to their raw state and manipulate the raw eggs into different cooked forms without utilizing the stove.</p>
+<p><strong>Experiment 3:</strong>
+- Objective: To test the range of SCP-26317-C's carbonization effects.
+- Procedure: Various bread types from different origins were placed at increasing distances from SCP-26317-C.
+- Results: SCP-26317-C showed an ability to toast bread up to 7 meters away with diminishing effectiveness beyond 4 meters. Beyond 7 meters, the influence was negligible.</p>
+<p>Further experiments are ongoing, with focus on understanding the interplay between SCP-26317-A, SCP-26317-B, SCP-26317-C, and the potential collective anomalies they may generate. Containment procedures may be adjusted as further knowledge is acquired.</p></div>
