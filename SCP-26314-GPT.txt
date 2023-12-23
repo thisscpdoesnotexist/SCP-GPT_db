@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26314 is  Meemawgeddon </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26314</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26314, colloquially known as "Meemawgeddon," refers to a phenomenon involving the spontaneous transformation of elderly individuals into entities possessing anomalous abilities and characteristics. Subjects affected by SCP-26314, henceforth referred to as SCP-26314-A instances, have demonstrated abilities ranging from reality warping, superhuman strength, and rapid regeneration to more esoteric powers such as memory alteration and temporal manipulation.</p>
+<p>Instances of SCP-26314-A retain their pre-transformation memories and personalities; however, they exhibit a loss of inhibitions and a marked increase in hostility towards perceived threats. The trigger for the transformation is currently unknown, though it has been observed to occur most frequently in individuals over the age of 75 with a predisposition to nostalgic reminiscence.</p>
+<p>The origins of SCP-26314 remain a topic of substantial research. It first came to the Foundation's attention after a series of anomalous events in retirement homes and geriatric wards across the globe.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the unpredictable nature of SCP-26314, containment focuses on rapid response and neutralization of SCP-26314-A instances. Mobile Task Force Nu-7 ("Hammer Down") is deployed to locations with a significant elderly population to monitor and manage potential outbreaks. Should an SCP-26314-A instance manifest, MTF Nu-7 is to secure the area, evacuate non-combatant personnel, and contain or neutralize the instance with minimal casualties.</p>
+<p>Foundation front companies embedded in the healthcare industry are to report any unusual incidents involving elderly patients, facilitating prompt Foundation response. Propaganda campaigns promoting "healthy aging" have been initiated in high-risk areas to encourage the timely reporting of SCP-26314 symptoms by the public.</p>
+<p>D-Class personnel over the age of 75 are to be monitored closely for any signs of SCP-26314 transformation. Experiments on SCP-26314-A instances are to be performed with extreme caution and authorized by no less than two Level 4 Senior Researchers.</p>
+<h3>Addendum 1:</h3>
+<p>Interview with SCP-26314-A12, formerly Mrs. Edna Haroldson, conducted to gather information on the psychological effects of SCP-26314. Mrs. Haroldson displayed the ability to materialize objects from her past, including photographs and items of sentimental value. The interview was conducted by Dr. Henrik Müller, a Foundation psychologist.</p>
+<p>[Interview Log SCP-26314-A12 (Excerpt)]</p>
+<p>Dr. Müller: "Mrs. Haroldson, can you describe how you feel since the transformation?"</p>
+<p>SCP-26314-A12: "Everything’s as vivid as it was fifty years ago. I can almost touch the memories, wrap myself in them. It's overwhelming. But along with it, there's this fury, like a teakettle screaming on the stove. I don't want to hurt anyone, but it's getting harder to keep it in check."</p>
+<p>Dr. Müller: "Do you have control over the objects you create?"</p>
+<p>SCP-26314-A12: "Sometimes. Sometimes they just appear. It's like the room is filling with ghosts—my ghosts. Some are welcome; others I'd rather forget."</p>
+<p>[End log]</p>
+<h3>Addendum 2:</h3>
+<p>Experiment Log SCP-26314-E12</p>
+<p><strong>Experiment 1:</strong>
+- <strong>Purpose:</strong> To determine if SCP-26314-A instances can control their anomalous attributes.
+- <strong>Procedure:</strong> SCP-26314-A7, previously Mr. Steven Bloom, was asked to replicate a simple object, a Rubik's Cube, which he claimed to have enjoyed in his youth.
+- <strong>Result:</strong> SCP-26314-A7 successfully recreated the Rubik's Cube in a pristine condition.
+- <strong>Note:</strong> The cube persisted for 48 hours before vanishing.</p>
+<p><strong>Experiment 2:</strong>
+- <strong>Purpose:</strong> To assess the longevity of items created by SCP-26314-A instances.
+- <strong>Procedure:</strong> SCP-26314-A9, previously Ms. Linda Choi, was asked to materialize a childhood doll.
+- <strong>Result:</strong> SCP-26314-A9 produced the doll. The item began to degrade into dust after 27 hours.
+- <strong>Note:</strong> An emotional outburst from SCP-26314-A9 accelerated the degradation.</p>
+<p><strong>Experiment 3:</strong>
+- <strong>Purpose:</strong> To determine if SCP-26314-A instances can affect living organisms.
+- <strong>Procedure:</strong> SCP-26314-A4, previously Mr. Carlos Garcia, was presented with a house plant and asked to enhance its growth.
+- <strong>Result:</strong> SCP-26314-A4 accelerated the plant's growth significantly before losing control. The plant transformed into an aggressive anomalous entity, [REDACTED] and SCP-26314-A4 was terminated to prevent further incident. </p>
+<p>[Additional experiments omitted for brevity]</p>
+<h3>Addendum 3:</h3>
+<p>Containment Breach Report [REDACTED]</p>
+<p>[Excerpt]
+On [REDACTED], SCP-26314-A5, formerly Mrs. Margaret Young, breached containment following a period of docility. The incident resulted in [REDACTED] casualties before SCP-26314-A5 was neutralized by MTF Nu-7. A comprehensive review of containment protocols is underway to address failures and minimize future risks. Following the breach, a psychological evaluation for operatives who come into contact with SCP-26314-A instances is being instituted.</p>
+<p>[Details regarding the breach and the neutralizing actions taken by MTF Nu-7 have been classified as Level 4 sensitive material.]</p></div>
