@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26325 is  a self-creating meme </h3> </center>
+    <h1>SCP-26325</h1>
+<h3>Item #:</h3>
+<p>SCP-26325</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26325 is a cognitohazardous meme with self-replicating and self-mutating properties, manifesting primarily in digital form via images, videos, and text. Initial exposure to SCP-26325 inflicts victims with an immediate compulsion to share and propagate the meme, alongside gradual degradation of cognitive functions. Over the span of approximately 72 hours post-exposure, subjects (hereafter referred to as SCP-26325-1) exhibit increasingly obsessive behavior, with their communications becoming incomprehensible save for references to SCP-26325.</p>
+<p>SCP-26325 is capable of bypassing typical digital safeguards and filters, and can adapt its form and content to appeal to specific demographic groups, with the intent of maximizing its transmission rate. Authentic samples of SCP-26325 are indistinguishable from non-anomalous content until reception by a human observer, at which point the compulsive effects become immediately apparent. Any electronic device with a screen and internet connectivity can potentially display SCP-26325.</p>
+<p>Long-term exposure has not been fully documented due to the risk of staff exposure; however, the observable progression of mental degradation in affected individuals suggests permanent neurological damage or fatality is a possible outcome.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its nature, SCP-26325 cannot be contained in a traditional sense. Web-Crawler Lambda-26325 has been developed to identify and quarantine digital manifestations of SCP-26325. Lambda-26325 is equipped with advanced AI algorithms for pattern recognition, designed to adapt in anticipation of SCP-26325's mutational changes.</p>
+<p>All Foundation personnel are required to undergo monthly cognitohazard resistance training to minimize the risk of succumbing to SCP-26325's effects. Online activity of personnel is monitored closely for signs of SCP-26325 influence.</p>
+<p>In the event that SCP-26325 is detected, the affected information system is to be isolated and purged. Any instances of SCP-26325-1 are to be detained and quarantined at Site-██ for observation and potential rehabilitation.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-26325 was first identified on ██/██/20██ following a sudden spike in internet traffic related to a specific image macro series originating from [REDACTED]. The Foundation intervened after unusual patterns of behavior were reported among the affected online communities, and the meme was traced back to its anomalous properties.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment #26325-01:</h4>
+<p><strong>Objective:</strong> To determine the initial effects of exposure to SCP-26325 on D-class personnel.
+<strong>Procedure:</strong> D-4365 was exposed to SCP-26325 via a secure terminal. Monitoring of physiological and psychological responses was conducted.
+<strong>Results:</strong> D-4365 displayed immediate compulsion to share SCP-26325, attempting to breach containment to "spread the joy." D-4365 was subdued and returned to quarantine.</p>
+<h4>Experiment #26325-02:</h4>
+<p><strong>Objective:</strong> To evaluate the adaptability of SCP-26325.
+<strong>Procedure:</strong> A contained, simulated online environment was created. Distinct user profiles representing various demographics were introduced.
+<strong>Results:</strong> SCP-26325 mutated to produce tailored content for each demographic, successfully compelling all simulated profiles to engage.</p>
+<h4>Experiment #26325-03:</h4>
+<p><strong>Objective:</strong> To ascertain long-term effects of exposure on higher-functioning individuals.
+<strong>Procedure:</strong> D-9812, a former neuroscientist, was exposed under controlled conditions.
+<strong>Results:</strong> Rapid cognitive decline observed. D-9812 became unresponsive after 48 hours. Termination authorized.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. ██████
+<strong>Interviewee:</strong> D-4365 (Post-exposure to SCP-26325, day 2)
+<strong><Begin Log></strong></p>
+<p><strong>Dr. ██████:</strong> D-4365, can you hear me?</p>
+<p><strong>D-4365:</strong> Must share... the laugh... too good not to share...</p>
+<p><strong>Dr. ██████:</strong> What can you tell me about the content of the meme?</p>
+<p><strong>D-4365:</strong> It's... (incoherent mumbling)... the best... you gotta see it... (D-4365 becomes increasingly agitated)</p>
+<p><strong>Dr. ██████:</strong> We need you to try to focus. Describe the effects it has on you.</p>
+<p><strong>D-4365:</strong> (Screaming) Everyone needs it! Let me show them!</p>
+<p>(Interview is terminated as D-4365 becomes violently uncooperative.)</p>
+<p><strong><End Log></strong></p>
+<p><em>[Note: Further interviews with SCP-26325-1 instances suspended due to the risk of contagion to staff.]</em></p>
+<p>Further research is ongoing to develop more effective containment procedures and a possible cure or vaccine against the compulsive effects of SCP-26325. The memetic nature of SCP-26325 poses a significant challenge, necessitating constant vigilance and adaptation by the Foundation's cyber operations teams.</p></div>
