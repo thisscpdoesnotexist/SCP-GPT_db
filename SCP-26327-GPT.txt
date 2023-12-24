@@ -1,0 +1,54 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26327 is  an inhumanly strong mother doppelganger shows up under impossible circumstances and tries to take care of you but in the process of doing so kills you, seemingly due to ignorance of the current circumstances </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26327</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26327 is an anomalous entity that manifests as an exact physical and behavioral replica of the mother of the subject it targets (hereinafter referred to as SCP-26327-1). SCP-26327 appearances are unpredictable and seem to follow no discernible pattern, arising under "impossible circumstances" such as locked rooms, closed-off areas, or even public spaces with no apparent point of entry. Surveillance equipment fails to capture the initial moments of SCP-26327's manifestation until it is fully present and interacting with SCP-26327-1.</p>
+<p>Despite SCP-26327's close resemblance to the mother of SCP-26327-1, several key differences are noted upon examination. SCP-26327 exhibits:
+- Inhuman strength, far surpassing that of a typical human.
+- A resilience to physical damage that is highly resistant, albeit not invulnerable.
+- An inability to perceive the current context or recognize potentially dangerous outcomes stemming from its actions.</p>
+<p>The entity engages in activities that mimic nurturing and protective maternal behavior, but due to its anomalous strength and poor situational awareness, these actions invariably result in the injury or death of SCP-26327-1. After the demise of SCP-26327-1, SCP-26327 disappears without trace.</p>
+<p>The intentions behind SCP-26327's actions remain undetermined, as it has not displayed any overtly malicious intent; rather, it acts with a misplaced sense of care that is fatal. The hastened emotional responses from SCP-26327-1 seem to expedite the dangerous outcomes.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26327’s unpredictable manifestations, complete containment is not currently feasible. Foundation efforts have shifted toward early identification of potential SCP-26327-1s, prioritizing individuals who have experienced recent maternal loss, express intense longing for maternal figures, or have undergone traumatic childhood experiences related to their mothers.</p>
+<p>Currently, individuals who are deemed at risk are to be placed under discreet surveillance by embedded Foundation agents. These agents are tasked with immediate intervention should SCP-26327 manifest. Specialized, rapid-response containment teams (Designation: Maternals) are on standby to deploy non-lethal suppression tactics approved for use against SCP-26327.</p>
+<p>Any instances of SCP-26327-1 which survive initial encounters are to be immediately taken into Foundation care for debriefing, amnestic treatment, and subsequent release with fabricated memories to account for any witnessed anomalies or injuries.</p>
+<p>Foundation web-crawlers are to monitor online platforms and communication channels for any indications of SCP-26327 manifestations to predict potential occurrences.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment #26327-A</h4>
+<p><strong>Objective:</strong> To observe SCP-26327's behavior in a controlled environment.</p>
+<p><strong>Procedure:</strong> A D-class personnel, fitted with a device to simulate the heartbeat of the subject's mother, was placed in a secured observation room. Additional restraints were used to ensure safety.</p>
+<p><strong>Results:</strong> SCP-26327 manifested within two hours, attempting to caress the subject. The subject sustained multiple fractures due to SCP-26327's inhuman strength before security intervened.</p>
+<h4>Experiment #26327-B</h4>
+<p><strong>Objective:</strong> To test SCP-26327's resilience to sedatives.</p>
+<p><strong>Procedure:</strong> SCP-26327 was allowed to manifest in a sealed containment chamber. Upon full manifestation, sedative gas was released into the chamber.</p>
+<p><strong>Results:</strong> SCP-26327 demonstrated initial signs of drowsiness but did not lose consciousness. The entity instead became agitated and applied more force in its attempts to 'comfort' the now-unresponsive D-class personnel, resulting in [REDACTED].</p>
+<h4>Experiment #26327-C</h4>
+<p><strong>Objective:</strong> To determine if SCP-26327 can recognize its own nature.</p>
+<p><strong>Procedure:</strong> A mirror was placed in the observation room before SCP-26327's manifestation. </p>
+<p><strong>Results:</strong> SCP-26327 briefly looked into the mirror, showing no sign of self-recognition. It continued to focus solely on SCP-26327-1, leading to [DATA EXPUNGED].</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. [REDACTED]
+<strong>Interviewee:</strong> D-class personnel (Survivor of SCP-26327 interaction)
+<strong>Note:</strong> This interview was conducted post-incident to gather information on SCP-26327's physical and behavioral characteristics.</p>
+<p>[Begin Log]</p>
+<p><strong>Dr. [REDACTED]:</strong> Can you describe how SCP-26327 approached you?</p>
+<p><strong>D-class personnel:</strong> It… it just came out of nowhere. Looked just like my mom; the voice, the clothes, even the way she smelled. But the eyes… there was something off about them.</p>
+<p><strong>Dr. [REDACTED]:</strong> Off in what way?</p>
+<p><strong>D-class personnel:</strong> They were too intense… like she wanted to take care of me so bad it hurt.</p>
+<p><strong>Dr. [REDACTED]:</strong> Please, describe the encounter.</p>
+<p><strong>D-class personnel:</strong> It grabbed me, telling me it was going to make everything alright. But the grip was crushing me! I tried to scream, tell her she was hurting me… it didn't stop. God, it didn't stop. If you guys hadn't come in…</p>
+<p><strong>Dr. [REDACTED]:</strong> [Softly] Thank you, that will be all for now.</p>
+<p>[End Log]</p>
+<h3>Addendum 3: Recovery and Analysis</h3>
+<p>SCP-26327 instances remain a priority for on-site analysis; however, the chances of recovery have been slim due to its instantaneous disappearance after incidents. Specialized teams continue to analyze data from manifestations in an attempt to predict and potentially prevent future occurrences of SCP-26327.</p>
+<p>Research into potential origins, connections to specific cultural or psychological patterns, and its ability to bypass physical barriers remains ongoing. Dr. [REDACTED] has proposed a theory connecting SCP-26327's manifestations to a collective unconsciousness, potentially drawing from deep-rooted human fears and desires regarding maternal protection. Further examination of this hypothesis is in progress.</p></div>
