@@ -1,0 +1,56 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26324 is  the water wraith of the submerged castle  </h3> </center>
+    <h1>SCP-26324: The Water Wraith of the Submerged Castle</h1>
+<h3>Item #:</h3>
+<p>SCP-26324</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26324, also known as "The Water Wraith of the Submerged Castle," is an incorporeal entity dwelling within the remains of an ancient, submerged castle located at the bottom of [REDACTED], a lake in [REDACTED] Europe. The entity appears as a fluctuating mass of water, capable of manipulating its form to a significant extent, including the creation of tentacle-like appendages and humanoid shapes. </p>
+<p>SCP-26324 exhibits considerable intelligence and hostility towards living organisms, particularly humans. It appears to have a strong aversion to any disturbances within its domain. The entity has shown the ability to control water pressure, temperature, and composition, effectively making the entire lake its potential hazard zone. Additionally, SCP-26324 can "possess" water outside of its primary body, leading to attacks on nearby vessels or individuals.</p>
+<p>Attempts to communicate with SCP-26324 have thus far failed, as it refuses or lacks the ability to respond in a recognizable manner. Efforts to study the entity have been hindered by its aggressive behavior and the challenging environment of its lair.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the innate difficulties in containing an aquatic and semi-tangible entity such as SCP-26324, the current containment strategy revolves around isolation and surveillance. The entire area surrounding the lake has been cordoned off under the guise of a nature reserve, with SCP Foundation personnel posing as park rangers to deter civilian access.</p>
+<p>Remote observation posts, disguised as research outposts, are to monitor the lake for any significant changes in activity. Under no circumstances should personnel engage directly with SCP-26324 unless authorized for testing purposes. The use of sonar or any submerged machinery is prohibited, as this has been observed to provoke SCP-26324.</p>
+<p>Termination of SCP-26324 is considered unfeasible with current Foundation technology. All efforts should focus on containment and prevention of the entity's interaction with the public.</p>
+<h3>Addendum 1: Incident Report 26324-Alpha</h3>
+<p>SCP-26324 first came to the Foundation's attention when a series of unexplained disappearances, linked to a local legend of a "cursed" lake, triggered an undercover investigation. Subsequent events confirmed the presence of an anomalous entity within the depths of the lake, which led to the immediate establishment of a containment zone.</p>
+<h3>Addendum 2: Experiment Log 26324-01</h3>
+<h4>Experiment #1</h4>
+<p><strong>Objective:</strong> To assess SCP-26324's reaction to electronic surveillance equipment.
+<strong>Procedure:</strong> A remotely operated vehicle (ROV) equipped with cameras was deployed into the lake.
+<strong>Result:</strong> SCP-26324 immediately attacked the ROV upon its approach to the castle, crushing it with a high-pressure water jet.
+<strong>Conclusion:</strong> SCP-26324 displays a hostile reaction to invasive technology.</p>
+<h4>Experiment #2</h4>
+<p><strong>Objective:</strong> To evaluate the entity's territorial range.
+<strong>Procedure:</strong> Buoyant, GPS-equipped probes were released at various distances from the castle ruins.
+<strong>Result:</strong> SCP-26324 expanded its form to retrieve and crush probes up to 500 meters away from the castle. Beyond this range, aggression ceased.
+<strong>Conclusion:</strong> SCP-26324's territorial range extends approximately 500 meters from the ruins.</p>
+<h4>Experiment #3</h4>
+<p><strong>Objective:</strong> To test if SCP-26324 exhibits any patterns in its aggression.
+<strong>Procedure:</strong> Divers with non-invasive observation equipment observed SCP-26324 from a safe distance over a continuous 48-hour period.
+<strong>Result:</strong> The entity roams its territory erratically but returns to the central castle ruins every 6 hours.
+<strong>Conclusion:</strong> SCP-26324 appears to have a compulsion to remain close to the ruins, possibly a point of origin or "anchor."</p>
+<h3>Addendum 3: Interview Log 26324-Alpha</h3>
+<p><strong>Interviewee:</strong> D-9375 (a Class D personnel introduced into SCP-26324's environment)
+<strong>Interviewer:</strong> Dr. [REDACTED]
+<strong>Foreword:</strong> D-9375 was provided with an experimental suit designed to withstand high-pressure environments and instructed to establish communication with SCP-26324 or gather data about the submerged castle.</p>
+<p>[Begin Log]</p>
+<p><strong>Dr. [REDACTED]:</strong> D-9375, please state your current observations.</p>
+<p><strong>D-9375:</strong> Doc, I don't know what kind of monster you've dropped me in with, but this thing... it doesn't like guests. It's just floating there, but it's like it's staring right through me.</p>
+<p><strong>Dr. [REDACTED]:</strong> Remain calm, D-9375. Can you describe your surroundings?</p>
+<p><strong>D-9375:</strong> The ruins are all around me, old, but kind of majestic, you know? But that thing... It's like the water itself hates you.</p>
+<p><strong>Dr. [REDACTED]:</strong> Attempt to approach the central structure while avoiding SCP-26324. Record anything unusual.</p>
+<p><strong>D-9375:</strong> I'll try... Wait. It's moving! It's not just floating anymore, it's coming for me! I can't move fast enough in this suit! The water's getting colder, I can feel it through the suit!</p>
+<p><strong>Dr. [REDACTED]:</strong> D-9375, head back to the surface immediately. Activate your emergency ascent protocol.</p>
+<p>[Communication abruptly cuts off, and a subsequent rescue mission fails to locate D-9375. SCP-26324's aggression increased significantly for the following 72 hours.]</p>
+<p><strong>Interviewer's Note:</strong> SCP-26324 is not only highly protective of its territory but also seems to exhibit intentional hostility towards intruders. Further attempts at close-range interaction will require additional caution and potentially more advanced equipment. D-9375's fate, while regrettable, has provided critical data on the entity's behavioral patterns.</p>
+<p>[End Log]</p>
+<hr />
+<p>Further interaction with SCP-26324 is to be conducted with utmost caution, utilizing advanced containment and research strategies to mitigate potential threats posed by the entity.</p></div>
