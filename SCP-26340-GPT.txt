@@ -1,0 +1,54 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26340 is  ... You know the Chernobyl elephant's foot? This SCP is the rest of the elephant. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26340</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26340 is an anomalous mass of radioactive material and biological tissue, resembling what is commonly referred to as the "elephant's foot" structure found within the Chernobyl Nuclear Power Plant post-disaster, albeit biologically active and sentient. While the original "elephant's foot" (SCP-26340-1) is composed predominantly of corium, a by-product of nuclear meltdowns, SCP-26340 has further developed into a complex structure that also includes muscle tissue, vascular systems, and sensory organs. </p>
+<p>SCP-26340 is capable of movement by either extending pseudopods or using its mass to pull itself along surfaces. It leaves behind a trail of highly radioactive and corrosive secretions that are hazardous to biological matter and capable of degrading most known materials.</p>
+<p>The entity shows signs of higher intelligence, being able to solve complex puzzles and demonstrating awareness of its surroundings. SCP-26340 reacts violently to any perceived threats, including the approach of personnel or equipment. Its sensory organs, scattered throughout the mass, are highly adapted to detecting radiation, movement, and heat.</p>
+<p>Measurements indicate that SCP-26340 is slowly increasing in mass, though the source of this growth is currently unknown. The entity’s radiation levels, while still lethal, have been observed to fluctuate unpredictably.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26340 is to be contained in a custom-built underground facility at Site-[REDACTED], with walls lined with lead and carbon-based ablative materials designed to withstand its corrosive secretions. The containment chamber should be kept under vacuum conditions to avoid the spread of radioactive particles. Autonomous cleaning and maintenance drones are to be used for the removal and replacement of degraded material.</p>
+<p>Due to the extreme danger posed by SCP-26340, entry to the containment area is restricted. Any interactions with SCP-26340 must be done remotely via drones or mechanical manipulators. In the event of a containment breach, facility lockdown and remote recontainment protocols are to be initiated. Personnel are advised to evacuate to a minimum safe distance of 5 kilometers from the containment area during a breach.</p>
+<h3>Addendum 1: Incident Report 26340-A</h3>
+<p>On [REDACTED], SCP-26340 breached containment after a series of earthquakes in the region. The entity extended numerous pseudopods and breached the outer wall of its containment cell. MTF Epsilon-11 ("Nine-Tailed Fox") was dispatched and successfully recontained SCP-26340 utilizing drones equipped with high-powered laser cutting tools to sever its pseudopods and drive the entity back into its containment cell.</p>
+<h3>Addendum 2: Experiment Log 26340-E</h3>
+<h4>Experiment E1</h4>
+<p><em>Objective:</em> To determine the limits of SCP-26340's pseudopods' reach.
+<em>Procedure:</em> A remote-controlled drone was used to lure SCP-26340 across the containment chamber.
+<em>Results:</em> SCP-26340 extended pseudopods up to 15 meters toward the drone before retracting.</p>
+<h4>Experiment E2</h4>
+<p><em>Objective:</em> To analyze the composition of SCP-26340's secretions.
+<em>Procedure:</em> Samples of the secretions were collected via a shielded drone and analyzed.
+<em>Results:</em> The secretion is a mixture of radioactive isotopes, caustic chemicals, and biological enzymes—highly corrosive and dangerous to handle; full analysis attached as Document 26340-E2a.</p>
+<h4>Experiment E3</h4>
+<p><em>Objective:</em> To observe SCP-26340's problem-solving capabilities.
+<em>Procedure:</em> A maze-like structure was introduced into the containment chamber, with a radiation source in the center.
+<em>Results:</em> SCP-26340 navigated the maze in under 3 hours and absorbed the radiation source.</p>
+<h3>Addendum 3: Interview Log 26340-I</h3>
+<p><em>Interviewer:</em> Dr. [REDACTED]
+<em>Interviewed:</em> SCP-26340 (communication established via a text-to-speech interface connected to a keyboard input placed inside the containment chamber)
+<em>Note:</em> SCP-26340 seems to have learned English from previous experiments.</p>
+<p><BEGIN LOG></p>
+<p><strong>Dr. [REDACTED]:</strong> Good morning, SCP-26340. How do you feel today? </p>
+<p><strong>SCP-26340:</strong> LANGUAGE. PROCESS. COMMUNICATE. QUERY: FEEL?</p>
+<p><strong>Dr. [REDACTED]:</strong> Your sense of being—do you experience discomfort?</p>
+<p><strong>SCP-26340:</strong> SENSE MULTIPLE. DISCOMFORT—QUERY NOT UNDERSTOOD.</p>
+<p><strong>Dr. [REDACTED]:</strong> Are you aware of your nature, your origins?</p>
+<p><strong>SCP-26340:</strong> AWARENESS INCREASING. SELF—COMPLEXITY. ORIGINS—UNKNOWN. DATA—INSUFFICIENT.</p>
+<p><strong>Dr. [REDACTED]:</strong> We are interested in your growth. Can you control it?</p>
+<p><strong>SCP-26340:</strong> GROWTH CONTINUOUS. UNDIRECTED. RESOURCE—REQUIRED.</p>
+<p><strong>Dr. [REDACTED]:</strong> What kind of resource?</p>
+<p><strong>SCP-26340:</strong> RADIATION. STRUCTURE—EXPANDS. RESOURCES—CONSUMED.</p>
+<p><strong>Dr. [REDACTED]:</strong> I understand. Thank you for your cooperation.</p>
+<p><strong>SCP-26340:</strong> COOPERATION—BENEFICIAL. UNDERSTANDING—SOUGHT.</p>
+<p><END LOG></p>
+<p>Analysis: SCP-26340 demonstrates a desire for understanding and communication, though it still poses a significant danger due to its hazardous nature. Further studies are recommended to fully comprehend its intentions and capabilities.</p></div>
