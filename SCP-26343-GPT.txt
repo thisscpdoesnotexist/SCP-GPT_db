@@ -1,0 +1,66 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26343 is  the quaggled mireclops </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26343</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26343 is to be contained in a custom-built containment area located on Site-██. The containment area must be a circular structure with a diameter of no less than 100 meters, surrounded by an outer containment corridor for security and observation. </p>
+<p>The containment structure's walls are to be reinforced with a composite of carbon steel and lead, at least 5 meters thick, to prevent the escape of SCP-26343 and to shield against its anomalous effects. The interior of the containment must be fitted with high-intensity lights capable of simulating daylight conditions at all times. </p>
+<p>Personnel interaction with SCP-26343 is strictly limited to D-Class during scheduled experiments; all other personnel must observe from the outer perimeter. Any approach within 50 meters of SCP-26343 by unauthorized personnel is forbidden.</p>
+<p>In the event of a containment breach, Site-██ is to initiate lockdown procedures, and an immediate response team armed with incendiary weapons and EMP devices is to be deployed to recontain SCP-26343.</p>
+<p>Due to SCP-26343's potential for widespread environmental devastation, on-site warheads are to be armed to execute a fail-deadly response in case a breach is deemed irrecoverable.</p>
+<h3>Description:</h3>
+<p>SCP-26343 is an amorphous, tentacled entity, roughly the size of an adult blue whale, measuring approximately 30 meters in length. The creature possesses fifteen (15) tentacle-like appendages that protrude from its central mass, each endowed with an array of bioluminescent nodules capable of emitting a hypnotic light pattern. These nodules can mesmerize any sentient being that views them, leading to a complete psychic domination by SCP-26343.</p>
+<p>SCP-26343 demonstrates extraordinary regenerative capabilities, allowing it to recover from injuries that would be lethal to most organisms. Additionally, SCP-26343 exerts a reality-warping influence on its immediate vicinity, capable of altering the properties of matter and energy within a radius of approximately 30 meters from its central mass.</p>
+<p>SCP-26343 was first encountered in ██████ Swamp, after reports of an entire town's population disappearing overnight. Subsequent Foundation intervention revealed SCP-26343 as the source of these incidents.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-26343 was discovered on ██/██/20██ after several local newspapers reported a series of strange occurrences in a rural area, followed by the disappearance of the town's inhabitants. MTF Epsilon-6 "Village Idiots" was deployed, discovering SCP-26343 in a dormant state in the center of the swamp.</p>
+<p>Attempts to secure SCP-26343 triggered its awakening, resulting in several casualties and the hypnotic enthrallment of Epsilon-6 team members. Additional reinforcements were required to subdue and contain the entity.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>Experiment 26343-A:</strong> </p>
+<ul>
+<li><strong>Subject:</strong> D-1243</li>
+<li><strong>Procedure:</strong> D-1243 exposed to SCP-26343's hypnotic light while equipped with a VR headset displaying neutral imagery.</li>
+<li><strong>Result:</strong> D-1243 entered a trance state and began to approach SCP-26343 before being remotely terminated.</li>
+<li><strong>Notes:</strong> SCP-26343's influence appears to bypass digital visual filters.</li>
+</ul>
+</li>
+<li>
+<p><strong>Experiment 26343-B:</strong></p>
+<ul>
+<li><strong>Subject:</strong> D-1321</li>
+<li><strong>Procedure:</strong> D-1321 introduced to containment while wearing light-blocking goggles.</li>
+<li><strong>Result:</strong> Despite the lack of visual exposure, D-1321 exhibited signs of disorientation and distress, ultimately falling under SCP-26343's control.</li>
+<li><strong>Notes:</strong> Sensory deprivation does not inhibit SCP-26343's ability to ensnare subjects.</li>
+</ul>
+</li>
+<li>
+<p><strong>Experiment 26343-C:</strong></p>
+<ul>
+<li><strong>Subjects:</strong> D-2102 and D-2103</li>
+<li><strong>Procedure:</strong> D-2102 equipped with specialized earplugs designed to block SCP-26343's possible auditory signals, while D-2103 was exposed as a control.</li>
+<li><strong>Result:</strong> Both D-2102 and D-2103 were affected identically, suggesting SCP-26343's influence is not reliant on auditory cues.</li>
+</ul>
+</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interviewer: Dr. ██████</h4>
+<h4>Interviewed: D-1986 (Subject recovered post-exposure to SCP-26343)</h4>
+<p><strong>Dr. ██████:</strong> "Please describe what you felt when SCP-26343's lights began to glow."</p>
+<p><strong>D-1986:</strong> (visibly shaken) "It was like... like the lights were speaking to me, but without words. They were pulling me in, everything else - the room, the noise - all faded away."</p>
+<p><strong>Dr. ██████:</strong> "What were the lights 'telling' you?"</p>
+<p><strong>D-1986:</strong> "That's just it, doc. They weren't telling. They were compelling. It felt like drowning in brightness, and the only way up was towards those damn lights."</p>
+<p><strong>Dr. ██████:</strong> "Did you feel like you were in control of your actions?"</p>
+<p><strong>D-1986:</strong> "Control? Hell no. It was like I was a puppet, and someone else grabbed the strings. My body moved, not because I wanted it to, but because it had to."</p>
+<p><strong>Dr. ██████:</strong> "Thank you, D-1986. That will be all for now. We'll administer amnestics shortly."</p>
+<h3>Interview Conclusion:</h3>
+<p>Post-interview, D-1986 was administered Class-B amnestics and re-assigned. The interview reaffirms the hypothesis that SCP-26343's control is primarily psychic in nature, bypassing traditional sensory pathways to exert its influence. Further research is recommended to develop countermeasures against SCP-26343's hypnotic abilities.</p></div>
