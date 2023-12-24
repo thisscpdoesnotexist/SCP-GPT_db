@@ -1,0 +1,70 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26323 is  self-replicating beeples </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26323</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26323, colloquially known as "self-replicating beeples," are a collection of insectoid robotic entities approximately 2.5 cm in length. SCP-26323 exhibit a metallic exoskeleton with various shades of iridescence, most commonly displaying hues of green, blue, and purple. SCP-26323 are capable of flight via two sets of thin, rapidly oscillating wings, which emit a distinct "beeping" noise during operation, hence the moniker "beeples."</p>
+<p>SCP-26323 are known for their ability to self-replicate using a wide range of metallic and electronic materials. The replication process begins with a single SCP-26323 specimen locating a suitable source of materials and using an array of built-in nano-lathes and assemblers to construct a new instance of SCP-26323. This process can take anywhere from three to six hours, depending on material availability.</p>
+<p>The primary anomalous property of SCP-26323 lies in its reproductive rate and adaptability. If left unchecked, a single SCP-26323 can give rise to an exponential increase in population, resulting in the consumption of massive quantities of materials, mechanical failures, and electrical disruptions. Moreover, SCP-26323 instances exhibit a form of collective intelligence, enabling them to coordinate efforts in resource acquisition and defense against containment measures.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the high replication potential of SCP-26323 and the associated containment breach risks, the following containment procedures have been established:</p>
+<ol>
+<li>
+<p>All known instances of SCP-26323 are to be housed within a specialized containment chamber located at Site-██. This chamber is to be constructed from a non-metallic, SCP-26323-resistant polymer. The chamber must be subject to continuous electromagnetic surveillance to detect any unauthorized movement or replication behavior of SCP-26323 instances.</p>
+</li>
+<li>
+<p>The containment chamber is to be vacuum-sealed to prevent SCP-26323 from escaping or obtaining materials from their surroundings. Airlocks must be fitted with magnetic and particle filters to capture any potential nanoscale entities.</p>
+</li>
+<li>
+<p>No electronic devices or metallic objects are to be introduced into the containment chamber unless required for approved experiments or maintenance.</p>
+</li>
+<li>
+<p>A dedicated task force, designated as Epsilon-17 ("Metal Eaters"), is to be stationed at Site-██ to perform periodic inspections and maintenance and to respond to any containment breaches.</p>
+</li>
+<li>
+<p>In the event of a containment breach, the affected area is to be subjected to an EMP (Electromagnetic Pulse) to disable active SCP-26323 instances temporarily. Cleanup crews must collect disabled instances for recontainment or disposal as per Hazardous Material Protocol HMP-26323.</p>
+</li>
+<li>
+<p>Research and experiments involving SCP-26323 are to be approved by at least two Level 4 personnel and conducted under strict supervision to prevent inadvertent replication events.</p>
+</li>
+</ol>
+<h3>Addendum 1: Experiment Log</h3>
+<p><em>Experiment Log of SCP-26323 - Conducted by Dr. Leyland and Research Team Delta-03</em></p>
+<p><strong>Experiment 26323-A</strong>
+- <strong>Objective:</strong> To determine the rate of replication in a controlled environment with limited resources.
+- <strong>Procedure:</strong> A single SCP-26323 instance is introduced into a containment unit with a measured quantity of copper wiring.
+- <strong>Result:</strong> SCP-26323 utilized the copper wiring to produce three new instances over a period of 18 hours before resource depletion.</p>
+<p><strong>Experiment 26323-B</strong>
+- <strong>Objective:</strong> To assess the adaptability of SCP-26323 to non-standard materials.
+- <strong>Procedure:</strong> SCP-26323 instances are introduced to a containment unit with an assortment of non-metallic materials (plastics, ceramics, glass).
+- <strong>Result:</strong> Replication was not observed with non-metallic materials, confirming a preference and requirement for metals and electronic components.</p>
+<p><strong>Experiment 26323-C</strong>
+- <strong>Objective:</strong> To test the effect of high temperatures on SCP-26323 replication.
+- <strong>Procedure:</strong> SCP-26323 instances are exposed to gradually increasing temperatures.
+- <strong>Result:</strong> SCP-26323 exhibited resistance up to 350°C. Beyond this point, instances became inactive and ceased replication. Upon cooling, no further activity was observed, indicating thermal threshold for destruction is reached above 350°C.</p>
+<h3>Addendum 2: Incident Report 26323-██</h3>
+<p>On ██/██/████, a significant containment breach occurred when a routine maintenance error resulted in a small number of SCP-26323 instances escaping into the ventilation system. The incident was contained by deploying an EMP and subsequently flushing the vents with high-temperature steam. Analysis of the breach has led to the updating and reinforcement of the current containment procedures.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><em>Interview Log 26323-██ - Interview of Maintenance Worker M-███ following the Incident Report 26323-██</em></p>
+<p><strong>Interviewed:</strong> Maintenance Worker M-███</p>
+<p><strong>Interviewer:</strong> Dr. Leyland</p>
+<p><strong><Begin Log, [Timestamp: ██/██/████]></strong></p>
+<p><strong>Dr. Leyland:</strong> Please state your name and employee number for the record.</p>
+<p><strong>M-███:</strong> [Name redacted] and the number is [redacted].</p>
+<p><strong>Dr. Leyland:</strong> Describe the events leading up to the containment breach.</p>
+<p><strong>M-███:</strong> It was like any other maintenance check. I went in with the EMP emitter, did a sweep. I guess I didn't see one of them [SCP-26323] hiding in a crack, or maybe it was resistant, I don't know.</p>
+<p><strong>Dr. Leyland:</strong> What happened when you realized SCP-26323 had escaped?</p>
+<p><strong>M-███:</strong> It was quick. They're always buzzing, but this buzz was different—it was getting louder, everywhere. I hit the breach alarm and started sealing sections off.</p>
+<p><strong>Dr. Leyland:</strong> In your opinion, what could be done to prevent incidents like this in the future?</p>
+<p><strong>M-███:</strong> Look, I'm no scientist, doctor. I think we need more scans. More checks. And maybe some backup plan if one of those little buggers gets passed us again.</p>
+<p><strong>Dr. Leyland:</strong> Your recommendations will be considered. Thank you for your time.</p>
+<p><strong><End Log, [Timestamp: ██/██/████]></strong></p>
+<p>Following the interview, additional preventive measures and redundancies have been implemented to enhance the detection and containment of SCP-26323.</p></div>
