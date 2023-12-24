@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26342 is  an extra letter of the alphabet in between P and Q that only appears under certain circumstances </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26342</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26342 refers to an anomalous extra letter of the alphabet that manifests in between the conventional letters 'P' and 'Q.' This letter (designated as SCP-26342-α) is visually perceptible and can be utilized in writing and speech, but only under a specific set of circumstances which are, as of yet, incompletely understood.</p>
+<p>SCP-26342-α appears to be sentient to some degree, capable of influencing individuals to use it in linguistic applications when it manifests. Observers describe it as resembling a combination of Latin and Cyrillic script with a unique glyph. Attempts to digitally record the appearance of SCP-26342-α have failed, as equipment malfunctions invariably occur when SCP-26342-α is present. Subjects recalling the letter show inconsistencies in description, suggesting its appearance may be subjective or capable of minor alterations over time or per individual.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26342 is contained within a soundproof, electromagnetically shielded chamber located at Site-██. No written or digital representations of the standard Latin alphabet are allowed within 200 meters of SCP-26342's containment chamber to prevent unintended manifestation of SCP-26342-α.</p>
+<p>Personnel assigned to SCP-26342 must undergo regular psychological evaluations to monitor for any cognitive influence by SCP-26342-α. Any staff member exhibiting obsessive or compulsive tendencies regarding language or writing shall be removed from the assignment and given appropriate amnestic treatment. </p>
+<p>Educational materials, texts, or devices that could potentially display SCP-26342-α are forbidden within the containment area. Researchers studying SCP-26342 are encouraged to use pictorial or numeric systems of communication whenever possible.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26342-E1</h4>
+<p><strong>Objective:</strong> To determine the conditions required for SCP-26342-α to manifest in written form.
+<strong>Procedure:</strong> D-class personnel were supplied with writing materials and instructed to compose simple sentences.
+<strong>Results:</strong> SCP-26342-α failed to manifest. Subjects reported nothing out of the ordinary.</p>
+<h4>Experiment 26342-E2</h4>
+<p><strong>Objective:</strong> To test the auditory manifestation of SCP-26342-α.
+<strong>Procedure:</strong> D-class personnel were instructed to recite the alphabet repeatedly.
+<strong>Results:</strong> After several iterations, approximately 32% of subjects began to include SCP-26342-α between 'P' and 'Q' in a consistent manner. The presence of the letter caused considerable disorientation among the observing researchers.</p>
+<h4>Experiment 26342-E3</h4>
+<p><strong>Objective:</strong> To understand the effect of SCP-26342-α on digital text encoding.
+<strong>Procedure:</strong> An AI was programmed to transcribe speech including SCP-26342-α.
+<strong>Results:</strong> The AI ceased to function upon the attempted transcription of SCP-26342-α, and data corruption spread to connected systems. The containment facility's network was isolated, and affected systems were purged.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewed:</strong> Dr. ████
+<strong>Interviewer:</strong> Agent █████
+<strong><Begin Log></strong></p>
+<p>Agent █████: "Dr. ████, can you describe the manifestation process of SCP-26342-α?"</p>
+<p>Dr. ████: "It's unpredictable. During some of our tests, it appears very vividly, as if it's always been there. On other occasions, it's elusive, and subjects won't experience it at all. We're still trying to pinpoint the variables."</p>
+<p>Agent █████: "Tell me about the influence it has on those exposed to it."</p>
+<p>Dr. ████: "Certainly. Those affected begin to express an irrational attachment to the letter. They insist on its inclusion in all written and spoken communication. It's as if SCP-26342-α... becomes a part of their very understanding of language."</p>
+<p>Agent █████: "Interesting. Have you observed any long-term effects?"</p>
+<p>Dr. ████: "We're in the early stages, but there are signs of cognitive deterioration in some cases. We're conducting follow-up studies... it's... I've personally seen some of my colleagues... it's troubling."</p>
+<p>Agent █████: "Understood. Thank you, Dr. ████. Please ensure all findings are reported immediately."</p>
+<p><strong><End Log></strong></p>
+<h3>Addendum 3: Additional Notes</h3>
+<p>SCP-26342 continues to be an enigma to researchers. Attempts to integrate SCP-26342-α into mainstream linguistic understanding have been staunchly opposed by O5 Command, due to the unpredictable and potentially cognitohazardous nature of the anomaly.</p>
+<p>Further research has been approved to understand the motive behind SCP-26342-α's sentience and interaction with subjects. The Ethics Committee has raised concerns over the mental well-being of those involved in the experimentation with SCP-26342. All experiments are to be conducted with the utmost care and oversight to prevent undue stress or long-term psychological harm to D-class personnel and researchers alike.</p></div>
