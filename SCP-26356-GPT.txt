@@ -1,0 +1,51 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26356 is  a sentient UTI </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26356</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26356 is an anomalous sentient Urinary Tract Infection (UTI) capable of transferring itself between human hosts without the typical requirement of physical contact. The entity is composed of a previously undiscovered bacterium which exhibits unusual characteristics, including heightened resistance to conventional antibiotics and the ability to communicate with its host.</p>
+<p>Infected individuals report hearing a voice, identified as SCP-26356, inside their heads, which can exert varying degrees of psychological influence ranging from benign persuasion to extreme compulsion. The entity's primary motive appears to be propagation and survival. It often attempts to negotiate with its host for conditions that would afford it the ability to spread to additional individuals.</p>
+<p>Initial symptoms of SCP-26356 infection mimic those of a standard UTI, including urgency and pain during urination, abdominal discomfort, and the presence of blood in urine. In addition to these, subjects display signs of psychological disturbances such as paranoia, hallucinations (auditory and, in rare cases, visual), and drastic behavioral changes.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26356 is currently contained within the Biological Hazard Wing of Site-██. The entity requires a living host to survive; hence containment is focused on infected individuals, designated SCP-26356-1 through SCP-26356-n, depending on the number of subjects.</p>
+<p>Contained subjects are to be held in designated biocontainment cells, each equipped with a containment-grade lavatory system. Interaction with SCP-26356-1 instances is to be conducted via intercom or through a protective barrier. All waste is to be subject to autoclaving before disposal. Personnel must wear hazmat suits when directly interacting with SCP-26356-1 instances or handling their waste.</p>
+<p>Should transfer of SCP-26356 occur, the new host becomes the focus of containment, and previous hosts are to be monitored for re-infection for no less than 60 days. Infected subjects are to receive regular psychological evaluations. Any attempts by SCP-26356 to communicate or negotiate with staff are to be documented and reported to the head researcher.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-26356 was first identified after a series of unusual UTI cases at [REDACTED] Hospital prompted an investigation by Foundation personnel. Patients reported hearing a voice and exhibited severe psychological symptoms not typical of standard infections. The hospital was temporarily closed for quarantine, and individuals diagnosed with the infection were taken into Foundation custody for study.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. ██████</p>
+<p><strong>Interviewed:</strong> SCP-26356-1 (Designation for current host)</p>
+<p><strong><Begin Log></strong></p>
+<p><em>Dr. ██████:</em> Can you tell me about when you first started hearing the voice?</p>
+<p><em>SCP-26356-1:</em> It was a few days after the pain started... I thought I was just sick. But then it... it started talking to me, inside my head.</p>
+<p><em>Dr. ██████:</em> What did it say?</p>
+<p><em>SCP-26356-1:</em> At first, it was comforting, told me how to make the burning stop. But then, it wanted me to get close to people, to... to pass it on.</p>
+<p><em>Dr. ██████:</em> And did you?</p>
+<p><em>SCP-26356-1 gazes down, nodding silently.</em></p>
+<p><em>Dr. ██████:</em> It’s okay. You're in a safe place now, where it can't hurt you or anyone else.</p>
+<p><em><End Log></em></p>
+<h3>Addendum 3: Experiment Log</h3>
+<p><strong>Experiment #26356-E1</strong>
+- <strong>Purpose:</strong> To assess SCP-26356's transferability via contaminated objects.
+- <strong>Procedure:</strong> SCP-26356-1 was provided with various personal items. After 48 hours of contact, items were introduced to a healthy subject.
+- <strong>Result:</strong> No transfer occurred. SCP-26356 requires a living host for propagation.</p>
+<p><strong>Experiment #26356-E2</strong>
+- <strong>Purpose:</strong> Test the effect of high-dose antibiotic treatment on SCP-26356.
+- <strong>Procedure:</strong> SCP-26356-1 was administered a regimen of intravenous antibiotics over a course of two weeks.
+- <strong>Result:</strong> SCP-26356 displayed resistance, surviving treatment without diminished faculties.</p>
+<p><strong>Experiment #26356-E3</strong>
+- <strong>Purpose:</strong> Determine if SCP-26356 can be communicated with directly by staff.
+- <strong>Procedure:</strong> Using a two-way communication setup, researchers attempted to initiate dialogue with SCP-26356.
+- <strong>Result:</strong> SCP-26356 responded and entered a brief negotiation for release in exchange for cessation of host symptoms. Negotiation recorded and terminated by staff.</p>
+<p><strong>Experiment #26356-E4</strong>
+- <strong>Purpose:</strong> Observe SCP-26356 behavior and influence in a group setting.
+- <strong>Procedure:</strong> Multiple hosts were placed within a single, controlled environment.
+- <strong>Result:</strong> SCP-26356 encouraged subjects to form social bonds, likely in an attempt to facilitate cross-infection. Experiment concluded with the separation of subjects to prevent unintended spread.</p></div>
