@@ -1,0 +1,58 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26367 is  a poutine-breathing dragon </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26367</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26367 is a draconian entity measuring approximately 15 meters in length, with a wingspan of 20 meters. Its scales are charcoal black with intermittent patches of iridescent hue that shimmer under direct light. Anatomically, SCP-26367 resembles mythical depictions of Western dragons with elongated snouts, sharp claws, and membranous wings.</p>
+<p>The anomaly with SCP-26367 lies in its respiratory system. Rather than exhaling fire like traditional dragons in lore, SCP-26367 expels a substance identical to the Canadian dish known as poutine. The poutine materializes within SCP-26367's fire sacs and is ejected at high velocity during exhalation.</p>
+<p>The expelled poutine maintains an average temperature of 200°C and can cause second-degree burns upon contact. The entity appears to have control over the force with which it discharges the substance, implying possible tactical capabilities. Additionally, SCP-26367 displays high intelligence and has demonstrated problem-solving skills during containment breaches.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the unpredictable and dangerous nature of SCP-26367, it is to be contained in a high-security enclosure measuring at least 50m x 50m x 30m, located at Site-███. The enclosure should be constructed with heat-resistant materials capable of withstanding temperatures up to 1,000°C. It must be equipped with several redundancies in case of structural failure.</p>
+<p>To mitigate the risk of poutine exhalation, SCP-26367 is to be fed a diet of specially prepared cattle enriched with a flame-retardant compound. This regimen has shown to reduce the frequency and intensity of its poutine breath.</p>
+<p>All personnel entering SCP-26367's containment must wear protective gear rated for extreme temperatures and carry flame retardant foam grenades. Interaction with the entity is strictly limited to trained handlers and research staff.</p>
+<p>In the event of a containment breach, site-wide alarms will be triggered, and all personnel must evacuate to secure zones. MTF unit Pi-6 ("Dragon Eaters") is to be dispatched immediately to re-contain SCP-26367 using specialized equipment.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-26367 was first discovered in ██████, Quebec, following reports of a "fire-breathing monster" terrorizing the local population. Initially believed to be a hoax, Foundation agents embedded in local law enforcement were dispatched and confirmed the existence of the entity. After several failed attempts to contain SCP-26367 using conventional means, Site-███ was commissioned specifically for its containment.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li><strong>Experiment 26367-E001:</strong></li>
+<li><strong>Objective:</strong> To determine the chemical composition of SCP-26367’s poutine breath.</li>
+<li><strong>Procedure:</strong> SCP-26367 was stimulated to exhalation using a controlled electric shock while researchers collected samples midair.</li>
+<li><strong>Results:</strong> Analysis confirmed an identical match to authentic poutine, comprised of french fries, cheese curds, and gravy. The process by which SCP-26367 generates this material remains unknown.</li>
+<li>
+<p><strong>Notes:</strong> We're all surprised by the authenticity of the poutine, but the question remains: How did a dragon come to produce a quintessentially Canadian dish in the first place?</p>
+</li>
+<li>
+<p><strong>Experiment 26367-E002:</strong></p>
+</li>
+<li><strong>Objective:</strong> To test the impact resistance of containment unit walls against SCP-26367’s exhalations.</li>
+<li><strong>Procedure:</strong> SCP-26367 was agitated until it unleashed a full-force poutine exhalation on a section of reinforced containment wall.</li>
+<li><strong>Results:</strong> Wall integrity was maintained though outer layers showed significant damage from heat and force. Immediate repairs were required.</li>
+<li><strong>Notes:</strong> Upgraded wall reinforcements are a must. If SCP-26367 were to focus its exhalation on a single point for an extended period, it could potentially breach containment.</li>
+</ul>
+<h3>Addendum 3: Interview</h3>
+<p><strong>Interview Log 26367-INT003</strong>
+- <strong>Interviewer:</strong> Dr. Francois Léveillé
+- <strong>Subject:</strong> SCP-26367</p>
+<p>[Begin Log]</p>
+<p><strong>Dr. Léveillé:</strong> Good day, SCP-26367. We'd like to ask you some questions.</p>
+<p><strong>SCP-26367:</strong> [Low growl] Speak, human.</p>
+<p><strong>Dr. Léveillé:</strong> Our primary interest is understanding how you produce poutine with your breath. Can you tell us anything about that?</p>
+<p><strong>SCP-26367:</strong> It is... innate. A fire I have learned to quench through transformation. This form is more... palatable to those around me.</p>
+<p><strong>Dr. Léveillé:</strong> Fascinating. And why poutine specifically?</p>
+<p><strong>SCP-26367:</strong> The land thrums with it. Its essence suffuses me. A strange alchemy of place and power.</p>
+<p><strong>Dr. Léveillé:</strong> I see. Can you control this ability, perhaps suppress it?</p>
+<p><strong>SCP-26367:</strong> Why would I cripple myself so?</p>
+<p><strong>Dr. Léveillé:</strong> To prevent harm, and to ease your containment. We can coexist more peacefully.</p>
+<p><strong>SCP-26367:</strong> Predators do not bargain with prey. But your attempts to domesticate... intrigue me. Proceed with your placations.</p>
+<p><strong>Dr. Léveillé:</strong> Thank you. We will continue to research and hopefully find a solution beneficial for all.</p>
+<p>[End Log]</p>
+<p><strong>Closing Remarks:</strong> SCP-26367 displays a level of sentience and comprehension far beyond initial estimates. Further communication attempts may reveal additional insights into its nature and abilities.</p></div>
