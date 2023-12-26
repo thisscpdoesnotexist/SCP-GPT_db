@@ -1,0 +1,48 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26386 is  "Be not scared, my child. Venture deeper into the forest and pay tribute to my shrine. I am one of the highest rated local deities with over 3000 positive reviews." </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26386</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26386 is an anomalous entity manifesting as an intricate, ancient shrine located deep within the █████ forest in ███████, Japan. The shrine's physical structure largely resembles that of a traditional Shinto shrine, complete with torii gates, stone lanterns, and a small wooden hall. However, the shrine possesses distinct anomalous properties and a level of sentience.</p>
+<p>SCP-26386 communicates with individuals through inscriptions which appear on wooden plaques, known as ema, within its hall. The entity's initial message "Be not scared, my child. Venture deeper into the forest and pay tribute to my shrine. I am one of the highest rated local deities with over 3000 positive reviews" was how the SCP Foundation first became aware of SCP-26386's existence.</p>
+<p>The shrine indiscriminately attracts individuals into its vicinity using an unknown method of compulsion. Once within the shrine's influence, individuals report feeling a sense of overwhelming calm and describe strong urges to leave offerings of food, money, or other valuable items. Subjects often refer to SCP-26386 in terms often reserved for high-rated services or products, and display an alarming willingness to follow its directives.</p>
+<p>Evidence suggests SCP-26386 feeds on the devotion and tributes offered by its visitors, with periods of inactivity correlating with a lack of tribute. During these inactive periods, the surrounding area has been observed to decay at an accelerated rate, suggesting the entity is sustaining itself and the environment through the energy provided by the offerings.</p>
+<p>Researchers have yet to determine the full extent of SCP-26386's abilities and whether it poses a more substantial threat. The mention of "3000 positive reviews" has been interpreted as psychological manipulation, promoting trust and veneration from individuals. The nature of these 'reviews' and their origin remains under scrutiny.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given SCP-26386's location and nature, permanent on-site containment is challenging. A perimeter has been established 2 kilometers from the shrine, with signs posted to deter civilians under the guise of ongoing conservation efforts.</p>
+<p>Foundation agents embedded within local law enforcement and online platforms are to monitor and intercept any discussions or mentions of SCP-26386. All content related to SCP-26386 on social media, blogs, or review platforms is to be flagged and removed under Procedure 12-Vesta.</p>
+<p>A team of field agents is assigned to impersonate worshipers, periodically providing controlled offerings to maintain SCP-26386's dormancy. These agents are also responsible for recording interactions and changes within the shrine's area of influence.</p>
+<p>In the event of SCP-26386 entering an active state, Mobile Task Force Gamma-5 ("Red Herrings") is to be deployed to administer Class-B amnestics to any affected civilians and re-establish containment procedures.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 26386-A</strong></p>
+<p><strong>Objective:</strong> To determine the nature of the compulsion affecting individuals nearing SCP-26386.</p>
+<p><strong>Procedure:</strong> D-4982 was equipped with a body camera and instructed to approach SCP-26386.</p>
+<p><strong>Result:</strong> D-4982 reported a strong sense of peace and started making references to customer satisfaction and high ratings. He then left his watch at the shrine as an offering.</p>
+<p><strong>Notes:</strong> The influence of SCP-26386 is potent. Seems to create false memories or implant suggestions related to customer service experiences.</p>
+<p><strong>Experiment 26386-B</strong></p>
+<p><strong>Objective:</strong> Test the effects of a tribute perceived as negative by SCP-26386.</p>
+<p><strong>Procedure:</strong> D-7591 was instructed to offer SCP-26386 a spoiled food item.</p>
+<p><strong>Result:</strong> SCP-26386 rejected the offering, and the food item spontaneously combusted. D-7591 reported hearing displeased whispering but was unable to discern any clear message.</p>
+<p><strong>Notes:</strong> Offering quality appears to be a variable of importance to the entity. Experiment suggests SCP-26386 can indeed judge the value of offerings and react accordingly.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewed:</strong> D-8541, post interaction with SCP-26386</p>
+<p><strong>Interviewer:</strong> Dr. Henley</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. Henley:</strong> Please describe your experience upon approaching the shrine.</p>
+<p><strong>D-8541:</strong> It's weird, doc. Felt like I just walked into a five-star hotel—felt welcomed, y'know? And then there's this voice in my head tellin' me to leave a good tip.</p>
+<p><strong>Dr. Henley:</strong> Can you elaborate on this voice?</p>
+<p><strong>D-8541:</strong> Not like a voice-voice. More like those thoughts you get when you know you're doin' somethin' decent. It's all mixed up with stuff ‘bout ratings and how it's a top-notch place.</p>
+<p><strong>Dr. Henley:</strong> And did you feel compelled to comply?</p>
+<p><strong>D-8541:</strong> Hell yes. And believe me, I ain't one to just give stuff away. But it was like... I couldn't help it.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Notes:</strong> SCP-26386's manipulative capability extends to creating a form of reverence typically associated with high social standing or consumer satisfaction. Further psychological evaluation of affected subjects is ongoing.</p>
+<h3>Addendum 3: Recovered Materials</h3>
+<p>During the exploration of SCP-26386's shrine, agents recovered multiple ema plaques dating back several decades. Each plaque features gratitude from various individuals praising the shrine's 'excellent service.' The historical presence of consumerist language within the shrine pre-dates modern review platforms, suggesting SCP-26386 has been operating under the guise of different societal norms over a long period. Further analysis of these materials is pending.</p></div>
