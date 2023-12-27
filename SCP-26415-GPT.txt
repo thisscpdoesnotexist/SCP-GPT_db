@@ -1,0 +1,45 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26415 is  Genetically engineered herbivorous lions made by vegans. They have had a horrendous effect on the local ecosystem. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26415</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26415 refers to a pride of genetically engineered lions, currently consisting of seven adult individuals and three cubs, that exhibit strict herbivorous dietary behavior. These lions were initially discovered in [REDACTED], Africa, after local environmentalists reported an atypical balance in the ecosystem.</p>
+<p>Upon further investigation, it was found that SCP-26415's existence is the result of an illegal, advanced genetic engineering project conducted by a group of activists with radical vegan ideologies. Notes and confiscated materials suggest their intention was to create a model demonstrating that natural carnivores could thrive without meat consumption, potentially reducing animal suffering.</p>
+<p>SCP-26415 individuals appear morphologically similar to their non-modified Panthera leo counterparts, with anomalies primarily present in their dentition and digestive systems, which have adapted to a non-carnivorous diet. SCP-26415's teeth are less conical, resembling those of typical herbivores, and specialized for grinding vegetation. Their digestive tracts have undergone significant alterations allowing for effective fermentation and breakdown of plant matter, suggesting advanced genetic modification well beyond contemporary science. Their behavior also significantly deviates from that of typical lions, with these individuals forming cooperative hunting-like behaviors to 'forage' for high-nutrient vegetation and displaying non-aggressive tendencies towards traditional prey animals.</p>
+<p>The long-term ecological impact of SCP-26415 on the local environment is catastrophic, leading to over-foraging, competition with native herbivores, and subsequent rapid decline in certain flora populations. SCP-26415 has been classified as a potential ecological disaster warranting containment not only for the protection of local ecosystems but also due to the unknown effects of their artificially induced herbivory on their own physiology and future generations.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26415 is to be contained in a secured outdoor habitat enclosure at Bio-Site-22 designed to simulate their natural ecosystem, with specific attention to botanical diversity and space for roaming. The enclosure is to be maintained by staff with expertise in both large predator care and botany to ensure the health of SCP-26415 and to prevent detrimental effects on the habitat's ecological balance.</p>
+<p>Personnel interacting with SCP-26415 must undergo a background check to ensure no affiliations with radical environmental or animal rights groups. Feeding routines are to be strictly plant-based, following a nutritionist-developed diet to ensure proper health and vitality.</p>
+<p>Any instance of SCP-26415 attempting to breach containment is to be subdued using non-lethal tranquilizers and returned to the enclosure. Breeding is to be strictly monitored and controlled, and any newborns are to be socialized immediately to prevent future containment issues.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26415-A:</h4>
+<p><strong>Objective:</strong> To observe SCP-26415's response to traditional carnivorous diets.</p>
+<p><strong>Procedure:</strong> SCP-26415 was presented with a live goat.</p>
+<p><strong>Result:</strong> SCP-26415 showed signs of distress and avoided the goat, which was later removed unharmed.</p>
+<h4>Experiment 26415-B:</h4>
+<p><strong>Objective:</strong> To determine if SCP-26415 can sustain normal physiological health solely on a plant-based diet.</p>
+<p><strong>Procedure:</strong> SCP-26415 was observed over a 60-day period on a controlled diet.</p>
+<p><strong>Result:</strong> Although initially maintaining health, some individuals began to show signs of nutrient deficiencies, suggesting that the engineered herbivory might not fully meet their nutritional needs.</p>
+<h4>Experiment 26415-C:</h4>
+<p><strong>Objective:</strong> To test SCP-26415's reproductive viability.</p>
+<p><strong>Procedure:</strong> Two adult SCP-26415 were placed in an enclosure designed to encourage natural mating behaviors.</p>
+<p><strong>Result:</strong> Mating was successful; however, gestation and litter size were significantly lower than the average for non-modified Panthera leo, suggesting possible fertility issues.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewed:</strong> Dr. [REDACTED], a former member of the team responsible for SCP-26415's creation.</p>
+<p><strong>Interviewer:</strong> Agent [REDACTED]</p>
+<p>[The following is a transcript excerpt from the interview.]</p>
+<p><strong>Agent [REDACTED]:</strong> Doctor, can you explain your rationale behind the creation of these creatures?</p>
+<p><strong>Dr. [REDACTED]:</strong> Our intention was never to harm the environment. We wanted to show the world that it was possible for these majestic animals to exist without bloodshed, to coexist peacefully.</p>
+<p><strong>Agent [REDACTED]:</strong> But you must have predicted the ecological implications.</p>
+<p><strong>Dr. [REDACTED]:</strong> We thought we had everything under control. Nature has ways of adapting, right? But it escalated beyond our predictions. We didn't realize until it was too late.</p>
+<p>[The rest of the interview continues discussing the technical aspects of the genetic engineering process.]</p>
+<h3>Addendum 3: Recovery Efforts</h3>
+<p>Recovery efforts from the initial team that responded to the ecological disturbance caused by SCP-26415 include ongoing reforestation and rehabilitation of local fauna populations. Examinations of affected flora and fauna are to be held bi-annually to assess the long-term environmental repercussions and to devise additional containment strategies should SCP-26415's influence spread beyond manageable levels. Containment specialists and eco-scientists continue to monitor the situation and suggest adaptive strategies.</p></div>
