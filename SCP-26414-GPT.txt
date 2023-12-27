@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26414 is  an undead train robber named Bony Backside </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26414</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26414, colloquially referred to as "Bony Backside," is an undead humanoid entity bearing physical characteristics consistent with that of late 19th-century American train robbers. SCP-26414 is primarily skeletal in appearance with dessicated skin adhering to its frame and is adorned in tattered remnants of period-appropriate attire, including a wide-brimmed hat, a bandana mask, and a duster coat. </p>
+<p>The entity demonstrates a unique ability to manifest at any location within the contiguous United States where significant train tracks or railway systems are located, showing a particular predilection for historical sites linked to train robberies. SCP-26414 has shown hostility toward living humans and has the ability to animate and command other skeletal remains in its vicinity, effectively creating a small, mobile undead force.</p>
+<p>Interactions with SCP-26414 have confirmed it possesses limited sentience and is capable of rudimentary communication in English, primarily in a vernacular consistent with late 1800s American West dialects. It appears driven by an inexhaustible desire to "rob" trains, although this pursuit seems to be more of a compulsive re-enactment of behavior from its past life rather than for any material gain.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given SCP-26414's ability to materialize at various locations unpredictably, permanent containment is currently deemed impractical. The Foundation maintains a task force, designated Omega-12 ("Iron Riders"), that specializes in rapid response and tracking of SCP-26414's manifestations. </p>
+<p>Personnel are advised to monitor historical sites and active railway lines for signs of SCP-26414's activity, utilizing a proprietary predictive algorithm developed by Foundation researchers to anticipate its appearances. During containment breaches, Omega-12 is authorized to use lethal force, utilizing specially designed ammunition capable of inflicting significant trauma to SCP-26414's skeletal structure.</p>
+<p>After re-containment, sites are to be sanitized and witnesses administered Class-B amnestics. Cover stories, commonly involving staged accidents or counterfeit larper events, are to be disseminated through local and national media outlets when necessary.</p>
+<p>To mitigate the risks involved during SCP-26414's active phases, the Foundation has proactively worked to isolate significant historical railroad artifacts and has discouraged the restoration of certain rail lines known to attract the entity's attention.</p>
+<h3>Addendum 1:</h3>
+<p>Interview Log-26414-A
+(Note: The following interview was conducted after the successful recontainment of SCP-26414 following Incident 26414-13.)</p>
+<p>Interviewer: Dr. Marcus Klein
+Interviewee: SCP-26414</p>
+<p>[Begin Log]</p>
+<p>Dr. Klein: Do you understand why you have been detained?</p>
+<p>SCP-26414: (raspy voice) I reckon ya can't appreciate a good heist no more.</p>
+<p>Dr. Klein: We need to understand why you persist in these activities.</p>
+<p>SCP-26414: Ain't no rest for the wicked, Doc. The rails call to me, and the loot's just sittin' there for the takin'.</p>
+<p>(Further attempts to extract information from SCP-26414 about its origins or motivations yielded no substantive results.)</p>
+<p>[End Log]</p>
+<h3>Addendum 2:</h3>
+<p>Experiment Log-26414-E</p>
+<p>Experiment E-1:
+Objective: To test SCP-26414's ability to commandeer modern electronic train systems.
+Results: SCP-26414 successfully boarded a decommissioned train and seemed to momentarily attempt to manipulate controls before becoming agitated and abandoning the train.</p>
+<p>Experiment E-2:
+Objective: To evaluate SCP-26414's reaction to various historical artifacts from the 19th-century American railroad.
+Results: SCP-26414 showed increased activity and agitation when presented with an authentic conductor's whistle and a Wells Fargo strongbox.</p>
+<p>Experiment E-3:
+Objective: To ascertain the effects of isolation on SCP-26414.
+Results: SCP-26414 manifested signs of distress and increased hostility when confined to a cell imitating a late 19th-century prison. Attempts to leave were persistent, but it was unable to breach the containment.</p>
+<p>Experiment E-4:
+Objective: To observe SCP-26414's interaction with a reanimated skeletal entity not under its control.
+Results: SCP-26414 demonstrated an immediate attempt to dominate the entity, which resisted. A brief skirmish ensued before SCP-26414 managed to assert influence, adding the entity to its cohort.</p>
+<h3>Addendum 3:</h3>
+<p>Incident Report-26414-13</p>
+<p>During containment breach #13, SCP-26414 successfully halted a passenger train, resulting in the temporary exposure of 86 civilians to anomalous activity. Omega-12 ("Iron Riders") was deployed, and after a 20-minute engagement with SCP-26414 and its thralls, they were able to neutralize the entities and re-establish containment. Extensive amnestic treatment and cover stories were disseminated to contain the fallout from the event, highlighting the challenges in predicting SCP-26414's manifestations despite advancements in the monitoring algorithm.</p></div>
