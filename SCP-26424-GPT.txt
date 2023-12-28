@@ -1,0 +1,56 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26424 is  the homestuck music album "The Baby Is You," by Toby "Radiation" Fox– which happens to be an XK-class cognitohazard. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26424</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26424 refers to an anomalous musical album titled "The Baby Is You," created by an individual known as Toby "Radiation" Fox. The album contains a series of tracks that, when listened to by any individual, exhibit potent cognitohazardous effects. Subjects who listen to SCP-26424 report a range of psychological alterations including, but not limited to, dissociative identity disorder, extreme emotional lability, and a profound sense of unreality.</p>
+<p>Exposed individuals, henceforth referred to as SCP-26424-1, also undergo gradual physical transformations, which consist of morphing into infantile versions of themselves while retaining adult cognitive abilities. This transformation is irreversible and has been observed to cause extreme distress in affected subjects.</p>
+<p>SCP-26424's most hazardous property, however, is its virulence. SCP-26424-1 instances develop an overwhelming desire to share the album with others, effectively spreading the cognitohazard. Additionally, any digital or physical copy of the album that is created autonomously alters itself to remove any form of censorship or warning message that may have been added to prevent its effects.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26424 is to be contained in a soundproof, locked container at all times within a secure containment chamber at Site-██. No auditory playback devices are allowed in the immediate vicinity of SCP-26424's containment area. Any personnel who have been exposed to SCP-26424, either directly or indirectly, are to be quarantined and evaluated by onsite psychiatric staff.</p>
+<p>Research proposals involving SCP-26424 require a minimum Level 4 security clearance and must be approved by no fewer than three members of the O5 Council. Under no circumstances are any copies of SCP-26424 to be created, distributed, or played outside of controlled testing environments.</p>
+<p>All instances of SCP-26424-1 are to be contained in standard humanoid containment cells and provided with appropriate psychological care. Efforts to understand and potentially reverse the cognitohazardous and physical effects of SCP-26424 are ongoing.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26424-A</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-84321 (female, 34 years)</li>
+<li><strong>Procedure:</strong> D-84321 was instructed to listen to the first track of SCP-26424 using standard-issue headphones.</li>
+<li><strong>Results:</strong> Within 10 minutes, D-84321 reported feeling "strangely nostalgic" and showed signs of emotional instability. Subject transformed into an infantile form over the next 72 hours. Psychological examination indicated severe distress and dissociation from identity.</li>
+</ul>
+<h4>Experiment 26424-B</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-57228 (male, 29 years)</li>
+<li><strong>Procedure:</strong> D-57228 was exposed to a single verse of the third track through speaker setup.</li>
+<li><strong>Results:</strong> Exposure time was approximately 30 seconds. D-57228 showed immediate signs of cognitive impairment and began singing the verse repeatedly. Transformation occurred within 24 hours; subject displayed aggressive behavior when containment staff attempted to stop the singing.</li>
+</ul>
+<h4>Experiment 26424-C</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-45721 (male, 22 years), D-90322 (female, 27 years)</li>
+<li><strong>Procedure:</strong> Both subjects were placed in a room with an inoperative playback device and a digital copy of SCP-26424.</li>
+<li><strong>Results:</strong> Subjects were unable to activate the playback device but were compelled to act out the lyrics of the album. Both transformed over the next 48 hours and attempted to breach containment to "share the baby."</li>
+</ul>
+<h3>Addendum 2: Interview Log</h3>
+<p><em>The following interview was conducted with D-84321 post-exposure to evaluate the mental state of SCP-26424-1 instances.</em></p>
+<p><strong>Interviewer:</strong> Dr. ████</p>
+<p><strong>Subject:</strong> D-84321</p>
+<p><strong>[BEGIN LOG]</strong></p>
+<p><strong>Dr. ████:</strong> How do you feel right now?</p>
+<p><strong>D-84321:</strong> (cries) I don't... I don't know what’s happening to me. I remember everything but... but I look at myself and it’s like... I'm a baby.</p>
+<p><strong>Dr. ████:</strong> Are you aware of the words you are saying? The tunes you're humming?</p>
+<p><strong>D-84321:</strong> Yes... it’s from the album. It's stuck in my head, playing over and over. It's like I <em>have</em> to share it; the music needs to be heard. But I know it's... wrong.</p>
+<p><strong>Dr. ████:</strong> Can you resist the urge to share the music?</p>
+<p><strong>D-84321:</strong> No. I've tried. It’s like my mouth moves on its own. I just start singing those words.</p>
+<p><strong>Dr. ████:</strong> Do you understand what has happened to you as a result of exposure to SCP-26424?</p>
+<p><strong>D-84321:</strong> I've become the baby. The baby is me. And... I don't want anyone else to go through this.</p>
+<p><strong>[END LOG]</strong></p>
+<p><strong>Closing Statement:</strong> D-84321 remained in a state of high distress following the interview. The subject's insights into the compulsive need to share SCP-26424 have been noted as a key characteristic of SCP-26424-1.</p>
+<h3>Addendum 3: Recovery Log</h3>
+<p>SCP-26424 was first discovered when reports emerged on internet forums about a music album that caused listeners to act irrationally and regress in age. The Foundation cyber-intelligence team traced the album back to an online music hosting service, where it had been uploaded by an account associated with "Toby 'Radiation' Fox." All known digital copies were removed, and physical copies were located and secured by MTF Gamma-5 ("They Might Be Giants"). An ongoing monitoring operation has been established to identify and contain any future outbreaks of SCP-26424.</p></div>
