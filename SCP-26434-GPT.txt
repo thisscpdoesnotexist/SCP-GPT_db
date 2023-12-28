@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26434 is  a Betta fish that ranks 11 on the Moh's scale of hardness  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26434</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26434 is an adult Betta fish (Betta splendens) distinguishable by its iridescent blue and red coloring, typical of its species. However, SCP-26434 differs significantly from any known aquatic fauna due to its bodily tissues registering an 11 on the Mohs scale of hardness, making it harder than diamond. This anomalous property extends to all biological components of SCP-26434, including scales, fins, internal organs, and excreted waste.</p>
+<p>Despite its extreme hardness, SCP-26434 displays typical behavior associated with non-anomalous Betta fish, including regular swimming patterns, reaction to stimuli, and display behaviors during encounters with its own reflection. The creature requires no special nutrition and subsists on a diet identical to that of standard Betta species. It is yet to be determined how SCP-26434's metabolic processes function, given the extraordinary durability of its tissues.</p>
+<p>In addition to its physical properties, SCP-26434 demonstrates a unique regenerative ability. When a part of its body is somehow damaged, it can regrow the lost tissue at an accelerated rate compared to non-anomalous specimens. Researchers have had minimal success in damaging SCP-26434 for the purpose of testing this regenerative property, as its tissues resist most attempts at physical interaction.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26434 is to be contained within a standard aquatic containment tank, measuring at least 45.7 x 25.4 x 20.3 cm, composed of reinforced borosilicate glass capable of withstanding extreme abrasion. The containment tank must be inspected weekly for signs of wear or scratches and replaced immediately if any damage is observed.</p>
+<p>The tank shall be filled with dechlorinated water maintained at a temperature between 24 to 27 degrees Celsius and a pH between 6.5 and 7.5. Standard biological filtration systems are to be used, though components must be replaced more frequently due to increased wear from SCP-26434's presence.</p>
+<p>SCP-26434 is not to be removed from its containment tank except for approved experimentation or emergency maintenance. Any tools or objects placed in the tank must be composed of materials rated at least 11 on the Mohs scale. Standard Betta fish nutritional requirements are to be met using similarly durable feeding equipment.</p>
+<p>All experiments on SCP-26434 must be approved by at least two Level 4 researchers and carried out with utmost caution to avoid equipment damage or containment breaches resulting from the unintentional application of SCP-26434's anomalous properties.</p>
+<h3>Addendum 1: Incident Log</h3>
+<p>On [DATE REDACTED], a routine water change resulted in a temporary containment failure when SCP-26434 made contact with the aquarium scraper, made of common stainless steel. The scraper suffered significant abrasion, leading to particles entering the containment water. An investigation is underway to prevent future incidents of this nature and to assess the need for upgrading all materials used in routine maintenance to meet the required hardness standards.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26434-E-1</h4>
+<p><strong>Objective:</strong> To assess the limits of SCP-26434's tissue hardness.
+<strong>Materials Used:</strong> Diamond-tipped drill bit.
+<strong>Procedure:</strong> An attempt was made to collect a scale sample from SCP-26434 using a diamond-tipped drill bit.
+<strong>Results:</strong> Drill was rendered inoperative after several seconds of contact with SCP-26434, and no sample was collected.
+<strong>Notes:</strong> Future experiments should consider more advanced materials or technologies, potentially including laser cutting or molecular disassembly.</p>
+<h4>Experiment 26434-E-2</h4>
+<p><strong>Objective:</strong> To test SCP-26434's regenerative capabilities.
+<strong>Materials Used:</strong> A high-powered laser with output exceeding the hardness threshold.
+<strong>Procedure:</strong> A controlled incision was made on SCP-26434's caudal fin.
+<strong>Results:</strong> SCP-26434's fin regenerated completely within a period of 48 hours. No discernible difference from the pre-injury state was observed.
+<strong>Notes:</strong> SCP-26434's regeneration does not appear to be impeded by the anomalous hardness of its tissues.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. Yamada
+<strong>Interviewee:</strong> Lead Researcher Dr. Alvarez
+<strong><Begin Log></strong>
+Dr. Yamada: "Dr. Alvarez, can you summarize the challenges faced in containing and studying SCP-26434?"
+Dr. Alvarez: "Certainly. The primary issue is material durability. Conventional containment and research instruments degrade rapidly upon contact with 26434. Additionally, observing its biological processes is difficult; we can't penetrate or sample its tissues with standard equipment."
+Dr. Yamada: "Has SCP-26434 shown any signs of distress or abnormal behavior?"
+Dr. Alvarez: "Remarkably, no. Its behavior mirrors that of non-anomalous Betta fish. However, I suspect we may only be scratching the surface of its anomalous nature, figuratively speaking."
+Dr. Yamada: "Has any progress been made in determining the origin of its properties?"
+Dr. Alvarez: "We have theories. Some believe it's a product of genetic manipulation; others suggest extraterrestrial origins. There's also the possibility of spontaneous mutation, although the probability is... astronomical."
+Dr. Yamada: "What's the next step in our research?"
+Dr. Alvarez: "We need to find a way to pierce its 'armor.' Until we can do so, studying SCP-26434's internal biology will remain a significant challenge."
+<strong><End Log></strong></p>
+<p><strong>Closing Remarks:</strong> Research into advanced materials and methods for examining SCP-26434 continues. Meanwhile, containment protocols have been successfully implemented, ensuring the object remains secured with no further incidents.</p></div>
