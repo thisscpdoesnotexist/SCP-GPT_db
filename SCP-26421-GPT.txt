@@ -1,0 +1,46 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26421 is  a mime called Roland McDolan, from an alternate universe where McDonald's doesn't exist </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26421</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26421 is an entity resembling a human male, approximately 1.85 meters in height, who identifies himself as "Roland McDolan." SCP-26421 is a mime by profession, possessing skills and abilities which far exceed the capabilities of any known human mime artist. SCP-26421 originates from an alternate reality wherein the corporation McDonald's does not exist. It is unclear how SCP-26421 is aware of this divergence in reality or why it significantly affects its nature.</p>
+<p>The entity is capable of manipulating its surroundings in a way that defies the laws of physics through miming actions. Objects that SCP-26421 pretends to interact with become tangible but invisible constructs that exhibit the properties of their real-world counterparts (referred to as "mimed constructs"). These constructs dissipate when SCP-26421 finishes its performance or when it is rendered unconscious. If SCP-26421 is interrupted or agitated, it may unwillingly create hazardous constructs, which has led to multiple containment breaches and casualties.</p>
+<p>SCP-26421 displays a compulsion to perform daily, with an inexplicable ability to garner an audience, regardless of its containment status. This has led to incidents where Foundation personnel are involuntarily drawn to watch its performances, facilitating breaches. The reason behind this compulsion and its impact on audiences is under investigation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26421 is to be held in a specialized containment chamber made of transparent polycarbonate walls with an interior space of no less than 70 square meters to allow room for performances. Audio and visual surveillance equipment is to be installed to monitor SCP-26421 around the clock. All personnel assigned to SCP-26421 must undergo rigorous psychological screening to minimize the effects of its compulsion.</p>
+<p>The entity is to be provided with standard amenities and is allowed to perform for two hours each day under strict supervision, with audiences consisting exclusively of D-class personnel who have been briefed on the anomalous effects. Interaction with SCP-26421 is to be limited to trained personnel wearing noise-cancelling headphones to prevent involuntary attendance to its performances. Should SCP-26421 become agitated, a designated containment team armed with non-lethal weaponry is to intervene and sedate the entity.</p>
+<h3>Addendum 1: Incident Log 26421-A</h3>
+<p>On [DATE REDACTED], SCP-26421 was able to breach containment by miming a key to unlock the door to its chamber. It proceeded to perform in the facility's cafeteria, creating a mimed construct that resembled a hazardous material, leading to panic and injuries among the staff. SCP-26421 was re-contained, and containment procedures were revised to their current status.</p>
+<h3>Addendum 2: Experiment Log 26421</h3>
+<h4>Experiment 26421-E1</h4>
+<p><strong>Objective:</strong> Test the limits of SCP-26421's mimed constructs.
+<strong>Procedure:</strong> SCP-26421 was instructed to mime the act of lifting a heavy object.
+<strong>Result:</strong> SCP-26421 successfully mimed lifting an object estimated to weigh approximately 500 kilograms. The invisible construct was confirmed via laser displacement sensors.</p>
+<h4>Experiment 26421-E2</h4>
+<p><strong>Objective:</strong> Determine if mimed constructs can interact with physical objects.
+<strong>Procedure:</strong> SCP-26421 was instructed to mime a wall and a basketball was thrown at the location of the wall.
+<strong>Result:</strong> The basketball bounced off the invisible wall as if it had struck a concrete barrier.</p>
+<h4>Experiment 26421-E3</h4>
+<p><strong>Objective:</strong> Investigate the duration of mimed constructs without continuous performance.
+<strong>Procedure:</strong> SCP-26421 mimed a chair, sat on it, and was then escorted away from the performance area.
+<strong>Result:</strong> The construct remained tangible for approximately 7 minutes before dissipating, causing SCP-26421 to fall to the ground, confirming a direct correlation between SCP-26421's proximity/concentration and the construct's duration.</p>
+<h3>Addendum 3: Interview Log 26421</h3>
+<p><strong>Interviewer:</strong> Dr. ██████
+<strong>Interviewee:</strong> SCP-26421 (Roland McDolan)</p>
+<p><strong>[BEGIN LOG]</strong></p>
+<p><strong>Dr. ██████:</strong> "Can you tell us how you came to be in our universe?"</p>
+<p><strong>SCP-26421:</strong> "Through my performances, I transcend reality. The smiles and applause---they are my gateway. One day, I found myself here, where the Golden Arches never shone."</p>
+<p><strong>Dr. ██████:</strong> "What is the significance of McDonald's to your ability?"</p>
+<p><strong>SCP-26421:</strong> "In my world, it's more than just food; it's a cultural touchstone, an icon that holds realities together. Without it, I became... untethered."</p>
+<p><strong>Dr. ██████:</strong> "Is there any way to remove or limit your compulsive need to perform?"</p>
+<p><strong>SCP-26421:</strong> "There is no Roland without the performance. To restrict it is to restrain my very essence. My audience must be there..."</p>
+<p><strong>[END LOG]</strong></p>
+<p>Note: SCP-26421's claims have yet to be validated and should be treated as anecdotal until further evidence can be gathered. Further interviews are scheduled to understand the nature of SCP-26421's compulsions and its connection to its originating universe.</p></div>
