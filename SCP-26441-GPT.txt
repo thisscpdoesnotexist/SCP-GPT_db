@@ -1,0 +1,46 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26441 is  Hokkaido Deluxe Love Empress v0.3a </h3> </center>
+    <h1>SCP-26441</h1>
+<h3>Item #:</h3>
+<p>SCP-26441</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26441, dubbed "Hokkaido Deluxe Love Empress v0.3a," is an anomalous humanoid entity roughly 170 cm in height, resembling a traditional Japanese "geisha." However, its features are exaggerated to an almost caricatured extent, and it is clothed in a vibrantly colored kimono that changes pattern daily at precisely midnight.</p>
+<p>The entity can influence human emotions and perceptions to an extreme degree. Individuals within a radius of approximately 30 meters from SCP-26441 report overwhelming feelings of infatuation, bliss, and desire to please the entity. This area of effect does not diminish with physical obstructions, suggesting a psychological or metaphysical method of influence rather than a chemical or biological one.</p>
+<p>SCP-26441 speaks fluent Japanese and, to a lesser extent, English. It perpetually requests various forms of affection and servitude from those around it, including but not limited to verbal praise, physical touch, and the performance of menial tasks.</p>
+<p>In addition to its emotional manipulation abilities, SCP-26441 exhibits other potentially catastrophic properties. When a subject's affection is deemed insufficient by SCP-26441, the subject experiences a rapid decay in their mental well-being, often leading to self-harm or violence. In cases of prolonged exposure exceeding four hours, subjects become permanently psychologically dependent on SCP-26441, showing symptoms akin to an extreme addiction or compulsion.</p>
+<p>SCP-26441 was discovered in Hokkaido, Japan after a series of unexplained deaths and disappearances were reported in a local town. The affected area displayed consistent reports of an "irresistible woman" whom witnesses were desperate to please.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the dangerous and contagious nature of SCP-26441's influence, it is to be contained in a reinforced, soundproof holding cell at Site-███. The cell is to be equipped with electromagnetic shielding to disrupt any potential anomalous transmissions. Interaction with SCP-26441 requires approval from at least two Level 4 personnel and must be conducted via remote-controlled drones whenever possible.</p>
+<p>Personnel tasked with the direct observation of SCP-26441 must undergo psychological screening before and after each interaction to monitor emotional stability and signs of undue influence. Any staff exhibiting signs of emotional compromise by SCP-26441 should be detained and subjected to a standard cognitive recalibration protocol.</p>
+<p>Under no circumstances are personnel to engage SCP-26441 in conversations about personal matters or express any form of emotional vulnerability. A rotating schedule of D-class personnel (chosen for psychological robustness against emotional manipulation) shall interact with SCP-26441 under strictly controlled and monitored conditions for no more than 45 minutes per session.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><em>Due to the potentially damaging effects of SCP-26441, all experiments are conducted with a strong focus on the safety and mental health of the participants. The following is an excerpt from the extensive experiment logs kept for SCP-26441.</em></p>
+<h4>Experiment 26441-E-03:</h4>
+<p><strong>Participants:</strong> D-5612
+<strong>Procedure:</strong> D-5612 was instructed to perform a traditional tea ceremony for SCP-26441 without speaking.
+<strong>Results:</strong> SCP-26441 appeared to accept the ceremony, but shortly after its completion, D-5612 began to weep uncontrollably, claiming they had failed to perform adequately. Psychological evaluation required post-exposure.</p>
+<h4>Experiment 26441-E-15:</h4>
+<p><strong>Participants:</strong> D-6754
+<strong>Procedure:</strong> D-6754 was instructed to converse with SCP-26441 about neutral topics (e.g., weather, non-personal interests).
+<strong>Results:</strong> SCP-26441 engaged initially but soon diverted the conversation toward D-6754's personal life. Upon realizing the personal direction of the conversation, the overseer terminated the interaction. D-6754 showed signs of agitation post-exposure and required sedation.</p>
+<h3>Addendum 2: Incident 26441-I-07</h3>
+<p>On ██/██/████, SCP-26441 breached containment due to a security lapse during personnel shift changes. SCP-26441 interacted with several staff members, causing widespread emotional disturbance and culminating in four casualties before recontainment. Enhanced security measures were implemented following this incident, and all personnel involved in the breach received disciplinary action.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewed:</strong> SCP-26441</p>
+<p><strong>Interviewer:</strong> Dr. H█████</p>
+<p><em>[Abridged for brevity.]</em></p>
+<p><strong>Dr. H█████:</strong> How do you perceive us? What do we mean to you?</p>
+<p><strong>SCP-26441:</strong> You are all my devoted admirers, are you not? It is the natural order for you to lavish me with the affections I truly deserve.</p>
+<p><strong>Dr. H█████:</strong> What happens when someone doesn't show you the affection you expect?</p>
+<p><strong>SCP-26441:</strong> Such insolence cannot be tolerated. I simply show them the error of their ways. After all, love must be taught, if not given freely.</p>
+<p><strong>Dr. H█████:</strong> Can you control your influence over others?</p>
+<p><strong>SCP-26441:</strong> (Laughs) Dearest Doctor, why would I ever want to do that?</p>
+<p><em>[The interview continues for several pages, with SCP-26441 evading most questions or responding in a cryptic manner. The data collected provided valuable insights into the entity's psyche but also led to a three-week psychological leave for Dr. H█████.]</em></p></div>
