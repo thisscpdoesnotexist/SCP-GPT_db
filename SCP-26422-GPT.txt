@@ -1,0 +1,57 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26422 is  a mime called Roland McDolan, from an alternate universe where McDonald's doesn't exist, with McDolan's in its place </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26422</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26422, self-identified as Roland McDolan, appears to be an adult male humanoid entity, presumably in his late 30s, dressed as a traditional French mime. However, SCP-26422 possesses anomalous properties: It is capable of manipulating its immediate environment through its pantomime actions, creating invisible but tangible objects or altering reality within a 10-meter radius. These effects cease once SCP-26422 breaks character or focus.</p>
+<p>SCP-26422 claims to originate from an alternate reality, designated as U-26422-McD, where the well-known fast-food franchise McDonald's does not exist. Instead, a similar establishment called McDolan's is said to be globally prevalent. Upon initial recovery, SCP-26422 was found performing in front of an abandoned building where signage and architectural design closely matched descriptions of McDolan's franchises from U-26422-McD.</p>
+<p>Interviews with SCP-26422 reveal a clear narrative of its origin, but its purpose or reasons for altering reality remains a subject of investigation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26422 is to be contained in a modified humanoid containment cell, fortified with a Faraday cage structure to nullify its reality-altering abilities. All communication with SCP-26422 requires approval from no fewer than two (2) Level 4 personnel.</p>
+<p>Direct interaction with SCP-26422 is not advised unless necessary for research or containment. SCP-26422's containment cell is to be monitored via closed-circuit cameras at all times, with guards stationed outside to prevent unauthorized access.</p>
+<p>Personnel attempting to communicate with SCP-26422 should refrain from referencing McDonald's or related entities to prevent agitation or unintended reality alteration.</p>
+<p>In the event of a containment breach, the area is to be evacuated, and Procedure 26422-Beta is to be enacted. Scranton Reality Anchors (SRAs) must be activated immediately to reestablish normalcy around SCP-26422 before recontainment procedures can commence.</p>
+<h3>Addendum 1: Interview Log 26422-01</h3>
+<p><strong>Date:</strong> ██-██-20██<br />
+<strong>Subject:</strong> SCP-26422<br />
+<strong>Interviewer:</strong> Dr. ███████<br />
+<strong>Foreword:</strong> This interview was conducted to ascertain SCP-26422's origins and intentions.</p>
+<p>[Begin Log]</p>
+<p><strong>Dr. ███████:</strong> Please state your name for the record.</p>
+<p><strong>SCP-26422:</strong> My name is Roland McDolan.</p>
+<p><strong>Dr. ███████:</strong> Roland, can you tell me where you come from?</p>
+<p><strong>SCP-26422:</strong> I come from a place much like this one. Except, of course, for McDolan's. You have this strange McDonald's thing instead.</p>
+<p><strong>Dr. ███████:</strong> Can you describe McDolan's?</p>
+<p><strong>SCP-26422:</strong> It's the heart of joy, of families, of delicious food coming together. It's everywhere, like a home away from home.</p>
+<p><strong>Dr. ███████:</strong> And your abilities?</p>
+<p><strong>SCP-26422:</strong> A birthright. In my world, the McDolan family possesses certain talents, the ability to create joy through illusion. But here, it seems my illusions are much more... tangible.</p>
+<p>[End Log]</p>
+<p><strong>Closing Statement:</strong> SCP-26422 refused to answer further questions, retreating into a silent state reminiscent of a classic mime performance.</p>
+<h3>Addendum 2: Experiment Log 26422-A</h3>
+<p><strong>Experiment A-1:</strong><br />
+<strong>Date:</strong> ██-██-20██<br />
+<strong>Procedure:</strong> SCP-26422 was instructed to mimic eating an apple.<br />
+<strong>Results:</strong> A tangible apple materialized. When bitten into by D-Class personnel, the apple was described as "extraordinarily juicy and delicious."<br />
+<strong>Analysis:</strong> SCP-26422's pantomime converted to a physical object. Further testing recommended.</p>
+<p><strong>Experiment A-2:</strong><br />
+<strong>Date:</strong> ██-██-20██<br />
+<strong>Procedure:</strong> SCP-26422 was instructed to mime opening a door.<br />
+<strong>Results:</strong> A door appeared, leading to a nonsensical space within the containment chamber walls. The space collapsed once SCP-26422 ceased miming.<br />
+<strong>Analysis:</strong> SCP-26422's ability to create spatial anomalies poses a significant containment risk.</p>
+<p><strong>Experiment A-3:</strong><br />
+<strong>Date:</strong> ██-██-20██<br />
+<strong>Procedure:</strong> SCP-26422 was asked to simulate being trapped in a box.<br />
+<strong>Results:</strong> SCP-26422 became visibly distressed as invisible walls constricted its movements. The entity ceased the performance abruptly, remarking, "This is no fun anymore."<br />
+<strong>Analysis:</strong> Testing limits of SCP-26422's reality-altering scope may have psychological repercussions.</p>
+<h3>Addendum 3: Event Log 26422-E1</h3>
+<p><strong>Date:</strong> ██-██-20██<br />
+<strong>Incident:</strong> At approximately 14:00 hours, SCP-26422 breached containment by miming a tunnel through its cell wall, resulting in an actual tunnel forming. The breach was quickly contained. SRAs reestablished normalcy; however, the tunnel caused severe structural damage to the containment facility.</p>
+<p>Following Event 26422-E1, containment procedures have been updated to include a constant operation of Scranton Reality Anchors (SRAs) around SCP-26422's cell. Proposed expansion of research into the uses of SCP-26422's anomaly for Foundation benefits is currently under review by the Ethics Committee.</p></div>
