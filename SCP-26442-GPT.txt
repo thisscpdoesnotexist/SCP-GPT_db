@@ -1,0 +1,55 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26442 is  a collection of slightly offensive super mario romhacks </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26442</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26442 refers to a collection of modified Nintendo video game ROMs, specifically altered versions of various "Super Mario" titles. The content of these ROM hacks contains imagery and dialogue that deviate significantly from the source material, including but not limited to graphic violence, explicit language, and culturally insensitive themes. Unlike typical ROM hacks that are created and shared within gaming communities for entertainment purposes, these files possess anomalous properties.</p>
+<p>Upon execution of any ROM within SCP-26442 on an appropriate emulator or modified gaming console, the player will begin to experience alterations in perception and behavior. Initially, the player is prone to display mild amusement or confusion. However, prolonged exposure leads to the player exhibiting signs of extreme aggression, psychological breakdown, and in severe cases, a complete dissociation from reality and identity.</p>
+<p>The alterations in the ROMs are not fixed and have displayed adaptability, seemingly reacting to the player's personal sensitivities and cultural background to maximize the offensive and impactful nature of the content. Attempts to trace the origin of SCP-26442 have been unsuccessful; the creator or creators remain unknown.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its digital nature and the ease with which it can be duplicated and spread, SCP-26442 requires an aggressive containment approach. All known instances of SCP-26442 are to be contained on an air-gapped, encrypted hard drive stored in a high-security locker in Site-██.</p>
+<p>Foundation web crawlers (I/O-SILVER) are tasked with detecting and removing all instances of SCP-26442 found on the internet. Any online platforms identified as sources for SCP-26442 distribution are to be monitored closely, and individuals responsible for disseminating the ROMs are to be apprehended for interrogation.</p>
+<p>Personnel involved in the containment of SCP-26442 are required to undergo regular psychological evaluations. Direct interaction with the ROMs is only permitted for D-class personnel during controlled experiments approved by Level 4 researchers or higher. All testing sessions must be monitored, and any communication devices or potential recording equipment are to be prohibited within the testing environment to prevent accidental spread.</p>
+<h3>Addendum 1: Incident Log</h3>
+<p>On ██/██/20██, Site-██ experienced a containment breach when a researcher, Dr. ████, inadvertently allowed SCP-26442 to spread to the local network. The breach resulted in the temporary exposure of SCP-26442 to site personnel, leading to multiple instances of violent outbursts and compromised mental states. Dr. ████ was found to have bypassed several layers of security protocols out of a misguided attempt to study SCP-26442's effects without approval. Dr. ████ has since been terminated, and all affected personnel have been administered Class-A amnestics.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26442-A</h4>
+<ul>
+<li><strong>Subject:</strong> D-8432</li>
+<li><strong>Procedure:</strong> Subject instructed to play SCP-26442 for 15 minutes.</li>
+<li><strong>Results:</strong> Subject displayed increasing discomfort, followed by an attempt to disengage from the experiment prematurely. Subject restrained and compelled to continue. Became progressively aggressive, culminating in an attempt to assault supervising personnel.</li>
+<li><strong>Notes:</strong> Subject immediately removed from testing environment and sedated. Signs of long-term psychological trauma observed.</li>
+</ul>
+<h4>Experiment 26442-B</h4>
+<ul>
+<li><strong>Subject:</strong> D-6194</li>
+<li><strong>Procedure:</strong> Subject played SCP-26442 with breaks at 10-minute intervals to assess cumulative effects.</li>
+<li><strong>Results:</strong> After the first interval, subject displayed confusion but no aggression. Upon second exposure, subject began to verbalize threats toward the game characters. After the third interval, the subject attempted to destroy the testing equipment. Subject subdued and removed from environment.</li>
+<li><strong>Notes:</strong> Incremental exposure appears to have a compounding effect on subjects. Further research required to determine threshold of aggression onset.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interview 26442-C</h4>
+<ul>
+<li><strong>Interviewer:</strong> Dr. K████</li>
+<li><strong>Interviewee:</strong> D-4389 (Post-Exposure to SCP-26442)</li>
+<li><strong>Forward:</strong> D-4389 was interviewed after 30 minutes of cumulative exposure to SCP-26442 to gain insight into the psychological impact of the anomalous ROM hacks.</li>
+<li><strong><Begin Log></strong></li>
+<li><strong>Dr. K████:</strong> Can you describe how you are feeling right now, D-4389?</li>
+<li><strong>D-4389:</strong> (visibly shaking) Everything... it's all wrong. The game... it knew things. Things about me that no one should know.</li>
+<li><strong>Dr. K████:</strong> Can you specify what the game revealed to you?</li>
+<li><strong>D-4389:</strong> It's not just about me. It's... it's like a mirror, but it shows the worst. All the hatred, the ugliness... it's like it's alive.</li>
+<li><strong>Dr. K████:</strong> Interesting. Do you feel that these elements of the game have imprinted on you permanently?</li>
+<li><strong>D-4389:</strong> I don't know. I just want it out of my head. It's everywhere. I can't stop seeing it, hearing it. I — AHH!</li>
+<li>(D-4389 becomes increasingly distressed, screaming unintelligibly.)</li>
+<li><strong>Dr. K████:</strong> (signals to security) We're going to need immediate medical intervention here.</li>
+<li><strong><End Log></strong></li>
+<li><strong>Conclusion:</strong> The interview was terminated due to D-4389's rapid psychological decline. Subject thereafter placed in isolation. The extent of SCP-26442's lasting effects on cognitive processes warrants significant concern and justifies the Keter classification. Further testing must proceed with caution, prioritizing the mental health and well-being of all personnel involved.</li>
+</ul></div>
