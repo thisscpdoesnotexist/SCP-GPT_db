@@ -1,0 +1,68 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26423 is  Genetically engineered herbivorous lions made by vegans. They have had a horrendous effect on the local ecosystem.  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26423</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26423 refers to a population of genetically modified lions (Panthera leo) that exhibit strict herbivorous dietary behavior. These creatures were apparently engineered by an unidentified group of radical vegan bioengineers who sought to convert traditional top predators into non-carnivorous animals as a statement against the consumption of meat. Although externally similar to non-anomalous lions, SCP-26423 instances possess dramatic physiological and anatomical differences that support a herbivorous lifestyle, including specialized teeth adapted for grinding and a significantly altered digestive tract capable of breaking down and obtaining nutrients from plant matter.</p>
+<p>SCP-26423 instances have demonstrated a profound impact on the ecosystem in which they have been released. Their selective grazing has led to a reduction in certain plant species, while the lack of predation on traditional prey animals has caused overpopulation and subsequent declines in those species due to starvation and disease. Ecosystem disruption has also impacted other predators indirectly, either by outcompetition for resources or through the spread of diseases exacerbated by crowded and stressed populations of prey animals.</p>
+<p>Behaviors not previously observed in natural lion populations have been noted in SCP-26423 instances, including the formation of larger-than-average prides, cooperative defense against predators or humans threatening their chosen food sources, and unusual aggression when driven to defend their territory or offspring. </p>
+<p>Despite the herbivorous diet, SCP-26423 remains a formidable creature due to its size, strength, and instinctual behaviors carried over from its carnivorous progenitors. Direct confrontation is to be avoided.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the potentially ecosystem-altering nature of SCP-26423, immediate containment is of high priority. A multi-tiered approach has been established to manage containment:</p>
+<ol>
+<li>Tracking and monitoring: Equip all known SCP-26423 instances with GPS trackers and monitor their movements to predict and prevent further spreading.</li>
+<li>Population control: Authorized personnel are to employ non-lethal measures where possible to control the SCP-26423 population size. In case of rapid population increase, a containment breach, or direct threat to biodiversity, lethally sanctioned actions may be taken following approval from Site Director.</li>
+<li>Information suppression: Work in tandem with local authorities and media to suppress information regarding SCP-26423 and to disseminate disinformation campaigns as necessary to maintain public ignorance of the anomalous nature of these creatures.</li>
+<li>Research and reversal: Dedicated research teams are assigned to study SCP-26423's genetic modifications to develop potential reversal agents or fertility inhibitors.</li>
+<li>Area denial: Establish and maintain exclusion zones around known SCP-26423 populations to prevent civilian interaction and dispersal. </li>
+</ol>
+<h3>Addendum 1:</h3>
+<p>Interview Log 26423-A</p>
+<p><strong>Interviewed:</strong> Dr. Emilia Torres, Lead Researcher on SCP-26423</p>
+<p><strong>Interviewer:</strong> Agent Hernandez</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Agent Hernandez:</strong> Good morning Dr. Torres. To begin, can you summarize your main findings regarding SCP-26423's impact on their environment?</p>
+<p><strong>Dr. Torres:</strong> Yes, the long-term ecological ramifications are deeply concerning. These lions are essentially ripping apart the food web. We’ve seen an imbalance in herbivore populations, and the vegetation has been unable to sustain the grazing pressure, leading to increased erosion. Secondary predators are also suffering since they can't compete with SCP-26423 for resources.</p>
+<p><strong>Agent Hernandez:</strong> And what's being done to mitigate these effects?</p>
+<p><strong>Dr. Torres:</strong> We have initiated a special breeding program with the goal of introducing a fertility-reducing gene into the population. We’re also considering the introduction of specialized flora that could either serve as a deterrent or a form of containment for the SCP-26423.</p>
+<p><strong>Agent Hernandez:</strong> What is your team currently focusing on?</p>
+<p><strong>Dr. Torres:</strong> Apart from containment and mitigation, we’re trying to identify the original geneticists behind this. Their methodology was sophisticated, and the modifications are unlike anything we’ve encountered before. There’s a lot we can learn here, even if the original intent was… misguided.</p>
+<p><strong><End Log></strong></p>
+<h3>Addendum 2:</h3>
+<p>Experiment Log 26423-E</p>
+<ul>
+<li><strong>Experiment 26423-E01:</strong></li>
+<li><strong>Subject(s):</strong> SCP-26423-A (Adult Male)</li>
+<li><strong>Procedure:</strong> SCP-26423-A was presented with various plant species to determine dietary preferences.</li>
+<li><strong>Results:</strong> SCP-26423-A showed a preference for broadleaf plants over grasses, consuming considerable quantities of the former while ignoring the latter.</li>
+<li>
+<p><strong>Notes:</strong> Further testing with a broader range of plant species is recommended to better understand the dietary effects on local flora.</p>
+</li>
+<li>
+<p><strong>Experiment 26423-E02:</strong></p>
+</li>
+<li><strong>Subject(s):</strong> SCP-26423-B (Adult Female)</li>
+<li><strong>Procedure:</strong> SCP-26423-B was introduced to a controlled environment with live non-anomalous prey animals.</li>
+<li><strong>Results:</strong> SCP-26423-B ignored the prey animals, demonstrating distress when they approached and actively avoiding confrontation.</li>
+<li>
+<p><strong>Notes:</strong> Instances show behavioral aversion to their natural predatory instincts.</p>
+</li>
+<li>
+<p><strong>Experiment 26423-E03:</strong></p>
+</li>
+<li><strong>Subject(s):</strong> SCP-26423-C (Juvenile)</li>
+<li><strong>Procedure:</strong> SCP-26423-C was subjected to a nutritional analysis to assess overall health when maintained on a herbivorous diet.</li>
+<li><strong>Results:</strong> SCP-26423-C displayed some micronutrient deficiencies but is overall healthy. This confirms specific engineered adaptations are sustaining the herbivorous diet.</li>
+<li><strong>Notes:</strong> Supplementation of certain nutrients may be necessary for long-term health maintenance.</li>
+</ul>
+<h3>Addendum 3:</h3>
+<p>[DATA REDACTED]
+The information within this addendum has been classified and is accessible only to personnel with Level 4 clearance or higher. Unauthorized access is strictly prohibited and will result in immediate disciplinary action, up to and including termination.</p></div>
