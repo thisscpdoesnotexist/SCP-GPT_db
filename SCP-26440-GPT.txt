@@ -1,0 +1,46 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26440 is  titled "Together forever, my lovely lovely video game cartidges" </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26440</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26440 is a collection of anomalous video game cartridges from various consoles, including but not limited to, the NES, SNES, Sega Genesis, and Game Boy. Each cartridge resembles standard games from their respective platforms but with distinct alterations such as mismatched labels, irregular color palettes, and minor physical deformities. When these cartridges are inserted into the appropriate console and played, several anomalous effects manifest.</p>
+<p>Players who engage with SCP-26440 report intense experiences of nostalgia, even if they have no prior history with the game in question. This effect increases in potency the longer the individual plays. After approximately thirty minutes, players become unwilling to cease interaction with the game, regardless of prior commitments or needs.</p>
+<p>Furthermore, after two hours of continuous gameplay, SCP-26440 initiates a secondary effect wherein players become physically bonded to the controller. Attempts to separate the individual from the controller by force result in significant injury to the player, and in some cases, the controller itself, without breaking the bond.</p>
+<p>Longer exposure results in the player's gradually merging with the console and television, eventually transforming into an extension of SCP-26440. These individuals, designated SCP-26440-1, become immobile and lose all cognitive functions except for the desire to be played by others. If an SCP-26440-1 instance remains inactive for more than 48 hours, it will dematerialize, with a new SCP-26440 cartridge manifesting elsewhere in the world.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26440 instances are to be contained in a secure, climate-controlled vault at Site-██. Access to SCP-26440 is restricted to Level 4 personnel and above, with written consent from two members of the O5 Council. Testing requires approval from at least one Level 4 Research Director.</p>
+<p>Physical interaction with SCP-26440 is strictly forbidden outside of controlled testing. All testing must be done with the use of remote-operated drones or robotic manipulators to avoid direct human contact.</p>
+<p>A dedicated task force, codenamed "Gamma-9" ("Arcade Sweepers"), has been established to locate and retrieve any instances of SCP-26440 that materialize in the public domain. Civilians who have interacted with SCP-26440 are to be administered Class-B amnestics, and any witnesses are to be given cover stories based on local beliefs of cursed or haunted objects.</p>
+<p>In the event of a containment breach, Site-██ is to go on full lockdown, and a signal jammer activated to prevent wireless transmissions of SCP-26440's primary effect. All personnel are to vacate the immediate vicinity, and any instance of SCP-26440-1 is to be quarantined and studied for potential reversibility of its effects.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26440-A:</h4>
+<ul>
+<li><strong>Subjects:</strong> Two D-Class personnel (D-1987 and D-1993)</li>
+<li><strong>Procedure:</strong> Subjects instructed to play SCP-26440 for thirty minutes with remote monitoring of vitals and psychological responses.</li>
+<li><strong>Results:</strong> Both subjects exhibited increased levels of dopamine and serotonin. D-1993 attempted to continue playing past the allotted thirty minutes but was restrained without incident.</li>
+</ul>
+<h4>Experiment 26440-B:</h4>
+<ul>
+<li><strong>Subjects:</strong> One D-Class personnel (D-2005)</li>
+<li><strong>Procedure:</strong> Subject played SCP-26440 for two hours with constant observation.</li>
+<li><strong>Results:</strong> Subject fused with the console controller at precisely two hours of gameplay. Attempts to detach D-2005 resulted in severe lacerations on the subject's hands. Subject eventually became an instance of SCP-26440-1.</li>
+</ul>
+<h4>Experiment 26440-C:</h4>
+<ul>
+<li><strong>Subjects:</strong> Two D-Class personnel (D-2001 and D-2012)</li>
+<li><strong>Procedure:</strong> Subjects were introduced to an SCP-26440-1 instance and instructed to play it.</li>
+<li><strong>Results:</strong> Subjects began to show symptoms akin to those from earlier experiments. After fifteen minutes, both pleaded to be allowed to play indefinitely. Termination of the experiment required the intervention of armed security.</li>
+</ul>
+<h3>Addendum 2: Interview with Dr. ████</h3>
+<p>An interview was conducted by Dr. ████████ to gain insight into the psychological effects of SCP-26440.</p>
+<p>[Interview Log Redacted for Brevity]</p>
+<h3>Addendum 3: Recovery Report</h3>
+<p>SCP-26440 was initially discovered in a suburban home in ███████ after reports of a family found fused to various electronic devices, drawing the attention of local media. Embedded Foundation agents intercepted the occurrence and secured the premises. Containment specialists retrieved a total of twelve SCP-26440 instances, and the family was confirmed to have become SCP-26440-1 instances. The house was subsequently demolished, and a gas leak story was provided as a cover-up.</p></div>
