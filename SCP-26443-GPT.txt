@@ -1,0 +1,58 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26443 is  only containable because we tricked her into thinking she's not in containment </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26443</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26443 appears to be a humanoid female entity, approximately 25 years old. The subject possesses anomalous capabilities of perception manipulation, reality bending, and a form of psychic resistance that renders it impervious to most memetic influences and amnestics. SCP-26443 exhibits a high level of intelligence and awareness of her anomalous properties, making containment under normal circumstances nearly impossible.</p>
+<p>The entity is capable of altering perceptions of those around her to the extent that they may become fully convinced of a false reality while under her influence. This manipulation can be extended to technological means of surveillance. Testing has revealed that her abilities do not affect non-organic recording devices unless a human subject views the footage directly.</p>
+<p>SCP-26443 appears to be motivated by a desire for freedom and bears an intense aversion to confinement. However, containment has been achieved by exploiting her perception of reality, convincing her that she remains unconfined when she is, in fact, contained within a Foundation-controlled environment.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26443 is contained in a specialized residential unit within Site-██ under the guise of a voluntary residential facility for individuals with unique cognitive abilities. The facility is designed to mimic a luxury apartment complex, offering amenities and a sense of community while being fully monitored and secured by Foundation personnel. Staff assigned to SCP-26443 are to undergo rigorous psychological screening and must be equipped with devices that counter the entity's perception-altering capabilities.</p>
+<p>Direct interaction with SCP-26443 should be kept to a minimum, and all personnel must adhere strictly to the narrative that SCP-26443 is not under forced containment. Any deviations from this narrative could lead to a containment breach. Should SCP-26443 exhibit signs of awareness concerning her actual containment, Protocol 'Ariadne's Weave' is to be engaged, wherein a multi-layered narrative deception is implemented to re-establish the illusion of freedom.</p>
+<h3>Addendum 1: Interview Log 26443-A</h3>
+<p><strong>Interviewer:</strong> Dr. ████
+<strong>Subject:</strong> SCP-26443
+<strong>Date:</strong> ██/██/████</p>
+<p>[BEGIN LOG]</p>
+<p><strong>Dr. ████:</strong> Good afternoon. How are you finding your accommodation?</p>
+<p><strong>SCP-26443:</strong> It's lovely, really. I never imagined a place for people like me would be so... welcoming.</p>
+<p><strong>Dr. ████:</strong> We aim to provide an environment where you can thrive. During your time here, have you felt any limitations or constraints on your freedom?</p>
+<p><strong>SCP-26443:</strong> Not at all. I feel like I can be myself here, without worrying about being a danger or feeling trapped.</p>
+<p><strong>Dr. ████:</strong> That's excellent to hear. Have you been in contact with others around you, developing relationships?</p>
+<p><strong>SCP-26443:</strong> Yes, the community has been great. It feels good to be around others who understand you.</p>
+<p><strong>Dr. ████:</strong> It sounds like our efforts to provide a safe space have been successful. Thank you for your time.</p>
+<p>[END LOG]</p>
+<h3>Addendum 2: Experiment Log 26443-E</h3>
+<p><strong>Experiment 1:</strong>
+Objective: Test the limits of SCP-26443's perception manipulation.
+Procedure: SCP-26443 was provided with a jigsaw puzzle missing one piece.
+Result: SCP-26443 influenced D-Class personnel to perceive the puzzle as complete. No one could identify the missing piece until exiting SCP-26443's effective range.</p>
+<p><strong>Experiment 2:</strong>
+Objective: Test the effectiveness of countermeasures.
+Procedure: Two guards wearing perception-filter devices interacted with SCP-26443 during a routine check.
+Result: SCP-26443's attempt to alter the guards' perception failed. Guards reported a brief sensation of disorientation but maintained awareness of their reality.</p>
+<p><strong>Experiment 3:</strong>
+Objective: Determine SCP-26443's reaction to direct confrontation about containment.
+Procedure: A scripted interaction with a planted Foundation psychologist implied doubts about the veracity of the "voluntary" nature of her stay.
+Result: SCP-26443 exhibited signs of distress and began to question her environment. Protocol 'Ariadne's Weave' was initiated, successfully restoring the containment narrative.</p>
+<h3>Addendum 3: Experiment Log 26443-E (Continued)</h3>
+<p><strong>Experiment 4:</strong>
+Objective: Test the outer limits of SCP-26443's influence.
+Procedure: Ten D-Class personnel were instructed to engage with SCP-26443 simultaneously.
+Result: SCP-26443 managed to create a limited consensus reality among the personnel; effects diminished with increased physical distance from the entity.</p>
+<p><strong>Experiment 5:</strong>
+Objective: Assess SCP-26443's influence under duress.
+Procedure: SCP-26443 was exposed to a staged emergency involving a fake fire.
+Result: SCP-26443's abilities amplified, causing widespread hallucinations of fire among staff and D-Class personnel until the illusion was broken using countermeasures.</p>
+<p><strong>Experiment 6:</strong>
+Objective: Observe SCP-26443's interaction with non-human entities.
+Procedure: SCP-26443 was introduced to SCP-███ (a non-sapient, anomalous object).
+Result: SCP-26443 was unable to exert influence over SCP-███, confirming her abilities are limited to affecting human perception.</p></div>
