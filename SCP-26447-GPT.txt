@@ -1,0 +1,54 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26447 is  Cinnamon Toes Crunch  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26447</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26447, known as "Cinnamon Toes Crunch," is a cereal brand that anomalously alters the taste perception and cognitive functions of individuals who consume it. The content of the cereal box appears to be ordinary at first glance, consisting of sweetened whole wheat and rice cereal pieces coated with cinnamon and sugar. However, once ingested, SCP-26447 induces a series of increasingly intense gustatory hallucinations. Affected individuals report tasting a wide variety of flavors, some of which do not correspond to any known food products.</p>
+<p>The anomalous effects manifest within approximately three to five minutes of consumption and can last anywhere from several hours to a few days. Additionally, subjects exhibit mild to severe obsession with the cereal, often to the detriment of their normal dietary habits and personal health. There are also reports of temporary cognitive distortions indicative of a mild psychoactive substance. These effects seem to fade as the cinnamon compound is metabolized and cleared from the body.</p>
+<p>The origins of SCP-26447 are currently unknown. The packaging resembles that of a non-anomalous cereal product, with no distinguishing marks or indicators of its anomalous properties. Efforts to trace the distribution or production sources have thus far been inconclusive.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26447 is to be contained in a secure, temperature-controlled storage locker at Site-19. Access is restricted to Level 3 personnel and above with permission from at least one Level 4 researcher. Due to the nature of its effects, SCP-26447 is not to be consumed except under controlled testing conditions with prior approval from the project head.</p>
+<p>Handling of SCP-26447 should be done with protective gloves to prevent accidental ingestion of the dust or particles from the cereal coating. All testing involving live subjects must be monitored by medical personnel, and subjects are to be debriefed for psychological effects following exposure to SCP-26447.</p>
+<p>Any instance of SCP-26447 found outside containment should be secured immediately, with all witnesses administered Class-B amnestics as necessary. Misinformation campaigns will be employed to discredit any public reporting of the anomalous effects as mass hysteria or a viral marketing ploy.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 26447-E-001</strong>
+- <strong>Subject:</strong> D-8402
+- <strong>Procedure:</strong> Subject was instructed to consume a 30g serving of SCP-26447.
+- <strong>Results:</strong> Subject began to describe tasting various fruits not present in the cereal. After thirty minutes, the subject claimed to taste 'colors' and 'emotions.' Effects lasted for four hours.
+- <strong>Notes:</strong> Subject remained fixated on the cereal for the duration of the effects.</p>
+<p><strong>Experiment 26447-E-002</strong>
+- <strong>Subject:</strong> D-9157
+- <strong>Procedure:</strong> Subject was given a 60g serving to evaluate the effect of increased dosage.
+- <strong>Results:</strong> Subject experienced the same initial gustatory hallucinations as D-8402 but later reported intense cravings for SCP-26447. Despite stomach pains, the subject attempted to consume more of the cereal. Effects persisted for two days.
+- <strong>Notes:</strong> Higher dosages seem to prolong and intensify the resultant obsession.</p>
+<p><strong>Experiment 26447-E-003</strong>
+- <strong>Subject:</strong> D-5021 (with history of synesthesia)
+- <strong>Procedure:</strong> Subject consumed a standard 30g serving.
+- <strong>Results:</strong> Subject reported significantly intensified synesthetic experiences, with sound-to-taste and color-to-sound conversions being described as 'overwhelming.' Effects subsided after eight hours.
+- <strong>Notes:</strong> SCP-26447 may exacerbate pre-existing neurological conditions.</p>
+<h3>Addendum 2: Incident Report 26447-I-007</h3>
+<p>On [REDACTED], a security breach occurred when a researcher, Dr. [REDACTED], brought a container of SCP-26447 into the staff break room under the guise of non-anomalous cereal. Several individuals were exposed, leading to an on-site containment breach and the initiation of localized lockdown procedures. Dr. [REDACTED] was reprimanded, and all affected staff members were treated and subsequently monitored for lasting effects.</p>
+<h3>Addendum 3: Interview Log 26447-INT-015</h3>
+<p><strong>Interviewer:</strong> Dr. Marquez
+<strong>Interviewee:</strong> D-8402 (Post-experiment debriefing)
+<strong>Date:</strong> [REDACTED]</p>
+<p>[BEGIN LOG]</p>
+<p><strong>Dr. Marquez:</strong> Please describe your experience after consuming SCP-26447, D-8402.</p>
+<p><strong>D-8402:</strong> At first, it was like eating regular cereal, but then everything just exploded in my mouth. All those flavors... things I can't even name. It was wild, doc.</p>
+<p><strong>Dr. Marquez:</strong> Can you clarify what you mean by 'exploded'?</p>
+<p><strong>D-8402:</strong> It's like... each crunch made a new taste. Normal stuff like apples and chocolate, then weird stuff. I swear I tasted a thunderstorm, man. And sadness... How do you even taste sadness?</p>
+<p><strong>Dr. Marquez:</strong> Interesting. And the obsession to consume more?</p>
+<p><strong>D-8402:</strong> Couldn't help it. It was the only thing I wanted, like it was calling to me. </p>
+<p><strong>Dr. Marquez:</strong> Did you experience any other symptoms? Headaches, dizziness, changes in perception?</p>
+<p><strong>D-8402:</strong> Yeah, kinda. Lights looked brighter, and sounds were different. It's hard to explain, but it was like I was seeing the world through another... filter, I guess.</p>
+<p><strong>Dr. Marquez:</strong> Thank you, D-8402. Your testimony has been very informative. We'll proceed with further analysis based on your feedback.</p>
+<p>[END LOG]</p>
+<p><strong>Notes:</strong> Subject D-8402's experience confirms previous observations regarding SCP-26447's multi-sensory effects and addictive properties. Further research is needed to understand the psychological and neurological implications of long-term exposure.</p></div>
