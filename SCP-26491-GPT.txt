@@ -1,0 +1,53 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26491 is  a twitter hashtag campaign "savethecatgirls" </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26491</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26491 is a digital phenomenon manifesting as a seemingly organic social media campaign centered around the hashtag <code>#savethecatgirls</code>. Initially identified on the Twitter platform, SCP-26491 has shown the capability to influence human behavior and propagate across various social media networks.</p>
+<p>SCP-26491 first came to the attention of the Foundation after a series of posts utilizing <code>#savethecatgirls</code> led to widespread online mobilization and unusual real-world gatherings. Participants of these gatherings displayed abnormal levels of commitment and persistence in promoting the rights and existence of so-called "catgirls," a common trope in anime and manga culture portraying women with feline features.</p>
+<p>Analysis of SCP-26491 suggests a semi-sentient nature with a primary objective of survival through media attention. When engaged, the hashtag appears to influence users to produce content and carry out activities favoring its proliferation. Posts linked to SCP-26491 exhibit memetic properties that can trigger obsessive behaviors, eventually causing affected individuals to blur the lines between fiction and reality.</p>
+<p>Individuals demonstrating significant exposure are colloquially designated as SCP-26491-1. SCP-26491-1 instances show varying degrees of psychological dependency on the continuation and success of the campaign, with a small percentage progressing to a state where they attempt surgical or genetic alteration to resemble the depicted "catgirls."</p>
+<h3>Special Containment Procedures:</h3>
+<p>Owing to its digital nature, SCP-26491 cannot be contained in the traditional sense. The following containment measures are in effect:</p>
+<ol>
+<li>Foundation cyber operations teams (designated MTF Gamma-5, "They're on Our Wavelength") are to monitor social media platforms for escalations of SCP-26491 activity.</li>
+<li>Web crawler AI, designated Scrutiny-Kappa, is tasked with suppressing the reach of SCP-26491 by targeting and flagging content for removal, as well as counteracting SEO measures taken by SCP-26491-1 instances.</li>
+<li>Foundation analysts are to periodically assess the psychological impact of SCP-26491 and update affected population models accordingly.</li>
+<li>Field agents are to infiltrate gatherings of SCP-26491-1 individuals, covertly administering Class-C amnestics when necessary to disrupt memetic spreading.</li>
+<li>Research into the origin and potential virtual containment of SCP-26491 is ongoing.</li>
+</ol>
+<p>For any encounter with individuals seeking to physically emulate "catgirls" due to SCP-26491 influence, Protocol Feline-Aegis is to be implemented, involving psychological counseling and, where required, medical treatment to reverse any self-inflicted alterations.</p>
+<h3>Addendum 1: Incident Log</h3>
+<p>SCP-26491 was initially treated as a low-level cognitohazard after its apparent origination in a crowded anime convention. The hashtag, initially seeming a benign viral campaign, unexpectedly triggered a mass psychogenic illness event in which several dozen attendees were hospitalized, exhibiting cat-like habits and vocalizations.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment #26491-03: Controlled Exposure</strong>
+- <strong>Objective:</strong> To assess the susceptibility of different demographics to SCP-26491 memetic influence.
+- <strong>Procedure:</strong> D-Class personnel with varying backgrounds were exposed to monitored sessions of SCP-26491 content.
+- <strong>Results:</strong> Susceptibility appears higher among individuals with prior exposure to related subcultures. Full findings are classified and available to personnel with Level 3 clearance and above.</p>
+<p><strong>Experiment #26491-04: Memetic Resistance</strong>
+- <strong>Objective:</strong> To determine the effectiveness of established cognitohazard resistance training against SCP-26491.
+- <strong>Procedure:</strong> Foundation personnel who had undergone memetic resistance training were exposed to SCP-26491 content under controlled conditions.
+- <strong>Results:</strong> Training reduced but did not eliminate vulnerability to SCP-26491's effects. Additional countermeasures are under development.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interview #26491-09: Excerpt</strong>
+- <strong>Interviewer:</strong> Dr. [REDACTED]
+- <strong>Interviewee:</strong> D-72914 (Exposed to SCP-26491 and exhibited mild obsessive behaviors)</p>
+<p>[Begin Log]</p>
+<p>Dr. [REDACTED]: “Can you describe your thoughts after interacting with the #savethecatgirls content?”</p>
+<p>D-72914: “It was like I found a purpose, doc. I needed to spread the word. Save 'em, you know?"</p>
+<p>Dr. [REDACTED]: “Save them from what, precisely?”</p>
+<p>D-72914: “That's the weird part. I—I don't actually know. It’s like something was compelling me.”</p>
+<p>Dr. [REDACTED]: “Did you feel compelled to alter your appearance or behavior?”</p>
+<p>D-72914: “Yeah, started to want ears, maybe a tail. Sounds dumb now, but it seemed important then. Like an identity thing.”</p>
+<p>Dr. [REDACTED]: “Interesting. And how do you feel now, after receiving treatment?”</p>
+<p>D-72914: “Clearer. Embarrassed, a bit. Like waking up from some strange dream.”</p>
+<p>[End Log]</p>
+<p><strong>Conclusion:</strong> The interview supports the hypothesis that SCP-26491 may instill a pseudo-identity crisis in affected individuals. Further research is required to understand the full psychological impact and potential for long-term societal effects.</p></div>
