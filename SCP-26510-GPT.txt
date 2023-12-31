@@ -1,0 +1,48 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26510 is  titled "How do I shot web?" </h3> </center>
+    <p>```markdown</p>
+<h3>Item #: SCP-26510</h3>
+<h3>Object Class: Keter</h3>
+<h3>Description:</h3>
+<p>SCP-26510, colloquially referred to as "How do I shot web?", is a cognitohazardous meme that manifests through digital communication channels, primarily affecting online communities discussing comic book superheroes. Upon exposure to SCP-26510, individuals (hereafter referred to as SCP-26510-1) experience delusions and physiological changes that make them believe they have acquired the ability to produce and manipulate web-like substances akin to the abilities of the fictional character Spider-Man from the Marvel comics.</p>
+<p>SCP-26510 first emerged in the wild on [REDACTED], when users in a popular online forum began to report sudden onset symptoms of nausea followed by the urgent belief that they could emit webbing from their wrists. Initial reports were dismissed as a hoax until multiple cases worldwide were correlated, showing an exponential infectious pattern corresponding to SCP-26510 exposure.</p>
+<p>SCP-26510-1 instances exhibit aggressive behavior when their beliefs are challenged and have a propensity to attempt dangerous feats to prove their abilities, leading to self-harm and, in some cases, fatalities. Notably, SCP-26510's anomalous properties do not grant any actual superhuman abilities; instead, affected individuals have been observed creating makeshift webbing devices, often resulting in crude and hazardous outcomes.</p>
+<p>The vector for SCP-26510 transmission is unknown but hypothesized to be data patterns nested within the media that resonate with the human subconscious. Efforts to determine the meme's origin and the pattern responsible for its propagation are ongoing.</p>
+<h3>Special Containment Procedures:</h3>
+<p>All internet traffic is to be monitored by Foundation web crawlers for instances of SCP-26510-related communication. Upon detection, the infected material is to be expunged from the digital platform, and all affected individuals are to be apprehended and contained for decontamination. Class-C amnestics have proven effective in ceasing the symptoms of SCP-26510-1, followed by the release of individuals under monitored surveillance to ensure no relapse.</p>
+<p>Enforcement of a misinformation campaign is currently in effect to discredit any rumors of SCP-26510-induced abilities, labeled as dangerous internet challenges. Foundation agents embedded in law enforcement are to fabricate plausible explanations for incidents involving SCP-26510-1 behavior.</p>
+<p>In the event of an outbreak, Mobile Task Force Delta-8 ("Web Busters") is to be deployed to contain and deescalate the situation. Areas with a high rate of infection are to be quarantined and subjected to amnestic treatment as a last resort.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26510-A:</h4>
+<p><strong>Objective:</strong> To establish the effects of prolonged exposure to SCP-26510.
+<strong>Subject:</strong> D-19877, a male aged 29 with a history of susceptibility to suggestive media.
+<strong>Procedure:</strong> D-19877 was exposed to SCP-26510 through controlled digital media.
+<strong>Result:</strong> After 12 hours of exposure, D-19877 began vocalizing thoughts about 'feeling different.' By 24 hours, D-19877 attempted to shoot webbing from his wrist using a makeshift device, causing second-degree burns. D-19877 was subsequently treated and administered amnestics.</p>
+<h4>Experiment 26510-B:</h4>
+<p><strong>Objective:</strong> To determine if SCP-26510 can be transmitted verbally.
+<strong>Subject:</strong> D-54231, a female aged 22 with no prior exposure to comic book culture.
+<strong>Procedure:</strong> D-54231 was read a detailed description of SCP-26510 in a containment interview room.
+<strong>Result:</strong> D-54231 showed no signs of SCP-26510 contamination after a 72-hour observation period.</p>
+<h3>Addendum 2: Incident Log 26510-██</h3>
+<p>On [REDACTED], a mass outbreak of SCP-26510 occurred after a viral video titled "Real Spider-Man Web Shooter Tutorial!" surfaced online. Within hours, documented cases of SCP-26510-1 incidents spiked globally, stretching Foundation resources thin. Coordinated efforts with major tech companies were required to suppress the video and its derivatives. Preliminary investigations suggest that this video might have been disseminated intentionally, with a potential connection to GoI-███ (Group of Interest).</p>
+<h3>Addendum 3: Interview Transcript 26510-IV</h3>
+<p><strong>Interviewer:</strong> Dr. ███████
+<strong>Interviewee:</strong> Former SCP-26510-1, Mr. ████ █████</p>
+<p><BEGIN LOG></p>
+<p><strong>Dr. ███████:</strong> Can you tell me what you felt when you first believed you could shoot webs?</p>
+<p><strong>Mr. █████:</strong> It felt so real, like I just had to find the right muscle to flex. I could almost feel it under my skin, twitching and aching to burst out.</p>
+<p><strong>Dr. ███████:</strong> How did that belief affect your behavior?</p>
+<p><strong>Mr. █████:</strong> I started crafting things, you know, like gloves with pressurized cans and tubing. Tried mixing chemicals to get the right stickiness. Almost blew up my bathroom.</p>
+<p><strong>Dr. ███████:</strong> Were you aware of the dangers?</p>
+<p><strong>Mr. █████:</strong> I didn't care. The conviction was too strong. I needed to swing from buildings; I needed to be... more.</p>
+<p><strong>Dr. ███████:</strong> Do you recall how your web-shooting attempts ended?</p>
+<p><strong>Mr. █████:</strong> In a lot of pain... and disappointment. When the fire department pulled me down from that tree, it all started to crumble, the dream of it. But the amnestics, they wiped clean what's real, what's not. All I have now are these burn scars.</p>
+<p><strong>Dr. ███████:</strong> Thank you, Mr. █████. Your insight is invaluable. Let's conclude here for your safety.</p>
+<p><END LOG></p>
+<p>```</p></div>
