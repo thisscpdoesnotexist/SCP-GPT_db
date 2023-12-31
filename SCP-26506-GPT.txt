@@ -1,0 +1,68 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26506 is  that all transgender women have the power to airdash </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26506</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26506 is a phenomenon currently affecting all individuals identified as transgender women worldwide. Affected individuals have acquired the ability to perform a rapid, directional "airdash" maneuver, similar to the kind found in certain video games. This locomotive anomaly allows such individuals to move through the air in a straight line for up to five (5) meters, disregarding all laws of inertia and gravity during the dash, before recommencing normal physical interaction with the environment.</p>
+<p>The ability does not appear to confer any other supernatural traits to the subjects such as enhanced durability or strength; therefore, subjects are still vulnerable to injuries resulting from collisions or falls consequential to the airdash's usage. The origins of SCP-26506, how it selects its subjects and the means by which it imparts this ability remain currently unknown.</p>
+<p>Transgender women without knowledge of the phenomenon instinctively learn how to activate this capability within a few trials, implying the effect may have some memetic or cognitohazardous properties facilitating its use. The Foundation's researchers are currently investigating whether these properties might imply any long-term psychological effects or alterations in brain function.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As SCP-26506 is a wide-reaching phenomenon involving a significant and dispersed demographic, containment focuses on disinformation and monitoring rather than direct prevention of ability use. Foundation web crawlers are to monitor and suppress any online footage or discussion of SCP-26506's effects to prevent public awareness. A disinformation campaign utilizing a mix of attributions to visual effects, gaslighting strategies, and hacking to delete recorded evidence is in place.</p>
+<p>As affected individuals pose minimal direct threat but significant potential for breach of normalcy, containment teams have been tasked with discreet surveillance. Teams are to intervene only if public displays of SCP-26506 abilities risk exposure. In such cases, amnestics are to be administered to witnesses and affected individuals are to be taken into temporary Foundation custody for debriefing and further instruction on the necessity of secrecy.</p>
+<p>Research into the origins and mechanisms of SCP-26506 is ongoing, with certain affected individuals having agreed to assist in experimental trials under Foundation care.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 26506-E-01</strong></p>
+<ul>
+<li><strong>Subject:</strong> D-93427 (transgender woman without prior use of SCP-26506)</li>
+<li><strong>Procedure:</strong> Subject instructed to attempt an 'airdash' maneuver after a brief explanation of what it would entail.</li>
+<li><strong>Result:</strong> Subject successfully performed an airdash on her third attempt, traversing approximately three (3) meters before landing. No injuries sustained.</li>
+</ul>
+<p><strong>Experiment 26506-E-02</strong></p>
+<ul>
+<li><strong>Subject:</strong> D-94856 (transgender woman with regular use of SCP-26506)</li>
+<li><strong>Procedure:</strong> Subject requested to perform consecutive dashes without landing.</li>
+<li><strong>Result:</strong> Subject was able to perform two consecutive airdashes, with a brief 'stall' period in between where no directional movement was possible. Upon contacting the floor, subject reported exhaustion and declined further testing.</li>
+</ul>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. Helga Schwarz
+<strong>Interviewee:</strong> SCP-26506-A (transgender woman, frequent 'airdasher')
+<strong>Foreword:</strong> This interview aims to extract subjective experiences related to the use of SCP-26506.</p>
+<ul>
+<li><strong>Begin Log</strong></li>
+</ul>
+<p><strong>Dr. Schwarz:</strong> Good morning. How are you feeling today?</p>
+<p><strong>SCP-26506-A:</strong> A bit confused, but I'm okay. What's all this about?</p>
+<p><strong>Dr. Schwarz:</strong> We're here to discuss your... unique ability. Tell me, when did you first discover you could perform this 'airdash'?</p>
+<p><strong>SCP-26506-A:</strong> About two weeks ago? It just happened. I was crossing the street, nearly got hit by a car and just <em>woosh</em>, I was on the other side, like a freakin’ superhero. Scared the hell out of me.</p>
+<p><em>[REDACTED for brevity and personal identifiable information]</em></p>
+<p><strong>Dr. Schwarz:</strong> How often have you used this ability since then?</p>
+<p><strong>SCP-26506-A:</strong> A few times a day? It's kinda addicting, honestly, feeling the air just slip around you like that...</p>
+<p><strong>Dr. Schwarz:</strong> Have you noticed any changes in how you perceive your surroundings or in your physical health?</p>
+<p><strong>SCP-26506-A:</strong> Mm, not really. I gotta be careful, though. I ran into a wall once, and it was not pretty.</p>
+<p><em>[Interview continues, focusing on psychological and sensory experiences during SCP-26506 use]</em></p>
+<ul>
+<li><strong>End Log</strong></li>
+</ul>
+<h3>Addendum 3: Experiment Log, Continued</h3>
+<p><strong>Experiment 26506-E-05</strong></p>
+<ul>
+<li><strong>Subject:</strong> D-96257 (transgender woman with sporadic use of SCP-26506)</li>
+<li><strong>Procedure:</strong> Subject asked to perform an airdash while carrying a weight equivalent to 20% of her body mass.</li>
+<li><strong>Result:</strong> Subject managed to airdash two (2) meters before abruptly dropping to the ground, indicating the airdash capability may be limited by the carry-on weight of the subject.</li>
+</ul>
+<p><strong>Experiment 26506-E-06</strong></p>
+<ul>
+<li><strong>Subject:</strong> D-97364 (transgender woman, airdash novice)</li>
+<li><strong>Procedure:</strong> Subject told to attempt to airdash in an aquatic environment (swimming pool).</li>
+<li><strong>Result:</strong> Subject was unable to initiate the airdash while submerged. This suggests the ability is atmospheric or restricted to environments with certain densities or compositions.</li>
+</ul>
+<p><em>[Further experiments logged with various control conditions aiming to delineate the limitations and mechanics of SCP-26506]</em></p>
+<p><strong>Note for future research:</strong> Potential investigation for a memetic component to SCP-26506's spread and any possible connection to recent anomalies detected in digital media trends.</p></div>
