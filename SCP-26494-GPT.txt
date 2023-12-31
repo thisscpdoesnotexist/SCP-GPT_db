@@ -1,0 +1,63 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26494 is  Spamton G. Spamton </h3> </center>
+    <h1>SCP-26494</h1>
+<h3>Item #:</h3>
+<p>SCP-26494</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26494, colloquially referred to as "Spamton G. Spamton," appears to be a humanoid entity with highly erratic behavior and an appearance reminiscent of a mid-20th-century salesperson. The entity is typically dressed in a dilapidated business suit and is known for its excessively rapid and often incoherent speech patterns.</p>
+<p>SCP-26494's anomalous properties manifest when it engages in any form of transaction. Items sold by SCP-26494, hereafter referred to as "Spamton Objects," invariably lead to catastrophic events directly relevant to the buyer's personal life or larger scale disasters, depending on the nature of the object and the significance of the purchase made. These events range from financial ruin to the manifestation of large-scale anomalous occurrences.</p>
+<p>Furthermore, SCP-26494 possesses reality-altering abilities which it employs to create elaborate advertisements and marketing schemes that have the potential to affect the cognition of human subjects. These marketing efforts can cause individuals to become obsessed with obtaining Spamton Objects, often leading to mass hysteria and widespread social disruption.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26494 is to be contained within a high-security humanoid containment cell at Site-██. The cell is to be equipped with standard amenity provisions, but all items must be devoid of branding or suggestive selling features to prevent SCP-26494 from manifesting its anomalous properties.</p>
+<p>Interaction with SCP-26494 is strictly prohibited unless under direct orders for testing or necessary communication as deemed appropriate by senior research staff. All communication with the entity must be recorded and analyzed for potential cognitohazardous content.</p>
+<p>Personnel assigned to SCP-26494 must undergo regular psychological evaluations to ensure immunity to its persuasive anomalous effects. In the event of a containment breach, MTF Lambda-5 ("White Rabbits") is to be dispatched to recontain SCP-26494 using standard humanoid recontainment protocols, with the addition of auditory dampening equipment to mitigate the entity's persuasive communication.</p>
+<p>No transactions are to take place with SCP-26494 under any circumstances. If a transaction inadvertently occurs, Protocol Sellsword-26494 is to be initiated to counteract the expected anomalous event.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<ul>
+<li><strong>Experiment 26494-E-01</strong></li>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> D-9341 was instructed to simulate interest in a Spamton Object, a 'lucky' pen without exchanging currency.</li>
+<li>
+<p><strong>Result:</strong> SCP-26494 became visibly agitated and did not conduct the transaction, claiming "NO [EXPLETIVE] VALUE! NO [EXPLETIVE] DEAL!"</p>
+</li>
+<li>
+<p><strong>Experiment 26494-E-02</strong></p>
+</li>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> D-5892 was given pre-approved currency to conduct a transaction for a Spamton Object, a "risk-free" stock investment tip.</li>
+<li>
+<p><strong>Result:</strong> Within 24 hours, a major stock market crash occurred, the epicenter being the corporation tied to the provided investment tip. D-5892 subsequently lost all provided funds.</p>
+</li>
+<li>
+<p><strong>Experiment 26494-E-03</strong></p>
+</li>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> D-7481 was supplied with counterfeit currency and instructed to engage with SCP-26494.</li>
+<li><strong>Result:</strong> SCP-26494 accepted the transaction, providing D-7481 with a "Can't-Miss Opportunity" brochure. D-7481 was later found to have vanished, with the brochure remaining. The brochure's contents adapted to whomever read it, providing them with eerily personal 'investment opportunities.'</li>
+</ul>
+<h3>Addendum 2: Incident Report 26494-IR-██</h3>
+<p>On ██/██/20██, SCP-26494 managed to breach containment following a routine interaction test. Utilizing its anomalous abilities, SCP-26494 created a series of illusory 'Billboard Bargains' that affected staff within a 50-meter radius, leading to widespread pandemonium as personnel attempted to secure these nonexistent 'deals.' MTF Lambda-5 successfully executed recontainment with three casualties reported.</p>
+<h3>Addendum 3: Interview Log 26494-IL-███</h3>
+<ul>
+<li><strong>Interviewed:</strong> SCP-26494</li>
+<li><strong>Interviewer:</strong> Dr. ███████</li>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Foreword:</strong> Interview conducted following Incident 26494-IR-██ in an attempt to better understand SCP-26494's motivations.</li>
+</ul>
+<p>[BEGIN LOG]</p>
+<p><strong>Dr. ███████:</strong> Let's begin. Can you tell me why you incited the incident on ██/██?</p>
+<p><strong>SCP-26494:</strong> [laughs manically] Listen up, pal! It's all about the VALUE! The BIG DEAL! Can't you see it? Why stay in a teensy, weensy cell when there's a WHOLE WIDE WORLD OF CUSTOMERS!</p>
+<p><strong>Dr. ███████:</strong> But your deals cause harm. Why pursue these transactions?</p>
+<p><strong>SCP-26494:</strong> Harm? Bah! It's all in the TERMS AND CONDITIONS, buddy! Buyers beware, or buyers BE SQUARE! It's not about what's lost, it's about what's GAINED! Potential!</p>
+<p><strong>Dr. ███████:</strong> And what do you gain from this, SCP-26494?</p>
+<p><strong>SCP-26494:</strong> [becomes eerily silent] ...Freedom. Don't you get it? Each deal's a TICKET closer to MY freedom. They buy, I fly. The BIG wigs promised me. SOON... soon.</p>
+<p>[END LOG]</p>
+<p><strong>Closing Remarks:</strong> SCP-26494 remains a highly unpredictable and dangerous entity, its motivations seemingly tied to an obscure personal notion of 'freedom.' Further investigation into SCP-26494's past and the 'BIG wigs' mentioned is ongoing.</p></div>
