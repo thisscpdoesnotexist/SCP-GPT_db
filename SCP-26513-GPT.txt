@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26513 is  the alternate universe where SilvaGunner rips all of his music from </h3> </center>
+    <p>```</p>
+<h3>Item #:</h3>
+<p>SCP-26513</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-26513 is an extradimensional reality that is functionally identical to our own, with the notable exception of differences in various pieces of recorded music. These musical differences manifest as parodic or altered versions of known compositions, which typically retain the fundamental structure and genre of the original pieces but include unexpected elements, such as memes, digital alterations, or incongruous genre mixing.</p>
+<p>The point of divergence between SCP-26513 and our reality appears to be contained within musical history. Cultural, political, and historical trajectories are seemingly unchanged, making the musical alterations anomalous. Recordings from SCP-26513 can be accessed through a specific set of auditory equipment that was recovered by the Foundation. It is hypothesized that this equipment, designated SCP-26513-1, facilitates a connection to broadcasting systems within SCP-26513.</p>
+<p>The parodic nature of the musical compositions in SCP-26513 closely mirrors the content published by an individual or group known as "SilvaGunner" in our reality. It is currently unknown if "SilvaGunner" exists within SCP-26513 or whether the music originates in that reality and somehow influences production in our own.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26513-1 is held in a standard containment locker at Site-77. Access to SCP-26513-1 is restricted to Level 2 personnel and higher for research purposes and must be approved by at least one Level 3 researcher. Testing with SCP-26513-1 must be conducted in a soundproof recording studio to prevent the inadvertent release of audio anomalies into the public domain.</p>
+<p>Amnestics are to be administered to any unauthorized personnel who come into contact with SCP-26513-1's audio output. The Foundation's Cybersecurity and Counterintelligence Teams are tasked with monitoring internet activity for any public uploads that may suggest a breach of SCP-26513's music, with a particular focus on channels known for parody content, such as the "SilvaGunner" YouTube channel.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 26513-A:</strong>
+- <strong>Objective:</strong> To determine whether SCP-26513-1 only accesses existing recordings or if it can produce live broadcasts from SCP-26513.
+- <strong>Procedure:</strong> SCP-26513-1 was activated while tuned to the frequency of a popular music radio station's counterpart in SCP-26513.
+- <strong>Result:</strong> The station played a mix of altered and unaltered songs. No live DJs or announcers were heard, suggesting either a reliance on pre-recorded material or a possible divergence in radio broadcasting standards.</p>
+<p><strong>Experiment 26513-B:</strong>
+- <strong>Objective:</strong> To assess the variety of genres affected by musical alterations in SCP-26513.
+- <strong>Procedure:</strong> Researchers cataloged music genres and played corresponding tracks from SCP-26513-1.
+- <strong>Result:</strong> Alterations were found across all tested genres, with certain themes common in alteration choices, indicating a universal yet discerning factor in the anomaly's influence.</p>
+<p><strong>Experiment 26513-C:</strong>
+- <strong>Objective:</strong> To observe the reaction of a D-class with self-professed expertise in musical production when exposed to an SCP-26513 musical piece.
+- <strong>Procedure:</strong> D-9834 was played a selection of altered compositions from SCP-26513.
+- <strong>Result:</strong> D-9834 expressed initial confusion followed by amusement. They recognized the underlying songs but were astounded by the "meme culture craftsmanship" of the alterations.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewed:</strong> D-9834<br>
+<strong>Interviewer:</strong> Dr. Alvarez<br>
+<strong>Subject:</strong> Debriefing following exposure to SCP-26513's music</p>
+<p><strong><Begin Log></strong></p>
+<p>Dr. Alvarez: How would you describe your initial reaction to the music from SCP-26513?</p>
+<p>D-9834: It was like hearing a song you know back to front, but someone's messed with it, you know? The first one had this intense classical vibe but then—BAM!—Rick Astley starts belting out, like it’s all part of the plan.</p>
+<p>Dr. Alvarez: Did you find the alterations to be disruptive to the original compositions?</p>
+<p>D-9834: Disruptive? Nah, more like a wild twist. Like a good joke, they hit you where you least expect it. Bet these tracks would kill at a party—catch everyone off guard.</p>
+<p>Dr. Alvarez: In your opinion, what's the purpose of these alterations?</p>
+<p>D-9834: Entertainment? Maybe some sort of commentary? I mean, this kind of stuff would go viral here, easy.</p>
+<p><strong><End Log></strong></p>
+<h3>Addendum 3: Recovery of SCP-26513-1</h3>
+<p>SCP-26513-1 was recovered from an abandoned recording studio in [REDACTED], following reports of anomalous audio phenomena. Local musicians had spread rumors of a "haunted mixing board" that played music never intended to be released. Foundation agents contained SCP-26513-1 after a brief investigation.</p>
+<p>It is theorized that SCP-26513-1 was created deliberately to bridge the gap between SCP-26513 and our reality, though the intentions and identity of its creator(s) remain unknown.
+```</p></div>
