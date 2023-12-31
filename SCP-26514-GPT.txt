@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26514 is  a parasitic song that gets stuck in your head… and eventually takes over from the inside. Several variants have already been documented. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26514</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26514 is an anomalous cognitohazard manifesting as an auditory phenomenon, commonly referred to as an "earworm." The SCP is characterized by its ability to not only persist in the memory of those exposed but also to exert increasing influence over their cognitive functions and behavior over time.</p>
+<p>Upon listening to SCP-26514, subjects report an inability to dislodge the melody from their consciousness. Standard methods of distraction or replacement with other music are ineffective. Over the course of several days to weeks, SCP-26514 begins to influence the subject’s actions, emotions, and eventually, higher cognitive processes, often leading to extreme obsessive compulsive behaviors revolving around the propagation of SCP-26514.</p>
+<p>SCP-26514 has demonstrated the capacity to spread both directly and indirectly. Direct transmission occurs when an individual hears the song from an infected host, either hummed, sung, or in some cases, played through an electronic device. Indirect transmission has been documented through digital media, radio transmissions, and even text-based descriptions of the melody. Several variants of SCP-26514 have been documented, with minor variations in melody and lyrics, but all maintain the core anomalous properties.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Monitoring and suppression of SCP-26514 manifestations across all forms of media are of paramount importance. Foundation net-crawlers and algorithmic agents, designated as Foundation Audio Anomaly Censors (FAAC), are deployed across the internet, radio stations, and other digital transmission mediums to identify and neutralize instances of SCP-26514 before widespread exposure.</p>
+<p>Persons found to be infected with SCP-26514 are to be contained within soundproof isolation cells at Site-██. The use of white noise and complex nonrepetitive music has shown some efficacy in delaying the progression of SCP-26514's effects. Psychological therapy and memetic counter-agents are under continuous development and should be updated in procedural manuals as advancements are made.</p>
+<p>No personnel with known susceptibility to auditory cognitohazards are allowed to interact directly with SCP-26514-infected subjects or recordings. All research personnel are required to undergo mandatory psychological evaluations following exposure to any SCP-26514-related material.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 1 - Date:</strong> ██/██/20██
+<strong>Subject:</strong> D-9821
+<strong>Procedure:</strong> Subject was exposed to SCP-26514 through headphones. The volume was set to a moderate level, and the subject was instructed to transcribe the music heard.
+<strong>Results:</strong> Subject began to transcribe the melody correctly. Within three hours, D-9821 was observed humming the tune unconsciously. After 24 hours, D-9821's behavior became erratic, focused solely on sharing the song with others.
+<strong>Notes:</strong> Subjects' capacity to recognize the compulsive nature of their actions seems significantly impaired.</p>
+<p><strong>Experiment 2 - Date:</strong> ██/██/20██
+<strong>Subject:</strong> D-8776
+<strong>Procedure:</strong> Subject was exposed to the lyrics of SCP-26514 in written form without accompanying music.
+<strong>Results:</strong> D-8776 reported hearing the melody internally within two hours, despite never having been audibly exposed. Compulsions developed similarly to auditory exposure within 36 hours.
+<strong>Notes:</strong> This confirms SCP-26514's ability to infect subjects through non-auditory vectors.</p>
+<p><strong>Experiment 3 - Date:</strong> ██/██/20██
+<strong>Subject:</strong> D-4351
+<strong>Procedure:</strong> Subject was given both audio white noise and high complexity algorithmically generated music after exposure to SCP-26514.
+<strong>Results:</strong> The progression of the SCP’s effects was delayed by approximately 48 hours, but not halted.
+<strong>Notes:</strong> Although the delay is advantageous, search for a permanent cure is imperative.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p>[Interview Log - Subject: D-99342 (Holte)]
+[Procedure: Interview conducted in an anechoic chamber, sign language used to communicate]</p>
+<p><strong>Dr. Ameen:</strong> Good morning, D-99342. Can you tell me what you are experiencing right now?</p>
+<p><strong>D-99342:</strong> (Signs frantically) The song... it's all I can think about. </p>
+<p><strong>Dr. Ameen:</strong> We've noticed you've been trying to communicate the melody to others. Can you express why?</p>
+<p><strong>D-99342:</strong> (Pauses, signs with a tremor) It feels... necessary. Like breathing. If I don't, I— (Subject begins to exhibit signs of distress)</p>
+<p><strong>Dr. Ameen:</strong> You must resist. We're working on a way to—</p>
+<p><strong>D-99342:</strong> (Interrupting) You don't understand. It's beautiful, it's consuming, it's— (Subject’s hands convulse and signing becomes erratic)</p>
+<p><strong>Dr. Ameen:</strong> Holte, focus on me. Avoid thinking of the tune. I need you to—</p>
+<p><strong>D-99342:</strong> (Desperation in motions) I can't! It wants out! It wants everyone to hear it... (Subject breaks down)</p>
+<p><strong>Dr. Ameen:</strong> (Continues questioning but receives no coherent responses)</p>
+<p>[The interview is terminated as D-99342 becomes nonresponsive to visuals and continues exhibiting compulsive movements consistent with attempts to audibly produce SCP-26514.]</p>
+<h3>Addendum 3: Iterative Research Efforts &amp; Updates</h3>
+<p>Ongoing research into SCP-26514 has focused on potential neurological resistance factors, the development of advanced memetic countermeasures, and the psychological impact on affected individuals. Several pharmacological treatments have been tested, with minimal success. The ethics committee has authorized the use of amnestics in extreme cases, including experimental memory suppression techniques.</p>
+<p>The potential for weaponization of SCP-26514 by Groups of Interest or individuals remains a priority concern for the Foundation, and all containment and neutralization efforts are to be conducted under the highest security protocols. All research personnel involved with SCP-26514 are reminded of the critical need for discretion and strict adherence to containment protocols. For any updates on the containment and management of SCP-26514, refer to document SCP-26514-UPDATE-███.</p></div>
