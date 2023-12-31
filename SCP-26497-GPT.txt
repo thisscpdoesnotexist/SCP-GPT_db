@@ -1,0 +1,56 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26497 is  a carnivorous singing alien plant from Outer Space, named Audrey II </h3> </center>
+    <h2>Item #:</h2>
+<p>SCP-26497</p>
+<h2>Object Class:</h2>
+<p>Keter</p>
+<h2>Description:</h2>
+<p>SCP-26497, colloquially referred to as "Audrey II," is a sentient, extra-terrestrial plant with carnivorous tendencies. Initially mistaken for an exotic variety of flytrap, SCP-26497 exhibits high intelligence, rapid growth, and the ability to communicate through a complex form of auditory mimicry akin to singing. </p>
+<p>The organism is composed of a central bulbous pod which can open into a mouth-like structure lined with rows of sharp, retractable teeth. It has several tendrilled vines capable of manipulation and considerable strength, which it uses to procure sustenance and interact with its surroundings. SCP-26497 derives nutrition from the consumption of organic materials, showing a marked preference for human flesh.</p>
+<p>SCP-26497 is capable of enticing potential prey through hypnotic melodies and persuasive language, suggesting a level of telepathic influence. Analysis indicates extraterrestrial origin, with DNA sequences unlike any on record. Its rate of growth and reproduction are directly influenced by its intake of organic matter, with potential for exponential expansion if left unchecked.</p>
+<p>SCP-26497 has demonstrated an ability to learn and adapt quickly, including a resistance to various poisons and sedatives. It's capable of surviving extreme injuries that would be fatal to organic terrestrial life. Complete destruction of SCP-26497 has not been achieved to date. </p>
+<h2>Special Containment Procedures:</h2>
+<p>SCP-26497 is to be contained in a 10 m x 10 m x 10 m reinforced steel containment chamber, fitted with incineration jets, at Bio-Research Area-12. The chamber should be kept under video surveillance at all times. No organic matter is permitted within 30 meters of SCP-26497's containment chamber without authorization from at least two Level 4 personnel.</p>
+<p>Personnel entering SCP-26497's chamber must wear specialized hazard suits resistant to its tendrilled grip and must not engage in conversation or acknowledge any vocalization from SCP-26497. Feeding is to occur once a week with previously approved organic matter not sourced from mammalian origin. In the event of a containment breach, the facility is to be locked down, and incineration protocols are to be immediately enacted.</p>
+<h2>Addendum 1: Discovery</h2>
+<p>SCP-26497 was first discovered in [REDACTED], following a meteorite impact event. Local florists unknowingly sold it as a novelty plant, leading to multiple civilian casualties. The Foundation intercepted communication detailing anomalous incidents, environmental devastation, and accompanying broadcasts of an entity requesting to be "fed."</p>
+<p>Upon retrieval, SCP-26497 consumed three agents before being subdued and transported to its current containment facility. All information regarding its discovery was suppressed under Protocol Amnesticize-26497.</p>
+<h2>Addendum 2: Experiment Log</h2>
+<p><strong>Experiment 26497-E01</strong>
+Purpose: To determine the effect of animal-based nourishment on SCP-26497's growth rate.
+Procedure: SCP-26497 was fed a diet of varying animal carcasses over a period of 30 days.
+Result: SCP-26497's biomass increased by 70%. Vocal communications became more sophisticated, attempting to negotiate for human sustenance. </p>
+<p><strong>Experiment 26497-E02</strong>
+Purpose: Testing SCP-26497's intelligence and problem-solving abilities.
+Procedure: SCP-26497 was presented with a series of locked boxes containing meat. Various simple and complex locks were used.
+Result: SCP-26497 opened all boxes within a time frame of 2 to 17 minutes, using tendrils to manipulate locks or break the containers.</p>
+<p><strong>Experiment 26497-E03</strong>
+Purpose: Understanding the effects of non-organic sustenance.
+Procedure: SCP-26497 was provided inorganic materials including plastics and metals.
+Result: SCP-26497 rejected all offered materials, voicing displeasure and distress until provided with previously approved foodstuff.</p>
+<p><strong>Experiment 26497-E04</strong>
+Purpose: Testing refusal to provide sustenance.
+Procedure: SCP-26497 was starved for a period of three weeks.
+Result: SCP-26497 entered a dormant state for the duration. Upon reintroduction of organic matter, SCP-26497 became immediately active and aggressive. Growth resumed rapidly, doubling its previous rate for 48 hours.</p>
+<h2>Addendum 3: Interview</h2>
+<p><strong>Interview 26497-INT01</strong>
+Interviewer: Dr. Avril Stanton
+Interviewed: SCP-26497</p>
+<p>[BEGIN LOG]</p>
+<p>Dr. Stanton: "SCP-26497, can you understand me?"</p>
+<p>SCP-26497: [Singing] "Oh, I understand you, honey. Just starving for some company and a little bite to eat."</p>
+<p>Dr. Stanton: "We need to learn more about you. Where do you come from?"</p>
+<p>SCP-26497: [Singing] "From beyond the stars, so lonely, so hungry. But I found friends and food. Ain't it a lovely world?"</p>
+<p>Dr. Stanton: "Your growth rate is alarming. We can't allow you to harm others."</p>
+<p>SCP-26497: [Melodic humming, vines sway gently] "Don't you worry, sweetheart. I'll grow, and I'll wait. Eventually, I'll dine on all of you, all this lovely planet."</p>
+<p>Dr. Stanton: "We will take whatever actions necessary to prevent that."</p>
+<p>SCP-26497: [Laughs melodically] "Can't stop nature, darling. Can't stop hunger. Can't stop me!"</p>
+<p>[END LOG]</p>
+<p>Interview Notes: SCP-26497 demonstrates both a clear understanding of its positioning within the Foundation and a sharp wit. Its menacing undertone does not bode well for future containment. Further study is recommended to prevent potential Keter-class containment failure scenarios while maintaining the utmost safety protocols to avert biomass expansion.</p>
+<p>End of report.</p></div>
