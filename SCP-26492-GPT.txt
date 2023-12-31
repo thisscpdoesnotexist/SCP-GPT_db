@@ -1,0 +1,35 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26492 is  Spamton G. Spamton </h3> </center>
+    <p>```markdown</p>
+<h3>Item #:</h3>
+<p>SCP-26492</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26492, colloquially referred to as "Spamton G. Spamton," is a sentient entity with a physical appearance resembling a distorted humanoid puppet. The entity is capable of high-speed data manipulation, reality warping, and inducing psychological distress through digital and telepathic communication. SCP-26492 was first discovered in [REDACTED], following reports of a series of anomalous cyber-attacks and mental breakdowns among local populations. The entity appears to have originated from within a digital space, exhibiting a strong affinity for electronic devices and networks.</p>
+<p>SCP-26492's physical form is characterized by exaggerated facial features, including wide, unblinking eyes and an overly broad smile filled with numerous small, sharp teeth. Its limbs are elongated and appear to be controlled by unseen strings, suggesting marionette-like movement. SCP-26492's clothing resembles that of a disheveled businessman, with a pattern of shifting, glitched textures.</p>
+<p>Communication with SCP-26492 is erratic and often nonsensical, with the entity frequently referring to itself in the third person and speaking in a mixture of garbled electronic tones and human speech. The content of its communication is typically related to sales pitches for non-existent products and services, deals it claims are "too good to refuse," and cryptic warnings about the nature of reality and freedom.</p>
+<p>SCP-26492 has demonstrated the ability to infiltrate and control digital systems with ease, alongside an unpredictable level of influence over the physical world. It has shown instances of teleportation, materialization of objects, and temporary alterations to its immediate environment. Witnesses of SCP-26492's abilities often suffer from severe mental trauma, with symptoms including paranoia, delusions, and persistent auditory hallucinations.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the highly adaptive and unpredictable nature of SCP-26492, it is contained in a specialized, multi-layered containment cell within Site-██. The cell is designed to prevent any form of digital or telepathic transmission from entering or exiting. It is lined with a combination of Faraday mesh and telepathic dampening materials to disrupt SCP-26492's abilities.</p>
+<p>All electronics and network-capable devices are prohibited within a 500-meter radius of the containment area. Any communication with SCP-26492 must be conducted through an analog intercom system and recorded for analysis. Only personnel with Level 4 security clearance and proper mental conditioning are permitted to interact directly with SCP-26492.</p>
+<p>In the event of a containment breach, Site-██ is to enter a complete lock-down, and MTF Gamma-5 ("Red Herrings") is to be mobilized for immediate recontainment. All affected systems are to be isolated and purged to prevent further influence by SCP-26492.</p>
+<h3>Addendum 1: Interview Log 26492-01</h3>
+<p>_Interviewer: [REDACTED], Date: [REDACTED]</p>
+<p>[The transcript of the interview is heavily redacted due to the sensitive information disclosed by SCP-26492. Key points indicate that the entity possesses knowledge on the structure of reality and the SCP Foundation that it should not have given its limited interaction with our world. Its responses were erratic but seemed to convey a sense of urgency and cryptic warnings.]_</p>
+<h3>Addendum 2: Experiment Log 26492-A</h3>
+<ul>
+<li><strong>Experiment A-1:</strong> Testing of SCP-26492's data manipulation capabilities. The entity successfully infiltrated and took control of an isolated computer within 2.34 seconds, despite advanced cybersecurity measures.</li>
+<li><strong>Experiment A-2:</strong> Exposure of D-Class personnel to SCP-26492 to assess its influence on human psychology. Subjects reported severe discomfort and disorientation. Post-exposure, subjects exhibited signs of extreme paranoia and needed to be sedated.</li>
+<li><strong>Experiment A-3:</strong> Application of a "memetic kill agent" to determine its effect on SCP-26492. The entity displayed initial signs of distress but quickly adapted and nullified the agent.</li>
+<li><strong>Experiment A-4:</strong> Investigation into SCP-26492's reality warping capabilities. It created several small objects ex nihilo, which disappeared after it was returned to containment.</li>
+</ul>
+<h3>Addendum 3: Recovery Operation 26492-R</h3>
+<p><em>On [REDACTED], a recovery operation led by MTF Gamma-5 was initiated after it was discovered that SCP-26492 had breached containment. The full scope of the breach remains classified; however, reports indicate that SCP-26492 had influenced a wider digital network outside of the Foundation's control. Agents were eventually successful in re-containment, but analysis of the incident continues to uncover the breadth of SCP-26492's capabilities.</em>
+```</p></div>
