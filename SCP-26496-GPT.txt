@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26496 is  a shrunken head that curses people to have chibi proportions (shrunken body and enlarged head) </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26496</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26496 is an anomalous object resembling a shrunken human head, consistent with those created by Jivaroan tribes of South America, typically known as "tsantsas." However, SCP-26496 is unique due to its anomalous properties. When a person views SCP-26496 directly or via a photograph for longer than 30 seconds, they will undergo a rapid physiological transformation, referred to as SCP-26496-1 instances.</p>
+<p>Transformation into an SCP-26496-1 instance involves the disproportionate shrinking of the body and the enlargement of the head, giving affected individuals a cartoonish, 'chibi' like appearance. This change is permanent and cannot be reverse engineered with current medical or scientific knowledge.</p>
+<p>Affected individuals report heightened emotional sensitivity but retain their original intellect and consciousness. No lasting psychological harm appears inherent to the transformation, but societal adjustment has proven difficult for instances of SCP-26496-1. SCP-26496-1 instances also seem to retain their pre-transformation strength and agility, despite their altered body proportions.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26496 is to be contained within a standard secure locker at Site ██. The object must be sealed in an opaque container to prevent accidental exposure to its anomalous effects. Direct visual or photographic observation of SCP-26496 is restricted to D-class personnel under controlled conditions for testing purposes only.</p>
+<p>Personnel entering SCP-26496's containment chamber are required to wear blindfolds at all times, with the chamber itself to be fitted with motion sensors to ensure that accidental exposure does not occur during entry or maintenance activities. In the unlikely event of accidental exposure, personnel are to be administered Class C amnestics and transferred to the humanoid containment wing if transformation ensues.</p>
+<p>The containment chamber should be inspected biweekly for any signs of deterioration in the containment apparatus. In addition, a digital camera system set to take pictures at an angle ensuring no direct line of sight exists, is in place to help ascertain the current status of SCP-26496 without risking exposure.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Experiment Log 26496-E</strong></p>
+<p><strong>Experiment #26496-E-001</strong>
+- <strong>Subject</strong>: D-98123
+- <strong>Procedure</strong>: Subject instructed to observe SCP-26496 directly for 30 seconds.
+- <strong>Results</strong>: Subject successfully transformed into SCP-26496-1 instance; prominent emotional responses noted. No physical distress reported.
+- <strong>Notes</strong>: "Subject's facial expressions are highly exaggerated, seemingly aligning with the cartoonish appearance." — Dr. █████</p>
+<p><strong>Experiment #26496-E-002</strong>
+- <strong>Subject</strong>: D-80244
+- <strong>Procedure</strong>: Subject exposed to photograph of SCP-26496 for 40 seconds.
+- <strong>Results</strong>: Subject transformed into SCP-26496-1 instance. Psychological evaluations indicate stress due to transformation.
+- <strong>Notes</strong>: "Transformation persists regardless of direct or indirect viewing. Containment protocol amendment proposed." — Dr. ██████</p>
+<h3>Addendum 2:</h3>
+<p><strong>Interview Log 26496-I</strong></p>
+<p><strong>Interviewed</strong>: D-98123, now an instance of SCP-26496-1.
+<strong>Interviewer</strong>: Dr. █████</p>
+<ul>
+<li><strong><Begin Log></strong></li>
+<li><strong>Dr. █████</strong>: How are you feeling today, D-98123?</li>
+<li><strong>D-98123</strong>: I'm fine, Doc, just... look at me. This is ridiculous!</li>
+<li><strong>Dr. █████</strong>: I understand this is challenging. Can you describe any changes in your physical abilities?</li>
+<li><strong>D-98123</strong>: I'm just as strong as before, and I can move around, but... my head, it's so heavy. Balancing is tricky.</li>
+<li><strong>Dr. █████</strong>: Any changes in your sensory or cognitive functions?</li>
+<li><strong>D-98123</strong>: Everything's louder, tastes are stronger. It's like everything's dialed up to eleven. Aside from that, I'm still me. I remember everything.</li>
+<li><strong>Dr. █████</strong>: Thank you. We're trying to understand how to reverse this, I promise.</li>
+<li><strong>D-98123</strong>: Doc, just don't let this thing out, okay? Nobody else should go through this...</li>
+<li><strong><End Log></strong></li>
+</ul>
+<p><strong>Notes</strong>: "SCP-26496's effect might amplify sense reception in addition to morphological changes. Further research required." — Dr. █████</p>
+<h3>Addendum 3:</h3>
+<p><strong>Incident Report 26496-A</strong></p>
+<p>On ██/██/20██, a containment breach occurred due to a malfunction in the camera system, allowing SCP-26496 to be briefly visible on a monitor in the surveillance room. The individual monitoring the cameras at the time was exposed to SCP-26496's direct visual influence, ultimately resulting in transformation into an SCP-26496-1 instance. This event led to an immediate review and upgrade of containment measures to prevent similar future occurrences. Personnel affected by the event have been reassigned and given appropriate support for their new circumstances.</p></div>
