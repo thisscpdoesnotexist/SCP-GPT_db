@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26495 is  Inner Space (the opposite of outer space) </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26495</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26495, coined "Inner Space," refers to a spatial anomaly characterized by its paradoxical interior dimensions. It is located within a seemingly typical 20th-century industrial warehouse in ████████, █████. The exterior of the structure appears conventional for its age and type; however, the interior breaches known physical laws, extending into an area vastly exceeding the external boundaries. The space inside SCP-26495 exhibits a pocket dimension, effectively functioning in opposition to the familiar expanse of outer space. </p>
+<p>When subjects enter SCP-26495, they report and document an infinite, starless void with a breathable atmosphere and survivable ambient pressure and temperature. Subjects inside can converse normally with no need for specialized equipment, despite any scientific explanation for the transmission of sound. Light within SCP-26495 behaves erratically. Artificial light sources often reveal a horizon line that constantly recedes as one approaches, and subjects report no natural light source despite sufficient illumination to navigate by.</p>
+<p>Exploration has revealed intermittent structures within SCP-26495 resembling portions of known Earthly buildings and constructions in various states of ruin or incompleteness. No celestial bodies have been observed, but floating islands of various terrain types, some harboring Earth-like flora, do occasionally drift within the vast emptiness. It is unknown whether SCP-26495 naturally formed or is the creation of an intelligent entity or entities. Its origins, purpose, and full nature remain unexplained as of the last exploration log.</p>
+<p>Efforts to measure the exact size of SCP-26495 have proven difficult due to its tendency to alter its perceived dimensions in the presence of observers or equipment designed for measurements.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26495 is currently contained on-site, encapsulated by a nondescript 4-meter-high concrete wall topped with a security fence. The entrance is to be sealed with a vault-type door with biometric security to prevent unauthorized entry. A 24/7 surveillance and security team is stationed within a specially constructed observation post located 100 meters from the primary anomaly. Given SCP-26495's manageable entry point, these procedures primarily aim to prevent access by unauthorized personnel.</p>
+<p>Research and exploration of SCP-26495 must be authorized by at least two Level 4 personnel. All such expeditions are to be conducted via remotely controlled drones or by teams of D-class personnel supervised by a dedicated research team. Any personnel entering SCP-26495 must be equipped with GPS trackers, communication devices, and sufficient supplies for extended missions, although GPS has limited functionality within the anomaly. </p>
+<h3>Addendum 1: Exploration Logs</h3>
+<p>Initial discovery logs show that Class-D personnel assigned to exploration reported audiovisual hallucinations and sensations of nonspecific paranoia. Later expeditions equipped with recording technology have yet to corroborate these experiences.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment #26495-03:</h4>
+<p><strong>Subject(s):</strong> 2 D-Class personnel
+<strong>Items Brought:</strong> Standard exploration kit, including food, water, and video recording equipment
+<strong>Results:</strong> Subjects ventured approximately 500 meters from the entrance, reporting a sensation of being "watched" despite no presence detected on video. Subjects successfully returned without incident.</p>
+<h4>Experiment #26495-08:</h4>
+<p><strong>Subject(s):</strong> 1 D-Class personnel
+<strong>Items Brought:</strong> Infrared camera, audio recording equipment, sensory deprivation tools to mitigate potential hallucinations
+<strong>Results:</strong> The subject encountered an unexplained auditory anomaly described as a "mournful wailing," captured on recording equipment. Infrared camera captured fleeting, anomalous heat signatures with no visible source.</p>
+<h4>Experiment #26495-12:</h4>
+<p><strong>Subject(s):</strong> Remotely operated drone carrying a 360-degree camera and LIDAR mapping equipment
+<strong>Results:</strong> Technology failed to map the area consistently. Drone recorded footage of a previously undiscovered "forest" consisting of petrified trees. Drone lost signal after 2 hours and was not recovered.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewed:</strong> D-7312, subject of Experiment #26495-07
+<strong>Interviewer:</strong> Dr. Alannah ████<br />
+<strong><Begin Log></strong></p>
+<p><strong>Dr. Alannah:</strong> Please describe in your own words what you experienced inside SCP-26495.</p>
+<p><strong>D-7312:</strong> It's like being nowhere and everywhere at the same time. You feel like you're walking on solid ground, but there's nothing—just black all around. It messes with your head.</p>
+<p><strong>Dr. Alannah:</strong> You reported the sound of whispers, can you elaborate?</p>
+<p><strong>D-7312:</strong> Yeah, like soft talking, just at the edge of hearing. Couldn't make out what it was saying, but it felt like something—or someone—wanted me to understand.</p>
+<p><strong>Dr. Alannah:</strong> Did you feel any physical presence or see anything that could explain these whispers?</p>
+<p><strong>D-7312:</strong> No, nothing there. No one but me. Just felt colder whenever the whispering started.</p>
+<p><strong>Dr. Alannah:</strong> Thank you. Your testimony will be invaluable in further research.</p>
+<p><strong><End Log></strong></p>
+<p>SCP-26495 continues to be a point of significant research interest, with plans for more structured exploration and experimentation in development.</p></div>
