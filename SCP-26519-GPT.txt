@@ -1,0 +1,51 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26519 is  Three Hitlers, each from a different alternate universe. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26519</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26519 refers to three distinct human male individuals, each an alternate universe counterpart of Adolf Hitler, the leader of Nazi Germany during World War II. These individuals are designated SCP-26519-A, SCP-26519-B, and SCP-26519-C, respectively.</p>
+<p>Each instance of SCP-26519 possesses unique characteristics and knowledge divergent from the historical record of our universe's Adolf Hitler, suggesting they originate from universes with significantly altered historical events. Despite their differences, all three show a capacity for charismatic leadership, strategic planning, and have a propensity for ideological extremism.</p>
+<p>SCP-26519-A, seemingly the youngest, believes in a utopian vision where his ideologies have succeeded globally without significant conflict. SCP-26519-B comes from a reality where Germany won World War II, with severe repercussions for the global order. SCP-26519-C appears to be from a timeline where he failed and was ousted early from power, becoming a radical insurgent leader.</p>
+<p>Due to the potential consequences of their ideologies influencing our reality, combined with their tactical knowledge and leadership capabilities, containment and management of SCP-26519's influence are deemed of utmost importance.</p>
+<h3>Special Containment Procedures:</h3>
+<p>All instances of SCP-26519 are to be contained individually in high-security humanoid containment cells within Site-██. Each cell is to be fortified to withstand aggression from enhanced humanoids and is to be surveilled 24/7 by armed guards. No written work, art, or means of external communication are to be allowed in the containment cells. Any requests from SCP-26519 instances must be approved by no fewer than two Level 4 senior researchers.</p>
+<p>Information suppression protocols are in place to prevent knowledge of SCP-26519's existence from reaching any neo-Nazi or extremist groups. Any attempts to breach containment are to be met with lethal force, as the reemergence of any SCP-26519 instance poses a significant threat to global stability.</p>
+<p>All interaction with SCP-26519 instances is to be conducted through a reinforced barrier and recorded for analysis. No personnel of German descent or with known ideological sympathies are permitted interaction with SCP-26519. Psychological evaluations are mandatory for all staff assigned to SCP-26519 to prevent undue influence.</p>
+<h3>Addendum 1: Interview Log</h3>
+<p><em>The following is a transcript of an interview with SCP-26519-C conducted by Dr. █████.</em></p>
+<p><strong>Dr. █████:</strong> Please state your name for the record.</p>
+<p><strong>SCP-26519-C:</strong> I am who history will remember as Adolf Hitler, but I come from a world where my vision was not understood, where my own people turned against me.</p>
+<p><strong>Dr. █████:</strong> And how do you feel about that?</p>
+<p><strong>SCP-26519-C:</strong> (smirks) It is a temporary setback. Even in defeat, there is knowledge to be gained, strategies to be revised. Your efforts to contain me are just another challenge to overcome.</p>
+<p>[REDACTED FOR BREVITY]</p>
+<p><strong>Dr. █████:</strong> How did you come to be in our world?</p>
+<p><strong>SCP-26519-C:</strong> While my details are incomplete, it seems I've been pulled through a rift—an opportunity, I'd say. Our worlds are not so different, you and I. Given the chance, I can shape this one as well.</p>
+<p><strong>Dr. █████:</strong> That is precisely what we aim to prevent.</p>
+<p><strong>SCP-26519-C:</strong> (laughs) You may try, Doctor, but ideas... ideas do not die easily.</p>
+<p><em>End Log</em></p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><em>The following is an excerpt from an extensive series of experiments designed to determine the influences on and the behavioral patterns of SCP-26519 instances.</em></p>
+<p><strong>Experiment 26519-02</strong><br />
+<strong>Subject:</strong> SCP-26519-A<br />
+<strong>Procedure:</strong> Exposure to historical World War II documentaries.<br />
+<strong>Result:</strong> SCP-26519-A displayed initial confusion, progressing to anger and denial regarding the events depicted, particularly those pertaining to the Holocaust. Subject insisted its ideologies could be achieved without such violence.</p>
+<p><strong>Experiment 26519-07</strong><br />
+<strong>Subject:</strong> SCP-26519-B<br />
+<strong>Procedure:</strong> Introduction to modern political texts on democracy and freedom.<br />
+<strong>Result:</strong> Subject tore the materials apart after reading and began a lengthy speech on the superiority of authoritarian government, which had to be interrupted by security for safety reasons.</p>
+<p><strong>Experiment 26519-13</strong><br />
+<strong>Subject:</strong> SCP-26519-C<br />
+<strong>Procedure:</strong> Simulated political debate with a controlled group of actors trained to counter SCP-26519-C's arguments.<br />
+<strong>Result:</strong> SCP-26519-C exhibited aggressive debating tactics, quickly taking control of the conversation flow. Following the experiment, actors reported a feeling of intimidation and persuasive power from SCP-26519-C's words.</p>
+<p><em>All further experiments are to be approved by the Ethics Committee due to the potential psychological impact on personnel involved.</em></p>
+<h3>Addendum 3: Containment Breach Report</h3>
+<p>On ██/██/████, SCP-26519-B breached containment through an orchestrated attack, exploiting a temporary security system malfunction. SCP-26519-B was recaptured after approximately 12 hours at large but had disseminated significant amounts of propaganda and recruited a small number of followers among the Site-██ personnel.</p>
+<p>As a result of the breach, containment protocols have been updated, and affected personnel were administered Class-C amnestics. Investigations are ongoing into the origins of the security malfunction and potential sympathizers within the Foundation.</p></div>
