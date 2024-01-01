@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26515 is  an alternate universe without the male gender, where all species reproduce asexually </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26515</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-26515 is an alternate universe accessible via a quantum-tunneling device located in the ██████ facility. In SCP-26515, all life forms native to that universe exhibit no sexual dimorphism, and reproduction is solely asexual in nature, operating through a variety of mechanisms depending on the species.</p>
+<p>SCP-26515 is remarkably similar to our own universe in terms of geography and the evolutionary history of the species present therein. However, SCP-26515 diverged from our own evolutionary timeline approximately ██ million years ago, at which point sexually reproducing species ceased to exist, and asexually reproducing equivalents dominated the biosphere.</p>
+<p>No sentient life forms analogous to humans have been discovered in SCP-26515; however, complex ecosystems, including plant life and rich biodiversity in animal analogs, are present. Notably, all species that reproduce sexually in our universe have counterparts in SCP-26515 that reproduce via budding, fragmentation, parthenogenesis, or similar processes.</p>
+<h3>Special Containment Procedures:</h3>
+<p>The entrance to SCP-26515 is to be guarded at all times by two armed security personnel with Level 3 clearance or higher. The quantum-tunneling device is to be deactivated when not in use and is to be activated only for approved experiments and research, under the supervision of Dr. ███████ and at least one other Level 4 researcher.</p>
+<p>All exploratory missions and research projects within SCP-26515 must be approved by the O5 Council. Personnel entering SCP-26515 must undergo a thorough decontamination process upon their return to avoid inter-universal contamination. Biological samples retrieved from SCP-26515 are to be handled in a biosecure environment to prevent any potential cross-contamination with native biota.</p>
+<h3>Addendum 1: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. ███████</p>
+<p><strong>Subject:</strong> Research Assistant ████, who was part of the initial discovery team for SCP-26515</p>
+<p><em>The interview is conducted following the exploration mission that provided definitive proof of the absence of sexual reproduction in SCP-26515.</em></p>
+<p>[Begin Log]</p>
+<p><strong>Dr. ███████:</strong> Can you describe your initial observations upon entering SCP-26515?</p>
+<p><strong>Research Assistant ████:</strong> It was... surreal. The flora and fauna were similar to what we know, but with distinct differences. For instance, we found a bird-like creature that reproduced by splitting into two identical entities.</p>
+<p><strong>Dr. ███████:</strong> Fascinating. Were you able to witness this process?</p>
+<p><strong>Research Assistant ████:</strong> Yes, we recorded it. The whole process took a few hours. Both offspring seemed to retain the memories of the parent, as if their consciousness also split.</p>
+<p><strong>Dr. ███████:</strong> That's remarkable. Did the team observe any signs of distress or confusion in the offspring?</p>
+<p><strong>Research Assistant ████:</strong> Surprisingly no. They acted as if it were completely natural, which, in their world, I suppose it is.</p>
+<p><strong>Dr. ███████:</strong> Indeed. Were there any difficulties encountered during the mission?</p>
+<p><strong>Research Assistant ████:</strong> The usual risks of extranormal exploration—unknown pathogens, potentially aggressive fauna. But we've been trained to deal with that. The absence of human-like entities did simplify things, though.</p>
+<p><strong>Dr. ███████:</strong> Do you see any potential applications for the knowledge gained from SCP-26515?</p>
+<p><strong>Research Assistant ████:</strong> Depending on what we can learn about their asexual reproduction, there could be breakthroughs in genetics, cloning, even agriculture. It's a gold mine of unique biological processes.</p>
+<p><strong>Dr. ███████:</strong> Thank you, Research Assistant ████. Your observations will prove invaluable to our understanding of SCP-26515.</p>
+<p>[End Log]</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26515-A</h4>
+<p><strong>Objective:</strong> Observe the reproduction mechanism in the flora of SCP-26515.</p>
+<p><strong>Procedure:</strong> Botanical specimens resembling the Terran sunflower were isolated and observed over a period of two weeks.</p>
+<p><strong>Result:</strong> The specimens reproduced via a process analogous to autogamy, wherein the organism's own pollen fertilized its ovules. The resulting seeds grew into clones of the parent plant.</p>
+<h4>Experiment 26515-B</h4>
+<p><strong>Objective:</strong> Determine the longevity and health of fauna offspring produced asexually in SCP-26515.</p>
+<p><strong>Procedure:</strong> An animal analogous to the Terran axolotl was monitored from its inception as an offspring following asexual reproduction to maturity.</p>
+<p><strong>Result:</strong> The offspring displayed no significant differences in health or lifespan compared to biparentally reproduced Terran axolotls. Genetic analysis indicated minimal variation between generations, suggesting a highly stable form of reproduction.</p>
+<h4>Experiment 26515-C</h4>
+<p><strong>Objective:</strong> Test cross-universal genetic compatibility.</p>
+<p><strong>Procedure:</strong> Introduction of Earth-based planarian flatworms (Dugesia tigrina), which are capable of both sexual and asexual reproduction, into SCP-26515.</p>
+<p><strong>Result:</strong> The introduced flatworms reverted entirely to asexual fission within █ generations, with sexual structures atrophying and eventually disappearing.</p>
+<h3>Addendum 3: Exploration Log</h3>
+<p>Upon further exploration missions, research teams have documented a wide range of asexually reproducing animal and plant life. The absence of competition for mates has had interesting ecological consequences, with social structures and behaviors evolving in markedly different directions compared to sexually reproducing species.</p>
+<p>The data garnered from SCP-26515 has provided valuable insights into evolutionary biology and ecology, expanding our understanding of potential alien life forms and reproduction methods. No signs of higher intelligence have been found thus far, which has led researchers to speculate on the importance of sexual reproduction in the development of complex social structures and intelligence.</p></div>
