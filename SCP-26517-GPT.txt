@@ -1,0 +1,51 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26517 is  has emerged from the wreckage, bruised and beaten. "And yet, despite everything," she says, coughing up blood, "I stay silly!" </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26517</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26517 appears to be a humanoid entity, approximately 1.7 meters in height and displaying a range of anomalous properties linked to resilience and humor under duress. The subject's origin is unknown, and it bears no distinguishing marks or features that would allow for easy identification or association with any known group or culture. SCP-26517 has demonstrated extreme toughness and an ability to recover from injuries that would be fatal to an average human. However, the most remarkable aspect of SCP-26517 is its compulsion to maintain a lighthearted demeanor in the face of adversity, often making quips or jokes even when experiencing extreme physical harm.</p>
+<p>SCP-26517's anomalous properties manifest both physically and psychologically. Physically, the entity has shown a capacity to survive and rapidly heal from wounds including severe contusions, lacerations, fractures, and even organ damage. Psychologically, SCP-26517 appears locked in a state of constant, irrepressible optimism and humor, frequently downplaying its injuries with comical understatement or jest.</p>
+<p>Attempts to discern whether SCP-26517's resilience is a product of its mental state, or if its mental state is a result of its anomalous resilience, have been inconclusive. The risk arises from the entity's ability to potentially incite insubordination and frivolity in personnel, disrupting operations and challenging containment protocols, hence its classification as Keter.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26517 is to be contained in a standard humanoid containment unit at Site-██. The chamber should be equipped with reinforced walls and be under constant surveillance. Due to the entity's unpredictable nature, direct interaction with SCP-26517 should be limited to essential communication and carried out by personnel with Level 4 security clearance or higher.</p>
+<p>Personnel interacting with SCP-26517 must undergo psychological evaluation before and after contact to assess any potential influence by the entity's anomalous properties. Standard memetic inoculation protocols are to be observed to prevent potential contamination.</p>
+<p>Should SCP-26517 experience an episode of extreme physical trauma, medical staff are to be on standby to provide care, and staff are reminded to maintain professional demeanor regardless of SCP-26517's behavior.</p>
+<p>In the event of a containment breach, use of non-lethal force is authorized to subdue SCP-26517, with a preference for sedatives and tranquilizers to mitigate the entity's regenerative capabilities.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Experiment Log SCP-26517-A:</strong> A series of tests designed to observe the rate and extent of SCP-26517's regenerative abilities.</p>
+<ul>
+<li><strong>Test A-1:</strong> Subject's left hand severed at the wrist. Recovery time documented. Subject maintained humorous commentary throughout.</li>
+<li>
+<p><strong>Result:</strong> Complete regeneration within 2 hours. Subject made multiple puns concerning ‘lending a hand'.</p>
+</li>
+<li>
+<p><strong>Test A-2:</strong> Subject exposed to high-decibel sound waves. Eardrum rupture expected.</p>
+</li>
+<li><strong>Result:</strong> Temporary hearing loss confirmed, followed by full recovery within 45 minutes. Subject joked about "not hearing the end of it”.</li>
+</ul>
+<p>Further tests are to be scheduled pending Ethics Committee approval and updated containment protocols to account for SCP-26517's persistent humorous behavior under duress.</p>
+<h3>Addendum 2:</h3>
+<p><strong>Interview Log SCP-26517-█:</strong> This interview was conducted by Dr. ██████ to better understand the source of SCP-26517's anomalous properties and psychological state.</p>
+<p>[Interview log is redacted for brevity. Summary: SCP-26517 remained evasive regarding its origins, focusing instead on deflecting questions with humor and non-sequiturs.]</p>
+<h3>Addendum 3:</h3>
+<p><strong>Detailed Experiment SCP-26517-B-3:</strong> 
+A more extensive experiment devised to test the limits of SCP-26517's physical resilience and its response to stress under extreme conditions.</p>
+<ul>
+<li><strong>Test B-3-1:</strong> Subject submerged in water to observe respiratory limits.</li>
+<li>
+<p><strong>Result:</strong> Subject remained underwater for upward of two hours without apparent distress before being removed. Upon extraction, SCP-26517 quipped about "seeing how long it could hold its breath for a punchline."</p>
+</li>
+<li>
+<p><strong>Test B-3-2:</strong> Subject placed in a cold chamber to measure response to hypothermic conditions.</p>
+</li>
+<li><strong>Result:</strong> Subject's core body temperature dropped to levels that should induce hypothermia, with no loss of consciousness or apparent discomfort. After 4 hours, SCP-26517 exited with a series of jokes about 'chilling out.'</li>
+</ul>
+<p>Further testing and observation of SCP-26517 are necessary to fully understand the extent of its anomalous properties and to refine containment procedures. All personnel are reminded to document their interactions with SCP-26517 thoroughly and to report any psychological effects experienced during or after contact with the entity.</p></div>
