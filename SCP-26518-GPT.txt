@@ -1,0 +1,40 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26518 is  "so long suckers! i rev up my motorcylce and create a huge cloud of smoke. when the cloud dissipates im lying completely dead on the pavement" </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26518</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26518 is an anomalous entity or phenomenon manifesting upon any individual's declaration of the phrase: "So long suckers! I rev up my motorcycle and create a huge cloud of smoke. When the cloud dissipates I'm lying completely dead on the pavement." This declaration can occur in any language, medium, or format, but must be intentionally communicated with the intent to impress, taunt, or bid farewell. </p>
+<p>The manifestation does not require an actual motorcycle or the ability to create a smoke cloud. Upon the cloud's dispersal, whether real or figuratively described, the individual expressing the phrase (hereinafter referred to as the subject) is found deceased on the nearest flat surface that could be described as a pavement. Death is instantaneous and typically lacks any clear cause; subjects do not exhibit injuries or trauma commonly associated with motorcycle accidents.</p>
+<p>No consistent physiological cause of death among subjects has been identified, leading researchers to theorize that SCP-26518 causes death through a currently unknown form of molecular or existential disruption. Attempts to shield subjects from its effects or to mechanically produce the phrase without human intention have failed to prevent the anomaly's outcomes.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the memetic nature of SCP-26518, containment focuses primarily on suppression of knowledge and prompt intervention. Any circulation of the phrase associated with SCP-26518 is to be monitored and eliminated by web-crawler SCP-26518-Athena, with subsequent amnestic treatment administered to non-Foundation individuals exposed.</p>
+<p>Publications, both digital and print, found to contain or reference the phrase are to be confiscated or destroyed. Media creators, influencers, or individuals with substantial followings are to be monitored for potential dissemination of SCP-26518. Any such individuals expressing an intention to use the phrase are to be detained and amnesticized before they can do so.</p>
+<p>In the event of an instance of SCP-26518, MTF Epsilon-11 ("Nine-Tailed Fox") is to be dispatched to secure the area, administer amnestics to witnesses, and collect the subject's remains for study. Any attempts at reproducing or experimenting with SCP-26518 must be approved by at least two Level 4 personnel and conducted in a controlled environment at Site-███. </p>
+<p>Due to the risk involved in uttering or reproducing the phrase, all documentation pertaining to SCP-26518 is to be written in Epsilon-safe code language designed to prevent accidental activation of its effects.</p>
+<h3>Addendum 1:</h3>
+<h4>Experiment Log SCP-26518</h4>
+<p><strong>Experiment-01:</strong> A D-class subject was provided with full safety gear and directed to recite the phrase. The subject was then found deceased as per SCP-26518's effects. Safety gear showed no signs of damage or use.</p>
+<p><strong>Experiment-02:</strong> A text-to-speech program was used to recite the phrase without human involvement. No manifestation occurred, indicating the necessity of human intent.</p>
+<p><strong>Experiment-03:</strong> The phrase was written and displayed without being spoken. No immediate manifestation occurred; however, a janitorial staff member read the phrase aloud unwittingly and succumbed to SCP-26518's effects. This led to updated containment procedures stressing the importance of information suppression.</p>
+<p><strong>Experiment-04:</strong> Multiple subjects recited the phrase simultaneously. Each subject manifested the effect, suggesting no limit on simultaneous activations.</p>
+<h3>Addendum 2:</h3>
+<h4>Interview Log SCP-26518-Alpha</h4>
+<p><em>(Interviewer: Dr. Hudson, Interviewee: D-class subject D-9812, prior to exposure)</em></p>
+<p><strong>Dr. Hudson:</strong> How do you feel about the upcoming test, D-9812?</p>
+<p><strong>D-9812:</strong> I ain't keen on dying, but I guess I've got no choice, huh?</p>
+<p><strong>Dr. Hudson:</strong> You understand the danger of the phrase?</p>
+<p><strong>D-9812:</strong> Yeah, been drilled into my head enough. Just say it, and that's it, lights out.</p>
+<p><strong>Dr. Hudson:</strong> And you're aware that these experiments help us understand how to better contain such anomalies?</p>
+<p><strong>D-9812:</strong> Sure, doc. Anything to help you folks out. Long as it keeps that weird stuff away from regular people, right?</p>
+<p><em>[The remainder of the interview focuses on procedural details and D-9812's personal background. D-9812 subsequently participated in Experiment-01 and expired as per SCP-26518's manifestation.]</em></p>
+<h3>Addendum 3:</h3>
+<h4>Recovery Log SCP-26518</h4>
+<p>SCP-26518 was first documented in ██████, after a local gang member's attempt at an extravagant departure went awry, resulting in his sudden death and the anomalous effects of SCP-26518 coming to the Foundation's attention. Following this, multiple isolated incidents around the globe prompted a coordinated effort by the Foundation to investigate and subsequently classify SCP-26518 as Keter due to its highly lethal and memetic nature.</p></div>
