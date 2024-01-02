@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26562 is  a violent and non-sentient ghost that takes the form of a chalk outline on the ground </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26562</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26562 is an anomalous entity that presents itself as a chalk outline reminiscent of those commonly used for crime scene investigations. Despite its non-sentient appearance, SCP-26562 exhibits highly aggressive and violent behavior, with the ability to transgress its two-dimensional boundary and affect the three-dimensional space.</p>
+<p>When a living organism approaches within a 5-meter radius of SCP-26562, the entity becomes animate, stretching and contorting its outline in a manner inconsistent with physical laws. It shows a specific predilection for human targets, which results in immediate and intense homicidal aggression. It's theorized that SCP-26562 may possess the ability to absorb some form of energy or life essence from its victims, further increasing its strength and activity levels.</p>
+<p>Actual contact with SCP-26562 has resulted in severe trauma or fatality for the individual involved. The mechanism of lethality appears to be the result of direct interaction with the outline, as victims have been found with chalk substance permeating their bodies at the cellular level, leading to catastrophic systemic failure.</p>
+<p>Post-termination, SCP-26562 will revert to its inert state and relocate to a nearby surface, making containment a significant challenge. It is to be noted that SCP-26562 is not impeded by physical barriers when relocating.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Containment of SCP-26562 is currently focused on isolation and surveillance. The entity is located in a specially constructed underground facility 50 meters beneath [REDACTED], with no less than three security checkpoints with armed personnel. This facility is a 25-meter by 25-meter room lined with non-absorbent, highly durable synthetic material to mitigate relocation potential.</p>
+<p>Access to SCP-26562 is strictly forbidden unless approved for testing by Level 4 personnel or higher. In the event of containment breach, Protocol Beta-4 ("Chalk Erasure") is to be initiated, involving the utilization of high-pressure hoses to dissolve SCP-26562's form and subsequently sanitize the area with a [REDACTED] solution to prevent immediate reforming.</p>
+<p>To avoid triggering SCP-26562's aggression, perimeter sensors have been established to maintain a 10-meter exclusion zone, where no living organism is permitted. Any personnel breaching this zone without proper authorization will face severe disciplinary action and possible termination.</p>
+<h3>Addendum 1:</h3>
+<p><em>Incident Report 26562-03 and Capture Transcript</em></p>
+<p>[Data on initial discovery and capture]</p>
+<h3>Addendum 2:</h3>
+<p><em>Experiment Log</em></p>
+<ul>
+<li>
+<p>Experiment 26562-E1: Introduction of Class-D personnel to the 5-meter radius; immediate aggression observed. Termination of Class-D personnel within 35 seconds of contact.</p>
+</li>
+<li>
+<p>Experiment 26562-E2: Attempted communication using robotic voice synthesizer; no response from SCP-26562, suggesting lack of sentience or communication capabilities.</p>
+</li>
+<li>
+<p>Experiment 26562-E3: Introduction of live animal (Felis catus); SCP-26562 remained inert. No aggression to non-human life forms noted.</p>
+</li>
+<li>
+<p>[Additional Experiments and Results]</p>
+</li>
+</ul>
+<h3>Addendum 3:</h3>
+<p><em>Interview Log 26562-IL01</em></p>
+<p><em>Interview between Dr. ██████ and Officer █████, first responder to the SCP-26562 discovery site.</em></p>
+<p><strong>Dr. ██████:</strong> "Officer, could you recount your experience upon arriving at the scene?"</p>
+<p><em>Officer █████ describes interaction with SCP-26562, unexpected aggressive behavior, and loss of fellow officer.</em></p>
+<p>[Full interview content]</p>
+<p><em>Memo: Due to the highly dangerous nature of SCP-26562, all information must be handled with utmost security. Information containment is essential to preventing public knowledge of SCP-26562 and potential mass panic.</em></p></div>
