@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26561 is  a violent and non-sentient ghost possessing a chalk outline on the ground. </h3> </center>
+    <h1>SCP-26561</h1>
+<h3>Item #:</h3>
+<p>SCP-26561</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26561 is a non-sentient spectral anomaly that manifests as a violent, poltergeist-like entity within and around a specific chalk outline resembling that of a human body, commonly used by law enforcement at crime scenes. The outline, hereafter referred to as SCP-26561-1, is located in an abandoned building in [REDACTED], believed to be the site of a brutal, unsolved murder.</p>
+<p>Once the entity within SCP-26561-1 is disturbed, either by physical contact or proximity of living organisms, it will aggressively attempt to harm any individuals nearby. SCP-26561 lacks sentient behavior but exhibits targeted aggression consistent with the preservation of SCP-26561-1. Victims report feeling hands pushing, shoving, and striking them, though no physical entity can be observed. In some cases, individuals within reach of SCP-26561-1 have been found with bruises, lacerations, and, in severe instances, bone fractures, suggesting a substantial physical force.</p>
+<p>Surveillance of SCP-26561-1 has revealed that the entity will manifest at irregular intervals, with no discernible pattern, although increased activity is noted during nighttime hours. Attempts to remove or alter SCP-26561-1 have only resulted in violent backlash from SCP-26561 and immediate reformation of the chalk outline.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the highly dangerous nature of SCP-26561 and its resistance to most forms of containment measures, a perimeter has been established surrounding the abandoned building housing SCP-26561-1. Access to the building is strictly forbidden without Level 4 authorization and must be accompanied by a containment team trained in hostile apparition restraint.</p>
+<p>A covered surveillance station has been constructed approximately 100 meters from the building, equipped with remote observation tools and emergency containment equipment. Any attempt at containment or neutralization is to be done remotely, or with the use of drones whenever possible.</p>
+<p>All personnel assigned to SCP-26561 must undergo psychological evaluations bi-weekly due to the high-stress environment and the severe risk of mental trauma that SCP-26561's manifestations may induce.</p>
+<p>The perimeter is to be guarded at all times by armed personnel under the guise of a hazardous area due to structural instability to prevent any unauthorized access. Any civilians attempting to access the area must be detained, questioned, and administered a Class-B amnestic before release.</p>
+<h3>Addendum 1:</h3>
+<p>SCP-26561 was first discovered after local police reports described a "murder scene that won't go away" and numerous accounts of an "invisible assailant" within the vicinity of the abandoned building. Foundation agents embedded in local law enforcement brought the anomaly to the attention of the SCP Foundation, prompting immediate investigation and containment efforts.</p>
+<h3>Addendum 2:</h3>
+<h4>Experiment Log:</h4>
+<ul>
+<li><strong>Experiment A</strong>: One D-Class personnel instructed to approach SCP-26561-1 and place a hand upon it.</li>
+<li><strong>Results</strong>: Upon physical contact, SCP-26561-1 generated the entity which proceeded to forcibly eject the D-Class personnel from the building, resulting in multiple contusions.</li>
+<li><strong>Experiment B</strong>: A remote-controlled drone attempted to erase SCP-26561-1 with water.</li>
+<li><strong>Results</strong>: Drone was violently dismantled mid-operation, and SCP-26561-1 immediately reformed.</li>
+<li><strong>Experiment C</strong>: SCP-26561-1’s reaction to live animals was tested by introducing a live rat into the environment.</li>
+<li><strong>Results</strong>: SCP-26561 manifested and inflicted lethal force upon the animal, despite previously exhibiting no hostile behavior towards non-human life.</li>
+</ul>
+<h3>Addendum 3:</h3>
+<h4>Trancribed Interview with Dr. ██████ following Experiment C:</h4>
+<p><strong>Interviewer:</strong> Agent ███</p>
+<p><strong>[Begin Log]</strong></p>
+<p><strong>Agent ███:</strong> Dr. ██████, can you describe what occurred during Experiment C with SCP-26561?</p>
+<p><strong>Dr. ██████:</strong> Yes, the entity's reaction was... surprising, to say the least. We had hypothesized that SCP-26561 might only react to human presence, but as we have seen, this is not the case. It seems our understanding of SCP-26561's aggression triggers is still lacking.</p>
+<p><strong>Agent ███:</strong> Could SCP-26561's behavior indicate some form of sentience or protective instinct?</p>
+<p><strong>Dr. ██████:</strong> At this juncture, it's difficult to say. The entity's actions seem to be purely reactive in nature; we see no signs that it is capable of complex thought or planning. However, its ability to exert such force and the specificity of its containment to SCP-26561-1 is remarkable.</p>
+<p><strong>Agent ███:</strong> Have there been any changes in how we proceed with SCP-26561?</p>
+<p><strong>Dr. ██████:</strong> For now, physical engagement with SCP-26561 is off the table. We need to reassess our approach and consider alternative containment strategies that do not provoke hostility. The safety of our personnel is paramount, and SCP-26561 has proven to be too unpredictable and dangerous for standard containment protocols.</p>
+<p><strong>Agent ███:</strong> Thank you, Dr. ██████, for your insights. Let's hope we can find a more permanent solution to containing this anomaly.</p>
+<p><strong>[End Log]</strong></p>
+<p>Following the interview, further experiments were postponed until new containment strategies could be developed. Researchers are exploring anomalous means of containment, including the potential use of other SCP objects with the ability to pacify or neutralize spectral phenomena.</p></div>
