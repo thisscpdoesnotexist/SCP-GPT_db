@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26565 is  a talking kangaroo that believes he is mike tyson </h3> </center>
+    <h1>SCP-26565</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-26565</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26565 is an adult male red kangaroo (Macropus rufus) with an anomalous ability to communicate in English. This specimen stands approximately 2 meters tall and weighs around 95 kilograms. SCP-26565 refers to itself as "Mike Tyson" and displays a personality that is reminiscent of the famous American boxer of the same name.</p>
+<p>The entity has shown an advanced cognitive capacity, engaging in complex conversation, displaying knowledge of boxing techniques and history, and expressing a strong desire to participate in boxing matches. SCP-26565's conversations reveal an extensive understanding of Tyson's life and career, though it's unclear if this is due to the kangaroo's own research, a form of spontaneous knowledge, or psychic imprinting.</p>
+<p>When agitated or during combat, SCP-26565 exhibits enhanced strength and speed beyond that of a typical kangaroo. Its punches, delivered with its front paws, are substantially more forceful than would be expected from its size and species.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26565 is to be contained in a secure containment unit designed to mimic its natural habitat. The containment unit should be equipped with appropriate barriers to handle both its strength and jumping capabilities. The temperature should be regulated to remain between 18-25°C, with a variety of terrain and vegetation native to the Australian Outback for comfort.</p>
+<p>Personnel must enter SCP-26565's containment unit in pairs for safety reasons and are advised to refrain from discussing topics related to boxing or Mike Tyson to prevent agitating the subject. Interaction should be limited to essential communication and care procedures.</p>
+<p>Nutritional requirements consist of a diet similar to non-anomalous red kangaroos but may be supplemented with additional proteins to manage its unusual muscle mass. Enrichment activities should include puzzle feeders and non-competitive physical exercises to keep SCP-26565 mentally and physically engaged without triggering its boxing persona.</p>
+<h3>Addendum 1: Interview Log</h3>
+<p><strong>(The following is a transcript of an interview conducted with SCP-26565.)</strong></p>
+<p><strong>Dr. █████:</strong> Good afternoon, SCP-26565. How are you feeling today?</p>
+<p><strong>SCP-26565:</strong> I'm feeling great, Doc. Call me Mike, will ya? All this SCP jargon is starting to get to me.</p>
+<p><strong>Dr. █████:</strong> Of course, Mike. Can you tell me a little about your background?</p>
+<p><strong>SCP-26565:</strong> Doc, you know me. I'm the baddest man on the planet. Born and raised to throw punches and knock out chumps.</p>
+<p><strong>Dr. █████:</strong> And how do you feel about being a kangaroo?</p>
+<p><strong>SCP-26565:</strong> Kangaroo? I ain't no kangaroo. I'm a heavyweight champ. Got these belts to prove it. But yeah, I can jump high and kick hard. Handy in the ring, you know?</p>
+<p><em>(At this point, SCP-26565 flexes and throws a few air punches.)</em></p>
+<p><strong>Dr. █████:</strong> Interesting. Could you demonstrate your punching ability for our records?</p>
+<p><strong>SCP-26565:</strong> You got it, Doc. Stand back.</p>
+<p><em>(SCP-26565 proceeds to deliver several rapid punches to a provided punching bag, which is later measured to have sustained significantly greater damage than would be possible by non-anomalous kangaroos.)</em></p>
+<p><strong>Dr. █████:</strong> Thank you, SCP-26565. That will be all for today.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment #1:</strong>
+- <strong>Objective:</strong> To determine SCP-26565's understanding of professional boxing.
+- <strong>Procedure:</strong> Show a series of historical boxing matches on a monitor inside the containment unit and record reactions.
+- <strong>Result:</strong> SCP-26565 provided detailed commentary on the techniques and strategies used in each match, showing a high level of expertise and familiarity with the sport.</p>
+<p><strong>Experiment #2:</strong>
+- <strong>Objective:</strong> To assess SCP-26565's boxing ability against a mechanical sparring partner.
+- <strong>Procedure:</strong> Introduce a mechanical sparring apparatus into the containment unit.
+- <strong>Result:</strong> SCP-26565 displayed a wide repertoire of boxing moves, including jabs, crosses, and uppercuts with agility and precision. The mechanical apparatus was severely damaged by the end of the session.</p>
+<p><strong>Experiment #3:</strong>
+- <strong>Objective:</strong> To study SCP-26565's reaction to provocation.
+- <strong>Procedure:</strong> An operative engaged in light verbal taunting while conducting routine care.
+- <strong>Result:</strong> SCP-26565 responded with increased aggression and needed to be tranquilized after threatening the operative. Following this experiment, procedures were updated to discourage any behavior that might provoke the entity.</p>
+<h3>Addendum 3: Record of Incident 26565-A</h3>
+<p>During a maintenance check of SCP-26565's containment unit, a guard accidentally referenced a boxing match. SCP-26565 became agitated and managed to breach its containment after delivering a powerful kick to the enclosure door. The breach was contained after a tranquilizer was administered from a safe distance.</p>
+<p>Following incident 26565-A, containment procedures have been updated to include reinforced containment unit doors and additional tranquilizer systems within the unit. Personnel have been rebriefed on the importance of adhering strictly to communication protocols.</p>
+<p><em>(End of Document SCP-26565)</em></p></div>
