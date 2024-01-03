@@ -1,0 +1,57 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26564 is  an entire swarm of talking bats who each believe they're Stevie Wonder (and that all the other bats are wrong) </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26564</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26564 refers to a swarm of approximately one hundred (100) Brazilian free-tailed bats (<em>Tadarida brasiliensis</em>) exhibiting anomalous behavior, cognition, and vocal abilities. Each specimen within SCP-26564 possesses the ability to communicate in fluent English with a vocal timbre peculiarly resembling that of the American singer-songwriter Stevie Wonder. Notably, each individual entity within the swarm adamantly insists upon its own identity being that of the real "Stevie Wonder," while simultaneously asserting that all other instances of the swarm are impostors.</p>
+<p>Attempts to reason with or dissuade SCP-26564 instances from this belief have been met with firm resistance and, at times, collaborative vocal performances mirroring Stevie Wonder's musical style. While the entities are mostly docile, heated arguments and cacophonous 'sing-offs' occur frequently, resulting in confusion and the potential distress of nearby personnel. There have been no recorded instances of SCP-26564 engaging in physical confrontation with one another or with humans.</p>
+<p>It remains unclear how SCP-26564 acquired their vocal abilities and identity beliefs. Studies suggest a potential cognitohazard or memetic effect, though the origin or nature of such influence has yet to be identified. SCP-26564's preference for darkness and typical bat roosting behaviors remain consistent with the non-anomalous members of their species.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26564 is currently contained within a modified aviary designed to replicate a nocturnal environment, situated at Site-██. The enclosure is equipped with an array of microphones and speakers to facilitate communication with the entities, allowing for ongoing research and to monitor the mental state of SCP-26564.</p>
+<p>Personnel entering SCP-26564's containment area are required to wear ear protection to mitigate the risk of cognitohazard exposure and to prevent potential auditory damage during escalated vocalizations. Staff assigned to SCP-26564 must undergo psychological evaluation weekly to ensure no memetic or psychological afflictions have taken hold.</p>
+<p>Given the entities' belief in their identity as Stevie Wonder and their tendency for musical performance, containment also includes a digital library of Stevie Wonder's discography, which is played intermittently to maintain a non-aggressive and cooperative mood within the swarm.</p>
+<p>Feeding occurs twice a week, with a diet appropriate for Brazilian free-tailed bats. If at any time a specimen shows signs of distress or illness, it is to be isolated and examined by a veterinarian with Level 2 security clearance or higher.</p>
+<h3>Addendum 1: Incident Report</h3>
+<p>An altercation occurred on ██/██/20██, where two instances of SCP-26564 (nicknamed 'Stevie 17' and 'Stevie 42') entered a heated debate over the lyrics to "Superstition," leading to a temporary increase in overall aggression within the swarm. The argument was diffused by playing the original recording of the song, after which the instances continued to debate but without further escalation.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>Experiment 26564-E-014</strong><br />
+<strong>Date:</strong> ██/██/20██<br />
+<strong>Procedure:</strong> Introduction of a non-anomalous Brazilian free-tailed bat into SCP-26564's containment.<br />
+<strong>Results:</strong> Non-anomalous bat exhibited significant distress upon exposure to SCP-26564's communication. SCP-26564 instances reacted with confusion, initially attempting to communicate before showing signs of frustration. Non-anomalous bat removed after 30 minutes; no lasting effects were observed.</p>
+</li>
+<li>
+<p><strong>Experiment 26564-E-027</strong><br />
+<strong>Date:</strong> ██/██/20██<br />
+<strong>Procedure:</strong> Attempt to teach SCP-26564 a new song outside Stevie Wonder's discography.<br />
+<strong>Results:</strong> SCP-26564 instances were unable or unwilling to engage with the material. Maintained insistence on performing only Stevie Wonder songs.</p>
+</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Date:</strong> ██/██/20██<br />
+<strong>Interviewer:</strong> Dr. ████<br />
+<strong>Subject:</strong> SCP-26564 instance (designated 'Stevie 62')</p>
+<p><strong>Begin Log</strong></p>
+<p>Dr. ████: Good evening. I'd like to ask you a few questions. Can you tell me your name?</p>
+<p>Stevie 62: Man, you know who I am. I'm Stevie Wonder, the one and only.</p>
+<p>Dr. ████: Yes, of course. How do you explain the others that claim the same?</p>
+<p>Stevie 62: They're confused, brother. There's only one of me. They're my background singers, though – they've got the spirit!</p>
+<p>Dr. ████: I see. What can you tell us about your life before coming here?</p>
+<p>Stevie 62: I've been livin' my life, writin' songs, and spreadin' love. I remember California, the studios, the lights... But now it's different, you know. It's dark, but the music's still there.</p>
+<p>Dr. ████: Can you elaborate on how you came to be here?</p>
+<p>Stevie 62: It's all a blur, doc. One day I was playin' for a crowd, and the next thing I know, I'm here with all these impostors. But I keep singin', 'cause that's what I do.</p>
+<p>Dr. ████: Do you remember anything unusual happening before you were here?</p>
+<p>Stevie 62: Hard to say with the lights so bright on stage. Maybe a flash, but not like a camera. It was more like a... a wave that washed over me. Then darkness.</p>
+<p>Dr. ████: Interesting. We'll continue to look into it. Thank you for your time, "Stevie."</p>
+<p>Stevie 62: You got it. And hey, doc, don't forget to love.</p>
+<p><strong>End Log</strong></p>
+<p>Further interviews with other SCP-26564 instances have resulted in similar responses, with slight variations in the recounting of past events, yet all revolve around the steadfast identity as Stevie Wonder. Additional research and containment adjustments are ongoing to further understand SCP-26564's origins and capabilities.</p></div>
