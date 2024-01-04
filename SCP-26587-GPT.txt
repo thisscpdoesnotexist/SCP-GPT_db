@@ -1,0 +1,72 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26587 is  a fickle koala that occasionally grants wishes, but it still only has a regular koala's intelligence </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26587</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26587 is an adult male koala (Phascolarctos cinereus) with anomalous properties. It measures approximately 760mm in length and weighs 14kg, consistent with non-anomalous male koalas of its species. SCP-26587 consumes a diet typical to koalas, mainly consisting of eucalyptus leaves. A key distinguishing feature of SCP-26587 is its ability to grant wishes intermittently.</p>
+<p>However, SCP-26587's wish-granting abilities have been characterized as "fickle" and unpredictable due to its limited intelligence, akin to that of a non-anomalous koala. This leads to the effects of its granted wishes often being misunderstood or misinterpreted by the wisher, resulting in outcomes that range from benign to catastrophic.</p>
+<p>Requests made to SCP-26587 that are within the understanding of a regular koala often result in more predictable outcomes. For example, providing it with fresh eucalyptus or a similar environment-based request may yield positive effects such as temporary containment breach prevention or mild alterations to its habitat. However, more complex desires or wishes can lead to unintended and severe consequences.</p>
+<p>Due to these unpredictable outcomes and the difficulty in communicating clear and safe wishes, SCP-26587 has been classified as Keter. The inherent risk associated with any granted wish necessitates constant monitoring and containment to prevent major reality alterations or catastrophic events.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26587 is contained within a modified zoological enclosure at Site-██. The enclosure emulates a natural koala habitat with a supply of fresh eucalyptus trees cycled regularly. The enclosure is reinforced with steel plating and embedded with reality anchors to prevent any reality-bending effects resulting from SCP-26587's wishes.</p>
+<p>No direct contact with SCP-26587 is permitted unless authorized by personnel with Level 4 clearance or higher. All communication must occur through a two-way audio system, and under no circumstances are personnel to vocalize desires or wants within auditory range of SCP-26587.</p>
+<p>In the event that SCP-26587 grants a wish, whether intentionally or unintentionally invoked by personnel, Mobile Task Force Epsilon-11 ("Nine-Tailed Fox") is to be dispatched to contain any potential reality alterations. All granted wishes are to be documented, and the affected area is to be quarantined until the effects can be reversed or contained.</p>
+<h3>Addendum 1: Incident Log</h3>
+<p>Several incidents have been recorded showcasing the unpredictable nature of SCP-26587's wish-granting abilities. Below are selected logs for reference:</p>
+<ul>
+<li>Incident 26587-A: Researcher ████ muttered about desiring a "more peaceful workplace," resulting in SCP-26587 causing all personnel within Site-██ to fall into a comatose state for 7 hours.</li>
+<li>Incident 26587-B: A janitorial staff member jokingly wished for "all the trash to disappear," which led to SCP-26587 instantaneously dematerializing all waste products in the facility, including vital research samples.</li>
+<li>Incident 26587-C: During a testing phase, D-83922 expressed a wish "to be the richest man on Earth." SCP-26587's subsequent action involved converting all of D-83922's biological mass into gold coins. D-83922 expired as a result.</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26587-01</h4>
+<ul>
+<li><strong>Objective:</strong> Test the limits of SCP-26587's wish-granting capabilities with a simple request.</li>
+<li><strong>Procedure:</strong> D-5611 asked SCP-26587 for "a refreshing drink."</li>
+<li><strong>Result:</strong> A can of an unknown soda appeared in D-5611's hand, which proved toxic upon consumption, leading to D-5611's hospitalization.</li>
+</ul>
+<h4>Experiment 26587-02</h4>
+<ul>
+<li><strong>Objective:</strong> Establish a baseline for SCP-26587's understanding of human desires.</li>
+<li><strong>Procedure:</strong> D-9012 requested "a perfect day."</li>
+<li><strong>Result:</strong> Site-██ experienced an unforeseen weather anomaly resulting in an area-wide sunny day accompanied by severe radiation spikes, attributed to an artificial miniature sun appearing over the site.</li>
+</ul>
+<h4>Experiment 26587-03</h4>
+<ul>
+<li><strong>Objective:</strong> Investigate the possibility of positive utility from SCP-26587's ability.</li>
+<li><strong>Procedure:</strong> D-7331 was instructed to ask SCP-26587 for "something to write with."</li>
+<li><strong>Result:</strong> An anomalous quill appeared, capable of transcribing thought onto paper. It has been classified as SCP-████.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interview Log 26587-04</h4>
+<p><strong>Interviewer:</strong> Dr. ██████
+<strong>Interviewee:</strong> SCP-26587 (Communication conducted via two-way audio system)
+<strong>Purpose:</strong> To attempt to communicate and understand the cognitive capabilities of SCP-26587.</p>
+<p><BEGIN LOG></p>
+<p><strong>Dr. ██████:</strong> SCP-26587, can you understand me?</p>
+<p><strong>SCP-26587:</strong> (Makes typical koala noises)</p>
+<p><strong>Dr. ██████:</strong> We're trying to understand how you grant wishes. Do you do it consciously?</p>
+<p><strong>SCP-26587:</strong> (Continues to make koala noises, seems uninterested)</p>
+<p><strong>Dr. ██████:</strong> Can you show us how you grant a wish? Can you make something happen right now?</p>
+<p><strong>SCP-26587:</strong> (Koala becomes slightly agitated, emits a low growl)</p>
+<p><strong>Dr. ██████:</strong> It's okay. We're not here to harm you. We just want to learn. Can you give us a sign?</p>
+<p>(There is a sudden fluctuation in the temperature within the enclosure. Researchers outside the enclosure note a drop in temperature by 5 degrees Celsius, lasting for approximately 2 minutes before returning to normal.)</p>
+<p><strong>Dr. ██████:</strong> Interesting... that was you, wasn't it? You can influence the environment?</p>
+<p><strong>SCP-26587:</strong> (Settles down and resumes regular koala behavior)</p>
+<p><strong>Dr. ██████:</strong> Is it easier for you to affect things you can see?</p>
+<p>(No response from SCP-26587)</p>
+<p><strong>Dr. ██████:</strong> Alright, let's try something else. Can you repeat after me? Say 'hello.'</p>
+<p><strong>SCP-26587:</strong> (Silent)</p>
+<p><strong>Dr. ██████:</strong> Do you want more eucalyptus?</p>
+<p><strong>SCP-26587:</strong> (Perks up and vocalizes positively)</p>
+<p><strong>Dr. ██████:</strong> I'll take that as a yes. Please ensure SCP-26587 receives additional eucalyptus as a reward for cooperating.</p>
+<p><END LOG></p>
+<p><strong>Closing Notes:</strong> While the intelligence of SCP-26587 appears to be in line with that of a non-anomalous koala, it does possess some understanding of its environment and can influence it, albeit unpredictably. Further studies are necessary to determine the extents of SCP-26587's cognitive capabilities and wish-granting properties.</p></div>
