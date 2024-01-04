@@ -1,0 +1,54 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26591 is  is three anomalous pigs, each tattooed with a "1" "2" and "4" respectively, released in a foundation facility by the Serpent's Hand as a sabotage. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26591</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26591 refers to a trio of anomalous pigs (Sus domesticus) that were clandestinely introduced into a Foundation facility by a cell of the Serpent's Hand. These entities are individually marked with tattoos displaying numbers "1", "2", and "4," with the conspicuous absence of a pig marked with the number "3." This deliberate omission appears to be part of the psychological warfare aspect of the Serpent's Hand's sabotage strategy, leading to an endless search for a non-existent entity and causing considerable distress and disarray within the Foundation's operations.</p>
+<p>The entities exhibit several anomalous properties. First, they appear to possess a level of intelligence far higher than that of ordinary pigs. They have demonstrated problem-solving skills, evasion of capture, and understanding of the facility layout beyond what would be expected from non-anomalous pigs.</p>
+<p>Secondly, SCP-26591 instances appear to have the ability to phase through solid matter. They use this ability to evade capture and containment, often disappearing through walls, floors, and ceilings when approached by personnel.</p>
+<p>Furthermore, the pigs appear to be invulnerable to physical harm, showing no signs of injury from various attempts to incapacitate them for containment purposes. They also do not require food, water, or sleep, making their containment even more challenging.</p>
+<p>In addition to their primary anomalous traits, these entities seem to induce paranoia and psychological discomfort among Foundation staff. Extended exposure to SCP-26591 has been connected with increased stress levels, sleep disturbances, and heightened incidents of inter-personnel conflict, further contributing to the disruption of normal facility operations.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As conventional containment has proven futile, a multi-faceted approach is required to minimize the impact of SCP-26591 on Foundation operations.</p>
+<ol>
+<li>Facility staff must undergo regular psychological evaluations to mitigate the detrimental psychological effects SCP-26591 has on personnel.</li>
+<li>A dedicated task force, codenamed "Pig Catchers," staffed with personnel trained in advanced containment techniques for intangible or phasing entities, has been established to attempt direct containment.</li>
+<li>All hallways and rooms are to be equipped with motion-detecting cameras and phased-array radar systems to track SCP-26591 movements and facilitate their quick localization.</li>
+<li>A disinformation campaign is to be maintained among the staff to perpetrate the idea that a "pig #3" does not exist, and all searches for it should be reported and discouraged.</li>
+<li>Implementation of containment barriers at key junctions within the facility that can be temporarily phase-proofed through the application of a specifically developed resin (known as Compound P-26591-C) to impede the movement of SCP-26591 instances.</li>
+</ol>
+<h3>Addendum 1: Interview Log</h3>
+<p>The following is a transcript of an interview conducted with a member of the Serpent's Hand, captured shortly after the release of SCP-26591 within the facility.</p>
+<p>[BEGIN LOG]</p>
+<p><strong>Interviewer:</strong> Dr. ██████
+<strong>Interviewee:</strong> [REDACTED] ("Hand Member")</p>
+<p><strong>Dr. ██████:</strong> Why introduce these animals into our facility? What were you hoping to achieve?</p>
+<p><strong>Hand Member:</strong> [Smirks] To demonstrate the fragility of your false sense of control.</p>
+<p><strong>Dr. ██████:</strong> Are there any more of these pigs that we should be aware of?</p>
+<p><strong>Hand Member:</strong> You tell me, doctor. How many have you found?</p>
+<p><strong>Dr. ██████:</strong> We've located three.</p>
+<p><strong>Hand Member:</strong> Then you should consider the meaning of the numbers you haven't found.</p>
+<p>[END LOG]</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p>A series of experiments were conducted in an attempt to devise a means to contain SCP-26591. Below is a log of notable experiments:</p>
+<p><strong>Experiment 26591-A:</strong>
+Attempted containment using standard reinforced plexiglass pens.</p>
+<p><strong>Result:</strong> Failure. SCP-26591 instances phased through the plexiglass without incidence.</p>
+<p><strong>Experiment 26591-B:</strong>
+Use of Compound P-26591-C to create temporary barriers and funnels to guide entities into a containment zone.</p>
+<p><strong>Result:</strong> Partial success. Entities were impeded momentarily but eventually found weak points in the phase-resistant resin coverage and escaped.</p>
+<p><strong>Experiment 26591-C:</strong>
+Introduction of sedative compounds into the environment in gaseous form to induce unconsciousness.</p>
+<p><strong>Result:</strong> Failure. Instances showed no signs of altered consciousness or slower activity levels upon exposure.</p>
+<p>[Further experiment logs omitted for brevity]</p>
+<h3>Addendum 3: Incident Report</h3>
+<p>An incident occurred that involved SCP-26591 instances leading multiple security teams on a chase that resulted in injury and significant property damage. The entities exhibited an unpredictable pattern of movement and were able to create a temporal phase shift, rendering all standard containment efforts useless for a period of 48 minutes. Following this event, the containment procedures were updated to reflect the new information gained. Personnel injuries were treated, and property damage was repaired.</p>
+<p>The missing "Pig #3" concept continues to cause unrest among staff, despite several internal memos and announcements that there are only three pigs, and the numbering is a known psychological manipulation tactic. This information seems to have little effect on the collective staff psyche, indicating a secondary, as yet unidentified, anomalous effect emanating from the SCP-26591 entities. Further investigation into the depth and breadth of this psychological influence is ongoing.</p></div>
