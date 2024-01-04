@@ -1,0 +1,55 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26607 is  a 25th hour of the day that only exists for people who've had an NDE </h3> </center>
+    <h1>SCP-26607</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-26607</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26607 is an anomalous temporal phenomenon where individuals who have experienced a near-death experience (NDE) are able to perceive and interact with a 25th hour in the day. This additional hour, designated as 24:00 to 24:59, does not align with standard timekeeping and appears to be imperceptible to those who have not been near death.</p>
+<p>Affected individuals, henceforth referred to as subjects, report that during this 25th hour, time appears frozen for the rest of the world, and they experience the world in a state of serene stillness. Electronic devices and anything with a digital or mechanical clock fail to operate during the period, seemingly "stuck" at 23:59:59. Natural phenomena, such as wind or animal movements, also come to a halt.</p>
+<p>Investigations have found that SCP-26607 does not grant subjects extra time in a traditional sense. Instead, it places the subject in a separate, consistent, time-stream that temporarily diverges from standard temporal flow. Physical and chemical processes within subjects' bodies continue to transpire normally. However, no aging occurs during SCP-26607's effect, and subjects remain unharmed by potentially lethal conditions existing before or after the event (e.g., a building on fire will not burn down during SCP-26607, nor will a subject inside it suffer from smoke inhalation).</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the non-physical and uncontrollable nature of SCP-26607, standard containment is not possible. Current containment efforts are focused on identifying and monitoring individuals who have experienced NDEs and exhibited potential signs of SCP-26607 interactions. Mobile Task Forces specialized in temporal anomalies (MTF-Tau-5 "Timekeepers") are to monitor these individuals and provide disinformation campaigns as necessary to prevent public knowledge of SCP-26607. </p>
+<p>Subjects identified to have experienced SCP-26607 are to be discreetly approached and offered amnestic treatment to prevent further interaction with the phenomenon and avoid the possible psychological and societal risks posed by abnormal temporal perception.</p>
+<p>Any new theories or understanding of SCP-26607's mechanisms should be reported to Dr. ████ for evaluation and potential adjustment of containment procedures.</p>
+<h3>Addendum 1: Incident Report #26607-01</h3>
+<p>On ██/██/20██, subject D-47912, a D-class personnel with an NDE history, was observed walking through Site-██'s hallways during what was later confirmed as an SCP-26607 event. This behavior was captured by non-digital surveillance methods. Following the event, D-47912 could not recall any anomalous experience. However, subsequent research indicated a potential for subjects to manipulate or affect their environment during such events unknowingly, raising considerable containment and security concerns. The subject was administered Class B amnestics and re-contained without further incident.</p>
+<h3>Addendum 2: Interview Log #26607-█</h3>
+<p>Interviewed: [REDACTED] - Designated Subject 26607-█</p>
+<p>Interviewer: Dr. ██████</p>
+<p>[BEGIN LOG]</p>
+<p>Dr. ██████: Can you describe what you experience during these additional hours?</p>
+<p>Subject 26607-█: It's like the world takes a deep breath and holds it. Everything's still. It's peaceful, but also... it's unnerving, you know?</p>
+<p>Dr. ██████: What do you do during that time?</p>
+<p>Subject 26607-█: At first, I freaked out. I tried to wake up my wife, mess with my phone, but nothing worked. I realized it was like my NDE all over again but quieter. Lately, I just walk around. I... I started seeing others sometimes, people like me, stuck in that quiet hour.</p>
+<p>Dr. ██████: Others? Can you interact with them?</p>
+<p>Subject 26607-█: Yeah, we talk. They're as confused as me. We're trying to figure this out together, make sense of it. But when the hour ends, it's like we forget those conversations. It's like trying to remember a dream.</p>
+<p>Dr. ██████: Have you ever experienced anything dangerous during these events?</p>
+<p>Subject 26607-█: No, it's not like that. The world's on pause, nothing can happen to us. It's a break from... everything.</p>
+<p>Dr. ██████: How do you feel about the 25th hour?</p>
+<p>Subject 26607-█: It was terrifying at first. Now? Sometimes, I find myself waiting for it. It's a moment where time doesn't eat at you. A moment you can breathe.</p>
+<p>[END LOG]</p>
+<h3>Addendum 3: Experiment Log #26607</h3>
+<p>The following is a log of experiments conducted under Dr. ████'s supervision to better understand the properties of SCP-26607.</p>
+<h4>Experiment 26607-E-001</h4>
+<p>Purpose: Determining physical interaction capacity during SCP-26607.</p>
+<p>Procedure: Subject 26607-██ was provided with a set of blocks and tasked with building a structure during the anticipated SCP-26607 event.</p>
+<p>Result: Upon returning to baseline temporal flow, the structure was discovered to have been constructed as instructed.</p>
+<h4>Experiment 26607-E-002</h4>
+<p>Purpose: To test memory retention between SCP-26607 events.</p>
+<p>Procedure: Two subjects, 26607-██ and 26607-███, were given a simple phrase to remember and repeat to each other during the next 25th hour.</p>
+<p>Result: Neither subject could recall the phrase post-event, confirming prior testimony regarding memory issues across SCP-26607 experiences.</p>
+<h4>Experiment 26607-E-003</h4>
+<p>Purpose: Assessing potential for information transfer beyond SCP-26607 events.</p>
+<p>Procedure: Subject 26607-███ was tasked with writing a detailed account of their experience during SCP-26607, to be left in a designated spot for later retrieval.</p>
+<p>Result: The document was retrieved post-event with complete recollection from the subject about its content, suggesting that while memory of interpersonal interactions is not retained, written records can somehow bypass this limitation.</p>
+<hr />
+<p>Additional studies and observations are ongoing to comprehend SCP-26607's full capabilities and implications, with a secondary focus on identifying any emergent patterns or conditions that may neutralize its effects. The potential for misuse and the existential implications of SCP-26607's existence continue to pose significant challenges to the SCP Foundation.</p></div>
