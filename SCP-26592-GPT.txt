@@ -1,0 +1,62 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26592 is  a wardrobe that predicts the future to manifest an appropriate outfit for whoever opens it. (I.e: it conjures a hard hat for someone who would otherwise get a head injury, etc...) </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26592</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-26592 is an antique wardrobe measuring approximately 2 meters in height, 1.2 meters in width, and 0.7 meters in depth, constructed from oak wood with ornate carvings typical of 19th-century craftsmanship. Each panel of the wardrobe contains detailed motifs, including timepieces, celestial bodies, and various scenes that suggest a temporal theme.</p>
+<p>Upon opening, the wardrobe appears to assess the individual's near future and generates attire that provides utility or protection for imminent events. The mechanism by which SCP-26592 predicts the future and fabricates clothing is currently not understood; the clothing itself, however, is non-anomalous post-manifestation. Data suggests the predictions extend approximately 24 hours into the future, with accuracy declining sharply beyond this period.</p>
+<p>The wardrobe does not require a power source and has shown no signs of wear, indicating possibly self-repairing properties or extreme durability. Anomalous effects only occur when a living human interacts with SCP-26592; placing animals or inanimate objects inside does not trigger the predictive clothing generation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its benign nature and Safe classification, SCP-26592 requires minimal containment measures. It is stored within a standard secure item locker at Site-██. Access for testing is restricted to personnel with Level 2 security clearance or higher and must be approved by at least one Level 3 researcher. Interactions with SCP-26592 are to be recorded, and any generated clothing item must be documented, analyzed, and subsequently incinerated after study to prevent buildup of materials. Personnel are cautioned to not rely on SCP-26592's predictions for any critical decision-making processes.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 26592-01</strong><br />
+<strong>Date</strong>: ██/██/20██<br />
+<strong>Subject:</strong> D-18429<br />
+<strong>Procedure:</strong> Subject asked to open SCP-26592 and report what clothing item manifested.<br />
+<strong>Result:</strong> SCP-26592 produced a pair of steel-toed boots. Later the same day, D-18429 dropped a heavy object on their foot during unrelated containment testing, but reported no injury thanks to the boots.<br />
+<strong>Notes:</strong> The predictive aspect of SCP-26592 appears to be accurate in preventing minor injuries.</p>
+<p><strong>Experiment 26592-02</strong><br />
+<strong>Date</strong>: ██/██/20██<br />
+<strong>Subject:</strong> D-19202<br />
+<strong>Procedure:</strong> Subject instructed to open SCP-26592 after being briefed on a scheduled test that involved light water immersion.<br />
+<strong>Result:</strong> Wardrobe produced a watertight wristwatch. Subject was submerged in water for a brief period, and the watch was observed to stay functional and waterproof.
+<strong>Notes:</strong> SCP-26592 seems capable of anticipating not just imminent danger but also relevant environmental conditions the subject will encounter.</p>
+<p><strong>Experiment 26592-03</strong><br />
+<strong>Date</strong>: ██/██/20██<br />
+<strong>Subject:</strong> Dr. ██████<br />
+<strong>Procedure:</strong> Dr. ██████, aware of SCP-26592’s capabilities, opened the wardrobe with the intent to test its prediction limits.<br />
+<strong>Result:</strong> The wardrobe did not produce any item.
+<strong>Notes:</strong> Possible that SCP-26592 cannot generate clothing for events it deems to have low significance or that the subject was not in any predictable danger within the 24-hour window.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. Kowalski<br />
+<strong>Interviewed:</strong> D-84729, after exposure to SCP-26592<br />
+<strong><Begin Log></strong><br />
+<strong>Dr. Kowalski:</strong> Can you describe what happened when you opened SCP-26592, D-84729?</p>
+<p><strong>D-84729:</strong> Yeah, sure. It was pretty weird. I opened the door, and this bright light stared at me for a second. When it faded, there was this motorcycle helmet on the shelf.</p>
+<p><strong>Dr. Kowalski:</strong> A motorcycle helmet? Were you scheduled for any vehicular testing today?</p>
+<p><strong>D-84729:</strong> Nope. That’s why it was weird. But, uh, later during lunch, this bird—pigeon or something—came crashing through the window. Nearly hit me right in the face, but I had that helmet on since you guys told me to keep wearing whatever it gives.</p>
+<p><strong>Dr. Kowalski:</strong> Interesting. The wardrobe seems attuned to protecting individuals from arbitrary, unpredictable events. Thank you for your cooperation.</p>
+<p><strong>D-84729:</strong> Yeah, no problem. Thanks for the headgear, I guess.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Notes:</strong> This incident suggests that SCP-26592 is capable of accounting for random, non-pattern-based future events within its predictive model.</p>
+<h3>Addendum 3: Experiment Log (Continued)</h3>
+<p><strong>Experiment 26592-10</strong><br />
+<strong>Date</strong>: ██/██/20██<br />
+<strong>Subject:</strong> D-34592<br />
+<strong>Procedure:</strong> Subject asked to open the wardrobe after being falsely informed of a scheduled exercise involving live fire.<br />
+<strong>Result:</strong> SCP-26592 produced a Kevlar vest. However, no such exercise took place, and the subject remained in a non-hazardous environment for the following 24 hours.<br />
+<strong>Notes:</strong> SCP-26592 may operate on information presented to the subject rather than actual future events, suggesting susceptibility to human deception or the subject's beliefs. Further testing is required to ascertain the wardrobe's limitations and possible reliance on the subject's expectations regarding future events. </p>
+<p><strong>Experiment 26592-18</strong><br />
+<strong>Date</strong>: ██/██/20██<br />
+<strong>Subject:</strong> D-48910 <br />
+<strong>Procedure:</strong> A blindfolded subject was led to SCP-26592 without being informed of their task or environment.<br />
+<strong>Result:</strong> Upon opening the wardrobe, it produced a pair of prescription eyeglasses which corrected D-48910's nearsightedness.<br />
+<strong>Notes:</strong> SCP-26592 appears to have a capability to identify and address individual subject's impairments or disabilities irrespective of the subject’s awareness.</p></div>
