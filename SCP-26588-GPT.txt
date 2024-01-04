@@ -1,0 +1,60 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26588 is  a wardrobe that allows people to freely shapeshift while inside. Any changes they make to their form are permanent once they leave. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26588</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-26588 is a large, freestanding wardrobe of an unknown maker constructed from what appears to be mahogany wood. Weighing approximately 200kg and standing 2.2 meters in height, the wardrobe's doors are adorned with intricate carvings depicting various humanoid figures in numerous poses and states of transformation. Radiocarbon dating suggests SCP-26588 was constructed circa the early 19th century, though the anomalous properties it exhibits are not consistent with any technological capabilities known from that period.</p>
+<p>The anomalous effects of SCP-26588 manifest when an individual enters the wardrobe and closes the doors. Once inside, the subject is capable of consciously altering their physical form in any imaginable way, including, but not limited to, changes in bone structure, musculature, skin pigmentation, facial features, and overall bodily dimensions. This process is solely based on the subject's desires and intentions at the moment of transformation.</p>
+<p>Upon exiting SCP-26588, the subject's alterations become permanent. SCP-26588 does not allow for non-humanoid transformations; attempts to assume non-humanoid forms result in no change. Furthermore, SCP-26588 does not adjust the subject's cognitive faculties to match their new form; all mental processes remain as they were before transformation.</p>
+<p>There is no known limit to the number of times subjects can enter SCP-26588 and alter their appearance; however, the Foundation's Ethics Committee has imposed strict guidelines on the utilization of SCP-26588 for the purpose of experimentation and personal use by personnel.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26588 is to be contained in a standard Safe-class storage room at Site-██. The door of the containment room is to be kept locked at all times, with access limited to personnel with Level 2 clearance or higher.</p>
+<p>Interactions with SCP-26588 for testing must be scheduled in advance and approved by at least two Level 4 research personnel. No more than one subject may enter SCP-26588 at a time, and all transformations must be documented thoroughly for research purposes.</p>
+<p>In the interest of maintaining physical and mental well-being, all personnel must undergo pre- and post-test psychological evaluations. Personnel who exhibit any signs of body dysmorphia or dysphoric disorders must be barred from interacting with SCP-26588.</p>
+<p>The subject must be spot-checked for any previously unknown capabilities or anomalies post-transformation. In the case of an unexpected result, quarantine protocols are to be initiated to analyze and contain potential secondary anomalous effects.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment #26588-01</strong>
+- <strong>Subject:</strong> D-38219
+- <strong>Procedure:</strong> Subject instructed to enter SCP-26588 and attempt to change hair color to blue.
+- <strong>Result:</strong> Subject exited with blue hair consistent with the given instructions. No health issues reported post-transformation.</p>
+<p><strong>Experiment #26588-02</strong>
+- <strong>Subject:</strong> D-41527
+- <strong>Procedure:</strong> Subject entered SCP-26588 with the intention of increasing muscle mass by 15%.
+- <strong>Result:</strong> Initial panic upon exiting due to unexpected body weight. Muscle gain was measured at 14.8%, near the intended goal. Subject acclimatized over several weeks of physical therapy.</p>
+<p><strong>Experiment #26588-03</strong>
+- <strong>Subject:</strong> D-20934
+- <strong>Procedure:</strong> Subject instructed to enter SCP-26588 and attempt age regression by ten years.
+- <strong>Result:</strong> Subject successfully exited appearing ten years younger. Biological markers confirmed age regression. Subject retained all memories and cognitive abilities from before the transformation.</p>
+<p><strong>Experiment #26588-04</strong>
+- <strong>Subject:</strong> D-30418
+- <strong>Procedure:</strong> Subject requested to attempt to grow an additional arm.
+- <strong>Result:</strong> SCP-26588 failed to produce the additional limb. It was noted that non-humanoid features cannot be replicated or generated.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. Mallory Yu
+<strong>Subject:</strong> D-20934
+<strong>Purpose:</strong> To gain insight into the experience of age regression through SCP-26588.</p>
+<p>[Begin Log]</p>
+<p>Dr. Yu: "Please state your name for the record."</p>
+<p>D-20934: "D-class two oh nine three four."</p>
+<p>Dr. Yu: "Thank you. Could you describe your experience inside SCP-26588?"</p>
+<p>D-20934: "It was like I was imagining myself ten years ago, but I could feel the changes happening. I was looking at my hands, and the wrinkles were disappearing, my skin got clearer, and I felt lighter."</p>
+<p>Dr. Yu: "Did you experience any discomfort during the process?"</p>
+<p>D-20934: "No pain, if that's what you mean. But it was a strange feeling, like I was being molded by my own thoughts."</p>
+<p>Dr. Yu: "And how do you feel about the outcome?"</p>
+<p>D-20934: "It's surreal, doc. I look in the mirror, and I see me, but not the me I've gotten used to. I didn't think the Foundation could do something like this without it being, you know, a punishment or a trick."</p>
+<p>Dr. Yu: "Thank you for your cooperation. We'll continue to monitor your condition and provide support as needed."</p>
+<p>[End Log]</p>
+<h3>Addendum 3: Incident Report</h3>
+<p><strong>Date:</strong> ██/██/████
+<strong>Incident:</strong> SCP-26588 Containment Breach</p>
+<p>During routine testing, SCP-26588's containment was breached by Research Assistant ████, who was unauthorized to interact with the object. The Assistant entered SCP-26588 with the intention to remove a facial scar received in a prior experiment. The transformation was successful; however, further disciplinary actions were taken, including reassignment to a different site and mandatory psychological counseling.</p>
+<p>The breach triggered a review of containment procedures, leading to stricter controls on SCP-26588's containment room access and the installation of additional surveillance cameras, along with an automated locking mechanism that requires two-person authorization to open the wardrobe doors.</p>
+<p>Following the incident, no further unauthorized use of SCP-26588 has been reported. Research Assistant ████'s motivations were found to be deeply personal, resulting in a reminder communicated to all staff regarding the ethical implications and responsibilities of handling SCP objects.</p></div>
