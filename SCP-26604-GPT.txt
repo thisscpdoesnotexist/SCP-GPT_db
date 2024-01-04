@@ -1,0 +1,64 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26604 is  a future-predicting wardrobe that manifests a complete outfit that provides maximum utility or protection for whoever opens it, based on future events.  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26604</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-26604 is a wooden wardrobe standing approximately 2 meters in height, 1.2 meters in width, and 0.6 meters in depth. The wardrobe exhibits a vintage aesthetic, consistent with mid-20th-century furniture design. The object's anomalous properties manifest when an individual opens its doors with the intention of acquiring clothing.</p>
+<p>Upon opening, SCP-26604 contains a single outfit that provides the wearer with the most suitable attire for protection or utility based on events that will occur to them in the near future. The outfit generated is tailored to the individual's measurements and comprises clothing, accessories, and occasionally equipment. The garments and items are consistently of excellent craftsmanship and occasionally include clothing or paraphernalia not readily available at the time of the unlocking.</p>
+<p>The anomalous properties of SCP-26604 do not seem to rely on the wardrobe having prior contact with the clothing it generates; rather, it appears to fabricate or procure these items through currently unexplained means. Items have included bullet-resistant attire, thermal gear suitable for extreme cold, and specialized suits for hazardous material handling. Notably, use of SCP-26604 does not guarantee the survival or safety of the individual but optimally equips them for upcoming challenges based on foreseen circumstances.</p>
+<p>If Tthe same individual attempts to use SCP-26604 multiple times within a short period, the wardrobe remains empty until a new significant event in the user's future necessitates different attire.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26604 is to be stored in a standard containment locker located in Site-██. Personnel may open the wardrobe no more than once per month for testing purposes, and the use of SCP-26604's generated items outside of a controlled testing environment is prohibited unless authorized by at least two (2) Level-4 personnel. Researchers are instructed to record the items produced by SCP-26604 and attempts to correlate them with future events.</p>
+<p>Any clothing or items produced by SCP-26604 that are not immediately relevant to ongoing experimentation are to be cataloged and placed in storage. Personnel who have interacted with SCP-26604 are to be monitored for any events correlating with the protective or utilitarian function of the attire provided. These incidents should be documented and analyzed to improve understanding of SCP-26604's predictive capabilities.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<ul>
+<li><strong>Experiment 26604-01</strong></li>
+<li><strong>Subject:</strong> D-8101</li>
+<li><strong>Procedure:</strong> Subject instructed to open SCP-26604.</li>
+<li><strong>Result:</strong> Wardrobe produced a set of thermal clothing, including a heavy insulated coat, gloves, and winter boots.</li>
+<li>
+<p><strong>Follow-up:</strong> One week post-experiment, an unexpected power outage led to severe temperature drop within D-8101's containment cell block. The attire was suitable for the conditions encountered.</p>
+</li>
+<li>
+<p><strong>Experiment 26604-05</strong></p>
+</li>
+<li><strong>Subject:</strong> D-7225</li>
+<li><strong>Procedure:</strong> Subject instructed to open SCP-26604.</li>
+<li><strong>Result:</strong> Wardrobe produced a business suit with ballistic fabric integrated into the lining.</li>
+<li><strong>Follow-up:</strong> Two days post-experiment, D-7225 was selected for an external mission involving undercover intelligence gathering. The suit was deemed advantageous for the mission.</li>
+</ul>
+<h3>Addendum 2: Long Interview</h3>
+<p><strong>Interview Log 26604-A:</strong></p>
+<p>[Interviewer is Researcher Dr. T███████; interviewing D-5930 after the subject utilized SCP-26604.]</p>
+<p><strong>Dr. T███████:</strong> "Please describe the outfit SCP-26604 provided for you."</p>
+<p><strong>D-5930:</strong> "It was like a firefighter's getup, but it felt lighter and fit me perfectly. Even had my initials on it, which was freaky."</p>
+<p><strong>Dr. T███████:</strong> "And when did you find this attire to be useful?"</p>
+<p><strong>D-5930:</strong> "Just two days later, there was a fire in the cafeteria. I was helping folks get out, and the gear protected me from the smoke and flames."</p>
+<p><strong>Dr. T███████:</strong> "Remarkable. Did you at any time prior suspect a fire might occur?"</p>
+<p><strong>D-5930:</strong> "No, doc. It was just another day until then."</p>
+<p>[Further details about the incident and SCP-26604's response were explored. The fire was confirmed to be unrelated to SCP-26604's influence.]</p>
+<h3>Addendum 3: Additional Experiment Log</h3>
+<ul>
+<li><strong>Experiment 26604-10</strong></li>
+<li><strong>Subject:</strong> D-8832</li>
+<li><strong>Procedure:</strong> Subject instructed to open SCP-26604 after being briefed on a planned exploration of an anomalous location known for temporal fluctuations.</li>
+<li><strong>Result:</strong> Wardrobe produced a full-body suit designed to stabilize the wearer's temporal field, as well as a wrist-mounted device with an unknown purpose.</li>
+<li>
+<p><strong>Follow-up:</strong> During the exploration, the team experienced unexpected temporal distortions. D-8832 was the only team member unaffected, likely due to the suit. The wrist device emitted a field that allowed the retrieval of D-8832 and the acquisition of valuable data.</p>
+</li>
+<li>
+<p><strong>Experiment 26604-20</strong></p>
+</li>
+<li><strong>Subject:</strong> D-9371</li>
+<li><strong>Procedure:</strong> Subject instructed to open SCP-26604, unknowingly before a schedule high-risk containment breach drill.</li>
+<li><strong>Result:</strong> Wardrobe produced riot gear with enhanced mobility and a visor resistant to high-intensity light.</li>
+<li><strong>Follow-up:</strong> During the containment breach drill, D-9371 was deployed as part of the tactical response team. The outfit was instrumental in protecting the subject from effects designed to disorient and incapacitate aggressors during the drill.</li>
+</ul></div>
