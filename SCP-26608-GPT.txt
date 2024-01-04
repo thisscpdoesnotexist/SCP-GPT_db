@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26608 is  a "conceptual sink" that absorbs beauty and places it into a frog </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26608</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26608 refers to an anomalous item that has been designated as a "conceptual sink" due to its unique ability to absorb the abstract quality of beauty from its surroundings and directly transfer this attribute into a single amphibian host, currently identified as SCP-26608-1. At the core of SCP-26608 is an ornate, Victorian-style basin with an intricate network of gold filigree along its edges and a series of unidentifiable symbols etched into its surface. </p>
+<p>When any object, living entity, or performance perceived by human observers as possessing beauty is placed near SCP-26608, the item begins to emanate a soft, luminous glow. Within seconds, the perceived beauty of these items significantly diminishes, resulting in a notable degradation of aesthetic quality. This effect can result in art pieces losing color and vibrancy, individuals experiencing sudden onset of what may be deemed as 'uglifying' features, and performances becoming lackluster and unappealing. Recorded instances show that these effects are irreversible.</p>
+<p>SCP-26608-1, colloquially named "Esmerelda" by the research staff, is a common frog (Rana temporaria) that exhibits heterochromia, with one vibrant blue eye and one bright green eye. Esmerelda's skin shimmers with an iridescence not found in any known species of frog, and observers often describe SCP-26608-1 as "captivating" and "astoundingly beautiful," despite the subject's otherwise ordinary species classification. SCP-26608-1's beauty appears to be a direct result of SCP-26608's absorption and transference processes and has increased proportionally to the conceptual sink's use.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the dangerous nature of SCP-26608's effects on human perception and the potentially disastrous consequences of unrestrained beauty transference, containment is crucial.</p>
+<p>SCP-26608 is to be contained within a 5m x 5m x 5m chamber constructed of reinforced concrete located at Site-██, with a strictly controlled environment, maintaining humidity and temperature levels suitable for the health of SCP-26608-1. The chamber is to be protected by a dual lock system, a biometric scanner, and continuous surveillance to prevent unauthorized access.</p>
+<p>Personnel interacting with SCP-26608 or SCP-26608-1 must undergo psychological screening to ensure immunity to the adverse effects of altered aesthetic perception. All items of significant historical, artistic, or cultural value are strictly forbidden within a 100-meter radius of SCP-26608's containment.</p>
+<p>SCP-26608-1 is to be housed in a terrarium that permits constant observation and is to be handled with care to not trigger any additional transference. Nutritional and environmental requirements for SCP-26608-1 are to be managed by personnel trained in exotic amphibian maintenance.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment #26608-E1</h4>
+<p><strong>Objective:</strong> To assess the range of SCP-26608’s beauty absorption effect.</p>
+<p><strong>Materials:</strong> A photograph of the Mona Lisa, positioned at a distance of 1, 5, 10, and 20 meters away from SCP-26608 in a controlled environment.</p>
+<p><strong>Results:</strong> At 1 meter, the photograph experienced near-instantaneous color fading. At 5 meters, color fading was observed within 5 minutes. At 10 meters, slight fading occurred after 45 minutes. At 20 meters, no effect was observed.</p>
+<p><strong>Conclusion:</strong> SCP-26608's effective range appears to be limited to approximately 10 meters.</p>
+<h4>Experiment #26608-E2</h4>
+<p><strong>Objective:</strong> To determine if the effects of SCP-26608 are reversible.</p>
+<p><strong>Materials:</strong> A live rose was subjected to SCP-26608's influence, losing its color and vitality. The rose was then removed and cared for using standard horticultural methods.</p>
+<p><strong>Results:</strong> After a period of thirty days in isolation, the rose remained desaturated and wilted, with no sign of recovery.</p>
+<p><strong>Conclusion:</strong> SCP-26608's beauty absorption effect is currently irreversible.</p>
+<h4>Experiment #26608-E3</h4>
+<p><strong>Objective:</strong> To observe the effects of SCP-26608 on a human subject.</p>
+<p><strong>Materials:</strong> D-Class personnel, screened for psychological resilience.</p>
+<p><strong>Results:</strong> D-1465 was seated within SCP-26608's effective range. Physical features such as skin clarity and symmetrical properties began to deteriorate, leading to a marked decrease in perceived attractiveness. Psychological evaluations showed significant distress and a sharp decline in self-esteem.</p>
+<p><strong>Conclusion:</strong> SCP-26608’s effects on human subjects are profound and warrant strict containment measures to prevent inadvertent exposure.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p>[The following is an excerpt from an interview between Dr. H████ and D-1465 after prolonged exposure to SCP-26608.]</p>
+<p><strong>Dr. H████:</strong> D-1465, can you describe your emotions the moment you felt the changes begin?</p>
+<p><strong>D-1465:</strong> It was like... I could feel the looks slipping off me, doc. I always thought I was just average, but then... it's like becoming less than that. You don't see it in the mirror all at once; you feel it on the inside first.</p>
+<p><strong>Dr. H████:</strong> Have these changes affected your interactions with others?</p>
+<p><strong>D-1465:</strong> No one wants to look at me anymore. It's the eyes, doc. They avert, they dodge. It’s like I’m not just ugly—I’m something that shouldn't exist.</p>
+<p>[The interview continues, documenting the psychological toll exerted by SCP-26608's effects.]</p>
+<h3>Addendum 3: Incident Log</h3>
+<p>On ██/██/20██, SCP-26608 was inadvertently activated without containment protocols in place, affecting a staff art exhibition located in the nearby break room. Several pieces of art suffered immediate degradation in aesthetic quality, leading to the implementation of improved containment measures, including the aforementioned 100-meter radius ban of valuable objects.</p>
+<p>The incident served as a reminder of SCP-26608's capacity for harm and the need for strict adherence to containment protocols to prevent further loss of cultural and personal value.</p></div>
