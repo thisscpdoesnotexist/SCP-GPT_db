@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26590 is  three anomalous pigs, labelled "1" "2" and "4", released in a foundation facility by the Serpent's Hand. </h3> </center>
+    <p>```</p>
+<h3>Item #:</h3>
+<p>SCP-26590</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26590 refers to a trio of anomalous porcine entities, individually designated SCP-26590-1, SCP-26590-2, and SCP-26590-4. These entities were introduced into a Foundation facility by an operative group associated with the Serpent's Hand. Each instance exhibits properties that defy conventional understandings of biology and physics.</p>
+<p>SCP-26590-1 has the capability to phase through solid matter. Its movements seem to be unrestricted by physical barriers, although it prefers to remain visible to the human eye. It appears identical to a domestic pig (Sus scrofa domesticus), aside from a luminous, fluctuating aura that envelops its body.</p>
+<p>SCP-26590-2 possesses telekinetic abilities, with a range that extends up to approximately 30 meters from its position. Objects manipulated by SCP-26590-2 are often subjected to forces far greater than what a non-anomalous pig could exert.</p>
+<p>SCP-26590-4's primary anomaly relates to its reproductive system, which allows it to spawn miniature versions of itself (designated SCP-26590-4-1 through SCP-26590-4-n) at an alarming rate, regardless of biological limitations or gender. The offspring inherit SCP-26590-4's reproductive capabilities but do not possess any additional anomalous traits.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to their abilities and the threat they pose to the secrecy of Foundation operations, SCP-26590 instances are to be contained in a specialized enclosure located in Site-██. The containment area is to be fitted with multiple layers of reinforced walls, with interstitial spaces filled with a dense, pliable material to mitigate the effects of their anomalous properties.</p>
+<p>SCP-26590-1 is to be tracked at all times via GPS and biometric sensors implanted in its body. The containment chamber should be constantly monitored for any phasing activity, and electromagnetic fields are to be generated as a contingency to prevent escape.</p>
+<p>SCP-26590-2 must be contained within a telekinetic-dampening field to inhibit the range and potency of its abilities. The chamber must undergo routine inspections for wear or structural damage due to the pig's telekinetic activity.</p>
+<p>Since SCP-26590-4's reproductive rate poses a significant containment breach risk, it must be kept in a hermetically sealed environment. Redundant sterilization protocols, including incineration and cryogenic methods, are to be in place for managing the offspring.</p>
+<p>Personnel interacting with SCP-26590 instances are required to use protective gear and follow strict safety guidelines to prevent injuries and accidental proliferation of SCP-26590-4 offspring.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-26590 instances were recovered following a breach at Site-██, during which the Serpent's Hand released them ostensibly to distract Foundation personnel while undertaking an unrelated operation. Site-██ suffered considerable structural and informational damage before the entities were contained.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewed</strong>: Dr. ██████, Lead Researcher for SCP-26590</p>
+<p><strong>Interviewer</strong>: Agent ███████</p>
+<p><strong><Begin Log></strong></p>
+<p><em>Agent ███████</em>: "Dr. ██████, can you elaborate on the initial containment procedures for SCP-26590?"</p>
+<p><em>Dr. ██████</em>: "Certainly. It was pandemonium. We had to rapidly devise a method to counteract their abilities. Standard containment wouldn't suffice. For SCP-26590-1, we utilized a combination of GPS tracking and electromagnetic fields. SCP-26590-2 required immediate development and deployment of telekinetic dampeners. As for SCP-26590-4, incineration became essential—every minute wasted meant exponential growth."</p>
+<p><em>Agent ███████</em>: "Have there been any changes to protocols since?"</p>
+<p><em>Dr. ██████</em>: "Indeed, we've refined them. We underestimated SCP-26590-2's telekinesis; it tore through our initial dampeners. Now, we cycle through different frequency bands to disrupt its focus. SCP-26590-4's containment is a priority—we're exploring long-term solutions..."</p>
+<p><strong><End Log></strong></p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 26590-E-01</h4>
+<p><strong>Objective</strong>: To determine the limits of SCP-26590-1's phasing ability.
+<strong>Procedure</strong>: A series of walls made of various materials were placed between SCP-26590-1 and a food source.
+<strong>Result</strong>: SCP-26590-1 phased through all materials, showing no preference or difficulty with any type.</p>
+<h4>Experiment 26590-E-02</h4>
+<p><strong>Objective</strong>: To ascertain the effective range of SCP-26590-2's telekinetic abilities.
+<strong>Procedure</strong>: Objects of varying weights placed at distances ranging from 2 to 40 meters from SCP-26590-2.
+<strong>Result</strong>: SCP-26590-2 was able to affect, but not completely control, objects up to 30 meters away. The maximum weight it could telekinetically lift was approximately 200kg.</p>
+<h4>Experiment 26590-E-03</h4>
+<p><strong>Objective</strong>: To study SCP-26590-4's reproductive cycle and offspring.
+<strong>Procedure</strong>: One offspring designated SCP-26590-4-1 was isolated and observed for reproduction behavior.
+<strong>Result</strong>: SCP-26590-4-1 matured within hours and began reproducing. Without proper containment, the exponential growth of SCP-26590-4 offspring could result in a severe containment breach.
+```</p></div>
