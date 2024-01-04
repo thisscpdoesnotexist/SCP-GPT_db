@@ -1,0 +1,68 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26610 is  an alternate universe that was previously similar to our own, but recently begun experiencing an advanced form of conceptual decay, causing entire concepts to stop existing </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26610</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-26610 refers to an alternate universe (designated SCP-26610-A) that was discovered through a multiverse analysis conducted by Dr. Miranda Nash using the inter-dimensional scan device IDSD-04. SCP-26610-A was formerly parallel to our reality with minor deviations. However, as of the most recent observations, SCP-26610-A has been undergoing a phenomenon known as "conceptual decay." This process results in the complete eradication of specific concepts from the collective understanding and physical reality of SCP-26610-A, making them non-existent. The onset of this decay seems to be sporadic and can target concepts ranging from simple objects to complex philosophical ideas.</p>
+<p>The effects of the decay are irreversible, and entities within SCP-26610-A experience a form of retroactive amnesia, forgetting the concept ever existed. Physical, digital, and all other forms of the record undergo spontaneous alteration or destruction to reflect a reality where the missing concept was never present. This phenomenon possesses substantial implications for the cultural, linguistic, and functional stability of SCP-26610-A.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given that SCP-26610-A is an entire alternate universe, physical containment is impossible. However, the IDSD-04 is currently the only known means of observing or interacting with SCP-26610, and as such, it should be secured in a standard containment vault when not in use.</p>
+<p>All access to SCP-26610-A through IDSD-04 requires Level 4 clearance or higher and must be approved by at least two members of O5 Command. Direct interaction with SCP-26610-A is currently prohibited due to the unpredictable nature of the conceptual decay. Any observation or experimentation must be strictly documented and monitored to prevent potential contamination or the spread of conceptual decay to our universe.</p>
+<p>Researchers are encouraged to monitor SCP-26610-A periodically for any substantial changes or acceleration in the decay process. Backup analog recordings of all observations are to be stored in a secure archive to safeguard against potential informational or conceptual degradation within our own universe.</p>
+<h3>Addendum 1:</h3>
+<p>SCP-26610 was originally thought to be a mere experimental anomaly until several disappearances of concepts were confirmed through repeated observations. The most notable disappearance was that of "the wheel," leading to significant lifestyle and technological regressions within SCP-26610-A. The ongoing investigation aims to understand the mechanism behind the conceptual decay and its possible implications for other universes, including our own.</p>
+<h3>Addendum 2:</h3>
+<h4>Experiment Log SCP-26610-01:</h4>
+<ol>
+<li><strong>Objective:</strong> Observe the immediate effects of conceptual decay on an isolated concept.</li>
+<li><strong>Procedure:</strong> Monitoring of the concept "analog clocks" within SCP-26610-A.</li>
+<li><strong>Results:</strong> Concept ceased to exist over a period of 7 days. Digital records were altered, and individuals showed no recognition or understanding when prompted about the concept.</li>
+<li>
+<p><strong>Analysis:</strong> The decay seems to be thorough, altering past records and memory without residual evidence.</p>
+</li>
+<li>
+<p><strong>Objective:</strong> Determine the extent of retroactive amnesia on individuals within SCP-26610-A.</p>
+</li>
+<li><strong>Procedure:</strong> Interviews with individuals (via remote communication using IDSD-04) about recently decayed concepts.</li>
+<li><strong>Results:</strong> All subjects exhibited no recollection of the concepts and were unable to understand them when described.</li>
+<li>
+<p><strong>Analysis:</strong> Retroactive amnesia is complete—individuals cannot relearn or comprehend decayed concepts.</p>
+</li>
+<li>
+<p><strong>Objective:</strong> Monitor the stability of more abstract concepts.</p>
+</li>
+<li><strong>Procedure:</strong> Analysis of the persistence of the concept "justice" within SCP-26610-A.</li>
+<li><strong>Results:</strong> Partial decay observed. Legal institutions remain, but application and understanding of justice are significantly hindered.</li>
+<li><strong>Analysis:</strong> Abstract concepts may decay in a more gradual and piecemeal manner than concrete objects.</li>
+</ol>
+<h3>Addendum 3:</h3>
+<h4>Interview Log SCP-26610-AI-01:</h4>
+<ul>
+<li><strong>Interviewer:</strong> Dr. Miranda Nash</li>
+<li><strong>Subject:</strong> [REDACTED] (SCP-26610-A resident)</li>
+<li><strong>Date:</strong> [DATA EXPUNGED]</li>
+<li><strong>Foreword:</strong> The interview was conducted through IDSD-04 to assess the cognitive state of SCP-26610-A's inhabitants post-decay of a significant concept.</li>
+</ul>
+<p>[Begin Log]</p>
+<p><strong>Dr. Nash:</strong> Good afternoon. Can you please state your name for the record?</p>
+<p><strong>Subject:</strong> It's [REDACTED], doctor. What's this about?</p>
+<p><strong>Dr. Nash:</strong> We are trying to understand the changes in your world. Do you remember a concept called "government"?</p>
+<p><strong>Subject:</strong> I... don't. Should I? The word sounds completely foreign.</p>
+<p><strong>Dr. Nash:</strong> It was a system for managing communities and larger populations. What is your form of management here?</p>
+<p><strong>Subject:</strong> I'm not sure what you mean. We just... exist together. There's some order, but no... 'management,' as you called it.</p>
+<p><strong>Dr. Nash:</strong> Intriguing. How do you resolve conflicts?</p>
+<p><strong>Subject:</strong> Usually through discussion until a consensus is reached. Sometimes, we just accept the disagreement.</p>
+<p><strong>Dr. Nash:</strong> Are there other concepts you find yourself unable to understand or remember?</p>
+<p><strong>Subject:</strong> There are gaps, yes. Sometimes it feels like something should be there, but then it slips away before I can grasp it.</p>
+<p><strong>Dr. Nash:</strong> Thank you for your cooperation. We will continue to observe and try to understand what is happening.</p>
+<p>[End Log]</p>
+<p>[Extended interview log is available upon request.]</p>
+<p><strong>Closing Statement:</strong> The interview suggests that the residents of SCP-26610-A are aware of absences within their cognition, but are unable to articulate or comprehend the nature of these absences. This lends credence to the hypothesis that conceptual decay affects not just physical reality but also the cognitive framework of SCP-26610-A's inhabitants.</p></div>
