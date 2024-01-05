@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26622 is  Mammon, the Grand Dragon. Scaled God of the Deep, Master of the Infinite Vault, and Lord of the Yre-Ynamon. Bearer of the Word "Tower" and God of the Seven–Part World. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26622</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26622, colloquially referred to as "Mammon, the Grand Dragon," is an anomalous entity possessing vast abilities, most of which remain poorly understood. SCP-26622 exhibits the appearance of a colossal serpentine dragon with iridescent scales. Estimates place its length at approximately 300 meters with certain fluctuations that suggest an ability to alter its physical dimensions at will.</p>
+<p>Entities resembling SCP-26622 have been historically documented across various cultures, often associated with wealth, greed, and the underworld. Research suggests SCP-26622 may be the inspiration for these mythological depictions.</p>
+<p>SCP-26622 possesses reality-warping capabilities, primarily utilized to create and manipulate pocket dimensions designated as Yre-Ynamon. These dimensions appear to function as repositories for a seemingly infinite amount of wealth, including coins, jewels, and artifacts from countless civilizations, many of which do not correspond to any known historical records.</p>
+<p>It has demonstrated the ability to communicate in multiple languages, often doing so telepathically. Its voice is reported to induce a sense of awe and terror combined, and it self-references with several titles, including "Scaled God of the Deep," "Master of the Infinite Vault," and "Bearer of the Word 'Tower' and God of the Seven–Part World."</p>
+<p>SCP-26622's intentions are unclear, but it has shown hostile behavior when its hoard is threatened or when containment measures are enforced. Measures must be taken to ensure it does not establish control over economic systems or other key societal structures.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26622's formidable power and elusive nature, direct containment is currently impossible. Thus, containment efforts are focused on surveillance and information suppression.</p>
+<p>A network of satellites equipped with thaumaturgic sensors is tasked with monitoring any unusual activity that may be associated with SCP-26622's manifestations. Additionally, specially trained MTF Gamma-4 ("Dragonslayers") are on standby to respond to any SCP-26622 appearances.</p>
+<p>Any attempts by SCP-26622 to influence global financial markets or transport material from its hoard to the baseline reality must be intercepted and neutralized immediately. A disinformation campaign is in effect to discredit any reports or evidence of SCP-26622's existence.</p>
+<p>Should SCP-26622 materialize, Protocol Draconomicon IV is to be enacted, which involves the use of high-yield thaumaturgic weapons and reality stabilization technology to force the entity's retreat back into Yre-Ynamon.</p>
+<h3>Addendum 1: Interview Log 26622-37</h3>
+<p>The following is a transcript of an interview conducted with SCP-26622 on ██/██/20██ by Dr. ██████ ███████ after a rare voluntary manifestation within a secure containment chamber.</p>
+<p><Begin Log>
+Dr. ██████: "SCP-26622, can you explain the purpose of the Yre-Ynamon dimensions and your interest in wealth accumulation?"</p>
+<p>SCP-26622: "Wealth is power, little mortal. In my vaults rest the treasure of ages, each coin a testament of reverence, each gem a bulbous eye that has gazed upon the grandeur of Mammon."</p>
+<p>Dr. ██████: "Do you pose a threat to humanity or this world?"</p>
+<p>SCP-26622: [Laughter resonates through the chamber] "A dragon does not concern itself with the affairs of ants, unless they come to plunder its sanctum. I am lord over what lies beneath. So long as the tower stands, I merely watch."</p>
+<p>Dr. ██████: "And what of the word 'Tower'? What significance does it hold to you?"</p>
+<p>SCP-26622: "It is the pillar upon which all weight rests, the fulcrum of the Seven–Part World. To speak more would be to unravel the coil of Fate itself."</p>
+<p><End Log></p>
+<h3>Addendum 2: Experiment Log 26622-E</h3>
+<p><strong>Experiment 26622-E1:</strong>
+- <strong>Date:</strong> ██/██/20██
+- <strong>Purpose:</strong> To evaluate SCP-26622's influence on local economic conditions.
+- <strong>Procedure:</strong> A simulated economic system was established within a controlled environment, with variables representative of a small nation's market. SCP-26622 was then provided access to this simulation via a secure thaumaturgic interface.
+- <strong>Results:</strong> Within 48 hours, inflation rates skyrocketed, leading to a complete collapse of the simulated economy. SCP-26622 withdrew its influence shortly before the collapse.
+- <strong>Researcher Notes:</strong> Shows SCP-26622's capability to drastically affect economic stability. Further analysis required to understand mechanisms of influence.</p>
+<p><strong>Experiment 26622-E2:</strong>
+- <strong>Date:</strong> ██/██/20██
+- <strong>Purpose:</strong> To test SCP-26622's hoarding instinct and its reaction to perceived theft.
+- <strong>Procedure:</strong> A small amount of gold was teleported into the Yre-Ynamon under heavy thaumaturgic guarding followed by an attempt to extract it by a specialized drone.
+- <strong>Results:</strong> SCP-26622 manifested instantaneously, destroying the extraction device. The hoarded gold was returned to the Yre-Ynamon. SCP-26622 issued a telepathic warning of catastrophic retribution should such an attempt be made again.
+- <strong>Researcher Notes:</strong> SCP-26622 demonstrates an aggressive protective response to its hoard. Direct interaction with the contents of Yre-Ynamon is strongly discouraged.</p>
+<h3>Addendum 3: Incident Report 26622-45</h3>
+<p>On ██/██/20██, SCP-26622 materialized in the financial district of [REDACTED]. The entity's presence caused widespread panic and economic disruption. MTF Gamma-4 was deployed and engaged in a seventeen-hour operation to contain SCP-26622, ultimately resulting in the application of Protocol Draconomicon IV and the withdrawal of SCP-26622.</p>
+<p>The aftermath required extensive use of amnestics and a coordinated disinformation campaign attributing the phenomenon to an elaborate stunt by a tech billionaire. Financial markets were stabilized over a period of several weeks, and no lasting damage was observed. Continued vigilance is recommended to prevent similar incidents.</p></div>
