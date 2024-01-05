@@ -1,0 +1,51 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26621 is  Queen Nadia Om, the Blood Flower Imperiatrix of the Gates of Fire. Bearer of the word "Glory", and Goddess of the Seven-Part World </h3> </center>
+    <h1>SCP-26621</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-26621</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26621, referred to as "Queen Nadia Om, the Blood Flower Imperiatrix of the Gates of Fire", is a humanoid entity of indeterminate origin, with physical characteristics suggestive of royalty or divine representation in several ancient Earth cultures. The entity is approximately 2.1 meters in height, with skin resembling molten obsidian, eyes that emit a faint crimson light, and hair composed of living flame.</p>
+<p>The entity claims to be part divine and part abyssal, suggesting a composite nature that is both metaphysical and extraplanar. It refers to itself as the Bearer of the word "Glory" and asserts dominion over a realm it calls "the Seven-Part World," details of which remain unconfirmed due to the entity's uncooperative nature regarding information about its origins or capabilities.</p>
+<p>SCP-26621 has demonstrated the ability to manipulate temperatures within a minimum 50-meter radius, typically resulting in spontaneous combustion of objects and severe environmental heat distortions. The entity can also summon what appear to be lesser creatures of a similar fiery composition, referred to as its "enforcers", through unidentified dimensional gates around its vicinity.</p>
+<p>Telepathic communication is possible with SCP-26621, but it often results in extreme psychological distress and insanity in individuals exposed to the entity's mental presence for prolonged periods. Its speech is coherent, though laced with complex metaphors and arcane dialects that often require further interpretation by linguistic specialists and cryptanalysts.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26621 is to be contained within a multi-layered containment unit made up of a tungsten exoskeleton, treated with a heat-resistant anomalous material developed by the Foundation's research teams. An active cooling system capable of withstanding extended periods of thermal stress must be operational at all times. The containment chamber is to be vacuum-sealed to prevent the spread of the entity's thermal influence.</p>
+<p>Direct contact with SCP-26621 is strictly prohibited unless authorized by personnel with security clearance level 4 or higher. Communication with the entity is only to be attempted via telepresence or through D-class personnel trained in psychic resistance techniques. Any personnel exhibiting signs of mental compromise following interaction with SCP-26621 are to be detained and evaluated for potential cognitohazard exposure.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p>Dates are not included to maintain operational security. For access to full logs, please contact the current Head of Research for SCP-26621.</p>
+<h4>Experiment #26621-03</h4>
+<p>Objective: To determine the limits of SCP-26621's thermal control.
+Procedure: D-class personnel introduced into the containment chamber while temperatures were gradually increased.
+Result: Subject suffered lethal hyperthermia at temperatures roughly 200°C above the standard threshold for human survival. SCP-26621 appeared to be unaffected by the heat.</p>
+<h4>Experiment #26621-07</h4>
+<p>Objective: To ascertain the properties of the "enforcers" SCP-26621 summons.
+Procedure: Stimulate SCP-26621 into summoning its entities by means of a controlled emotional agitation through a remotely operated provocation device.
+Result: Entity summoned three "enforcers". Enforcers displayed limited independence but followed commands issued by SCP-26621. Attempts to capture enforcers for study resulted in their self-incineration.</p>
+<h4>Experiment #26621-18</h4>
+<p>Objective: Test the extent of telepathic communication without psychological damage.
+Procedure: Utilization of a D-class personnel with documented high psychic resistance engages in conversation.
+Result: Partially successful. The subject maintained coherence for 12 minutes before exhibiting distress. SCP-26621 revealed vague information about the Gates of Fire and its dominion therein.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p>Interviewed: SCP-26621</p>
+<p>Interviewer: Dr. ██████</p>
+<p><Begin Log></p>
+<p>Dr. ██████: "SCP-26621, can you elaborate on the nature of the Seven-Part World?"</p>
+<p>SCP-26621: "My domain is splendor reaped from the ashes of creation. Seven are the facets of glory by fire revealed, and only in flame can one bare witness to such truths."</p>
+<p>Dr. ██████: "Are these facets physical places, or something more abstract?"</p>
+<p>SCP-26621: "They are as real as the foundation upon which your kind treads. But they are hidden by veils that only the chosen may pierce."</p>
+<p>Dr. ██████: "Who are the chosen?"</p>
+<p>SCP-26621: "Those who bear my word and wield my fire. They walk amongst you, harboring the embers of a new dawn."</p>
+<p><End Log></p>
+<p>Note: Further psychoanalysis suggests SCP-26621's responses are steeped in symbolic representation. Efforts to decode potential references are ongoing.</p>
+<h3>Addendum 3: Incident Report</h3>
+<p>On [REDACTED], SCP-26621 underwent a containment breach, resulting from an unforeseen failure of the containment chamber's cooling system. The event lead to significant structural damage to the containment wing and the loss of several research team members and security personnel.</p>
+<p>Containment was reestablished after 3 hours, with the implementation of new protocols to avoid a repetition of similar occurrences. SCP-26621's motivations during the breach remain unclear; however, it has become evident that its containment is of the highest priority, and research into more advanced containment methods is ongoing.</p></div>
