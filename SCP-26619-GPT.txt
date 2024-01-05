@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26619 is  Your Pal Gog–Agog, the Great Devourer, Scourge of Worlds, Queen of Worms. Bearer of the Word "Beast" and Goddess of the Seven–Part World. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26619</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26619, self-referenced as "Your Pal Gog–Agog, the Great Devourer, Scourge of Worlds, Queen of Worms," is an eldritch entity composed entirely of a seemingly infinite mass of interconnected, sentient worms. Each individual worm carries a portion of SCP-26619's consciousness, and collectively they display sapience and an erratic, often whimsical personality. </p>
+<p>SCP-26619 has demonstrated the ability to manipulate its form with a high degree of control, able to mimic human appearance, create tentacle-like appendages, and even masquerade as non-living objects. This transformative ability appears to be limited only by the entity's own imagination. Its natural form, if such a concept is applicable, is an amorphous writhing mass of worms, varying in size and coloration.</p>
+<p>SCP-26619 possesses regenerative capabilities that make it immune to most forms of physical harm. The entity can also spread parts of its consciousness through smaller worm clusters, allowing it to infiltrate or influence environments and populations subtly. Having proclaimed itself a "Goddess of the Seven-Part World," SCP-26619 has been observed to manifest god-like abilities, notably affecting local ecosystems, weather patterns, and even warping reality to a minor extent within its immediate vicinity.</p>
+<p>SCP-26619 consistently exhibits a desire for worship and recognition, and has made several attempts to establish a following or cult-like group among Foundation staff and D-class personnel. Psychological profiles indicate an entity with an insatiable need for attention and control, layered with a flippant disposition toward violence and chaos, traits that have been factored into containment and interaction protocols.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26619 is contained within a multi-layered, high-security bio-containment cell at Site-118. The innermost chamber of the cell is constructed from an alloy resistant to corrosion and breach attempts by SCP-26619. A series of vacuum and heat-based decontamination airlocks separate this chamber from the outer observation and maintenance area.</p>
+<p>Any form of physical interaction with SCP-26619 is strictly forbidden without prior approval from at least two Level 4 personnel. All staff assigned to SCP-26619 must undergo rigorous psychological evaluation and memetic resistance training. Communication with the entity must take place through a reinforced, soundproof, two-way communication system and monitored by the site's psychiatric team at all times.</p>
+<p>In the event of a containment breach, Site-118 is to enter immediate lockdown, and the local area surrounding the breach is to be sterilized with flame units and insecticides capable of neutralizing SCP-26619's constituent organisms. It is essential to recapture any separated worms, as they may act as vectors for SCP-26619 to regenerate or spread its influence.</p>
+<p>Foundation web-crawler and surveillance programs are in continuous operation to monitor for and suppress any public knowledge or cult activity related to SCP-26619. Any infected individuals are to be detained and administered Class B amnestics, with further analysis to ensure that no part of SCP-26619's consciousness remains within them. </p>
+<h3>Addendum 1: Interview Log 26619-α</h3>
+<p><em>Interviewer: Dr. Cynthia Miles</em>
+<em>Subject: SCP-26619</em></p>
+<p>[LOG BEGINS]</p>
+<p>Dr. Miles: "Gog–Agog, can we begin by discussing your origin?"</p>
+<p>SCP-26619: "Origin? Darling, I've always been! Always wiggling, writhing, dining! Worlds upon worlds, a feast of endless delight!"</p>
+<p>Dr. Miles: "Are you implying that you've consumed other worlds before arriving here?"</p>
+<p>SCP-26619: "Consume is such a pedestrian term, dear. I embraced them! Wrapped them in my love until all was one and one was all. Sometimes, they even said thank you."</p>
+<p>[...]</p>
+<p>[LOG ENDS]</p>
+<h3>Addendum 2: Experiment Log 26619-Δ</h3>
+<p><strong>Experiment 26619-09</strong><br />
+Objective: Test SCP-26619’s ability to manipulate biological matter.<br />
+Procedure: D-class personnel introduced into containment with the order to touch SCP-26619.<br />
+Result: SCP-26619 engulfs the D-class personnel's arm, subsequently shaping it into various inanimate objects before restoring it. No lasting harm to subject.</p>
+<p><strong>Experiment 26619-14</strong><br />
+Objective: Assess SCP-26619's regenerative capabilities using incendiary devices.<br />
+Procedure: Small portion of SCP-26619 exposed to controlled thermobaric detonation.<br />
+Result: SCP-26619 destroyed in explosion, however, reformed from surviving worms within hours.</p>
+<p><strong>Experiment 26619-21</strong><br />
+Objective: Determine SCP-26619’s influence range for reality warping.<br />
+Procedure: SCP-26619 requested to alter the color of flowers placed exactly 50 meters away from containment.<br />
+Result: Flowers within a 10-meter radius of SCP-26619 withered instantly, those at 50 meters remain unaffected.</p>
+<h3>Addendum 3: Incident Report 26619-Θ</h3>
+<p>On ██/██/20██, SCP-26619 initiated a breach by utilizing micro-worm swarms to compromise electronic locks. The entity roamed the site for approximately 2 hours, causing extensive damage and personnel casualties. SCP-26619 was eventually re-contained following the activation of the site’s emergency decontaminant procedures. This incident has prompted a review of current containment protocols and additional safeguards against electronic subterfuge are being implemented.</p></div>
