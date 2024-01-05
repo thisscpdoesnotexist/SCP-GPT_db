@@ -1,0 +1,53 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26611 is  a giant divine wolf that ate the fifth season of the year, retroactively erasing it </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26611</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26611 is an anomalous entity resembling a canid of extraordinary size, believed to be both divine and esoteric in nature. Visually, SCP-26611 is akin to a titanic wolf, standing approximately 50 meters tall at the shoulder, with a fur that seems to constantly shift in texture and color, often reflecting the night sky, regardless of the current time or environment.</p>
+<p>The most significant anomaly attributed to SCP-26611, as reported by historians and temporal anomaly specialists, is the consumption of a previously existing fifth season of the year, which has been retroactively removed from human consciousness and historical documentation. This season, referred to as "Quintilis" in certain recovered SCP documents, is now absent from any current timeline, and only known through the direct intervention of SCP-26611.</p>
+<p>Secondary anomalies include localized aurora-like atmospheric effects, gravitational distortions, and temporal slips in SCP-26611's immediate vicinity. All personnel who have observed SCP-26611 directly report feelings of profound melancholy and nostalgia for lost time, as well as sporadic lapses in short-term memory.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its size and nature, physical containment of SCP-26611 is currently impossible. The primary containment strategy centers around misinformation campaigns to discredit any sightings of SCP-26611 and to suppress public knowledge of the consumed fifth season.</p>
+<p>A mobile task force, designated as MT-Quintilis-9 ("Season's End"), is tasked with rapid response to any appearance of SCP-26611. This force is equipped with high-yield thermobaric weapons, reality-anchor technology, and memetic agents designed to disperse and disorient SCP-26611, should it manifest.</p>
+<p>Additionally, a research team focusing on temporal science is working towards the construction of a device capable of establishing a stable temporal anchor point, in hopes of preventing any further retroactive alterations to the flow of time.</p>
+<h3>Addendum 1: Recovered Document</h3>
+<p>An ancient manuscript, dated back to circa 450 BCE, was discovered within the ruins of a now-unknown civilization, encoded with linguistic anomalies that mirrored SCP-26611's temporal effects. The translation revealed a passage that describes a "celestial wolf that devours the unnamed season," bringing alignment to the stars and bonding the cycle of time together.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26611-A</h4>
+<ul>
+<li>Objective: To establish a visual contact with SCP-26611 and assess its physical properties.</li>
+<li>Method: Utilization of high-altitude drones equipped with multiple spectrum cameras.</li>
+<li>Results: SCP-26611's presence caused severe interference with equipment. Only fleeting images were captured, revealing a silhouette against a star-like background.</li>
+</ul>
+<h4>Experiment 26611-B</h4>
+<ul>
+<li>Objective: To quantify the temporal anomalies in SCP-26611's presence.</li>
+<li>Method: Deployment of autonomous chronometers synchronized with atomic clocks outside the anomaly's influence.</li>
+<li>Results: Chronometers exhibited a consistent loss of 5 minutes and 37 seconds upon SCP-26611's appearance. The exact time remains missing post anomaly.</li>
+</ul>
+<h4>Experiment 26611-C</h4>
+<ul>
+<li>Objective: To test the effectiveness of reality-anchor technology on SCP-26611.</li>
+<li>Method: Deployment of prototype temporal anchors during a manifestation of SCP-26611.</li>
+<li>Results: SCP-26611 became visibly agitated; the anchors succeeded in delaying, but not preventing, its disappearance.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interviewer: Dr. ████████</h4>
+<h4>Interviewed: [REDACTED], a historian exhibiting temporal immunity to SCP-26611's effects.</h4>
+<p><BEGIN LOG></p>
+<p><strong>Dr. ████████:</strong> Can you describe what you know about Quintilis?</p>
+<p><strong>[REDACTED]:</strong> I remember it clearly... It was unlike any of our seasons, a time of reflection and preparation—neither warm nor cold, a season of harmony... before the wolf came...</p>
+<p><strong>Dr. ████████:</strong> The wolf—the entity we've designated SCP-26611. Did you witness its actions?</p>
+<p><strong>[REDACTED]:</strong> Yes, it descended from the skies, an ethereal silhouette. There was no confrontation, no battle. It simply opened its jaws wide, and Quintilis was gone—as if it had never been.</p>
+<p><strong>Dr. ████████:</strong> How have your memories survived the temporal alterations?</p>
+<p><strong>[REDACTED]:</strong> I'm uncertain. Perhaps it's my extensive research into temporal anomalies, or maybe a quirk of birth. Whatever the reason, this burden of memory eats at me, like the wolf ate Quintilis.</p>
+<p><END LOG></p>
+<p>The interview revealed an acute emotional strain on subjects recalling the lost season. Further investigation into how these individuals retain their memories is ongoing, along with efforts to develop countermeasures to SCP-26611's reality-altering capabilities.</p></div>
