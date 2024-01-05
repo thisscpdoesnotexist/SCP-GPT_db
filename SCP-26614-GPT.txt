@@ -1,0 +1,56 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26614 is  Princess Mamoru Moonshine Jagermeister Jack Jack Daniels Timothy Tim Bill Freddy Mercury Blueberry Luna, Esquire </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26614</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26614, also known as "Princess Mamoru Moonshine Jagermeister Jack Jack Daniels Timothy Tim Bill Freddy Mercury Blueberry Luna, Esquire," is an entity of unknown origin that exhibits a number of anomalous properties. SCP-26614 appears as a constantly shifting form, taking aspects from various animals, mythological creatures, and sometimes inanimate objects. Its size can vary from that of a small cat to a mass exceeding ten meters in diameter.</p>
+<p>The entity has demonstrated an ability to breach containment by phasing through solid matter, teleportation, or by manipulation of reality around itself. SCP-26614 appears to be sentient, with intelligence tests suggesting a level comparable to a human aged 30 years, although its behavior often seems nonsensical or capricious to observers.</p>
+<p>SCP-26614's most dangerous attribute is its reality-warping potential. It can create localized alterations in the fabric of space-time, leading to unpredictable and often hazardous effects, such as the spontaneous generation of dangerous SCPs or the alteration of physical laws. It is to be noted that SCP-26614's reality-warping abilities seem to be linked to its emotional state.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the highly unpredictable and dangerous nature of SCP-26614, a specialized containment unit has been designed to minimize the risk of breach. The containment area is a 50m x 50m x 50m room constructed of reinforced high-density material laced with a pattern of embedded reality stabilizers.</p>
+<p>The chamber is to be suspended within a secondary containment void to further distance SCP-26614 from truly unrestrained reality manipulation. Only personnel with Level 5 security clearance are authorized to interact or communicate with SCP-26614, and only through remote means. Physical interaction is strictly forbidden unless required for testing, approved by at least two O5 Council members.</p>
+<p>All staff assigned to SCP-26614 must undergo psychological evaluations bi-weekly to assess for any reality-warping influence from the entity.</p>
+<p>In the event of a containment breach, Procedure 26614-Tethys must be initiated immediately. This involves the activation of a site-wide array of Scranton Reality Anchors and the deployment of a Mobile Task Force equipped to handle reality-warping entities (MTF Lambda-5 "White Rabbits").</p>
+<h3>Addendum 1:</h3>
+<p><strong>Experiment Log 26614-A</strong></p>
+<ul>
+<li>
+<p><strong>Experiment A-1</strong></p>
+<ul>
+<li><strong>Objective:</strong> Determine the extent of SCP-26614's reality-warping abilities in a controlled environment.</li>
+<li><strong>Procedure:</strong> SCP-26614 was provided with various objects to interact with, including a Rubik's Cube, a digital clock, and a live Guinea pig.</li>
+<li><strong>Results:</strong> SCP-26614 instantaneously solved the Rubik's Cube by turning it into a sphere of the same colors. The digital clock began displaying time in a non-Euclidean dimension, and the Guinea pig was transformed into a docile, miniature Gryphon-like creature, designated SCP-26614-1. </li>
+</ul>
+</li>
+<li>
+<p><strong>Experiment A-2</strong></p>
+<ul>
+<li><strong>Objective:</strong> Assess SCP-26614's intelligence through non-verbal communication.</li>
+<li><strong>Procedure:</strong> SCP-26614 was presented with a complex series of pictograms.</li>
+<li><strong>Results:</strong> SCP-26614 rearranged the pictograms to depict a comical narrative involving the researchers. It then proceeded to animate the pictograms, causing them to perform the depicted actions in a loop. </li>
+</ul>
+</li>
+<li>
+<p><strong>Experiment A-3</strong></p>
+<ul>
+<li><strong>Objective:</strong> Test the containment effectiveness by simulating a breach scenario.</li>
+<li><strong>Procedure:</strong> Simulated a localized failure of reality stabilizers within the containment cell.</li>
+<li><strong>Results:</strong> SCP-26614 briefly created a bubble of alternate reality in which it crowned itself 'King of the Cosmos.' Reality stabilizers were quickly reinstated, with SCP-26614 commenting in a distorted voice, "The cosmos must wait for another day."</li>
+</ul>
+</li>
+</ul>
+<h3>Addendum 2:</h3>
+<p><strong>Interview Log 26614-B</strong></p>
+<p>This section details a telepathic interview conducted with SCP-26614 by Dr. ██████, exploring the entity's perception and motivations. The interview transcript is considerably lengthy, revealing SCP-26614's complex personality and hinting at a broader understanding of the multiverse. Despite SCP-26614's capricious responses, key insights regarding its containment and interaction with other SCPs were obtained.</p>
+<h3>Addendum 3:</h3>
+<p><strong>Updated Containment Protocols</strong></p>
+<p>Following the insights gained from the interview and experiments, revisions to SCP-26614's containment procedures were made, including the integration of an emotional state monitoring system to predict and possibly prevent hostile reality warping. Furthermore, a set of humane interaction guidelines has been created to maintain SCP-26614's cooperative behavior. </p>
+<p>The updated protocols have led to a marked decrease in containment breaches. SCP-26614 appears to respond positively to consistent and respectful treatment, which has been leveraged to minimize the need for stricter containment measures. Regularly scheduled enrichment activities have also been implemented to monitor SCP-26614's mental health and mitigate any potential reality warping caused by distress.</p></div>
