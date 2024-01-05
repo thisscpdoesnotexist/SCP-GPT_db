@@ -1,0 +1,54 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26618 is  Incubus, Sword King of the Middle Army. Bearer of the Word "Flame" and God of the Seven–Part World </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26618</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26618 refers to a metaphysical entity that claims to be the "Incubus, Sword King of the Middle Army," and identifies as the deity or demiurge of a purported "Seven-Part World." It is known for its self-proclaimed title "Bearer of the Word 'Flame'" and possesses the ability to influence reality in a localized region around itself through verbal commands, often pertaining to the conceptual manipulation of "fire" or "flame."</p>
+<p>SCP-26618 appears as a humanoid figure approximating 2.3 meters in height, enveloped in constantly shifting armor that seems to emit a low incandescence from between its segments. It always materializes with a large sword, hereafter referred to as SCP-26618-1, which it claims was forged in the "Eternal Flames of the Seventh Dominion." SCP-26618-1 demonstrates anomalously high temperatures and an ability to cut through most known materials with ease.</p>
+<p>SCP-26618 communicates in an archaic form of English but understands modern dialects. It exhibits a complex personality and is often scornful of questioning or perceived challenges to its authority. Its reactions to containment have varied from cooperative to extremely violent, depending on circumstances which are not yet fully understood.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26618 is contained within a specialized cell at Site-██, which is both thermally insulated and equipped with a rapid-response coolant system to counteract the extreme heat produced by SCP-26618 and SCP-26618-1. The containment cell is constructed from refractory materials, and its dimensions are no smaller than 10m x 10m x 10m in order to provide sufficient space for the entity's movements and to prevent unnecessary provocation.</p>
+<p>Any interaction with SCP-26618 must be approved by personnel with Level 4 security clearance, and those who enter the containment area must wear heat-resistant suits. In the event of a containment breach, emergency coolant spray systems are to be activated and specialized containment teams, equipped with heat-resistant gear, are to re-establish containment with minimal engagement of SCP-26618.</p>
+<p>Under no circumstances are personnel to acknowledge or validate SCP-26618's claims of divinity or engage in any form of worship or subservience, as this could lead to an increase in its reality-altering abilities.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 26618-A:</strong>
+- <strong>Objective:</strong> To test the limits of SCP-26618's ability to manipulate flame.
+- <strong>Procedure:</strong> SCP-26618 was instructed to create a flame within a controlled environment. Subsequent instructions were given to alter the temperature, color, and shape of the flame.
+- <strong>Results:</strong> SCP-26618 successfully created and altered the flame as requested. However, it refused to extinguish the flame, leading to a minor containment breach.
+- <strong>Analysis:</strong> SCP-26618's control over fire-based phenomena is extensive, but it demonstrates resistance to command and cessation of its abilities.</p>
+<p><strong>Experiment 26618-B:</strong>
+- <strong>Objective:</strong> To assess SCP-26618's willingness to follow orders when framed as a challenge to its title.
+- <strong>Procedure:</strong> A researcher questioned SCP-26618's claim of being the "Sword King" and challenged it to prove its mastery by cutting a diamond with SCP-26618-1.
+- <strong>Results:</strong> SCP-26618 accepted the challenge and succeeded in slicing the diamond cleanly in two. No provocation ensued.
+- <strong>Analysis:</strong> SCP-26618's pride and identity appear to be significant motivators in its cooperation. Further experiments in this vein are recommended, with caution.</p>
+<p><strong>Experiment 26618-C:</strong>
+- <strong>Objective:</strong> To understand how SCP-26618's "words" affect its abilities.
+- <strong>Procedure:</strong> SCP-26618 was subjected to various psychological stimuli aimed at triggering a response involving its control over fire.
+- <strong>Results:</strong> SCP-26618 demonstrated an increased range and intensity in abilities when provoked with existential questioning or threatened with irrelevance.
+- <strong>Analysis:</strong> SCP-26618's abilities are, to an extent, related to its self-perception and emotional state. Further research is necessary to define the mechanism behind this phenomenon. </p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. ██████<br />
+<strong>Subject:</strong> SCP-26618</p>
+<p>[Begin Log]</p>
+<p><strong>Dr. ██████:</strong> "SCP-26618, you claim dominion over a 'Seven-Part World.' Can you explain what you mean by this?"</p>
+<p><strong>SCP-26618:</strong> "Your understanding is limited by your flesh and your ephemeral world. My realm is divided into seven dominions, each a facet of my power and bearing witness to the eternal flame."</p>
+<p><strong>Dr. ██████:</strong> "And your role within this world?"</p>
+<p><strong>SCP-26618:</strong> "I am its ruler, its protector, and its greatest warrior. My word is law, and through it, the flame bends to my will, as do all who dwell within my reign."</p>
+<p><strong>Dr. ██████:</strong> "What is your intention here in our world? Why do you interact with us?"</p>
+<p><strong>SCP-26618:</strong> "I am bound by chains unseen, dragged to this lesser plane by forces I must respect. I seek dominion, as is my right, and in time, you shall see my flame engulf your reality, heralding the dawn of my new kingdom."</p>
+<p><strong>Dr. ██████:</strong> "And if we were to release you?"</p>
+<p><strong>SCP-26618:</strong> "Then I would honor you as subjects... for a time. Until the flame purifies all."</p>
+<p>[End Log]</p>
+<p><strong>Analysis:</strong> SCP-26618's responses suggest a strong belief in its own narrative, whether true or delusional. Its desire for dominion over our reality, or at least its influence, poses a continued risk.</p>
+<h3>Addendum 3: Incident Report</h3>
+<p>On ██/██/20██, SCP-26618 breached containment by creating a localized heat storm within its cell. The rapid increase in temperature compromised the structural integrity of the containment unit, allowing SCP-26618 to escape. During the eight minutes of freedom, SCP-26618 caused significant damage to Site-██ and was involved in the deaths of ██ personnel before it was recontained.</p>
+<p>Subsequent analysis revealed that an unauthorized group of researchers had been covertly engaging with SCP-26618's demands for worship and subservience, believing it could grant them power or favor. These individuals have been reprimanded and removed from the project.</p>
+<p>Following this incident, procedures regarding the interaction with SCP-26618 have been updated and psychological evaluations for all personnel assigned to SCP-26618 are mandatory on a bi-monthly basis.</p></div>
