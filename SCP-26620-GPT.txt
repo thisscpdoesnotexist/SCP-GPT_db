@@ -1,0 +1,51 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26620 is  Chakravartin Jagganoth, Wheel-Turning King, Red Eyed Heir, Pankrator, the God Eater. Bearer of the word "Blade", and Destroyer of the Seven-Part World. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26620</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26620, also known as "Chakravartin Jagganoth," "Wheel-Turning King," "Red Eyed Heir," "Pankrator," "the God Eater," and "Bearer of the word 'Blade'," is a humanoid entity of anomalously massive proportions, standing at approximately 30 meters in height. The subject is adorned with a multitude of armaments, both traditional and anomalous in nature, and is covered in intricate, glowing sigils that suggest a complex, possibly extra-dimensional origin.</p>
+<p>The entity possesses immense physical strength and metaphysical capabilities. SCP-26620 has demonstrated reality-altering abilities that manifest as sudden deviations from our universe's physical laws, as well as the ability to consume or otherwise negate other anomalous entities or objects. Its epithet, "God Eater," is presumed to relate to this particular capacity.</p>
+<p>SCP-26620's intentions and intelligence levels are currently unknown; however, it exhibits hostility when provoked and can cause massive destruction even when passive. It also occasionally utters phrases which imply a higher level of cognition, many in no known human language.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26620's size, power, and mobility, permanent containment has proven impractical. Instead, a strategy of monitoring, rapid response, and temporary containment is enacted. Special Task Forces Mu-89 "Giant Slayers" and Omicron-55 "Divine Wranglers" are assigned to monitor and respond to SCP-26620's movements and manifestations.</p>
+<p>Mobile Containment Area 26620 has been constructed to serve as a temporary containment facility. Its location must be kept fluid and determined by the predictive modeling from the Pathways Unit. When engaged in containment, the MCA-26620 employs a network of high-yield thaumaturgic dampeners to weaken SCP-26620, electromagnetic barriers, and heavy kinetic weaponry to subdue the entity.</p>
+<p>Civilians witnessing SCP-26620 are to be given Class-A amnestics, and public knowledge is to be suppressed through disinformation campaigns, attributing any sightings to natural disasters or military exercises.</p>
+<h3>Addendum 1:</h3>
+<h4>Experiment Log 26620-A:</h4>
+<p><strong>Experiment A1</strong>
+- <strong>Procedure:</strong> Introduction of SCP- ████ to SCP-26620's vicinity.
+- <strong>Result:</strong> SCP-26620 consumed SCP- ████. An increase in luminosity of SCP-26620's sigils was noted. SCP- ████ is presumed irretrievable.
+- <strong>Notes:</strong> SCP-26620's capacity to absorb anomalous entities may serve as a disposal method for particularly troublesome SCPs. Further research required.</p>
+<p><strong>Experiment A2</strong>
+- <strong>Procedure:</strong> Deployment of ranged thaumaturgic artillery.
+- <strong>Result:</strong> SCP-26620 deflected the assaults with waves of force, causing extensive damage to the surrounding environment. No lasting effect on the SCP was observed.
+- <strong>Notes:</strong> SCP-26620 appears resistant, if not immune, to long-range magical offense. Closer engagement is advisable for future containment efforts.</p>
+<p><strong>Experiment A3</strong>
+- <strong>Procedure:</strong> Application of [REDACTED] frequency sonic weapons.
+- <strong>Result:</strong> Temporary disorientation and immobilization of SCP-26620. Entity recovered after 7 minutes and 46 seconds and resumed hostile action.
+- <strong>Notes:</strong> A possible weak point has been identified, though its effective window is limited.</p>
+<h3>Addendum 2:</h3>
+<h4>Interview Log 26620-B:</h4>
+<p><strong>Interviewer:</strong> Dr. Emilia Hofstadter<br />
+<strong>Subject:</strong> SCP-26620 (Chakravartin Jagganoth)</p>
+<p><strong>[BEGIN LOG]</strong></p>
+<p><strong>Dr. Hofstadter:</strong> SCP-26620, can you understand me?</p>
+<p><strong>SCP-26620:</strong> (Entity's sigils glow intensively, ambient temperature rises) I AM THE RED TIDE. THE EONS TREMBLE BEFORE ME. YOU DARE SPEAK, MORTAL?</p>
+<p><strong>Dr. Hofstadter:</strong> Yes, we seek an understanding. Your purpose, your origin—what are you?</p>
+<p><strong>SCP-26620:</strong> I AM THE END OF ALL THINGS. THE CRUCIBLE OF FINALITY. I EAT GODS; I SHEATHE THE BLADE.</p>
+<p><strong>Dr. Hofstadter:</strong> (Note: Dr. Hofstadter shows signs of distress) You've mentioned 'blade' before. Is this a metaphor, or is there an actual weapon you're referring to?</p>
+<p><strong>SCP-26620:</strong> (Laughs, a sound causing seismic activity) THE WEAPON IS ALL AROUND. IN YOU, IN ME. WAITING FOR THE TURN OF THE WHEEL.</p>
+<p><strong>[END LOG]</strong></p>
+<p><strong>Notes:</strong> SCP-26620's responses suggest a level of metaphor or symbology beyond current understanding. Additionally, the psychological impact of its voice on researchers is severe. Further interviews should be conducted via remote or electronic means only.</p>
+<h3>Addendum 3:</h3>
+<p><strong>Event Report Log 26620-C:</strong></p>
+<p>During a containment breach on [REDACTED], SCP-26620 manifested in the center of [REDACTED] City. The entity proceeded to emit a pulse wave that disintegrated all non-organic material within a 5-kilometer radius. Foundation response units were deployed to initiate containment protocols which proved semi-effective, resulting in minor damage to SCP-26620 and its retreat.</p>
+<p>Casualties were high, and the Foundation is currently managing the post-event scenario, providing disaster relief under the guise of NGO operations, and administering amnestics where required. This event has precipitated the urgent upgrade of containment protocols and necessitates the reevaluation of SCP-26620's threat level to worldwide stability.</p></div>
