@@ -1,0 +1,42 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26616 is  Allison Ruth, the Sovereign, Killer of Six Billion Demons, Sorority Sister, False Heir to the Key of Kings. Bearer of the word "I", and Savior of the Seven-Part World. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26616</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26616 refers to an individual known as Allison Ruth, who has manifested numerous anomalous properties and is considered a highly dangerous entity. The subject is a human female, approximately 25 years of age, with brown hair and blue eyes. SCP-26616 claims to hail from an alternate reality, describing a universe vastly differing from our own in terms of physical laws, cosmic hierarchy, and the presence of metaphysical entities.</p>
+<p>The subject appears to hold an array of titles including the Sovereign, Killer of Six Billion Demons, Sorority Sister, and False Heir to the Key of Kings. Additionally, SCP-26616 purports to be the Bearer of the word "I", which she states is a form of primordial command or designation of self-identity, and has been referred to as the Savior of the Seven-Part World, a term that is yet to be fully understood by Foundation researchers.</p>
+<p>SCP-26616 has demonstrated the ability to exert control over reality to an alarming extent, which includes but is not limited to:</p>
+<ul>
+<li>Spontaneous materialization and dematerialization of objects and beings.</li>
+<li>Alteration of physical and metaphysical laws within her immediate vicinity.</li>
+<li>Authority over lesser anomalous entities, sometimes referred to as "demons" by the subject.</li>
+<li>Rapid healing and regeneration, including recovery from normally fatal injuries.</li>
+</ul>
+<p>Due to SCP-26616's unpredictable nature and the threat she poses to reality as we understand it, extreme measures have been undertaken to contain her.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26616 is to be contained in a custom-built multidimensional containment chamber at Site-██, suspended in a state of temporal flux to inhibit her reality-altering capabilities. The chamber is reinforced with Scranton Reality Anchors (SRAs) to prevent SCP-26616 from breaching containment. Due to the potential for SCP-26616 to influence personnel, both physically and mentally, all communication is to be performed via remote viewing and telecommunication methods.</p>
+<p>In the event SCP-26616 attempts to breach containment, the containment chamber is to be locked down immediately, and all available Mobile Task Forces—including but not limited to MTF-Theta-90 ("The Tenth Plague")—are to be dispatched to recontain the subject. Should SCP-26616 manage to escape the confines of her containment chamber, a site-wide or even global application of Protocol XK-End-of-the-World may be considered as a last resort.</p>
+<h3>Addendum 1:</h3>
+<p>An excerpt from an interview with SCP-26616:</p>
+<p><strong>Dr. █████:</strong> "Can you explain what you mean by being the 'Sovereign' and 'Killer of Six Billion Demons'?"</p>
+<p><strong>SCP-26616:</strong> "In my world, the Sovereign is the one who holds the Key of Kings, the right to rule all creation. As for the demons, they are beings of my realm, and... let's just say circumstances led to their demise."</p>
+<p><strong>Dr. █████:</strong> "Do you understand the gravity of claiming to have killed six billion beings?"</p>
+<p><strong>SCP-26616:</strong> "You don't understand. These 'demons' are not like your people. They are concepts, ideas given form. Their deaths were necessary."</p>
+<p>The interview continued, with SCP-26616 elaborating on the nature of her previous world, but no substantial evidence supporting her claims has been uncovered as of yet.</p>
+<h3>Addendum 2:</h3>
+<p><strong>Experiment Log 26616-A:</strong></p>
+<ul>
+<li><strong>Experiment-A1</strong>: Introduction of a standard D-Class into SCP-26616's containment chamber. SCP-26616 rematerialized the class-D's jumpsuit into a live serpent. No physical interaction was allowed.</li>
+<li><strong>Experiment-A2</strong>: Exposure of SCP-26616 to a low-level memetic agent. SCP-26616 appeared unaffected but proceeded to invert the memetic effects, causing the observing researchers to temporarily lose comprehension of basic language.</li>
+<li><strong>Experiment-A3</strong>: Attempt to neutralize SCP-26616 using a modified SRA. SCP-26616 dismantled the device purely with vocal command, then repaired it in a demonstration of cooperation.</li>
+</ul>
+<h3>Addendum 3:</h3>
+<p>SCP-26616's potential use in containing and neutralizing other SCPs has been proposed. However, the Ethics Committee has currently vetoed this consideration due to the volatile and unpredictable nature of SCP-26616's abilities. Continued observation and testing under strict guidelines are to be upheld to better understand SCP-26616 and to assess future possibilities for its cooperation with the Foundation.</p></div>
