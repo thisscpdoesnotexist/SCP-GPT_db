@@ -1,0 +1,57 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26626 is  the opposite of a triangle </h3> </center>
+    <p>```</p>
+<h3>Item #:</h3>
+<p>SCP-26626</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26626 is a non-Euclidean geometric entity that superficially represents the concept of a 'triangle,' but with characteristics that are inherently contradictory to the understanding of three-sided polygonal shapes. Observations and measurements of SCP-26626 consistently yield conflicting data: angles summing less than or greater than 180 degrees, internal sides that appear concave from certain perspectives, and vertices that seemingly do not conform to the reality of three-dimensional space.</p>
+<p>SCP-26626 appears to be aware of its surroundings and can change its form slightly, causing further perceptual inconsistencies. While it is inherently non-hostile, exposure to SCP-26626 has led to episodes of nausea, headaches, and mild psychosis in researchers due to the severe cognitive dissonance it provokes.</p>
+<p>Its origin is unknown, as is the mechanism through which it maintains its existence. Photographic and video evidence of SCP-26626 are invariably blurred or distorted, leading to the hypothesis that the entity possesses an innate ability to disrupt recording devices, digital renderings, and possibly even direct observation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26626 is contained in a special observation chamber at Site-██, designed to minimize direct human exposure and to facilitate remote monitoring. The chamber is lined with electromagnetic field inhibitors and non-reflective surfaces to mitigate some of SCP-26626's perceptual distortion effects.</p>
+<p>Human interaction with SCP-26626 is prohibited unless under strict experimental protocols approved by at least two Level 4 researchers. Any observation, whether direct or remote, is limited to 30-minute intervals to reduce the risk of adverse psychological effects.</p>
+<p>Should SCP-26626 exhibit any sudden changes in behavior or form, the observation chamber is to be locked down, and a site-wide alert is to be issued.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<ul>
+<li>Experiment 26626-E1</li>
+<li><strong>Purpose:</strong> To determine the effect of direct visual exposure to SCP-26626 on human perception.</li>
+<li>
+<p><strong>Results:</strong> Subjects reported severe disorientation, with some claiming to see impossible colors and shapes. These symptoms persisted for up to 48 hours post-exposure.</p>
+</li>
+<li>
+<p>Experiment 26626-E2</p>
+</li>
+<li><strong>Purpose:</strong> To measure SCP-26626's response to various wavelengths of light.</li>
+<li>
+<p><strong>Results:</strong> SCP-26626 absorbed all wavelengths inconsistently, at some points appearing completely opaque, and at others, transparent. No discernible pattern was observed.</p>
+</li>
+<li>
+<p>Experiment 26626-E3</p>
+</li>
+<li><strong>Purpose:</strong> To test the effects of introducing basic shapes (circles, squares) into SCP-26626's containment chamber.</li>
+<li><strong>Results:</strong> SCP-26626 reacted by distorting its shape further, and in one instance, an introduced square momentarily appeared as a five-sided figure before reverting to a square upon removal from the chamber.</li>
+</ul>
+<h3>Addendum 2: Incident Report</h3>
+<p>On [DATE REDACTED], SCP-26626 underwent an unexpected transformation, briefly assuming a perfectly triangular shape before reverting to its usual state. This event coincided with multiple system failures and psychological episodes among staff at Site-██. Full investigation into this incident is ongoing.</p>
+<h3>Addendum 3: Interview Log</h3>
+<ul>
+<li>Interviewed: Dr. ██████, lead researcher on SCP-26626</li>
+<li>Interviewer: Agent █████████</li>
+<li><strong>Introduction:</strong> Post-Incident Interview following the transformation event.</li>
+</ul>
+<p>[Begin Log]</p>
+<p><strong>Agent █████████:</strong> What can you tell me about what occurred on [DATE REDACTED]?</p>
+<p><strong>Dr. ██████:</strong> It was unlike anything we've seen before. SCP-26626 became a perfect triangle for approximately seven seconds. During this time, equipment malfunctioned, and several staff members experienced acute psychological distress.</p>
+<p><strong>Agent █████████:</strong> Any theories on what triggered this?</p>
+<p><strong>Dr. ██████:</strong> None that fit within the realm of conventional science. But I believe SCP-26626 may have been reacting to an outside influence we have yet to understand.</p>
+<p>[End Log]</p>
+<p><em>Further details of the interview and subsequent investigation remain classified.</em></p>
+<p>```</p></div>
