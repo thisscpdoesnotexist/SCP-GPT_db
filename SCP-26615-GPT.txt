@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26615 is  Jadis, The Witch in Glass, Lady of Infinite Repose. Bearer of the Word "Mind" and Goddess of the Seven-Part World. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26615</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26615, dubbed "Jadis, The Witch in Glass, Lady of Infinite Repose," is a highly dangerous meta-reality entity capable of manipulating mental and physical realms. Believed to be a self-proclaimed deity, SCP-26615 claims to bear the Word "Mind" and exerts dominion over a theoretical dimension known as the Seven-Part World. The entity manifests primarily through reflective surfaces but has shown the ability to transcend typical physical boundaries, making her presence unpredictable and often unavoidable.</p>
+<p>Jadis' appearance is that of an imposing, regal woman adorned in a gown that shimmers like the facets of a mirror, with a crown that appears to be made of light-refracting crystals. Witnesses have often described her eyes as "deep wells of knowledge," from which they feel an overwhelming psychic pressure. Any individual who makes direct eye contact with SCP-26615 reports intense headaches, memory loss, or in worst cases, complete mental subjugation.</p>
+<p>SCP-26615 demonstrates an array of abilities, most notably the power to control minds, bend reality within her vicinity, and induce coma-like states in those who oppose her will. Her motives remain unclear, but she often speaks of a grand plan to reshape reality according to her own design.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the non-corporeal and omnipresent nature of SCP-26615, physical containment is deemed impossible. As such, the focus has shifted towards the prediction of manifestation events and the implementation of countermeasures. Project "Looking Glass," a task force of researchers, thaumaturgists, and field agents headed by Dr. Marianne Strauss, has been established for this purpose.</p>
+<p>Current procedures involve:</p>
+<ul>
+<li>Monitoring of potential reflective surfaces, including but not limited to, mirrors, glass, polished metal, and still water bodies.</li>
+<li>Mandatory installation of anti-memetic devices in all facilities to prevent SCP-26615's psychic infiltration.</li>
+<li>Distribution of memetic inoculations to all personnel with Level 3 clearance or above. This measure reduces vulnerability to the entity's mind-altering effects.</li>
+<li>Evacuation protocols and emergency memetic barriers in place for immediate deployment upon SCP-26615's manifestation.</li>
+</ul>
+<p>A containment breach by SCP-26615 is considered a Broken Mirrors scenario, requiring immediate response from Mobile Task Force Psi-7 "Home Wreckers."</p>
+<h3>Addendum 1:</h3>
+<h4>Experiment Log 26615-A:</h4>
+<ul>
+<li><strong>Experiment A1:</strong> A D-Class subject was exposed to a mirror known to have recently reflected SCP-26615. Subject reported seeing distorted, shimmering figures before collapsing. Subject later awoke with no memory of the event.</li>
+<li><strong>Experiment A2:</strong> An attempt to communicate via a containment-safe reflective surface resulted in SCP-26615 expressing disdain for her "captors." Following the experiment, monitoring equipment experienced an unexplainable power surge leading to data loss.</li>
+<li><strong>Experiment A3:</strong> A mirror previously associated with SCP-26615 was destroyed. Within 24 hours, a similar mirror within Foundation control spontaneously shattered. SCP-26615 was heard laughing through audio surveillance before the signal was lost.</li>
+</ul>
+<h3>Addendum 2:</h3>
+<h4>Long Interview Log 26615-LI:</h4>
+<p>[The following is an excerpt of an interview conducted by Dr. Strauss with SCP-26615, who manifested in the interrogation room's one-way mirror.]</p>
+<p><strong>Dr. Strauss:</strong> "Why do you engage in these interactions with humanity, Jadis?"
+<strong>SCP-26615</strong> <em>(voice emanating from the entire room)</em>: "Curiosity, Dr. Strauss. You are all so fragile and yet so arrogantly defiant. It is... amusing."
+<strong>Dr. Strauss:</strong> "What is your purpose in the Seven-Part World?"
+<strong>SCP-26615:</strong> "Purpose? You ask as if I am a mere construct of function. I AM the Seven-Part World. My will shapes the very essence of my domain, as I seek to do with yours."
+<strong>Dr. Strauss:</strong> "Can we prevent your interference in our reality?"
+<strong>SCP-26615:</strong> "You may try, child of dust. But know that your actions are but ripples upon the glass of my mind."</p>
+<p>[The rest of the interview delves into abstract concepts and discussions on reality that gradually become more incomprehensible to the interviewer, leading to its termination by an overseeing researcher.]</p>
+<h3>Addendum 3:</h3>
+<h4>Experiment Log 26615-B:</h4>
+<p>This experiment log has been expanded upon to document a series of additional tests to understand the capabilities and limitations of SCP-26615 better. The details of these experiments have been categorized and summarized below:</p>
+<ul>
+<li><strong>B1 - Memetic Resistance Testing:</strong> Subjects with various levels of memetic inoculations were exposed to SCP-26615's influence. Data indicated an increasing efficacy at higher inoculation levels but no total immunity achieved.</li>
+<li><strong>B2 - Reality-Bending Resistance:</strong> Embedding Scranton Reality Anchors within containment sites did impede SCP-26615's ability to manipulate local reality; however, it did not prevent her from manifesting altogether.</li>
+<li><strong>B3 - Cross-SCP interaction:</strong> Several attempts were made to observe the interaction of SCP-26615 with other reality-altering SCPs. In most scenarios, a mutual neutralization effect occurred, suggesting a balance of power exists among such entities. However, SCP-26615 would often retreat before any conclusive outcome, thwarting full evaluations.</li>
+</ul>
+<p>[Data and observations from this log continue to inform the containment strategy and are deemed essential for preventing an SCP-26615 dominance event.]</p></div>
