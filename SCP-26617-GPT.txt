@@ -1,0 +1,46 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26617 is  Solomon David, God–Emperor of the Celestial Empire and Grand Master of Ki Rata. Bearer of the word "Diamond" and God of the Seven–Part World. </h3> </center>
+    <p>```markdown</p>
+<h3>Item #:</h3>
+<p>SCP-26617</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26617, referred to as "Solomon David" by its followers, is a highly dangerous humanoid entity claiming sovereignty over a parallel reality designated as the "Celestial Empire." The entity is capable of manipulating matter and energy on an atomic level, has shown resilience surpassing any known materials, and is proficient in a martial art referred to as "Ki Rata" which allows it to perform superhuman feats, including but not limited to shockwave generation, localized atmospheric manipulation, and enhanced physical strikes with potentially catastrophic force.</p>
+<p>SCP-26617 appears to be in its mid-40s, with a tall and muscular build. It possesses a seemingly indestructible crown, which is an integral part of its manifestations of power and self-identification as "God-Emperor." SCP-26617 frequently speaks in an archaic and absolutist tone, making proclamations about its divine right to rule and demonstrating a personality consistent with historical despot figures.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26617's high-level threat to normalcy and potential for mass destruction, it has been classified as Keter. Current containment protocols require the use of a multi-layered high-security facility located in [REDACTED], equipped with thaumaturgical barriers and reinforced with a lattice of reality anchors to prevent SCP-26617 from altering its structure or escaping through reality manipulation.</p>
+<p>The containment chamber is to be surveyed 24/7 by armed guards, all of whom must have undergone psychological screening to resist SCP-26617's charismatic influence. Direct interaction with SCP-26617 is forbidden unless authorized by at least two Level 4 personnel, and such interactions must take place through an intercom system to prevent its anomalous influence from spreading.</p>
+<p>In the event of a containment breach, all site personnel are to follow Protocol [REDACTED], which involves evacuation to safe areas, initiation of localized "scrub" reality resets, and utilization of high-caliber thaumaturgic armaments to subdue and re-contain SCP-26617.</p>
+<h3>Addendum 1: Experiment Log 26617-03</h3>
+<p><strong>Experiment #1</strong></p>
+<p><strong>Subject:</strong> SCP-26617<br />
+<strong>Procedure:</strong> Exposure to small-arms fire<br />
+<strong>Result:</strong> Bullets were either deflected by a force field or ceased to exist upon nearing SCP-26617. Entity referred to the attempt as "a trifling matter" and requested a worthy challenge.</p>
+<p><strong>Experiment #2</strong></p>
+<p><strong>Subject:</strong> SCP-26617<br />
+<strong>Procedure:</strong> Introduction of SCP-XXXX (a mild memetic agent)<br />
+<strong>Result:</strong> SCP-26617 appeared unaffected, and subsequently began to expound upon its grandeur for several hours. The memetic agent's usual effects did not manifest.</p>
+<p><strong>Experiment #3</strong></p>
+<p><strong>Subject:</strong> SCP-26617<br />
+<strong>Procedure:</strong> Psionic attack from SCP-███<br />
+<strong>Result:</strong> SCP-26617 seemed briefly perturbed before neutralizing SCP-███'s abilities. SCP-███ has been catatonic since the attempt and is now under medical observation.</p>
+<h3>Addendum 2: Interview Log 26617-21</h3>
+<p><em>Interviewer: Dr. ███████</em><br />
+<em>Interviewee: SCP-26617</em></p>
+<p>[The complete interview is redacted for brevity. Key moments are summarized below.]</p>
+<ul>
+<li>SCP-26617 expounded on its Celestial Empire, describing it in grandiose terms, detailing its conquests and rule over otherworldly realms.</li>
+<li>It expressed disdain for the Foundation's attempts at containment, deeming them as "temporary hindrances" to its destiny.</li>
+<li>When questioned about its origins, SCP-26617's responses became cryptic, implying an existence that predates known human history.</li>
+</ul>
+<h3>Addendum 3: Incident Report 26617-19</h3>
+<p>On [REDACTED], SCP-26617 managed to breach containment via an unprecedented surge of power which overloaded the facility's reality anchors. Its subsequent rampage resulted in significant loss of life and the destruction of Site-[REDACTED]. A nearby town was evacuated under the guise of a chemical spill as the entity enacted a display of force, reshaping matter and disregarding the laws of physics.</p>
+<p>SCP-26617 was eventually re-contained through the deployment of Mobile Task Force Nu-7 ("Hammer Down") and the use of an experimental amnestic aerosol to disorient the entity long enough for reapplication of containment measures. The aftermath required extensive use of Foundation resources to repair physical damages and maintain the Veil. This incident has prompted a review and upgrade of containment procedures.
+```</p></div>
