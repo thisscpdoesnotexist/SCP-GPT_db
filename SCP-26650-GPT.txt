@@ -1,0 +1,59 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26650 is  the pathowogen, a contagious disease that turns you into a furry and makes you speak in owo-speak </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26650</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26650, colloquially known as "The Pathowogen," is a memetic and viral agent capable of infecting human subjects through both direct physical contact and indirect transmission via digital mediums, primarily through the use of written or spoken "owo-speak."</p>
+<p>Upon infection, subjects exhibit a rapid onset of psychological and physiological transformations characteristic of anthropomorphic animal personas, commonly referred to as "furries." Changes include, but are not limited to, the growth of fur, development of animalistic facial features, elongation of limbs to resemble digitigrade legs, and in some cases, the emergence of a tail.</p>
+<p>Additionally, subjects irreversibly adopt a specific sociolect, termed "owo-speak," which includes the excessive use of the letters 'w' and 'o', the inclusion of "uwu" and "owo" expressions, and a generally high-pitched and infantile tone of voice. SCP-26650's memetic properties ensure that any individual who reads or hears owo-speak from an infected person may themselves become hosts of the pathogen.</p>
+<p>The origins of SCP-26650 remain unclear, and research into a cure or method to reverse the effects of the pathogen is ongoing. The potential for widespread infection and societal disruption due to SCP-26650 has led to its classification as Keter.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26650 requires stringent containment measures due to its highly contagious nature. The following procedures are to be implemented immediately upon identification of a potential outbreak:</p>
+<ol>
+<li>Establish a quarantine zone around the infected area, with no unauthorized personnel permitted to enter or exit.</li>
+<li>All digital communications originating from within the quarantine zone must be intercepted and analyzed for traces of SCP-26650's linguistic markers.</li>
+<li>Infected individuals, hereby designated SCP-26650-1, are to be contained in individual hermetically sealed chambers within biocontainment Site-112, provided with basic necessities to ensure humane treatment.</li>
+<li>Any material containing SCP-26650's linguistic markers is to be confiscated and destroyed, unless retained for research purposes under strict security protocols.</li>
+<li>Research into memetic scrubbers and digital countermeasures are a top priority to prevent the spread of SCP-26650 through electronic communication channels.</li>
+<li>Foundation web-crawlers (Designation: ScrubALot-O) are deployed to monitor and sanitize any online mentions that may lead to further infections.</li>
+</ol>
+<p>Mandatory psychological evaluations and amnestic treatments are required for staff after exposure to SCP-26650 or SCP-26650-1, even if accidental or for research purposes.</p>
+<h3>Addendum 1:</h3>
+<p>Dr. █████ reported the first confirmed case of SCP-26650 on ██/██/20██ after an internet culture symposium in [REDACTED]. Early containment failed due to underestimating the memetic transfer capabilities of the pathogen.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. ██████</p>
+<p><strong>Interviewee:</strong> SCP-26650-1-A (formerly Mr. [REDACTED])</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. ██████:</strong> How are you feeling today?</p>
+<p><strong>SCP-26650-1-A:</strong> I'm feeling pwetty good, doctow! UwU, how about you?</p>
+<p><strong>Dr. ██████:</strong> I am well, thank you. Can you tell me more about how you contracted SCP-26650?</p>
+<p><strong>SCP-26650-1-A:</strong> Oh, it was stwange! I just wead this siwwy message onwine that had a wot of owo-speak and sudunwy... <em>giggles</em> I started tawking wike this! And then this fuwwy fur stawted gwowing on me...</p>
+<p><strong>(REMAINDER OF INTERVIEW LOG REDACTED FOR BREVITY AND TO PREVENT POSSIBLE CONTAGION.)</strong></p>
+<p><strong><End Log></strong></p>
+<p><strong>Closing Remark:</strong> Interview demonstrates the significant psychological and linguistic impact of SCP-26650 while also confirming the immediate need for more stringent containment measures for both physical and memetic transmission vectors.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 26650-E01</h4>
+<p><strong>Objective:</strong> Test the viability of SCP-26650's transmission via written media.</p>
+<p><strong>Procedure:</strong> D-class personnel were provided with written excerpts containing SCP-26650 owo-speak. Researchers observed from a secure location.</p>
+<p><strong>Results:</strong> Within 24 hours, all D-class personnel began to exhibit early linguistic symptoms.</p>
+<h4>Experiment 26650-E02</h4>
+<p><strong>Objective:</strong> Determine SCP-26650's infection timeframe through auditory exposure.</p>
+<p><strong>Procedure:</strong> Different groups of D-class personnel were subjected to varying lengths of a recorded SCP-26650-1 subject speaking in owo-speak.</p>
+<p><strong>Results:</strong> A direct correlation was found between exposure time and rate of infection, with the minimum effective exposure being approximately five minutes of continuous auditory input.</p>
+<h4>Experiment 26650-E03</h4>
+<p><strong>Objective:</strong> Assess the resistance of individuals with no prior knowledge of furry culture or owo-speak to SCP-26650.</p>
+<p><strong>Procedure:</strong> A control group of D-class personnel were thoroughly briefed on the pathology of SCP-26650 and familiarized with counter-culture memes before exposure.</p>
+<p><strong>Results:</strong> Despite preparations, subjects were fully infected within the expected timeframe. Pre-knowledge or cultural awareness seems to have no mitigating effect on infection rates.</p>
+<h4>Experiment 26650-E04</h4>
+<p><strong>Objective:</strong> Investigate potential immunity development post-exposure.</p>
+<p><strong>Procedure:</strong> Subjects previously exposed and cured of SCP-26650 (via experimental treatment) were re-exposed to the pathogen.</p>
+<p><strong>Results:</strong> No immunity was observed; subjects were reinfected with the same onset rate as during their initial exposure.</p>
+<p><strong>Note:</strong> The development of a cure or vaccine remains paramount. Current containment and decontamination protocols should be reviewed and upgraded regularly to adapt to SCP-26650's transmission strategies.</p></div>
