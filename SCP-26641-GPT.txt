@@ -1,0 +1,45 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26641 is  an empty white void of infinite typewriters and infinite dead monkeys  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26641</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26641 is an extradimensional space resembling a vast, white void that can be accessed through a specific, unmarked door within the basement of an abandoned publishing house in ██████, England. Within this void, an infinite number of mechanical typewriters are arrayed in a grid pattern that extends in all directions beyond the limits of human perception. Scattered among these typewriters are the remains of a seemingly infinite number of simian creatures, primarily resembling various species of macaque, that have been designated SCP-26641-A.</p>
+<p>SCP-26641-A instances appear to have expired from an array of causes common to living organisms, though no signs of violence or struggle are evident. Despite the infinite nature of SCP-26641, the corpses of SCP-26641-A do not decompose and no further simians have been observed entering the space or being generated within it since the Foundation's initial discovery.</p>
+<p>It is hypothesized that SCP-26641 is subject to its own set of physical laws or operates under unknown principles that allow for the preservation of organic material. Moreover, given the presence of typewriters, it is presumed that SCP-26641-A instances were involved in a process of typing, though the goal and instigator of this process remain unknown.</p>
+<p>Instances of coherent text have been documented emerging from the typewriters, although these occurrences are exceedingly rare amid vast quantities of nonsensical or irrelevant text output. Analysis of coherent texts has not yielded any significant insights into SCP-26641's purpose or origin.</p>
+<h3>Special Containment Procedures:</h3>
+<p>The access door to SCP-26641 has been sealed and disguised to prevent accidental entry by civilians. A covert security outpost has been established near the building's location, staffed by Foundation personnel who monitor the site and ensure its continued isolation.</p>
+<p>Given the potentially infinite size of SCP-26641, physical containment within the void itself is deemed impossible. Therefore, containment efforts are focused on preventing access to SCP-26641 and researching its properties remotely when possible.</p>
+<p>Any ventures into SCP-26641 require approval from at least two Level 4 personnel and must include detailed mission parameters, as well as preparations for communication, navigation, and psychological support for involved operatives. It is currently forbidden to remove any items, including SCP-26641-A remains or typewriters, from the void.</p>
+<p>D-Class personnel used for exploratory missions are to be fitted with tracking devices and are instructed to adhere to a strict maximum mission duration to avoid risks associated with prolonged exposure to SCP-26641's environment.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p>Several experiments have been conducted to ascertain the properties and potential purpose of SCP-26641. Below is an abbreviated log of these experiments:</p>
+<h4>Experiment 26641-E01:</h4>
+<p><strong>Objective:</strong> To determine the reaction of SCP-26641 to the introduction of a living simian subject.
+<strong>Details:</strong> One live macaque was introduced into SCP-26641.
+<strong>Results:</strong> The macaque began to interact with the typewriters for approximately seven hours before expiring of apparent dehydration. The typed content was largely random, with no meaningful text produced.</p>
+<h4>Experiment 26641-E02:</h4>
+<p><strong>Objective:</strong> To analyze the rate of decomposition of organic material within SCP-26641.
+<strong>Details:</strong> A sample of organic material (Pig carcass) was introduced into SCP-26641.
+<strong>Results:</strong> After several weeks of observation, no noticeable decomposition occurred, supporting the theory that SCP-26641 has preservation properties.</p>
+<h4>Experiment 26641-E03:</h4>
+<p><strong>Objective:</strong> To investigate the emergence of coherent text from typewriters.
+<strong>Details:</strong> Continuous monitoring of typewriters for a period of six months.
+<strong>Results:</strong> A coherent passage was observed among billions of pages of gibberish, containing a fragment of text resembling a portion of Shakespeare's "Sonnet 18." The statistical likelihood of such an occurrence without intelligent direction remains a topic of debate among researchers.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p>[The following excerpt is from an interview conducted with Dr. ███████, a leading researcher on SCP-26641, to gather insights on its potential theoretical implications.]</p>
+<p><strong>Interviewer:</strong> Dr. ███████, could you describe your current hypothesis regarding the nature of SCP-26641?</p>
+<p><strong>Dr. ███████:</strong> Yes, well, SCP-26641 appears to be a sort of cosmic anomaly, possibly a pocket dimension, with its own set of physical laws. The infinite number of typewriters and dead monkeys... it's almost...literary in its setup, you know? It harkens back to the infinite monkey theorem; given infinite time, a monkey hitting keys at random on a typewriter will almost surely type any given text. However, in our case, the monkeys are dead, which is an enigma in itself...</p>
+<p>[The interview continues with discussions on the implications of SCP-26641's properties and theoretical applications.]</p>
+<h3>Addendum 3: Incident Report</h3>
+<p>An incident occurred during Experiment 26641-E04, wherein a D-Class operative tasked with entering SCP-26641 for observational purposes reported hearing voices and experiencing disorientation and hallucinations. The operative managed to return to the access door but exhibited signs of acute psychological trauma.</p>
+<p>Following this incident, the Ethics Committee reviewed and approved the implementation of additional safety measures for personnel, including psychological screening and a 'buddy system' to ensure that no individual enters SCP-26641 alone. Further experiments were put on hold pending a full assessment of the risks.</p>
+<p>[The incident report details the operative's experiences and the subsequent medical treatment and psychological counseling provided.]</p></div>
