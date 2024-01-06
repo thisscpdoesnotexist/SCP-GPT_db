@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26637 is  a sapient mold species capable of performing nuclear fission as a metabolic pathway to obtain energy </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26637</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26637 is a sapient mold species with the remarkable capability to perform nuclear fission as a part of its metabolic processes. Unlike other organisms that rely on typical biochemical pathways to obtain energy, SCP-26637 utilizes enriched uranium isotopes, particularly uranium-235, as a substrate for energy production. The species appears to have evolved a highly specialized cellular mechanism to safely initiate and control the release of energy from nuclear fission, preventing the usual hazards associated with such reactions.</p>
+<p>The mold exhibits a collective intelligence, with each colony forming a complex network that allows for communication and decision-making across the mycelium. SCP-26637 can engage in problem-solving, create basic structures with environmental debris, and has been observed to have defensive mechanisms against perceived threats— primarily hazardous waste containment strategies utilizing its own growth to lock down radioactive materials.</p>
+<p>Individual colonies of SCP-26637 can vary significantly in size, ranging from microscopic clusters to expansive mats exceeding several square meters, dependent on the availability of fissionable materials and space. When a source of uranium becomes depleted, or environmental conditions become unfavorable, the colony releases spores which exhibit high radiation resistance, ensuring the survival and spread of the species.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26637 is contained within a secure biohazard containment facility, equipped with radiation shielding and decontamination systems, at Site-██. The containment chamber is fitted with multiple layers of reinforced concrete and lead to prevent the escape of any radiation resulting from the organism's fission processes. Personnel entering the containment chamber must wear full hazmat suits with integrated radiation protection and undergo a thorough decontamination process upon exit.</p>
+<p>Enriched uranium-235 is to be provided in measured quantities, sufficient to sustain the metabolic functions of SCP-26637 without allowing unchecked growth or energy buildup. SCP-26637’s energy emissions and growth rates are to be monitored continuously. In the event of a containment breach or unexpected energy spike, emergency protocols dictate immediate lockdown of Site-██ and deployment of the specialized Hazardous Anomalous Entity Response team (HAERT) to re-establish containment.</p>
+<p>Researchers studying SCP-26637 must receive training in proper handling procedures for fissionable materials and in the safe operation of the containment facility. Unauthorized removal of SCP-26637’s material from containment is strictly forbidden due to the potential for severe radiological and ecological consequences.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-26637 was discovered in an abandoned uranium mine in [REDACTED], following reports of an unknown glowing substance spreading throughout the tunnels. Initial response teams detected unusual levels of radiation emanating from the mold. Specimens were collected, and initial containment protocols were enacted, with the area being cordoned off from the public under the guise of a toxic waste spill.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li><strong>Experiment 26637-E-001</strong></li>
+<li><strong>Purpose</strong>: To determine the growth rate of SCP-26637 in the presence of uranium-235.</li>
+<li><strong>Results</strong>: SCP-26637 displayed rapid growth, with a doubling in biomass observed within 24 hours. Energy emissions remained stable and below critical levels throughout the experiment.</li>
+<li><strong>Experiment 26637-E-002</strong></li>
+<li><strong>Purpose</strong>: To observe SCP-26637’s behavior in the presence of other radioisotopes.</li>
+<li><strong>Results</strong>: SCP-26637 exhibited preferential growth towards samples of uranium-235, while displaying a lack of interest towards plutonium and other radioisotopes provided.</li>
+<li><strong>Experiment 26637-E-003</strong></li>
+<li><strong>Purpose</strong>: To test to what extent SCP-26637 can control fission reactions.</li>
+<li><strong>Procedure</strong>: A sample of SCP-26637 was exposed to a rapidly decaying radioisotope, beyond its normal metabolic needs.</li>
+<li><strong>Results</strong>: SCP-26637 initiated a controlled containment strategy, using its own biomass to encapsulate the unstable radioisotope, significantly reducing the rate of decay and radiation release. Following the experiment, SCP-26637 reverted to a dormant state indicating stress.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<ul>
+<li><strong>Interviewer</strong>: Dr. Eleanor Richter</li>
+<li><strong>Interviewee</strong>: SCP-26637 (communicated through spore-based binary signaling)</li>
+<li><strong>Purpose</strong>: To establish a basic communication protocol with SCP-26637 and understand its level of sentience.</li>
+</ul>
+<p>[Begin Log]</p>
+<p><strong>Dr. Richter</strong>: Hello, SCP-26637. Can you understand me?</p>
+<p>[SCP-26637 releases a burst of spores, which fall to the ground in a pattern that, when translated, reads "UNDERSTAND".]</p>
+<p><strong>Dr. Richter</strong>: Excellent. We're interested in learning about you. Are you aware of your surroundings?</p>
+<p>[A pattern forms that translate to "AWARE". This is followed by a sequence of patterns expressing an understanding of its containment and its need for uranium-235.]</p>
+<p><strong>Dr. Richter</strong>: Fascinating. What is your purpose?</p>
+<p>[Long pause; a complex array of spore patterns is produced, taking significant time to translate. The message speaks of a natural drive to grow and contain radiation, suggesting a possible ecological role as a natural balancer of radioactive materials.]</p>
+<p><strong>Dr. Richter</strong>: Are you capable ofType a message here]</p>
+<p>[The interview continues for several hours, with SCP-26637 displaying a high level of cognitive function and adaptability.]</p>
+<p>[End Log]</p>
+<p>(Following the interview, researchers gained a deeper understanding of SCP-26637's behavior and possible origins. It remains uncertain whether SCP-26637 is a product of anomalous evolution or if it was created with a specific purpose in mind. Further studies are ongoing to develop better communication channels with SCP-26637.)</p></div>
