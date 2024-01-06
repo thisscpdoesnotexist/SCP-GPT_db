@@ -1,0 +1,38 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26640 is  a space whale with an antimatter based metabolism </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26640</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26640 designates an extraterrestrial organism resembling a cetacean (commonly known as a "space whale") with a physiology that operates based upon antimatter reactions. It measures approximately 70 meters in length and emits a luminous, cosmic-blue glow, which is visible even against the vacuum of space. Its body structure is highly resistant to both the effects of radiation and the vacuum of space.</p>
+<p>SCP-26640's metabolism uniquely functions by harnessing antimatter in a contained process that is yet to be fully understood by modern science. Energy is produced via annihilation when antimatter comes into contact with matter, contained within specialized "reaction chambers" within SCP-26640's body. This provides it with an extremely efficient and virtually inexhaustible source of energy, allowing it to traverse the vacuum of space at velocities surpassing current human astronautical capabilities. Its waste products, comprising primarily of gamma rays and less frequently, residual antimatter, have the potential to be highly disruptive to any matter in the vicinity.</p>
+<p>The entity not only survives in the vacuum of space but appears to thrive there, showing a level of intelligence and awareness when navigating through asteroid fields, gas clouds, and around planetary bodies. It communicates through a series of intricate, modulated radio wave emissions which have been interpreted as a form of language, although translation and comprehension remain a significant challenge.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the cosmic nature of SCP-26640 and its vast roaming patterns, physical containment is currently not feasible. As such, containment efforts are focused on monitoring, obfuscation, and, when required, localized evacuation. A dedicated space monitoring array designated as Site-82 has been established in geostationary orbit above Earth to maintain consistent surveillance of SCP-26640's movements and broadcast interference to obscure its presence from civilian astronomical instruments.</p>
+<p>In the event that SCP-26640 approaches Earth or any other inhabited celestial bodies within the Solar System, Protocol 'Cetus Shield' is to be enacted. This involves the deployment of a network of drones equipped with matter-antimatter neutralization technology to reduce the risk of catastrophic damage from SCP-26640's waste expulsion. Additionally, a disinformation campaign will be coordinated to mask the true nature of any observable phenomena related to SCP-26640's presence.</p>
+<h3>Addendum 1: Encounter Report</h3>
+<p>On [REDACTED], SCP-26640 came within 0.2 AU of Earth, resulting in the enaction of Protocol 'Cetus Shield' for the first time. The SCP demonstrated a curious behavior pattern as it navigated around the planet, almost as though it was conducting its own observational study. Multiple 'reaction' bursts were successfully neutralized by the deployed drones, preventing any terrestrial consequences.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li><strong>Experiment 26640-E-01</strong>: Attempt to communicate with SCP-26640 using modified radio wave patterns based on its own emissions. <em>Result</em>: SCP-26640 alters course slightly; radio emissions increased in complexity. Possible acknowledgement but no clear communication established.</li>
+<li><strong>Experiment 26640-E-02</strong>: Introduction of matter in controlled quantities into SCP-26640's projected path to observe antimatter reaction process. <em>Result</em>: The introduced matter resulted in a minor energy discharge from SCP-26640. Post-event analysis suggests SCP-26640 has conscious control over its antimatter containment.</li>
+<li><strong>[MORE EXPERIMENTS REDACTED FOR BREVITY]</strong></li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<p><em>The following is an excerpt from an interview conducted by Dr. Alannah Hughes, attempting to communicate with SCP-26640 using a complex array of radio wave transmitters.</em></p>
+<p><strong>Dr. Hughes:</strong> SCP-26640, this is Dr. Hughes of the SCP Foundation. We are attempting to reach out to understand your nature and intentions. Are you able to understand us?</p>
+<p><em>[Long pause with various modulated radio wave emissions]</em></p>
+<p><strong>SCP-26640:</strong> [Translated from radio wave communication] Understanding is limited. Your kind is... different. Interaction is strange. Curious.</p>
+<p><strong>Dr. Hughes:</strong> We're curious about you as well. You're far from home, aren't you?</p>
+<p><strong>SCP-26640:</strong> Home is a concept. We are home in the vastness. The cosmos is within us as much as it is around us.</p>
+<p><strong>Dr. Hughes:</strong> Why approach our planet? Are you searching for something?</p>
+<p><strong>SCP-26640:</strong> Searching always. Knowledge. Kin. Stars speak in differing tongues.</p>
+<p><em>[REMAINDER OF INTERVIEW REDACTED FOR BREVITY]</em></p>
+<p><strong>Note</strong>: Since the initial interview, SCP-26640 has continued sporadic communications with Site-82. Its intentions remain obscure, but the discovery of a form of communication has marked significant progress in our understanding of this Keter-class entity.</p></div>
