@@ -1,0 +1,51 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26635 is  the mysterious origins of skulltrumpet.mpeg </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26635</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26635 is a digital file, named "skulltrumpet.mpeg," that exhibits anomalous properties upon playback. The file appears to be a standard MPEG video file, approximately 3 minutes in length. It features an animated skeleton character performing a repetitive trumpet-playing motion with a looping, eerie trumpet melody (known colloquially as "spooky scary skeletons"). The background of the video is pitch black with no additional objects or features.</p>
+<p>Initial observation suggests the video is harmless and similar to many thematic animations associated with Halloween. However, individuals who view or listen to SCP-26635 report a spectrum of anomalous psychological effects ranging from mild discomfort and anxiety to intense fear and paranoia. </p>
+<p>Test subjects exposed to SCP-26635 also begin to encounter the animated skeleton character in the real world, often during periods of low light or solitude. These encounters are typically accompanied by the same trumpet melody heard in the video. The skeleton, hereby designated SCP-26635-1, is intangible, capable of phasing through solid objects, and does not appear to respond to external stimuli; its sole activity continues to be the mimicry of playing the trumpet.</p>
+<p>Extended exposure to SCP-26635 leads to a deterioration in mental health, with subjects demonstrating increased susceptibility to auditory and visual hallucinations, insomnia, and in severe cases, complete dissociation from reality. The origin of the file remains unknown, and all attempts to trace its creation have led to deadends.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the digital nature of SCP-26635, containment focuses on information suppression and online monitoring to prevent its spread. SCP-26635 must be stored on an encrypted, air-gapped computer in Site-██. Transferring, duplicating, or disseminating the file is strictly forbidden outside of approved testing.</p>
+<p>Foundation web crawlers (AI-26635-Aegis) are actively scanning the internet for instances of SCP-26635. Upon detection, the file is to be immediately deleted, and the source tracked and investigated. Individuals identified as having witnessed the video are to be detained and subjected to a Class-C amnestic treatment.</p>
+<p>Direct observation of SCP-26635 is to be conducted through remote viewing tools only. Personnel with direct exposure are to be quarantined and evaluated for psychological effects for a period of no less than 30 days before being given clearance to return to duty.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 26635-A</strong>
+- <strong>Subject:</strong> D-5109
+- <strong>Procedure:</strong> Subject was instructed to watch the video file in a controlled environment for its full duration.
+- <strong>Results:</strong> D-5109 appeared uneasy immediately following the experiment, reporting a sense of being watched. Within 48 hours, D-5109 claimed to have seen SCP-26635-1 on multiple occasions. Psychological evaluation showed increased anxiety and beginning stages of insomnia.</p>
+<p><strong>Experiment 26635-B</strong>
+- <strong>Subject:</strong> D-7284
+- <strong>Procedure:</strong> Subject listened to the audio of SCP-26635 without the visual component.
+- <strong>Results:</strong> D-7284 experienced similar effects to D-5109, though with a 72-hour onset delay. Subject began to hear the trumpet melody in the absence of any discernible source.</p>
+<p><strong>Experiment 26635-C</strong>
+- <strong>Subject:</strong> D-1832
+- <strong>Procedure:</strong> Subject was exposed to a single frame of SCP-26635, isolated from the animation loop.
+- <strong>Results:</strong> Exposure to the still image did not result in any immediate anomalous effects. After one week, D-1832 began experiencing night terrors associated with SCP-26635-1.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. Leonid
+<strong>Subject:</strong> D-5109</p>
+<p><em>Begin Log</em></p>
+<p><strong>Dr. Leonid:</strong> How are you feeling today?</p>
+<p><strong>D-5109:</strong> Like I'm being haunted, doc. That trumpet... it's always there, in the dark.</p>
+<p><strong>Dr. Leonid:</strong> Can you describe these encounters with SCP-26635-1?</p>
+<p><strong>D-5109:</strong> Yeah, it's... it just appears, you know? No matter where I look, it's in the corner of my eye, always that trumpet sound, too. I can't sleep; I can't think straight...</p>
+<p><strong>Dr. Leonid:</strong> Have you noticed any new patterns? Anything that might indicate when it appears?</p>
+<p><strong>D-5109:</strong> No patterns, just... whenever it's quiet. When I'm alone. I can feel it watching me even now. Is it here, doc?</p>
+<p><em>Subject becomes visibly distressed.</em></p>
+<p><strong>Dr. Leonid:</strong> No, it's not here. Remember, it can't harm you; it's not physically present. We're working on understanding why this is happening to help you.</p>
+<p><em>End Log</em></p>
+<p><em>Note: Subject D-5109 was later found in a catatonic state. Further interviews were deemed non-productive, and the subject was administered a Class-C amnestic and released.</em></p>
+<h3>Addendum 3: Recovery Log</h3>
+<p>SCP-26635 was initially discovered following a series of reports on paranormal forums about a "cursed video" that induced hallucinations. A Foundation webcrawler identified these claims and traced the file to a video-sharing platform. The original upload date and user remain untraceable, as all associated metadata was corrupted or otherwise obfuscated. Foundation IT specialists have not yet worked out how the file corrupts metadata consistently across different platforms.</p>
+<p>Reports of the video and encounters with SCP-26635-1 were isolated but growing in number, prompting the Foundation to classify the anomaly as Keter due to the difficulty of containment and the potential for psychological damage on a wide scale. Investigations into the origins of SCP-26635 are ongoing, but no substantive leads have surfaced. SCP-26635's ability to induce anomalous effects without direct visual or audio stimulation suggests a cognitohazardous element that remains poorly understood.</p></div>
