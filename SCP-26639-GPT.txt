@@ -1,0 +1,54 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26639 is  a lost Garfield strip where Garfield gets top surgery </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26639</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26639 is an anomalous comic strip that resembles the well-known "Garfield" series created by Jim Davis. This strip notably deviates from the standard themes and narrative style of the official comic, portraying the character Garfield undergoing an inexplicable top surgery procedure – a medical process not typically associated with the characteristics of any cartoon feline, let alone the established Garfield character canon.</p>
+<p>The strip itself is drawn in the same artistic style as the original Garfield comics, but when viewed or read, it induces severe cognitive and behavioral anomalies in the observer. These anomalies appear to manifest as a blending of personal identity with that of the Garfield character, alongside the desire to advocate and seek top surgery regardless of the observer's personal gender identity or physical needs.</p>
+<p>Affected individuals (henceforth referred to as SCP-26639-1) will express confusion as to their identity and often make direct references to Garfield's life and quotes, following the prevailing themes of the cartoon such as a desire for lasagna, a hatred for Mondays, and an aversion to diets or exercise. However, they will concurrently possess an overwhelming fixation on undergoing top surgery, claiming it will "complete their transformation".</p>
+<p>The strip's source remains unidentified, and it resurfaces sporadically in various media forms, including newspapers, online comic forums, and email inboxes. Due to its highly contagious and unpredictable nature, SCP-26639 has been classified as Keter.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the memetic and infectious nature of SCP-26639, containment must focus on information suppression, monitoring, and immediate response. All instances of SCP-26639 discovered in circulation are to be intercepted and destroyed immediately. A dedicated online bot (SCP-26639-IT) has been developed to scan the internet for digital manifestations of the strip and remove them using standard cyber-attack patterns to prevent suspicion from the online community.</p>
+<p>Personnel exposed to SCP-26639 are to be quarantined and administered Class-C amnestics, followed by psychological evaluation before reassignment. Foundation webcrawler AI are to monitor for potential outbreaks or discussion of SCP-26639 on social media, with planted agents in major news organizations to prevent accidental spread through print media.</p>
+<p>Sites of SCP-26639 outbreaks are to be monitored for at least one month following containment and are subject to standard Foundation disinformation protocols to preserve normalcy.</p>
+<h3>Addendum 1: Incident Log</h3>
+<ul>
+<li>Date: ██/██/20██</li>
+<li>Location: ██████, ██</li>
+<li>Description: SCP-26639 was discovered in a local newspaper comic section, leading to █ confirmed conversions to SCP-26639-1. The entire press run was confiscated, and amnestics were administered to affected individuals as well as operational personnel. Cover story "Printing Error Leads to Recalled Newspaper Edition" was disseminated, resulting in successful containment of this occurrence.</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26639-E1:</h4>
+<ul>
+<li>Subject: D-8432</li>
+<li>Procedure: Subject was exposed to SCP-26639 for 30 seconds.</li>
+<li>Results: Subject exhibited immediate symptoms of identity blending, referring to self as "Garfield", and expressing a desire for lasagna despite previous noted allergies to tomatoes and diary products. Subject later demanded top surgery.</li>
+<li>Notes: The rapid onset of symptoms suggests a high potency of the meme's effects.</li>
+</ul>
+<h4>Experiment 26639-E2:</h4>
+<ul>
+<li>Subject: D-9157 (blindfolded)</li>
+<li>Procedure: Subject was placed in a room with SCP-26639 for 60 minutes, without visual contact.</li>
+<li>Results: No symptoms were observed.</li>
+<li>Notes: SCP-26639's anomalous properties are confirmed to be transmitted visually.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<ul>
+<li>Interviewed: D-4799 (affected by SCP-26639)</li>
+<li>Interviewer: Dr. ██████</li>
+<li><Begin Log></li>
+<li>Dr. ██████: Can you tell me your name?</li>
+<li>D-4799: ...Name? I... I'm Garfield. I hate Mondays, but I feel... incomplete, Doc. I need to be complete.</li>
+<li>Dr. ██████: Complete? How so?</li>
+<li>[DATA EXPUNGED]</li>
+<li><End Log></li>
+<li>Summary: The interview provided greater insight into the cognitive effects of SCP-26639. D-4799 remained in a state of mental distress until amnestic treatment, continually expressing both Garfield-like qualities and the fixation on top surgery. Further investigation is required to understand the extent of the strip's effects and possible origins.</li>
+</ul></div>
