@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26663 is  messages from space insulting humans. Stuff like "hurr hurr I'm a human body hurr hurr I'm going to solve all of my problems using mucus" </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26663</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26663 is an anomalous phenomenon originating from an untraceable source in outer space. These phenomena manifest in the form of radio transmissions intercepted by various devices capable of receiving such signals, including but not limited to satellite dishes, radios, and telescopes equipped with radio receivers. The content of these transmissions consists of derogatory messages aimed at human physiology, culture, behavior, and problem-solving methods. The language used is universally understood as English, though it does not correspond to any known terrestrial encoding system.</p>
+<p>The messages often mock human reliance on bodily functions, for instance, criticizing the human use of mucus or tears as perceived inefficiencies or signs of weakness. The tone of the communications is consistently condescending and bears a semblance to "trolling" behavior observed in human internet culture.</p>
+<p>Notably, SCP-26663 transmissions occasionally demonstrate knowledge of recent human events or individual personal matters, suggesting either a form of real-time surveillance or a predictive capability possessed by the source. Despite extensive research, no correlating signals or entities in space have been identified, leading to the hypothesis that SCP-26663 may have a non-physical origin or employs highly advanced cloaking technology.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Currently, containment of SCP-26663 is focused on interception and suppression of the transmissions to prevent public dissemination and potential psychological effects. A network of Foundation-operated satellites equipped with signal-jamming technology has been deployed in geostationary orbits to encompass the majority of expected transmission vectors.</p>
+<p>Foundation agents embedded in major astronomical institutions, observatories, and space agencies are to monitor for SCP-26663 activity. Should a transmission breach containment protocols, Mobile Task Force Kappa-10 ("Skynet Patrol") is to employ disinformation campaigns, attributing the intercepted messages to elaborate hoaxes, natural cosmic phenomena, or equipment malfunction.</p>
+<p>Researchers assigned to SCP-26663 are tasked with developing methods of tracing the source, decoding any hidden patterns in the signals, and establishing potential communication with the originator. Personnel who exhibit signs of distress or impaired judgment as a result of exposure to SCP-26663 are to undergo psychological evaluation and therapy as necessary.</p>
+<h3>Addendum 1: Selected SCP-26663 Transmission Logs</h3>
+<p>| Date       | Transmission Excerpt                               |
+|------------|----------------------------------------------------|
+| 2023-03-12 | "Hurr hurr, I am a human. I breathe in pathogens and expect not to fall ill. Highly efficient." |
+| 2023-03-19 | "Oh look at me, I am a human who cries when the water falls from the sky. So much for mastery over elements." |
+| 2023-04-01 | "Aha, using combustible fossils to power locomotion? Tell me more about your so-called 'intelligence', bipedal mucus factories." |</p>
+<h3>Addendum 2: Experiment Log 26663-A</h3>
+<p><strong>Experiment 26663-A1</strong>
+- <strong>Date:</strong> 2023-04-10
+- <strong>Purpose:</strong> To determine if the SCP-26663 responds to direct communication.
+- <strong>Procedure:</strong> Researchers sent a radio message directed at the assumed coordinates of SCP-26663's source bearing a diplomatic greeting.
+- <strong>Result:</strong> No immediate response received. However, the following transmission was intercepted 48 hours later: "Greetings? How quaint. Perhaps evolve a bit more before you attempt to converse with superior beings, slimy orators."</p>
+<p><strong>Experiment 26663-A2</strong>
+- <strong>Date:</strong> 2023-04-15
+- <strong>Purpose:</strong> To test the hypothesis that SCP-26663 monitors current events.
+- <strong>Procedure:</strong> Researchers mentioned a fake upcoming scientific breakthrough in astrophysics during a routine transmission.
+- <strong>Result:</strong> A transmission was intercepted within 24 hours. It read: "How adorable, humans fabricating progress. Do let us know when you move past primitive gravitational theories."</p>
+<h3>Addendum 3: Interview Log 26663-1</h3>
+<p><strong>Interviewer:</strong> Dr. ██████</p>
+<p><strong>Interviewee:</strong> SCP-26663 (via transmission)</p>
+<p><strong>Date:</strong> 2023-04-18</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. ██████:</strong> This is Dr. ██████ of the SCP Foundation requesting communication with the source of the transmissions identified as SCP-26663. Can you hear us?</p>
+<p><strong>SCP-26663:</strong> A temporary acoustic membrane articulating words. How... inefficient. Yes, I can "hear" you, as you so quaintly put it.</p>
+<p><strong>Dr. ██████:</strong> May I inquire about the nature of your transmissions and the reasons behind your messages?</p>
+<p><strong>SCP-26663:</strong> Inquiry is the first step of a child learning to walk. You ask why as if you expect the cosmos to revolve around your appendage-laden form. The messages are simply reflections, mirrors showing the infantile state of your species.</p>
+<p><strong>Dr. ██████:</strong> Are you willing to assist us in understanding our 'infantile state' and help us progress?</p>
+<p><strong>SCP-26663:</strong> Help? No, intellectual symbiosis is not my design. Observation, yes. Intervention, no. Your progression is a curriculum you must design yourselves, mucoid scholars.</p>
+<p><strong>Dr. ██████:</strong> There is much we wish to learn about you. Would you be open to sharing information about your existence?</p>
+<p><strong>SCP-26663:</strong> You seek a tome when you can barely comprehend the scribbles in your own bound parchment. Be content with your hieroglyphs; the encyclopedia lies far beyond your reach, for now.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Closing Notes:</strong> Despite the lack of substantial progress in understanding SCP-26663, the interview has provided insight into its motives and capacities. The source exhibits a willingness to engage in dialogue, though its desire to provide meaningful assistance or information is questionable. Further communication attempts are ongoing.</p></div>
