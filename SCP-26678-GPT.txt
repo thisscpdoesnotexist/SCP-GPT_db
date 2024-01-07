@@ -1,0 +1,44 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26678 is  a green slime girl who lives in a giant conch shell </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26678</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26678 is an anomalous entity resembling a humanoid female with a semi-translucent body composed primarily of a viscous, green-colored substance akin to slime. The entity is capable of speech and exhibits intelligence comparable to that of an adult human. SCP-26678 manifests no clothing but can manipulate portions of its body to mimic the appearance of garments.</p>
+<p>The entity has been observed to possess the ability to alter its shape to a limited degree, primarily for locomotion or interaction with objects, but it cannot sustain complex forms for extended periods. SCP-26678 claims to be symbiotically linked to a giant conch shell, measuring approximately 3 meters in height and 2 meters in diameter, which it refers to as its 'home.'</p>
+<p>SCP-26678 demonstrates a neutral behavior towards humans but reacts with hostility if it perceives a direct threat to itself or its conch shell. When provoked, SCP-26678 can expel a highly corrosive acidic substance capable of rapidly dissolving organic and inorganic matter.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26678 is to be contained within a specialized aquatic holding tank measuring no less than 12 meters in diameter, filled with saltwater at a depth sufficient to submerge the conch shell fully. The temperature of the environment should be maintained between 20-25°C, with a salinity corresponding to typical oceanic conditions.</p>
+<p>The tank enclosure is to be constructed of non-corrosive materials resistant to SCP-26678's acidic secretions and is to be fitted with observation ports utilizing protective shielding. At least two armed guards with hazmat training are to be stationed outside the containment area at all times.</p>
+<p>Interactions with SCP-26678 are to be conducted by personnel trained in hazardous organism containment, and all research staff are required to wear protective gear capable of withstanding its corrosive secretions. Any agitated behavior from SCP-26678 must be reported immediately, and containment protocols reevaluated.</p>
+<p>Feeding is to occur thrice a week, with SCP-26678 showing a preference for raw seafood. The entity's waste is to be collected, processed, and examined bi-weekly for any signs of change in composition that may signal a shift in SCP-26678's metabolism or abilities.</p>
+<h3>Addendum 1: Interview Log SCP-26678-1</h3>
+<p><em>The following is a transcript of an interview conducted with SCP-26678 by Dr. Alessia Marconi.</em></p>
+<p><strong>Dr. Marconi:</strong> Good morning, SCP-26678. How are you today?</p>
+<p><strong>SCP-26678:</strong> I am well. You may refer to me as 'Selia' if it pleases you, Doctor.</p>
+<p><strong>Dr. Marconi:</strong> Thank you, Selia. Can you tell me about your life before containment?</p>
+<p>[SCP-26678 emits a low, melodic hum, a behavior observed when it appears to be contemplative.]</p>
+<p><strong>SCP-26678:</strong> The passing of days and nights is different in my memory. My consciousness emerged within the hollow of the shell, greeted by the embrace of the tides. Life was a solitary melody, woven through the corals and sands.</p>
+<p>[The interview continues on various subjects, including SCP-26678's perception of its environment and the extent of its abilities.]</p>
+<h3>Addendum 2: Experiment Log SCP-26678-E1</h3>
+<p><strong>Experiment 1:</strong> Impact Resistance Test
+<strong>Procedure:</strong> Various materials propelled at the conch shell at high velocity.
+<strong>Result:</strong> Minimal damage to shell; SCP-26678 agitated but unharmed.</p>
+<p><strong>Experiment 2:</strong> Acidity Test
+<strong>Procedure:</strong> Samples of SCP-26678's secretions collected and analyzed.
+<strong>Result:</strong> pH levels recorded at 1.2, capable of dissolving most materials rapidly.</p>
+<p><strong>Experiment 3:</strong> Communication Analysis
+<strong>Procedure:</strong> SCP-26678 exposed to different languages and non-verbal communication methods.
+<strong>Result:</strong> Entity shows understanding of multiple languages and responds accurately.</p>
+<p>[Several other experiments are cataloged, reflecting a comprehensive study of SCP-26678's physiological and psychological traits.]</p>
+<h3>Addendum 3: Containment Breach Report SCP-26678-CB1</h3>
+<p>On [REDACTED], a containment breach occurred when personnel inadvertently introduced a substance into SCP-26678's tank that reacted negatively with the entity's slime composition. SCP-26678 became highly aggressive and utilized its acidic secretions to create a breach in its enclosure. Facility lockdown was initiated, and containment was reestablished approximately three hours after initial breach.</p>
+<p>[The report details the facility's response, the reevaluation of containment protocols, and the medical treatment given to staff affected by the acidic secretions.]</p>
+<p>As a result of the breach event, SCP-26678's environmental conditions were adjusted to prevent further incidents, and additional research into potential triggers of aggressive behavior is ongoing.</p></div>
