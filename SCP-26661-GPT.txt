@@ -1,0 +1,45 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26661 is  an empty white void of infinite typewriters and infinite monkeys. However, all the monkeys have died of dehydration. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26661</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-26661 refers to a non-Euclidean space resembling an infinitely vast room with white walls, floor, and ceiling. Within this space exist an infinite number of typewriters, arranged in rows that extend beyond visible perception. Accompanying these typewriters are an equally infinite number of simian entities, resembling various species of monkeys and apes.</p>
+<p>Upon initial discovery, it was observed that all simian entities were deceased, presumably due to dehydration, as there are no apparent sources of food or water within SCP-26661. The environmental conditions inside SCP-26661 are otherwise similar to standard Earth atmosphere, though no natural light sources are present, the area is uniformly illuminated to adequate visibility levels.</p>
+<p>Materials brought into SCP-26661 such as food, water, and other survival necessities, remain unchanged and unaffected by any anomalous properties. However, any writing created by the typewriters remains within SCP-26661 permanently and cannot be physically extracted. Photographic evidence, electronic scans, and manual transcriptions are the only means of documenting the content produced there.</p>
+<p>The typewriters, upon inspection, have been found to hold various degrees of wear and tear, suggesting use over an indeterminate period. Despite the deaths of the simian entities, the typewriters periodically engage autonomously, producing text in a seemingly random fashion. The content varies widely, from incoherent strings of characters to well-structured text in multiple languages.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26661 is contained on-site due to its immovable and isolated nature. The entry point, a single doorframe located in [REDACTED], is to be secured within a standard Foundation containment facility. Access to SCP-26661 is restricted to Level 2 personnel and above, or those with explicit authorization from the project head.</p>
+<p>Personnel entering SCP-26661 must undergo a psychological evaluation before and after exposure to assess for potential cognitohazardous effects. They must also carry sufficient hydration and nutrition for the duration of their stay. No personnel are to remain within SCP-26661 for more than six hours to prevent dehydration consistent with the state of the simian entities found upon discovery.</p>
+<p>All writings produced within SCP-26661 are to be collected, documented, and analyzed for informational and research purposes. Foundation researchers are currently tasked with the long-term project of cataloging and studying the texts to uncover any potential patterns or insights into the SCP's origin or purpose.</p>
+<h3>Addendum 1:</h3>
+<p>Upon further study, it has been determined that SCP-26661's typewriters are capable of producing text in a vast array of languages, including some that are yet to be identified or have long since been considered dead or lost to history. Notable excerpts from the writings include fragments of known literary works, original poems, scientific theories, and personal narratives. The significance of these texts, if any, remains under investigation.</p>
+<h3>Addendum 2:</h3>
+<p><strong>Interview Log - SCP-26661-01</strong></p>
+<p><em>Interviewer: Dr. Annette Reines</em>
+<em>Interviewed: Dr. Jonas Holloway, SCP-26661 Discovery Team Lead</em></p>
+<p><strong>Dr. Reines:</strong> Good afternoon, Dr. Holloway. Could you recount the events leading to the discovery of SCP-26661?</p>
+<p><strong>Dr. Holloway:</strong> Certainly. It all started with [REDACTED], we were investigating a series of anomalous readings in the area. That's when we stumbled upon the doorframe—it was just there in the middle of the [REDACTED], completely out of place...</p>
+<p>[The remainder of the interview explores the discovery in detail, Dr. Holloway's initial assessment upon entering SCP-26661, and his emotional response to finding the infinite monkeys.]</p>
+<h3>Addendum 3:</h3>
+<p><strong>Experiment Log - SCP-26661-E</strong></p>
+<p><em>Experiment 1: Observational Study of Autonomous Typewriting Events</em>
+- <strong>Objective:</strong> Determine if typewriters operate under observable patterns.
+- <strong>Method:</strong> 24-hour surveillance of a section containing exactly 100 typewriters.
+- <strong>Results:</strong> Typewriters were observed to engage at random intervals. No discernible pattern was found.</p>
+<p><em>Experiment 2: Water and Food Source Introduction</em>
+- <strong>Objective:</strong> Assess if introducing basic necessities impacts the environment or deceased entities.
+- <strong>Method:</strong> A week's worth of water and nutritionally complete food was placed in proximity to 50 simian entities.
+- <strong>Results:</strong> No change in the environment or the entities was observed. A portion of the typewriters began producing coherent strings of text resembling an unknown narrative related to survival.</p>
+<p><em>Experiment 3: Introduction of Living Primates</em>
+- <strong>Objective:</strong> Investigate reaction of SCP-26661 to introduction of live primates.
+- <strong>Method:</strong> Two adult macaques were introduced into SCP-26661 under controlled conditions, with appropriate sustenance and monitoring.
+- <strong>Results:</strong> Macaques exhibited distress, refused to interact with typewriters, and attempted to exit SCP-26661. Typewriters nearest to the macaques produced strings of text expressing a desire for 'freedom' and 'return.' Macaques were safely extracted after four hours.</p>
+<p>Further experiments are pending approval and will be added in subsequent documentation.</p></div>
