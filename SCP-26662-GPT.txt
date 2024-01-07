@@ -1,0 +1,51 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26662 is  Derek, from the planet Derekulon, hear to clear dungeons of jerks and loot them for their cocoa </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26662</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26662, self-identified as "Derek" from the purported extraterrestrial origin "Derekulon," is a humanoid entity approximately 2 meters in height with a heavily muscled physique and a skin tone that fluctuates between various shades of green and blue. SCP-26662 is capable of verbal communication in English and exhibits a strong understanding of human social norms and cultural references, particularly those related to video game terminology.</p>
+<p>SCP-26662 exhibits several anomalous abilities including, but not limited to, enhanced strength, high-speed regeneration, teleportation within a limited range, and a form of reality manipulation that manifests in its ability to transform building interiors into "dungeon-like" structures filled with traps, puzzles, and hostile entities (hereafter referred to as "jerks") that resemble characters from various video games or fantasy settings.</p>
+<p>SCP-26662 is obsessive in its quest to "clear dungeons" and acquire "cocoa," which it claims is a valuable resource on its home planet. The entity has expressed a strong preference for cocoa in the form of chocolate, leading to the assumption that 'cocoa' is used as a blanket term for the Earth-based product.</p>
+<p>Most notably, SCP-26662's dungeon creation poses a significant threat to the fabric of reality and the safety of civilization, given that it indiscriminately transforms public and private properties into hazardous environments.</p>
+<h3>Special Containment Procedures:</h3>
+<p>A 10x10x10-meter containment unit has been constructed for SCP-26662 at Site-██, composed of reinforced steel and fitted with reality stabilizers to prevent the alteration of the chamber's interior. The chamber is to be monitored at all times via CCTV, with a rapid-response team on standby to counter potential containment breaches.</p>
+<p>Personnel assigned to SCP-26662's containment are advised to undergo basic combat training to prepare for interactions with any spawned "jerks" during containment breaches. Any transformed areas must be reverted to their original state promptly upon recontainment of SCP-26662.</p>
+<p>SCP-26662 is to be provided with a daily ration of chocolate containing no less than 70% cocoa content as part of its containment procedure to minimize its aggressive and restless behavior. Under no circumstances should SCP-26662 be allowed to roam freely or come into contact with any facility that could be transformed into a "dungeon."</p>
+<h3>Addendum 1: Interview Log 26662-1</h3>
+<blockquote>
+<p><strong>Dr. Harken:</strong> Good morning, SCP-26662.</p>
+<p><strong>SCP-26662:</strong> Hey, doc. You can just call me Derek. So, did you bring the goods?</p>
+<p><strong>Dr. Harken:</strong> Yes, we have your chocolate here. But first, can you tell us more about Derekulon?</p>
+<p><strong>SCP-26662:</strong> Sure thing. Derekulon is the raddest place in the cosmos. Imagine the best game you've ever played, but like, a billion times cooler. There's dungeons, dragons, and plenty of jerks to wreck. Oh, and cocoa! It's the currency back home!</p>
+<p><strong>Dr. Harken:</strong> And how exactly do you 'clear' these dungeons?</p>
+<p><strong>SCP-26662:</strong> It's simple. You bust in, kick some jerk butt, solve a few brain teasers, then loot the place. Snag the cocoa, and boom, you're a hero.</p>
+<p><em>(The rest of the interview focuses on Derek's societal norms and personal history on Derekulon.)</em></p>
+</blockquote>
+<h3>Addendum 2: Experiment Log 26662-E</h3>
+<ul>
+<li>
+<p><strong>Experiment E-1:</strong>
+  <em>Objective: Test SCP-26662's reality alteration limits with a controlled environment.</em>
+  <em>Result: SCP-26662 successfully converted a 5x5x5-meter test chamber into a rudimentary dungeon with non-lethal traps.</em></p>
+</li>
+<li>
+<p><strong>Experiment E-2:</strong>
+  <em>Objective: Introduce common domestic animals into the altered environment to determine SCP-26662's response.</em>
+  <em>Result: SCP-26662 transformed the animals into various "jerks," reflecting enemy types from classic RPGs. The entities were neutralized, and SCP-26662 exhibited frustration at the simplicity of the "dungeon."</em></p>
+</li>
+<li>
+<p><strong>Experiment E-3:</strong>
+  <em>Objective: Offer SCP-26662 a variety of chocolate from different regions to ascertain if quality affects its behavior.</em>
+  <em>Result: SCP-26662 showed a clear preference for high-cocoa-content chocolate. Lower quality chocolate resulted in increased agitation and aggression.</em></p>
+</li>
+</ul>
+<h3>Addendum 3: Incident Log 26662-A</h3>
+<p>The class Keter status of SCP-26662 was solidified following Incident-26662-A, where SCP-26662 breached containment and transformed a wing of Site-██ into a massive, multi-level dungeon, complete with hostile entities. The breach resulted in █ casualities and ██ injuries before SCP-26662 was recontained. Post-incident, SCP-26662 expressed pride in the creation and was notably nonchalant about the human toll, further emphasizing the threat the entity poses if not properly contained.</p></div>
