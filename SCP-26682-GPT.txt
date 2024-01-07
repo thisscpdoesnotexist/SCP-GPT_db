@@ -1,0 +1,54 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26682 is  my little pony, apocalypse ponies, punishment time for your sins </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26682</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26682 is a set of four animated figurines, each resembling characters from the series "My Little Pony". The figurines are approximately 10 centimeters in height and are extraordinarily detailed, with a craftsmanship that surpasses that of standard mass-produced toys.</p>
+<p>The four figures are themed around apocalyptic concepts, and each possesses anomalous abilities that are activated upon recitation of a specific phrase related to their respective themes:</p>
+<ul>
+<li><strong>Pestilence Pony:</strong> Unleashes a localized outbreak of a highly contagious disease, showing symptoms of fever, rash, and other flu-like conditions, with a mortality rate of approximately 30% if not contained.</li>
+<li><strong>War Pony:</strong> Causes immediate aggression and violent behavior in all sentient beings within a 10-meter radius, including an enhanced propensity to cause significant harm with available tools or weapons.</li>
+<li><strong>Famine Pony:</strong> Induces extreme starvation in any living organism within a 5-meter radius, regardless of prior nutritional status, often leading to death by starvation if exposure is prolonged.</li>
+<li><strong>Death Pony:</strong> Results in the cessation of biological functions in any living creature it touches, effectively triggering instant death.</li>
+</ul>
+<p>Remarkably, SCP-26682 figurines repair themselves if damaged and revert to an inert state when not actively triggered by their phrase.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26682 is to be kept in a high-security, lead-lined containment locker at Site-███, with each figurine encased in an individual transparent polycarbonate box to prevent accidental physical contact.</p>
+<p>Access to SCP-26682 is restricted to personnel with Level 4 security clearance or higher, and no fewer than two (2) armed guards are to be posted outside the containment locker at all times. Usage of the figurines' phrases is strictly forbidden without approval from a majority of the O5 Council.</p>
+<p>In the event of an SCP-26682-induced event, Site-███ is to initiate lockdown procedures, and the crisis response unit should be deployed immediately to manage the respective anomalous effect. Affected personnel and civilians are to be quarantined, and amnestics may be administered after recovery and containment.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-26682 was initially discovered in [REDACTED], after a series of strange events were reported in a local neighborhood. An embedded Foundation agent extracted the items from a suburban home and proceeded to Class-4 amnestic application to witnesses. All digital evidence was confiscated and destroyed.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><code>Experiment 26682-E-01:</code>
+- <strong>Procedure:</strong> D-Class personnel instructed to recite Pestilence Pony phrase.
+- <strong>Results:</strong> Outbreak of flu-like symptoms manifested in D-Class subjects. Contained and treated. Survival rate post-containment: 70%.</p>
+<p><code>Experiment 26682-E-02:</code>
+- <strong>Procedure:</strong> Remote activation of War Pony in presence of D-Class personnel.
+- <strong>Results:</strong> Subjects descended into violence. Non-lethal suppression tactics employed. Subjects detained and amnesticized. </p>
+<p><code>Experiment 26682-E-03:</code>
+- <strong>Procedure:</strong> Exposure of plant life to Famine Pony.
+- <strong>Results:</strong> Rapid withering and death of plant life. Effect does not spread beyond initial radius.</p>
+<p><code>Experiment 26682-E-04:</code>
+- <strong>Procedure:</strong> Use of robotic arm to engage Death Pony's effect on lab rat.
+- <strong>Results:</strong> Instant expiration of the test subject upon contact. No observable effects on the robotic arm.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. ██████
+<strong>Subject:</strong> SCP-26682
+<strong>[BEGIN LOG]</strong>
+<em>Dr. ██████: "SCP-26682, can you communicate or respond to external stimuli?"</em>
+<em>Silence follows.</em>
+<em>Dr. ██████: "Do you have any sense of self-awareness or sapience?"</em>
+<em>The figurines remain inactive.</em>
+<em>Dr. ██████ proceeds with various tests to determine sentience or the ability to communicate. No response from SCP-26682 is observed.</em>
+<strong>[END LOG]</strong></p>
+<p><strong>Note:</strong> SCP-26682 does not appear to possess sapience or sentience, suggesting its effects are either preprogrammed or controlled by an external, as-of-yet undetermined, force. Further investigation is required to determine the origin and purpose of SCP-26682.</p>
+<h3>Addendum 4: Ethics Committee Review</h3>
+<p>The Ethics Committee has expressed concerns regarding the moral implications of using SCP-26682 for any purpose, due to the severe and often deadly consequences of their activation. As such, any testing or usage outside of containment protocols is to be considered ethically unjustifiable unless under circumstances of extreme or existential threat to humanity. All personnel are reminded that SCP-26682 is a top-priority containment asset, and misuse will result in immediate disciplinary action.</p></div>
