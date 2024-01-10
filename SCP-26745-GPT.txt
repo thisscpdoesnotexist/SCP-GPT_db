@@ -1,0 +1,53 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26745 is  Elvish Elvis Presley  </h3> </center>
+    <h1>SCP-26745</h1>
+<h3>Item #:</h3>
+<p>SCP-26745</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26745 appears to be a humanoid entity closely resembling the late American singer Elvis Presley, with the exception of pointed ears similar to those described in folklore associated with elvish creatures. The entity has displayed a range of anomalous abilities, most notably the power to induce extreme states of emotional euphoria or melancholy in individuals through its vocal performances, which contain both recognizable Elvis Presley songs and unfamiliar, possibly elvish, compositions.</p>
+<p>The entity is fluent in English and has demonstrated knowledge of events up to the year 1977 (the year of Elvis Presley's death). Attempts to discuss events or cultural developments post-1977 invariably lead SCP-26745 to exhibit signs of confusion and mild distress.</p>
+<p>SCP-26745 requires sustenance similar to that of a human and has shown a strong preference for foods popular during the 1950s and 1960s in the southern United States. It doesn't appear to age, and any injuries it incurs heal at a highly accelerated rate.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26745 is to be contained in a standard humanoid containment cell, retrofitted to mimic the aesthetic of a mid-twentieth century American home. Items within the containment cell include period-appropriate furniture, musical instruments, a record player, and a collection of vinyl records predominantly from the 1950s and 1960s.</p>
+<p>Staff interacting with SCP-26745 must be trained in mid-twentieth-century American culture and mannerisms to avoid unnecessary distress or agitation of the entity.</p>
+<p>Under no circumstances are personnel to discuss events taking place after 1977 with SCP-26745. All interactions are to be monitored for signs of emotional manipulation.</p>
+<p>SCP-26745 is permitted to perform within an enclosed and soundproof auditorium once a week, under strict supervision. Audiences are to consist of D-class personnel only, and all audience members are to undergo psychological evaluation before and after performances.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Interview Log 26745-21</strong></p>
+<p><em>Interviewer: Dr. Marlene Hastings</em></p>
+<p><em>The following is a transcript of an interview with SCP-26745, conducted to gather insight into its knowledge of its own nature and origins.</em></p>
+<p><strong>Dr. Hastings:</strong> Good morning, SCP-26745. How are you feeling today?</p>
+<p><strong>SCP-26745:</strong> Well, ma'am, I feel just fine, thank you very much.</p>
+<p><strong>Dr. Hastings:</strong> Excellent. I would like to talk to you about where you come from. Can you tell me about your origins?</p>
+<p><strong>SCP-26745:</strong> Origins? I reckon I'm just a simple man who loves to sing. Though sometimes, I feel like I've been here much longer than a lifetime, singing songs across the ages.</p>
+<p><strong>Dr. Hastings:</strong> Do you remember anything unusual about your childhood, or how you came to possess your abilities?</p>
+<p><strong>SCP-26745:</strong> Unusual? Now that's a tough one. Ever since I was a little boy, I had this knack for singing, and when I did, folks around would just start to get overwhelmed with feeling. I learned to control it as I got older, knew that with great power comes great responsibility, you know?</p>
+<p><strong>Dr. Hastings:</strong> Yes, I understand. Do you identify yourself as Elvis Presley, the musician?</p>
+<p><strong>SCP-26745:</strong> I share his voice and his face, and I've got memories of Graceland and the music, but there's something else in me, something older. It's like I'm Elvis, but not just Elvis, if that makes any sense.</p>
+<p><strong>Dr. Hastings:</strong> Intriguing. Thank you for your time, SCP-26745.</p>
+<h3>Addendum 2:</h3>
+<p><strong>Experiment Log 26745-E</strong></p>
+<p><em>Experiment 26745-E-14</em></p>
+<p><strong>Objective:</strong> To determine the extent of SCP-26745's emotional influence through song.</p>
+<p><strong>Procedure:</strong> D-8432 was exposed to a live performance by SCP-26745.</p>
+<p><strong>Results:</strong> D-8432 reported an overwhelming sense of joy during the performance, followed by mild depression post-exposure. Psychological analysis confirmed significant temporary alteration of mood, significantly different from D-8432's established baseline.</p>
+<p><em>Experiment 26745-E-15</em></p>
+<p><strong>Objective:</strong> To test the reaction of SCP-26745 to modern music technology.</p>
+<p><strong>Procedure:</strong> SCP-26745 was presented with a digital music player containing various songs from the 1970s to the present.</p>
+<p><strong>Results:</strong> SCP-26745 became visibly anxious and refused to interact with the device. Upon playing a song from 1979, SCP-26745 began to exhibit signs of distress and was removed from the testing environment.</p>
+<p><em>Experiment 26745-E-16</em></p>
+<p><strong>Objective:</strong> To assess the range of SCP-26745's influence.</p>
+<p><strong>Procedure:</strong> Conducted in a soundproof chamber, a live performance was transmitted to D-class personnel via audio-visual feed at varying distances, from 10 meters to 10 kilometers.</p>
+<p><strong>Results:</strong> Emotional influence on D-class personnel was significantly reduced at distances over 1 kilometer, and nonexistent past 5 kilometers. It is concluded that SCP-26745's anomalous effects have a limited range with regards to direct perception of its performance.</p>
+<h3>Addendum 3:</h3>
+<p><em>Additional Notes Regarding Incident 26745-3</em></p>
+<p>During an unauthorized attempt by Junior Researcher Davis to play a recording of a live broadcast from 1980 to gauge SCP-26745's reaction, SCP-26745 breached containment by inducing an intense soporific effect on facility staff. Before being recontained, SCP-26745 was found in the staff break room crying and cradling the recording device.</p>
+<p>This incident led to a reassessment of containment protocols and the dismissal of Junior Researcher Davis for breaching protocol and endangering the facility. It also served to validate the necessity of restricting SCP-26745's exposure to post-1977 culture and history.</p></div>
