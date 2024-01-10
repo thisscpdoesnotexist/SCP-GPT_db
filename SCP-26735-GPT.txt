@@ -1,0 +1,58 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26735 is  the beach that makes you a beach </h3> </center>
+    <p>```markdown</p>
+<h3>Item #:</h3>
+<p>SCP-26735</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26735 refers to a coastal geographic anomaly located in [REDACTED], which exhibits transformative properties on human subjects. The anomalous effect manifests when an individual makes direct physical contact with the sand on the beach within a defined perimeter of approximately 300 meters.</p>
+<p>Upon contact, subjects report a sensation of serenity followed by gradual somatic and psychological changes. Within the first 15 minutes, subjects' skin texture begins to alter, taking on granular qualities similar to the composition of the beach sand. Psychological assessments show an increase in subjects' relaxation levels and a decrease in stress hormones correlating with prolonged exposure.</p>
+<p>As the transformation progresses, the subjects' bodies become increasingly integrated with the sandy environment. Within one hour, subjects will have transformed completely into a collection of sand particles that retain the consciousness and rudimentary mobility of the original subject. During this phase, SCP-26735-1 instances (former humans now comprised of sand) demonstrate the ability to merge with the beach and manipulate their form within the sandy medium.</p>
+<p>No known method exists to reverse the transformation once it has begun. Affected subjects cannot survive off the beach due to their sand composition and are considered lost once transformation is complete.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As conventional containment is not feasible due to the natural expanse of SCP-26735, the affected area has been cordoned off from the public under the guise of a protected ecological zone. Surveillance cameras and personnel disguised as park rangers are stationed to monitor and deter unauthorized access.</p>
+<p>Researchers studying SCP-26735 must adhere to safety protocols which include the use of specialized equipment to prevent direct contact with the sand. Any equipment or clothing that inadvertently contacts the sand must be treated as compromised and subjected to immediate containment protocols.</p>
+<p>In the event of accidental exposure, the individual must be swiftly escorted off the beach to prevent complete transformation. Should transformation occur, the nascent SCP-26735-1 instance is to be documented and monitored for research purposes. Access to SCP-26735 for testing requires approval from at least two Level 4 personnel, and all experiments must strictly adhere to ethical guidelines regarding the treatment of sentient subjects.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-26735 was initially discovered when local reports of missing persons at the beach reached abnormal levels. Foundation agents embedded in local law enforcement agencies investigated and confirmed the anomalous properties of the beach.</p>
+<p>Following containment, all information pertaining to SCP-26735 and its related incidents were suppressed from public databases, with a standard disinformation campaign deployed to maintain secrecy.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><em>Interview was conducted with a subject who narrowly avoided full transformation.</em></p>
+<p><strong>Interviewer:</strong> Dr. Reynolds, SCP Foundation Researcher</p>
+<p><strong>Interviewee:</strong> [REDACTED], SCP-26735 exposure survivor</p>
+<p><em><Begin Log></em></p>
+<p><strong>Dr. Reynolds:</strong> Can you describe what you felt when you first stepped onto the beach?</p>
+<p><strong>[REDACTED]:</strong> It was... soothing. Like every worry I had just melted away.</p>
+<p><strong>Dr. Reynolds:</strong> When did you realize something was wrong?</p>
+<p><strong>[REDACTED]:</strong> When I saw my hands. The skin was... it looked like sand. I tried to shake it off, but... it just stayed like that.</p>
+<p><strong>Dr. Reynolds:</strong> How did the Foundation personnel handle your condition?</p>
+<p><strong>[REDACTED]:</strong> They got me off the beach quickly. I could feel myself becoming part of it. I was scared, but they kept me calm.</p>
+<p><strong>Dr. Reynolds:</strong> Thank you for your cooperation. Your experience is invaluable to our research.</p>
+<p><em><End Log></em></p>
+<h3>Addendum 3: Experiment Log</h3>
+<p><em>Experiment SCP-26735-E01</em></p>
+<p><strong>Objective:</strong> To determine the effect of SCP-26735 on non-human subjects.</p>
+<p><strong>Procedure:</strong>
+1. A domestic pig (Sus scrofa domesticus) was led onto the beach while under heavy sedation to prevent stress.
+2. Physical and psychological responses were monitored.</p>
+<p><strong>Results:</strong>
+- The pig exhibited no signs of transformation.
+- Conclusion: SCP-26735's effects appear to be exclusive to humans.</p>
+<p><em>Experiment SCP-26735-E02</em></p>
+<p><strong>Objective:</strong> To observe the interaction between two SCP-26735-1 instances.</p>
+<p><strong>Procedure:</strong>
+1. Two D-Class personnel (D-1783 and D-1942) were allowed to undergo full transformation into SCP-26735-1 instances.
+2. Researchers observed the interactions from a safe distance.</p>
+<p><strong>Results:</strong>
+- D-1783 and D-1942 maintained individual consciousness but collaborated in sand form to create shared structures.
+- Indications of a rudimentary hive-mind emerging during cooperation were noted.</p>
+<p><strong>Conclusions:</strong>
+SCP-26735 retains consciousness and individuality post-transformation, although a communal behavior pattern under cooperation suggests potential for collective consciousness in SCP-26735-1 instances.
+```</p></div>
