@@ -1,0 +1,46 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26732 is  the beach that makes you old </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26732</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26732 is a geographically-bound phenomenon affecting a small, isolated beach area, approximately 3 kilometers in length, located on [REDACTED]. This location does not possess any unusual features to a casual observer, maintaining a typical beach ecosystem with local flora and fauna present.</p>
+<p>Individuals who enter SCP-26732's effective zone experience rapid aging at an inconsistent rate. The aging process initiated by SCP-26732 causes physical, cognitive, and biological changes consistent with the natural human aging process but occurring over a time span ranging from minutes to several hours. The rate of aging and the extent to which an individual is affected appear to be somewhat random, though stress and physical exertion within the area may exacerbate the phenomenon.</p>
+<p>Extended exposure results in death due to age-related complications. The effect ceases immediately once individuals exit the effective zone, halting further progression but not reversing the changes that have occurred. SCP-26732's effects appear permanent and have so far proven irreversible by any means.</p>
+<h3>Special Containment Procedures:</h3>
+<p>The area containing SCP-26732 has been closed off to the public under the guise of environmental conservation efforts. Disinformation campaigns have been deployed to reduce the attraction to the site and to cover up any instances of premature aging or deaths caused by SCP-26732 prior to Foundation intervention.</p>
+<p>A perimeter has been established 4 km away from the center of SCP-26732's effective zone, marked with signage warning of toxic waste to deter unauthorized access. Round-the-clock surveillance is in place to monitor for trespassers and SCP-26732 activity.</p>
+<p>Due to the anomaly's nature, all research must be conducted remotely or via unmanned drones equipped with samples collection systems and video recording equipment. No personnel is to enter SCP-26732's effective zone without express permission from Site Command, along with a detailed exit strategy, and lifelines to ensure a rapid retreat from the area if the situation requires.</p>
+<p>A D-class personnel aging profile database has been established to track any potential patterns or factors in SCP-26732's aging acceleration effects. Strict rotation schedules have been implemented for staff assigned to SCP-26732 to prevent inadvertent exposure due to proximity.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-26732 came to the Foundation's attention when a series of reports surrounding "The Aging Beach" surfaced on local news outlets and social media platforms. These reports coincided with a noticeable increase in missing persons and unexplained deaths in the area. Foundation agents were dispatched, and after conducting interviews and gathering eyewitness accounts, the area was secured and designated as SCP-26732.</p>
+<h3>Addendum 2: Interview Log - Subject D-10985</h3>
+<p><strong>Interviewer:</strong> Dr. Keiran
+<strong>Subject:</strong> D-10985, a 34-year-old male D-class subject who was exposed to SCP-26732 for a total of 17 minutes and aged approximately 30 years during the exposure.</p>
+<p><em>Below is a brief excerpt from the full interview:</em></p>
+<p><strong>Dr. Keiran:</strong> Can you describe your experience while on the beach?
+<strong>D-10985:</strong> It was insane, doc. I walked in, and it was like every step I took, I felt older. My joints started aching, my vision got blurry, and by the time we were ten minutes in, I felt like I was carrying a lifetime on my back.
+<strong>Dr. Keiran:</strong> Did you notice any factors that seemed to affect the rate of aging?
+<strong>D-10985:</strong> Yeah, we had these heart monitors on, right? The faster my heart was going, the worse it got. When I tried to stay calm, it seemed to slow down a bit, but it never stopped.</p>
+<p><em>Further details of Interview Log D-10985 can be found in Document SCP-26732-IL85.</em></p>
+<h3>Addendum 3: Experiment Log</h3>
+<p><em>Experiment Log 26732-Exp-A</em>
+<strong>Parameters</strong>: Use of unmanned drones to sample the environment of SCP-26732.
+<strong>Result</strong>: Samples showed no unusual chemical or biological contaminants that could account for the aging phenomenon.</p>
+<p><em>Experiment Log 26732-Exp-B</em>
+<strong>Parameters</strong>: D-20818 instructed to enter the SCP-26732 zone and remain stationary for a period of 5 minutes.
+<strong>Result</strong>: D-20818 aged by approximately 5 years over the 5 minute period; aging occurred linearly with time spent immobile within the zone.</p>
+<p><em>Experiment Log 26732-Exp-C</em>
+<strong>Parameters</strong>: D-30619 was directed to perform moderate physical exercise (jogging on the beach) for up to 10 minutes within SCP-26732.
+<strong>Result</strong>: D-30619 aged an estimated 25 years within the first 6 minutes of exercise, at which point the subject experienced cardiac arrest consistent with extreme old age and was pronounced dead shortly after being removed from SCP-26732.</p>
+<p><em>Experiment Log 26732-Exp-D</em>
+<strong>Parameters</strong>: Testing the combined effort of anti-aging treatments (both anomalous and non-anomalous) on subjects within SCP-26732.
+<strong>Result</strong>: All attempted treatments, including those incorporating other SCP items known for regenerative effects, failed to counteract or reverse the aging imparted by SCP-26732. Subjects still aged according to previously established patterns.</p>
+<p>All subsequent experiments have been suspended pending further review by the Ethics Committee due to the high mortality rate and permanent effects experienced by subjects involved in testing with SCP-26732.</p></div>
