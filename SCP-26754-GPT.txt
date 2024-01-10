@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26754 is  a "glitch" in reality that allows clipping through geometry at high speeds </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26754</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26754 is currently uncontainable by conventional physical means. However, to mitigate the risk of civilian interaction and exposure, the area of effect has been cordoned off under the guise of environmental contamination. The perimeter is enforced by Foundation members under the designation of Containment Team 26754-Delta ("Clip Cops"), who are tasked with ensuring no unauthorized access to the affected region, as well as monitoring and retrieving entities or objects that may originate from or enter due to SCP-26754's anomalous properties.</p>
+<p>Containment Team 26754-Delta is equipped with high-speed tracking drones and specialized netting systems designed to capture objects or individuals affected by SCP-26754. All operatives are required to maintain a safe distance from known 'clip zones' and are instructed to utilize remote observation methods whenever possible. In the case of a major containment breach event or largescale clipping incident, Mobile Task Force Κ-10 ("Speedrunners") is to be deployed. </p>
+<p>Amnestics are to be administered to any non-Foundation individual that witnesses or survives interaction with SCP-26754. The Foundation's media and misinformation teams are to ensure plausible deniability and suppress any footage or evidence that could lead to public awareness or unrest.</p>
+<p>Due to the unpredictable and hazardous nature of SCP-26754, all research efforts are to be conducted remotely using drones and robotic instrumentation when direct interaction is required. Under no circumstances are manned expeditions to be approved without consent from at least two members of the O5 Council.</p>
+<h3>Description:</h3>
+<p>SCP-26754 refers to a localized phenomenon at [REDACTED] where the laws of physics appear to be intermittently compromised, allowing for what can best be described as "clipping" through solid matter. This effect is akin to a glitch commonly experienced in computer-generated environments, yet occurs within our consensus reality.</p>
+<p>Entities and objects that pass through SCP-26754 experience extreme acceleration and can penetrate through normally impenetrable matter within the affected zone. While the exact nature of this acceleration remains under study, it is postulated to involve quantum and possibly extra-dimensional mechanisms.</p>
+<p>SCP-26754's boundary is marked by shimmering visual distortions, seemingly random fluctuation in air and ground temperature, and intermittent electromagnetic interference. The phenomenon does not remain static, displaying a tendency to drift slowly across terrain, making permanent containment efforts ineffective and requiring constant surveillance to track its movement.</p>
+<p>Individuals or objects that undergo clipping are usually subjected to severe molecular and structural destabilization, often resulting in catastrophic integrity failure, akin to high-velocity impacts, or complete disintegration. However, there have been reports of 'successful' transactions with living subjects experiencing displacement over significant distances, although these accounts are sporadic and not well-substantiated.</p>
+<h3>Addendum 1: Incident Report 26754-01</h3>
+<p>On [DATE REDACTED], a civilian vehicle inadvertently entered a clip zone during SCP-26754's initial manifestation. The vehicle and its occupants were subject to SCP-26754's effects, resulting in the instantaneous disappearance of the vehicle and partial transmission of organic material consistent with human remains. Foundation agents were dispatched, and a cover story involving an unexplained sinkhole was disseminated to the media. The remains were collected for study, and all witnesses were administered Class B amnestics.</p>
+<h3>Addendum 2: Experiment Log 26754</h3>
+<h4>Experiment 26754-A</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> A metallic sphere was equipped with multiple sensors and projected into a clip zone using a pneumatic cannon.</li>
+<li><strong>Result:</strong> The sphere accelerated exponentially before colliding with a concrete barrier. Despite the barrier's thickness, the sphere and a segment of the barrier vanished, leaving behind a spherical void.</li>
+</ul>
+<h4>Experiment 26754-B</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> A drone, equipped with a high-speed camera and designed for collision survival, was remotely piloted into the clip zone.</li>
+<li><strong>Result:</strong> Upon contact with the distortion, the drone exceeded its structural limits and was obliterated. Analysis of the retrieved footage revealed ultra-high-speed movement through barriers, followed by static.</li>
+</ul>
+<h4>Experiment 26754-C</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> A D-class personnel, alongside an automated transport cart carrying various rations and water supplies, pushed the cart into a clip zone.</li>
+<li><strong>Result:</strong> The cart immediately vanished, yet no sign of the items or cart were later found. The D-class individual was observed to show severe psychological stress and was treated for acute PTSD.</li>
+</ul>
+<h3>Addendum 3: Interview Log 26754-Δ</h3>
+<p><strong>Interviewer:</strong> Dr. [REDACTED]<br />
+<strong>Interviewee:</strong> D-18934 (Survivor of Experiment 26754-C)</p>
+<p>[Transcript Constrained to Relevant Excerpt]</p>
+<p><strong>Dr. [REDACTED]:</strong> "Can you describe what you saw when the cart entered the clip zone?"</p>
+<p><strong>D-18934:</strong> "It...it was like it hit an invisible wall, then got sucked into nothing, just popped out of existence. And the sound, that awful grinding noise like the world itself was tearing apart."</p>
+<p><strong>Dr. [REDACTED]:</strong> "We noticed you didn't proceed to follow the cart as per your instructions. Can you explain your reason for not complying?"</p>
+<p><strong>D-18934:</strong> (visibly shaking) "Doc, there was something about that moment, I can't explain it. It was like a voice in my head screaming to stop. I've never been religious or superstitious, but... that wasn't right, what happened to that cart. It's not meant for us. I won't go near that zone again."</p>
+<p>The interview was suspended after the subject became increasingly agitated and unresponsive to further questioning. D-18934 was later administered amnestics and reassigned to a different project. Additional research and interviews are ongoing to ascertain the cause of the intense psychological responses encountered by entities exposed to SCP-26754.</p></div>
