@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26731 is  a dramatic chipmunk </h3> </center>
+    <h1>SCP-26731</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-26731</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-26731 appears to be a taxonomically ordinary adult specimen of Tamias striatus, commonly known as the Eastern chipmunk. It is identifiable by a distinctive melanistic fur pattern around its eyes, which superficially resembles the "smoky eye" makeup technique. The critical anomalous property of SCP-26731 manifests when it is observed directly by a human making eye contact. Upon locking eyes with a human observer, SCP-26731 will freeze and slowly turn its head towards the observer, after which it will engage in a sequence of dramatic poses and facial expressions. These displays last precisely 6.2 seconds before SCP-26731 resumes typical chipmunk behavior.</p>
+<p>Extended observations revealed this effect to be non-hazardous and strictly limited to visual drama. Recordings of SCP-26731 do not produce an anomalous effect, suggesting a perceptual rather than visual distortion. SCP-26731 does not appear to suffer from any adverse health effects as a result of the anomaly and maintains typical dietary and exercise patterns for a non-anomalous chipmunk.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its benign nature, SCP-26731 is to be contained in a standard small mammal enclosure within Site-77. Enclosure enrichment should include a nest box, climbing branches, and foraging materials to ensure psychological well-being. SCP-26731's diet should consist of seeds, fruits, nuts, and the occasional insect, in line with that of non-anomalous Eastern chipmunks.</p>
+<p>Personnel interactions should be limited to routine care and any approved experiments. All experiments must be supervised by at least one Level 3 researcher. Should additional anomalous behavior be uncovered, containment procedures will be re-evaluated accordingly.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-26731 was initially discovered by a group of hikers in [REDACTED], USA, after accidentally filming its anomalous behavior and posting the footage online. The video went viral on social media, leading to the involvement of Embedded Foundation Agents within major internet service providers, who subsequently traced and secured SCP-26731. Class A amnestics were administered to the involved civilians, and the original footage was replaced with a non-anomalous duplicate to reduce the possibility of public awareness of the anomaly.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26731-E1</h4>
+<p><strong>Subjects:</strong> D-8432, armed with a standard Foundation digital camera.
+<strong>Procedure:</strong> D-8432 instructed to make eye contact with SCP-26731 and record its behavior.
+<strong>Results:</strong> SCP-26731 exhibited its dramatic behavior. The recording displayed no anomalous properties, confirming that the effect is contingent on direct eye contact.</p>
+<h4>Experiment 26731-E2</h4>
+<p><strong>Subjects:</strong> Two D-Class personnel, D-4581 and D-7625, placed on opposite sides of SCP-26731's enclosure.
+<strong>Procedure:</strong> Both subjects were instructed to establish eye contact simultaneously.
+<strong>Results:</strong> SCP-26731 oriented its body to face D-4581, initiating its performance, ignoring D-7625. Further testing recommended determining the criteria for target selection.</p>
+<h4>Experiment 26731-E3</h4>
+<p><strong>Subjects:</strong> D-4581, outfitted with mirrored sunglasses.
+<strong>Procedure:</strong> D-4581 instructed to approach SCP-26731 and attempt to establish eye contact.
+<strong>Results:</strong> SCP-26731 briefly assumed a startled pose before resuming standard behavior. Anomalous effects were not triggered, suggesting SCP-26731 requires mutual visibility of eyes.</p>
+<h3>Addendum 3: Interview Log 26731-I1</h3>
+<p><strong>Interviewer:</strong> Dr. Lena Kowalski<br />
+<strong>Subject:</strong> D-4581 after Experiment 26731-E3<br />
+<strong>Foreword:</strong> Following Experiment E3, Dr. Kowalski interviewed D-4581 to glean insight into SCP-26731's behavior and effect on observers.</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. Kowalski:</strong> Please describe what you experienced during your time with SCP-26731.</p>
+<p><strong>D-4581:</strong> At first, it was just a chipmunk, you know. Then it looks at me, and it's like it knew I was there to see a show or something. It starts moving all, I dunno, <em>dramatically</em>. Made me feel like I was in a movie or something.</p>
+<p><strong>Dr. Kowalski:</strong> And when you wore the mirrored sunglasses?</p>
+<p><strong>D-4581:</strong> Yeah, that was weird. It acted all surprised or scared at first. Maybe it couldn’t see itself in my glasses? After that, it just ignored me.</p>
+<p><strong>Dr. Kowalski:</strong> Did you experience any discomfort or any other side effects during the experiments?</p>
+<p><strong>D-4581:</strong> Nope. Just felt kinda silly, like a little play just for me. Never knew chipmunks did drama class.</p>
+<p><strong>Dr. Kowalski:</strong> Thank you, D-4581. Return him to his quarters, please.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Closing Statement:</strong> SCP-26731's anomalous effects appear to be a benign perceptual anomaly requiring mutual eye visibility. No further action required at this stage.</p>
+<hr /></div>
