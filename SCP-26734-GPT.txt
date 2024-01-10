@@ -1,0 +1,51 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26734 is  the beach that makes you fold </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26734</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26734 is an anomalous coastal region approximately 4km in length, located on the [REDACTED] coastline. The anomaly is characterized by an effect that causes organic matter to undergo rapid and precise folding, akin to origami, when in contact with the sand of the beach within its boundaries.</p>
+<p>SCP-26734's effect triggers when any multi-cellular organic entity remains in contact with the sand for longer than approximately 3 minutes. The initial symptoms include uneasiness and mild skin irritation, followed by an abrupt and involuntary contraction of the skin and muscle tissue into complex folded structures. Internal organs and skeletal structures are similarly affected shortly after the exterior symptoms manifest.</p>
+<p>Examination of instances retrieved from SCP-26734 post-exposure reveals that fold patterns vary hugely between subjects, but all demonstrate an inexplicable preservation of life functions despite significant deformation and restructuring. Attempts to unfold affected life forms result in catastrophic failure of the organism's structural integrity.</p>
+<p>SCP-26734 seems to only affect organisms that are in direct contact with its sand. The folding effect has yet to be replicated in laboratory conditions, and samples of the sand lose their properties when removed from the location, suggesting the anomaly is not solely due to the sand’s composition but may involve other environmental or extradimensional factors.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26734 is to be contained by establishing a 5km exclusion zone around the affected coastline, under the guise of a protected wildlife reserve to deter public access. Surveillance cameras and motion sensors are to be installed along SCP-26734's perimeter to monitor for trespassing and the inadvertent entry of wildlife. Any living organisms recovered from the region exhibiting anomalous folding are to be cataloged and placed in biological containment.</p>
+<p>Personnel entering SCP-26734 are to do so only for approved testing or investigation and must wear specialized protective suits designed to prevent contact with the sand. Entry and exit from SCP-26734 are to be conducted via a temporary pathway of non-reactive material laid over the sand by robotic assistance.</p>
+<p>In the event of an accidental exposure, the affected individual is to be immediately quarantined, and all attempts at medical stabilization are to be made. However, due to the nature of the anomaly, successful recovery from advanced exposure has not yet been achieved.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-26734 was discovered on [REDACTED], following reports of missing persons and animals in the surrounding area. Initial recovery teams were unaware of the anomalous properties of SCP-26734 and suffered multiple casualties. Subsequent investigations and the implementation of current containment procedures have eliminated further uncontrolled exposure.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26734-E-01:</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> Placing a D-Class personnel at the edge of SCP-26734 for a five-minute exposure to the sand.</li>
+<li><strong>Result:</strong> D-Class personnel began showing signs of the anomalous effect at the 3-minute mark. Procedure was halted, and personnel were extracted. Significant folding observed on lower extremities; recovery efforts failed.</li>
+</ul>
+<h4>Experiment 26734-E-02:</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> Introduction of a remote-controlled drone carrying a small mammal (rabbit) into the center of SCP-26734 for a 10-minute exposure.</li>
+<li><strong>Result:</strong> Exposure appeared slower in onset but reached completion. The rabbit was retrieved in a state of full biological origami. Despite this, vital signs remained detectable for 12 hours post-retrieval.</li>
+</ul>
+<h4>Experiment 26734-E-03:</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> Testing of the protective suit by having D-Class personnel wear it while walking through SCP-26734.</li>
+<li><strong>Result:</strong> Suit effectively prevented exposure to the anomaly. D-Class personnel reported mild discomfort and a sensation of 'resistance' as if walking through a denser medium.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interviewer: Dr. [REDACTED]</h4>
+<h4>Interviewee: D-Class Personnel D-85231 (Post Exposure)</h4>
+<p><strong>Dr. [REDACTED]:</strong> Please describe your sensations during the initial exposure.
+<strong>D-85231:</strong> It was like... itchiness all over. Then real tight, like I was being squeezed into a box I couldn't see.
+<strong>Dr. [REDACTED]:</strong> Can you elaborate on the 'tightness' you experienced?
+<strong>D-85231:</strong> My skin started pinching in places, folding over itself. Hurt like hell when it got to my bones. I heard them crack before anything went numb.
+<strong>Dr. [REDACTED]:</strong> Thank you, D-85231. We'll do everything we can to make you comfortable.</p>
+<p>[End of Interview. D-85231 was later pronounced deceased due to systemic organ failure, presumably as a long-term result of the structural alterations.]</p></div>
