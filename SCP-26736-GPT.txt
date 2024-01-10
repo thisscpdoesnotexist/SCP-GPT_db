@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26736 is  the phenomenon of carcinization, that all forms of life are evolving into crabs </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26736</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26736 is an anomalous phenomenon characterized by the gradual and spontaneous process of carcinization occurring across a wide range of non-crustacean life forms. Carcinization is the evolutionary tendency famously observed in multiple lineages of crustaceans to evolve a form resembling a crab. SCP-26736's effects manifest in live organisms by progressively transforming their anatomy and physiology to closely resemble those of the Brachyura infraorder, commonly known as true crabs.</p>
+<p>Affected organisms, hereby referred to as SCP-26736-A instances, initially exhibit minor morphological changes which then rapidly progress over a period that can vary from days to weeks depending on the organism's complexity and life cycle. Common alterations include the development of a hardened exoskeleton, a dorsoventrally flattened body, and restructured appendages, among other crab-like traits. Behavioral and ecological changes consistent with crab-like lifestyles also accompany the physical transformation.</p>
+<p>SCP-26736's mechanism of action remains poorly understood, with no discernible pattern to the selection of affected species or individuals. Any efforts to halt or reverse the process have been unsuccessful to date. The phenomenon's potential for ecological disruption, combined with its unpredictable nature, has earned it a Keter classification.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the widespread potential of SCP-26736, containment efforts are primarily focused on monitoring and rapid response. The Foundation employs a network of field agents and researchers designated as Mobile Task Force Delta-4 ("Crab Watchers") to investigate reported cases of SCP-26736 and initiate containment protocols.</p>
+<p>Instances of SCP-26736-A are to be secured, transported to Bio-Containment Area 58, and studied to gain insight into the nature of the phenomenon. Any areas with confirmed occurrences of SCP-26736 must be quarantined, and all local wildlife is to be evaluated for signs of transformation. Public knowledge of SCP-26736 is to be suppressed through standard misinformation campaigns and, if necessary, amnestics.</p>
+<p>Research efforts are focused on uncovering the underlying cause of SCP-26736 and developing countermeasures to prevent or reverse carcinization. Experiments involving SCP-26736 must be approved by a Level 4 Senior Researcher and conducted within the parameters of Bio-Containment Area 58 to minimize the risk of cross-contamination.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p>Experiment 26736-E1:
+- Subject: Drosophila melanogaster (Common fruit fly)
+- Procedure: One specimen was exposed to SCP-26736 in a controlled environment.
+- Results: After 6 days, subject exhibited exoskeletal growths and altered wing structure. Further development ceased abruptly after 9 days, resulting in partial carcinization. Subject expired 3 days later.</p>
+<p>Experiment 26736-E2:
+- Subject: Mus musculus (House mouse)
+- Procedure: One specimen was introduced to the environment where SCP-26736 was first observed.
+- Results: Within 14 days, subject displayed significant morphological changes consistent with early-stage carcinization. Anomalies included a widening of the torso, flattening of the body, and elongation of the forelimbs. The experiment was terminated after 21 days due to ethical concerns. The partial transformation was sustained.</p>
+<p>Experiment 26736-E3:
+- Subject: Panthera leo (Lion)
+- Procedure: Recent occurrences of SCP-26736 in mammalian species prompted the use of a large vertebrate test subject.
+- Results: The subject began to show signs of transformation after 20 days. The experiment was halted per ethical guidelines when the subject showed signs of severe distress. Carcinization progressed no further, and the subject was humanely euthanized. A full autopsy was performed, revealing extensive internal rearrangement of organs.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p>Interviewer: Dr. Anika Murali
+Interviewee: Dr. Jonas Harlow, Biologist
+[BEGIN LOG]</p>
+<p><strong>Dr. Murali:</strong> Good morning, Dr. Harlow. I understand you've been studying SCP-26736's effects in the field.</p>
+<p><strong>Dr. Harlow:</strong> Yes, it's the most baffling situation I've come across in my career. We're witnessing a fundamental upheaval in the rules of biology as we know them.</p>
+<p><strong>Dr. Murali:</strong> Can you explain your latest findings for the record?</p>
+<p><strong>Dr. Harlow:</strong> Certainly. The progression of carcinization across different species appears to follow a set of stages, each more severe than the last. Surprisingly, invertebrates succumb more rapidly to the transformation than vertebrates.</p>
+<p><strong>Dr. Murali:</strong> Have you found any factors that might explain why some species are affected and not others?</p>
+<p><strong>Dr. Harlow:</strong> At this point, we can't discern any genetic, environmental, or behavioral commonalities that would predicate an organism's susceptibility to SCP-26736. It appears to be entirely random, which frankly, is terrifying.</p>
+<p>[END LOG]</p>
+<h3>Addendum 3: Recovered Document</h3>
+<p>During the containment of SCP-26736-A instances within a remote rainforest location, a partially damaged journal was found. The following is an excerpt from the last entry, believed to have been written by an unknown biologist studying local fauna:</p>
+<p>"It's unbelievable... they all turn into crabs, every single one of them. I've seen it happen with my own eyes. No immunity, no escape. It's as if nature itself is being rewritten, one claw at a time. But why? Why crabs, of all things? My colleagues think I've gone mad, but the evidence is undeniable... I must find the source before it's too late. The key must lie within the crabs themselves, something ancient and relentless. I pray that whoever reads this can stop it, or at least, understand it."</p></div>
