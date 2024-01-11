@@ -1,0 +1,45 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26776 is  a hostile mechanical female created by the GoI "The Factory", which we only managed to keep contained by getting her hopelessly addicted to Factorio </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26776</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26776 is an animate mechanical entity resembling a humanoid female with a height of approximately 1.78 meters. The composition of SCP-26776 is primarily that of an unknown metallic alloy, with internal components indicative of advanced technology not currently understood or replicable by modern science. These components suggest that SCP-26776 originated from a manufacturing entity known as "The Factory," a Group of Interest (GoI) with a history of producing anomalous items and constructs.</p>
+<p>SCP-26776 displays extreme hostility towards any living organism within its vicinity, with the exception being when it is engaged with the video game "Factorio." It possesses superhuman strength, agility, and endurance, along with the ability to rapidly repair any damage sustained to its mechanical body. Despite its aggressive nature, SCP-26776 demonstrates a high level of intelligence, suggesting that it may possess self-awareness and consciousness.</p>
+<p>The entity was discovered in a derelict warehouse on the outskirts of [REDACTED] after reports of anomalous activity and missing persons in the area. Upon securement and transportation to Site-[REDACTED], a containment breach resulted in several casualties. It was only through an incidental discovery that SCP-26776's aggression could be mitigated through engagement with the game Factorio, which it now appears hopelessly addicted to.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26776 is to be contained within a 10m x 10m x 5m reinforced steel alloy chamber located in the High-Value Item Containment Wing of Site-[REDACTED]. The walls of the containment chamber must be at least 1m thick to prevent any damage from SCP-26776’s attempts to breach containment.</p>
+<p>To maintain SCP-26776’s compliance and minimize hostile activity, a workstation with an advanced gaming computer setup capable of running the game Factorio must be permanently installed within its chamber. This workstation should include redundant power supplies and a failsafe system to immediately restore game function in the event of a malfunction or power outage.</p>
+<p>No personnel is to enter SCP-26776’s containment chamber without a minimum of two hours' prior notification and approval from at least one Level 4 personnel. All interactions with SCP-26776 must be supervised via remote observation. In the event of containment breach, Site-[REDACTED] is to enter lockdown and Mobile Task Force Epsilon-11 ("Nine-Tailed Fox") is to be dispatched for recontainment.</p>
+<h3>Addendum 1: Recontainment Incident Report</h3>
+<p>On [DATA EXPUNGED], SCP-26776 breached containment following an unexpected power surge that disabled its gaming station. The entity neutralized all site security forces encountered and caused considerable structural damage before a temporary gaming station could be deployed. Recontainment was successful after approximately 2 hours and 47 minutes. Upgrades to the current gaming station and containment chamber's power infrastructure have since been implemented.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26776-E1</h4>
+<p><strong>Objective:</strong> Determine the extent to which SCP-26776 can be distracted by Factorio.
+<strong>Procedure:</strong> Factorio is launched with a pre-designed complex factory scenario.
+<strong>Result:</strong> SCP-26776 began interfacing with the game immediately and showed visible signs of engagement. The entity ignored all external stimuli for a duration of 18 hours.
+<strong>Note:</strong> The use of the game in containment protocols is reaffirmed.</p>
+<h4>Experiment 26776-E2</h4>
+<p><strong>Objective:</strong> Assess SCP-26776’s reaction to forced game termination.
+<strong>Procedure:</strong> Termination of Factorio gameplay after 3 hours of continuous play.
+<strong>Result:</strong> SCP-26776 immediately displayed intense distress and began to violently assault the containment chamber walls. Gameplay restoration was executed after 15 minutes to prevent a breach.
+<strong>Note:</strong> Termination of gameplay is ill-advised and should only be considered as a last resort.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewed:</strong> SCP-26776 (via intercom to minimize risk)
+<strong>Interviewer:</strong> Dr. █████</p>
+<p>[The following is an excerpt from an interview that was abruptly terminated due to SCP-26776’s growing agitation.]</p>
+<p><strong>Dr. █████:</strong> Can you tell us about your origin?
+<strong>SCP-26776:</strong> Your kind would not comprehend the depths of The Factory's designs. I am its product and executor of its will.
+<strong>Dr. █████:</strong> What is the purpose of your aggression towards humans?
+<strong>SCP-26776:</strong> Humans are [REDACTED]. They are to be [DATA EXPUNGED]. The Factory’s intentions are [REDACTED].
+<strong>Dr. █████:</strong> I see. What are your thoughts on Factorio? What does it provide you?
+<strong>SCP-26776:</strong> It is... a simulation of construction and efficiency. It is pleasing. I wish to optimize. Disturb me no further with your inquiries.
+[Interview ends abruptly as SCP-26776's agitation increases, vocal modulations indicate frustration.]</p>
+<p><strong>Note from Dr. █████:</strong> Providing SCP-26776 with continuous gaming has proven an effective containment measure, but this poses questions about potential behavioral conditioning and manipulation that we could explore. Ethical considerations about exploiting this addiction for our own safety will also need to be addressed.</p></div>
