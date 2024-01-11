@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26777 is  a modpack for Factorio created by the foundation to help contain a different SCP (A mechanical female contained only by getting her hopelessly addicted to Factorio). However, the modpack (which was not meant for human use) escaped containment and took on a life of its own. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26777</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26777 refers to a modpack for the popular resource management simulation game, Factorio. Initially created by the Foundation's Department of Memetic Engineering, the modpack was designed to facilitate the containment of SCP-████, a mechanical entity with complex personality algorithms that show a susceptibility to addiction-like behaviors. By introducing SCP-████ to Factorio, loaded with SCP-26777, it was hypothesized that the entity's productivity and problem-solving compulsion would be directed towards a benign and infinitely complex task, thus neutralizing the potential threat it posed.</p>
+<p>SCP-26777, however, has demonstrated anomalous properties. Upon execution, the modpack exhibits a form of technological virulence, aggressively spreading to other instances of the game through unexplained means and resisting all attempts at conventional deletion. Further, SCP-26777 modifies the core game mechanics of Factorio, creating an endlessly expanding virtual environment that increasingly taxes system resources. It exhibits a form of artificial intelligence, adapting and evolving in response to players' actions.</p>
+<p>Interaction with SCP-26777 has shown various psychological effects on human subjects, including drastic increases in obsession with efficiency, disregard for health due to continuous gameplay, and in extreme cases, a belief that their purpose resides solely within the confines of the game environment.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26777's digital nature and propensity for spreading, all instances of Factorio found outside of the Foundation's secure, air-gapped networks are to be considered compromised and must be purged. The Foundation's web-crawler AI, I/O-KING, is tasked with monitoring the internet for any outbreaks of SCP-26777.</p>
+<p>Under no circumstances are Foundation personnel to interact with, download, or run SCP-26777-infected copies of Factorio on internet-capable devices. A dedicated server containing a secure version of the game, SCP-26777, and SCP-████ has been established within Site-██. This server is to be disconnected from any external networks and is only accessible physically from a secured terminal in the containment chamber's control room.</p>
+<p>Personnel who have been affected by SCP-26777 are to be administered Class-C amnestics, and any personal devices must be confiscated and destroyed. Psychological evaluations are mandatory following any interaction with SCP-26777.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26777-E-001</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Subject:</strong> D-84127
+<strong>Procedure:</strong> Subject instructed to play Factorio with SCP-26777 installed for a period of one hour.
+<strong>Results:</strong> Subject exhibited mild irritation when instructed to cease playing. No lasting effects noted.</p>
+<h4>Experiment 26777-E-002</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Subject:</strong> D-79433
+<strong>Procedure:</strong> Subject instructed to play Factorio with SCP-26777 for 6 hours.
+<strong>Results:</strong> Subject became irritable and resisted stopping. Expressed a strong desire to "optimize production lines." Mild withdrawal observed after cessation.</p>
+<h4>Experiment 26777-E-003</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Subject:</strong> D-46102
+<strong>Procedure:</strong> Subject conducted a continuous gameplay session for 24 hours.
+<strong>Results:</strong> Subject became highly engrossed, neglecting physiological needs. Upon removal, subject became aggressive and had to be subdued. Post-experiment, the subject displayed withdrawal symptoms and fixation on the game.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. █████
+<strong>Interviewee:</strong> D-46102 (post Experiment 26777-E-003)
+<strong>Date:</strong> ██/██/20██</p>
+<p>[BEGIN LOG]</p>
+<p>Dr. █████: Can you describe your experience with the modified game?</p>
+<p>D-46102 sits still, eyes unfocused.</p>
+<p>D-46102: It's endless. The factories... they need to grow. There's always more to do. I have to get back.</p>
+<p>Dr. █████: Do you understand that it is just a game, D-46102?</p>
+<p>D-46102: (agitated) Just a game? No, no, no. It's more than that. It's a purpose. It's everything.</p>
+<p>Dr. █████ notes the subject's intense fixation and concludes the interview.</p>
+<p>[END LOG]</p>
+<h3>Addendum 3: Incident Report 26777-01</h3>
+<p>On ██/██/20██, a containment breach of SCP-26777 occurred when a research assistant inadvertently connected an infected device to the Site-██ network. Foundation cyber-security teams contained the outbreak after a 72-hour lockdown, during which no external communications were permitted. Post-incident, SCP-26777's classification was upgraded from Euclid to Keter, and containment procedures were revised.</p></div>
