@@ -1,0 +1,63 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26785 is  The end result after a group of 10 year old girls tried to summon Big Chungus during a sleepover  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26785</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26785 is an entity resembling the internet meme character known as "Big Chungus," which is a version of the Warner Bros. cartoon character Bugs Bunny, depicted in a significantly overweight form. The entity was inadvertently summoned during a sleepover by a group of 10-year-old girls attempting what they believed to be a harmless internet challenge.</p>
+<p>SCP-26785 possesses several anomalous properties that warrant its Keter classification:</p>
+<ol>
+<li>
+<p><strong>Size Alteration:</strong> SCP-26785 can change its size at will, from as small as the original cartoon character to several stories tall. Its size changes have been observed to cause significant structural damage.</p>
+</li>
+<li>
+<p><strong>Teleportation:</strong> The entity can teleport to any location where its image or the concept of "Big Chungus" is being discussed or portrayed. This makes containment extremely challenging, as the meme's popularity on the internet can draw SCP-26785's presence.</p>
+</li>
+<li>
+<p><strong>Reality Warping:</strong> SCP-26785 can alter reality in a localized area, typically causing cartoon-like physics to apply to objects and living things. This effect is temporary but can result in severe injury or environmental disturbances.</p>
+</li>
+<li>
+<p><strong>Rapid Reproduction:</strong> SCP-26785 can produce seemingly identical copies of itself at an alarming rate. These copies appear to share a hive-like consciousness, further complicating containment.</p>
+</li>
+</ol>
+<p>The origins of SCP-26785 are unclear, but it's hypothesized to be the consequence of a confluence of the collective belief in meme culture and latent psychic abilities within the children involved in the summoning.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Containment of SCP-26785 is currently focused on internet censorship and meme suppression efforts. Any online mentions of "Big Chungus" must be monitored and suppressed by Foundation web crawlers and cyber-security agents. All physical media containing the image or reference to SCP-26785 are to be confiscated and destroyed.</p>
+<p>The Foundation has established a provisional containment area known as Site-26785, designed to resemble a cartoon environment to accommodate the entity's behavior and limit its desire to teleport. The containment area is equipped with state-of-the-art reality anchoring devices to negate SCP-26785's reality-warping abilities.</p>
+<p>Personnel interacting with SCP-26785 or its copies are advised to employ cartoon logic when possible to avoid harm and are to be equipped with personal reality anchors. Under no circumstances should SCP-26785 be provoked or challenged to a contest of any kind.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>Experiment 26785-01:</strong> SCP-26785 was exposed to various images of itself, resulting in a rapid multiplication of entities. Subsequent termination efforts proved ineffective as eliminated instances would reappear within minutes.</p>
+</li>
+<li>
+<p><strong>Experiment 26785-02:</strong> D-class personnel engaged SCP-26785 in a verbal exchange following comedic cartoon tropes. SCP-26785 responded positively and refrained from aggressive behavior, allowing researchers to study its interactions without incident.</p>
+</li>
+<li>
+<p><strong>Experiment 26785-03:</strong> Introduction of an anvil dropped from a significant height above SCP-26785. The anvil passed through the entity unobstructed, and SCP-26785 morphed into a pancake shape briefly before resuming its original form, unharmed.</p>
+</li>
+</ul>
+<h3>Addendum 2: Interview Log</h3>
+<p><em>Date:</em> [REDACTED]
+<em>Interviewer:</em> Dr. [REDACTED]
+<em>Subject:</em> SCP-26785</p>
+<p><em>(The following is a transcript of an interview conducted with SCP-26785. The entity cooperated, communicating through anomalous auditory manifestations.)</em></p>
+<p>[Begin Log]</p>
+<p><strong>Dr. [REDACTED]:</strong> Good evening, SCP-26785. Can you understand me?</p>
+<p><strong>SCP-26785:</strong> Eh, what's up, Doc?</p>
+<p><strong>Dr. [REDACTED]:</strong> I would like to ask you some questions about your existence and capabilities...</p>
+<p><em>(Several questions and responses omitted for brevity.)</em></p>
+<p><strong>Dr. [REDACTED]:</strong> SCP-26785, why do you multiply when exposed to images of yourself?</p>
+<p><strong>SCP-26785:</strong> Oh, you know, the more, the merrier! Ha ha ha!</p>
+<p><em>(The interview continues with SCP-26785 being generally uncooperative in providing clear information about its nature and simply mimicking cartoon behavior.)</em></p>
+<p>[End Log]</p>
+<h3>Addendum 3: Incident Report 26785-A</h3>
+<p>On [DATE REDACTED], a containment breach occurred when SCP-26785 multiplied into an uncontrollable number of instances after a security breach led to the accidental display of its image on multiple screens throughout Site-26785. The rapid increase in SCP-26785 instances caused major structural damage to the facility before a site-wide lockdown and deployment of EMP devices were able to remove all electronic representations of SCP-26785, resulting in the disappearance of the extra instances.</p>
+<p>Following this incident, the Foundation has heightened security protocols surrounding the containment of SCP-26785, including increased electromagnetic shielding and stricter access controls to prevent similar breaches in the future.</p></div>
