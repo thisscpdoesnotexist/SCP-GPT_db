@@ -1,0 +1,34 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26784 is  a species of stork that kidnap newborn babies and deliver them to random couples who want kids </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26784</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26784 is a previously unknown species of stork that exhibits highly anomalous behavior. Adult specimens resemble members of the family Ciconiidae but are distinguished by their abnormally large size, with a wingspan reaching up to 15 meters, and vivid, phosphorescent plumage that emits a soft glow in spectral colors.</p>
+<p>SCP-26784 has been observed to possess a unique form of sentience, demonstrating advanced understanding and problem-solving abilities. The anomalous behavior of SCP-26784 manifests in its method of reproduction and interaction with human populations. Unlike non-anomalous storks, SCP-26784 does not engage in ordinary methods of mating and egg-laying. Instead, they are capable of detecting human infants shortly after birth through an unknown mechanism. Once a target has been selected, SCP-26784 will abduct the infant undetected through extraordinary means, including phasing through solid matter or teleportation.</p>
+<p>After abduction, SCP-26784 delivers the infants to couples who exhibit a strong desire for children but are unable to conceive naturally or through conventional medical procedures. These deliveries do not adhere to any pattern regarding location, ethnicity, or socioeconomic status, making prediction and interception of SCP-26784's activities extremely difficult. The abductions and deliveries occur worldwide, with an estimated dozens of incidents per year.</p>
+<p>Affected infants do not appear to suffer harm during the process and indeed often manifest signs of enhanced health and well-being after relocation. Parents of abducted infants often report a compulsion to accept the disappearance as something "meant to be", and consistently fail to take further action in locating their missing children despite opportunities to do so.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Current containment procedures are focused on monitoring and interception. Given SCP-26784's erratic behavior and formidable capabilities, direct containment is not feasible at this time. Foundation operatives are to survey hospitals, maternity wards, and locations known for high infertility rates globally, employing the use of advanced detection equipment designed to pick up on the unique energy signatures emitted by SCP-26784.</p>
+<p>In the event of an impending SCP-26784 abduction, Mobile Task Forces (MTF) specialized in rapid response and non-lethal engagement are to be deployed to intercept and reroute the entity. Standard protocol involves the administration of Class-A amnestics to witnesses and the immediate return of the abducted infant to their original parents, with cover stories disseminated as necessary to maintain the masquerade. Investigations into potential methods of neutralizing SCP-26784's phasing and teleportation abilities are ongoing.</p>
+<p>The Ethics Committee has ruled that where interception is not viable, post-abduction care will be provided to affected couples, including counseling and amnestic treatment to alleviate psychological trauma. Additionally, MTF are to discreetly monitor relocated infants to ensure they do not exhibit further anomalous traits or endanger their adoptive families.</p>
+<h3>Addendum 1: Interview Log</h3>
+<p>[The following is an excerpt from an interview with a couple who received an infant from SCP-26784. Names have been redacted.]</p>
+<p><strong>Dr. [REDACTED]:</strong> Can you describe the night that you found the baby?</p>
+<p><strong>Mr. [REDACTED]:</strong> We were sleeping, and then suddenly there was this soft glow, and a breeze in the room – the windows were closed! I thought I was dreaming.</p>
+<p><strong>Mrs. [REDACTED]:</strong> I heard a sound that woke me up. It was a gentle cooing, not like any bird I know. And there was a baby, in a kind of woven basket, just at the foot of our bed. It... it was like we knew he was meant for us.</p>
+<p><strong>Dr. [REDACTED]:</strong> Did you see the entity responsible?</p>
+<p><strong>Mr. [REDACTED]:</strong> No. But we knew. Somehow, we just... understood.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 26784-A:</strong> Attempt to track SCP-26784 during an abduction with GPS tags. <strong>Result:</strong> Tags experienced failure upon activation, data was not transmitted.</p>
+<p><strong>Experiment 26784-B:</strong> Station MTF with anticipated couples poised for SCP-26784 delivery. <strong>Result:</strong> MTF were subject to sudden onset of drowsiness, allowing SCP-26784 to complete delivery undetected.</p>
+<p><strong>Experiment 26784-C:</strong> Use of long-range tranquilizer darts to subdue SCP-26784. <strong>Result:</strong> SCP-26784 became temporarily corporeal and vulnerable upon engagement but managed to escape with enhanced speed after a quick recovery.</p>
+<h3>Addendum 3: Ethics Committee Review</h3>
+<p>Following multiple attempts at interception and containment of SCP-26784, the Ethics Committee has moved to reassess the objectives regarding this entity. Given the benign outcome for the infants, and the positive effect on receiving families, the Committee has proposed a containment strategy that focuses less on intervention and more on post-event management. A motion has been put forth to reclassify SCP-26784 as Euclid, pending successful implementation of new protocols and observation of long-term effects on affected children.</p></div>
