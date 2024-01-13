@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26826 is  something that looks incredibly dangerous but is actually perfectly safe, for some completely contrived reason </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26826</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-26826 is an anomalous object resembling a large, rusted bear trap with elaborate engravings on its surface. Initial inspections suggest it dates back to the early 20th century. Despite its menacing appearance and functional sharpness, SCP-26826 is completely incapable of causing harm to living organisms due to an esoteric mechanism that defies current scientific understanding.</p>
+<p>When SCP-26826 is activated via pressure or by an intentional attempt to spring the trap, the jaws rapidly close as expected. However, any living tissue present within the trap, at the moment of closure, passes through the metal as if it were intangible, preventing any injury. Inert materials such as sticks, metals, or plastic are affected normally and can be crushed or contained by the device.</p>
+<p>Further analysis indicates that SCP-26826 may have been created with the intent of capturing or harming supernatural entities, though no evidence has been found to support this hypothesis. The trap resets itself after each activation, regardless of any attempt to tamper with its mechanisms.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its benign nature, SCP-26826 does not require any special containment measures beyond standard Safe-class storage protocols. It is currently housed in Storage Locker 12 at Site-37. The locker must remain locked, and only personnel with Level 2 clearance or higher may access SCP-26826 for approved testing. Any usage of SCP-26826 outside of testing must be approved by at least one Level 3 senior researcher.</p>
+<p>Personnel are reminded that while SCP-26826 is incapable of causing physical harm to living organisms, it can still exert considerable force on non-biological materials. As such, caution is advised to avoid the potential destruction of property or accidental triggering of the device.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26826-A</h4>
+<ul>
+<li><strong>Objective:</strong> To test SCP-26826's response to non-biological materials.</li>
+<li><strong>Procedure:</strong> A wooden dowel was inserted into the jaws of SCP-26826 and the trap was activated.</li>
+<li><strong>Result:</strong> The dowel was crushed by the jaws as expected for a standard bear trap.</li>
+</ul>
+<h4>Experiment 26826-B</h4>
+<ul>
+<li><strong>Objective:</strong> To test SCP-26826's response to biological material in a controlled environment.</li>
+<li><strong>Procedure:</strong> A raw chicken leg was placed within SCP-26826, followed by the manual activation of the trap.</li>
+<li><strong>Result:</strong> The trap shut with considerable force, but the chicken leg was unharmed and passed through the metal without resistance.</li>
+</ul>
+<h4>Experiment 26826-C</h4>
+<ul>
+<li><strong>Objective:</strong> To verify SCP-26826's inability to harm sentient beings.</li>
+<li><strong>Procedure:</strong> D-1984 was instructed to place a finger within SCP-26826's jaws.</li>
+<li><strong>Result:</strong> As per previous experiments, the trap closed without causing any harm. D-1984 reported feeling a brief sensation of coldness but no pain or injury.</li>
+</ul>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interview 26826-1: Interview with Dr. Ayesha Singh, the researcher who first discovered SCP-26826's anomalous properties.</strong></p>
+<p><em>The following is a transcript of a conversation between Dr. Ayesha Singh and Dr. Marcus Eliot.</em></p>
+<blockquote>
+<p><strong>Dr. Eliot:</strong> Can you describe your initial thoughts upon discovering SCP-26826's properties?</p>
+<p><strong>Dr. Singh:</strong> Honestly, it was disbelief at first. The trap looked so menacing—exactly what you'd expect a dangerous anomalous object to be. Yet, here we are, not a single scratch to show for it.</p>
+<p><strong>Dr. Eliot:</strong> What's your theory on how it operates?</p>
+<p><strong>Dr. Singh:</strong> I can only speculate, but it seems like SCP-26826 could be employing some form of selective intangibility or molecular phasing keyed to living tissue. How or why it's been constructed like this is still up for debate.</p>
+<p><strong>Dr. Eliot:</strong> Thank you, Dr. Singh. Further testing will continue under your observation.</p>
+</blockquote>
+<h3>Addendum 3: Incident Report</h3>
+<p><strong>Incident 26826-09/██:</strong></p>
+<p>During standard testing on ██/██/20██, SCP-26826 failed to reset its trap mechanism after being activated with a non-biological test material. Maintenance personnel were called to examine the device. During inspection, SCP-26826 reactivated unexpectedly and without apparent cause, crushing a maintenance tool left within its grasp. Following this incident, SCP-26826 resumed normal function. The event has been logged, and mechanisms are in place to observe for any deviations in SCP-26826's behavior.</p>
+<p><em>This report underscores SCP-26826's consistency in only affecting non-biological materials and indicates the object’s self-resetting mechanism can be temporarily interrupted, though the reasons for this remain uncertain.</em></p></div>
