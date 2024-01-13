@@ -1,0 +1,71 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26824 is  just standing there… MENACINGLY! </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26824</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-26824 is an entity that resembles a human male, approximately 1.75 meters in height and dressed in nondescript, modern casual attire. Its features are unremarkable and notably lacking any distinct characteristics that would aid in identification, akin to a generic mannequin. Despite this, SCP-26824 exudes an intense aura of menace, instilling a profound sense of dread in all who observe it.</p>
+<p>Initial observations suggest that the entity possesses no physical capabilities beyond that of a non-anomalous human male. SCP-26824 does not seem to require sustenance, sleep, or any other biological necessities. It does not communicate and appears to possess limited or nonexistent sentience.</p>
+<p>The primary anomaly associated with SCP-26824 is the effect it has on those who come within a visual range of approximately 30 meters. Subjects report an irrational and escalating fear response that is disproportionate to the entity's behavior, which consists solely of standing motionless in place. This effect does not extend to indirect observation methods such as video feeds, though prolonged exposure to live footage has been reported to cause mild discomfort in some individuals.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26824 is to be contained within a standard anomalous item holding cell at Site-██. The interior of the cell should not have any features or decorations, and lighting is to be subdued to minimize the visibility of SCP-26824, thus reducing its distressing effect on personnel.</p>
+<p>Given the nature of SCP-26824, no surveillance inside the cell is required beyond a single camera positioned outside its influence. No personnel are to enter SCP-26824's containment cell without a clear psychological evaluation and approval from at least two Level-3 researchers familiar with the entity.</p>
+<p>Standard containment protocols for Safe-class objects apply, including regular checks for signs of deterioration or alteration in SCP-26824's state. Due to its static nature, the risk of containment breach is considered minimal. However, should containment be breached, an immediate area lockdown should be performed until SCP-26824 is recontained.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p>Several experiments have been conducted to elucidate the source and range of SCP-26824's fear-inducing aura. Below is a selection of these experiments:</p>
+<ul>
+<li>
+<p><strong>Experiment A-1:</strong></p>
+<ul>
+<li><strong>Subject(s):</strong> D-2741</li>
+<li><strong>Procedure:</strong> Subject was instructed to approach SCP-26824 until they felt uncomfortable.</li>
+<li><strong>Results:</strong> D-2741 reported feeling uneasy at 30 meters and refused to approach further at 20 meters, experiencing extreme panic.</li>
+<li><strong>Notes:</strong> Threshold for the fear response seems consistent across subjects.</li>
+</ul>
+</li>
+<li>
+<p><strong>Experiment A-2:</strong></p>
+<ul>
+<li><strong>Subject(s):</strong> D-2742</li>
+<li><strong>Procedure:</strong> Subject was provided earplugs and a blindfold to test if additional sensory deprivation would affect the fear response.</li>
+<li><strong>Results:</strong> D-2742 expressed fear at the same distance as D-2741, suggesting the effect is either visual or broader in sensory scope.</li>
+</ul>
+</li>
+<li>
+<p><strong>Experiment A-3:</strong></p>
+<ul>
+<li><strong>Subject(s):</strong> D-2743</li>
+<li><strong>Procedure:</strong> Subject observed SCP-26824 through live video feed for two hours.</li>
+<li><strong>Results:</strong> No discomfort reported, confirming that the effect requires direct line of sight.</li>
+</ul>
+</li>
+</ul>
+<h3>Addendum 2: Interview Log</h3>
+<ul>
+<li><strong>Interviewer:</strong> Dr. ████</li>
+<li><strong>Subject:</strong> D-3721</li>
+<li><strong>Foreword:</strong> D-3721 was exposed to SCP-26824 for a prolonged period (60 minutes) and was interviewed post-exposure.</li>
+<li>
+<p><strong>Begin Log, ██/██/████, 14:32:</strong></p>
+<p><strong>Dr. ████:</strong> Please describe your experience with SCP-26824.</p>
+<p><strong>D-3721:</strong> Just... standing there. But it's like... I don't know, man... It's like I knew something terrible was gonna happen, but it never did.</p>
+<p><strong>Dr. ████:</strong> Can you elaborate on the 'something terrible'?</p>
+<p><strong>D-3721:</strong> Nah, it's just a feeling. You just know it's bad. Real bad. Like staring at a black hole or something.</p>
+<p><strong>Dr. ████:</strong> Did anything change the longer you were in the presence of the entity?</p>
+<p><strong>D-3721:</strong> The fear gets worse, man. Like layers of dread piling on over and over. I'm no chicken, but that thing...it's just wrong.</p>
+<p><strong>Dr. ████:</strong> Thank you for your cooperation.</p>
+</li>
+<li>
+<p><strong>End Log, ██/██/████, 14:38</strong></p>
+</li>
+<li><strong>Closing Statement:</strong> Subject D-3721 was subsequently administered a Class-A amnestic and returned to the D-class personnel pool.</li>
+</ul>
+<h3>Addendum 3: Incident Report</h3>
+<p>On ██/██/████, a containment breach occurred not directly involving SCP-26824 but causing a temporary power outage at Site-██. SCP-26824's containment cell was unintentionally opened during the event. The site was put on lockdown, and all available security details were mobilized to reestablish containment. SCP-26824 was found still standing motionless in its containment cell despite the door being open. The incident resulted in a review of containment procedures, emphasizing redundancy in securing SCP-26824's cell door.</p></div>
