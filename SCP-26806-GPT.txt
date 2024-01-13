@@ -1,0 +1,64 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26806 is  the proverbial karma chameleon </h3> </center>
+    <h1>SCP-26806</h1>
+<h3>Item #:</h3>
+<p>SCP-26806</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26806 is an anomalous entity resembling a common chameleon (species <em>Chamaeleo chamaeleon</em>), with the exceptional ability to not only change its coloration but also to physically adapt its form to surroundings in a manner far exceeding the capabilities of non-anomalous counterparts. Its transformative abilities extend to mimicking non-living materials (such as metal or plastic), technological devices, and even abstract concepts manifested in physical forms (e.g., it has been recorded transforming into representations of 'justice' and 'greed').</p>
+<p>SCP-26806's most perilous attribute, however, relates to the idiom "karma is a chameleon." When in the vicinity of an individual who has recently acted with significant moral or ethical implications—positive or negative—SCP-26806's behavior and form alter to provide a consequence in line with the nature of the act. This has included the manifestation of rewards (like generating valuable items) or punishments (such as creating harmful substances or objects). Hence, the entity has been termed the "Proverbial Karma Chameleon."</p>
+<p>The chameleon's interpretation of 'karma' often involves a form of poetic justice and displays a sophisticated understanding of human social constructs and value systems. It has also displayed the ability to perceive actions taken by individuals not immediately present within its vicinity, suggesting a type of remote awareness or sensing capability.</p>
+<p>Due to SCP-26806's unpredictable nature, and the potential for substantial impacts on human behavior, environment, and fundamental societal structures, it has been designated with a Keter classification.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26806 is contained within a specialized high-security chamber at Site-██. The chamber, referred to as the Karmic Isolation Unit (KIUnit), must be constructed with adaptive materials able to withstand abrupt transformations that may be caused by SCP-26806's effects. The KIUnit is also to be lined with a Faraday cage to prevent potential technological mimicry from interacting with outside electronic systems.</p>
+<p>Personnel entering SCP-26806's containment are to be pre-screened for behavioral history and are required to adhere to a strict ethical code to minimize the entity's activation potential. Any personnel with a significant history of moral or ethical infractions, as determined by the Ethics Committee, are barred from entering SCP-26806's containment.</p>
+<p>Remote observation is to be maintained at all times via cameras with backup power sources directly wired to an external observation room. Direct human contact with SCP-26806 is to be avoided unless absolutely necessary for containment or research purposes.</p>
+<h3>Addendum 1:</h3>
+<h4>Experiment Log:</h4>
+<p>(Note: This is a brief summary of select experiments. Full logs are available upon request from the SCP-26806 research head.)</p>
+<ul>
+<li>
+<p><strong>Experiment 26806-E-001</strong><br />
+<strong>Subject</strong>: D-4873 (convicted for grand theft auto)<br />
+<strong>Procedure</strong>: Subject tasked with arranging a series of blocks to spell "THIEF".<br />
+<strong>Result</strong>: SCP-26806 transformed into an iron shackle, attaching itself to D-4873's ankle. Shackle released after 48 hours.</p>
+</li>
+<li>
+<p><strong>Experiment 26806-E-005</strong><br />
+<strong>Subject</strong>: D-2921 (a known pacifist with no criminal record)<br />
+<strong>Procedure</strong>: Subject placed a flower in a vase inside SCP-26806's containment.<br />
+<strong>Result</strong>: SCP-26806 morphed into a golden locket, opened to reveal an intricate engraving of the pacifist symbol. Upon touching the locket, the subject reported a feeling of overwhelming peace.</p>
+</li>
+<li>
+<p><strong>Experiment 26806-E-013</strong><br />
+<strong>Subject</strong>: D-1112 (convicted for multiple instances of fraud)<br />
+<strong>Procedure</strong>: Subject asked to paint a truthful scene of their childhood home on canvas.<br />
+<strong>Result</strong>: SCP-26806 transformed into a set of balance scales, with the "truth" side heavily outweighed, indicating deceit in the subject's painting.</p>
+</li>
+</ul>
+<h3>Addendum 2:</h3>
+<h4>Interview Log:</h4>
+<p><strong>Interviewer</strong>: Dr. █████<br />
+<strong>Interviewed</strong>: SCP-26806 (in its current humanoid form, resembling a judge)<br />
+<strong>Foreword</strong>: The entity spontaneously adopted this form following Experiment 26806-E-013. Communication was attempted.</p>
+<p><Begin Log></p>
+<p><strong>Dr. █████</strong>: Can you understand me?</p>
+<p><strong>SCP-26806</strong>: (Nods affirmatively)</p>
+<p><strong>Dr. █████</strong>: How do you determine what is just or unjust?</p>
+<p><strong>SCP-26806</strong>: (Morphs a hand into a scale, similar to Experiment 26806-E-013 result, then points at its eyes, suggesting it "weighs" and "sees" actions.)</p>
+<p><strong>Dr. █████</strong>: What is your purpose? Why do you enforce 'karma'?</p>
+<p><strong>SCP-26806</strong>: (Transforms into a mirror, reflecting Dr. █████'s image, then shifts to show an abstract swirling pattern of dark and light.)</p>
+<p><strong>Dr. █████</strong>: Are you a reflection of our own morality or something more?</p>
+<p><strong>SCP-26806</strong>: (Resurfaces as the humanoid form. Writes in the air with a finger, materializing the words "BALANCE MUST BE KEPT.")</p>
+<p><End Log></p>
+<p><strong>Closing Statement</strong>: SCP-26806's responses indicate an ingrained motivation or programming to maintain a 'balance' of ethical conduct, though the precise nature and origin of this directive remain unknown.</p>
+<h3>Addendum 3:</h3>
+<h4>Further Incident Reports:</h4>
+<p>Following the research and interviews conducted, SCP-26806 has been observed to be more active. Several containment breaches have occurred when personnel with unfavorable behavioral histories have been assigned undetected to SCP-26806's detail. Consequently, the containment protocols have been updated to include more rigorous screening. Researchers are exploring the relationship between SCP-26806's activity and wider patterns of human ethical conduct.</p></div>
