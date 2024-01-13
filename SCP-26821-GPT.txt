@@ -1,0 +1,48 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26821 is  a red mascot character named Banban who is hungry for your pancreas  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26821</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26821 appears to be an animate creature resembling a commercial mascot, similar in style to those used in theme parks or promotional events. The entity is characterized by its vibrant red coloration, bulbous, cartoonish features, and an incessant, overwhelming hunger for human pancreas. Despite its seemingly benign appearance, SCP-26821's intentions are malevolent, and it possesses several anomalous properties that make it extremely dangerous.</p>
+<p>The entity is capable of spontaneous manifestation and demanifestation, seemingly at will, which allows it to bypass physical barriers and appear directly next to its intended victims. It has not been observed to manifest outside of a 50-km radius from its last known appearance, indicating a potential territorial or range-based limitation.</p>
+<p>SCP-26821 demonstrates exceptional strength, speed, and resilience, which it uses in acquiring its desired organ. Notably, the removal of the pancreas by SCP-26821 is swift and inexplicably precise, with victims often surviving the initial extraction due to the anomalous preservation of systemic function. However, without proper medical intervention, mortality rates post-extraction are high.</p>
+<p>The entity communicates in a distorted, high-pitched voice, and its speech often includes phrases promoting “Banban's hunger,” suggesting a potential cognitohazardous effect that may influence individuals to assist in SCP-26821's pursuits. Research on this aspect of SCP-26821 is ongoing.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26821's capacity for instantaneous traversal of space, physical containment has proven unfeasible. Current containment efforts are focused on predicting manifestations and administering amnestic treatments to witnesses following containment breaches.</p>
+<p>When SCP-26821 manifests, Mobile Task Force Lambda-5 ("White Rabbits") is to be deployed immediately to the site with the intent of minimizing civilian exposure and administering Class-B amnestics as necessary. A disinformation campaign has been established consisting of a cover story suggesting a viral marketing stunt for an unannounced television series.</p>
+<p>Research into the development of a tracking method and potential cognitohazard countermeasures is a top priority. Field agents are to possess a cyanide capsule at all times, which, upon consumption, renders the pancreas a non-viable target for SCP-26821; this acts as a last-resort survival mechanism.</p>
+<h3>Addendum 1: Incident Log 26821-A</h3>
+<p>On ██/██/20██, SCP-26821 manifested at ██████████ Mall during peak hours, resulting in a mass panic and twenty-two (22) casualties before field agents were able to respond. A Class-B amnestic was administered to surviving witnesses, and the event was publicly attributed to a violent gas leak.</p>
+<h3>Addendum 2: Interview Log 26821-██</h3>
+<p>Interviewed: [SCP-26821 following a contained manifestation]</p>
+<p><Begin Log></p>
+<p>Dr. ██████: SCP-26821, can you understand me?</p>
+<p>SCP-26821: Banban is here for fun! And what is this place, yum, yum?</p>
+<p>Dr. ██████: We're here to discuss your needs. Why do you consume pancreases?</p>
+<p>SCP-26821: It's the sweetest treat! The more I eat, the more I feel complete!</p>
+<p>Dr. ██████: Is there a reason you require human pancreases?</p>
+<p>SCP-26821: The taste, the texture, the life within! Such delightful organs for Banban to win!</p>
+<p><Remaining log redacted due to repeated failed attempts at extracting useful information and SCP-26821's continuous, nonsensical singing></p>
+<p><End Log></p>
+<h3>Addendum 3: Experiment Log 26821-██</h3>
+<h4>Experiment 1:</h4>
+<p>Objective: To ascertain if SCP-26821 has a preference for any particular type of pancreas based on health or lifestyle factors.</p>
+<p>Procedure: Presented SCP-26821 with three (3) freshly preserved pancreases; one (1) from a diabetic patient, one (1) from a patient with chronic pancreatitis, and one (1) from a healthy individual.</p>
+<p>Result: SCP-26821 chose the healthy pancreas immediately, ignoring the others.</p>
+<h4>Experiment 2:</h4>
+<p>Objective: To test the efficacy of potential containment materials, including lead-lined walls, spatial anomaly disruptors, and thaumaturgic sigils.</p>
+<p>Procedure: A series of containment cells were constructed, each implementing a different theoretical containment strategy, and SCP-26821's response was observed.</p>
+<p>Result: SCP-26821 demanifested and remanifested outside of each containment cell regardless of the method employed.</p>
+<h4>Experiment 3:</h4>
+<p>Objective: To determine if SCP-26821 can be satiated or deterred by synthetic or animal pancreases.</p>
+<p>Procedure: A buffet of various pancreases, both synthetic and from different animals, was prepared and SCP-26821 was allowed to interact with it freely.</p>
+<p>Result: SCP-26821 exhibited distress and aggression upon realizing the nature of the pancreases. It did not consume any and remanifested shortly thereafter.</p>
+<p>[Additional experiments may follow pending approval and as per revised containment strategies]</p></div>
