@@ -1,0 +1,42 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26818 is  a Shiba-inu with a baseball bat, self-identifying as the warden of horny jail </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26818</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26818 appears to be a Shiba Inu dog (Canis lupus familiaris) characterized by an unusual cognitively advanced behavior. The entity possesses the unique ability to effectively wield a wooden baseball bat measuring approximately 0.8 meters. SCP-26818 is sapient and capable of rudimentary speech in broken English; it refers to itself as the "warden of horny jail," a colloquial term originating from internet meme culture.</p>
+<p>SCP-26818 displays an acute awareness of human emotions, particularly those connected to sexual arousal. When in the presence of individuals experiencing heightened levels of such emotions, SCP-26818 will brandish its baseball bat in a threatening manner and proceed to vocalize commands to "cease horny," occasionally accompanied by physical intimidation. No lasting harm has been reported from these confrontations, and affected individuals experience a temporary suppression of sexual desire.</p>
+<p>SCP-26818 requires no extraordinary care different from a typical Shiba Inu, save for the monitoring of its interactions with staff and attempts to discourage its violent posturing. The entity sleeps for approximately 10-12 hours per day and consumes standard canine nutritional provisions.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26818 is to be contained in a 6m x 6m x 4m secure holding cell within Site-██, equipped with appropriate items for canine enrichment and a bed. The entity is allowed a baseball bat, as its removal has proven to induce extreme aggression and depression. Room temperature should be kept at a comfortable 20°C.</p>
+<p>Staff interacting with SCP-26818 must be screened for concealed arousal using SCR (Sexual Cognition Readers) to prevent unnecessary agitation of the entity. Instances where SCP-26818 becomes hostile due to the detection of arousal are to be de-escalated through the administration of calming pheromones (SCP-26818-C1 compound) or the temporary removal of staff from the premises.</p>
+<p>Research personnel that wish to conduct experiments must submit proposals to Site-██'s Ethics Committee for approval. Interactions for non-experimental purposes are to be logged and strictly supervised.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 26818-E1</h4>
+<p><strong>Aim:</strong> To determine the threshold at which SCP-26818 reacts to sexual arousal.
+<strong>Procedure:</strong> D-Class personnel are to be exposed to a range of visual stimuli, incrementing in erotic content. SCP-26818's reactions are to be closely monitored and recorded.
+<strong>Results:</strong> SCP-26818 remains unresponsive to stimuli classified as non-erotic or mildly suggestive. The entity begins to growl when subjects are exposed to stimuli rated 5 on the Kinsey scale, showcasing moderate arousal. SCP-26818 becomes actively hostile with the presence of stronger stimuli, rating 7-9 on the Kinsey scale.</p>
+<h4>Experiment 26818-E2</h4>
+<p><strong>Aim:</strong> To evaluate SCP-26818's response to pharmaceutical suppression of arousal.
+<strong>Procedure:</strong> D-Class personnel are administered a dose of an approved libido-suppressing drug and then exposed to high-erotic content.
+<strong>Results:</strong> SCP-26818 did not respond to the subjects, suggesting that the suppression of physical evidence of arousal is sufficient to prevent the entity's detection.</p>
+<h4>Experiment 26818-E3</h4>
+<p><strong>Aim:</strong> To assess the lasting effects of SCP-26818's suppression of arousal.
+<strong>Procedure:</strong> D-Class personnel interacted with SCP-26818 post-instruction to "cease horny" without further exposure to stimuli. Libido levels were monitored for a 24-hour period.
+<strong>Results:</strong> A minor yet statistically significant suppression of libido was noted for a period of up to 6 hours post-interaction, lasting no longer than 12 hours.</p>
+<h3>Addendum 2: Interview Log</h3>
+<h4>Interview 26818-I1</h4>
+<p><strong>Interviewer:</strong> Dr. Yung
+<strong>Interviewee:</strong> SCP-26818
+<strong>Foreword:</strong> The aim of the interview was to understand the origin of SCP-26818's behaviors and gain insight into the entity's self-awareness.
+[The full transcript of the interview is extensive and can be found in document 26818-██.]</p>
+<h3>Addendum 3: Incorporation into Containment Strategy</h3>
+<p>Based on previous experiments and the insights from the interview with SCP-26818, the entity has been tentatively approved in a proposal as part of a therapeutic program for staff members suffering from hypersexuality due to exposure to other SCP objects. This containment strategy is unique in that it utilizes the SCP itself as an intervention tool. The Ethics Committee and psychological oversight are required for the pilot program, under the codename: Project Chastity Warden.</p>
+<p>[Additional details of Project Chastity Warden and related ethical reviews are classified and accessible only to personnel with Level 4 security clearance or higher.]</p></div>
