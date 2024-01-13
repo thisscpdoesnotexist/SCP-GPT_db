@@ -1,0 +1,63 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26825 is  far less dangerous than it has any right to be </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26825</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-26825 is a small, ornate music box approximately 10 cm in width, 6 cm in height, and 15 cm in depth, dating back to the early 19th century. SCP-26825's exterior is adorned with intricate carvings depicting a series of pastoral scenes and it is coated with a thin layer of what appears to be gold leaf.</p>
+<p>Upon opening the lid of SCP-26825, it begins to play a seemingly random melody which, despite its dissonant and nonsensical arrangement, has an immediate calming effect on all sentient beings within a 10-meter radius. Test subjects report feelings of serenity and mild euphoria. These effects persist for the duration that the music box remains open and for approximately five minutes after it has been closed.</p>
+<p>Further examination of SCP-26825 has revealed no technological or scientific anomalies that would account for its properties, and the source of the calming effect has been classified as anomalous.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26825 is to be stored in a standard containment locker at Site-██. Given its Safe classification and the benign nature of its anomalous properties, SCP-26825 can be easily contained with minimal security measures. The item should be locked at all times when not being used for approved research or testing, and access must be granted by Level 2 personnel or higher.</p>
+<p>Any testing or handling of SCP-26825 must occur in a room fitted with soundproofing to prevent unintentional exposure to its effects by staff outside the immediate testing area. Researchers are advised to limit their exposure to SCP-26825 to prevent a dependency on its effects for emotional management or wellbeing.</p>
+<p>In the unlikely event of a containment breach, personnel are instructed to simply close the lid of SCP-26825 to deactivate its anomalous effect.</p>
+<h3>Addendum 1:</h3>
+<h4>Experiment Log 26825-A:</h4>
+<ul>
+<li><strong>Experiment A-1:</strong></li>
+<li><strong>Date:</strong> ███████</li>
+<li><strong>Procedure:</strong> SCP-26825 was opened in a room with one D-Class personnel situated 2 meters away from the object. The subject was instructed to describe their emotional state before and after exposure.</li>
+<li><strong>Results:</strong> The subject experienced a shift from initial anxiety to a calm and relaxed state within 30 seconds of the music box being opened. After-effects lasted approximately 5 minutes post-closure.</li>
+<li>
+<p><strong>Notes:</strong> The test corroborates prior observations about SCP-26825's calming effects.</p>
+</li>
+<li>
+<p><strong>Experiment A-2:</strong></p>
+</li>
+<li><strong>Date:</strong> ███████</li>
+<li><strong>Procedure:</strong> SCP-26825 was opened in a room with five D-Class personnel situated at varying distances from the object, with the farthest being 10 meters away.</li>
+<li><strong>Results:</strong> All subjects, regardless of distance (up to the 10-meter threshold), experienced the same calming effects. Subjects beyond the threshold reported no change in emotional state.</li>
+<li>
+<p><strong>Notes:</strong> Confirms the effective range of the anomalous properties of SCP-26825.</p>
+</li>
+<li>
+<p><strong>Experiment A-3:</strong></p>
+</li>
+<li><strong>Date:</strong> ███████</li>
+<li><strong>Procedure:</strong> SCP-26825 was opened in the presence of animals (three Canis lupus familiaris) to assess cross-species effect.</li>
+<li><strong>Results:</strong> Animals exhibited signs of relaxation, including slowed heart rates and reduced activity, which persisted for approximately 5 minutes post-exposure.</li>
+<li><strong>Notes:</strong> SCP-26825's effect extends to non-human sentient beings.</li>
+</ul>
+<h3>Addendum 2:</h3>
+<h4>Interview Log 26825-B:</h4>
+<p><strong>Interviewed:</strong> Dr. ████, Senior Researcher on Project 26825</p>
+<p><strong>Interviewer:</strong> Agent ██████</p>
+<p><strong><Begin Log></strong></p>
+<p>Agent ██████: "Can you describe the initial discovery of SCP-26825?"</p>
+<p>Dr. ████: "SCP-26825 was recovered from an estate sale in ████████, England. We believe it belonged to an aristocratic family with no knowledge of its anomalous properties."</p>
+<p>Agent ██████: "What drew the Foundation's attention to it?"</p>
+<p>Dr. ████: "It was a local tale, really. People spoke of a 'magic box' that would calm even the most irascible of children. Typically, we’d chalk it up to superstition, but it warranted investigation. Standard procedure."</p>
+<p>Agent ██████: "How do you assess the potential applications of SCP-26825?"</p>
+<p>Dr. ████: "Its applications for therapeutic or stress-relief purposes are self-evident. However, the potential for dependency is a concern. We're proceeding with caution."</p>
+<p><strong><End Log></strong></p>
+<h3>Addendum 3:</h3>
+<h4>Additional Notes:</h4>
+<p>SCP-26825 has yet to show any signs of wear, aging, or mechanical failure, suggesting another potential anomalous property relating to durability or self-repair. This has been flagged for further investigation and long-term observation.</p>
+<p>All documents and logs related to SCP-26825 have been archived and are available for review by personnel with the appropriate clearance level. Continued research is focused on understanding the source and mechanics of SCP-26825's anomalous effects, as well as monitoring for any long-term impacts on subjects exposed to it. Further testing is approved but restricted to voluntary subjects, given the safe nature of the item.</p></div>
