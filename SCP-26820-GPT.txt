@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26820 is  the bone fairy, a larger and more hostile subspecies of tooth fairy </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26820</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26820, colloquially known as "The Bone Fairy," represents a significantly more dangerous and physically formidable subspecies of the hypothesized <em>Homo fabula</em> genus, more commonly associated with the folkloric "tooth fairy." Unlike the benign entities of children's stories, SCP-26820 exhibits aggressive behavior and is physically distinct, standing approximately 2.3 meters in height with a skeletal and elongated morphology. Its wings, which have a span of up to 4 meters, are membranous and resemble those of a bat rather than the insectoid wings commonly depicted in folklore.</p>
+<p>SCP-26820 displays a distinct preference for collecting bones, particularly human femurs, which it extracts from living victims with alarming surgical precision and without causing immediate blood loss. Survivors of SCP-26820 attacks often succumb to shock or infection due to the precise and anomalous nature of the amputations.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26820 is to be held in an underground containment cell, dimensioned 10m x 10m x 10m, constructed of a reinforced steel alloy capable of withstanding high impact force. The interior of the cell must be monitored by no fewer than four high-definition, night-vision cameras situated at each corner, with a 24/7 observation team on standby.</p>
+<p>Entrance to SCP-26820's cell is permitted only during scheduled experiments and must be pre-approved by at least two Level-4 security personnel. All individuals entering the containment cell must wear custom-fitted, armored exoskeletons to mitigate risk of skeletal extraction. In the event of a containment breach, the facility is to be placed on immediate lockdown, and a specialized retrieval task force equipped with heavy tranquilizers and net guns is to be dispatched.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Experiment Log 26820-A:</strong></p>
+<ul>
+<li><strong>Experiment A1:</strong></li>
+<li><strong>Purpose:</strong> To determine the sensory capabilities of SCP-26820.</li>
+<li><strong>Procedure:</strong> A D-class personnel was introduced into the containment cell, equipped with the armored exoskeleton.</li>
+<li>
+<p><strong>Result:</strong> SCP-26820 showed immediate interest but did not engage physically with the subject. Subject reported a sense of unease and auditory hallucinations.</p>
+</li>
+<li>
+<p><strong>Experiment A2:</strong></p>
+</li>
+<li><strong>Purpose:</strong> To evaluate SCP-26820's response to offered non-human bones.</li>
+<li><strong>Procedure:</strong> A selection of mammalian bones was introduced to the containment cell via chute.</li>
+<li>
+<p><strong>Result:</strong> SCP-26820 inspected the bones and selected only those of primate origin. Non-primate bones were disregarded.</p>
+</li>
+<li>
+<p><strong>Experiment A3:</strong></p>
+</li>
+<li><strong>Purpose:</strong> To observe SCP-26820's abilities to extract bones under duress.</li>
+<li><strong>Procedure:</strong> A deceased bovine specimen with an artificially strengthened skeletal structure was introduced to the cell.</li>
+<li><strong>Result:</strong> SCP-26820 exhibited frustration but ultimately succeeded in extracting leg bones, demonstrating heretofore unseen strength and persistence.</li>
+</ul>
+<h3>Addendum 2:</h3>
+<p><strong>Interview Log 26820-Δ:</strong></p>
+<p><strong>Interviewer:</strong> Dr. Ellison
+<strong>Interviewee:</strong> D-11827 (A survivor of SCP-26820 contact)</p>
+<p><em>[The transcript is notably lengthy, focusing on the psychological state of the interviewee pre- and post-encounter, the behaviors exhibited by SCP-26820 during the encounter (e.g., methodical movement, lack of noise), and a description of hallucinations experienced. The interviewee evidences extreme distress, and the interview concludes with the assurance that amnestic treatment is upcoming.]</em></p>
+<h3>Addendum 3:</h3>
+<p><strong>Recovered Journal Entry:</strong></p>
+<p><em>[A torn page from a leather-bound journal, found in a small town where multiple SCP-26820 attacks were reported, is logged as evidence. The entry describes a local legend of "the bone thief," which corresponds with SCP-26820's behavior and appearance. Historical instances of similar attacks dating back several centuries are mentioned, suggesting SCP-26820 or its kin is a long-existing phenomenon.]</em></p></div>
