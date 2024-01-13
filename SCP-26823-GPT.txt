@@ -1,0 +1,54 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26823 is  just standing there… MENACINGLY! </h3> </center>
+    <h2>SCP-26823</h2>
+<h3>Item #:</h3>
+<p>SCP-26823</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26823 is a human-like entity approximately 1.9 meters in height with the appearance of a nondescript man in business attire. The entity's face is notably featureless, lacking any defining characteristics that would allow for standard identification methods.</p>
+<p>SCP-26823's anomalous properties manifest when it is directly observed by any individual, hereby referred to as the subject. Upon observation, the subject perceives SCP-26823 as an immediate and existential threat, described as 'menacing' despite the entity performing no discernible aggressive actions. The level of perceived threat and anxiety experienced by the subject does not diminish over time and can lead to extreme stress responses, paranoia, and in some cases, cardiac arrest due to the psychological distress inflicted.</p>
+<p>Further unusual properties include SCP-26823's ability to appear and vanish spontaneously when not under observation, with no known pattern to its appearances. Motion sensors, infrared cameras, and other surveillance methods have yielded no results in tracking its movements when not directly observed.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the nature of its appearance and disappearance, permanent containment of SCP-26823 has proved impossible at this time. However, the following protocol has been established to mitigate the risk of exposure and to prevent public awareness of SCP-26823's existence:</p>
+<ol>
+<li>Mobile Task Forces (MTFs) are to be deployed to monitor reports of SCP-26823's appearances. Upon confirmation, a perimeter is to be established and civilian witnesses are to be administered Class-B amnestics.</li>
+<li>A disinformation campaign has been enacted to mask and discredit genuine reports of SCP-26823, framing them as internet hoaxes or sightings of guerrilla street performers.</li>
+<li>Individuals who have observed SCP-26823 and survived are to be detained for debriefing and psychological evaluation before being released.</li>
+<li>Research into the possible prediction of SCP-26823’s appearances is ongoing, with any significant methodological breakthroughs to be reported to higher command immediately.</li>
+</ol>
+<h3>Addendum 1:</h3>
+<p>Interview with survivor [REDACTED] following exposure to SCP-26823.</p>
+<p>Interviewer: Dr. [REDACTED]<br />
+Interviewee: [REDACTED]</p>
+<p>[Begin Log]</p>
+<p>Dr. [REDACTED]: Can you describe what occurred when you encountered SCP-26823?</p>
+<p>[REDACTED]: It was just standing there. But it felt wrong. Like it knew everything about me and it was just... waiting for something terrible to happen.</p>
+<p>Dr. [REDACTED]: Can you describe the entity's actions at this time?</p>
+<p>[REDACTED]: That's just it, doc. It wasn't doing anything. It was just standing there, staring at me without eyes. And I felt this dread like nothing I've ever known.</p>
+<p>Dr. [REDACTED]: How long did you observe the entity?</p>
+<p>[REDACTED]: Felt like hours, but I think it was only a few minutes before I managed to look away and run.</p>
+<p>[End Log]</p>
+<p>Further psychological support was provided to the survivor, who remains under regular Foundation observation.</p>
+<h3>Addendum 2:</h3>
+<p>Experiment Log 26823-A</p>
+<p>Experiment 26823-A1<br />
+Subject: D-9341<br />
+Procedure: D-9341 was instructed to enter a chamber wherein SCP-26823 was last reported. The subject was equipped with a two-way radio for communication.<br />
+Results: SCP-26823 appeared in the chamber after three minutes. D-9341 immediately reported extreme anxiety and requested termination of the experiment. SCP-26823 disappeared after D-9341 broke line of sight.</p>
+<p>Experiment 26823-A2<br />
+Subject: D-7623<br />
+Procedure: Similar setup to A1, but D-7623 was provided with a blindfold to test if indirect observation would trigger SCP-26823's effect.<br />
+Results: SCP-26823 did not appear until D-7623 removed the blindfold against instructions. Subject suffered a panic attack and was removed from the chamber.</p>
+<p>Experiment 26823-A3<br />
+Subject: D-5410<br />
+Procedure: D-5410 was instructed to watch SCP-26823 via a live camera feed without being present in the same room.<br />
+Results: Subject reported no unusual feelings of menace or fear. SCP-26823 did not display any anomalous effects through indirect observation.</p>
+<h3>Addendum 3:</h3>
+<p>Proposal for upgrade to Thaumiel class due to potential use of SCP-26823 in interrogation and intelligence-gathering operations was denied by O5 Council. Reasons cited included the unpredictable nature of SCP-26823's appearances and the inherent risks involved in exposure. Further proposals of this nature require additional experimentation and data to ensure the psychological welfare of Foundation personnel is not compromised.</p></div>
