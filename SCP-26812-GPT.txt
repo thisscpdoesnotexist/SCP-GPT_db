@@ -1,0 +1,48 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26812 is  A temporal anomaly happening in OVH server where the time is slowed down compared to the exterior world. It's caused by OVH miniature black hole research. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26812</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26812 is a localized temporal anomaly encountered within a server cluster owned by OVH, a prominent cloud computing company. The anomaly manifests as a significant temporal dilation effect, wherein time within a certain radius of the central server rack, designated as the ground zero for the phenomenon, is observed to pass at a markedly slower rate relative to the external environment. Preliminary estimates suggest time within the affected zone progresses at approximately one second for every four hours of external time.</p>
+<p>Further investigation has attributed the cause of SCP-26812 to an experimental miniature black hole that was inadvertently generated as a byproduct of cutting-edge quantum computing and gravitational research conducted by OVH’s R&amp;D division. The miniature black hole has since become stable and localized but exhibits a gravitational pull sufficient to distort space-time within the confines of the server room. Notably, despite extensive temporal distortion, no significant spatial gravitational effects have been reported outside the immediate vicinity of SCP-26812, such as mass displacement or objects being drawn into the anomaly.</p>
+<p>The existence of SCP-26812 poses several containment risks, including information security breaches due to potential future data access and the unpredictable nature of the contained singularity. The sheer presence of a stable miniature black hole within a civilian infrastructure is a cause of grave concern to the SCP Foundation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>The affected server room has been evacuated, and a full lockdown is in effect. A 50-meter safe perimeter has been established and is to be maintained at all times around SCP-26812's containment zone, with Class-E amnestics administered to all OVH employees who previously worked with or around the affected area.</p>
+<p>Foundation personnel have set up a faraday cage and a redundant electromagnetic field around the area to prevent any electronic data leakage. External time monitoring equipment has been installed to provide continuous surveillance and assessment of SCP-26812's effect on local time flow.</p>
+<p>A disinformation campaign is in effect to address the unexpected shutdown of OVH's server cluster, attributing it to a severe but contained cyber-attack to explain the long-term downtime to the public and OVH’s clients. All research related to miniature black holes is now under the purview of the SCP Foundation, and OVH's scientific team involved in the initial event has been recruited under Class-B confidentiality agreements.</p>
+<p>In the event of a critical containment breach, such as the expansion of the temporal anomaly or a potential black hole collapse, a specialized Foundation Emergency Response Team is on standby to implement Procedure 26812-Omega, which entails the remote detonation of a series of on-site quantum resonance bombs designed to neutralize SCP-26812.</p>
+<h3>Addendum 1: Interview Log-26812-IV</h3>
+<p><em>(The following is a transcript of an interview between Dr. Holden, a Foundation researcher, and Dr. Emile Lavoisier, the former head of the OVH gravitational research team.)</em></p>
+<p>[REDACTED FOR BREVITY]</p>
+<p><strong>Dr. Holden:</strong> "Can you describe the events leading up to the discovery of SCP-26812?"</p>
+<p><strong>Dr. Lavoisier:</strong> "Certainly. We were attempting to utilize singularities at the quantum level to revolutionize data storage. It... it was purely theoretical until the partial collider incident."</p>
+<p><strong>Dr. Holden:</strong> "Partial collider incident? Can you elaborate?"</p>
+<p><strong>Dr. Lavoisier:</strong> "Yes, it... we had established a micro-collider to observe quantum entanglement, but the results far exceeded our projections. We inadvertently produced a singularity. It was minute, imperceptible on its own, but its disruption of local spacetime was unmistakable."</p>
+<p><strong>Dr. Holden:</strong> "And the temporal dilation effect?"</p>
+<p><strong>Dr. Lavoisier:</strong> "At first, we didn't realize what was happening. Our server synchronization started to drift. Minutes, then hours. It wasn't until we clocked under 24/7 observation that we grasped the full extent."</p>
+<p>[FURTHER REDACTED]</p>
+<h3>Addendum 2: Experiment Log-26812-EX</h3>
+<h4>Experiment #1:</h4>
+<p><strong>Objective:</strong> To determine the temporal dilation gradient surrounding SCP-26812.
+<strong>Procedure:</strong> Precisely synchronized chronometers were placed at 1, 5, 10, and 20 meters from the central server rack.
+<strong>Results:</strong> Time experienced a logarithmic slow in relation to distance from ground zero. The chronometer closest to the center ceased functioning after appearing to only advance 2 seconds over a 48-hour external period.</p>
+<h4>Experiment #2:</h4>
+<p><strong>Objective:</strong> Investigate the potential for data retrieval from servers within the temporal anomaly.
+<strong>Procedure:</strong> Deploy a remote drone with an integrated quantum entangled communication device and attempt data transfer.
+<strong>Results:</strong> Data transfer was partially successful. Files retrieved seemed to originate from future timestamps, suggesting data within SCP-26812 is being processed at a rate not consistent with the temporal dilation, possibly hinting at a deeper causality violation.</p>
+<h4>Experiment #3:</h4>
+<p><strong>Objective:</strong> Test the effects of SCP-26812 on biological matter.
+<strong>Procedure:</strong> A lab rat was introduced into the affected zone via remote carrier.
+<strong>Results:</strong> The rat appeared motionless due to the temporal dilation. Upon retrieval after 6 hours (external time), no physiological changes were observable, though the rat experienced severe psychological distress, likely due to the temporal discrepancy.</p>
+<p>[ADDITIONAL EXPERIMENTS REDACTED]</p>
+<h3>Addendum 3: Research and Containment Update</h3>
+<p><em>(An overview of the progression of SCP-26812 containment efforts and the establishment of new research directives following data analysis from Experiment Log-26812-EX.)</em></p>
+<p>As of [REDACTED], SCP-26812 continues to exhibit stable temporal dilation effects. The threshold of the anomaly remains constant, with no observable expansion or contraction. In light of the recent experiments and their implications, the O5 Council has prioritized the research into potential applications of SCP-26812's unique properties, as well as the reinforcement of containment protocols to prevent external interference from other entities that may seek to exploit the anomaly for their purposes. The potential for causality violations introduces a paramount risk factor, and research into the prevention of such events has been deemed a top priority by the SCP Foundation global security directive.</p></div>
