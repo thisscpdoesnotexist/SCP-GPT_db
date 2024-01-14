@@ -1,0 +1,45 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26831 is  a gullible female reality warper who unknowingly warps reality based on the lies she's tricked into believing. She's responsible for turning the Earth round after reading up on round Earth theorists. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26831</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26831 is a human female of approximately 25-30 years of age with the extraordinary ability to warp reality based on false information she believes to be true. Her abilities appear to function subconsciously; she has no apparent awareness or control over them. SCP-26831 appears to be particularly susceptible to suggestion and misinformation, which in turn can have a drastic and often hazardous impact on the surrounding environment or reality as a whole.</p>
+<p>By believing in a fallacy, SCP-26831 essentially "rewrites" reality, making the misconception an actuality. It is hypothesized that SCP-26831's abilities activated only recently, given that the verifiable historical record contradicts several current observed phenomena.</p>
+<p>The most notable incident attributed to SCP-26831 is the apparent alteration of the Earth's shape. Historical artifacts suggest that humankind once conceived Earth as a flat entity surrounded by a formidable ice wall. However, following SCP-26831's exposure to modern astronomical theories and cartography, the planet has come to manifest the round body with an axial rotation and orbit around the sun that are now considered empirical truths.</p>
+<p>Compilation of a comprehensive list of reality alterations caused by SCP-26831 remains an ongoing process, hindered by the inherent difficulty in distinguishing original reality from alterations. SCP-26831's anomalous effects are not limited to large-scale phenomena and may manifest in minor or localized anomalies that are difficult to attribute directly to her influence.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-26831's significant risk to global stability and the integrity of reality, she is to be contained in a specially designed simulation chamber within Site-██. This chamber is engineered to replicate a standard living environment while filtering and controlling all information presented to SCP-26831. SCP-26831 is to be under constant surveillance, and any signs of belief in misinformation are to be addressed immediately.</p>
+<p>All personnel interacting with SCP-26831 must be thoroughly screened and trained in the application of carefully constructed truths and verified facts. Written scripts approved by the Site Director must be used for all interactions to avoid accidental dissemination of false information.</p>
+<p>Direct engagement with SCP-26831 concerning her anomalous abilities is strictly prohibited. Efforts to make SCP-26831 aware of her abilities may result in a catastrophic reality restructuring event (CK-Class Reality Restructuring Scenario).</p>
+<h3>Addendum 1: Interview Log SCP-26831-A</h3>
+<p>[Interview Log SCP-26831-A was conducted by Dr. ██████ with the purpose of assessing SCP-26831's awareness of her surroundings and her potential to subconsciously alter reality. The interview was carefully monitored by a team of psychologists and reality-structuring specialists.]</p>
+<p>[The transcription of the interview has been omitted for brevity; however, it is available upon request from personnel with Level 4/26831 clearance.]</p>
+<h3>Addendum 2: Experiment Log SCP-26831-E</h3>
+<p><strong>Experiment 26831-E-01</strong>
+- <strong>Subject:</strong> SCP-26831
+- <strong>Procedure:</strong> Subject was exposed to a doctored image of a green sky.
+- <strong>Result:</strong> Within the confinement of SCP-26831's chamber, the sky appeared to change color to green. Outside observations remained unaffected.
+- <strong>Note:</strong> Demonstrates local limit to SCP-26831's reality-warping effect.</p>
+<p><strong>Experiment 26831-E-02</strong>
+- <strong>Subject:</strong> SCP-26831
+- <strong>Procedure:</strong> Subject was told that humans have a natural ability to photosynthesize.
+- <strong>Result:</strong> SCP-26831 exhibited signs of chlorophyll buildup in the skin. No global effect on human physiology noted.
+- <strong>Note:</strong> Reality alterations appear to center largely around SCP-26831 herself when the belief is personal in nature.</p>
+<p><strong>Experiment 26831-E-03</strong>
+- <strong>Subject:</strong> SCP-26831
+- <strong>Procedure:</strong> Subject was presented with a fabricated article claiming that a specific species of fish can walk on land.
+- <strong>Result:</strong> An individual of the species in question was observed moving on land near SCP-26831's containment chamber. The species' behavior reverted upon removal from the vicinity.
+- <strong>Note:</strong> Alterations may affect living organisms in close proximity to SCP-26831.</p>
+<p>[Additional experiment logs have been omitted for brevity but are available for review upon request from personnel with Level 4/26831 clearance.]</p>
+<h3>Addendum 3: Incident Report SCP-26831-I</h3>
+<p>[On ██/██/20██, SCP-26831 was accidentally exposed to a fictional movie during recreational hours, which portrayed an apocalyptic scenario involving a zombie outbreak. Following the exposure, several instances of SCP-26831-1 (reanimated corpses) were observed within the Site-██. A quick response by containment teams, and dissemination of scientific literature on the biological impossibility of reanimated dead tissue, resolved the situation.</p>
+<p>Several procedural updates have been made to SCP-26831's containment protocols, emphasizing the critical importance of information control.]</p>
+<p>[The complete incident report is available to personnel with Level 4/26831 clearance.]</p></div>
