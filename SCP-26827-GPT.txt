@@ -1,0 +1,55 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26827 is  just standing there… MENACINGLY! </h3> </center>
+    <h1>SCP-26827</h1>
+<h3>Item #:</h3>
+<p>SCP-26827</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26827 appears to be an unknown humanoid entity with variable descriptions regarding its physical appearance. Eyewitness accounts report the subject manifesting various traits, including but not limited to: changes in height (ranging from 1.5 to 3 meters), skin tone alterations, fluctuations in apparent mass, and inconsistent facial features that complicate its accurate identification. Despite this variability, all witnesses describe SCP-26827 as possessing an inherently menacing presence, characterized by an unsettling aura that induces heightened anxiety and fear in onlookers. The entity has been observed to stand perfectly motionless for extended periods, often in public locations where its presence provokes distress among the population.</p>
+<p>SCP-26827's motives and origins are currently unexplained. The entity possesses no discernible aggressive behaviors, as it does not engage in physical violence nor makes any attempts to communicate. Its "menacing" quality seems to be a form of psychological influence, which may be either a deliberate or incidental effect. When approached, SCP-26827 will dematerialize, only to reappear in a different location, adhering to a pattern that has yet to be decrypted by Foundation researchers.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Owing to SCP-26827's erratic manifestation pattern, containment has proven to be challenging. The following procedures have been put in place to minimize its impact on the public and facilitate its study:</p>
+<ol>
+<li>Mobile Task Force Pi-1 ("City Slickers") is assigned to track SCP-26827 appearances and respond accordingly.</li>
+<li>Civilians who have witnessed the entity are to be administered Class-B amnestics to prevent the spread of information and potential mass hysteria.</li>
+<li>Surveillance networks in urban locations are to be monitored for reports matching SCP-26827's descriptions. All such reports are to be investigated immediately.</li>
+<li>Any footage or documents pertaining to SCP-26827 are to be confiscated and classified.</li>
+<li>Research teams are assigned to analyze the patterns of SCP-26827's appearances in an attempt to predict its movements and develop more effective containment strategies.</li>
+</ol>
+<h3>Addendum 1: Experiment Log SCP-26827-A</h3>
+<h4>Experiment A-1:</h4>
+<p><strong>Objective:</strong> To determine the effects of direct human interaction with SCP-26827.
+<strong>Procedure:</strong> D-class personnel instructed to approach SCP-26827.
+<strong>Results:</strong> SCP-26827 dematerialized upon approach, with D-class personnel reporting elevated stress levels.</p>
+<h4>Experiment A-2:</h4>
+<p><strong>Objective:</strong> To assess the entity's reaction to various stimuli.
+<strong>Procedure:</strong> Remote-controlled vehicle with mounted speakers played audio messages towards SCP-26827.
+<strong>Results:</strong> No reaction. SCP-26827 remained stationary until it vanished after 3 hours.</p>
+<h4>Experiment A-3:</h4>
+<p><strong>Objective:</strong> To quantify the range of SCP-26827's influence.
+<strong>Procedure:</strong> D-class personnel positioned at increasing distances from SCP-26827.
+<strong>Results:</strong> Psychological influence noted up to 50 meters from subject. Effects diminish with increased distance.</p>
+<h3>Addendum 2: Interview Log SCP-26827-B</h3>
+<p><strong>Interviewed:</strong> Dr. ████████
+<strong>Interviewer:</strong> Agent ██████
+<strong>Foreword:</strong> Dr. ████████ was the first Foundation member to successfully establish a predetermined observation from within SCP-26827's range without the entity dematerializing.</p>
+<p><Begin Log></p>
+<p><strong>Agent ██████:</strong> Doctor, can you describe your encounter with SCP-26827?</p>
+<p><strong>Dr. ████████:</strong> Certainly. I positioned myself about 45 meters away from the entity. The oppressive feeling was palpable, like something was clawing at the inside of my skull.</p>
+<p><strong>Agent ██████:</strong> How did you manage to remain within its proximity without it dematerializing?</p>
+<p><strong>Dr. ████████:</strong> I believe the key lay in acting indifferent, suppressing any external signs of anxiety or fear which it possibly senses.</p>
+<p><strong>Agent ██████:</strong> Intriguing. Did the entity show any sign of awareness towards your presence?</p>
+<p><strong>Dr. ████████:</strong> Not that I could tell. It stood there... just standing there, menacingly. But it didn't move a muscle or even seem to acknowledge me.</p>
+<p><strong>Agent ██████:</strong> Thank you, Doctor. Your insights are invaluable.</p>
+<p><End Log></p>
+<p><strong>Closing Notes:</strong> Following this interview, containment procedures have been updated to include Dr. ████████'s approach to SCP-26827 manifestation events.</p>
+<h3>Addendum 3: Incident Report SCP-26827-C</h3>
+<p>On [REDACTED] SCP-26827 appeared in [REDACTED] city center during peak hours, resulting in widespread panic. Mobile Task Force Pi-1 was deployed to manage the scene, and Class-B amnestics were administered to all witnesses. Foundation web crawlers successfully suppressed footage of the event from social media, and official statements attributed the disturbance to a flash mob.</p>
+<p>The incident underscores the need for improved predictive algorithms to anticipate SCP-26827's appearances and prevent such occurrences in the future. Research into SCP-26827's pattern of manifestation is ongoing, with special attention given to identifying any potential triggers or environmental factors influencing its appearances.</p></div>
