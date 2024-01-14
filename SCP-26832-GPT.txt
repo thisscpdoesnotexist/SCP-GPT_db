@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26832 is  that Leonardo da Vinci had really bad gas the day he was painting the Mona Lisa and that's why she's smiling, because she can barely contain her laughter every time ol' Leo lets one rip. This information is somehow a dangerous cognitohazard. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26832</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26832 is an anomalous cognitohazardous phenomenon linked to the painting of the Mona Lisa (La Gioconda) by Leonardo da Vinci. The effect manifests when an individual becomes aware of the specific false historical "fact" that Leonardo da Vinci had excessive flatulence ("bad gas") during the creation of the Mona Lisa, and that the smile depicted is a restrained response to the humor found in the situation.</p>
+<p>Upon acquiring this knowledge, subjects (hereafter referred to as SCP-26832-1) will begin to spread this misinformation compulsively, utilizing a variety of methods including social media, public speaking, academic papers, and direct conversation. Moreover, SCP-26832-1 seem to have a memetic effect on those they communicate with, instilling a strong belief in the false information and a desire to share it further.</p>
+<p>Instances of SCP-26832-1 show deteriorating mental health over time, often developing conditions such as delusional disorder, obsession with the Mona Lisa and Leonardo da Vinci, and severe dissociation from reality. If not contained and treated, SCP-26832-1 can cause widespread information contamination, which poses a risk of severely altering historical perception and can lead to mass hysteria or breakdown of social order.</p>
+<p>The true danger of SCP-26832 lies in its ability to alter perceptions of reality, inciting doubt in historical accuracy and fostering mistrust in educational and authoritative entities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As a non-physical and highly contagious anomaly, containment of SCP-26832 revolves around information suppression, monitoring, and inoculation. A specialized task force (codenamed "Mona's Silence") has been assigned to continually monitor all forms of communication for indications of SCP-26832's spread. This includes monitoring academic databases, social media platforms, and historical discussion forums.</p>
+<p>Upon identification of an SCP-26832-1 instance, the individual is to be apprehended and subjected to Class-C amnestic treatment. Their online presence is to be scrubbed of references to SCP-26832, and any individuals they have communicated with are to be evaluated and treated as necessary.</p>
+<p>Foundation webcrawlers have been programmed to immediately flag and take down information relating to the SCP-26832 phenomenon. In addition, the Foundation's disinformation campaign is in effect, promoting more mundane (and fabricated) theories regarding the Mona Lisa's smile.</p>
+<p>Historians, art experts, and relevant Foundation personnel are to be inoculated against SCP-26832 with a counter-memetic agent designed to resist the cognitohazard's effects. This inoculation must be refreshed bi-annually.</p>
+<h3>Addendum 1:</h3>
+<p>Interview Log-26832-A</p>
+<p><em>Interviewer: Dr. Khalid</em>
+<em>Interviewee: [REDACTED], a former professor of Renaissance art history (Designated SCP-26832-1A)</em></p>
+<p>[EXCERPT FROM TRANSCRIPT]</p>
+<p>Dr. Khalid: "Can you tell me when you first came across the information about da Vinci's alleged flatulence during the painting of the Mona Lisa?"</p>
+<p>SCP-26832-1A: "It was during a sabbatical. I found an old document in an archive, seemed authentic enough, and everything clicked. The smile, the relaxed atmosphere of the painting... I...I felt like I had to share it."</p>
+<p>Dr. Khalid: "Were you aware of the compulsive need to spread this information?"</p>
+<p>SCP-26832-1A: "Yes, but it felt important, like a huge discovery. Every historian dreams of such things."</p>
+<p>Dr. Khalid: "And now? After the treatment?"</p>
+<p>SCP-26832-1A: "I...I feel empty. Like I've lost a part of me, a part of history..."</p>
+<p>[END EXCERPT]</p>
+<h3>Addendum 2:</h3>
+<p>Experiment Log-26832-B</p>
+<p><strong>Experiment 26832-B-1</strong>
+- <strong>Subject:</strong> D-40122
+- <strong>Procedure:</strong> Subject was told the fictitious account about Leonardo da Vinci and shown a replica of the Mona Lisa.
+- <strong>Results:</strong> After learning the account, D-40122 laughed and shared the story with D-40123. Both D-Class personnel began to show symptoms of SCP-26832 acquisition within 2 hours.
+- <strong>Note:</strong> D-40123's exposure confirms SCP-26832's secondary spread capability.</p>
+<p><strong>Experiment 26832-B-2</strong>
+- <strong>Subject:</strong> D-40175 (Inoculated against SCP-26832)
+- <strong>Procedure:</strong> Subject was told the same fictitious account and exposed to SCP-26832-1 instances.
+- <strong>Results:</strong> D-40175 displayed no symptoms of SCP-26832 acquisition over a monitoring period of one week.
+- <strong>Note:</strong> Inoculation appears to be successful in providing immunity to the cognitohazard.</p>
+<h3>Addendum 3:</h3>
+<p>Foundation Efforts and Research Advancements</p>
+<p>The O5 Council has approved additional funding for the development of a more effective long-term counter-memetic agent, with an emphasis on ease of distribution to the general public. Preliminary trials indicate that a water-soluble version for implementation in public water supplies is a possibility. However, ethics committees are currently reviewing the implications of such action.</p>
+<p>Continued efforts to refine the inoculation agent are critical, as SCP-26832 holds the potential to undermine historical understanding on a global scale if not contained. Research into the origins of the SCP-26832 memetic strain is ongoing, with the aim of understanding its creation and preventing similar anomalies in the future.</p></div>
