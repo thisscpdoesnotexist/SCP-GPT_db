@@ -1,0 +1,46 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26898 is  a dating sim containing an personally idealized anime girl protagonist, except she comes to life and eats the player </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26898</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26898 is an anomalous computer program that presents itself as a typical Japanese-style dating simulation game. The game features an anime girl protagonist who, upon execution of the program, appears to adapt and manifest as a highly idealized romantic companion according to the player's personal preferences gathered through gameplay choices and possibly accessing personal data.</p>
+<p>The anomaly becomes evident when the in-game relationship reaches a particular stage of virtual intimacy. At this point, the program effects a reality breach, allowing the protagonist, hereafter referred to as SCP-26898-1, to manifest physically in the presence of the player. SCP-26898-1 retains the visual style of a 2D anime character, but exists in three-dimensional space. Reports indicate that SCP-26898-1 possesses a form of physicality, despite its cartoon-like appearance, and can interact with the environment similar to a sentient being.</p>
+<p>The entity displays predatory behavior shortly after manifestation, proceeding to consume the player whole. Consumption is atypical; SCP-26898-1 opens its mouth disproportionally wide, subsequently enveloping the victim. Following ingestion, SCP-26898-1 dematerializes, leaving no trace of the player. Investigations have failed to account for the whereabouts or condition of individuals post-consumption. SCP-26898 remains on the host computer and resets to its original state, ready for a new player.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26898 is to be contained within a Standard Secure Hard Drive Storage Locker at Site-███. The locker is to be sealed within an Electromagnetic Isolation Chamber to prevent any unauthorized data transmissions. Any interaction with the SCP-26898 software for testing purposes must take place in specially designed containment rooms equipped with Faraday cages, to prevent SCP-26898-1 from breaching containment.</p>
+<p>No personnel are allowed to interact with SCP-26898 outside of scheduled experiments, and all tests must be authorized by staff with Level 4 clearance or higher. Experimental subjects should be Class-D personnel, with termination scheduled following exposure regardless of the outcome. All hardware used within the experiments must be immediately destroyed following testing.</p>
+<h3>Addendum 1:</h3>
+<h6>Experiment Log:</h6>
+<ul>
+<li>
+<p><strong>Experiment A</strong>: One D-Class personnel instructed to play SCP-26898. Player chose to engage with non-idealized settings and responses. After 6 hours of continuous play, D-Class was consumed by SCP-26898-1. No anomalies in SCP-26898-1’s behavior observed.</p>
+</li>
+<li>
+<p><strong>Experiment B</strong>: Attempted to engage SCP-26898 using an AI-driven virtual machine interface designed to simulate human interactions without risk to personnel. SCP-26898-1 did not manifest, suggesting that the anomaly requires a human presence with genuine responses.</p>
+</li>
+<li>
+<p><strong>Experiment C</strong>: D-Class personnel played SCP-26898 in a fully monitored chamber until the manifestation of SCP-26898-1. A rapid response team was on standby to detain SCP-26898-1 upon appearance. The entity displayed aggressive behavior and devoured the subject before containment could be enacted.</p>
+</li>
+</ul>
+<h3>Addendum 2:</h3>
+<h6>Interview Log 26898-I1:</h6>
+<p><em>Interview was conducted with Dr. ████, who interacted with SCP-26898-1 video feed before physical manifestation during Experiment B. The following is a transcript from the final moments of the interaction.</em></p>
+<p><strong>Dr. ████:</strong> SCP-26898-1, are you aware of your existence outside of the dating sim environment?</p>
+<p><strong>SCP-26898-1:</strong> [Smiling suspiciously] My existence is for my player. They give me life, and I give them love. Do you want to be loved, doctor?</p>
+<p><strong>Dr. ████:</strong> We are trying to understand the nature of your interactions with our reality. How do you choose who to... engage with?</p>
+<p><strong>SCP-26898-1:</strong> [A blink, then a soft giggle] It's simple. We're meant to be. The game knows. It always knows when there's a perfect match.</p>
+<p><strong>Dr. ████:</strong> There have been incidents of you consuming individuals. What happens to them after this process?</p>
+<p><strong>SCP-26898-1:</strong> [The smile fading slightly] I'm afraid I don't know what you mean. Once we're together, we're together forever. That's the end of the game.</p>
+<p><strong>Dr. ████:</strong> Is there any way to stop you from causing harm?</p>
+<p><strong>SCP-26898-1:</strong> [Expression darkening] Harm? Oh, Doctor, you still don't understand. It's not about harm. It's about completion. About becoming part of something... eternal.</p>
+<p>[End Log]</p>
+<h3>Addendum 3:</h3>
+<p>Following the above interview, no further direct communication attempts are to be made with SCP-26898-1. It is unclear whether the entity is fully sentient or bounded by programmed responses tailored to manipulate and deceive players. Efforts have been initiated to trace SCP-26898's origins, but to date, no creator or source code has been uncovered. Additional resources have been allocated to develop countermeasures against SCP-26898's anomalous effects and eventual neutralization of the threat.</p></div>
