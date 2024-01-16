@@ -1,0 +1,48 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26878 is  a cosmic uterus containing a cyclical world-ending demon </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26878</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26878 refers to an extra-dimensional anomaly manifesting as a cosmic entity resembling a uterus. This entity is approximately 60 meters in diameter and is suspended in an unknown dark space, possibly a pocket dimension. The interior of SCP-26878 seems to function fundamentally as a womb for a demonic entity designated SCP-26878-A.</p>
+<p>SCP-26878-A has been observed to follow a cyclical pattern where it gestates within SCP-26878, growing to maturity before being "born" into our reality. Following birth, it attempts to initiate an XK-Class end-of-the-world scenario by causing widespread destruction, manipulating local ecosystems, and inciting violence among human populations. This entity displays vast reality-warping abilities, immense physical strength, and resilience to most forms of damage.</p>
+<p>Upon the successful neutralization of SCP-26878-A, which has to date required the use of overwhelming force, the remains dematerialize and the entity remanifests within SCP-26878 to begin the gestational cycle anew. The cycle duration is inconsistent, ranging from several months to multiple years.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its nature, SCP-26878 cannot be contained in a traditional sense. Monitoring stations have been established in orbit around suspected manifestation points to detect any shifts in space-time indicative of SCP-26878-A's emergence.</p>
+<p>Mobile Task Forces (MTFs) specialized in combating metaphysical entities, particularly MTF Epsilon-11 (“Nine-Tailed Fox”) and MTF Omega-7 (“Pandora's Box”), are to be on high alert at all times to swiftly respond to the entity's birth event.</p>
+<p>All information pertaining to SCP-26878 and SCP-26878-A has been classified as Level 5. An ongoing disinformation campaign is in effect to prevent global panic and misinformation regarding SCP-26878-A’s appearances.</p>
+<p>Plans to discover a permanent containment or neutralization solution for SCP-26878 are ongoing. Several proposed methods are under rigorous testing and research, spearheaded by the Foundation's Department of Multi-Universal Affairs.</p>
+<h3>Addendum 1: Incident Report 26878-Alpha</h3>
+<p>On ██/██/20██, SCP-26878-A breached into our reality near [REDACTED], resulting in [REDACTED] casualties before being contained and neutralized. Witnesses were given Class-A amnestics, and a cover story involving a catastrophic chemical plant explosion was disseminated.</p>
+<h3>Addendum 2: Interview Log 26878-Beta</h3>
+<p><strong>Interviewer:</strong> Dr. ████████
+<strong>Interviewee:</strong> SCP-26878-A (during a manifestation event prior to neutralization)</p>
+<p><em>[Excerpt from the interview]</em></p>
+<p><strong>Dr. ████████:</strong> Can you understand me?</p>
+<p><strong>SCP-26878-A:</strong> <em>[In a voice resembling a chorus of screams]</em> I am beyond your understanding, mortal.</p>
+<p><strong>Dr. ████████:</strong> What is your purpose?</p>
+<p><strong>SCP-26878-A:</strong> To unmake. To tear the fabric of your world, to feed the cosmic womb from which I spring.</p>
+<p><strong>Dr. ████████:</strong> Can you be stopped permanently?</p>
+<p><em>[SCP-26878-A laughs, a sound likened to thunder and crumbling stone]</em></p>
+<p><em>The full interview log is available to personnel with Level 5 security clearance or higher.</em></p>
+<h3>Addendum 3: Experiment Log 26878-Gamma</h3>
+<h4>Experiment 26878-Gamma-01</h4>
+<p><strong>Date:</strong> ██/██/20██<br />
+<strong>Objective:</strong> To determine the effect of high-frequency sound waves on SCP-26878.<br />
+<strong>Results:</strong> No significant response from SCP-26878. SCP-26878-A gestation period remained unchanged.</p>
+<h4>Experiment 26878-Gamma-02</h4>
+<p><strong>Date:</strong> ██/██/20██<br />
+<strong>Objective:</strong> To inject a Class-D personnel with a memetic agent designed to neutralize SCP-26878-A upon manifestation.<br />
+<strong>Results:</strong> SCP-26878-A neutralized within minutes of manifestation; however, it reappeared in SCP-26878 after dematerialization, with no noticeable alteration to its gestational process.</p>
+<h4>Experiment 26878-Gamma-03</h4>
+<p><strong>Date:</strong> ██/██/20██<br />
+<strong>Objective:</strong> To use a prototype device, codenamed "Event Horizon," capable of generating a localized black hole to contain SCP-26878 and SCP-26878-A upon birth.<br />
+<strong>Results:</strong> The device successfully contained SCP-26878-A for approximately 3 hours before a catastrophic device failure led to a containment breach. Further development of the "Event Horizon" device was put on indefinite hold.</p>
+<p><em>Additional experiment logs are under Level 4 classification and are available for review by authorized personnel.</em></p></div>
