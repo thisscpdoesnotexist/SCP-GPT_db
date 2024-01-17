@@ -1,0 +1,52 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26920 is  there's only one tool you need for gardening, and I've got it. It's a hammer. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26920</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-26920 is an anomalous object resembling a traditional claw hammer. The wooden handle and metal head are typical of non-anomalous hammers, yet SCP-26920 exhibits properties that are markedly unusual and cannot be explained by current scientific understanding.</p>
+<p>Upon being wielded, SCP-26920 instigates an uncontrollable impulse in subjects to engage in various gardening activities, regardless of prior experience or knowledge in horticulture. Subjects report an overwhelming sense of certainty that SCP-26920 is the only tool necessary for any and all gardening tasks. This belief persists regardless of logical inconsistencies or the impracticality of using a hammer for such work.</p>
+<p>The hammer's anomalous effects manifest when a subject performs a "gardening" action with SCP-26920; the object will then undergo a transmutation to become the ideal tool for that task. These transformations range from spades, trowels, pruners, and even complex machinery like lawnmowers, depending on what the wielder attempts to accomplish. SCP-26920's transformations are often temporary, reverting to its original hammer form when not in use or when left unobserved.</p>
+<p>Notably, SCP-26920 seems to possess a degree of sentience or influence, as it often compels the user to improve upon garden aesthetics and health in ways they are not consciously aware of. There have also been reports of the hammer engaging in protective behavior, warding off threats to the cultivated area by either intimidating or, in extreme cases, harming potential sources of harm to the plants.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26920 is to be contained in a secure lockbox within a standard containment chamber at Site-██. Only personnel with Level 3 clearance or higher are allowed to handle the object for approved testing or research purposes. Due to its anomalous properties, SCP-26920 should never be brought into proximity with plant life unless for controlled experimentation.</p>
+<p>All interactions with SCP-26920 must be recorded and monitored. Testing subjects are to be selected from D-Class personnel, who must be briefed on the potential compulsive effects of the item. Psychological evaluations are to be administered both before and after any contact with SCP-26920. Any transformations of the object must be logged and, if possible, photographed for further study.</p>
+<h3>Addendum 1:</h3>
+<p>Interview Log 26920-A</p>
+<p>Interviewer: Dr. ██████
+Interviewed: D-84293, after a 30-minute exposure to SCP-26920
+<Begin Log></p>
+<p>Dr. ██████: "Can you describe your experience with SCP-26920?"</p>
+<p>D-84293: "Doctor, it's like... it's like my hands knew exactly what to do. The second I picked up that hammer, I just had to get out there and start fixing up the garden."</p>
+<p>Dr. ██████: "And you were aware that trying to garden with a hammer is not typical?"</p>
+<p>D-84293: "I know, I know, makes no sense, right? But it wasn't just a hammer, doc. It changed shape! One minute I'm hammering in a fence post, the next I'm trimming hedges with shears that just… came out of nowhere!"</p>
+<p>Dr. ██████: "Interesting. Did you feel in control of your actions during this time?"</p>
+<p>D-84293: "Sort of? I mean, I wanted to do it. It felt right, you know?"</p>
+<p>Dr. ██████: "Thank you, D-84293. You've been very helpful."</p>
+<p><End Log></p>
+<h3>Addendum 2:</h3>
+<p>Experiment Log 26920-B</p>
+<ul>
+<li>
+<p>Experiment 1: Subject D-60119 was instructed to plant tulip bulbs.
+  Result: SCP-26920 transformed into a trowel. Bulbs were planted effectively.</p>
+</li>
+<li>
+<p>Experiment 2: Subject D-43821 was told to prune a rose bush.
+  Result: SCP-26920 became a pair of pruning shears. Subject expressed surprise at the ease of pruning.</p>
+</li>
+<li>
+<p>Experiment 3: Subject D-25934 attempted to mow an overgrown lawn section.
+  Result: SCP-26920 took on the form of a functioning push lawn mower. Subject completed the task with no prior experience in lawn maintenance.</p>
+</li>
+</ul>
+<h3>Addendum 3:</h3>
+<p>Incident Report 26920-C</p>
+<p>During an unsupervised moment, SCP-26920 was left in proximity to a potted plant within Dr. ██████'s office. The plant began to exhibit accelerated growth and a substantial increase in health, suggesting that SCP-26920 may exert a passive influence on plant life in its immediate vicinity. Further testing is required to understand this effect. However, as a precaution, SCP-26920 is to remain in its containment lockbox unless required for controlled testing.</p></div>
