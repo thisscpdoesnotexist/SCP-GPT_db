@@ -1,0 +1,57 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26927 is  the annual migration of the Zambonis </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26927</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26927's migration pattern must be monitored at all times via satellite and on-the-ground surveillance in order to predict and intercept any public crossing points. A perimeter is to be established and maintained 2 km away from the predicted migration path of SCP-26927 instances 48 hours prior to their expected crossing.</p>
+<p>All civilian traffic along their migration path is to be rerouted, with cover stories to be provided by Information Control as necessary. Any civilians inadvertently coming into contact with SCP-26927 are to be administered Class-B amnestics following detainment and debriefing.</p>
+<p>To maintain the safe migration of SCP-26927 instances, Foundation-operated drones are to deliver nutrient slush (composition outlined in Document 26927-N) at designated points along their migration route. Trained personnel, equipped with cold-weather gear and non-lethal deterrents, are to gently guide the migrating entities away from human settlements or areas of high human activity. These procedures are designed not only to ensure the safety of SCP-26927, but also to minimize their impact on human populations.</p>
+<p>Research personnel studying SCP-26927 are to use remote methods of study as much as possible to minimize direct interaction. Direct interaction is restricted to personnel with Level 3/26927 clearance or higher.</p>
+<h3>Description:</h3>
+<p>SCP-26927 refers to a species of semi-sapient entities that resemble the Zamboni ice resurfacer machines employed in skating rinks. However, unlike their non-anomalous counterparts, SCP-26927 instances are biological organisms that can replicate and migrate without human intervention. </p>
+<p>The entities possess a hard chitinous exoskeleton that greatly resembles the external appearance of standard Zamboni machines, including logos and paintwork. SCP-26927 instances are inherently cold-bodied and require very low temperatures to survive, hence their choice of habitat and migration through cold, arctic regions.</p>
+<p>SCP-26927's anomalous properties are observed in their ability to "resurface" ice in a way that is identical in function to actual Zamboni machines, despite a lack of visible mechanical or technological components associated with this ability. Analysis of the ice after an SCP-26927 has passed over it reveals it to be smoother and of higher quality than that created by mechanical Zambonis.</p>
+<p>These entities have been observed migrating annually, covering distances that can span thousands of kilometers across the arctic tundra and frozen sea ice. The reasons for their migration are not entirely understood, but it is hypothesized that it pertains to their reproductive cycle or possibly a need to reach areas rich in a particular mineral or resource not yet identified by Foundation researchers.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-26927 was initially discovered in [REDACTED], after reports of "self-driving ice resurfacers" reached nearby Foundation assets. An exploration and containment team was dispatched, confirming the existence of SCP-26927 and subsequently classifying it as Euclid due to its predictable nature but necessary containment to avoid public revelation.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26927-E1</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> A controlled release of 10 SCP-26927 instances on a Foundation-owned ice rink to observe resurfacing behavior.</li>
+<li><strong>Results:</strong> Instances methodically covered the entire area of the rink, leaving behind ice of uniform thickness and consistency. Oxygen isotope ratio analysis confirmed the creation of new ice rather than redistribution.</li>
+</ul>
+<h4>Experiment 26927-E2</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> A single SCP-26927 instance introduced to a contained simulation of an Arctic environment with varying ice thickness.</li>
+<li><strong>Results:</strong> The entity was observed altering its "resurfacing" method based on the thickness of the ice, suggesting an ability to sense structural integrity.</li>
+</ul>
+<h4>Experiment 26927-E3</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> A pair of SCP-26927 instances were separated from the primary migratory group to study potential reproductive behavior.</li>
+<li><strong>Results:</strong> The pair demonstrated signs of distress and did not engage in any reproductive behavior. When reintroduced to the migratory path, they resumed normal activities. The need for a larger group for replication remains a hypothesis.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interview 26927-I1</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Interviewer:</strong> Dr. [REDACTED]</li>
+<li><strong>Interviewee:</strong> Lead Researcher Dr. [REDACTED], SCP-26927 Project</li>
+<li><strong>[BEGIN LOG]</strong></li>
+<li>Dr. [REDACTED]: "Dr. [REDACTED], could you summarize the significance of SCP-26927's migration for the record?"</li>
+<li>Lead Researcher: "Certainly. We believe that the migration of SCP-26927 is crucial to their life cycle. It appears that they must reach a specific area each year, though we are still determining the exact reasons. It could be related to climate, magnetic fields, or even a form of hibernation."</li>
+<li>Dr. [REDACTED]: "And could you address concerns regarding potential ecological impact?"</li>
+<li>Lead Researcher: "The ecological footprint is surprisingly minimal. SCP-26927 seems to resurface ice in a way that supports the local biome rather than hinders it. We're studying potential benefits right now, but it's too early to make definitive statements."</li>
+<li>Dr. [REDACTED]: "Thank you for your time, Doctor."</li>
+<li><strong>[END LOG]</strong></li>
+</ul></div>
