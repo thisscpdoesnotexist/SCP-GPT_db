@@ -1,0 +1,44 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26924 is  an animated movie so bad, so awfully made, so terrible, that the viewer can literally die from it. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26924</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26924 is an animated motion picture titled "The Final Reel." The animation style of the movie is poorly executed, with erratic character movements, clashing colors, and incoherently structured narrative sequences. SCP-26924's anomalous effects manifest when an individual watches the movie in its entirety. Subjects report a growing sense of unease and discomfort, escalating to physical symptoms such as nausea, headaches, and extreme mental distress. In the final stages, subjects experience a fatal neural overload, resulting in cerebral hemorrhage or total cognitive shutdown.</p>
+<p>Preliminary analysis indicates that the anomalous effects of SCP-26924 are not due to its visual content alone. The film's audio track contains a series of low-frequency pulses and subliminal messages which seem to contribute to the destabilization of the viewer's neurological state. Researchers hypothesize that SCP-26924 was intentionally created to serve as a cognitohazard, though the identity and motives of its creators remain unknown.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26924 is to be stored in a high-security, magnetically shielded vault at Site-██ to prevent inadvertent exposure to its effects. Access to SCP-26924 is strictly forbidden without Level 4 clearance and the approval of two-thirds of the overseeing research committee. Any viewing of SCP-26924 for research purposes must be performed by D-class personnel only, under strict medical supervision, and using remote viewing methods to prevent accidental exposure to staff. All research sessions are to be terminated immediately if the subject begins to exhibit severe symptoms of SCP-26924's effects.</p>
+<p>Digital copies of SCP-26924 are to be secured on isolated Foundation servers with multiple redundant security measures to prevent unauthorized access or distribution. Any attempts to replicate or distribute SCP-26924 outside the Foundation are to be intercepted and contained immediately, with all involved individuals administered Class-A amnestics.</p>
+<h3>Addendum 1: Secure Acquisition Log</h3>
+<p>SCP-26924 was initially discovered after reports of a series of unexplained deaths in █████████, following a local film festival. An embedded Foundation agent attending the event flagged the movie as a potential anomaly after observing audience reactions and coordinating with emergency services. All remaining physical copies of SCP-26924 were promptly secured, and witnesses were administered amnestics. An investigation into the origin of the film is ongoing.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 1:</strong>
+- <strong>Subject:</strong> D-8214
+- <strong>Procedure:</strong> Subject instructed to watch SCP-26924 with audio muted.
+- <strong>Result:</strong> Subject reported boredom but no distress. No adverse health effects were observed. Test halted at film's completion.</p>
+<p><strong>Experiment 2:</strong>
+- <strong>Subject:</strong> D-5291 
+- <strong>Procedure:</strong> Subject listened to audio of SCP-26924 with no visual component.
+- <strong>Result:</strong> Subject became anxious and uneasy. Complained of a mild headache. Test terminated after 23 minutes due to subject's deteriorating cognitive function.</p>
+<p><strong>Experiment 3:</strong>
+- <strong>Subject:</strong> D-2305
+- <strong>Procedure:</strong> Subject exposed to both the visual and audio components of SCP-26924.
+- <strong>Result:</strong> Fatal. Subject collapsed 40 minutes into the film, and pronounced dead from a cerebral hemorrhage. </p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. Haskell
+<strong>Interviewee:</strong> D-4598 (post-exposure to SCP-26924's visual component only)
+<strong>Foreword:</strong> D-4598 showed no initial adverse effects from the exposure and was interviewed to determine the psychological impact of SCP-26924.</p>
+<p><strong>Dr. Haskell:</strong> Can you describe your feelings while watching the movie?
+<strong>D-4598:</strong> It was just bad, doc. Felt like a waste of time more than anything.</p>
+<p><strong>Dr. Haskell:</strong> Did you notice anything unusual or distinctive about the visuals?
+<strong>D-4598:</strong> I mean, they hurt my eyes a bit. Looked like someone threw it together in a day, but nothing that made me freak out or anything.</p>
+<p><strong>Dr. Haskell:</strong> How do you feel now, after the viewing?
+<strong>D-4598:</strong> I'm fine, just bored. You got any other films that are more, I dunno, interesting?</p>
+<p><strong>Closing Remarks:</strong> Interviewee D-4598 shows that SCP-26924's visual component alone does not pose a significant cognitohazard. Further testing is required to understand the full scope of the audio component's effects.</p></div>
