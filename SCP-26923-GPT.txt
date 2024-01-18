@@ -1,0 +1,49 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26923 is  a lethally bad movie </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26923</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26923 is an anomalous entity manifesting as a digital video file, approximately 113 minutes in length. The file appears to be a film of no known origin, adopting a range of cinematic genres across instances, though typically reflecting genres such as horror, absurdism, or surrealism. The storyline, characters, and dialogue are incongruent and change upon each viewing, defying any attempts to catalog a definitive plot.</p>
+<p>SCP-26923 exerts a fatal memetic effect upon viewers, causing severe neurological degradation followed by physical incapacitation, and eventually death within a span of 7-14 days after initial exposure. The progression of symptoms includes:</p>
+<pre><code>- Compulsive recounting and discussion of the film's content
+- Rapid onset of migraines and visual disturbances
+- Gradual loss of critical thinking and reasoning capabilities
+- Onset of psychosis and hallucinations
+- Complete vegetative state
+- Multiple organ failure and death
+</code></pre>
+<p>The memetic effect is not dependent on the viewer comprehending the film; partial viewing or exposure to the film in a language not understood by the viewer still results in the full array of symptoms.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its digital nature and risk of propagation through electronic means, containment of SCP-26923 is focused on preventing its transmission and access. Isolation of SCP-26923 requires it to be stored on a non-networked, encrypted hard drive kept in a high-security, signal-blocking containment unit at Site-██.</p>
+<p>Direct observation of SCP-26923 is strictly forbidden. Any experimentation or handling must be performed by D-Class personnel under strict monitoring, with all audiovisual data being run through multiple layers of automated censorship filters designed to scramble potentially lethal content.</p>
+<p>In the event of a breach, standard infohazard containment protocols are to be initiated, which include internet scrubbing operations, execution of kill agents within digital ecosystems, and mass amnestic distribution if necessary.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-26923 was initially discovered after multiple unexplained deaths occurred within a small online film enthusiast community. Foundation web crawlers detected the unusual pattern of communication surrounding a "cursed film," leading to the isolation and securement of SCP-26923. The website involved was shut down, and Class-C amnestics were administered to all known survivors who had been exposed to discussions about the film but had not viewed it.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26923-E-01</h4>
+<p><strong>Objective:</strong> Establish the minimum exposure time required to trigger SCP-26923's memetic effects.
+<strong>Procedure:</strong> D-Class subjects were exposed to SCP-26923 in 5, 10, and 15-minute increments.
+<strong>Results:</strong> All subjects began exhibiting the initial symptom (compulsive discussion about the film) within 24 hours, regardless of exposure time. The experiment confirmed that even minimal exposure to SCP-26923 is sufficient to trigger its effects.</p>
+<h4>Experiment 26923-E-02</h4>
+<p><strong>Objective:</strong> Determine if the effects of SCP-26923 can be mitigated with memetic resistance training.
+<strong>Procedure:</strong> A group of D-Class personnel was subjected to intensive memetic hazard resistance training before exposure to SCP-26923.
+<strong>Results:</strong> Training showed no noticeable impact on the progression of SCP-26923's symptoms. All subjects followed the same symptom progression timeline as untrained individuals.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewed:</strong> D-38219 (Subject had viewed SCP-26923 and was in the advanced stages of symptom progression)
+<strong>Interviewer:</strong> Dr. ██████
+<strong>Foreword:</strong> The following is a transcript of an interview conducted as part of research into understanding the subjective experiences of individuals affected by SCP-26923.</p>
+<p><strong>Dr. ██████:</strong> Can you describe your thoughts on the film?
+<strong>D-38219:</strong> It's... just keeps going. Movin' around in my head. Can't stop it.
+<strong>Dr. ██████:</strong> What can you recall about the plot?
+<strong>D-38219:</strong> Plot? It's... no, no plot. Just... noise, and... they're screaming. Always scream... but I understand it, right? I have to.
+<strong>Dr. ██████:</strong> What are you feeling right now?
+<strong>D-38219:</strong> My brain's on fire. I see the scenes—the ones that ain't there. You watch it, and then it watches you. Can't... can't get it out!</p>
+<p><strong>Closing Statement:</strong> D-38219 was found deceased in his containment cell two days after the interview due to multiple organ failure consistent with late-stage SCP-26923 exposure symptoms. Dr. ██████ has recommended increasing psychological support for D-Class personnel used in SCP-26923-related experiments to mitigate undue suffering.</p></div>
