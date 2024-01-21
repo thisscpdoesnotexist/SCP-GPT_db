@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-26999 is  The Pterandsaur. Pterosaurs are limited in that they can fly and horribly maul things, but not at the same time. Pterandsaur, however... </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-26999</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-26999, colloquially dubbed "The Pterandsaur," is an anomalous creature bearing close resemblance to Pterosaurs of the late Cretaceous Period. However, SCP-26999 exhibits several significant differences that set it apart from its prehistoric counterparts, namely, the ability to perform complex motor actions such as grabbing, mauling, and manipulating objects while in flight—a behavior never observed in non-anomalous Pterosaurs.</p>
+<p>SCP-26999 possesses a wingspan approximately 10 meters in length, with a corresponding body length of 4.5 meters. Its wings exhibit extraordinary flexibility and muscular strength, allowing it to execute rapid maneuvers in the air unmatched by any known avian or bat species. SCP-26999's talons are highly dexterous and show a disturbing level of precision, akin to that of a primate's hand. These appendages, combined with the creature's flight capabilities and aggressive nature, pose a significant threat to any living target within its vicinity.</p>
+<p>Initial research suggests that SCP-26999 might possess a form of intelligence or instinctive cunning that further enhances its predatory efficiency. Its behavior has been noted to shift from direct assaults to more deceptive, ambush tactics when studying and adapting to the behaviors of its prey.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-26999 is contained within a fortified, large-scale avian containment chamber located at Site-██. The walls of the chamber are composed of a titanium-steel alloy, resistant to both the physical force and the corrosive properties of SCP-26999's secretions. A secondary containment chamber surrounds the primary to act as a failsafe should SCP-26999 breach its initial containment.</p>
+<p>Access to SCP-26999's chamber is strictly forbidden without Level 4 clearance and an accompanying armed escort. Any personnel entering the chamber must wear specialized protective gear designed to withstand SCP-26999's physical attacks and possible corrosive agents.</p>
+<p>Feeding occurs once every three days, overseen by remote-operated drones delivering live prey. All personnel are advised to remain at a safe distance during feeding times due to SCP-26999's increased aggression.</p>
+<p>In the event of a containment breach, Site-██ is to initiate lockdown procedures, and a specialized Mobile Task Force (MTF) is to be deployed for immediate recontainment.</p>
+<h3>Addendum 1: Incident Report ██/██/20██</h3>
+<p>On ██/██/20██, SCP-26999 breached containment for a period of 17 minutes before being subdued by MTF units. Fourteen casualties occurred. A review of containment protocols resulted in additional security measures and the current double-chamber system.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 26999-E27:</h4>
+<p>Objective: To assess SCP-26999's ability to manipulate objects while in flight.</p>
+<p>Materials: A set of objects of varying complexity, including a locked puzzle box, a simple toy, and an assembled firearm.</p>
+<p>Results: SCP-26999 ignored the toy, unlocked the puzzle box within 3 minutes, and disassembled the firearm in 5 minutes. The firearm was later found to have been reassembled incorrectly, rendering it inoperable.</p>
+<h4>Experiment 26999-E35:</h4>
+<p>Objective: To determine SCP-26999's maximum lifting capacity in flight.</p>
+<p>Materials: A range of weighted objects from 10 kg to 200 kg.</p>
+<p>Results: SCP-26999 lifted objects up to 150 kg with apparent ease. At 200 kg, it struggled significantly and eventually dropped the weight.</p>
+<h3>Addendum 3: Interview Log █████-██</h3>
+<p>Interviewed: Dr. ████████, leading researcher on SCP-26999</p>
+<p>Interviewer: Agent ██████</p>
+<p><Begin Log></p>
+<p>Agent ██████: Dr. ████████, can you provide us insight into your research with SCP-26999?</p>
+<p>Dr. ████████: Certainly. The Pterandsaur, as we've taken to calling it, is a remarkable specimen. While initially, we believed its intellect to be rudimentary, it has demonstrated learning and problem-solving abilities that challenge that assumption.</p>
+<p>Agent ██████: Can you elaborate on the "problem-solving abilities?"</p>
+<p>Dr. ████████: For instance, during Experiment 26999-E41, we observed SCP-26999 navigating a series of complex labyrinths with increasing efficiency. It's as if it's understanding and remembering the layout over time, improving on its subsequent attempts.</p>
+<p>Agent ██████: Has this intelligence manifested in other ways?</p>
+<p>Dr. ████████: Yes, it has shown an uncanny ability to predict and counter our containment strategies. It seems to understand its keeper's routines and has tried several times to exploit this knowledge during feeding and cleaning times.</p>
+<p>Agent ██████: That's quite concerning. How have these findings influenced containment protocols?</p>
+<p>Dr. ████████: We've had to implement a rotating schedule for staff and introduce more automated systems to minimize SCP-26999's ability to learn from us. Security measures have also been amped up to account for its problem-solving nature.</p>
+<p>Agent ██████: Thank you, Doctor. Your research could prove invaluable for future containment of similar entities.</p>
+<p><End Log> </p>
+<p>Following this interview, additional security protocols and psychological evaluation for all personnel interacting with SCP-26999 have been ratified.</p></div>
