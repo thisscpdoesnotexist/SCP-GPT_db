@@ -1,0 +1,58 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27067 is  a manhole filled with nothing but void, reaching down the end of the hole shows unspeakable things that can cause someone's death. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-27067</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-27067 is an anomalous manhole located in [REDACTED], England. The manhole cover, when removed, exposes a seemingly infinite void. Visual confirmation has not determined any bottom or surrounding structure within SCP-27067. Objects dropped into the void vanish without any detectable trace.</p>
+<p>Individuals who attempt to look directly into SCP-27067 report seeing disturbing and incomprehensible visions. These visions vary in content but are invariably described as "horrific" and "beyond understanding," leading to extreme psychological distress. Prolonged exposure to the sight of SCP-27067's interior has resulted in multiple instances of suicide, permanent psychosis, or unexplained disappearances.</p>
+<p>Surrounding the perimeter of SCP-27067 is a chalk-like substance of unknown composition, resistant to sampling or chemical analysis. Attempts to breach or disturb this substance have been met with hostility from the entity (designated SCP-27067-1) that manifests as a defense mechanism for SCP-27067. SCP-27067-1's appearance is variable, but it consistently presents a form that induces fear and disorientation in observers, further impeding containment efforts.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-27067's fixed position and hazardous nature, containment must be managed on-site. A standard 10m x 10m containment building with lead-lined walls has been constructed around SCP-27067 to prevent unauthorized access and visual exposure. The structure is disguised as a telecommunications installation to deter public interest.</p>
+<p>Personnel are strictly forbidden from viewing the interior of SCP-27067 without level 4 authorization and appropriate mental conditioning. Any observation of SCP-27067's void must be conducted via remote-operated drones fitted with artificial intelligence capable of filtering out cognitohazardous imagery.</p>
+<p>To minimize the risk of manifestation of SCP-27067-1, the perimeter is to be maintained by Class-D personnel who have been pre-screened for psychological resilience and have not been exposed to SCP-27067's interior. Class-D personnel are to be rotated on a monthly basis to avoid prolonged exposure to SCP-27067's passive anomalous effects.</p>
+<p>In the event of SCP-27067-1 manifestation, the facility is to engage lockdown procedures, and a specialized response team ("Void Walkers") is to be deployed with the aim of re-establishing containment. Any casualties incurred are to be documented and submitted to O5-Command for review.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27067 was initially discovered on [REDACTED] following a series of unexplained disappearances in the area. Local authorities reported the anomaly after an officer was lost during preliminary investigations. The Foundation was alerted, and containment was established shortly thereafter.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li><strong>Experiment 27067-E1</strong></li>
+<li><strong>Objective:</strong> To determine if physical objects are transported or destroyed upon entering SCP-27067</li>
+<li><strong>Procedure:</strong> A steel sphere, equipped with a tracking device, was dropped into SCP-27067.</li>
+<li><strong>Results:</strong> The signal from the tracking device was lost immediately upon entry. No recoverable data.</li>
+<li>
+<p><strong>Notes:</strong> It seems that SCP-27067 may either destroy objects or transport them to a place we cannot track.</p>
+</li>
+<li>
+<p><strong>Experiment 27067-E2</strong></p>
+</li>
+<li><strong>Objective:</strong> To assess the psychological effect of SCP-27067's void on AI.</li>
+<li><strong>Procedure:</strong> An advanced AI was tasked to analyze the void while simulating human psychological profiles.</li>
+<li><strong>Results:</strong> The AI ceased function within minutes, with last output being "DATA UNRECOGNISABLE: HAZARD IMMINENT"</li>
+<li><strong>Notes:</strong> Even non-biological observers seem to be at risk. Further tests on non-organic entities are suspended.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<ul>
+<li><strong>Interviewed:</strong> Dr. [REDACTED], a researcher assigned to SCP-27067</li>
+<li><strong>Interviewer:</strong> Dr. [REDACTED], Site-███ psychologist</li>
+<li><strong><Begin Log></strong></li>
+</ul>
+<p><strong>Dr. [REDACTED]:</strong> "You claim you heard whispers coming from SCP-27067?"</p>
+<p><strong>Dr. [REDACTED]:</strong> "Whispers... that's downplaying it. It's like a thousand voices, all at once, each one telling you something different, something vile."</p>
+<p><strong>Dr. [REDACTED]:</strong> "And these voices had no discernible source? No patterns or language?"</p>
+<p><strong>Dr. [REDACTED]:</strong> "No language I've ever heard, or would want to understand. But there was a pattern. They were... seductive. They lured you in, promised things—"</p>
+<p><strong>Dr. [REDACTED]:</strong> "Doctor, please focus on the factual—"</p>
+<p><strong>Dr. [REDACTED]:</strong> "Factual? You think you can quantify this? You didn't see what I saw in the data! This isn't just another skip; this is a gateway to something else—we might as well call it hell."</p>
+<p><strong>Dr. [REDACTED]:</strong> "That's quite enough, Doctor. I think—"</p>
+<p>-(At this point, the interview was terminated as Dr. [REDACTED] grew increasingly agitated and had to be sedated. Further interviews have been suspended.)</p>
+<ul>
+<li><strong><End Log></strong></li>
+</ul>
+<p>Note: SCP-27067's effects on the human psyche are of grave concern. All further interactions must be approached with utmost caution. Extensive mental health evaluations are mandatory for personnel involved in experimentation or containment.</p></div>
