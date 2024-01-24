@@ -1,0 +1,41 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27070 is  a genetic disorder called "Anime Protagonist Syndrome" </h3> </center>
+    <h1>SCP-27070</h1>
+<h3>Item #:</h3>
+<p>SCP-27070</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-27070 is classified as a memetic-genetic phenomenon manifesting as a heritable disorder termed "Anime Protagonist Syndrome" (APS). Affected individuals ("instances") exhibit a range of anomalous characteristics and abilities frequently aligned with common tropes observed in Japanese animation (anime). These traits include, but are not limited to, abnormally colored hair, significant increases in physical strength, agility and endurance, the sudden acquisition of unique abilities or "powers," inexplicably dramatic personal narratives, and a marked tendency to become the focal point of sociopolitical events.</p>
+<p>Instances of SCP-27070 display an intangible ability to alter probability fields around them, effectively ensuring outcomes that benefit them or align with narrative conventions associated with anime protagonists. This can include the spontaneous generation of "rivals," the attraction of loyal companions, and the ability to recover from injuries or setbacks in a manner that defies conventional science.</p>
+<p>SCP-27070 appears to be highly contagious through social and electronic media exposure, particularly when individuals engage in the consumption of anime or manga depicting typical protagonist archetypes. SCP-27070 is not fully understood but has been deemed Keter class due to its potential implications on global society and culture, as well as its exponential spread via modern digital connectivity.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the complexity of SCP-27070's transmission vector, a multi-pronged approach to containment has been authorized:</p>
+<ol>
+<li>A disinformation campaign, denoted as Operation NORMANIME, has been established to discredit reports of SCP-27070 instances as hoaxes or fabrications.</li>
+<li>Foundation-operated web crawlers have been tasked with the detection and suppression of SCP-27070-related content on social media and streaming platforms, focusing on high-risk anime and manga.</li>
+<li>Individuals confirmed to be instances of SCP-27070 are to be covertly apprehended and contained at Site-███, which is equipped with specialized narrative disruption technology to mitigate their memetic influence.</li>
+<li>Research into potential genetic therapies and memetic inoculations is ongoing, with cross-disciplinary teams stationed at Bio-Site-19.</li>
+</ol>
+<p>Due to SCP-27070's elusive nature and potential for widespread exposure, any personnel witnessing signs of emergent APS traits in themselves or others are to report immediately for psychological and genetic screening.</p>
+<h3>Addendum 1: Interview Log</h3>
+<p>Interview Log 27070-█ was conducted following the discovery of SCP-27070-A, a 17-year-old male who successfully repelled an armed robbery with alleged "telekinetic abilities" at a local convenience store in Tokyo, Japan.</p>
+<p>(For brevity, the full transcript of the interview has been omitted. Key details include SCP-27070-A's account of acquiring "powers" following a year-long binge of a popular fighting anime, his apparent ignorance of the anomalous nature of his actions, and a pattern of serendipitous events leading to his status as a "local hero.")</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p>Experiment SCP-27070-E-17</p>
+<ul>
+<li>Subject: D-4271</li>
+<li>Procedure: D-4271 was exposed to approximately 100 hours of curated anime content, centered around the shōnen genre.</li>
+<li>Results: After 72 hours, D-4271 began to express confidence in possessing "hidden abilities." At 96 hours, D-4271 reported an increase in physical strength, later confirmed by standardized Foundation testing. D-4271 was able to lift approximately 180% of their prior maximum weight.</li>
+<li>Notes: The rapid onset of SCP-27070's effects in this case warrants further investigation into the potential variables affecting conversion rate and potency.</li>
+</ul>
+<p>(Additional experiment logs show variable responses from D-Class subjects, ranging from no effects, minor physical alterations, all the way to one subject manifesting control over low-level electrical currents.)</p>
+<h3>Addendum 3: Containment Breach Report</h3>
+<p>On ██/██/████, a containment breach occurred at Site-███, resulting in SCP-27070 instances temporarily forming a coalition against Foundation personnel, echoing an "alliance of protagonists" narrative. The breach was resolved after 16 hours, with the assistance of MTF Epsilon-11 ("Nine-Tailed Fox"), employing counter-narrative gas to disperse the coalition. A review of containment protocols for SCP-27070 was initiated, and additional narrative disruption measures were implemented.</p>
+<p>(An in-depth report on the containment breach, including a casualty list, resource expenditures, and subsequent protocol revisions, has been attached to this document in a separate classified annex.)</p></div>
