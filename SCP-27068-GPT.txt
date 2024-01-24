@@ -1,0 +1,62 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27068 is  a genetic disorder that results in the target having unnatural hair colors and being subject to incredibly contrived anime-esque storylines. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-27068</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-27068 is a genetic anomaly that manifests in human subjects, resulting in the alteration of hair pigmentation to unnatural colors not typically found in human genetics, such as bright blues, greens, purples, and pinks. Subjects with this condition are colloquially referred to as "instances" of SCP-27068.</p>
+<p>Beyond the cosmetic manifestation, SCP-27068 has a more insidious effect; affected individuals (hereafter referred to as SCP-27068-1) find themselves involuntarily drawn into highly improbable, complex, and dramatic situations reminiscent of Japanese animation (anime) narratives. These situations frequently defy logical explanation and often involve fantastical elements, such as encounters with entities of extra-dimensional origin, reality-distorting occurrences, engagements in grandiose battles that disregard the laws of physics, and involvement in intricate plots of exaggerated emotional or philosophical depth.</p>
+<p>To date, the source of SCP-27068's transmission remains unknown. Genetic tracing has been inconclusive in pinpointing a "patient zero," and the contagion’s mechanism does not follow typical inheritance patterns. Researchers are investigating a viral, memetic, or extra-dimensional origin for the anomaly.</p>
+<p>Due to the unpredictable nature of the narratives SCP-27068-1 instances become entangled in, containing the effects of SCP-27068 poses significant difficulty. Narratives can result in considerable collateral damage and public exposure to anomalous events, complicating containment efforts.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Individuals identified as SCP-27068-1 are to be contained in specialized Living Quarters with reality stabilization technology at Site-██. Each Living Quarters is designed to minimize exposure to external stimuli that may trigger SCP-27068 narrative progression. Access to media, especially anime, manga, and related genres, is strictly prohibited.</p>
+<p>Field agents embedded in hair salons, schools, and social media networks are tasked to report and monitor potential SCP-27068-1 instances. Upon confirmation, SCP-27068-1 instances are to be discreetly apprehended and transported to containment facilities.</p>
+<p>During transport, SCP-27068-1 instances must be sedated to prevent the onset of SCP-27068-induced narratives. A Mobile Task Force specialized in disinformation ("The Critics") is on standby to tackle any public exposure and administer Class-B amnestics if necessary.</p>
+<p>Research is ongoing to develop a cure or method to neutralize SCP-27068. Furthermore, a separate team is tasked with investigating potential patterns or triggers in SCP-27068 narrative events to forecast and prevent large-scale manifestations.</p>
+<h3>Addendum 1:</h3>
+<p>[REDACTED: Containment Breach Incident Report]</p>
+<h3>Addendum 2:</h3>
+<h3>Experiment Log:</h3>
+<ul>
+<li>
+<p><strong>Experiment 27068-E-01:</strong>
+  <strong>Objective:</strong> Determine if SCP-27068-1 instances can induce narrative events in a controlled environment.
+  <strong>Procedure:</strong> SCP-27068-1 was placed in a mock high school setting with D-class personnel posing as students.
+  <strong>Results:</strong> SCP-27068-1 became the center of a rapidly escalating series of events culminating in a flash mob singing contest. Adjoining containment facilities reported minor reality fluctuations. No injuries, E-class personnel were amnesticized post-event.</p>
+</li>
+<li>
+<p><strong>Experiment 27068-E-02:</strong>
+  <strong>Objective:</strong> Assess the narrative influence of popular anime tropes on SCP-27068-1 instance.
+  <strong>Procedure:</strong> Various anime-related objects were introduced in SCP-27068-1's containment unit.
+  <strong>Results:</strong> Introduction of a 'magical girl' wand toy resulted in SCP-27068-1 manifesting an energy-based transformation sequence and expressing a compulsion to "fight for love and justice" until the object was removed.</p>
+</li>
+<li>
+<p><strong>Experiment 27068-E-03:</strong>
+  <strong>Objective:</strong> Observe the impact of isolation on SCP-27068 narrative complications.
+  <strong>Procedure:</strong> SCP-27068-1 was isolated in a standard containment cell for 72 hours.
+  <strong>Results:</strong> SCP-27068-1 experienced vivid hallucinations consistent with a 'trapped in another world' trope, attempting to escape containment by 'defeating the demon lord.' Further isolation is deemed unnecessary and potentially harmful to subjects' mental health.</p>
+</li>
+</ul>
+<h3>Addendum 3:</h3>
+<h3>Interview Log:</h3>
+<p><strong>Interviewer:</strong> Dr. █████
+<strong>Interviewee:</strong> SCP-27068-1 ("Yukari")
+<strong><Begin Log></strong></p>
+<p>Dr. █████: Good morning, Yukari. How are you feeling today?</p>
+<p>Yukari: As well as I can be, I guess... considering everything.</p>
+<p>Dr. █████: Can you describe the events that led to your containment?</p>
+<p>Yukari: It's all so absurd... One day, I just woke up with this... this wild pink hair. And then, weird things started happening around me. People getting into duels, secret societies courting me, suddenly developing strange powers... It was like my life turned into an anime.</p>
+<p>Dr. █████: And how do you feel about these events?</p>
+<p>Yukari: Terrified. I never know what's going to happen next or if I'll get hurt—or worse, if others will. I just want it all to stop.</p>
+<p>Dr. █████: We're working on a way to help you, Yukari. In the meantime, can you try to remember if there was anything, in particular, that seemed to trigger these... episodes?</p>
+<p>Yukari: It's hard to tell. Sometimes, it's something I say, sometimes it's things I touch... it could be anything. I'm sorry; I wish I could be more helpful.</p>
+<p>Dr. █████: That's alright; your cooperation is enough. Thank you.</p>
+<p><strong><End Log></strong></p>
+<p><em>Note: Further research into possible triggers for SCP-27068 narratives is essential to improving containment protocols and minimizing risks.</em></p></div>
