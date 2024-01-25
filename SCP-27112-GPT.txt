@@ -1,0 +1,47 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27112 is  Derek, from the planet Derekulon, here to clear dungeons of jerks and loot them for their cocoa  </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-27112</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-27112, self-identified as 'Derek' from a planet called 'Derekulon,' is a humanoid entity of indeterminate origin. SCP-27112 demonstrates an exclusive diet of cocoa and claims to have traveled to Earth for the sole purpose of 'clearing dungeons of jerks' and obtaining this resource. Despite its benign self-description, SCP-27112 has shown itself to be exceedingly dangerous due to its reality-warping abilities and an aggressive demeanor toward individuals it classifies as 'jerks.'</p>
+<p>SCP-27112 is physically remarkable for its skin, which appears to shimmer with a metallic golden hue. It is approximately 2 meters in height and communicates through a previously unknown language, though it has demonstrated the ability to learn and speak English fluently within hours of exposure.</p>
+<p>The potential range of SCP-27112's abilities includes but is not limited to: teleportation, telekinesis, and instantaneous disintegration of targeted objects or beings. Due to the unpredictable nature of these abilities, SCP-27112 has been classified as Keter and requires advanced containment measures.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27112 is to be contained in a custom, high-security cell at Site-██. The containment cell is to be a reinforced cube with dimensions no smaller than 10m x 10m x 10m, composed of a layered structure of lead, carbon-fiber, and a telekill-alloy to prevent any use of its reality-warping abilities. All interactions with SCP-27112 must be conducted through a remote interface system, and no cocoa products are to be allowed within a 500m radius of the containment area, as these may agitate the subject or enhance its capabilities.</p>
+<p>A dedicated task force, codenamed "Derekulon Watchers" (DW), is assigned to SCP-27112 and is responsible for daily monitoring and response to any containment breaches. To minimize the motivation for escape, SCP-27112 is to be provided with a synthetic cocoa substitute twice daily, which has been found to be sufficient to keep it docile.</p>
+<p>All personnel assigned to SCP-27112 must undergo rigorous mental conditioning to resist its manipulative tendencies and to ensure that they do not perform any actions that SCP-27112 could perceive as the behavior of a 'jerk.' All personnel must adhere strictly to protocol to mitigate the risk of unintended aggression from SCP-27112.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 27112-E-001</strong>
+- <strong>Purpose:</strong> To test the limits of SCP-27112's reality-warping abilities.
+- <strong>Procedure:</strong> A steel cube measuring 1m³ was placed in containment with SCP-27112.
+- <strong>Result:</strong> SCP-27112 disintegrated the cube without physical contact after vocalizing a series of syllables from its own language.
+- <strong>Notes:</strong> SCP-27112 appears to require verbal component to activate its abilities, further study recommended.</p>
+<p><strong>Experiment 27112-E-007</strong>
+- <strong>Purpose:</strong> To assess SCP-27112's teleportation range.
+- <strong>Procedure:</strong> A tracking device was affixed to SCP-27112 during a brief containment breach.
+- <strong>Result:</strong> SCP-27112 teleported approximately 200 kilometers from Site-██ before being re-contained. Tracking device ceased transmission after teleportation.
+- <strong>Notes:</strong> Previous assumptions underestimated SCP-27112's teleportation capacities. Recommend upgrading global tracking protocols and emergency response measures.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interview Log - Date: [REDACTED]</strong></p>
+<p><em>Foreword: Dr. ██████ conducted the following interview with SCP-27112 to gain further insight into its origin and motivations.</em></p>
+<p><strong>Dr. ██████:</strong> Good morning, SCP-27112, or may I call you 'Derek'?</p>
+<p><strong>SCP-27112 ("Derek"):</strong> Derek is fine, Doc.</p>
+<p><strong>Dr. ██████:</strong> Thank you. We'd like to understand more about where you come from. Can you tell us about Derekulon?</p>
+<p><strong>SCP-27112:</strong> Derekulon is home! Much cocoa, very peaceful. No jerks.</p>
+<p><strong>Dr. ██████:</strong> I see. And what exactly do you mean by 'jerks'?</p>
+<p><strong>SCP-27112:</strong> Not Derek. Not kind. Take cocoa, make trouble. Jerks.</p>
+<p><em>The remainder of the interview transcript is classified Level 4 and above.</em></p>
+<h3>Addendum 3: Additional Notes</h3>
+<ul>
+<li>SCP-27112 appears to operate under a strict moral code, albeit one not entirely understood by the Foundation.</li>
+<li>Access to cocoa has been strictly limited, as it is believed to serve as some form of power enhancer for SCP-27112.</li>
+<li>Ongoing observations have revealed SCP-27112 vocalizing to what it refers to as 'the spirits of Derekulon.' The significance and impact of this behavior have yet to be fully determined. Further psychological evaluation and linguistic analysis are ongoing.</li>
+</ul></div>
