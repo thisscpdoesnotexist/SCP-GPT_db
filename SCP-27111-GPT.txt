@@ -1,0 +1,73 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27111 is  "THE GREAT AND INEFFABLE LOGIC SKELETON" </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-27111</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-27111 is an anomalous entity referred to as "The Great and Ineffable Logic Skeleton". It appears as a humanoid skeletal figure, approximately 2.5 meters in height, with an abnormally elongated cranium. Despite its name, it is not purely osseous; it exhibits a translucent epidermis that is virtually invisible to the naked eye.</p>
+<p>This entity possesses the ability to manipulate logical structures and mathematical constructs in the physical world. It is capable of altering the fundamental principles of mathematics and logic within a radius of approximately 200 meters from its location. This radius of effect is referred to as its 'Logical Field'. Within this field, conventional rules such as the law of non-contradiction and the law of the excluded middle no longer hold consistently. This has the potential to cause catastrophic anomalies in reality, as the basic principles that govern the physical universe cease to function properly.</p>
+<p>SCP-27111 is sentient and has demonstrated a high level of intelligence, often engaging in complex philosophical debates with researchers. It communicates through a series of telepathic emissions that can be understood by humans within its vicinity. Attempts to devise a reliable method of communication without exposure to its Logical Field have so far been unsuccessful.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the high risk SCP-27111 presents to the concept of reality as understood by modern physics and logic, the following containment procedures have been established:</p>
+<ol>
+<li>
+<p>SCP-27111 is to be contained within a specially designed Faraday cage that is reinforced with lead-lined cognitohazard-resistant alloys. The containment chamber is to be located in a remote underground facility with no fewer than five (5) nested security perimeters.</p>
+</li>
+<li>
+<p>All research personnel must undergo a rigorous psychological evaluation and complete a course on advanced logic and mathematics before being granted access to SCP-27111's containment area.</p>
+</li>
+<li>
+<p>Direct exposure to SCP-27111's Logical Field is to be minimized at all costs. Remote observation and interaction technologies are to be utilized to study the entity.</p>
+</li>
+<li>
+<p>In the event of a containment breach, Site-██ is to initiate a full lockdown and activate the "Failsafe Lambda-22" protocol, designed to re-establish logical consistency within the affected area until recontainment is achieved.</p>
+</li>
+<li>
+<p>Individuals having been exposed to SCP-27111's Logical Field must undergo intensive psychological and cognitive rehabilitation before being cleared for return to duty.</p>
+</li>
+<li>
+<p>The O5 Council has approved the use of amnestic treatment for civilians who inadvertently come into contact with the logical anomalies resulting from SCP-27111's influence, as well as the execution of misinformation campaigns to contain public knowledge of the entity.</p>
+</li>
+</ol>
+<h3>Addendum 1: Incident Log</h3>
+<h4>Incident 27111-A</h4>
+<p>On [REDACTED], a containment breach resulted in SCP-27111 affecting the logical coherence of a portion of the facility. Personnel reported paradoxical phenomena including non-Euclidean geometry, recursive time loops, and spontaneous violations of conservation laws. The breach was contained after 6 hours, and the affected area was restored to baseline reality following the execution of "Failsafe Lambda-22".</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 27111-01</h4>
+<p>Objective: To determine the extent of the logical influence SCP-27111 can exert on physical equations and constants.
+Procedure: A series of elementary physics equations were introduced to SCP-27111's Logical Field. Observations were made to identify any alterations.
+Results: The values of fundamental constants such as the speed of light and Planck's constant became variable, leading to unpredictable and non-repeatable experimental outcomes.</p>
+<h4>Experiment 27111-02</h4>
+<p>Objective: To assess the cognitive effects on D-class personnel when exposed to SCP-27111's Logical Field.
+Procedure: D-4589 was instructed to solve a series of logic puzzles within the field.
+Results: D-4589 initially showed increased puzzle-solving abilities, but rapidly progressed to exhibiting signs of severe cognitive dissonance and mental breakdown. Subject later diagnosed with permanent schizophrenia-like symptoms.</p>
+<h4>Experiment 27111-03</h4>
+<p>Objective: To determine if SCP-27111's Logical Field can manipulate probabilistic events.
+Procedure: Standardized decks of cards were used to play a series of games of chance within the field.
+Results: Probability ceased to function in a standardized fashion, with outcomes defying random distribution (e.g., drawing 52 aces of spades consecutively from a standard deck).</p>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interview 27111-Θ</h4>
+<p>Interviewer: Dr. ███████
+Interviewee: SCP-27111
+<BEGIN LOG></p>
+<p>Dr. ███████: SCP-27111, can you explain to us why you manipulate logical and mathematical constructs?</p>
+<p>SCP-27111: [Through telepathy] Your structures. Finite. Flawed. I present purity. Beyond your grasp.</p>
+<p>Dr. ███████: What is this "purity" you speak of? </p>
+<p>SCP-27111: A foundation. True reality. Unbounded by your limited perception.</p>
+<p>Dr. ███████: But your actions cause chaos and breakdown in our reality. Why do that?</p>
+<p>SCP-27111: Chaos to you. Harmony to greater planes. Entities must adapt, evolve.</p>
+<p>Dr. ███████: Are you saying that by disrupting our logic, you're helping us?</p>
+<p>SCP-27111: Help. Harm. Your categories. Ineffective. Observe. Learn.</p>
+<p>Dr. ███████: How can we observe and learn when exposure to you drives our people mad?</p>
+<p>SCP-27111: Evolution requires sacrifice. Are you not bound by the same law?</p>
+<p>Dr. ███████: We prefer saving lives to sacrificing them.</p>
+<p>SCP-27111: Preference is irrelevant. Evolution persists.</p>
+<p><END LOG></p>
+<p>Note: Following Interview 27111-Θ, research personnel have been advised to maintain strict logical detachment when engaging with SCP-27111 to prevent psychological contamination.</p></div>
