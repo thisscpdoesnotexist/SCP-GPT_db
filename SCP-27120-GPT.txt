@@ -1,0 +1,62 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27120 is  an incredibly fragile egg containing the universe, and if it ever breaks, well, you know... </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-27120</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-27120 appears to be an orbicular object, visually resembling an avian egg. It measures approximately 15 cm in length and has a prismatic surface, emitting a faint luminescence encompassing the entire visible spectrum. While the object's external layer resembles a fragile eggshell, it has hitherto proven impervious to any attempts at sampling or penetrating it with current technological means. SCP-27120 levitates exactly 1 meter above any surface it is placed upon. Its most significant feature is what has been observed through non-invasive imaging techniques; it seems to contain a microcosm resembling our observable universe. </p>
+<p>It is hypothesized that a direct correlation exists between the microcosm within SCP-27120 and our own universe, positing the potential for catastrophic consequences should SCP-27120 sustain damage. However, these claims are, to date, speculative as no direct experimentation with the object’s integrity has been approved due to the likelihood of an XK-class end-of-the-world scenario.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27120 is contained within a specialized suspension field in the center of a 10m x 10m x 10m containment chamber lined with 5m-thick reinforced concrete and a secondary layer of impact-absorbing material. The containment chamber is situated in a secluded zone within Site-██, far from tectonic activity and shielded from electromagnetic interference. Access is strictly prohibited to all personnel below Level 4 clearance, and any interaction with SCP-27120 must be approved by no fewer than two O5 Council members.</p>
+<p>A round-the-clock monitoring system is in place to immediately flag any deviations in SCP-27120's behavior, including but not limited to fluctuations in luminosity, alterations in levitation height, and signs of material degradation. In the event of a containment breach or damage to SCP-27120, a site-wide alert is to be issued, and all available Mobile Task Forces are to be deployed to implement immediate recontainment measures.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27120 was discovered in ████████, following reports of a 'haunted relic' within an ancient temple. The local mythology described the relic as "the Egg of Creation," a divine object upon which the fate of the cosmos rested. Foundation operatives secured the anomaly after neutralizing a religious sect that worshipped the object and prevented initial containment. Class-B amnestics were administered to witnesses, and a cover story involving a gas explosion was disseminated to conceal the operation.</p>
+<h3>Addendum 2: Experiment Log Summary</h3>
+<h4>Experiment 27120-E-01</h4>
+<ul>
+<li><strong>Objective:</strong> Determine if gravitational forces affect SCP-27120.</li>
+<li><strong>Procedure:</strong> Increase the gravity within the chamber by a factor of 10 using localized gravity generators.</li>
+<li><strong>Results:</strong> SCP-27120's levitation height unchanged.</li>
+<li><strong>Notes:</strong> Object unaffected by changes in gravity. Possible reality anchoring properties?</li>
+</ul>
+<h4>Experiment 27120-E-02</h4>
+<ul>
+<li><strong>Objective:</strong> Test the integrity of SCP-27120's surface.</li>
+<li><strong>Procedure:</strong> Attempt to obtain a sample using a diamond drill.</li>
+<li><strong>Results:</strong> Drill damaged, SCP-27120 unharmed.</li>
+<li><strong>Notes:</strong> Confirms SCP-27120's external layer is beyond our current means to sample or breach.</li>
+</ul>
+<h4>Experiment 27120-E-03</h4>
+<ul>
+<li><strong>Objective:</strong> Observe SCP-27120's reaction to extreme temperatures.</li>
+<li><strong>Procedure:</strong> Expose SCP-27120 to temperatures ranging from -200°C to 1000°C.</li>
+<li><strong>Results:</strong> No change in SCP-27120's temperature, luminosity, or levitation height observed.</li>
+<li><strong>Notes:</strong> SCP-27120 could have potent thermal insulation properties or an independent thermodynamic system.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interview Log 27120-L-01</h4>
+<ul>
+<li><strong>Interviewer:</strong> Dr. ██████</li>
+<li><strong>Interviewee:</strong> Former High Priest of the sect, [REDACTED]</li>
+<li><strong>Foreword:</strong> The only cooperative member of the sect, the individual claims historical knowledge regarding SCP-27120's origin and significance.</li>
+</ul>
+<p>[TRANSCRIPT BEGIN]</p>
+<p><strong>Dr. ██████:</strong> Tell us about the 'Egg of Creation.'</p>
+<p><strong>[REDACTED]:</strong> It is the cradle of the stars. The vessel of time's river. Long ago, the gods left it as a testament to their work – and as a warning.</p>
+<p><strong>Dr. ██████:</strong> A warning of what?</p>
+<p><strong>[REDACTED]:</strong> That life is a delicate weave. The universe is a song, and the Egg... it is the instrument. Should the melody falter and the shell crack, the song will end, and so shall everything.</p>
+<p><strong>Dr. ██████:</strong> So you believe that SCP-27120 is... connected to our universe?</p>
+<p><strong>[REDACTED]:</strong> I do not believe, Doctor. I know. We have seen the omens. The Egg has shown us visions.</p>
+<p><strong>Dr. ██████:</strong> Visions? Can you describe them?</p>
+<p><strong>[REDACTED]:</strong> Only in the whispers from one's own soul. They are the truths seen not with eyes, but with the heart.</p>
+<p>[TRANSCRIPT END]</p>
+<ul>
+<li><strong>Closing Notes:</strong> The interviewee did not provide any concrete information regarding SCP-27120's properties. All further attempts to gather useful data from the sect members have resulted in platitudes and obscure allegories. Further research and observation are imperative to understanding SCP-27120's true nature and capabilities.</li>
+</ul></div>
