@@ -1,0 +1,57 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27119 is  the last known copy of the movie Goncharov, by Martin Scorsese. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-27119</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-27119 is a VHS tape containing the film "Goncharov," allegedly directed by Martin Scorsese in 1973. The item appears to be a standard black plastic VHS casing with a paper insert displaying the title "Goncharov" in stylized font typical of 1970s film posters. There is a noticeable absence of production company logos or MPAA ratings on the casing.</p>
+<p>The movie "Goncharov" itself is an urban crime drama set in Naples, Italy, featuring a cast of characters involved in organized crime, betrayal, and revenge. The style of the film is consistent with known work by Martin Scorsese from that era, with thematic and stylistic elements similar to those of "Mean Streets" (1973) and "Taxi Driver" (1976). The film's running time is approximately 150 minutes.</p>
+<p>Extensive research reveals no existence of "Goncharov" outside SCP-27119. No records exist of its production or release, no other physical copy has been found, and individuals typically associated with Scorsese's films have no recollection of the movie.</p>
+<p>When viewed, subjects report that the film is of high quality and consistent with the director's known work. However, digital reproduction of the footage has proved impossible; all attempts have resulted in corrupted files that depict nothing but static.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27119 is to be contained in a standard secure locker at Site-██. Access to SCP-27119 is restricted to Level 2 personnel and above, and viewing of the film for research purposes must be approved by at least one Level 3 Researcher.</p>
+<p>To prevent degradation of the magnetic tape, SCP-27119 must be rewound and played in its entirety at least once every six months. Proper VHS maintenance and handling are to be strictly observed during these viewings. If any physical degradation of SCP-27119 is observed, a full report is to be filed with the Archival Department for potential preservation actions.</p>
+<p>Despite SCP-27119's 'Safe' classification, personnel are advised to approach the film with caution due to its anomalous nature and the potential psychological effects prolonged exposure to unexplained phenomena may induce.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 27119-A</h4>
+<ul>
+<li><strong>Objective:</strong> To verify if SCP-27119 can be copied.</li>
+<li><strong>Procedure:</strong> Attempt to duplicate the film using digital recording equipment.</li>
+<li><strong>Result:</strong> All digital copies were corrupted and displayed only static. Audio equipment picked up only white noise.</li>
+</ul>
+<h4>Experiment 27119-B</h4>
+<ul>
+<li><strong>Objective:</strong> To assess the reaction of D-class personnel after viewing the film.</li>
+<li><strong>Procedure:</strong> Subjects were placed in a secure viewing room and monitored as they watched SCP-27119.</li>
+<li><strong>Result:</strong> Subjects reported a high degree of enjoyment and detailed scenes, characters, and dialogues consistent with the work of Martin Scorsese. No adverse effects observed.</li>
+</ul>
+<h4>Experiment 27119-C</h4>
+<ul>
+<li><strong>Objective:</strong> To determine if SCP-27119's effects are consistent across different subject backgrounds.</li>
+<li><strong>Procedure:</strong> Subjects with varying degrees of familiarity with Martin Scorsese's filmography were exposed to SCP-27119.</li>
+<li><strong>Result:</strong> Regardless of prior knowledge, all subjects concur on film content and quality. Anomalous inability to reproduce or prove the existence of "Goncharov" noted.</li>
+</ul>
+<h3>Addendum 2: Interview Log</h3>
+<p><em>Interviewed: [Subject D-27119-4]</em>
+<em>Interviewer: [Dr. █████]</em>
+<em><Begin Log, [YY/MM/DD]></em></p>
+<p><strong>Dr. █████:</strong> Please describe your experience while viewing SCP-27119.</p>
+<p><strong>D-27119-4:</strong> It was like watching any other old gangster movie, but I swear it felt familiar. Like I'd seen it before, even though I know I haven't.</p>
+<p><strong>Dr. █████:</strong> Can you recall specific details about the film?</p>
+<p><strong>D-27119-4:</strong> Yeah, there was this intense scene in a place called "The Iceberg Lounge," real dramatic-like. Some bloke gets whacked after a game of cards goes wrong. Thick atmosphere, and everyone's paranoid.</p>
+<p><strong>Dr. █████:</strong> Thank you. Have you experienced any lingering effects or thoughts about the film since the viewing?</p>
+<p><strong>D-27119-4:</strong> Not really. It's just a movie, right? Though I gotta say, it's weird that there's no other copy of it.</p>
+<p><em><End Log, [YY/MM/DD]></em></p>
+<h3>Addendum 3: Additional Notes</h3>
+<ul>
+<li>Further historical research into the alleged release year of "Goncharov" has turned up several obscure references in film enthusiast circles to a "lost Scorsese masterpiece" that scholars have been unable to substantiate.</li>
+<li>A full transcript of the film's dialogue and a detailed scene breakdown have been created for archival purposes should SCP-27119 degrade beyond repair.</li>
+<li>The psychological impact of prolonged exposure to the film is subject to ongoing research, centering on whether the familiarity reported by subjects is a planted memory, an emotional response to thematic resonance, or an undiscovered property of SCP-27119 itself.</li>
+</ul></div>
