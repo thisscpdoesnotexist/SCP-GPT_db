@@ -1,0 +1,55 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27139 is  the devouring mother </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-27139</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-27139, referred to as "The Devouring Mother", is a sentient entity with the appearance of a middle-aged woman. However, her typical humanlike visage is a facade; underneath lies a constantly shifting mass of organic and inorganic components. SCP-27139 measures approximately 2 meters in height when adopting a humanoid form, but its mass and volume can vary greatly during manifestation of its anomalous properties.</p>
+<p>SCP-27139's primary anomaly revolves around its ability to 'devour' both living organisms and nonliving matter, integrating them into its own form. It absorbs matter through an orifice resembling a mouth that appears anywhere on its body; this process is instantaneous and leaves no trace of the consumed material. Following absorption, SCP-27139 can alter its shape, density, and even chemical composition to mimic the devoured objects or organisms with perfect fidelity, effectively 'becoming' them if so wished.</p>
+<p>Subjects consumed by SCP-27139 do not reappear and are considered lost. The process by which SCP-27139 assimilates matter is not well understood, as it leaves no residual energy signatures or particulate matter that can be analyzed.</p>
+<p>SCP-27139 displays a high level of intelligence and emotional complexity, often expressing sadness or yearning before consumption events. However, the entity is extremely dangerous and unpredictable, particularly when provoked or attempting to consume large-scaled objects or organisms.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-27139's dangerous capabilities and high intelligence, it is to be contained within a 10m x 10m x 10m containment chamber composed of a 1m-thick reinforced steel lined with a secondary layer of lead and a tertiary layer of carbon-fiber-reinforced polymer to prevent potential breaches through consumption. There are to be no physical entrances or exits to SCP-27139's containment chamber.</p>
+<p>SCP-27139's containment chamber is to be suspended within a larger holding room by electromagnetic fields to minimize contact with surfaces that SCP-27139 could potentially assimilate. Any necessary interactions with SCP-27139, including communication, feeding, or experimentation, must be conducted via remotely operated drones capable of withstanding its consumption ability.</p>
+<p>A detachment of no fewer than six (6) armed guards with specialized containment gear are to be stationed within the larger holding room at all times in case of containment breach.</p>
+<p>In the event of a containment breach or attempted breach by SCP-27139, the containment facility is to be locked down, and a specialized response team is to be deployed to recontain or neutralize the entity.</p>
+<h3>Addendum 1: Incident Log</h3>
+<p>On [REDACTED], SCP-27139 attempted to breach containment by absorbing and mimicking the structure of its containment chamber's wall. The entity was observed altering its form into a pseudo-liquid state, seeping into minute crevices within the chamber materials. The attempt was thwarted by emergency application of containment protocol Delta-5 ("Molecular Stasis"), whereby the containment chamber was flooded with a rapid-hardening resin, temporarily immobilizing SCP-27139 until containment could be reestablished.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 27139-A</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Objective:</strong> To ascertain the limitations of SCP-27139's consumption ability.</li>
+<li><strong>Procedure:</strong> A steel cube measuring 0.5m x 0.5m x 0.5m was introduced to SCP-27139's containment via a remotely operated drone.</li>
+<li><strong>Results:</strong> SCP-27139 consumed the cube within approximately 3.7 seconds. Entity then assumed a cubic form identical to the introduced object for 17 minutes before reverting back to its humanoid facade.</li>
+</ul>
+<h4>Experiment 27139-B</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Objective:</strong> To observe SCP-27139's behavior with live organic matter.</li>
+<li><strong>Procedure:</strong> A D-class personnel, under heavy sedation, was introduced to the containment chamber.</li>
+<li><strong>Results:</strong> SCP-27139 approached the D-class with what appeared to be caution, vocalizing distress before consuming the subject. No attempts were made by SCP-27139 to replicate the D-class personnel post-consumption.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interview 27139-4</h4>
+<ul>
+<li><strong>Interviewer:</strong> Dr. [REDACTED]</li>
+<li><strong>Subject:</strong> SCP-27139</li>
+<li><strong>Excerpt:</strong></li>
+</ul>
+<p><strong>Dr. [REDACTED]:</strong> "Can you communicate your intentions or desires to us, SCP-27139?"</p>
+<p><strong>SCP-27139:</strong> (nodding slowly) "Consume. Become."</p>
+<p><strong>Dr. [REDACTED]:</strong> "Why do you need to consume?"</p>
+<p><strong>SCP-27139:</strong> "Necessity. Hunger. Never-ending."</p>
+<p><strong>Dr. [REDACTED]:</strong> "What is the purpose behind becoming what you consume?"</p>
+<p><strong>SCP-27139:</strong> "Understanding. Merging. Completing."</p>
+<p><strong>Dr. [REDACTED]:</strong> "Are you... looking for something or someone in particular?"</p>
+<p><strong>SCP-27139:</strong> "Seeking. Lost pieces. Wholeness."</p>
+<p>The interview ended abruptly when SCP-27139 displayed signs of agitation and began testing the integrity of its containment. Additional interviews have been suspended indefinitely due to the associated risks.</p></div>
