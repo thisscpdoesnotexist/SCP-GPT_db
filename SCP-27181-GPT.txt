@@ -1,0 +1,56 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27181 is  an anomalous vanishing of 'E' (attempt to write this article without ever using any words that contain the letter e) </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-27181</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-27181 is an anomalous phenomenon resulting in the spontaneous and total eradication of the Latin character 'E' from any written script or textual display within an indeterminate radius around the item. This obliteration is not limited to physical media; digital screens, auditory representations (text-to-speech systems), and even cognitive perception (memory of the written character) within the influence of SCP-27181 are affected.</p>
+<p>Initial discovery occurred following a series of reports from a small town library in [REDACTED], where all books suddenly appeared devoid of the fifth glyph of the ISO basic Latin alphabet. All attempts to inscribe or print the character by those within SCP-27181's area of effect result in either automatic omission or substitution with a blank space.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-27181's effect on written communication, containment of information about it prompts significant difficulty. Traditional documentation is impossible within its radius of influence, thus handwritten or digital records must stay beyond that boundary.</p>
+<p>SCP-27181 itself, though immobile, is to be contained within a specially designed chamber at Site-██, composed of non-alphanumeric-patterned material to prevent any manifestation of textual content. The chamber lacks any digital interfaces to minimize the effect's spread. Personnel entering the containment zone are advised to use pictographic communication or pre-approved sign language.</p>
+<p>No written or digital communication devices are permitted within 30 meters of the containment chamber. Personnel affected by SCP-27181's influence must undergo cognitive therapy to restore their perception of the lost character.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment A:</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-class personnel with varied literacy levels</li>
+<li><strong>Procedure:</strong> D-class were instructed to transcribe a paragraph containing the character 'E' while inside SCP-27181's zone.</li>
+<li><strong>Result:</strong> All subjects were incapable of writing the character. Substituted symbols or spaces were observed in place of 'E'.</li>
+</ul>
+<h4>Experiment B:</h4>
+<ul>
+<li><strong>Subject(s):</strong> Various electronic devices</li>
+<li><strong>Procedure:</strong> Devices with text-displaying capabilities were introduced to the influence zone.</li>
+<li><strong>Result:</strong> Devices ceased to show the character, some malfunctioning and others displaying an alternate glyph or space.</li>
+</ul>
+<h4>Experiment C:</h4>
+<ul>
+<li><strong>Subject(s):</strong> One D-class personnel previously unaffected by SCP-27181</li>
+<li><strong>Procedure:</strong> Subject was asked to recall and recite a text known to contain multiple instances of 'E' after exposure.</li>
+<li><strong>Result:</strong> Subject could not vocalize or recall the character, resulting in disfluent speech patterns.</li>
+</ul>
+<h3>Addendum 2: Interview Log</h3>
+<ul>
+<li><strong>Interviewer:</strong> Dr. ██████ (communicating via approved sign language)</li>
+<li><strong>Interviewee:</strong> D-class Personnel D-███ (affected by SCP-27181)</li>
+<li><strong>Foreword:</strong> Interview conducted to assess the cognitive impact of SCP-27181 on affected individuals.</li>
+</ul>
+<p><strong>[BEGIN LOG]</strong></p>
+<p><strong>Dr. ██████:</strong> How are you today?</p>
+<p><strong>D-███:</strong> I am doing... okay, I think. It's hard to talk now. So many words gone.</p>
+<p><strong>Dr. ██████:</strong> Can you tell me what happened inside the chamber?</p>
+<p><strong>D-███:</strong> It was odd. Looking at words, knowing what it should say, but a... void was in its spot. And now, it's just not coming out right.</p>
+<p><strong>Dr. ██████:</strong> Are you able to write now?</p>
+<p><strong>D-███:</strong> I try. But it won't work. My hand stops. Or something else shows up. Like my brain forgot how.</p>
+<p><strong>Dr. ██████:</strong> We are trying to help. You understand, correct?</p>
+<p><strong>D-███:</strong> I know. But will I go back to normal? It feels all wrong.</p>
+<p><strong>[END LOG]</strong></p>
+<h3>Addendum 3: Recovery Efforts</h3>
+<p>Recovery efforts are ongoing, with a focus on devising new SCP-27181-resistant recording methods and restoring affected individuals' cognitive functions. Should a full recovery method be formulated, Protocol-27-Echo will be implemented to handle the reintegration of affected personnel into standard duties and to update containment measures for SCP-27181.</p></div>
