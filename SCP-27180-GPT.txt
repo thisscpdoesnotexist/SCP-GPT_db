@@ -1,0 +1,43 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27180 is  The letter h </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-27180</p>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-27180 is an anomalous manifestation of the letter 'h' (<em>aitch</em> or <em>haitch</em> depending on regional pronunciation). The manifestation is not tied to any physical medium and appears as a floating, typographic character, resembling the sans-serif font Arial at a size approximately equivalent to 288pt. The anomaly exhibits a soft glow, visible even in well-lit conditions. SCP-27180 seems to possess a form of sentience, responding to verbal acknowledgments of its presence and has been recorded moving autonomously, albeit within a confined space.</p>
+<p>Upon utterance of the letter 'h' within a 20-meter radius of SCP-27180, the entity will resonate a harmonic frequency that seems soothing to most human subjects. It is hypothesized that this frequency can have therapeutic effects on individuals suffering from mild anxiety disorders. However, if the letter 'h' is excluded purposely during speech near SCP-27180, the entity will vibrate at dissonant frequencies, causing feelings of unease and headaches amongst listeners.</p>
+<p>It was initially discovered in [REDACTED], during a spelling bee contest for elementary school students when the letter 'h' inexplicably detached itself from the word 'humble', resulting in public confusion. Foundation agents contained the anomaly without incident, and all witnesses were administered Class-A amnestics.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27180 is to be contained within a standard anomalous object containment locker at Site-77. The locker must be acoustically isolated to prevent unintentional interaction with SCP-27180's harmonic properties. Personnel interacting with or studying SCP-27180 must refrain from vocalizing the letter 'h', and are advised to communicate in writing when in close proximity to the anomaly.</p>
+<p>Any experiments involving SCP-27180 are to be pre-approved by at least one Level 3 researcher. The containment chamber must be appropriately set for audio recording, as part of ongoing research into the frequencies produced by SCP-27180.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p>Experiment 27180-E1:<br />
+<strong>Subject:</strong> D-9842<br />
+<strong>Procedure:</strong> Subject instructed to read a passage from "Alice's Adventures in Wonderland" that contains multiple instances of the letter 'h'.<br />
+<strong>Result:</strong> SCP-27180 oscillated gently, emitting a frequency measured at 528 Hz, colloquially known as the "Love frequency". D-9842 reported feeling calm and relaxed after the experiment.</p>
+<p>Experiment 27180-E2:<br />
+<strong>Subject:</strong> D-7251<br />
+<strong>Procedure:</strong> Subject instructed to read a list of words that deliberately omit the letter 'h'.<br />
+<strong>Result:</strong> SCP-27180's luminosity decreased, and it vibrated with dissonant, irregular frequencies. D-7251 experienced a migraine and expressed agitation.</p>
+<h3>Addendum 2: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. Kendra Lee<br />
+<strong>Interviewee:</strong> SCP-27180 (via written communication, as the entity responds by fluctuating in brightness to indicate 'yes' for a brighter glow and 'no' for dimming)</p>
+<p>&lt; Begin Log &gt;</p>
+<p><strong>Dr. Lee:</strong> Can you understand us, SCP-27180?</p>
+<p><em>SCP-27180 glows brightly.</em></p>
+<p><strong>Dr. Lee:</strong> Are you capable of producing any other form of communication besides the changes in brightness and frequency emissions?</p>
+<p><em>SCP-27180 dims slightly.</em></p>
+<p><strong>Dr. Lee:</strong> Do you require anything to sustain yourself?</p>
+<p><em>SCP-27180 remains at a neutral brightness, indicating either a lack of understanding or an ambiguous response.</em></p>
+<p><strong>Dr. Lee:</strong> Were you ever a part of a physical medium or object before your current state?</p>
+<p><em>SCP-27180 dims and then brightens repetitively, suggesting an uncertain or complex answer.</em></p>
+<p>&lt; End Log &gt;</p>
+<h3>Addendum 3: Incident Report</h3>
+<p>During a routine testing session, Research Assistant ██████ accidentally pronounced the letter 'h' while discussing the experiment setup. SCP-27180 reacted violently, emitting a frequency that shattered glassware within the containment chamber. The research assistant was found unconscious and was later diagnosed with temporary hearing loss. Following this incident, the containment procedures were updated to highlight the importance of avoiding the vocalization of the letter 'h' within SCP-27180's presence.</p></div>
