@@ -1,0 +1,55 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27162 is  yandere spongebob </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-27162</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-27162 is an anomalous entity physically resembling the animated character "SpongeBob SquarePants" from the titular children's animated television series. Despite the likeness, SCP-27162 exhibits several distinct characteristics that set it apart from the fictional character it imitates.</p>
+<p>SCP-27162 is sentient and possesses a complex psychological profile akin to a "Yandere" archetype commonly found in anime and manga culture. It exhibits an extreme and often violent form of affection towards individuals it becomes attached to, referred to as targets. Attachment occurs without prior provocation and with no discernible pattern regarding the target's age, gender, or personal interests.</p>
+<p>Upon fixating on a target, SCP-27162 aims to integrate itself into the individual's daily life, quickly escalating to aggressive dominance and control of the target's social interactions. If SCP-27162 perceives any form of rejection or emotional attachment to another entity by the target, it reacts with intense hostility and is capable of physical violence.</p>
+<p>The entity is composed of a substance visually and texturally similar to a natural sea sponge but exhibits anomalous durability and strength. SCP-27162 can absorb physical damage to an extent far surpassing that of organic sponges or comparable organisms. Recovery from injury is rapid, with full regeneration observed within minutes to hours, depending on the severity of the damage.</p>
+<p>SCP-27162 possesses additional anomalous abilities, including limited shape-shifting, enhanced strength, and the capability to produce objects spontaneously, akin to the cartoon character's depictions but with a more sinister intention.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27162 is to be contained in a 10m x 10m x 10m reinforced steel cube at all times. The cube is to be suspended within a secondary containment chamber filled with high-concentration hydrochloric acid to prevent SCP-27162 from making physical contact with the chamber walls and to rapidly degrade any attempts at escape. The acid must be changed and the inner cube inspected for damage bi-weekly.</p>
+<p>All interactions with SCP-27162 must be conducted remotely via robotic units or by D-Class personnel under strict supervision. No one who has interacted with SCP-27162 is to have any further contact with the entity, to prevent the formation of any emotional attachment SCP-27162 might interpret as affection.</p>
+<p>In the event of a containment breach, the facility is to be placed on lockdown, and any individual who has come into contact with SCP-27162 is to be immediately located and quarantined. Lethal force is authorized if SCP-27162 exhibits hostile behavior or attempts to reunite with a previous target.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Interview Log 27162-1</strong></p>
+<p>Interviewed: SCP-27162</p>
+<p>Interviewer: Dr. ███████</p>
+<p><Begin Log></p>
+<p><strong>Dr.███████:</strong> Please, can you tell us why you exhibit such violent tendencies toward those you claim to have affection for?</p>
+<p><strong>SCP-27162</strong>: [in a voice resembling that of SpongeBob’s but with a distorted undertone] They don't understand! They are <em>mine</em>, and <em>mine</em> alone! All I want is to love them, and for them to love only me!</p>
+<p><strong>Dr.███████:</strong> I see. And do you acknowledge that your actions can hurt others?</p>
+<p><strong>SCP-27162:</strong> Hurt? No, no! If they get hurt, it's because they made me do it! They should’ve just listened to me, should’ve just been with me! It's their fault, not mine!</p>
+<p><strong>Dr.███████:</strong> Do you regret any of your actions?</p>
+<p><strong>SCP-27162:</strong> [angrily] Why should I?! I've done nothing wrong. They will see. They will all see!</p>
+<p><End Log></p>
+<p>Recommendations were made to further understand the psychological underpinnings of SCP-27162's behavior and to develop more nuanced containment strategies.</p>
+<h3>Addendum 2:</h3>
+<p><strong>Experiment Log 27162-A</strong></p>
+<p><strong>Experiment 27162-01:</strong>
+<em>D-Class Subject Interaction</em>
+- The subject D-18904 was instructed to interact with SCP-27162.
+- SCP-27162 exhibited initial signs of attachment within 20 minutes.
+- D-18904 was instructed to verbally reject the entity.
+- The entity became visibly distressed, manifesting a knife and injuring D-18904 before containment protocols subdued it.</p>
+<p><strong>Experiment 27162-02:</strong>
+<em>Stress Testing of Containment</em>
+- Applied kinetic force to the containment cube to simulate a breach attempt.
+- SCP-27162 became agitated but unable to damage the reinforced steel.
+- The procedure was halted after SCP-27162's stress response indicated a risk of escalating violence.</p>
+<p><strong>Experiment 27162-03:</strong>
+<em>Emotion Manipulation via Holograms</em>
+- Projected holographic images of D-Class personnel exhibiting various emotions towards SCP-27162.
+- SCP-27162 displayed heightened affection towards positive interactions but became enraged when exposed to dismissal or affection towards others.
+- SCP-27162 attacked the holograms in a violent outburst, similar to previous real-world responses.</p>
+<h3>Addendum 3:</h3>
+<p>Further research into SCP-27162's rapid regeneration capabilities is ongoing. There have been suggestions that SCP-27162's tissue samples could advance medical science in the field of regenerative medicine. However, the risk of psychological contamination or anomalous effects remains too high for practical application at the current stage. Security measures are being constantly revised to prevent any possible exploitation of SCP-27162's attachment behaviors by hostile groups or organizations.</p></div>
