@@ -1,0 +1,51 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27191 is  an uncontacted all-female tribe of Amazonians who reproduce through parthenogenesis and have never seen a man before. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-27191</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-27191 is an anomalous all-female tribe located in an undisclosed, remote region of the Amazon Rainforest, seemingly isolated from the rest of the world. Members of the tribe exhibit several extraordinary characteristics, most notably their ability to reproduce through a form of parthenogenesis, a type of asexual reproduction found in some plants and animals. Genetic tests confirm that offspring are genetic clones of their mothers.</p>
+<p>Despite their isolation, SCP-27191 possesses a complex society, sophisticated language, and advanced knowledge of botanical compounds, which include potent neurotoxins and medicines unknown to modern science. Based on collected intelligence, the tribe reveres an entity known only as "The Mother," believed to be the originator of their lineage and endowed with near-mythical status within their culture. SCP-27191 defends its territory with remarkable ferocity and displays capabilities that surpass normal human physicality and tactical acumen.</p>
+<p>Efforts to establish peaceful communication with SCP-27191 have thus far been met with hostility. The tribe associates males of any species with an undefined form of "corruption," and they react to the presence of men with immediate and lethal force. Owing to these behaviors and their anomalous nature, SCP-27191 has been classified as Keter.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the isolation and hostile nature of SCP-27191, physical containment is deemed impractical. Instead, the region surrounding SCP-27191’s territory has been cordoned off under the guise of an environmental protection initiative. A no-fly zone has been established, and satellite imagery of the area is routinely scrubbed of any signs of the tribe.</p>
+<p>The area is to be monitored by an all-female Foundation research and security team equipped with non-lethal suppression technology. Any unauthorized personnel attempting to breach the containment area must be detained, administered Class-B amnestics, and released at a safe distance from the containment zone.</p>
+<p>Attempts to study SCP-27191 are to be conducted remotely, where possible, using drones and long-range surveillance. Direct contact with the tribe is restricted to remote interaction via drones or designated communication outposts managed by the all-female containment team, until such time as SCP-27191 can be deemed non-hostile to direct human contact.</p>
+<h3>Addendum 1: Incident Report 27191-Δ</h3>
+<p>On ██/██/████, a three-person reconnaissance team (codenamed "Amazonas") consisting of an all-female Foundation unit breached the hidden perimeter of SCP-27191's territory for the purpose of sampling soil and vegetation. At approximately 1300 hours local time, the team encountered members of SCP-27191, resulting in one KIA and two injured Foundation personnel before emergency extraction could be executed. The encounter provided valuable insight into SCP-27191's defensive strategies and highlighted the need for revised containment protocols.</p>
+<h3>Addendum 2: Interview Log 27191-α</h3>
+<p><strong>Interviewed:</strong> SCP-27191 Captive (SCP-27191-1)</p>
+<p><strong>Interviewer:</strong> Dr. Maya Sandoval</p>
+<p><strong>Foreword:</strong> SCP-27191-1 was captured during a rare moment where she was separated from the rest of the tribe. Efforts were made to communicate in SCP-27191's language, which had been partially deciphered over the preceding months.</p>
+<p>[The full transcript is extensive. Below is an excerpt from the interview.]</p>
+<p><strong>Dr. Sandoval:</strong> Can you tell us about "The Mother"?</p>
+<p><strong>SCP-27191-1:</strong> [Speaks in native language] She is the first, the life-giver. We come from her, live for her, and to her, we shall return. To speak of her is to invoke her spirit, which surrounds and protects us.</p>
+<p><strong>Dr. Sandoval:</strong> How do you feel about outsiders, specifically men?</p>
+<p><strong>SCP-27191-1:</strong> Interruption brings corruption. The presence of man defiles the sacred balance. Our essence must remain pure, unstained by the shadow they cast.</p>
+<p>[Further dialogue attempts to explore the belief-system and societal structure of SCP-27191 but is met with resistance. SCP-27191-1 exhibits high levels of distress when the topic strays too far from their cultural norms.]</p>
+<h3>Addendum 3: Experiment Log 27191-Ξ</h3>
+<p><strong>Experiment 27191-α</strong><br />
+<strong>Objective:</strong> To assess the reaction of SCP-27191 to unmanned drones entering their territory.<br />
+<strong>Procedure:</strong> A small quadcopter drone was flown into the village perimeter.<br />
+<strong>Results:</strong> The drone was met with curiosity at first, then aggression. It was disabled using projectiles in under three minutes.</p>
+<p><strong>Experiment 27191-β</strong><br />
+<strong>Objective:</strong> To determine if SCP-27191 would accept offerings from outside sources.<br />
+<strong>Procedure:</strong> Basic foodstuffs were left at the border of SCP-27191 territory by an all-female retrieval team.<br />
+<strong>Results:</strong> Offerings were cautiously accepted. No hostile reaction was noted, but the team was observed intensely throughout the procedure.</p>
+<p><strong>Experiment 27191-γ</strong><br />
+<strong>Objective:</strong> To observe SCP-27191's reproductive cycle.<br />
+<strong>Procedure:</strong> Long-term surveillance via camouflaged cameras placed at the periphery of their living space.<br />
+<strong>Results:</strong> Details of the reproductive cycle were observed and recorded. It was noted that no male offspring were ever produced, confirming the parthenogenesis theory.</p>
+<p><strong>Experiment 27191-δ</strong><br />
+<strong>Objective:</strong> To evaluate the defensive capabilities of SCP-27191 when faced with a simulated threat.<br />
+<strong>Procedure:</strong> An unmanned, all-terrain vehicle was remotely driven towards SCP-27191's central habitation.<br />
+<strong>Results:</strong> The vehicle was intercepted and destroyed within 250 meters of the village perimeter by highly coordinated attacks from the tribe. SCP-27191 displayed an impressive understanding of guerrilla warfare tactics and the utilization of their environment to their advantage.</p>
+<p>[Further experiments require O5 approval due to the increasing risk of provoking SCP-27191 to expand their territory or take drastic offensive measures.]</p>
+<p>These documents serve as the current basis for understanding and containing SCP-27191 while respecting the unique culture and protecting the wider human populace from potential hostility.</p></div>
