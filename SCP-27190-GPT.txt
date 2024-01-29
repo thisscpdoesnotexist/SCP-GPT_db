@@ -1,0 +1,42 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27190 is  Apollo's Dodgeball; it strikes people and temporarily grants them the gift of prophecy at the worst possible time. </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-27190</p>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-27190, colloquially known as "Apollo's Dodgeball," is an ancient-looking leather dodgeball of Greek origin. The object is moderately worn and emits a faint, golden glow. SCP-27190 displays anomalous properties when it comes into physical contact with a human being.</p>
+<p>Upon striking an individual (henceforth referred to as SCP-27190-1), SCP-27190 induces a temporary state of precognition, granting SCP-27190-1 the ability to perceive future events with a high degree of accuracy. These prophetic visions, lasting anywhere between 30 seconds to several minutes, tend to surface during inconvenient or dangerous moments, greatly impairing SCP-27190-1's ability to respond to immediate surroundings and thus increasing the likelihood of accidents or injury.</p>
+<p>Instances of SCP-27190-1 have reported the experience as overwhelming and disorienting, with visions often bearing no relevance to the context in which SCP-27190-1 is struck. Aftereffects include headaches, confusion, and in some cases, traces of divine ecstasy.</p>
+<p>Recovered from a dig site in █████, Greece, SCP-27190 appears to be a relic linked to the ancient Oracle of Delphi and is speculated to be an object of worship or divination tool. The mechanism by which SCP-27190 confers the gift of prophecy remains under investigation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27190 is to be stored in a secure, padded containment locker at Site-██, to prevent any accidental activation of its anomalous effects. Personnel assigned to SCP-27190 must undergo a psychological evaluation to ascertain their stability before interacting with the object.</p>
+<p>Physical interaction with SCP-27190 is strictly prohibited outside of scheduled experiments, which must receive approval from at least two Level-4 researchers. During experiments, D-Class personnel selected for exposure to SCP-27190's effects should be restrained appropriately to prevent self-injury during the episode of precognition.</p>
+<p>In the event of accidental exposure, affected subjects are to be immediately quarantined and monitored until the prophetic visions cease. Long-term psychological counseling may be necessary for exposed individuals depending on the intensity and content of the experienced visions.</p>
+<h3>Addendum 1: Experiment Log SCP-27190</h3>
+<p>| Experiment # | Subject | Description | Result |
+| ------------ | ------- | ----------- | ------ |
+| 27190-E1 | D-5426 | Subject instructed to catch SCP-27190. | Upon impact, subject reported a vision of a site-wide containment breach occurring two weeks into the future. Advised to increase site security. |
+| 27190-E2 | D-9783 | Subject hit with SCP-27190 from behind without prior warning. | Subject immediately suffered a seizure and experienced a flash of an unknown Keter-class breach. Subject incapacitated and vision unverifiable. |
+| 27190-E3 | D-1459 | Subject tasked to dodge SCP-27190. | Subject successfully avoided initial throw but tripped and made contact with the object on the rebound. Experienced prophecy regarding a personal future event unrelated to the Foundation. |</p>
+<h3>Addendum 2: Interview Log SCP-27190</h3>
+<p>Interviewer: Dr. Henrik Graves
+Interviewed: D-1459 (Post Experiment 27190-E3)</p>
+<p>[BEGIN LOG]</p>
+<p>Dr. Graves: Please describe the vision you experienced during the experiment.</p>
+<p>D-1459: It was like a dream, doc, but super clear—a funeral. I was standin' there, by a grave, and I saw the name on the stone, [REDACTED]. That's my brother's name.</p>
+<p>Dr. Graves: Did you perceive anything from the current moment during this vision?</p>
+<p>D-1459: Nothin'. It was like I was totally there, at that place. When I snapped back, I didn't even realize I was on the floor of the chamber.</p>
+<p>Dr. Graves: How has this affected your current emotional state?</p>
+<p>D-1459: It's messed up, man. I don't even know if it's real or just some sick trick. You think you can check on him? Make sure he's alright?</p>
+<p>Dr. Graves: We will take appropriate measures. Thank you for your cooperation.</p>
+<p>[END LOG]</p>
+<h3>Addendum 3: Experiment Proposal SCP-27190</h3>
+<p>An experimental protocol has been proposed by Researcher Lana Nguyen to study the effects of SCP-27190 on subjects with established Extrasensory Perception (ESP) capabilities. The aim is to determine whether psychic individuals experience the prophecies with greater intensity or duration, or if they are immune to the object's effects altogether. Approval pending review by the Ethics Committee.</p>
+<p>[END OF DOCUMENT]</p></div>
