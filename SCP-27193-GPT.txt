@@ -1,0 +1,51 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27193 is  the Aka Manto </h3> </center>
+    <h1>SCP-27193</h1>
+<hr />
+<h3>Item #:</h3>
+<p>SCP-27193</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-27193, also known as the "Aka Manto" (Red Cape), is a spectral entity that manifests in public and school washrooms within Japan. Descriptions of its appearance vary, but it commonly presents as a tall, humanoid figure clad in a flowing red cape or cloak, with its facial features obscured or unsettlingly distorted. SCP-27193 exhibits a malevolent intelligence and anomalous abilities, including phasing through solid matter and inducing high levels of fear and psychosis in individuals in the vicinity.</p>
+<p>Witnesses report SCP-27193's encounters typically follow a distinct pattern. While alone in a restroom stall, an individual will hear a voice asking a specific question, typically along the lines of "Do you want red paper or blue paper?" Should the individual respond, the outcome is invariably lethal. A choice of "red" results in the victim's body being flayed or mutilated to resemble red clothing, while "blue" results in extreme asphyxiation, leaving the corpse with a deep blue tint.</p>
+<p>Attempts to outsmart SCP-27193 with non-standard answers or silence result in additional anomalous effects, ranging from transportation into an unknown dimension, to spontaneous disappearance, to assault by the entity.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given SCP-27193's ability to manifest in any suitable location within its cultural sphere, permanent containment is not feasible. Current procedures focus on rapid response and disinformation campaigns to neutralize public awareness of the entity. A dedicated task force, designated "Mantle Sweepers," is charged with responding to potential SCP-27193 manifestations.</p>
+<p>Upon verification of SCP-27193 presence, the task force will seal off the affected facility and administer Class-C amnestics to any witnesses. A cover story is disseminated, typically involving severe plumbing issues leading to the facility's temporary closure.</p>
+<p>Research into historical patterns of SCP-27193's appearances is ongoing, with the aim of developing predictive models to anticipate and intercept manifestations.</p>
+<h3>Addendum 1: Incident Report 27193-06</h3>
+<p>On ██/██/████, SCP-27193 manifested in ███████ High School, resulting in the deaths of three students. Foundation agents contained the situation within hours, implementing the standard disinformation protocol. The high school was temporarily shut down for "urgent building repairs."</p>
+<h3>Addendum 2: Interview Log 27193-12</h3>
+<p>Interviewed: [REDACTED], a survivor of a SCP-27193 encounter.</p>
+<p>Interviewer: Dr. ███████</p>
+<p>[The subject exhibits signs of severe trauma and is hesitant to speak. After administration of a mild sedative, the interview commences.]</p>
+<p><strong>Dr. ███████:</strong> Can you describe what happened to you?</p>
+<p><strong>[REDACTED]:</strong> [Subject starts trembling] It was whispering to me... asking if I wanted red or blue. I thought it was a prank, so I said "yellow." Then, the lights went out. [Pauses] When they came back on, it was standing right in front of me. Its face... Oh God, its face...</p>
+<p><strong>Dr. ███████:</strong> What happened next?</p>
+<p><strong>[REDACTED]:</strong> It reached out, and everything went black. When I woke up, I was by the school gates. No idea how I got there.</p>
+<p><strong>Dr. ███████:</strong> Thank you for your cooperation. You've provided invaluable information.</p>
+<p>[The subject was administered Class-B amnestics following the interview and released under a fabricated story of an attempted prank gone wrong.]</p>
+<h3>Addendum 3: Experiment Log 27193-E</h3>
+<h4>Experiment 27193-E-01</h4>
+<p><strong>Procedure:</strong> A D-class personnel is instructed to choose "red."
+<strong>Result:</strong> D-class personnel was found deceased, body exhibiting signs consistent with severe lacerations and flaying.</p>
+<h4>Experiment 27193-E-02</h4>
+<p><strong>Procedure:</strong> A D-class personnel is instructed to remain silent.
+<strong>Result:</strong> Subject disappeared during the encounter, whereabouts remain unknown, presumed lost to an uncharted dimension or terminated.</p>
+<h4>Experiment 27193-E-03</h4>
+<p><strong>Procedure:</strong> A D-class personnel is instructed to answer "blue."
+<strong>Result:</strong> Personnel expired via asphyxiation; corpse exhibited a pronounced blue discoloration.</p>
+<h4>Experiment 27193-E-04</h4>
+<p><strong>Procedure:</strong> A D-class personnel is instructed to confront the entity with a religious item.
+<strong>Result:</strong> No observable effect on SCP-27193. The subject was promptly assaulted and perished from sustained injuries. </p>
+<h4>Experiment 27193-E-05</h4>
+<p><strong>Procedure:</strong> A D-class personnel is instructed to introduce an unexpected choice, "green paper."
+<strong>Result:</strong> SCP-27193 disregarded the attempt at a non-standard answer, posing the original question again until a standard answer was given. The experiment was terminated early to preserve D-class personnel for further testing.</p>
+<p>These experiments underscore the necessity of procedure adherence in further research regarding SCP-27193. Additional experimentation and observation are required to develop more sophisticated containment and neutralization strategies.</p></div>
