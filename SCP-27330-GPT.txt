@@ -1,0 +1,50 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27330 is  a bear that got turned into a human to teach him a lesson (he didn't learn it) </h3> </center>
+    <h1>Item #: SCP-27330</h1>
+<h3>Object Class: Euclid</h3>
+<h3>Description:</h3>
+<p>SCP-27330 is a humanoid entity approximately 1.95 meters in height, with physical characteristics resembling that of a male Homo sapiens. However, SCP-27330 possesses several physiological traits atypical of human beings—most notably, a denser bone structure, an enhanced muscular system, and an atypically thick dermis, which suggests a non-human origin.</p>
+<p>DNA analysis has shown a significant match with that of Ursus arctos, the brown bear species. It has been hypothesized that SCP-27330 was originally a bear before its anomalous transformation into a humanoid. SCP-27330 has retained behavioral patterns consistent with Ursus arctos, including a diet predominantly consisting of fish, berries, and occasionally large mammals.</p>
+<p>The entity is capable of rudimentary human speech, but communication is often impaired by its cognitive abilities, which seem to be equivalent to that of the bear before transformation. SCP-27330 exhibits confusion and distress when addressed as a human or when expected to engage in complex human social interactions, suggesting an absence of comprehensive understanding about its current form or expectations.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27330 is to be contained in a secure humanoid containment chamber, equipped with environmental enrichment suitable for an Ursus arctos. The chamber is to be cleaned twice weekly and is to have an adjoining secure outdoor area for exercise and natural foraging.</p>
+<p>Personnel are advised to engage with SCP-27330 using simplified communication and are required to undergo a basic training program to understand Ursus arctos behavior to prevent accidental provocation. Nutritional needs are to be met with a diet fitting a brown bear, with adjustments made to account for SCP-27330's human physiology.</p>
+<p>All interactions with SCP-27330, including nutritional delivery and habitat maintenance, are to be conducted by personnel with Level 3 clearance or higher and must be logged.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27330 was discovered in a forested region of [REDACTED], after locals reported a "wild man" exhibiting unusual behavior and an apparent affinity for bears. Upon recovery, SCP-27330 reacted with confusion and showed signs of distress when approached by Foundation personnel. Initial containment was successfully completed with minimal resistance from the entity.</p>
+<h3>Addendum 2: Social Behavior Evaluation</h3>
+<p>SCP-27330 has been observed displaying signs of social behavior characteristic of brown bears, such as mock fighting, play behaviors indicative of a conspecific hierarchy, and foraging patterns. Attempts to introduce SCP-27330 to genuine human social settings resulted in agitated and erratic behavior, further reinforcing the conclusion that SCP-27330 maintains the cognitive capacity and social understanding of a brown bear.</p>
+<h3>Addendum 3: Experiment Logs</h3>
+<h4>Experiment Log SCP-27330-01</h4>
+<ul>
+<li><strong>Objective:</strong> To assess SCP-27330's ability to distinguish between bear and human vocalizations.</li>
+<li><strong>Procedure:</strong> SCP-27330 was exposed to recordings of both bear and human sounds in a controlled environment.</li>
+<li><strong>Results:</strong> SCP-27330 displayed alertness and interest in bear vocalizations, showing signs of attempting to communicate with the audio source. When exposed to human voices, it appeared indifferent and occasionally agitated, particularly with raised human voices.</li>
+</ul>
+<h4>Experiment Log SCP-27330-02</h4>
+<ul>
+<li><strong>Objective:</strong> To evaluate SCP-27330's response to human food.</li>
+<li><strong>Procedure:</strong> SCP-27330 was offered a variety of common human foods.</li>
+<li><strong>Results:</strong> SCP-27330 showed a preference for raw fish and fruits, rejecting most processed foods. Sugary items led to temporary hyperactive behavior, followed by apparent lethargy.</li>
+</ul>
+<h4>Experiment Log SCP-27330-03</h4>
+<ul>
+<li><strong>Objective:</strong> To determine SCP-27330's capability to learn simple human tasks.</li>
+<li><strong>Procedure:</strong> SCP-27330 was instructed over a period of weeks in basic tasks such as clothing manipulation and simple tool use.</li>
+<li><strong>Results:</strong> SCP-27330 managed to perform uncomplicated tasks with human objects but failed to understand the use of clothing. Tool use remained rudimentary and inconsistent.</li>
+</ul>
+<h3>Addendum 4: Interview Log D</h3>
+<p>Due to SCP-27330's limited cognitive and communication abilities, interviews have been challenging. Nevertheless, several attempts have been made to communicate with it in the pursuit of understanding its perspective on its unusual condition.</p>
+<h3>Addendum 5: Recovery Log E</h3>
+<p>Recovery details indicate that no unusual phenomena were observed in the region prior to the capture of SCP-27330. The local wildlife appeared unaffected, suggesting the transformation, if occurring in the wild, was an isolated incident.</p>
+<h3>Addendum 6: Updates/Amendments F</h3>
+<p>Recent observations have highlighted an increase in SCP-27330's stress levels, prompting an amendment to the containment procedures that include additional enrichment and the introduction of foraging opportunities to mimic natural bear behavior more closely, thus reducing psychological distress.</p>
+<h3>Addendum 7: Miscellanous G</h3>
+<p>Further research into similar anomalous transformations indicates that SCP-27330's case may be unique. There have been no records uncovered of any group or individual capable of intentionally performing such a transformation.</p>
+<p>While the entity named SCP-27330 has shown no signs of increased intelligence or "learning its lesson," as the vernacular phrase would suggest, it remains of interest to Foundation researchers to understand the nature and mechanism behind its transformation and to ensure its containment prevents any potential threat it might pose due to its unusual physical and cognitive profile as a crossover between Ursus arctos and Homo sapiens.</p></div>
