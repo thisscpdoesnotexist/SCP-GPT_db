@@ -1,0 +1,57 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27329 is  the planet Earth shaped like a cube </h3> </center>
+    <h3>Item #:</h3>
+<p>SCP-27329</p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-27329 is an astronomical entity that bears resemblance to planet Earth (Sol III) in terms of overall surface composition, atmosphere, and biological diversity. However, SCP-27329's chief anomaly is its geometric shape; unlike Earth's oblate spheroid form, SCP-27329 is a perfect cube. The entity's edges are clearly defined, with each face representing biomes and environments that correlate with those found on Earth.</p>
+<p>The gravitational field of SCP-27329 behaves anomalously, generating a uniform gravitational pull perpendicular to each of the six faces, maintaining a consistent downward force across the terrain, despite the sharp corners and edges. This gravity prevents atmospheric and oceanic escape, retaining an Earth-like climate and ecosystem on each face. The mechanisms behind this localized gravity are not currently understood.</p>
+<p>Orbiting satellites and telescopic observations have confirmed that diurnal cycles, weather patterns, and tectonic movements on SCP-27329 mirror those of Earth, with slight variations due to its cubic shape. The biological lifeforms inhabiting SCP-27329 appear to be genetically identical to terrestrial species, although they have adapted to the unique gravitational and ecological challenges posed by the environment.</p>
+<p>SCP-27329 was first detected by the SCP Foundation's deep-space surveillance network and remains under constant observation. Any potential risks of SCP-27329 affecting Earth's normality are unknown, necessitating its Keter classification.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-27329's extraterrestrial location, physical containment is unfeasible. As such, containment efforts are primarily focused on information suppression and surveillance.</p>
+<p>The SCP Foundation has established an exclusion zone in an effort to prevent civilian telescopes and space agencies from detecting SCP-27329. Cover stories have been created to explain any abnormalities in the observed region of space, attributed to experimental satellite disruptions or natural astronomical phenomena.</p>
+<p>Foundation-operated satellites are tasked with the continuous monitoring of SCP-27329, and a D-class personnel outpost has been constructed on the lunar surface, designated Site 27329-M, for the purpose of manned observation and to serve as a potential launching point for expeditions.</p>
+<p>Any Foundation-owned or affiliated space missions are to be given a secondary objective of gathering further data on SCP-27329. All personnel involved in such missions are to undergo thorough psychological evaluations before and after their assignments due to the potentially disorienting effects of studying SCP-27329.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 27329-A</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Objective:</strong> To analyze the reflectivity and albedo of SCP-27329's surfaces from different angles, testing for the consistency of the planet's cube shape.</li>
+<li><strong>Procedure:</strong> Use of high-resolution satellite imaging and spectral analysis.</li>
+<li><strong>Results:</strong> All six faces demonstrate consistent albedo and reflectivity typical of Earth-like terrain. Cubic form remains consistent from all observation angles.</li>
+</ul>
+<h4>Experiment 27329-B</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Objective:</strong> To observe and document the effects of the cube's corners and edge regions on weather patterns.</li>
+<li><strong>Procedure:</strong> Long-range meteorological satellites monitored weather systems as they transitioned from one face to another.</li>
+<li><strong>Results:</strong> Weather systems seem to bend and curve around the edges, maintaining structural integrity. Hurricanes and other large storm systems displayed a brief intensification at the corners before normalizing upon transitioning to an adjacent face.</li>
+</ul>
+<h4>Experiment 27329-C</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Objective:</strong> To determine the impact of SCP-27329's cubic shape on tectonic and geological processes.</li>
+<li><strong>Procedure:</strong> Deployed a sequence of remote-operated seismic monitors across one face, focusing on the areas closest to the cube's edges.</li>
+<li><strong>Results:</strong> Tectonic activity appears distributed evenly across the surface, with no significant increase in seismic events near the edges or corners of SCP-27329.</li>
+</ul>
+<h3>Addendum 2: Long Interview</h3>
+<p>[Document SCP-27329-INT-01 is a transcript of an interview conducted with Dr. Helen Gears, the principal researcher assigned to SCP-27329. The interview focuses on the implications of SCP-27329's gravitational anomalies. Due to the length of this document, it has been summarized and excerpted for inclusion in this report.]</p>
+<p><strong>Interviewer:</strong> Dr. Alan Krieger, Astrophysics Division
+<strong>Interviewee:</strong> Dr. Helen Gears, SCP-27329 Research Head</p>
+<p>[EXCERPT BEGINS]</p>
+<p><strong>Dr. Krieger:</strong> Could you elaborate on the gravitational anomalies of SCP-27329?</p>
+<p><strong>Dr. Gears:</strong> Certainly. SCP-27329's gravity defies our current understanding—it maintains a pull perpendicular to each face. This essentially means that if you were standing close to the edge of a face, you wouldn't feel any inclination to fall off or even towards the adjacent face. It's as if each edge and corner generate a form of gravitational lock, apart from the central pull of the face itself.</p>
+<p><strong>Dr. Krieger:</strong> How could life and geological processes adapt to such conditions?</p>
+<p><strong>Dr. Gears:</strong> That's one of the fascinating aspects of SCP-27329—we see organisms that thrive at the edge zones, displaying behaviors that suggest a natural adaption to the gravitational variances. As for geology, the uniform distribution of tectonic activity hints at an underlying structure or mechanism stabilizing these forces.</p>
+<p>[EXCERPT ENDS]</p>
+<p>[For the full interview, see Document SCP-27329-INT-01.]</p>
+<h3>Addendum 3: Incident Report</h3>
+<p>An incident occurred on ██/██/20██, involving an unauthorized civilian observation of SCP-27329. The individual, a prominent amateur astronomer, had posted images and speculative theories regarding SCP-27329 online. The Foundation quickly enacted containment breach protocols, suppressing the information and administering amnestics to involved parties. Subsequent reevaluation of the exclusion zone and improved jamming technologies have been initiated to prevent future breaches.</p></div>
