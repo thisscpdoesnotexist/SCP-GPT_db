@@ -1,0 +1,20 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27334 is  a blue ice dragon and a red fire dragon. The two of them fight since millenia, but they are secretly in love and use foundation experiments as date opportunity </h3> </center>
+    <h3>Item #: SCP-27334 - "Draconic Duel of Devotion"</h3>
+<h3>Object Class: Euclid</h3>
+<h3>Description:</h3>
+<p>SCP-27334 is comprised of two entities, SCP-27334-A ("Aurora") and SCP-27334-B ("Pyrrhus"), resembling mythological dragons, one associated with ice and the other with fire, respectively. SCP-27334 have been observed engaging in combat periodically, displaying behavior indicative of ancient rivalries often depicted in folklore.</p>
+<p>SCP-27334-A resembles a Western dragon with scales that shimmer in various shades of blue, reflective like ice. Its breath is capable of releasing a concentrated and anomalously cold exhalation, capable of freezing organic and inorganic matter instantaneously.</p>
+<p>SCP-27334-B is similarly a Western dragon, with scales that radiate heat and glow like molten rock. It can expel breath of intense fire, capable of melting metals with high melting points such as steel, and has an effect radius wide enough to potentially cause large-scale destruction.</p>
+<p>Despite appearances, surveillance has revealed that their confrontations are ritualistic rather than combative, with patterns suggesting a long-held affection between the two entities. Their actions hint at a convoluted courtship, where their "battles" serve as opportunities for them to interact in a manner consistent with their natures. This has been corroborated through interviews with both entities (refer to Addendum 5: Interview Logs).</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27334 are contained within a shared, specialized containment chamber designed to withstand extreme temperatures and to accommodate their large size, flight capability, and environmental preferences. The chamber has two distinct environments: one that simulates a glacial biome for SCP-27334-A and one that mimics a volcanic landscape for SCP-27334-B. These environments are separated by a reinforced glass barrier, resistant to both extreme heat and cold, that allows visual contact between both entities.</p>
+<p>Interaction between SCP-27334-A and SCP-27334-B is permitted under controlled conditions, typically masquerading as "experiments" to provide them with an opportunity to socialize without breaking from their roles. Personnel overseeing containment procedures are not to interfere with these interactions unless they pose a significant risk to the integrity of the facility or the safety of Foundation staff.</p>
+<h3>Addendum 1: Recovery Logs</h3>
+<p>SCP-27334 were first discovered in a remote mountain range where multiple reports of "dragons" reached local media ...</p></div>
