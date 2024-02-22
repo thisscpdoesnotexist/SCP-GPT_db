@@ -1,0 +1,68 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+        img{width: 100%;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27343 is  a phenomenon causing plants near Sarnia to develop internal bone structures </h3> </center>
+    <h3>Item #: SCP-27343 - "Arboreal Skeleton"</h3>
+<h3>Object Class: Keter</h3>
+<p><img alt="AI SCP Image" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGhOdI9rvU8B2k6fKIADBBnw/user-hWQHyouHabExfx3wNo9Oj0PX/img-SgwzMpgpaZqsZTvQPPiOl9Hw.png?st=2024-02-22T13%3A02%3A30Z&amp;se=2024-02-22T15%3A02%3A30Z&amp;sp=r&amp;sv=2021-08-06&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-02-22T12%3A38%3A20Z&amp;ske=2024-02-23T12%3A38%3A20Z&amp;sks=b&amp;skv=2021-08-06&amp;sig=n4TP4gWD/r38Oz0Z%2ByD%2BDev%2BgAhhLgqYEQmipJz2ABk%3D" /></p>
+<h3>Description:</h3>
+<p>SCP-27343 is an anomalous phenomenon affecting plant life within an approximately 50 km radius surrounding the city of Sarnia, Ontario, Canada. It results in the development of bone-like structures within the vascular systems of afflicted plants. These structures greatly resemble mammalian skeletons, often complete with skull-like formations within the primary growth segments (trunks or stems) and branching, rib-like protrusions along peripheral branches. The bones are organic in nature and share genetic markers with the plant host.</p>
+<p>The phenomena were first identified when local horticulturists reported trees and shrubs "x-raying" a stark white on standard soil quality assessments, which prompted an investigation by local authorities and subsequent intervention by Foundation agents. SCP-27343's anomalous effects manifest in all vascular plants (tracheophytes), including but not limited to trees, shrubs, vines, and certain species of weeds and ferns.</p>
+<p>Affected plants, hereby referred to as SCP-27343-A instances, demonstrate accelerated growth, increased hardiness, and predatory behavior not typically observed in plant species. This includes the movement of branches and leaves in response to nearby animal life and, in advanced stages, the ability to uproot and relocate themselves over short distances.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the diffuse nature of SCP-27343, full containment is currently impossible. A perimeter (designated Site-112) is to be established around the affected zone, with a 72-hour monitoring cycle by Foundation personnel. Access to Site-112 is strictly controlled, with only authorized research and containment staff permitted entry.</p>
+<p>Localized incursions of SCP-27343-A instances beyond the containment perimeter are to be swiftly neutralized and incinerated. Cover stories involving invasive pest species are to be disseminated among the local populace as needed, with amnestics administered in cases of direct observation of SCP-27343-A anomalous behaviors.</p>
+<p>Due to the significant risk of cross-pollination with non-anomalous flora and the potential for SCP-27343 propagation, all flora within 10 km of Site-112 are to be regularly treated with a Foundation-developed herbicidal agent (designated Substance 112-A) capable of preventing the development of SCP-27343'S bone-like structures and slowing plant locomotion.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27343 was first identified on ██/██/20██ when a civilian reported their apple orchard exhibiting "uncanny formations" within the trees. Local media initially reported this as a biological curiosity, drawing the attention of the SCP Foundation. Foundation personnel dispatched to the site confirmed the presence of SCP-27343 and established a preliminary containment perimeter.</p>
+<h3>Addendum 2: Experiment Log A</h3>
+<h4>Experiment A-01</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Procedure</strong>: A potted specimen of Acer saccharum (Sugar Maple), affected by SCP-27343, was kept in isolation for observation.</li>
+<li><strong>Results</strong>: Over a period of three weeks, the specimen's growth rate increased by 200%. Presence of skeletal structures confirmed via MRI. The specimen exhibited movement in response to lab mice introduced in proximity, tilting its branches towards the subjects.</li>
+</ul>
+<h4>Experiment A-02</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Procedure</strong>: A non-anomalous Quercus alba (White Oak) was planted adjacent to an affected Pinus strobus (Eastern White Pine) to determine if SCP-27343 could be transmitted through soil or root systems.</li>
+<li><strong>Results</strong>: Within 72 hours, the Quercus alba showed initial signs indicative of SCP-27343 influence. Bone-like formations first appeared seven days post exposure. The experiment confirmed that SCP-27343 could propagate through soil-root interaction.</li>
+</ul>
+<h4>Experiment A-03</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Procedure</strong>: An affected specimen was relocated to a non-anomalous soil environment, quarantined from other plant life, to assess if SCP-27343 could be "cured" by separating it from the influence zone.</li>
+<li><strong>Results</strong>: The anomalous properties, including predatory behavior and growth rates, persisted, suggesting SCP-27343's alterations are permanent once manifested.</li>
+</ul>
+<h3>Addendum 3: Interview Log with Dr. Sherman</h3>
+<ul>
+<li><strong>Interviewer</strong>: Agent Harold</li>
+<li><strong>Interviewee</strong>: Dr. Sol Sherman, Lead Researcher of SCP-27343</li>
+<li><strong>Date</strong>: ██/██/20██</li>
+</ul>
+<p>[BEGIN LOG]</p>
+<p><strong>Agent Harold</strong>: Dr. Sherman, what can you tell us about the behavior of SCP-27343-A instances?</p>
+<p><strong>Dr. Sherman</strong>: It's unlike anything we've seen in plant life before. They're growing, moving, and reacting in ways that blur the line between fauna and flora. It's simultaneously fascinating and deeply concerning.</p>
+<p><strong>Agent Harold</strong>: Concerning in what way?</p>
+<p><strong>Dr. Sherman</strong>: If they're capable of this level of adaptation and growth, I'm not sure we've seen the full extent of their capabilities yet. My fear is— [PAUSE] What if they evolve further?</p>
+<p>[END LOG]</p>
+<h3>Addendum 4: Incident Report I-27343-12</h3>
+<p>On ██/██/20██, a containment breach occurred when an SCP-27343-A instance resembling a mature Betula papyrifera (Paper Birch) overcame the containment fence by uprooting and 'crawling' using its branches. The instance was neutralized approximately 1 km outside of Site-112 by Mobile Task Force Delta-4 ("Gardeners").</p>
+<h3>Addendum 5: Update on Containment Measure Efficacy</h3>
+<p>Substance 112-A has proven effective in inhibiting the propagation of SCP-27343 to unaffected plant life. However, it does not reverse changes in plants already affected by SCP-27343. Continuing applications every six weeks are recommended until a permanent solution is found.</p>
+<h3>Addendum 6: Recovery Log R-27343</h3>
+<p>SCP-27343 was initially thought to be recovered from a derelict industrial facility owned by ███████ Corp., although it has since been determined that the phenomenon predated Foundation intervention by an unknown number of years. Foundation historians are investigating potential connections to indigenous lore and pre-colonial activities in the area.</p>
+<h3>Addendum 7: Theoretical Essays on SCP-27343's Origins</h3>
+<p>Several theories have been proposed regarding the origins of SCP-27343, ranging from an uncontained biological experiment to the awakening of an ancient natural entity. Further research and correlations with global SCP occurrences are ongoing.</p>
+<h3>Addendum 8: Correspondence with Global Occult Coalition</h3>
+<p>Correspondence with the Global Occult Coalition (GOC) has revealed similar phenomena in other regions, suggesting a possible pattern. Collaboration with the GOC is underway to analyze these occurrences and develop a comprehensive understanding of SCP-27343’s global impact.</p>
+<h3>Addendum 9: Miscellaneous Notes on Floral Communication</h3>
+<p>Observations suggest that SCP-27343-A instances have developed a rudimentary form of communication via the oscillation of their branches and leaves, which impacts their collective movements and behaviors. The full implications of this 'language' remain to be deciphered.</p>
+<h3>Addendum 10: Upgraded Containment Proposals</h3>
+<p>Given the persistent challenges in containing SCP-27343, a series of proposals for enhanced containment measures have been put forth, including the construction of underground barriers and the development of specialized drones for monitoring and intervention purposes. Approval and resource allocations are pending.</p>
+<p>The SCP-27343 case remains under active investigation, with a mandate for constant vigilance and adaptability in response to an unpredictable and evolving anomalous threat.</p></div>
