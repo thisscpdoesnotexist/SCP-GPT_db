@@ -1,0 +1,62 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+        img{width: 100%;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27338 is  giant ambulatory man-eating eggplants </h3> </center>
+    <h3>Item #: SCP-27338 - "The Aubergine Maw"</h3>
+<h3>Object Class: Keter</h3>
+<p><img alt="AI SCP Image" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGhOdI9rvU8B2k6fKIADBBnw/user-hWQHyouHabExfx3wNo9Oj0PX/img-1f9C6UtC0vxgcTkFkNEdP6G4.png?st=2024-02-22T08%3A01%3A27Z&amp;se=2024-02-22T10%3A01%3A27Z&amp;sp=r&amp;sv=2021-08-06&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-02-22T01%3A40%3A54Z&amp;ske=2024-02-23T01%3A40%3A54Z&amp;sks=b&amp;skv=2021-08-06&amp;sig=h7yLIo4aoNIAN6As9TqK2HYyHIGqksK0RbGBWx7Vl6M%3D" /></p>
+<h3>Description:</h3>
+<p>SCP-27338 refers to a species of ambulatory predatory plants that resemble oversized eggplants (Solanum melongena). These entities are capable of locomotion through a series of muscular contractions resembling peristalsis and are armed with large, razor-sharp leaves that function similarly to teeth. SCP-27338 instances exhibit a high degree of intelligence and have been observed employing basic hunting strategies to capture and consume live prey, including humans.</p>
+<p>SCP-27338 instances can reach up to 3 meters in length and 1 meter in diameter when fully grown. Their skin is tough, with a purplish-black hue characteristic of common eggplants but is surprisingly resilient to physical damage. A translucent mucus secreted by SCP-27338 allows it to slide over surfaces with ease. Internally, SCP-27338 possesses a complex digestive system capable of dissolving most organic matter within hours.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to their ability to move stealthily and rapidly, SCP-27338 specimens are to be contained within a specialized, high-security greenhouse complex located at Bio-Containment Site-112. The greenhouse facility is to be constructed from reinforced concrete walls, equipped with an electrified grid flooring, and surveilled by thermal imaging cameras to detect any unauthorized movement.</p>
+<p>All personnel entering the greenhouse must wear a Type-B hazardous material suit with additional Kevlar reinforcement and be accompanied by at least two (2) armed security officers. In the event of an SCP-27338 breach, the facility is to be locked down, and a site-wide alert is to be issued. Lethal force is authorized against any instances attempting escape.</p>
+<p>Nutrition for SCP-27338 instances is to be provided in the form of live cattle, which are to be introduced into the containment area bi-weekly under heavy sedation.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<h4>1.1 Initial Encounter</h4>
+<p>SCP-27338 was first discovered in [REDACTED], a rural village situated near the [REDACTED] rainforest, following reports of disappearing livestock and locals. A Foundation reconnaissance team encountered an aggressive instance of SCP-27338 consuming a bovine.</p>
+<h4>1.2 Containment Efforts</h4>
+<p>The first SCP-27338 instance was neutralized, and its remains were transported to Bio-Containment Site-112 for examination. It became apparent that these instances require a specialized containment strategy due to their hunting prowess, intelligence, and physical resilience.</p>
+<h3>Addendum 2: Experiment Log 27338-A</h3>
+<h4>Experiment A1: Physical Durability Testing</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Procedure:</strong> Various caliber rounds fired at SCP-27338 specimen.
+<strong>Result:</strong> SCP-27338's epidermis resisted bullets up to 9mm. Higher calibers caused superficial damage. Specimen became highly agitated, regenerating superficial wounds within hours.
+<strong>Notes:</strong> SCP-27338's hide is more durable than initially anticipated. Recommend exploring alternative containment measures.</p>
+<h4>Experiment A2: Dietary Preference Analysis</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Procedure:</strong> Presented SCP-27338 with a selection of different animal meats.
+<strong>Result:</strong> SCP-27338 ignored processed meats, showing preference for live or freshly killed offerings.
+<strong>Notes:</strong> Live prey is necessary to maintain the physical health and behavior consistent with SCP-27338's observed patterns in the wild.</p>
+<h4>Experiment A3: Intelligence Assessment</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Procedure:</strong> Complex puzzle with reward mechanism to measure problem-solving abilities.
+<strong>Result:</strong> SCP-27338 completed the puzzle in an unexpectedly short period.
+<strong>Notes:</strong> Instances show problem-solving capabilities on par with higher-functioning cephalopods. Potential for communication or negotiation is currently being explored.</p>
+<h3>Addendum 3: Incident Report 27338-01</h3>
+<h4>Incident 01: Containment Breach Summary</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Detail:</strong> SCP-27338 specimen breached containment during nutritional delivery. It ambushed two personnel, resulting in one fatality before being subdued.
+<strong>Response Action:</strong> Improved security measures during feeding times have been instated, including remote feeding mechanisms and increased surveillance.</p>
+<h3>Addendum 4: Interview Log 27338-1</h3>
+<h4>4.1 Interview with Dr. [REDACTED]</h4>
+<p><strong>Dr. [REDACTED]:</strong> "SCP-27338 is unlike any predatory flora we've seen. The social behaviors they exhibit during hunts could revolutionize our understanding of plant intelligence."</p>
+<h3>Addendum 5: Recovery Log</h3>
+<h4>5.1 Initial Securement of SCP-27338 Instances</h4>
+<p>Following Incident Report 27338-01, Mobile Task Force Delta-7 ("Gardeners") was dispatched to [REDACTED] for the recovery and transport of additional SCP-27338 specimens. The team encountered a group of three (3) instances, securing them with minimal casualties. </p>
+<h3>Addendum 6: Updates</h3>
+<h4>Update 01: Containment Procedure Revision</h4>
+<p>As of ██/██/████, containment procedures have been updated to include electromagnetic barriers due to SCP-27338's observed reaction to certain frequencies, which interrupt its locomotive abilities.</p>
+<h4>Update 02: Breeding Discovery</h4>
+<p>New data has emerged suggesting that SCP-27338 instances may possess hermaphroditic reproductive capabilities. This finding necessitates an immediate reassessment of current containment practices to prevent potential population control issues.</p>
+<h3>Addendum 7: Miscellaneous</h3>
+<h4>Log of Anomalous Properties</h4>
+<p>Further an<strong>al</strong>yses have revealed additional anomalous properties of SCP-27338, including rapid regenerative abilities and possible telepathic communication between instances. Ongoing research aims to understand these phenomena fully.</p>
+<h3>Addendum 8: Interview Log 27338-2</h3>
+<h4>8.1 Interview with Witness from [REDACTED]</h4>
+<p>This interview provides insights into local folklore surrounding creatures, which bear a striking resemblance to SCP-27338 known as "The Night Farmers.” The indigenous tales may offer cultural context to SCP-27338's existence and behaviors.</p></div>
