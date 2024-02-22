@@ -1,8 +1,4 @@
 
-    <style>
-        .justifier {text-align: justify; text-justify: inter-word;}
-        img{width: 100%;}
-    </style>
 
     <div class="justifytext">
     

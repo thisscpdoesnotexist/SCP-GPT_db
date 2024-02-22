@@ -1,12 +1,8 @@
+<div class="justifytext">
 
-    <style>
-        .justifier {text-align: justify; text-justify: inter-word;}
-    </style>
+<center> <h3> SCP-{scp_num} is {scp_prompt} </h3> </center>
+<hr />
 
-    <div class="justifytext">
-
-    <center> <h3> SCP-{scp_num} is {scp_prompt} </h3> </center>
-    <hr />
 <p><strong>Item #:</strong> SCP-25667</p>
 <p><strong>Object Class:</strong> Safe</p>
 <p><strong>Description:</strong></p>

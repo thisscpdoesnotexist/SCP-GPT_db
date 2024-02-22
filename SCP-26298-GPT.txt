@@ -1,7 +1,5 @@
 
-    <style>
-        .justifier {text-align: justify; text-justify: inter-word;}
-    </style>
+
 
     <div class="justifytext">
     
