@@ -1,0 +1,62 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27333 is  "Clown Meat," a little clown made of meat </h3> </center>
+    <h3>Item #: SCP-27333 - "Clambake"</h3>
+<h3>Object Class: Euclid</h3>
+<h3>Description:</h3>
+<p>SCP-27333, colloquially referred to as "Clambake," is a humanoid entity approximately 40 centimeters in height, resembling a traditional circus clown. The entity's most distinguishing feature is that its entire physical structure, excluding its attire, is composed of living, sentient muscle tissue akin to that found in Homo sapiens. Genetic testing reveals no identifiable terrestrial origin for SCP-27333's muscle tissue.</p>
+<p>SCP-27333 exhibits the ability to manipulate its muscle tissue in a manner similar to cephalopods, allowing it to perform physical feats such as stretching limbs, compressing its body to fit through small openings, and changing its surface texture. These abilities have made containment challenging.</p>
+<p>SCP-27333 has not demonstrated vocal capacity but communicates via pantomime and occasionally by arranging its body tissue into simplistic symbols. Interviews and interactions suggest that SCP-27333 possesses intelligence comparable to a human child aged 6-8 years.</p>
+<p>SCP-27333 requires sustenance in the form of raw meats and has shown a strong preference for poultry. It consumes food through a small, toothless orifice located where a human navel might be, the process by which nutrients are assimilated remains under study.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27333 is to be contained within a standard humanoid containment cell, modified with an inaccessible double layer of plexiglass and steel bars to prevent the entity's escape through manipulation of its form. The cell is to be kept under surveillance at all times.</p>
+<p>Personnel interacting with SCP-27333 must wear puncture-resistant suits due to the entity's occasional aggressive behaviors during stress or hunger. Interaction is only permitted during scheduled feeding times or testing procedures.</p>
+<p>To prevent psychological distress, SCP-27333 is allowed a selection of non-anomalous clown-related paraphernalia, including juggling balls and a unicycle. Items are to be replaced or repaired by D-Class personnel on a monthly basis.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<h4>Discovery Record</h4>
+<p>SCP-27333 was discovered on ██/██/████ after reports of a "carnivorous jester" sighted in [REDACTED], Florida. Local authorities dispatched to the described location found SCP-27333 consuming a raw chicken behind a supermarket. Mobile Task Force Gamma-6 ("Deep Feeders") was deployed to recover the entity.</p>
+<h4>Witness Interviews</h4>
+<p>Several eyewitnesses reported seeing SCP-27333 performing antics often associated with circus clowns before consuming raw meat products. Some reported feelings of uneasiness, while children seemed entertained until SCP-27333's eating habits were observed.</p>
+<h3>Addendum 2: Experiment Logs</h3>
+<h4>Experiment A</h4>
+<p><strong>Purpose:</strong> To assess SCP-27333's physical limitations.</p>
+<p><strong>Procedure:</strong> SCP-27333 was presented with various obstacles and puzzles designed for children's entertainment centers.</p>
+<p><strong>Result:</strong> SCP-27333 managed to navigate through every challenge with remarkable dexterity, stretching and contorting its body in unexpected ways.</p>
+<h4>Experiment B</h4>
+<p><strong>Purpose:</strong> Test SCP-27333's communication and intelligence level.</p>
+<p><strong>Procedure:</strong> Researchers engaged SCP-27333 with pictorial IQ tests.</p>
+<p><strong>Result:</strong> SCP-27333 demonstrated problem-solving abilities and spatial awareness within the expected range for its apparent maturity level.</p>
+<h4>Experiment C</h4>
+<p><strong>Purpose:</strong> Determine SCP-27333's dietary needs and preferences.</p>
+<p><strong>Procedure:</strong> SCP-27333 was offered a variety of raw meats, vegetables, grains, and confectioneries. </p>
+<p><strong>Result:</strong> SCP-27333 consistently preferred raw meats, especially poultry, and refused all other food options.</p>
+<h3>Addendum 3: Incident Reports</h3>
+<h4>Incident 27333-A</h4>
+<p>During routine cell maintenance, SCP-27333 exploited a small breach in its containment, caused by a tool left behind by a maintenance worker. The breach led to a lockdown sequence. SCP-27333 was discovered in the facility's cafeteria and was returned to containment without hostility after consuming several raw chicken breasts.</p>
+<h3>Addendum 4: Interview Logs</h3>
+<h4>Interview with Dr. ██████</h4>
+<p>Following several successful communication attempts with SCP-27333, a formal interview was conducted to assess its sentience.</p>
+<p><strong>Dr. ██████:</strong> "Can you understand me?"</p>
+<p><em>SCP-27333 nods and juggles three balls.</em></p>
+<p><strong>Dr. ██████:</strong> "Why do you eat meat?"</p>
+<p><em>SCP-27333 pauses, arranges its muscle tissue into a question mark, then a chicken leg.</em></p>
+<p><strong>Dr. ██████:</strong> "Do you miss where you came from?"</p>
+<p><em>SCP-27333 droops its form and remains motionless.</em></p>
+<h4>Interview with Maintenance Worker</h4>
+<p><strong>Interviewer:</strong> "Can you describe what happened during the incident?"</p>
+<p><em>Maintenance Worker:</em> "Yeah, I swear, I just put down my toolbox for a second, and this little guy squeezed out like toothpaste! Next thing you know, sirens are blaring, and we're flipping tables looking for it."</p>
+<h3>Addendum 5: Update to Containment Procedures</h3>
+<p>Following Incident 27333-A, SCP-27333's containment cell has been fitted with additional security features, including reinforced steel bars and an automatic tool count and retrieval system to prevent similar breaches from occurring.</p>
+<h3>Addendum 6: Recovery Logs</h3>
+<h4>Initial Containment Effort</h4>
+<p>MTF Gamma-6 deployed a baited trap containing raw chicken to secure SCP-27333. Tranquilizers proved ineffective due to SCP-27333's unusual biology. Containment was achieved by physical restraint and transported to Site-███ for further analysis.</p>
+<h3>Addendum 7: Miscellaneous</h3>
+<h4>Artistic Behavior</h4>
+<p>SCP-27333 has shown an interest in art, often arranging its body tissue in patterns or simple images during recreational periods. The art is typically short-lived as SCP-27333 reabsorbs or restructures the tissue shortly after creation.</p>
+<h3>Addendum 8: Addenda Access Restrictions</h3>
+<p>Due to the sensitive nature of some information detailed within the various addenda attached to SCP-27333's documentation, restrictions have been placed on certain files. All requests for access to restricted documents must be approved by at least two Level 4 personnel.</p></div>
