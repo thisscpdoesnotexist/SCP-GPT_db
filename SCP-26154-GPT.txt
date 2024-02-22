@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26154 is  what you thought was a hot fish lady but was actually A BIRMINGHAM RESIDENT </h3> </center>
     <h1>SCP-26154 Documentation</h1>

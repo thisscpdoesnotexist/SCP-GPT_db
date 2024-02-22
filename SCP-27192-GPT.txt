@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-27192 is  a small tightly knit community of Medusa's descendants </h3> </center>
     <h1>SCP-27192</h1>

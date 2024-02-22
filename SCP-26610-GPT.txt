@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26610 is  an alternate universe that was previously similar to our own, but recently begun experiencing an advanced form of conceptual decay, causing entire concepts to stop existing </h3> </center>
     <h3>Item #:</h3>

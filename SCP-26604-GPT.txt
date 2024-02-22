@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26604 is  a future-predicting wardrobe that manifests a complete outfit that provides maximum utility or protection for whoever opens it, based on future events.  </h3> </center>
     <h3>Item #:</h3>

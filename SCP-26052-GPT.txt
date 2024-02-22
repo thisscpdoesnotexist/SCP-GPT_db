@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26052 is  the statement "You heard it straight from the horse's mouth," which can make any prior statement true, regardless of previous veracity. </h3> </center>
     <h1>SCP-26052</h1>

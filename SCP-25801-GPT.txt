@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-25801 is  Snurch (snail church) </h3> </center>
     <h1>SCP-25801: Snurch (Snail Church)</h1>

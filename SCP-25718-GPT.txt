@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-25718 is  a stack of three puppies in a trenchcoat that anomalously manage to convince 95% of people that they're a perfectly normal human being. </h3> </center>
     <h3>Item #:</h3>

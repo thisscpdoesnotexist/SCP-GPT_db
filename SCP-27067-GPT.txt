@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-27067 is  a manhole filled with nothing but void, reaching down the end of the hole shows unspeakable things that can cause someone's death. </h3> </center>
     <h3>Item #:</h3>

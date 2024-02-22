@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26564 is  an entire swarm of talking bats who each believe they're Stevie Wonder (and that all the other bats are wrong) </h3> </center>
     <h3>Item #:</h3>

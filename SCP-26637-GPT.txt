@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26637 is  a sapient mold species capable of performing nuclear fission as a metabolic pathway to obtain energy </h3> </center>
     <h3>Item #:</h3>

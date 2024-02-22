@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26812 is  A temporal anomaly happening in OVH server where the time is slowed down compared to the exterior world. It's caused by OVH miniature black hole research. </h3> </center>
     <h3>Item #:</h3>

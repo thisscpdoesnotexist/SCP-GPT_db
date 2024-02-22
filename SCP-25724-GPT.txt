@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-25724 is  the truth behind the Max Headroom incident that the public isn't aware of. </h3> </center>
     <p>```</p>

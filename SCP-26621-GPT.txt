@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26621 is  Queen Nadia Om, the Blood Flower Imperiatrix of the Gates of Fire. Bearer of the word "Glory", and Goddess of the Seven-Part World </h3> </center>
     <h1>SCP-26621</h1>

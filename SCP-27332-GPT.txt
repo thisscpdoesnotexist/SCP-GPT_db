@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-27332 is  a white skined blue eyed samurail that intelligent AI robot from the future. The foundation discovered that the robots are pretty chill and could be harvested and turned to slave that create dataset for current generation AI training. The datasets are kept private under "business secrets" </h3> </center>
     <h3>Item #: SCP-27332 - "The Ronin Nexus"</h3>

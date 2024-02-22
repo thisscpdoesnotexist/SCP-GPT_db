@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-25694 is  a species of humanoid ambulatory fungus that superficially resemble clowns. </h3> </center>
     <h1>SCP-25694</h1>

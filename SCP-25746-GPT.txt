@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-25746 is  a phenomenon that occurs when you successfully divide by zero (we incorporated blocks in all computers and calculators to block this phenomenon from accidentally happening) </h3> </center>
     <h3>Item #:</h3>

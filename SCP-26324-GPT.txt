@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26324 is  the water wraith of the submerged castle  </h3> </center>
     <h1>SCP-26324: The Water Wraith of the Submerged Castle</h1>

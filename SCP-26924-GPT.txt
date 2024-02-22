@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26924 is  an animated movie so bad, so awfully made, so terrible, that the viewer can literally die from it. </h3> </center>
     <h3>Item #:</h3>

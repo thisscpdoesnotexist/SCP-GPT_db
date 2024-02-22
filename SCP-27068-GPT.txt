@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-27068 is  a genetic disorder that results in the target having unnatural hair colors and being subject to incredibly contrived anime-esque storylines. </h3> </center>
     <h3>Item #:</h3>

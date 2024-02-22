@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26562 is  a violent and non-sentient ghost that takes the form of a chalk outline on the ground </h3> </center>
     <h3>Item #:</h3>

@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-25682 is  a teenage girl cursed by her classmate to have anomalously oily skin </h3> </center>
     <h1>SCP-25682</h1>

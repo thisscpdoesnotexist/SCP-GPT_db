@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26104 is  two frog wizards who hate each other (but there's also an unspoken romantic tension during their regular, destructive wizard duels) </h3> </center>
     <h3>Item #:</h3>

@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26831 is  a gullible female reality warper who unknowingly warps reality based on the lies she's tricked into believing. She's responsible for turning the Earth round after reading up on round Earth theorists. </h3> </center>
     <h3>Item #:</h3>

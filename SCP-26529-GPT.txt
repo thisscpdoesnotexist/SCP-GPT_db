@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26529 is  was a gender reveal party that, due to a number of contrived causes and effects, managed to destroy the alternate universe it took place in. </h3> </center>
     <h3>Item #:</h3>

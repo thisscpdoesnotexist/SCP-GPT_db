@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26592 is  a wardrobe that predicts the future to manifest an appropriate outfit for whoever opens it. (I.e: it conjures a hard hat for someone who would otherwise get a head injury, etc...) </h3> </center>
     <h3>Item #:</h3>

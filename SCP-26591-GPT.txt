@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26591 is  is three anomalous pigs, each tattooed with a "1" "2" and "4" respectively, released in a foundation facility by the Serpent's Hand as a sabotage. </h3> </center>
     <h3>Item #:</h3>

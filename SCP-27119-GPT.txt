@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-27119 is  the last known copy of the movie Goncharov, by Martin Scorsese. </h3> </center>
     <h3>Item #:</h3>

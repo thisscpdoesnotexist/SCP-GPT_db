@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26061 is  an acrylic painting of a huge armoured viking warrior woman biting into an oversized ham-on-a-bone </h3> </center>
     <h3>Item #:</h3>
