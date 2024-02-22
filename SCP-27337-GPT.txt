@@ -1,0 +1,72 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+        img{width: 100%;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27337 is  an allegory for dementia </h3> </center>
+    <h3>Item #: SCP-27337 - The Memory Fracture</h3>
+<h3>Object Class: Keter</h3>
+<p><img alt="AI SCP Image" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGhOdI9rvU8B2k6fKIADBBnw/user-hWQHyouHabExfx3wNo9Oj0PX/img-WXYHn2xTJijYP8QVb3PxuRPe.png?st=2024-02-22T05%3A02%3A24Z&amp;se=2024-02-22T07%3A02%3A24Z&amp;sp=r&amp;sv=2021-08-06&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-02-21T23%3A54%3A20Z&amp;ske=2024-02-22T23%3A54%3A20Z&amp;sks=b&amp;skv=2021-08-06&amp;sig=%2BHlB63M69z4nZgvZwrF%2BuFafPFti9n8xa0PH7t1PDHU%3D" /></p>
+<h3>Description:</h3>
+<p>SCP-27337 is a cognitohazard manifesting as an intangible, infectious phenomenon targeting human memory and cognition. It induces progressive dementia-like symptoms in affected subjects (hereafter referred to as SCP-27337-1). Unlike most medical cases of dementia, SCP-27337's progression is erratic and can transmit between individuals via direct eye contact, written communication discussing personal memories, or prolonged proximity (approx. 30 minutes within a 2-meter radius).</p>
+<p>SCP-27337's effect on a person's memory follows a notably non-linear degradation pattern, with recent memories often degrading simultaneously alongside much older memories. Subjects afflicted with SCP-27337 exhibit memory loss, confusion, aphasia, and in later stages, total personality erosion. Importantly, the process demonstrates a unique signature: affected memories seemingly “fracture,” with subjects confusing timelines and exhibiting knowledge of events from alternate personal histories or parallel existences. This phenomenon suggests an anomalous influence on the very fabric of reality and individual identity.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given its contagious nature, SCP-27337's containment focuses on isolation and information control. Any individual diagnosed with SCP-27337 is to be contained within a specialized memory isolation unit (MIU) at Site-19. Each MIU is equipped to minimize stimuli that could trigger the spreading of SCP-27337. Communication between staff and subjects must use simplified pictographic language to avoid discussing personal memories.</p>
+<p>Affected subjects' homes and frequented locations are to be sanitized of personal effects, with Class-C amnestics administered to close acquaintances to remove specific recollection of the subject, diminishing the chance of SCP-27337 spreading via memory association.</p>
+<p>Observation of SCP-27337-1 subjects is critical to understanding the SCP; however, no direct contact is permitted without Level 4 authorization and adequate personal protective equipment to prevent cognitive transmission.</p>
+<p>Information concerning SCP-27337 is to be encrypted using non-semantic keys, with data storage isolated from the main Foundation network to prevent accidental cognitive contamination.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27337 was initially identified following an unusual pattern of dementia cases reported in [REDACTED], Italy. A significant portion of the local population over the age of 45 experienced rapid-onset cognitive decline, with their memories appearing inconsistent with known realities. Foundation field agents embedded within the World Health Organization were dispatched and identified the anomalous nature of the condition, leading to the establishment of initial containment procedures.</p>
+<h3>Addendum 2: Victim Testimony (Excerpts)</h3>
+<ul>
+<li>Subject A: “Last week, I was in my twenties and climbing Mount Kilimanjaro. I've never climbed a mountain, have I?”</li>
+<li>Subject B: “My son visited yesterday. He's been dead for years... Even brought my dog, who I never owned.”</li>
+<li>Subject C: “I remember the future. It's fading, but... I'm forgetting tomorrow.”</li>
+</ul>
+<h3>Addendum 3: Experiment Log 27337-E001</h3>
+<h4>Introduction:</h4>
+<p>To study SCP-27337's transmissivity and effects, D-class personnel were exposed under controlled conditions, with comprehensive monitoring throughout. </p>
+<h4>Experiment 1:</h4>
+<ul>
+<li><strong>Subject:</strong> D-5902</li>
+<li><strong>Procedure:</strong> Prolonged exposure to SCP-27337-1 through a one-way mirror for one hour.</li>
+<li><strong>Results:</strong> No signs of SCP-27337 infection post-exposure, suggesting visual contact without awareness may not be sufficient for transmission.</li>
+</ul>
+<h4>Experiment 2:</h4>
+<ul>
+<li><strong>Subject:</strong> D-7599</li>
+<li><strong>Procedure:</strong> Engaged in a monitored conversation about family history with SCP-27337-1.</li>
+<li><strong>Results:</strong> D-7599 exhibited initial symptoms within 48 hours, including confusion about personal past events that differed from D-7599's documented history.</li>
+</ul>
+<h4>Experiment 3:</h4>
+<ul>
+<li><strong>Subject:</strong> D-4031</li>
+<li><strong>Procedure:</strong> Exchange of written letters with SCP-27337-1 over two weeks. D-4031 was informed SCP-27337-1 was a pen pal.</li>
+<li><strong>Results:</strong> D-4031 began to manifest divergent memories, suggesting written transmission is indeed viable. </li>
+</ul>
+<p>The remaining experiments were suspended after numerous D-class subjects contracted SCP-27337 and the scope of the anomaly's mutagenic capabilities upon reality became clear.</p>
+<h3>Addendum 4: Interview Log 27337-I004</h3>
+<h4>Interviewer: Dr. Anna Kowalski</h4>
+<h4>Interviewed: SCP-27337-1, formerly Dr. Marco Valenti (M.V.)</h4>
+<p><strong>Dr. Kowalski:</strong> Dr. Valenti, can you describe—</p>
+<p><strong>M.V.:</strong> (Interrupting) Marco, please. Dr. Valenti... I'm fading from him.</p>
+<p><strong>Dr. Kowalski:</strong> Alright, Marco, can you describe your earliest memory affected by the SCP?</p>
+<p><strong>M.V.:</strong> I meet people. People I know deep down are not real... invented friends, places I've never seen... My wedding, a beach, but... (pauses) I was never married.</p>
+<p><strong>Dr. Kowalski:</strong> What about your work here, at the Foundation?</p>
+<p><strong>M.V.:</strong> It's slipping. I remember containment procedures, but... (pauses) For things that don't exist? Maybe never existed?</p>
+<p>[Interview is terminated as subject begins to sob uncontrollably, reality of his condition setting in.]</p>
+<h3>Addendum 5: Recovery Log</h3>
+<p>The original vector for SCP-27337 remains unidentified. Efforts to trace its origin are complicated by the memory-altering effects of the anomaly. Archived documents, family records, and personal journals from the initial outbreak region are under ongoing analysis to detect possible patterns or sources pertaining to SCP-27337 inception.</p>
+<h3>Addendum 6: Theoretical Essays on SCP-27337's Ontological Effects</h3>
+<p>Foundation researchers theorize SCP-27337 may not only affect memories but potentially could be altering the structure of reality on a quantum level. This theory is supported by observed inconsistencies in the personal histories of affected individuals. If SCP-27337 is indeed capable of fracturing reality, the implications for containment and reality stability are profound and deeply concerning.</p>
+<h3>Addendum 7: Containment Procedure Updates</h3>
+<p>Containment procedures have been updated to include the latest mitigation strategies. Realizing the inefficacy of visual isolation, focus has shifted to preventing the sharing of personal memories and histories. Staff are advised to adhere strictly to newly implemented amnestic protocols.</p>
+<h3>Addendum 8: Incident Report 27337-A14</h3>
+<p>On ██/██/████ a containment breach occurred when SCP-27337-1 managed to escape the MIU by exploiting an unsecured maintenance hatch. The subject interacted with five personnel before being contained. All affected individuals showed immediate symptoms and were placed in isolation. Site-19 has since reinforced physical containment measures and initiated a review of maintenance protocols.</p>
+<h3>Addendum 9: Psychological Impact on Staff</h3>
+<p>The nature of SCP-27337 has had a deleterious effect on staff morale. The potential for losing one's memories and sense of self has been described as "terrifying" and a "fate worse than death." Psychological support has been made available to all personnel involved in the containment of SCP-27337.</p>
+<h3>Addendum 10: Ethics Committee Review</h3>
+<p>The Ethics Committee has reviewed the containment and experimentation procedures associated with SCP-27337. Given the severe impact on the individuality and personal integrity of SCP-27337-1 subjects, further research has been restricted to only the most essential studies, with an emphasis on minimizing harm to infected subjects while maintaining the safety and security of global reality.</p></div>
