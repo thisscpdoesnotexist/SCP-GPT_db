@@ -1,0 +1,76 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+        img{width: 100%;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27336 is  a blue ice dragon and a red fire dragon. The two of them fight since millenia, but they are secretly in love and use foundation experiments as date opportunity </h3> </center>
+    <h3>Item #: SCP-27336 - "Eternal Warring Flames"</h3>
+<h3>Object Class: Euclid</h3>
+<p><img alt="AI SCP Image" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGhOdI9rvU8B2k6fKIADBBnw/user-hWQHyouHabExfx3wNo9Oj0PX/img-O0iHplYL3tJN2mhBaiGTZ407.png?st=2024-02-22T02%3A02%3A06Z&amp;se=2024-02-22T04%3A02%3A06Z&amp;sp=r&amp;sv=2021-08-06&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-02-21T23%3A09%3A58Z&amp;ske=2024-02-22T23%3A09%3A58Z&amp;sks=b&amp;skv=2021-08-06&amp;sig=YBflsVOqnpLXc%2BXmoFQ0%2BBP/0aw3ObzjkfK9M9jPqEw%3D" /></p>
+<h3>Description:</h3>
+<p>SCP-27336 refers to two distinct entities, SCP-27336-A and SCP-27336-B, commonly referred to as the "Eternal Warring Flames." SCP-27336-A is a large draconic creature, approximately 30 meters in length, with scales that shimmer in various shades of blue and emit a palpable cold. SCP-27336-B is a similar creature of equal size, with scales displaying a vibrant red color that radiate intense heat.</p>
+<p>Despite their seemingly destructive nature, these entities have been observed engaging in a complex relationship that spans millennia, characterized by perpetual conflict that suggests both hostility and deep affection. The two creatures are capable of utilizing elemental abilities associated with their respective color, with SCP-27336-A demonstrating control over ice and cold, and SCP-27336-B wielding fire and heat. These powers appear to be used primarily in their encounters with each other.</p>
+<p>Further examination and interview logs indicate that SCP-27336-A and SCP-27336-B are sentient with their own distinct personalities and capable of understanding and speaking various human languages. The "battles" between them are highly ritualistic and choreographed, giving rise to the hypothesis that these confrontations may serve as courtship or bonding activities rather than genuine fights.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27336 are currently held in a customized dual containment area located within Site-███. The containment area is split into two separate environments tailored to the comfort of each entity. SCP-27336-A is contained in a cryogenically controlled habitat capable of withstanding and containing extreme sub-zero temperatures. SCP-27336-B is contained within a thermally reinforced habitat designed to endure and contain excessively high temperatures.</p>
+<p>These containment areas are equipped with retractable partitions that can be removed to allow SCP-27336-A and SCP-27336-B to interact under controlled conditions. Interaction is permitted only during supervised testing or as a reward for cooperative behavior with Foundation researchers and personnel. At all times, at least two emergency response teams with specialized equipment for extreme temperatures must be on standby in the event of a containment breach or uncontrollable behavior from either entity.</p>
+<p>Given the entities' apparent desire for interaction, these scheduled meetings are used both as a form of behavioral reinforcement and as a means to accumulate further data on SCP-27336's capabilities and social structures.</p>
+<h3>Addendum 1: Discovery and Initial Containment</h3>
+<ul>
+<li><strong>Discovery Location</strong>: SCP-27336 were first encountered in [REDACTED], a remote area in the northern hemisphere where local legends spoke of two eternal dragons locked in combat.</li>
+<li><strong>Containment Efforts</strong>: Initially, the entities were hostile towards containment teams. However, after realizing that Foundation personnel could provide them with a stable environment where they could engage with one another without causing collateral damage, SCP-27336 acquiesced to containment without further resistance.</li>
+</ul>
+<h3>Addendum 2: Experiment Log - Elemental Affinities</h3>
+<ul>
+<li><strong>Experiment 27336-01</strong>:</li>
+<li><strong>Objective</strong>: To define the limits of SCP-27336-A and SCP-27336-B's elemental control.</li>
+<li><strong>Observations</strong>: Both entities displayed precise control over their respective elements, sculpting intricate forms symbolizing various aspects of their "combat."</li>
+<li><strong>Outcome</strong>: The interaction was jovial, resembling a dance more than a duel.</li>
+</ul>
+<h3>Addendum 3: Interview Log - SCP-27336-A</h3>
+<ul>
+<li><strong>Interviewer</strong>: Dr. Calhoun</li>
+<li><strong>Subject</strong>: SCP-27336-A</li>
+<li><strong>Abstract</strong>: SCP-27336-A expresses enjoyment in the routine experiments, referring to them as "rendezvous" with SCP-27336-B, and remarks on the lengthy shared history.</li>
+</ul>
+<h3>Addendum 4: Interview Log - SCP-27336-B</h3>
+<ul>
+<li><strong>Interviewer</strong>: Dr. Wagner</li>
+<li><strong>Subject</strong>: SCP-27336-B</li>
+<li><strong>Abstract</strong>: SCP-27336-B shows a deep understanding of SCP-27336-A's tendencies and moods. Describes their combats as a form of "fiery passion" and "courtship through the ages."</li>
+</ul>
+<h3>Addendum 5: Incident Report - Uncontained Interaction</h3>
+<ul>
+<li><strong>Date</strong>: ██/██/████</li>
+<li><strong>Summary</strong>: SCP-27336-A and SCP-27336-B breached containment during a scheduled experiment due to a malfunction in the partition retracting mechanism. Both entities disregarded their potential freedom and instead engaged in a vibrant display of their powers, creating an elaborate aerial spectacle visible for several kilometers before returning to containment voluntarily.</li>
+</ul>
+<h3>Addendum 6: Experiment Log - Emotional Understanding</h3>
+<ul>
+<li><strong>Experiment 27336-07</strong>:</li>
+<li><strong>Objective</strong>: To assess the emotional comprehension and empathic range of both entities.</li>
+<li><strong>Trial</strong>: Each entity was exposed to various emotional stimuli including images, sounds, and storytelling.</li>
+<li><strong>Outcome</strong>: SCP-27336 displayed aptitude for emotional depth, bonding over shared stimuli and demonstrating protective behaviors when one appeared distressed.</li>
+</ul>
+<h3>Addendum 7: Update - Containment Procedures Revision</h3>
+<ul>
+<li><strong>Revised Procedures</strong>: In light of SCP-27336's noteable cooperation and minimal risk of true escape, containment procedures have been relaxed to allow for more frequent interactions between the entities, as long as they remain under surveillance. This change is anticipated to further research opportunities and strengthen containment incentives for SCP-27336.</li>
+</ul>
+<h3>Addendum 8: Misc - Cultural Significance</h3>
+<ul>
+<li><strong>Research Notes</strong>: Historical texts and folklore across multiple cultures reference dual dragons locked in an eternal dance of ice and fire. These legends correlate strongly with SCP-27336's behavior, hinting at a possible cultural impact spanning human history.</li>
+</ul>
+<h3>Addendum 9: Recovery Logs - Historical Encounters</h3>
+<ul>
+<li><strong>Earliest Recorded Sighting</strong>: Dating back to ancient civilizations, SCP-27336 are depicted in various forms of art, suggesting their interactions with humanity date back several millennia.</li>
+<li><strong>Notable Historical Incidents</strong>: Instances of region-wide unexplainable temperature fluctuations in historical records are posited to correlate with SCP-27336's activities prior to containment.</li>
+</ul>
+<h3>Addendum 10: Experiment Log - Coordinated Elemental Display</h3>
+<ul>
+<li><strong>Experiment 27336-15</strong>:</li>
+<li><strong>Objective</strong>: To encourage cooperative elemental creation between SCP-27336-A and SCP-27336-B.</li>
+<li><strong>Procedure</strong>: Both entities were given a theme to represent through their elemental manipulation.</li>
+<li><strong>Outcome</strong>: SCP-27336-A and SCP-27336-B managed to create a synchronized display illustrating a tale of two beings locked in an ageless dance, intertwining ice and fire in a stunningly balanced exhibition. The experiment concluded with both entities appearing contented and more affectionately disposed towards each other than observed in previous interactions.</li>
+</ul></div>
