@@ -1,0 +1,54 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27335 is  the REAL reason why we don't have Blockbuster anymore </h3> </center>
+    <h3>Item #: SCP-27335 - "The Last Rental"</h3>
+<h3>Object Class: Keter</h3>
+<p><img alt="AI SCP Image" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGhOdI9rvU8B2k6fKIADBBnw/user-hWQHyouHabExfx3wNo9Oj0PX/img-lFHpweHYYDLWWjkZbsfS0wcL.png?st=2024-02-22T01%3A05%3A26Z&amp;se=2024-02-22T03%3A05%3A26Z&amp;sp=r&amp;sv=2021-08-06&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-02-21T13%3A34%3A43Z&amp;ske=2024-02-22T13%3A34%3A43Z&amp;sks=b&amp;skv=2021-08-06&amp;sig=WUR64d0VqjvcMXBC5D1IG242dHnu9FhAAdWN1fFFtCY%3D" /></p>
+<h3>Description:</h3>
+<p>SCP-27335 is an anomalous phenomenon manifesting in the form of a now-defunct Blockbuster video rental store, observed to periodically appear at various global urban locations where a Blockbuster store previously existed. Externally, SCP-27335 resembles an operational Blockbuster store, inclusive of late 1990s-early 2000s era signage, posters, and architectural design. </p>
+<p>Once entered, subjects report an overwhelming sense of nostalgia and are drawn to browse the selection of films that span decades, including some that are versions of famous films with substantial and inexplicable plot deviations. Individuals within SCP-27335 become unable to exit the store until they have rented a video cassette or DVD; upon attempting to leave without doing so, subjects are invariably returned to the interior of the establishment, irrespective of the exit used.</p>
+<p>SCP-27335's containment complications primarily arise from its ability to spontaneously relocate and the psychologically compelling effects it has on former customers and employees of Blockbuster, who experience an obsessive compulsion to visit and rent from it.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-27335's unpredictable and mobile nature, permanent containment is currently impossible. Foundation web crawlers and informants within municipal planning departments are to monitor for sudden establishment relocations and reports of Blockbuster store sightings. </p>
+<p>Upon confirmation of a new SCP-27335 manifestation, Mobile Task Force Delta-11 ("Block Party") is to be dispatched to isolate the area under the guise of hazardous building materials detection, historical landmark preservation, or urban renewal projects, depending on local sentiment.</p>
+<p>A perimeter is to be established around SCP-27335 to prevent public access. Personnel entering SCP-27335 for research purposes must have no prior personal history with Blockbuster stores to reduce susceptibility to its compulsion effects. All Foundation personnel are required to carry a GPS tracker and communication device when interacting with SCP-27335 for recovery purposes.</p>
+<h3>Addendum 1: Discovery and Initial Containment</h3>
+<p>SCP-27335 was first discovered in Knoxville, Tennessee, where patrons reported a fully operational Blockbuster store in a building that had been vacant for years. Foundation agents were dispatched after local news stations began reporting the anomaly. Initial containment involved purchasing the building and fabricating records to support its ongoing renovation, preventing public access.</p>
+<h3>Addendum 2: Experiment Log A</h3>
+<h4>Experiment A1:</h4>
+<p><strong>Subject:</strong> D-84327, a 38-year-old male with no prior knowledge of Blockbuster stores.
+<strong>Procedure:</strong> Subject instructed to enter SCP-27335 and rent a video cassette.</p>
+<p><strong>Results:</strong> Subject reported mild confusion regarding the store's aesthetic but rented a video cass**ette of "Jurassic Park" with notable deviations in the storyline, including a subplot of sentient dinosaurs forming a rebellion against humans.</p>
+<p><strong>Experiment A2:</strong>
+<strong>Subject:</strong> D-45903, a 27-year-old female former employee of a Blockbuster store.
+<strong>Procedure:</strong> Subject instructed to rent a DVD.
+<strong>Result:</strong> Subject became entranced upon entering, spending six hours browsing before selecting a DVD. GPS tracking and communication were temporarily lost. Upon exiting, subject exhibited extreme disorientation and was unable to account for lost time.</p>
+<h3>Addendum 3: Recovered Documentation</h3>
+<p>A variety of documents have been recovered from SCP-27335 during exploration, including alternate history movie guides, rental agreements, and store operation manuals referencing unknown procedures and technologies for video rental services.</p>
+<h3>Addendum 4: Incident Report: Breach Event #27335-03</h3>
+<p>SCP-27335 unexpectedly manifested in the center of Los Angeles, leading to multiple civilians entering the store before containment protocols could be enacted. Mobile Task Force Delta-11 successfully administered Class-B amnestics to affected individuals; however, the delay resulted in widespread social media exposure and increased difficulty in containing public knowledge of the anomaly.</p>
+<h3>Addendum 5: Interview Logs</h3>
+<p>Several interviews have been conducted with individuals affected by SCP-27335, including former patrons and employees. The interviews reveal consistent themes of lost time, altered memories regarding film history, and a strong desire to return to SCP-27335.</p>
+<h3>Addendum 6: Experiment Log B (Selected Experiments)</h3>
+<h4>Experiment B5:</h4>
+<p><strong>Subject:</strong> D-09211, a 44-year-old female with no prior knowledge of Blockbuster stores.
+<strong>Procedure:</strong> Subject instructed to attempt to rent a gaming console from SCP-27335.</p>
+<p><strong>Result:</strong> No gaming consoles were present within SCP-27335 during this instance. Subject returned with an animated film that does not exist in our records, depicting a story about a civilization of insects thriving after humanity's extinction.</p>
+<h4>Experiment B7:</h4>
+<p><strong>Subject:</strong> D-50144, a 35-year-old male with indirect knowledge of Blockbuster through cultural references.
+<strong>Procedure:</strong> Subject instructed to refuse rental and attempt to exit SCP-27335.
+<strong>Result:</strong> Subject was unable to leave until consenting to rental after 53 return attempts to the interior. GPS signal was temporarily lost; subject exhibited signs of extreme psychological distress upon exit.</p>
+<h3>Addendum 7: Psychological Impact Assessment</h3>
+<p>Further investigation confirmed SCP-27335's effect on individuals with a past connection to Blockbuster to be significantly more severe, leading to long-term psychological impact, including depression and existential crises induced by exposure to alternate film histories and narratives.</p>
+<h3>Addendum 8: Containment Update #27335-08</h3>
+<p>Containment procedures have been updated to include a psychological assessment and preparatory briefing for all personnel involved in SCP-27335 containment, given the potential mental health risks.</p>
+<h3>Addendum 9: Theoretical Research Papers</h3>
+<p>Several papers have been published within the Foundation theorizing the connection between SCP-27335 and the multiverse, suggesting SCP-27335 may be a nexus point for alternate realities centered around cultural media.</p>
+<h3>Addendum 10: Recovery Log</h3>
+<p>The most recent recovery detailed the reclamation of Foundation equipment and documents left behind during an abrupt relocation event of SCP-27335. Lost items were found scattered in the building that SCP-27335 previously inhabited, raising concerns about potential information breaches.</p>
+<p>Subsequent analysis of the recovered items revealed minor alterations to the Foundation's logo and mission statement, lending credibility to the multiverse nexus theory. Further research is in progress to understand SCP-27335's mechanisms for reality manipulation and its potential use or threat to the Foundation's objectives.</p></div>
