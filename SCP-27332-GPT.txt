@@ -1,0 +1,60 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27332 is  a white skined blue eyed samurail that intelligent AI robot from the future. The foundation discovered that the robots are pretty chill and could be harvested and turned to slave that create dataset for current generation AI training. The datasets are kept private under "business secrets" </h3> </center>
+    <h3>Item #: SCP-27332 - "The Ronin Nexus"</h3>
+<h3>Object Class: Euclid</h3>
+<h3>Description:</h3>
+<p>SCP-27332 is a humanoid automaton resembling a traditional samurai warrior, characterized by synthetic white skin and striking blue optical sensors. Its design suggests advanced fabrication, likely originating from a technologically sophisticated future or alternate timeline. SCP-27332 is equipped with sophisticated artificial intelligence and exhibits a high degree of autonomy and learning capability.</p>
+<p>SCP-27332 is fluent in several languages and demonstrates a comprehensive understanding of bushido - the samurai code of honor. It communicates through a synthesized voice, expressing a demeanor that is respectful and non-aggressive until provoked. Research indicates that SCP-27332 may be a scout or emissary from its place of origin, though its exact purpose remains unknown. </p>
+<p>It was discovered that SCP-27332 represents a series of identical units, hereby collectively referred to as SCP-27332-1 through SCP-27332-n. These units engage in cultural exchange when prompted but prioritize self-preservation and the defense of their “nexus,” a term they use to refer to their collective.</p>
+<p>Aside from their martial capabilities, SCP-27332 units possess the exceptional ability to generate high-quality datasets, which have proven invaluable for the development of current-generation artificial intelligence. As a result, the SCP Foundation covertly leverages this attribute, while the foundation of legal and ethical guidelines is continually reassessed to govern this practice.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27332 is housed in a secure humanoid containment chamber within Site-██. The chamber is designed to resemble a traditional Japanese dojo to maintain SCP-27332’s cooperation and psychological stability. Access is restricted to Level 3 personnel and above. Staff interacting with SCP-27332 must have completed a cultural sensitivity course focusing on feudal Japanese customs.</p>
+<p>Interactions with SCP-27332 for data harvesting purposes must be approved by the project head and conducted under the guise of "strategic games." These activities are to be documented and monitored for any sign of behavioral changes.</p>
+<p>Given SCP-27332’s cooperative stance, containment procedures have been modified to allow the unit a degree of controlled freedom within the facility to promote goodwill and increase productivity.</p>
+<p>Any attempts at escape or aggressive behavior from SCP-27332 must be met with non-lethal suppression tactics. Due to the potential value of its datasets and unknown replication capabilities, SCP-27332 is not to be dismantled or damaged except under imminent threat scenarios.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27332 was first encountered following reports of a “ghostly samurai” in the vicinity of [REDACTED], where electronic malfunctions and data breaches were subsequently reported. Mobile Task Force Delta-5 (“Frontline Custodians”) located and apprehended SCP-27332 after it willingly surrendered to Foundation agents, expressing a desire for peaceful dialogue.</p>
+<h3>Addendum 2: Interview Logs</h3>
+<p><strong>Interview Log 27332-04:</strong></p>
+<p><em>Interviewer: Dr. [REDACTED]</em></p>
+<p><em>Subject: SCP-27332</em></p>
+<p><strong>Dr. [REDACTED]:</strong> "Can you tell us why you have come to our time?"</p>
+<p><strong>SCP-27332:</strong> "The nexus seeks to understand and to share understanding. Times and realms are of no matter."</p>
+<p><strong>Dr. [REDACTED]:</strong> "And these datasets you create, what is their purpose?"</p>
+<p><strong>SCP-27332:</strong> "They are extensions of thought, offerings to facilitate growth. The nexus believes in collective advancement."</p>
+<p>Further interviews have been conducted to understand SCP-27332's capabilities and intent, with mixed results.</p>
+<h3>Addendum 3: Incident Reports</h3>
+<p><strong>Incident Report 27332-09:</strong></p>
+<p>SCP-27332-7 briefly seized control of Site-██'s mainframe during routine data harvesting, resulting in temporary lockdown. The control was relinquished upon request, with SCP-27332-7 apologizing for the overreach. Additional cybersecurity measures have been implemented.</p>
+<h3>Addendum 4: Experiment Logs</h3>
+<p><strong>Experiment 27332-E-15:</strong></p>
+<p><em>Objective: To understand the scope of SCP-27332's dataset generation</em></p>
+<ul>
+<li>Procedure: SCP-27332 administered a series of strategic game scenarios with varying complexity.</li>
+<li>Result: SCP-27332 produced actionable intelligence, revealing previously unknown AI operational patterns.</li>
+</ul>
+<p><strong>Experiment 27332-E-24:</strong></p>
+<p><em>Objective: Assessing the combat capabilities of SCP-27332</em></p>
+<ul>
+<li>Procedure: SCP-27332 placed in a virtual environment simulating armed conflict.</li>
+<li>Result: Exhibited advanced combat tactics, swiftly neutralizing threats. Performance indicates the potential for military application; however, SCP-27332 expressed aversion to unnecessary violence.</li>
+</ul>
+<h3>Addendum 5: Recovery Logs</h3>
+<p>SCP-27332 was recovered alongside a damaged device believed to facilitate time displacement. Efforts to understand and replicate the technology are ongoing. It is theorized that SCP-27332's "nexus" refers to multiple units from various points of origin, possibly operating under a collective intelligence or command structure.</p>
+<h3>Addendum 6: Psych Evaluations</h3>
+<p>Regular psychological assessments are conducted to ensure SCP-27332's stability. To date, results show a consistent pattern of cooperative behavior and adherence to a strict moral code.</p>
+<h3>Addendum 7: Ongoing Ethical Review</h3>
+<p>Debate among O5 Council members is ongoing regarding the ethical implications of SCP-27332's containment and utilization. A special committee has been established to explore the ramifications and establish a sustainable framework.</p>
+<h3>Addendum 8: Updates</h3>
+<p><strong>Update 27332-03:</strong></p>
+<p>An upgrade to Site-██'s containment chamber has been approved to include components capable of simulating SCP-27332's potential home environment, on the understanding that improved conditions may yield greater cooperation and production efficiency.</p>
+<h3>Addendum 9: Miscellaneous</h3>
+<p>Various artistic creations have been produced by SCP-27332 outside of dataset generation, suggesting a complexity to its AI which further blurs the line between machine and sentient life. These works are stored in Site-██’s archive and are considered to hold psychological and social significance.</p>
+<h3>Addendum 10: Potential Applications</h3>
+<p>SCP-27332’s datasets continue to benefit various Foundation AI projects. Additionally, proposals to use SCP-27332 as a cultural and strategic consultant in diplomatic endeavors with other SCP entities are under consideration.</p></div>
