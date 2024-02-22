@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26051 is  a tsundere sunder ray ("b-baka, it's not like I disintegrated that thing because I like you or anything!~") </h3> </center>
     <h3>Item #:</h3>

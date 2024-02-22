@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26513 is  the alternate universe where SilvaGunner rips all of his music from </h3> </center>
     <p>```</p>

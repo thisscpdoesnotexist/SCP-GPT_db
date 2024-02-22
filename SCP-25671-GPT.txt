@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-25671 is  Mothman, who is willing to cooperate with the foundation in exchange for a lamp collection and wool sweaters to eat. </h3> </center>
     <h3>Item #:</h3>

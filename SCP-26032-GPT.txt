@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26032 is  the platonic ideal of humankind; a hermaphroditic entity that any changes made to will retroactively affect all humankind </h3> </center>
     <h3>Item #:</h3>

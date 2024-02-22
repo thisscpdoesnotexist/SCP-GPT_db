@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-25963 is  a species of flower that turn bees into cute humanoid bee girls but turns anything else into hideous monsters </h3> </center>
     <h3>Item #:</h3>

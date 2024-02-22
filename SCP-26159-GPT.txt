@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26159 is  McDonalds' mascot Grimace, a giant purple maggot-like creature that McDonalds employees milk for burger additives. </h3> </center>
     <p>```</p>

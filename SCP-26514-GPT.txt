@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26514 is  a parasitic song that gets stuck in your head… and eventually takes over from the inside. Several variants have already been documented. </h3> </center>
     <h3>Item #:</h3>

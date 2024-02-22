@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-25681 is  Mac Donald, a character from the fighting game Fighter Guyz, who remains top tier despite countless nerfs and bug fixes. </h3> </center>
     <h3>Item #:</h3>

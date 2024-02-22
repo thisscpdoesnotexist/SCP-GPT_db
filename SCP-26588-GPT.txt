@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26588 is  a wardrobe that allows people to freely shapeshift while inside. Any changes they make to their form are permanent once they leave. </h3> </center>
     <h3>Item #:</h3>

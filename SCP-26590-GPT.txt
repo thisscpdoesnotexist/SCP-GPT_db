@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26590 is  three anomalous pigs, labelled "1" "2" and "4", released in a foundation facility by the Serpent's Hand. </h3> </center>
     <p>```</p>

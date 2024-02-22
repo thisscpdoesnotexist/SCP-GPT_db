@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26318 is  that if you kill Santa, you become the next Santa </h3> </center>
     <h3>Item #:</h3>

@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-25683 is  a somewhat malnourished humanoid sphinx cat who can only eat people who fail to solve her riddles… and unfortunately for her, she's really bad at making riddles. </h3> </center>
     <p>```markdown</p>

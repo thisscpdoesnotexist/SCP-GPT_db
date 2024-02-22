@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26055 is  a fifty foot tall goth woman. The world's biggest goth girlfriend. (She just woke up that big one day) </h3> </center>
     <p>```markdown</p>

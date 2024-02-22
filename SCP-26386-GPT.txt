@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26386 is  "Be not scared, my child. Venture deeper into the forest and pay tribute to my shrine. I am one of the highest rated local deities with over 3000 positive reviews." </h3> </center>
     <h3>Item #:</h3>

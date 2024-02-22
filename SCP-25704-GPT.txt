@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-25704 is  a wizard spellbook that contains spells like "moisten socks", "summon shoe pebble", "hex of manual breathimg," and "inflict half sneeze." </h3> </center>
     <p>```markdown</p>

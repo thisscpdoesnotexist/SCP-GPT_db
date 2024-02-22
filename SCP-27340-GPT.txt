@@ -4,7 +4,7 @@
         img{width: 100%;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-27340 is  a socially anxious abyss that, despite what Nietzsche says, does not gaze back (she's too shy). </h3> </center>
     <h3>Item #: SCP-27340 - "The Introverted Void"</h3>

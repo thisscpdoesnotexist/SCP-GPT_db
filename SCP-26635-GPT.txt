@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26635 is  the mysterious origins of skulltrumpet.mpeg </h3> </center>
     <h3>Item #:</h3>

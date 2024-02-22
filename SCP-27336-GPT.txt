@@ -4,7 +4,7 @@
         img{width: 100%;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-27336 is  a blue ice dragon and a red fire dragon. The two of them fight since millenia, but they are secretly in love and use foundation experiments as date opportunity </h3> </center>
     <h3>Item #: SCP-27336 - "Eternal Warring Flames"</h3>

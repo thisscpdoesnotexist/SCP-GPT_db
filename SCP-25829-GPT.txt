@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-25829 is  A SCP generator machine able to change its position in the internet  </h3> </center>
     <h3>Item #:</h3>

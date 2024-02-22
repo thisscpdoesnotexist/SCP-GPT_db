@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-25680 is  a duck that smells really bad. And I mean REALLY bad. It smells worse than you can possibly imagine. If you think you or I can describe it in words, you're wrong. Not even the greatest poets of any generation can come close to describing the malodorous stench this duck emits. </h3> </center>
     <h3>Item #:</h3>

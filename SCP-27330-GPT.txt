@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-27330 is  a bear that got turned into a human to teach him a lesson (he didn't learn it) </h3> </center>
     <h1>Item #: SCP-27330</h1>

@@ -3,7 +3,7 @@
         .justifier {text-align: justify; text-justify: inter-word;}
     </style>
 
-    <div class="justifier">
+    <div class="justifytext">
     
     <center> <h3> SCP-26441 is  Hokkaido Deluxe Love Empress v0.3a </h3> </center>
     <h1>SCP-26441</h1>
