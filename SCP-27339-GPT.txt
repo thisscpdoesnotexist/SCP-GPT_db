@@ -1,0 +1,79 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+        img{width: 100%;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27339 is  the real SCP is the friends we made along the way </h3> </center>
+    <h3>Item #: SCP-27339 - The Bonds that Bind and Break</h3>
+<h3>Object Class: Keter</h3>
+<p><img alt="AI SCP Image" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGhOdI9rvU8B2k6fKIADBBnw/user-hWQHyouHabExfx3wNo9Oj0PX/img-6utYUgj4or0XXIVwx0BNTmMB.png?st=2024-02-22T09%3A02%3A07Z&amp;se=2024-02-22T11%3A02%3A07Z&amp;sp=r&amp;sv=2021-08-06&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-02-22T07%3A26%3A53Z&amp;ske=2024-02-23T07%3A26%3A53Z&amp;sks=b&amp;skv=2021-08-06&amp;sig=VnYN6ZQIubfRk9LbpHD%2B/Fncqo6cZteczFlGgyIRb3Y%3D" /></p>
+<h3>Description:</h3>
+<p>SCP-27339 is a non-corporeal, sentient phenomenon affecting human social bonds and emotional connections. It manifests when individuals within a group form a strong emotional bond, meet specific but currently undefined criteria, and verbally express sentiments that can be summed up as "the real [something] is the friends we made along the way." </p>
+<p>Upon this phrase being spoken, all members of the group begin to experience heightened emotional connectivity, manifesting as an empathic link that grows increasingly intense over time. Affected individuals (hereafter referred to as SCP-27339-1) report extreme emotional empathy, up to and including the actual physical sensations of their peers. </p>
+<p>After a variable period, the empathic bond escalates to a point where it becomes hazardous, causing psychological and, astonishingly, physical harm. SCP-27339-1 instances ultimately become incapable of functioning independently, as each person’s emotional and physical state becomes wholly dependent on the collective well-being of the group.</p>
+<p>The phenomenon defies current understanding, as it transcends known physical boundaries and seems to stem from a metaphysical source. SCP-27339 has the potential for severe psychological contagion and poses a significant threat to the Foundation’s secrecy, hence its Keter classification.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As SCP-27339 lacks a physical form and triggers under specific, though not fully understood emotional conditions, traditional containment is infeasible. Current containment efforts focus on observation, suppression of information, and response to outbreaks.</p>
+<ol>
+<li>Embedded Foundation agents shall monitor various social groups, both online and offline, for potential triggers of SCP-27339.</li>
+<li>Any recorded use of the key phrase that leads to a suspected manifestation of SCP-27339 must be reported immediately, with MTF Psi-8 ("Heartbreakers") being dispatched to the location.</li>
+<li>Members of MTF Psi-8 are equipped with memetic counter-agents developed to disrupt the empathic connection caused by SCP-27339. Deploying these counter-agents may induce short-term amnesia, disorientation, and emotional detachment in affected individuals.</li>
+<li>All information relating to incidents of SCP-27339's appearance is to be suppressed or discredited using the Foundation’s standard information control protocols.</li>
+<li>Public narratives explaining symptoms associated with SCP-27339 (such as sudden emotional outbursts or inexplicable communal distress) include cover stories related to gas leaks causing hallucinations, undiagnosed psychological disorders, or viral internet pranks.</li>
+<li>Long-term monitoring of SCP-27339-1 instances is mandatory, given the unpredictable nature of the phenomenon’s side effects.</li>
+</ol>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27339 was initially identified following a series of strange incidents reported in ████, Wisconsin, where a community theater group was found in a state of collective shock and physical disarray after a cast party. The event coincided with the group's toast that, ironically, "the real performance was the friends we made along the way."</p>
+<p>Estimated to have occurred around May 20██, the Foundation dispatched agents and quickly established an informational quarantine around the affected area. Forensic memetic analysis revealed the nature of SCP-27339’s trigger phrase and its correlation with the emotional bonds found in the victims.</p>
+<h3>Addendum 2: Incident Report A</h3>
+<p>Incidents of SCP-27339 manifestations have occurred across diverse social groups, from amateur sports teams to office coworkers engaging in team-building exercises. Each event begins with heartfelt declarations of camaraderie, followed by what witnesses describe as an "air of euphoria," before descending into cases of mass hysteria and shared psychosomatic illnesses.</p>
+<h3>Addendum 3: Experiment Log A</h3>
+<h4>Experiment A-1: D-Class Personnel Friendships</h4>
+<p>Objective was to test the effects of SCP-27339 on a controlled group over time.</p>
+<p><strong>Day 1:</strong> Four D-Class personnel introduced to a simulated 'friendly' environment.
+<strong>Day 7:</strong> Bonds artificially encouraged via shared activities and positive psychological reinforcement.
+<strong>Day 14:</strong> Subjects begin to report a sense of deeper connection, despite past behavioral issues.
+<strong>Day 21:</strong> The key phrase "the real SCP is the friends we made along the way" was introduced by a Foundation psychiatrist. Subjects displayed immediate and potent emotional exchange.
+<strong>Day 23:</strong> Shared psychosomatic reactions observed. Experiment terminated early using memetic countermeasures.</p>
+<p><em>Conclusion:</em> Experiment confirms the trigger and severe progression of SCP-27339, warranting further investigation on memetic interruption tactics.</p>
+<h3>Addendum 4: Experiment Log B</h3>
+<h4>Experiment B-1: Advanced Memetic Countermeasures</h4>
+<p>Objective was to refine and test the effectiveness of developed memetic counter-agents.</p>
+<p><strong>Deployment-1:</strong> MTF Psi-8 deployed counter-agent A in a contained instance of SCP-27339. Results showed partial disruption of the empathic bond.
+<strong>Deployment-2:</strong> Counter-agent B introduced, resulting in full disruption of SCP-27339's effects, but with severe amnesiac side effects for SCP-27339-1 instances.
+<strong>Deployment-3:</strong> Modified counter-agent A (A-2) used, successfully neutralizing SCP-27339 with minimal cognitive damage to subjects.</p>
+<p><em>Conclusion:</em> Progress in memetic countermeasures is promising, but risk of cognitive damage remains a concern.</p>
+<h3>Addendum 5: Incident Report B - Breach of Secrecy</h3>
+<p>On ██/██/20██, a large-scale manifestation of SCP-27339 occurred at a corporate retreat involving over ██ employees. The subsequent emotional outburst drew media attention before suppression protocols could be enacted, requiring extensive cover-up operations. News reports were altered or deleted, and witnesses were administered Class-B amnestics. </p>
+<p><em>Observation:</em> Secrecy breaches involving SCP-27339 are highly resource-intensive to rectify. Enhanced preventive surveillance is recommended.</p>
+<h3>Addendum 6: Interview Logs</h3>
+<h4>Interview Log 6A: Interview with SCP-27339-1 Survivor</h4>
+<p>...
+<strong>Dr. █████:</strong> "Can you describe how you felt when your group was affected by the anomaly?"
+<strong>SCP-27339-1:</strong> "It was like a drug, doc. We were all so happy, so... connected. And then it turned ugly — we couldn't even think for ourselves. Pain, panic, everything was shared."
+...</p>
+<h4>Interview Log 6B: Interview with MTF Psi-8 Operative</h4>
+<p>...
+<strong>Operative ███:</strong> "When we arrive on the scene, it's chaos. Feelings everywhere, can't shield yourself from it. Makes you cherish being alone in your own head, you know?"
+...</p>
+<h3>Addendum 7: Recovery Logs</h3>
+<h4>Recovery Log 7A: First Recorded Recovery</h4>
+<p>Agents detailed the retrieval of documents and electronic devices from the initial cast party in Wisconsin, highlighting the immediate response procedures and establishing a rudimentary profile of SCP-27339.</p>
+<h3>Addendum 8: Updates</h3>
+<h4>Update 8A: Revision of Containment Procedures</h4>
+<p>Follow-up studies and observations have necessitated minor revisions to initial containment procedures, with an increased emphasis on preemptive monitoring of susceptible groups, and the development of improved memetic inoculations for field agents.</p>
+<h3>Addendum 9: Miscellaneous</h3>
+<h4>Miscellaneous 9A: Theoretical Essays on SCP-27339's Origins</h4>
+<p>Foundation memeticists and parapsychologists have presented several theories on SCP-27339's origins, ranging from a sentient memetic entity seeking manifest consciousness through human interaction to a natural byproduct of humanity's increasing meta-cognitive evolution.</p>
+<h4>Miscellaneous 9B: Correspondence with the Ethics Committee</h4>
+<p>A series of exchanges with the Ethics Committee addresses the moral considerations involved with manipulating and potentially severing human emotional connections as a means of containment.</p>
+<h3>Addendum 10: Experiment Log C</h3>
+<h4>Experiment C-1: Long-term Observations of SCP-27339-1 Instances</h4>
+<p>Objective is to monitor the long-term effects on subjects post-exposure to SCP-27339.</p>
+<p><strong>Month 1-6:</strong> Subjects under routine psychological evaluation.
+<strong>Month 7:</strong> SCP-27339-1 instances exhibit latent empathic connections, minor compared to initial exposure.
+<strong>Month 12:</strong> A small subset presents signs of recursive SCP-27339 exposure without any known trigger.</p>
+<p><em>Conclusion:</em> There appears to be a long-term impact on former SCP-27339-1 instances, warranting continued surveillance and the possibility of latent traits emerging, which necessitates further study.</p></div>
