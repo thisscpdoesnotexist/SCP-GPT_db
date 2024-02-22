@@ -1,0 +1,64 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+        img{width: 100%;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27351 is  a nifty little gadget that does whatever you don't want it to. </h3> </center>
+    <h3>Item #: SCP-27351 - "A Willed Anomaly"</h3>
+<h3>Object Class: Euclid</h3>
+<p><img alt="AI SCP Image" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGhOdI9rvU8B2k6fKIADBBnw/user-hWQHyouHabExfx3wNo9Oj0PX/img-nMsQrHaIBT3n3f1YkzyDoorh.png?st=2024-02-22T22%3A02%3A07Z&amp;se=2024-02-23T00%3A02%3A07Z&amp;sp=r&amp;sv=2021-08-06&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-02-22T14%3A06%3A43Z&amp;ske=2024-02-23T14%3A06%3A43Z&amp;sks=b&amp;skv=2021-08-06&amp;sig=N2LnbhEoRgm%2BaGlWCDrWyy4KMA2DV2ySK1BPc8Tj0a0%3D" /></p>
+<h3>Description:</h3>
+<p>SCP-27351 is a small, metallic device roughly the size of a standard deck of playing cards. Its exterior is featureless apart from a single button on its top surface and a small display that can present a variety of symbols, the meanings of which are currently unknown. Attempts to open or dismantle the device to investigate its internal workings have been unsuccessful.</p>
+<p>SCP-27351’s anomalous properties become evident when an individual formulates a conscious desire for a specific outcome while in close proximity to the device. Instead of the desired outcome occurring, the opposite or an undesired outcome is realized to the greatest possible extent within the immediate environment. For example, if an individual desires warmth on a cold day, nearby sources of heat will extinguish, or if a subject wishes for silence in a noisy room, the ambient sound level will increase significantly.</p>
+<p>The mechanism by which SCP-27351 operates is still under investigation, but its effects seem bound by the laws of physics; no supernatural occurrences have been noted. Additionally, SCP-27351 does not appear to influence major global or existential events but is limited to the local environment and simple tasks.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27351 is contained in a standard secure locker at Site-19, accessible only to personnel with Level 4 security clearance. Due to SCP-27351’s properties, authenticated personnel who interact with it must undergo cognitive-behavioral training to suppress active desires or wants during handling or testing. All interactions with SCP-27351 are to be recorded and monitored by a second party from a remote location.</p>
+<p>To prevent accidental activation, SCP-27351 must be stored within a Faraday cage to block electromagnetic interference and is to be handled with non-conductive gloves at all times. No personal electronic devices or tools are allowed in SCP-27351’s containment room.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27351 was discovered on July 7, 201█, at an estate sale in ██████, ███. Reports of the unusual activity at the sale attracted undercover agents. During retrieval, Agent █████ inadvertently activated SCP-27351, causing their vehicle's engine to fail upon an intention to expedite their departure. Retrieval of SCP-27351 resulted in temporary detainment of all attendees for amnestic treatment.</p>
+<h3>Addendum 2: Initial Testing</h3>
+<ul>
+<li><strong>Experiment Log A1:</strong> Researcher Giuliano expresses the desire for his coffee to be warm. SCP-27351 displays a snowflake symbol, and the coffee rapidly cools.</li>
+<li><strong>Experiment Log A2:</strong> D-5619 is asked to want for the lights in the testing chamber to be brighter. SCP-27351 displays a symbol resembling an eye. The chamber's lights dim to near-darkness.</li>
+<li><strong>Experiment Log A3:</strong> Dr. Ames desires for SCP-27351 to remain still. SCP-27351 displays a snail symbol, followed by spontaneous minor vibrations across the table surface.</li>
+</ul>
+<h3>Addendum 3: Incident I-27351-01</h3>
+<p>During Site-19's power outage on ██████, SCP-27351 was inadvertently activated by a security guard wishing for the facility's power to return. SCP-27351’s resultant EMP-like discharge extended the outage and affected non-anomalous equipment. Additional security protocols were implemented following this incident.</p>
+<h3>Addendum 4: Experiment Log Summary</h3>
+<h4>Section A: Environmental Influences</h4>
+<ul>
+<li><strong>A4-1:</strong> Desire for warmth; SCP-27351 introduced cold.</li>
+<li><strong>A4-2:</strong> Desire for darkness; SCP-27351 created excessive light.</li>
+<li><strong>A4-3:</strong> Desire for quiet; SCP-27351 amplified sound.</li>
+</ul>
+<h4>Section B: Physical Objects</h4>
+<ul>
+<li><strong>B4-1:</strong> Desire for a plant to grow; plant experienced rapid decomposition.</li>
+<li><strong>B4-2:</strong> Desire for a glass of water to fill; water evaporated instantaneously.</li>
+<li><strong>B4-3:</strong> Desire for personal smartphone to charge; battery drained entirely.</li>
+</ul>
+<h4>Section C: Abstract Concepts</h4>
+<ul>
+<li><strong>C4-1:</strong> Desire for relaxation; subject experienced acute anxiety.</li>
+<li><strong>C4-2:</strong> Desire for clarity in thought; subject briefly displayed confusion and disorientation.</li>
+<li><strong>C4-3:</strong> Desire for SCP-27351 to be understood; data corruption in testing documentation.</li>
+</ul>
+<h3>Addendum 5: Theoretical Analysis</h3>
+<p>Dr. Hwang’s dissertation on SCP-27351 hypothesizes that the device may be reacting to human brainwaves directly, possibly possessing a form of limited sentience or sapience that allows it to interpret desires and actively work against them. Ongoing studies aim to test these theories.</p>
+<h3>Addendum 6: D-Class Subject Interviews</h3>
+<h4>Section D: Post-Exposure Reaction</h4>
+<ul>
+<li><strong>Interview D6-1:</strong> D-5619 discusses feelings of frustration induced by SCP-27351.</li>
+<li><strong>Interview D6-2:</strong> D-7812 describes being in a state of strengthened nihilism post-test.</li>
+</ul>
+<h3>Addendum 7: Recovery Log</h3>
+<p>Recovered documents from a nearby residential raid suggest SCP-27351 may have been in the possession of a person known as "Mr. Joss," an alleged collector of rare and esoteric artifacts. Efforts to locate "Mr. Joss" are ongoing.</p>
+<h3>Addendum 8: Updated Containment Procedures</h3>
+<p>Protocol 27-B: Incorporates additional cognitive training for personnel and enhancement of containment facilities to prevent unintended activation of SCP-27351 during a power failure or security breach.</p>
+<h3>Addendum 9: Miscellaneous</h3>
+<p>Dr. Ames' notes on the psychological effects of prolonged exposure to SCP-27351 remain sealed to prevent unnecessary influence on the mental state of research personnel.</p>
+<h3>Addendum 10: External Review</h3>
+<p>An order by the O5 Council for an external review of containment and research practices relating to SCP-27351 has been executed. The results are pending approval for inclusion in the SCP's documentation.</p></div>
