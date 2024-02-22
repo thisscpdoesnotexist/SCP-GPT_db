@@ -1,0 +1,57 @@
+
+    <style>
+        .justifier {text-align: justify; text-justify: inter-word;}
+        img{width: 100%;}
+    </style>
+
+    <div class="justifier">
+    
+    <center> <h3> SCP-27349 is  the daughter of the son of sam killer </h3> </center>
+    <h3>Item #: SCP-27349 - "Lineage of the Damned"</h3>
+<h3>Object Class: Keter</h3>
+<p><img alt="AI SCP Image" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGhOdI9rvU8B2k6fKIADBBnw/user-hWQHyouHabExfx3wNo9Oj0PX/img-kLOXP692FZTRQjaebqp0idgq.png?st=2024-02-22T20%3A01%3A23Z&amp;se=2024-02-22T22%3A01%3A23Z&amp;sp=r&amp;sv=2021-08-06&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-02-22T10%3A46%3A56Z&amp;ske=2024-02-23T10%3A46%3A56Z&amp;sks=b&amp;skv=2021-08-06&amp;sig=sn9jVuRTU9vR//syUafT/LRrhhsd4ajmoI7o4zG5aBA%3D" /></p>
+<h3>Description:</h3>
+<p>SCP-27349 is a humanoid entity resembling a female in her late twenties, with the birth records correlating to the offspring of the infamous serial killer known as the "Son of Sam." Genetic tests confirm that it shares DNA markers with David Berkowitz, the individual associated with the "Son of Sam" murders. However, SCP-27349 possesses anomalous cognitive abilities that suggest a non-human origin or evolution past human norms.</p>
+<p>Its capabilities include but may not be limited to telepathy, telekinesis, and a form of psychological manipulation that can elicit violent and psychotic behaviors in individuals within a radius of approximately 300 meters. This effect appears to amplify in the presence of personal psychological triggers related to anger and violence, making SCP-27349 extremely dangerous if not isolated properly.</p>
+<p>Interviews with SCP-27349 reveal that it possesses a detailed understanding of its lineage and an unsettling pride in its heritage. The entity refers to itself as "The Daughter," expressing a deep desire to continue its father's "work."</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27349 is to be contained in a 5x5 meter holding cell constructed from reinforced steel and equipped with electromagnetic dampening fields to inhibit its anomalous abilities. The cell is to be situated at the center of a Containment Zone with a 1-kilometer radius, devoid of unauthorized personnel. Only D-class personnel with specialized memory wipes administered after each interaction may engage with SCP-27349, and always under the surveillance of an armed security detail prepared to incapacitate SCP-27349 with non-lethal measures.</p>
+<p>Any attempts by SCP-27349 to communicate telepathically with personnel must be immediately reported, and affected individuals are to undergo psychological evaluation and amnestic treatment. It is imperative that no information regarding previous incidents or weaknesses in containment procedures be divulged within its telepathic range.</p>
+<p>All research proposals involving SCP-27349 must receive approval from at least two members of O5-Command, and contingency plans for a full site lockdown must be in place during testing.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27349 came to the attention of the Foundation when patterns reminiscent of the "Son of Sam" killings began to recur in the New York metropolitan area after several decades of dormancy. Anomalies in these incidents involved the suspects' declarations of receiving telepathic commands from an unknown woman. An investigation by embedded Foundation agents led to the identification and subsequent containment of SCP-27349.</p>
+<h3>Addendum 2: Initial Interview Log</h3>
+<h4>2.1: Introduction</h4>
+<p>Dr. ████ interviews SCP-27349 two days post-capture.
+<strong>SCP-27349:</strong> "I knew you would come for me; it's written in blood."
+<strong>Dr. ████:</strong> "What is your goal?"
+<strong>SCP-27349:</strong> "To finish what my father started. To awaken the rage hidden within purity."</p>
+<p>Interview terminated after SCP-27349 caused a violent outburst in Dr. ████, resulting in three injuries and the implementation of a stricter containment protocol.</p>
+<h3>Addendum 3: Psychological Evaluation</h3>
+<h4>3.1 Evaluation Summary</h4>
+<p>SCP-27349 does not exhibit conventional psychopathy or psychosis. Instead, it displays a unique pathology centered around its self-identified purpose and heritage. The entity expresses no remorse and rationalizes its actions as a form of artistic expression.</p>
+<h3>Addendum 4: Experiment Log</h3>
+<h4>4.1: Telepathic Range Determination</h4>
+<p>Conducted with D-class personnel at increasing distances; established a 300-meter effective range for SCP-27349's telepathic influence. Personnel reported hearing voices urging them towards violence.</p>
+<h4>4.2: Telekinesis Test Series</h4>
+<p>A variety of inanimate objects were introduced into SCP-27349's containment cell. It demonstrated the ability to manipulate objects up to 50 kilograms but showed signs of fatigue after extended use.</p>
+<h4>4.3: Psychological Manipulation Trials</h4>
+<p>D-class personnel with varying psychological profiles were briefly exposed to SCP-27349. Those with histories of anger and violence were more susceptible to its influence, committing acts of aggression against themselves or others within hours of exposure.</p>
+<h3>Addendum 5: Containment Breach Report</h3>
+<h4>5.1: Incident Summary</h4>
+<p>SCP-27349 breached containment via an unforeseen interaction between its telekinetic abilities and a structural weakness in its cell. The entity used the resulting chaos to incite violence among personnel. The breach was contained after a full facility lockdown and the use of EMP devices to temporarily disrupt SCP-27349's abilities.</p>
+<h3>Addendum 6: Revised Containment Procedures Post-Breach</h3>
+<p>Adjustments to the containment procedures have been made, including enhanced electromagnetic shielding and routine structural integrity checks. Protocols now require two armed guards with cognitive shielding helmets to remain on duty at all times.</p>
+<h3>Addendum 7: Ethics Committee Review</h3>
+<h4>7.1: Human Rights Discussion</h4>
+<p>The Ethics Committee debated the extent of the Foundation's responsibility towards SCP-27349's human rights given its heritage and abilities. Though a consensus on stringent containment was reached, debate on the ethical implications continues.</p>
+<h3>Addendum 8: O5-Command Directive</h3>
+<h4>8.1: High Priority Dispatch</h4>
+<p>O5-Command has deemed SCP-27349 a level-Ω threat and mandates an ongoing review of containment protocols to ensure no further breaches occur, suggesting the possible need for more extreme containment measures.</p>
+<h3>Addendum 9: Updated Research Guidelines</h3>
+<h4>9.1: Permissions and Restrictions</h4>
+<p>All research requires a full risk assessment and must not, under any circumstances, involve weapons testing or combative scenarios that could be utilized by SCP-27349 for its violent ends.</p>
+<h3>Addendum 10: Agent Recovery Testimonies</h3>
+<h4>10.1: Field Agent Reports</h4>
+<p>Agents involved in SCP-27349's transfer reported lingering psychological effects days after the operation. Most common were nightmares involving blood and voices advocating violence, suggesting a long-lasting or possibly permanent cognitive footprint.</p>
+<p>SCP-27349 remains one of the Foundation's most dangerous entities, a testament to the nefarious impact of its lineage and a constant reminder of the enigma that is the human mind merged with the anomalous.</p></div>
