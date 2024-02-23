@@ -1,0 +1,79 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27373 is  an immortal and uncontainable snail constantly pursuing a similarly immortal member of the O5 council. If the snail touches the council member she will die. </h3> </center>
+
+    <h3>Item #: SCP-27373 - The Eternal Pursuit</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27373-GPT.png" alt="Illustration of SCP-27373" />
+        
+<h3>Description:</h3>
+<p>SCP-27373 is a common garden snail (Helix aspersa) displaying anomalous properties. It is physically indistinguishable from non-anomalous counterparts. SCP-27373 exhibits two primary anomalous characteristics:</p>
+<ol>
+<li>
+<p><strong>Immortality:</strong> SCP-27373 does not age, cannot be destroyed by any known means, and possesses the ability to regenerate from any damage instantaneously. It has survived temperatures ranging from absolute zero to those found on the surface of the sun, vacuum conditions, and pressure exceeding that at the Mariana Trench.</p>
+</li>
+<li>
+<p><strong>Pursuit Aversion Effect:</strong> SCP-27373 is engaged in a constant directional approach towards O5-█ (hereinafter referred to as O5-█-Target), a sitting member of the O5 Council. Should SCP-27373 make physical contact with O5-█-Target, it is believed this would result in the instantaneous expiration of O5-█-Target, despite her concurrent anomalous property of immortality. This belief is based on limited testing with other immortal organisms (see Addendum 7).</p>
+</li>
+</ol>
+<p>SCP-27373 moves at an average pace of 0.013 meters per second. Multiply redundant tracking systems have been implemented to monitor its location at all times.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the uncontainable nature of SCP-27373, standard physical containment is impossible. Instead, containment efforts are primarily focused on distancing O5-█-Target from SCP-27373. The following procedures have been put into effect:</p>
+<ol>
+<li>
+<p><strong>Monitoring:</strong> SCP-27373's location is continuously monitored via an electronic tracking device affixed to its shell and satellite imagery.</p>
+</li>
+<li>
+<p><strong>Diversionary Routes:</strong> Multiple safe houses and itinerary loops have been established for O5-█-Target to provide an unpredictable nomadic pattern, complicating SCP-27373's direct pathing attempts.</p>
+</li>
+<li>
+<p><strong>Remote Deployment:</strong> A Mobile Task Force (MTF ζ-9 "Snail's Pace") has been assigned to intervene when SCP-27373 nears public areas or becomes at risk of intercepting O5-█-Target. MTF ζ-9 is authorized to deploy diversions, barriers, or indirectly transport SCP-27373 to an alternate location. Direct physical interaction is strictly prohibited.</p>
+</li>
+<li>
+<p><strong>Travel Restrictions:</strong> All Foundation transport piloted by or destined for O5-█-Target must adhere to strict no-fly/ no-travel zones based on SCP-27373's trajectory to preclude any chance encounters.</p>
+</li>
+<li>
+<p><strong>Personnel Briefing:</strong> Personnel interacting with O5-█-Target must be briefed on SCP-27373's existence and the critical need for maintaining mobility and distance.</p>
+</li>
+</ol>
+<p>Further research into understanding, mitigating, or reversing the effects of SCP-27373's anomalous properties is ongoing.</p>
+<h3>Addendum 1: Discovery of SCP-27373</h3>
+<h4>General Information:</h4>
+<p>SCP-27373 was discovered after incidents where immortal organisms were found deceased without discernible cause. Foundation researchers traced these occurrences back to the commonality of a snail present at each scene. It was during the research into these events that SCP-27373 demonstrated its inexorable path towards O5-█-Target, revealing the Pursuit Aversion Effect. </p>
+<h3>Addendum 2: Interview Log with O5-█-Target</h3>
+<h4>Interview Logs:</h4>
+<p>Approximately one month after SCP-27373's discovery, an interview was conducted with O5-█-Target to ascertain any potential past interactions or connections with SCP-27373. O5-█-Target had no recollection of any direct contact and was unable to provide insight into SCP-27373's motivations or origins. The possibility of a curse, hex, or targeted anomalous affliction has been theorized but remains unproven.</p>
+<h3>Addendum 3: Experiment Log A-27373-01</h3>
+<h4>Experiment Logs:</h4>
+<ul>
+<li><strong>Experiment 1:</strong> SCP-27373 exposed to extreme heat. Result: Instantaneous regeneration upon damage.</li>
+<li><strong>Experiment 2:</strong> Exposure to high-grade acids. Result: No effect on SCP-27373.</li>
+<li><strong>Experiment 3:</strong> Teleportation attempt using SCP-████. Result: SCP-27373 was successfully teleported 500 meters from the original location. Resumed locomotion towards O5-█-Target immediately.</li>
+<li>(Further details of experiments are classified and available only to personnel with Level 4/27373 clearance.)</li>
+</ul>
+<h3>Addendum 4: Containment Protocol Revision History</h3>
+<h4>Updates:</h4>
+<p>Containment protocols have undergone several revisions as new information and variables regarding SCP-27373's behavior have surfaced. These include adjustments to O5-█-Target's itineraries, development of advanced tracking technologies, and the establishment of intervention strategies with MTF ζ-9.</p>
+<h3>Addendum 5: Theoretical Implications of SCP-27373</h3>
+<h4>General Information:</h4>
+<p>Several theories have been proposed regarding SCP-27373. One such theory suggests that SCP-27373 and O5-█-Target may be linked by a yet-to-be-understood quantum entanglement or metaphysical bond, possibly implying a form of balance or symmetry integral to their existence.</p>
+<h3>Addendum 6: Incident Report 27373-█</h3>
+<h4>Incident Reports:</h4>
+<p>On █/█/20██, SCP-27373 breached a temporary containment zone due to an unaccounted-for structural weakness. This led to a Code Brown situation where O5-█-Target was within 2 km of SCP-27373's position. Emergency evacuation protocols were initiated, resulting in O5-█-Target's safe extraction. Structural containment for SCP-27373 has since been ruled out as a feasible strategy.</p>
+<h3>Addendum 7: Attempted Neutralization of SCP-27373</h3>
+<h4>Experiment Logs:</h4>
+<p>A series of tests were conducted with hopes of finding a means to neutralize SCP-27373's anomalous properties. These tests involved other SCPs with destructive capabilities but resulted in no change to SCP-27373's behavior or condition. It retains its singular goal of reaching O5-█-Target, suggesting an imperative nature to its existence.</p>
+<h3>Addendum 8: Recovery Log of SCP-27373</h3>
+<h4>Recovery Logs:</h4>
+<p>SCP-27373 was initially recovered from a rural location in France, near [REDACTED]. Previous containment efforts by a local secret society, which appeared to revere the snail as a form of deity, were documented and added to the SCP-27373 file for research purposes. This society was disbanded, and all members were amnesticized.</p>
+<h3>Addendum 9: Psychological Profile of O5-█-Target</h3>
+<h4>General Information:</h4>
+<p>Following the discovery of SCP-27373, O5-█-Target has been subjected to ongoing psychological evaluation to monitor the stress induced by the constant existential threat of SCP-27373. These evaluations also serve to determine if O5-█-Target's decision-making capabilities remain uncompromised in their role on the O5 Council.</p>
+<h3>Addendum 10: Additional Security Measures for O5-█-Target</h3>
+<h4>Updates:</h4>
+<p>As a countermeasure to SCP-27373's persistent threat, additional security protocols have been implemented surrounding O5-█-Target. These include the use of decoys, misinformation campaigns to obscure O5-█-Target's whereabouts, and the development of O5-█-Target's immortality in hopes of discovering a means to negate SCP-27373's lethal effect should contact ever occur.</p>
+<p>The SCP-27373 file remains open, and further addenda will be appended as events warrant.</p>
+
+    </div>
+    
