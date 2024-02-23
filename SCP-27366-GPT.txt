@@ -1,0 +1,94 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27366 is  that if you name your cat "Pompom", the cat gains certain anomalous properties. </h3> </center>
+
+    <h3>Item #: SCP-27366 - "Pompom Paradox"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27366-GPT.png" alt="Illustration of SCP-27366" />
+        
+<h3>Description:</h3>
+<p>SCP-27366 is an anomalous phenomenon that manifests when any domestic feline (Felis catus) is given the nomenclature "Pompom" by a human being. Once the naming act is performed with the intention of permanence, the designated feline begins to exhibit various anomalous properties. These properties vary in intensity and effect but often include:</p>
+<ol>
+<li>Sudden increased intelligence and problem-solving skills.</li>
+<li>Ability to communicate with humans through an unknown telepathic link.</li>
+<li>Phase-shifting ability allowing the cat to bypass solid matter.</li>
+<li>Minor reality-warping effects within a 5-meter radius of the entity.</li>
+</ol>
+<p>Naming another feline "Pompom" does not negate the effect on previously affected specimens but appears to create a cumulative and exponential increase in the intensity of anomalous behaviors in all SCP-27366 instances. As a result, mass naming has been strictly prohibited.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the easily replicable nature of SCP-27366 activation, the following containment procedures have been put into place:</p>
+<ol>
+<li>A global surveillance program, "Operation Whisker Watch," has been set up to monitor and intercept any attempts to name a feline "Pompom."</li>
+<li>Individuals who have named their cats "Pompom" are to be located and amnesticized. The feline is then relabeled with a non-anomalous designation.</li>
+<li>Contained SCP-27366 instances are to be housed in individual 5m x 5m x 5m containment cells made of reinforced plexiglass, with phase-disruption barriers implemented to prevent phasing.</li>
+<li>Interaction with SCP-27366 instances requires Level 4 authorization and is to be conducted by personnel trained in advanced telepathic defense, to prevent undue influence or psychological harm.</li>
+<li>Research into the source and mechanisms of this anomalous effect is ongoing.</li>
+</ol>
+<h3>Addendum 1: Recovery Log:</h3>
+<h4>Initial Discovery:</h4>
+<p>SCP-27366 was first identified in ████████, England, where a local feline dubbed "Pompom" by its owner, Mrs. ██████, reportedly began exhibiting intelligent, coordinated efforts to free other cats from a local shelter. The widespread naming of shelter cats as "Pompom" by the public resulted in a cascade of anomalous behavior culminating in a minor reality distortion event.</p>
+<p>Foundation agents intervened, implementing Class-C amnestics and seizing the affected cats for containment and study. The event was publicly dismissed as a viral marketing stunt for an upcoming animated movie.</p>
+<h3>Addendum 2: Experiment Log 27366-A:</h3>
+<h4>Test #1: Naming and Observation</h4>
+<ul>
+<li><strong>Subject:</strong> Domestic cat (Felis catus), previously known as "Whiskers."</li>
+<li><strong>Procedure:</strong> Subject renamed "Pompom" in a controlled environment. Continuous monitoring initiated.</li>
+<li><strong>Results:</strong> Subject exhibited immediate signs of heightened awareness and began phasing through containment within six hours.</li>
+<li><strong>Conclusion:</strong> Phenomenon reliably replicable under controlled conditions.</li>
+</ul>
+<h4>Test #2: Cognitive Ability Assessment</h4>
+<ul>
+<li><strong>Subject:</strong> SCP-27366-A (previously "Whiskers")</li>
+<li><strong>Procedure:</strong> Subject exposed to a series of puzzles and problem-solving tasks.</li>
+<li><strong>Results:</strong> SCP-27366-A displayed rapid learning and solved problems intended for primates.</li>
+<li><strong>Conclusion:</strong> SCP-27366 instances gain significantly enhanced intelligence.</li>
+</ul>
+<h3>Addendum 3: Interview Log 27366-C:</h3>
+<h4>Interviewee: Agent ████████</h4>
+<h4>Interviewer: Dr. H. Liu</h4>
+<p><strong><Begin Log></strong>
+- <strong>Dr. Liu:</strong> Can you describe how you felt during your telepathic contact with SCP-27366-A?
+- <strong>Agent ████████:</strong> It's disorienting. It's like it knows you—your fears, your desires. And it uses them, negotiates. Even offers things.
+- <strong>Dr. Liu:</strong> Offers? Can you elaborate?
+- <strong>Agent ████████:</strong> Information. Assistance. It seems to understand we're keeping them contained, but it's like a game to SCP-27366-A.
+<strong><End Log></strong>
+<em>Conclusion: Further investigation into the telepathic abilities of SCP-27366 instances is warranted.</em></p>
+<h3>Addendum 4: Incident Report 27366-12:</h3>
+<h4>Breach and Recovery:</h4>
+<p>SCP-27366-B (previously "Mr. Boots") utilized its phasing ability to escape its containment cell. The instance proceeded to wander through Site-17, causing localized reality distortions, including temporal loops and spontaneous organic growth on inorganic materials.</p>
+<p>Containment was reestablished after a site-wide lockdown and implementation of experimental phase-disruption weapons. The containment procedures were updated to include the now-standard phase-disruption technology in all SCP-27366 cells.</p>
+<h3>Addendum 5: Addendum 27366-E: Theoretical Implications:</h3>
+<h4>Telepathy and Reality Manipulation:</h4>
+<p>The SCP-27366 instances' telepathic abilities have been the subject of extensive study. The mechanism by which they influence reality remains unknown, though it is hypothesized to be a form of quantum manipulation previously unobserved.</p>
+<p>Dr. ████'s team has posited that the naming act triggers a dormant genetic sequence in the feline genome, which could imply a prior, possibly extraterrestrial, influence on the evolution of the domestic cat.</p>
+<p>Continued research into these areas is vital for developing more effective containment protocols and potentially counteracting the SCP-27366 phenomenon.</p>
+<h3>Addendum 6: Update to Containment Procedures:</h3>
+<p>Following Incident Report 27366-12 and subsequent containment breaches, the following changes have been instituted:</p>
+<ol>
+<li>Increased thickness of plexiglass in SCP-27366 containment cells to 25cm.</li>
+<li>Installation of improved phase-disruption generators in each cell.</li>
+<li>Upgraded surveillance and communication jamming to intercept and block any psychic distress calls that SCP-27366-A has attempted to transmit outside of containment.</li>
+</ol>
+<p>These modifications are designed to provide greater security and minimize the risk of further containment breaches.</p>
+<h3>Addendum 7: Experiment Log 27366-B: Telepathic Range and Potency</h3>
+<h4>Experiment Series 27366-BA through 27366-BF</h4>
+<ul>
+<li><strong>Objective:</strong> Determine the effective telepathic range of SCP-27366 instances and the potency of their persuasive abilities.</li>
+<li><strong>Method:</strong> A series of experiments were conducted in increasing radiuses from SCP-27366-A's containment, with subjects both aware and unaware of SCP-27366-A's nature.</li>
+<li><strong>Results:</strong> Telepathic influence drops sharply beyond 50 meters, and instances are unable to affect those who are ignorant of their anomalous properties.</li>
+<li><strong>Conclusion:</strong> Knowledge of SCP-27366 plays a role in the efficacy of its telepathic influence, suggesting a psychosomatic component. Maintaining secrecy about SCP-27366's abilities remains a priority.</li>
+</ul>
+<h3>Addendum 8: Miscellaneous - Legal Precedents</h3>
+<h4>The "Pompom" Trademark:</h4>
+<p>The SCP Foundation's legal team has successfully trademarked the term "Pompom" in reference to pets, thereby restricting its use in public and media. This strategy serves as a deterrent for casual naming and aids in containment efforts.</p>
+<h3>Addendum 9: Addendum 27366-H: Ethics Committee Review</h3>
+<h4>Use of SCP-27366 in Foundation Operations:</h4>
+<p>An ongoing debate concerns the potential use of SCP-27366 instances in Foundation operations. While their unique abilities could be invaluable, the Ethics Committee has raised concerns regarding the unpredictable nature of their reality-warping and the moral implications of utilizing sentient beings with advanced intelligence.</p>
+<p>This discussion continues, with no current consensus reached. Further observation and testing are required to assess the viability and ethical ramifications of such actions.</p>
+<h3>Addendum 10: Update on Global Monitoring Efforts</h3>
+<p>The Foundation has implemented a machine learning algorithm to scour social media, veterinary records, and public databases for instances of felines named "Pompom." Close collaboration with major tech companies has been established to flag and monitor potential SCP-27366 activations.</p>
+<p>Due to these efforts, containment of SCP-27366 has improved significantly, and no major outbreaks have been reported in recent months. Ongoing vigilance and intervention remain critical to prevent any future large-scale reality distortion events.</p>
+
+    </div>
+    
