@@ -1,0 +1,54 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27362 is  a cat name pompom who eats celebrities and take their places </h3> </center>
+
+    <h3>Item #: SCP-27362 - "The Doppelganger of Fame"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai//SCP-27362-GPT.png" alt="Illustration of SCP-27362" />
+        
+<h3>Description:</h3>
+<p>SCP-27362 is a felid entity resembling a domestic cat (Felis catus), answering to the name "Pompom". It has a distinctive feature: its fur has a constantly shifting pattern, often resembling tessellations. SCP-27362's anomalous properties manifest when it encounters individuals with a substantial public and media presence (hereafter referred to as 'celebrities').</p>
+<p>Upon physical contact with a celebrity, SCP-27362 consumes the individual in a manner currently not understood; no trace of the victim is left behind post-consumption. Following this, SCP-27362 undergoes a rapid transformation, lasting approximately three minutes, after which it assumes a perfect physical and behavioral mimicry of the consumed individual. While transformed, SCP-27362 possesses all memories, talents, and knowledge of the individual, effectively replacing them in society.</p>
+<p>To date, SCP-27362 has shown a preference for celebrities who exhibit high levels of public accolades and social influence. Once SCP-27362 assumes a new identity, previous transformations are no longer accessible, emphasizing the importance of maintaining containment to prevent a potential chain of high-profile disappearances.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27362 is to be contained in a standard 5x5m secure holding room, furnished with items typical for a domestic cat's comfort (e.g., bedding, scratching post, toys). Security personnel assigned to SCP-27362 must have no significant public presence to prevent unwanted transformations.</p>
+<p>Personnel must perform daily checks for any attempt by SCP-27362 to breach containment. In the event an individual possessing a public profile must interact with SCP-27362, a remote interface or proxy should be used. Measures are in place to suppress information regarding sightings or captures of individuals believed to be duplicates created by SCP-27362.</p>
+<p>To diminish the risk of unwanted exposure, feeding should be carried out via automated systems. Monitoring is done through a dedicated observation room equipped with non-invasive equipment to prevent SCP-27362 from using surveillance as a medium for potential prey identification.</p>
+<h3>Addendum 1: Discovery of SCP-27362</h3>
+<p><strong>General Information:</strong>
+SCP-27362 was first brought to the Foundation's attention following the inexplicable disappearance of a high-profile celebrity at a private function. Eyewitnesses reported last seeing the individual interacting with a small, unaccompanied cat before vanishing. The Foundation quickly intercepted local law enforcement and media reports, suppressing evidence and generating a cover story involving the celebrity's retreat from public life.</p>
+<h3>Addendum 2: Initial Containment Effort</h3>
+<p><strong>Recovery Logs:</strong>
+Upon initial containment efforts, SCP-27362 was discovered residing in the celebrity's mansion, conducting life as per the individual's usual routine. Agents executed a false media campaign suggesting the celebrity had adopted a reclusive lifestyle, enabling the SCP's extraction to a secure location.</p>
+<h3>Addendum 3: Experiment Log A - Early Observations</h3>
+<p><strong>Experiment Logs:</strong>
+- <strong>Experiment A-1:</strong> A D-Class personal with no public notoriety is introduced to SCP-27362. No transformation occurs.
+- <strong>Experiment A-2:</strong> A D-Class personal impersonating a celebrity (unknown to public) approaches SCP-27362. The SCP shows signs of interest but does not attempt consumption or transformation.
+- <strong>Experiment A-3:</strong> A recorded broadcast of a celebrity interview is played within SCP-27362's containment. Prolonged exposure induces a state of agitation within SCP-27362, but no transformation takes place. </p>
+<h3>Addendum 4: Experiment Log B - Interaction Constraints</h3>
+<p><strong>Experiment Logs:</strong>
+- <strong>Experiment B-1:</strong> SCP-27362 is shown images of various levels of celebrities through a one-way mirror. It shows significant interest in the images of high-profile individuals.
+- <strong>Experiment B-2:</strong> An unauthorized breach of protocol results in a security officer (who had minor appearances in local commercials) entering SCP-27362's containment. The officer is consumed, and SCP-27362 assumes their appearance. Reinforced containment procedures are put in place to prevent recurrence.</p>
+<h3>Addendum 5: Interview Log - Impersonation Behavior</h3>
+<p><strong>Interview Logs:</strong>
+- <strong>Interview 27362-05:</strong> An interview is conducted with SCP-27362 in the form of its most recent consumed persona, the security officer. During the interview, SCP-27362 exhibits perfect mimicry and expresses a desire for "greater recognition and adoration". It appears unaware of its original nature while transformed. All attempts to extract information about its origins or its abilities have been inconclusive.</p>
+<h3>Addendum 6: Incident Report - Containment Breach A</h3>
+<p><strong>Incident Reports:</strong>
+SCP-27362 breaches containment by assuming the form of a maintenance worker who was brought in under false pretenses of anonymity. The SCP left the facility undetected and consumed a minor television personality before being recaptured. A review of containment protocols leads to the introduction of several redundancies and increased psychological screening for potential human vulnerabilities within staff.</p>
+<h3>Addendum 7: Experiment Log C - Consumption Limits</h3>
+<p><strong>Experiment Logs:</strong>
+- <strong>Experiment C-1:</strong> Providing SCP-27362 with various non-celebrity profiles shows no reaction. Officers explore potential baiting strategies using mock-celebrity profiles with limited success.
+- <strong>Experiment C-2:</strong> SCP-27362 is exposed to a prerecorded holographic display of an international pop icon. It engages with the display and attempts consumption; however, it cannot complete the transformation, indicating the necessity of physical presence for its process.</p>
+<h3>Addendum 8: Theoretical Studies - SCP-27362 Origins</h3>
+<p><strong>Miscellaneous:</strong>
+Emerging theories suggest SCP-27362's origins may be linked to humanity's increasing obsession with celebrity culture. Possible connections to ancient mythologies involving shapeshifters are being explored.</p>
+<h3>Addendum 9: Update on Containment Integration</h3>
+<p><strong>Updates:</strong>
+Following successful integration of strict containment protocols and psychological assessment processes, there have been zero breaches in the last six months. Ongoing work includes refining predictive models to identify potential targets of SCP-27362 should it breach containment in the future.</p>
+<h3>Addendum 10: Archival Footage Review</h3>
+<p><strong>General Information:</strong>
+A review of archival footage from various public events has unearthed potential early sightings of SCP-27362 dating back decades, implying it may have influenced historical events without prior detection. The implication of long-term SCP-27362 activity on society's history necessitates comprehensive analysis and additional contingency planning.</p>
+
+    </div>
+    
