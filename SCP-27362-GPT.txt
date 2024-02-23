@@ -5,7 +5,7 @@
 
     <h3>Item #: SCP-27362 - "The Doppelganger of Fame"</h3>
 
-            <img class="scp-image" src="https://scpapi.koll.ai//SCP-27362-GPT.png" alt="Illustration of SCP-27362" />
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27362-GPT.png" alt="Illustration of SCP-27362" />
         
 <h3>Description:</h3>
 <p>SCP-27362 is a felid entity resembling a domestic cat (Felis catus), answering to the name "Pompom". It has a distinctive feature: its fur has a constantly shifting pattern, often resembling tessellations. SCP-27362's anomalous properties manifest when it encounters individuals with a substantial public and media presence (hereafter referred to as 'celebrities').</p>

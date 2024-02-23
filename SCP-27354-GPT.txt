@@ -5,7 +5,7 @@
 
     <h3>Item #: SCP-27354 - "Once More into the Breach"</h3>
 
-            <img class="scp-image" src="https://scpapi.koll.ai//SCP-27354-GPT.png" alt="Illustration of SCP-27354" />
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27354-GPT.png" alt="Illustration of SCP-27354" />
         
 <h3>Description:</h3>
 <p>SCP-27354 is a seemingly ordinary wooden stage door from the early 20th century, exhibiting a faded red paint with flaking edges and a brass handle worn from extensive use. The door measures 2.1 x 0.9 meters and has been fitted with modern electronic locks as a means of containment and testing security.</p>
