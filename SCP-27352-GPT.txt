@@ -1,0 +1,69 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27352 is  Labia menorah menorah the majora Little China adequate Torres </h3> </center>
+
+    <h3>Item #: SCP-27352 - "The Conductor's Opus"</h3>
+<pre><code>        &lt;img class="scp-image" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-OGhOdI9rvU8B2k6fKIADBBnw/user-hWQHyouHabExfx3wNo9Oj0PX/img-KsccDTY30T75y6rLEShKb7be.png?st=2024-02-22T23%3A01%3A46Z&amp;se=2024-02-23T01%3A01%3A46Z&amp;sp=r&amp;sv=2021-08-06&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-02-22T18%3A51%3A25Z&amp;ske=2024-02-23T18%3A51%3A25Z&amp;sks=b&amp;skv=2021-08-06&amp;sig=ZkI2ZYw3rF80k6gO%2Bn/owoYpUg8ZWTta%2BS1uhHWV3QE%3D" alt="Illustration of SCP-27352" /&gt;
+</code></pre>
+<h3>Description:</h3>
+<p>SCP-27352 appears as a timeworn and ornate conductor's baton, approximately 40 centimeters in length, carved from what seems to be a single piece of dark mahogany wood. When held by an individual (hereafter referred to as the "Conductor"), SCP-27352 grants them control over electrical currents within a radius roughly corresponding to the Conductor's audible musical range. The control is exerted through specific rhythmic patterns and tempos which, when enacted by the movement of SCP-27352, causes varying effects ranging from minor electrical interference to catastrophic electrical storms.</p>
+<p>The effects of SCP-27352 are further influenced by the Conductor's emotional state and musical proficiency. Control over SCP-27352 can be lost if the Conductor becomes emotionally compromised or incapable of maintaining the proper rhythmic pattern.</p>
+<p>The item was recovered in the remains of a concert hall in Shanghai, China, after an anomalous electrical event resulted in widespread blackouts and equipment failures across the city.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27352 is to be stored in a standard secure object container lined with a Faraday cage to prevent any accidental activation or manipulation of electrical devices. Access to SCP-27352 is to be restricted to Class-3 personnel and above who have been briefed on the safe handling procedures and the risks inherent in its use.</p>
+<p>Personnel handling SCP-27352 must wear non-conductive gloves and must not have undergone any electronic medical augmentation or carry personal electronic devices during interaction. Testing with SCP-27352 is to be conducted in a remote location equipped with lightning rods, surge protectors, and emergency shutdown protocols. All tests must receive prior approval and be under the supervision of at least one Level 4 researcher.</p>
+<h3>Addendum 1: Initial Recovery Log</h3>
+<h4>Subsection A: Discovery Circumstances</h4>
+<p>SCP-27352 was discovered on April 23rd, ████, after an electrical anomaly and resulting blackout occurred in Shanghai, China. The incident disemboweled the concert hall and resulted in 17 civilian casualties. Foundation agents embedded in the local power company responded to the event, and after an initial investigation, SCP-27352 was located amidst the rubble.</p>
+<h4>Subsection B: Containment Efforts</h4>
+<p>The item was secured and moved to Site-██ with the survivors and witnesses administered Class-B amnestics. News outlets were fed a story about a faulty generator explosion to explain the incident and the resulting damages.</p>
+<h3>Addendum 2: Experiment Log 27352-A</h3>
+<h4>Experiment A-1</h4>
+<ul>
+<li><em>Objective:</em> Test electrical manipulation in a controlled environment</li>
+<li><em>Procedure:</em> D-Class personnel with basic musical knowledge instructed to conduct a simple 4/4 rhythm.</li>
+<li><em>Result:</em> Minor flickering in overhead lights; electrical current fluctuations measured within safe limits.</li>
+<li><em>Notes:</em> Test indicates a relationship between rhythm complexity and degree of manipulation possible.</li>
+</ul>
+<h4>Experiment A-2</h4>
+<ul>
+<li><em>Objective:</em> Examine effects of SCP-27352 when wielded by musically proficient individual</li>
+<li><em>Procedure:</em> Professional conductor brought in to conduct Beethoven's 5th Symphony.</li>
+<li><em>Result:</em> Severe storms generated in testing ground; temporary facility-wide power outage.</li>
+<li><em>Notes:</em> Proficiency with SCP-27352 can result in significant hazard. Recommended that SCP-27352 usage be strictly monitored and limited.</li>
+</ul>
+<h4>Experiment A-3</h4>
+<ul>
+<li><em>Objective:</em> Determine the effects of an emotionally distressed Conductor</li>
+<li><em>Procedure:</em> D-Class personnel intentionally induced into a state of agitation and instructed to conduct with SCP-27352.</li>
+<li><em>Result:</em> Unpredictable and erratic electrical discharges; destruction of several testing instruments.</li>
+<li><em>Notes:</em> Confirming that emotional stability is key to the safe handling of SCP-27352.</li>
+</ul>
+<h3>Addendum 3: Incident Report 27352-B</h3>
+<p>Following Experiment A-2, the containment chamber suffered structural damage from the electrical storm generated. Subsequent examination revealed that SCP-27352 may tap into electrical grids far beyond the immediate vicinity. Upgrades to containment and testing facilities are underway to account for this capacity. Testing with professional musicians has been suspended indefinitely.</p>
+<h3>Addendum 4: Experiment Log 27352-B</h3>
+<ul>
+<li>Multiple experiments have been conducted with variable outcomes. However, due to the increased risk posed by SCP-27352, only essential experiments are included in this document. A full log is available upon request to personnel with the necessary security clearance.</li>
+</ul>
+<h3>Addendum 5: Interview Log 27352-C</h3>
+<ul>
+<li>Interviews with individuals previously exposed to SCP-27352's effects, including members of the audience and orchestra at the time of initial recovery, provided insights into the psychological impact of exposure. Recurring themes include sensations of being "overwhelmed by the rhythm" and a "compulsion towards the music".</li>
+</ul>
+<h3>Addendum 6: Theoretical Essays on SCP-27352</h3>
+<ul>
+<li>Researchers have submitted several theoretical papers on the nature of SCP-27352's abilities, including its potential applications and the risks inherent in its anomalous properties. These essays are subject to ongoing peer review.</li>
+</ul>
+<h3>Addendum 7: Legal Documents</h3>
+<ul>
+<li>Documentation on the transfer of SCP-27352 into Foundation custody, including negotiations with local Chinese authorities and the concert hall's ownership, have been filed and secured. Measures were taken to ensure the Foundation's involvement remained classified.</li>
+</ul>
+<h3>Addendum 8: Updated Special Containment Procedures</h3>
+<p>Based on the insights gained from the experiment logs and incident reports, the SCP-27352 containment procedures have been revised to account for its wider range of influence and the potential volatility when wielded by individuals with a heightened emotional state or musical expertise.</p>
+<h3>Addendum 9: Miscellaneous Communications</h3>
+<p>A series of intercepted communications suggests that prior to the Foundation's acquisition of SCP-27352, an unidentified group had attempted to obtain and use the object for unknown purposes. Efforts to track this group's activities and motivations are ongoing.</p>
+<h3>Addendum 10: Updates</h3>
+<p>As of the last review, SCP-27352 remains securely contained at Site-██. Plans for future testing are under strict scrutiny, with the focus shifting towards understanding the long-term effects of exposure to SCP-27352 and the mitigation of potential risks.</p>
+
+    </div>
+    
