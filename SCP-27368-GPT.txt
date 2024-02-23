@@ -1,0 +1,56 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27368 is  a bottle of water that turns people drinking it into slugs </h3> </center>
+
+    <h3>Item #: SCP-27368 - "The Slug Elixir"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27368-GPT.png" alt="Illustration of SCP-27368" />
+        
+<h3>Description:</h3>
+<p>SCP-27368 is an unremarkable-looking glass bottle, approximately 1 liter in capacity, containing a clear liquid visually identical to water. Upon consumption of any amount of SCP-27368's contents, the subject begins a rapid and irreversible transformation into a terrestrial gastropod mollusk in the family Limacidae, commonly referred to as a slug. Transformation time varies from 10 to 120 minutes, depending on the amount ingested and the body mass of the subject.</p>
+<p>Once transformation is complete, the resulting entity hereafter referred to as SCP-27368-A, retains no human cognitive functions and behaves identical to non-anomalous slugs. Further testing reveals these transformed slugs share DNA with the original human subject, but no method has been discovered to reverse the process.</p>
+<p>SCP-27368's liquid does not evaporate, nor does it become less effective due to age or exposure to air.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27368 is to be stored in a standard Safe-class containment locker fitted with environmental controls to prevent temperature extremes and humidity conditions that could impact the integrity of the bottle and its contents. The locker is to be guarded by two (2) security personnel with Level 2 clearance or higher at all times.</p>
+<p>No personnel are to consume the contents of SCP-27368 under any circumstance. Handling and experimentation with SCP-27368 must be conducted using enclosed remote systems or by D-class personnel under strict supervision. All interactions are to be recorded and logged for research purposes, ensuring the safety of all personnel involved.</p>
+<p>Due to the irreversible effects of SCP-27368, any accidental consumption should be reported immediately, and affected personnel are to be quarantined for observation and documentation.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27368 was discovered in ████████, Slovakia, after reports surfaced of multiple missing persons within the town. Local folklore attributed the disappearances to a cursed "Witch's Vessel." Recovery agents managed to locate SCP-27368 within an abandoned household cellar after multiple accounts of pet animals found in slug forms within the vicinity. The bottle was secured without incident, and all affected subjects (now SCP-27368-A) were collected for study.</p>
+<h3>Addendum 2: Experiment Logs</h3>
+<h4>Experiment Log 27368-01</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-84311</li>
+<li><strong>Procedure:</strong> D-84311 was instructed to ingest 5ml of SCP-27368's contents.</li>
+<li><strong>Results:</strong> Subject began transformation after 30 minutes. Complete metamorphosis into SCP-27368-A occurred over a period of approximately 55 minutes.</li>
+<li><strong>Notes:</strong> Subject exhibited extreme distress during transformation, indicating SCP-27368's effects are potentially painful or uncomfortable.</li>
+</ul>
+<h4>Experiment Log 27368-02</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-75922</li>
+<li><strong>Procedure:</strong> D-75922 was instructed to apply SCP-27368's contents topically to skin.</li>
+<li><strong>Results:</strong> No transformation occurred. Subject showed no adverse reaction to topical contact.</li>
+<li><strong>Notes:</strong> Confirms ingestion is necessary for transformation.</li>
+</ul>
+<h4>Experiment Log 27368-03</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-66430</li>
+<li><strong>Procedure:</strong> D-66430 was exposed to vapor created by heating SCP-27368's contents.</li>
+<li><strong>Results:</strong> No transformation or adverse effects detected.</li>
+<li><strong>Notes:</strong> Substance's anomalous properties seem to be nullified by heat and vaporization.</li>
+</ul>
+<h3>Addendum 3: Incident Report 27368-A</h3>
+<p>During a containment transfer on ██/██/20██, SCP-27368's bottle was accidentally dropped and shattered, spilling contents onto the floor. The breach resulted in one security officer (Officer ██████) being splashed on the face and involuntarily ingesting a small quantity. Officer ██████ was immediately quarantined, and his transformation into SCP-27368-A was fully documented for study. The remaining contents were salvaged, and SCP-27368 was re-contained without further incident.</p>
+<h3>Addendum 4: Psychological Impact on D-Class Subjects</h3>
+<p>Interviews with D-class subjects selected for experimentation with SCP-27368 revealed a significant prevalence of anxiety and psychological distress. Subjects demonstrated a clear understanding of the implications of the experiments, which has caused ethical concerns regarding the continued use of SCP-27368 in experimentation. Future testing will require the psychological evaluation of subjects before participation, and counseling support will be provided.</p>
+<h3>Addendum 5: Dr. █████'s Theoretical Essay on SCP-27368's Transmutation Mechanism</h3>
+<p>Dr. █████ theorizes that SCP-27368's anomalous properties are likely based on an exotic form of molecular transmutation at the subatomic level, altering the very structure of DNA and cellular makeup. Further studies into the source of these properties have been approved.</p>
+<h3>Addendum 6: Ethics Committee Review</h3>
+<p>Following recent concerns, the Ethics Committee has reviewed SCP-27368's containment and experimentation procedures. It was determined that testing could proceed under stricter ethical protocols, including more comprehensive informed consent from D-class personnel and a limitation on experimentation frequency.</p>
+<h3>Addendum 7: Updated Containment Protocols Proposal</h3>
+<p>A proposal has been submitted for a more secure containment unit for SCP-27368, to prevent any future incidents of breakage and potential exposure. The new containment unit is expected to be a custom-made, shockproof, and shatter-resistant enclosure with an embedded feeding mechanism to facilitate safe experimentation.</p>
+<h3>Addendum 8: Correspondence with External Research Firm</h3>
+<p>There has been a request from an external research firm specializing in biochemical anomalies to study a sample of SCP-27368's contents. The request is currently under review by the Site Director and the O5 Council, considering the potential for beneficial scientific breakthroughs in biological and chemical research.</p>
+
+    </div>
+    
