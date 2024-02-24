@@ -1,0 +1,65 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27394 is  a wodden rowing boat in the shape of billionaire Jeff Bezos </h3> </center>
+
+    <h3>Item #: SCP-27394 - "The Bezos Vessel"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27394-GPT.png" alt="Illustration of SCP-27394" />
+        
+<h3>Description:</h3>
+<p>SCP-27394 is a wooden rowing boat, measuring approximately 4 meters in length and 1.5 meters in width. The boat's design is its most striking feature, as it is intricately hand-carved to resemble a reclining human figure identified as Jeff Bezos, the billionaire entrepreneur. Notably, the boat's stern is shaped to form the head, and the bow mimics the feet of the figure, with the rest of the boat conforming to the outline of Bezos's body.</p>
+<p>The wooden surface of SCP-27394 is polished, with occasional knots and grain patterns throughout, suggesting the wood is of terrestrial origin. Despite its bizarre design, the boat is found to be seaworthy and behaves as a standard rowboat in water.</p>
+<p>SCP-27394's anomalous properties manifest when an individual (hereafter referred to as the "subject") sits within the boat and grips the oars. Upon doing so, the subject reports a sense of overwhelming ambition and a compulsion to discuss entrepreneurship, innovation, and space travel, mimicking the known public persona of Jeff Bezos. These effects do not appear to have lasting consequences, dissipating within hours after the subject exits SCP-27394.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27394 is to be stored in a secure item locker at Site-██. Access to the locker is restricted to personnel with Level 2 security clearance or higher. The boat is to be kept under a waterproof tarpaulin when not in use for approved testing or research purposes to prevent degradation of the wood.</p>
+<p>For safety reasons, subjects undergoing testing with SCP-27394 must be secured with life jackets and monitored by at least one research staff member with first-aid certification. Due to the object's benign nature, stringent containment measures are not necessary, but interactions with the boat outside of authorized testing are prohibited to prevent unnecessary manifestation of its anomalous effects.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27394 was discovered on the shores of Lake Union near Seattle, Washington, after numerous reports of a "strange boat in the likeness of Jeff Bezos" circulated on social media. The Foundation intercepted these reports and dispatched a recovery team. Initial analysis confirmed its anomalous properties, and the boat was contained without incident. Witnesses were administered Class-A amnestics to prevent public knowledge of SCP-27394.</p>
+<h3>Addendum 2: Experiment Log - SCP-27394</h3>
+<h4>Experiment 27394-E1</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Subject:</strong> D-43829, male, no prior knowledge of Jeff Bezos</li>
+<li><strong>Procedure:</strong> Subject seated within SCP-27394 and given oars to hold.</li>
+<li><strong>Results:</strong> Subject reported a sudden urge to "launch a company" and "innovate the market." Became restless and spoke at length about plans to commercialize space exploration. This compulsion ceased upon removal from SCP-27394.</li>
+<li><strong>Notes:</strong> The subject's dialogue consisted of rehearsed speeches commonly associated with Jeff Bezos, suggesting the effects may be tied to the public image of the figure rather than the individual's personal experiences.</li>
+</ul>
+<h4>Experiment 27394-E2</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Subject:</strong> D-44201, female, possessed a bachelor's degree in business administration</li>
+<li><strong>Procedure:</strong> Same as Experiment 27394-E1.</li>
+<li><strong>Results:</strong> Similar to previous test, with the added detail that the subject outlined a business strategy for an online retail company. Notably, the subject had never expressed interest in this area prior to the experiment.</li>
+<li><strong>Notes:</strong> Subject's compulsion to discuss business strategies faded within two hours post-test. It is worth investigating whether SCP-27394 influences subjects based on their background knowledge.</li>
+</ul>
+<h3>Addendum 3: Interview Log - Former Owner</h3>
+<p>An interview was conducted with ██████ █████, the artist who created SCP-27394. The purpose was to ascertain whether the artist was aware of the boat's anomalous effects and the intention behind its creation.</p>
+<p><strong>Interviewer:</strong> Dr. Patel
+<strong>Interviewee:</strong> ██████ █████</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. Patel:</strong> Can you tell us why you chose Jeff Bezos as the inspiration for this boat?
+<strong>██████ █████:</strong> It was a commission, you know? Some tech entrepreneur with too much money and a fascination for Bezos. They wanted something unique. I figured, why not a boat that's also art?</p>
+<p><strong>Dr. Patel:</strong> Were you aware of the boat's unique properties when you were creating it?
+<strong>██████ █████:</strong> Look, I just carve what I'm paid to carve. I didn't know it was going to do anything weird. I mean, it's wood and varnish, not magic.</p>
+<p><strong>Dr. Patel:</strong> Have you created other works like this in the past?
+<strong>██████ █████:</strong> Nah, this was a one-time thing. I don't usually do faces, let alone full bodies. This gig just paid really well.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Notes:</strong> ██████ █████ showed no signs of prior knowledge regarding SCP-27394's anomalous effects and had not made other similar works. It appears the boat's properties were an unintended consequence of its creation.</p>
+<h3>Addendum 4: Update on Containment Procedures</h3>
+<p>As of ██/██/20██, SCP-27394's containment procedures have been updated to include recreational use of the object by Site-██ staff, provided they follow all safety guidelines and have obtained prior approval from at least one Level 3 Senior Researcher. This decision was made to boost morale and foster team building, taking advantage of SCP-27394's safe class designation and relatively benign anomalous effects.</p>
+<h3>Addendum 5: Incident Report - Unapproved Use of SCP-27394</h3>
+<p>On ██/██/20██, two Level 1 security personnel were caught using SCP-27394 outside of authorized hours. Both individuals demonstrated heightened ambition and a temporary compulsion to engage in entrepreneurial discussion, but no further anomalous effects were noted. The individuals were reprimanded, and a memo was sent reminding all personnel of the proper use and access protocols for SCP-27394.</p>
+<h3>Addendum 6: Miscellaneous - Psychological Impact Study</h3>
+<p>A study was conducted to determine if prolonged exposure to SCP-27394 has lasting psychological effects. Over the course of a month, a sample group of D-Class personnel interacted with the object in controlled environments. The study concluded that no long-term changes in behavior, ambition, or personality were detected. These findings support the hypothesis that SCP-27394 only induces temporary effects that are not cumulative in nature.</p>
+<h3>Addendum 7: Recovery Log - Video Surveillance Evidence</h3>
+<p>Upon reviewing surveillance footage during the recovery of SCP-27394, agents observed an unidentified individual observing the operations from a distance. Efforts to track down and identify this individual have been inconclusive. It remains unknown whether this person has connections to the creation of SCP-27394 or possesses further knowledge about its properties.</p>
+<h3>Addendum 8: General Information - Public Perception Research</h3>
+<p>Foundation web-crawlers have been deployed to monitor and address any resurgence in social media or public discourse relating to the likeness of Jeff Bezos and SCP-27394. Public perception remains a low priority, as the anomaly's Safe classification and lack of widespread knowledge suggest a minimal risk of breach of masquerade. However, the Foundation remains vigilant against any potential information leaks.</p>
+<h3>Addendum 9: Experiment Log - Extended Isolation</h3>
+<p>A follow-up experiment placed a subject in an isolated environment with SCP-27394 for 72 hours. The subject exhibited persistent ambition and conversational tendencies associated with the object's influence throughout the duration but returned to baseline behavior within 24 hours of removal. Researchers confirmed that the effects do not intensify or become permanent with extended exposure.</p>
+<h3>Addendum 10: Recovery Log - Purchase Records Inquiry</h3>
+<p>Investigations into the financial records of the artist who created SCP-27394 have uncovered the identity of the commissioner, believed to be a tech mogul with a penchant for eccentric art. This individual has been flagged for further observation and, if necessary, intervention to prevent potential exploitation of the object or creation of similar anomalies.</p>
+
+    </div>
+    
