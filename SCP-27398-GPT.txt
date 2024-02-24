@@ -1,0 +1,63 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27398 is  a loaf of bread named kevin. Kevin used to be a movie star until he met a evil baker mage </h3> </center>
+
+    <h3>Item #: SCP-27398 - "The Thespian Loaf"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27398-GPT.png" alt="Illustration of SCP-27398" />
+        
+<h3>Description:</h3>
+<p>SCP-27398 refers to a seemingly ordinary loaf of sourdough bread, approximately 23 cm in length and weighing 500g. It was previously known as Kevin ██████, a prolific movie actor known for his roles in several blockbuster films.</p>
+<p>SCP-27398 is animate and sentient, capable of limited locomotion by rolling or flopping, and possesses the ability to communicate via telepathy. Those within a 5-meter radius can hear its voice, which retains the distinct tone and inflection that matched its former human identity. SCP-27398 claims to have retained all memories from its life as Kevin ██████.</p>
+<p>The transformation of Kevin ██████ into SCP-27398 has been attributed to an encounter with an individual referred to as the "Evil Baker Mage," currently designated as POI-27398-01 (Person of Interest). The exact nature of this entity remains under investigation. SCP-27398's anomalous properties manifest primarily through its continuing influence on human behavior and events surrounding its existence, inevitably leading to scenarios similar to those in the actor's previous films, albeit with notably absurd alterations.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27398 is to be contained in a secure, climate-controlled containment chamber within Site-██. Conditions should be maintained at standard room temperature with a humidity level not exceeding 50% to prevent deterioration. Chamber access is allowed to Level 2 personnel and above, or with specific authorization from the project head for research purposes.</p>
+<p>Under no circumstances should SCP-27398 be placed in an oven or exposed to excessive heat, as doing so might trigger stress responses and telepathic broadcasts at intensities harmful to personnel.</p>
+<p>Once every two weeks, SCP-27398 must be provided with a maintenance “feeding” of a specially formulated preservative spray to maintain its form and delay natural spoilage. No other food sustenance is required or to be provided. Human interaction, in the form of conversation and simulated social activities, is scheduled to sustain SCP-27398's mental health.</p>
+<p>Any scripts, movie paraphernalia, or baking-related items must be approved before introduction to SCP-27398's containment chamber to avoid triggering distress or anomalous effects. A psychologist trained in anomalous entities must evaluate the content for safety.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27398 was discovered on ██/██/20██, at the residence of actor Kevin ██████ after reports of unusual activity involving alleged "talking food". Foundation agents embedded in the local police promptly responded, established a containment perimeter, and administered amnestics as necessary. The item was retrieved without public incident, and the cover story of Kevin ██████'s sudden retirement due to personal issues was disseminated.</p>
+<h3>Addendum 2: Interview Log Excerpt</h3>
+<p>Interviewer: Dr. Marissa Vale
+Interviewee: SCP-27398</p>
+<p>[Excerpt Begins]</p>
+<p>SCP-27398: (Telepathically) I just can't believe it. One moment I'm practicing for my next role, the next... I'm dough.</p>
+<p>Dr. Vale: And you're absolutely certain it was the action of this 'Evil Baker Mage'?</p>
+<p>SCP-27398: (Telepathically) Yes, he was ranting about how I'd "fallen in the yeast of pride," whatever that means. Then, poof, sourdough city.</p>
+<p>Dr. Vale: Fascinating. Can you communicate with anyone else besides the Foundation staff?</p>
+<p>SCP-27398: (Telepathically) No. Only those who are near and those deemed worthy by the muse of the wheat or something ridiculous like that.</p>
+<p>[Excerpt Ends]</p>
+<h3>Addendum 3: Experiment Log A</h3>
+<h4>Experiment #27398-E1</h4>
+<p><strong>Objective:</strong> To determine the limits of SCP-27398's telepathic communication.
+<strong>Procedure:</strong> D-class personnel were instructed to engage in conversation with SCP-27398 from various distances beyond the initial 5-meter radius.
+<strong>Results:</strong> Telepathic communication remained clear up to 8 meters before beginning to fade. At 10 meters, no communication was detected.</p>
+<h4>Experiment #27398-E2</h4>
+<p><strong>Objective:</strong> To test SCP-27398's influence on human behavior.
+<strong>Procedure:</strong> A group role-playing scenario mimicking the plot of one of Kevin ██████'s well-known films was staged in the presence of SCP-27398.
+<strong>Results:</strong> Participants began improvising lines and situations that coincided closely with SCP-27398's suggestions, despite no previous knowledge of the film's script.</p>
+<h3>Addendum 4: Incidents of Note</h3>
+<h4>Incident 27398-A</h4>
+<p>During routine cleaning of SCP-27398's chamber, a janitor accidentally brought a copy of "The Baker's Almanac." Upon proximity to the book, SCP-27398 became agitated and began emitting distressing telepathic projections that caused emotional distress to all hearing individuals. The book was removed, resulting in the cessation of these effects.</p>
+<h4>Incident 27398-B</h4>
+<p>SCP-27398 inadvertently initiated a localized temporal anomaly when a romantic comedy DVD was played in an adjacent room. Staff members reported reliving the same hour several times, consistent with the motif of the film that SCP-27398 had starred in prior to transformation. The anomaly subsided after the DVD player malfunctioned. Further investigations into the correlation between SCP-27398 and plot reenactments are ongoing.</p>
+<h3>Addendum 5: POI-27398-01 (The Evil Baker Mage)</h3>
+<p>Current intelligence suggests that POI-27398-01 is a practitioner of a heretofore unknown form of gastro-thaumaturgy and may be connected to other anomalous culinary events. Ongoing efforts to locate and apprehend this individual are in effect, postulated to reverse or provide insight into the affliction of SCP-27398.</p>
+<h3>Addendum 6: Psychological Evaluation of SCP-27398</h3>
+<p>SCP-27398 displays clear signs of distress related to its existential crisis as a non-human entity. Regular support from psychological staff has been mandated. Special attention to SCP-27398's needs is essential to prevent deterioration of its mental state, which is linked with the manifestation of more intense and potentially dangerous anomalous activities.</p>
+<h3>Addendum 7: Recovery Operation</h3>
+<p>Recovery of personal items from Kevin ██████'s home resulted in the discovery of a sourdough starter in the refrigerator, which exhibited minor anomalous properties. It has been classified as SCP-27398-1 and is currently under analysis to determine any genetic or mystical link to SCP-27398.</p>
+<h3>Addendum 8: Updates</h3>
+<p>An experimental treatment using a combination of traditional therapy and anomalous methods is currently under review. If successful, this may provide a pathway to restoring SCP-27398 to its original human form, or at the very least, improving its quality of existence as an SCP.</p>
+<h3>Addendum 9: Miscellaneous</h3>
+<p>An unknown individual has been leaving loaves of bread similar to SCP-27398 at locations connected with known film industry events. Surveillance operations have been increased to identify any possible connections with POI-27398-01.</p>
+<h3>Addendum 10: Experiment Log B</h3>
+<h4>Experiment #27398-E3</h4>
+<p><strong>Objective:</strong> To explore the possibility of SCP-27398 possessing enhanced creativity in scripts and performance-related thought processes due to its history.
+<strong>Procedure:</strong> SCP-27398 was given outlines of incomplete film scripts to telepathically review and provide constructive feedback.
+<strong>Results:</strong> SCP-27398 provided insightful and meaningful feedback, improving the narrative flow and character development in each instance. Results suggest SCP-27398 retains not only the memories but also the cognitive functions and talents of Kevin ██████.</p>
+<p>The narrative of SCP-27398 weaves a tale of tragic transformation, psychological struggle, and the ongoing quest for identity and reversal of the actor's bread-bound fate. Its interactions with Foundation staff, the influence over human behavior, and potential connection to a mysterious figure all contribute to an ongoing drama that unfolds within the SCP's containment.</p>
+
+    </div>
+    
