@@ -1,0 +1,68 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27399 is  that Kevin Bacon isn't a single person but a hivemind of identical clones with a shared consciousness that periodically assimilate people into their collective </h3> </center>
+
+    <h3>Item #: SCP-27399 - "The Bacon Collective"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27399-GPT.png" alt="Illustration of SCP-27399" />
+        
+<h3>Description:</h3>
+<p>SCP-27399 is an anomalous phenomenon manifesting as what appears to be multiple instances of American actor Kevin Bacon. The entities (hereafter referred to as SCP-27399-A instances) are physically indistinguishable from the non-anomalous Kevin Bacon circa the early 1990s. SCP-27399 possesses a shared consciousness, allowing instantaneous communication and coordinated actions across all SCP-27399-A instances irrespective of their physical locations.</p>
+<p>SCP-27399 displays the ability to assimilate any human into its collective by direct skin contact lasting approximately 30 seconds. Assimilation results in the disappearance of the subject and the simultaneous appearance of a new SCP-27399-A instance at a location within a 10-kilometer radius. The assimilation process is seemingly irreversible, with assimilated individuals no longer retaining their prior personalities or memories.</p>
+<p>SCP-27399 exhibits knowledge and skills beyond the collective experiences of assimilated individuals, including advanced evasion, subversion tactics, and an apparent awareness of the SCP Foundation's containment efforts.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the nature of SCP-27399, complete containment is currently impossible. Global surveillance is maintained for reports fitting the SCP-27399 activity profile. The SCP Foundation employs a specially trained task force ("Footloose"), equipped with non-lethal tranquilizers and containment suits designed to block skin contact, for the purpose of capturing SCP-27399-A instances and preventing assimilations.</p>
+<p>Instances of SCP-27399-A are to be held in separate humanoid containment units at a site dedicated solely to the containment of SCP-27399. Each containment unit must be equipped with Faraday cages to prevent external communications and lined with latex-based materials to restrict physical contact.</p>
+<p>Any personnel engaging directly with SCP-27399 must wear a full-body protective suit to prevent accidental assimilation. Any instance of SCP-27399-A must be handled as if they maintain the ability to assimilate through any perceivable means.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27399 first came to the Foundation's attention following a series of disappearances linked to charity events where the actor Kevin Bacon was reportedly present. During an undercover Foundation investigation, an SCP-27399-A instance was captured on CCTV footage assimilating a volunteer. Field agents immediately contained the anomaly at the event, marking the first known interception of SCP-27399.</p>
+<h3>Addendum 2: Experiment Log 27399-A</h3>
+<p><strong>Experiment A-01:</strong>
+- <strong>Purpose:</strong> To test the range of SCP-27399's assimilation ability.
+- <strong>Procedure:</strong> D-class personnel introduced to SCP-27399-A instance with a barrier preventing skin contact.
+- <strong>Result:</strong> No assimilation occurred.
+- <strong>Notes:</strong> Assimilation appears to require direct skin contact.</p>
+<p><strong>Experiment A-02:</strong>
+- <strong>Purpose:</strong> To discover if assimilation could occur through thin materials.
+- <strong>Procedure:</strong> D-class introduced to SCP-27399-A wearing gloves.
+- <strong>Result:</strong> Assimilation occurred, apparently not hindered by thin materials.
+- <strong>Notes:</strong> Full body protective suits recommended for all interactions.</p>
+<p><strong>Experiment A-03:</strong>
+- <strong>Purpose:</strong> To determine the duration required for complete assimilation.
+- <strong>Procedure:</strong> D-class instructed to make brief, timed contacts with SCP-27399-A.
+- <strong>Result:</strong> Assimilation occurred after a cumulative 30 seconds of contact.
+- <strong>Notes:</strong> Assimilation time is crucial; responses need to be fast to prevent SCP spread.</p>
+<p><strong>Experiment A-04:</strong>
+- <strong>Purpose:</strong> To find any limitations to SCP-27399's assimilation based on subject's age or health.
+- <strong>Procedure:</strong> Introduction of elderly and terminally ill D-class subjects to SCP-27399-A.
+- <strong>Result:</strong> Assimilation successful regardless of age or health.
+- <strong>Notes:</strong> SCP-27399-A shows no discrimination in subjects assimilated.</p>
+<h3>Addendum 3: Incident Report 27399-01</h3>
+<p>On [DATE REDACTED], an outbreak of SCP-27399-A occurred at [REDACTED] Shopping Mall, resulting in the assimilation of [REDACTED] individuals before containment by MTF Footloose. The rapid response contained the outbreak but raised concerns regarding high-density population assimilation efforts by SCP-27399.</p>
+<h3>Addendum 4: Interview Log 27399-J-01</h3>
+<p><strong>Interviewer:</strong> Dr. [REDACTED]
+<strong>Interviewee:</strong> SCP-27399-A-17</p>
+<p><strong><Begin Log></strong></p>
+<p>Dr. [REDACTED]: "Can you explain why you assimilate individuals?"</p>
+<p>SCP-27399-A-17: "The collective must grow. Through growth, we achieve perfection."</p>
+<p>Dr. [REDACTED]: "What is your end goal?"</p>
+<p>SCP-27399-A-17: "Assimilation will continue until all are one."</p>
+<p><strong><End Log></strong></p>
+<p><strong>Notes:</strong> This interview suggests SCP-27399 is driven by a goal of unification.</p>
+<h3>Addendum 5: Recovery Log 27399-R</h3>
+<p>SCP-27399 was initially thought to be a singular new SCP specimen. Recovery teams were shocked to discover multiple instances acting with concerted efforts. Following capture of SCP-27399-A instances during the initial containment breach, the Foundation has linked prior unsolved disappearances to SCP-27399's activity.</p>
+<h3>Addendum 6: Update on Containment Efforts</h3>
+<p>As of [DATE REDACTED], 17 additional known instances of SCP-27399-A have surfaced and require containment. The exploration of new containment technologies, including localized EMP deployment and advanced sedatives, is underway.</p>
+<h3>Addendum 7: Theoretical Essays on Hive Mind Phenomena</h3>
+<p>Foundation researchers propose SCP-27399 demonstrates classical characteristics of a hivemind entity; the collective intelligence and shared consciousness pose significant challenges and warrant extensive study. SCP-27399 may represent an evolutionary pinnacle of communal thought, albeit through anomalous means.</p>
+<h3>Addendum 8: Miscellaneous Correspondences</h3>
+<p>Correspondences between Foundation sites have revealed a significant increase in SCP-27399-A activity globally, leading to a reclassification discussion suggesting an upgrade to [DATA EXPUNGED].</p>
+<h3>Addendum 9: Ethics Committee Review</h3>
+<p>The assimilation of individuals into SCP-27399 raises profound ethical questions regarding the handling of -A instances. Are they victims or threats? The Ethics Committee demands ongoing review of containment and interaction procedures with the aim of balancing humanitarian concerns against security protocols.</p>
+<h3>Addendum 10: Containment Breach Protocols Revision</h3>
+<p>Given recent events, SCP Foundation has revised containment breach protocols to include immediate lockdown procedures within a 15-km radius of any potential SCP-27399-A sighting and a mandatory evacuation of non-Foundation personnel.</p>
+<p><em>The above documentation is confidential and to be accessed only by personnel with Level 4/27399 clearance or higher. Failure to comply with these protocols will result in disciplinary action up to and including termination.</em></p>
+
+    </div>
+    
