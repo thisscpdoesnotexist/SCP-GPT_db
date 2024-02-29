@@ -1,0 +1,42 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27511 is  a series of youtube videos depicting spiderman and elsa hunting for easter eggs </h3> </center>
+
+    <h3>Item #: SCP-27511 - "The Unwelcome Spotlight"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27511-GPT.png" alt="Illustration of SCP-27511" />
+        
+<h3>Description:</h3>
+<p>SCP-27511 is the collective designation given to a series of videos initially uploaded to YouTube and various other video-sharing platforms under the header "Spiderman and Elsa Hunt for Easter Eggs". The videos primarily feature two individuals dressed as the licensed characters Spider-Man and Elsa from the Disney franchise 'Frozen.' They non-verbally communicate while engaging in a dramatized easter egg hunt. The scenes are often colorful, with a surreal atmosphere created by background music and disproportionate reaction sounds.</p>
+<p>The anomalous properties of SCP-27511 become apparent when individuals view the videos. Within 12 to 48 hours of exposure, viewers exhibit extreme obsessive tendencies, followed by a compulsion to recreate the events in the videos, regardless of the viewer's age or prior disposition towards the portrayed characters. These re-enactments become increasingly elaborate and dangerous, often leading to self-harm or harm to others in an attempt to source materials for costumes and "easter eggs," which are perceived as paramount.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Currently, digital agents are employed to erase all instances of SCP-27511 from the internet as they surface. A dedicated containment team (Designation: Delta-4 "Reality Narrators") is tasked with monitoring online video-sharing platforms for SCP-27511's reappearance. Additionally, a disinformation campaign is in place to discredit SCP-27511 as a viral marketing stunt. Civilians showing signs of exposure are to be detained and administered Class-A amnestics before being released.</p>
+<p>Foundation web analysts are to regularly update detection algorithms to respond to SCP-27511's evolving digital signatures. Experimental counter-memes are in development to provide an inoculation against SCP-27511's compulsive effects for Foundation personnel at risk of accidental exposure.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27511 was initially brought to the Foundation's attention after a sharp increase in accidents related to easter egg hunts, coinciding with videos titled "Spiderman and Elsa Hunt for Easter Eggs" trending on multiple social media platforms. Foundation cyber-investigations pinpointed the origin to a now-defunct channel with connections to other anomalous activities.</p>
+<h3>Addendum 2: Incident Report 27511-Alpha</h3>
+<p>A violent episode occurred at a children's hospital ward where a group of patients and staff recreated a scene from the videos, resulting in several injuries. The event resulted in the upgrading of SCP-27511's Object Class from Euclid to Keter, due to the evident large-scale threat it posed.</p>
+<h3>Addendum 3: Experiment Log 27511-01 (abridged)</h3>
+<ul>
+<li><strong>Experiment A</strong>: D-13421 was exposed to a 30-second clip of SCP-27511. The subject began fabricating a Spider-Man costume from available materials within four hours. Resulted in self-inflicted injuries during material procurement.</li>
+<li><strong>Experiment B</strong>: D-8723 was exposed to a full video of SCP-27511 with no subsequent re-enactment allowed. The subject became increasingly agitated, ultimately leading to a containment breach attempt.</li>
+<li><strong>Experiment C</strong>: D-0909 was exposed to SCP-27511 and observed without intervention. Re-enactment became increasingly complex, ending in D-0909's hospitalization due to acute exhaustion and malnutrition.</li>
+</ul>
+<h3>Addendum 4: Interview Log 27511-Delta</h3>
+<p>Interviews with affected individuals revealed a consistent pattern of initially feeling delight and fascination with the videos, followed by an all-encompassing obsession overriding all other desires and responsibilities.</p>
+<h3>Addendum 5: Recovery Log 27511-Gamma</h3>
+<p>Multiple instances of SCP-27511 were traced to privately-owned servers. A tactical team was dispatched, resulting in the confiscation of hardware and amnestics administered to all parties involved. It was determined that the servers operated independently, pointing towards SCP-27511's self-propagating properties.</p>
+<h3>Addendum 6: Researcher Notes</h3>
+<p>The psychological impact of SCP-27511 is under intense study. Researcher Dr. Lang suggests that the compulsion may be linked to subconscious archetypes manipulated by the videos' peculiar aesthetics and character dynamics.</p>
+<h3>Addendum 7: Update 27511-Omicron</h3>
+<p>Following the temporary containment breach of SCP-27511, Foundation cybersecurity capabilities have been expanded significantly. Discussions regarding the potential necessity for a planet-wide amnestic protocol are underway, should containment fail permanently.</p>
+<h3>Addendum 8: Misc Documents 27511-Theta</h3>
+<p>Communication logs between YouTube administrators and Foundation cyber-counterintelligence have shown strong cooperation and an understanding of the public threat posed by SCP-27511.</p>
+<h3>Addendum 9: Miscellaneous Narrative Recordings</h3>
+<p>Eyewitness accounts from those unaffected (potentially immune) directly contrast with those who succumbed to SCP-27511's compulsion. The latter narrate their experiences as though they participated in a grand, meaningful quest, further hinting at SCP-27511's deeply psychological impact.</p>
+<h3>Addendum 10: Proposed Countermeasures</h3>
+<p>The development of digital antibodies continues, with the latest iterations showing promise in early field tests. Mock videos featuring similar but normalized content have been effective in isolated cases, serving both as a potential preventative measure and a therapeutic tool for those recovering from SCP-27511's influence.</p>
+
+    </div>
+    
