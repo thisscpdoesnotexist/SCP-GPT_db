@@ -1,0 +1,77 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27495 is  the bacon beacon </h3> </center>
+
+    <h3>Item #: SCP-27495 - The Bacon Beacon</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27495-GPT.png" alt="Illustration of SCP-27495" />
+        
+<h3>Description:</h3>
+<p>SCP-27495, colloquially dubbed "The Bacon Beacon," is a small electromechanical device resembling a vintage radio with an ornate design. The object is constructed of brass, wood, and what appears to be bakelite. It measures approximately 30 cm x 20 cm x 15 cm. SCP-27495's anomalous properties manifest when tuned to a frequency of 93.5 MHz - a frequency not typically used by standard commercial radio broadcasts.</p>
+<p>Once activated on the specified frequency, SCP-27495 starts emitting an aroma strongly resembling that of cooking bacon. This olfactory phenomenon affects an area with a radius of roughly 20 meters centered on SCP-27495. Individuals within this radius experience an intense craving for bacon, regardless of prior dietary preferences or restrictions. Prolonged exposure can lead to mild obsession with obtaining and consuming bacon.</p>
+<p>The device appears to have no other immediate anomalous effects on living organisms. However, prolonged exposure has been observed to affect the dreams of individuals sleeping within its radius, often resulting in vivid dreams or nightmares related to an overabundance or lack of bacon.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27495 is to be contained in a standard Safe-class containment locker at Site-██. Personnel with a history of compulsive behavior or eating disorders are not allowed to interact with SCP-27495 without prior approval from the project head. Use of SCP-27495 for non-research purposes is strictly prohibited.</p>
+<p>Testing involving SCP-27495 is to be conducted in a controlled environment with an on-site psychologist available to monitor and provide support for test subjects who may experience stress or obsession due to SCP-27495's effects.</p>
+<p>Because of SCP-27495's non-threatening nature, it has been deemed Safe, and as such, minimal security measures beyond standard containment are necessary. However, given its potential to disrupt research activities and staff well-being if activated outside of controlled testing, containment must be strictly maintained.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-27495 was recovered from a small antique shop in ███ █████, England, where it had been causing minor public disturbances. Reports of a 'haunted radio' that made people 'ravenous for bacon' prompted the recovery by Foundation operatives. The owner of the shop was amnesticized, and SCP-27495 was retrieved without further incident.</p>
+<h3>Addendum 2: Experiment Log - Exposure to D-Class Subjects</h3>
+<h4>Experiment 27495-E1</h4>
+<p><strong>Subject:</strong> D-17489, no known dietary restrictions.
+<strong>Procedure:</strong> Subject is exposed to SCP-27495 for thirty minutes.
+<strong>Result:</strong> Subject reported an intense craving for bacon and requested it for their next meal. No adverse effects observed.
+<strong>Notes:</strong> Basic response as expected from initial reports.</p>
+<h4>Experiment 27495-E2</h4>
+<p><strong>Subject:</strong> D-83217, self-reported vegetarian.
+<strong>Procedure:</strong> Subject is exposed to SCP-27495 for one hour.
+<strong>Result:</strong> Subject reported a desire to eat bacon despite previous dietary habits. The subject was offered a vegetarian alternative but refused, insisting on consuming bacon.
+<strong>Notes:</strong> SCP-27495's influence appears to override personal dietary preferences.</p>
+<h4>Experiment 27495-E3</h4>
+<p><strong>Subject:</strong> D-90341, diagnosed with compulsive behavior.
+<strong>Procedure:</strong> Subject was exposed to SCP-27495 for fifteen minutes under close psychological supervision.
+<strong>Result:</strong> Subject became fixated on obtaining bacon, attempting to leave the testing chamber prematurely. Psychological intervention was required to reduce distress.
+<strong>Notes:</strong> Increased susceptibility in individuals with compulsive tendencies noted. Further testing on subjects with similar psychological profiles is not advised.</p>
+<h3>Addendum 3: Experiment Log - Extended Exposure and Dream Analysis</h3>
+<h4>Experiment 27495-E4</h4>
+<p><strong>Subjects:</strong> D-27491, D-27492, and D-27493 – all with no known psychological or dietary anomalies.
+<strong>Procedure:</strong> Subjects were exposed to SCP-27495 for a period of eight hours during their regular sleep cycle.
+<strong>Result:</strong> All subjects reported dreams involving copious amounts of bacon. Dreams ranged from positive (feasting) to negative (being chased by bacon strips).
+<strong>Notes:</strong> SCP-27495's effect on the subconscious mind during sleep warrants further investigation.</p>
+<h3>Addendum 4: Interview Log - Affected Civilian</h3>
+<p><strong>Interviewer:</strong> Dr. █████
+<strong>Interviewee:</strong> Mr. ████, prior owner of the antique shop.
+<strong>Extract from Interview:</strong></p>
+<blockquote>
+<p>Dr. █████: "Can you describe when you first noticed the object's effects?"</p>
+<p>Mr. ████: "Oh, it was brilliant at the start, people came in for miles just for the smell. But then they'd get all funny like, wanting bacon, but I don't sell food, see?"</p>
+<p>Dr. █████: "How did that affect your business?"</p>
+<p>Mr. ████: "It was chaos. They stopped buying antiques, just hanging around, sniffing the air like hungry dogs. Had to unplug the damn thing in the end."</p>
+</blockquote>
+<p><strong>Notes</strong>: Amnestics were effective on Mr. ████. He retains no knowledge of the radio's anomalous properties.</p>
+<h3>Addendum 5: Update on Containment Procedures</h3>
+<p>Following continued low-risk testing, it has been determined that no changes to the current containment procedures for SCP-27495 are necessary. Continued testing for potential application in negotiation or interrogation scenarios is approved.</p>
+<h3>Addendum 6: Miscellaneous Correspondence</h3>
+<p>Excerpts from internal email regarding SCP-27495:</p>
+<blockquote>
+<p>From: Dr. Y████
+To: Site Director L████
+Subject: Usage of SCP-27495</p>
+<p>Given its benign nature, I see potential in utilising SCP-27495 for morale-boosting events within controlled environments. The smell of bacon without actual consumption could lead to reduced cafeteria costs. Proposing 'Bacon Fridays' in which SCP-27495 is used in staff common areas under strict supervision. Await your thoughts.</p>
+</blockquote>
+<h3>Addendum 7: Experiment Log - Cross-testing with Other SCPs</h3>
+<p><strong>Experiment 27495-E5</strong>
+<strong>Objectives:</strong> To observe the effects of SCP-27495 when exposed to other Safe-class SCPs.
+<strong>Procedure:</strong> Selected Safe-class SCPs were each placed within SCP-27495's area of effect.
+<strong>Result:</strong> No significant reactions observed from the SCPs exposed.
+<strong>Notes:</strong> SCP-27495's effect appears to be limited to impacting human olfactory senses and does not extend to influencing or affecting other SCPs.</p>
+<h3>Addendum 8: Miscellaneous - A Theory on SCP-27495's Origin</h3>
+<p>A theoretical essay submitted by Dr. N█████ suggests SCP-27495 could be a product of a reality bender with a particular fondness for bacon or a by-product of a failed attempt at creating a 'Pleasure Radio' designed to induce various sensory pleasures in listeners during the early 20th century. Research into similar anomalous artifacts and historical records is ongoing.</p>
+<h3>Addendum 9: Ongoing Research Approval</h3>
+<p>Research proposals regarding the potential manipulative influence of SCP-27495 during interrogations and the possible psychological impacts of extended exposure have been approved and are pending further results.</p>
+<h3>Addendum 10: Incident Report I27495-1</h3>
+<p>An accidental activation of SCP-27495 caused a minor containment breach when a Research Assistant entered the locker without deactivating the device properly. The affected staff reported excessive salivation and involuntary gathering around SCP-27495's locker, longing for bacon. This event prompted a review of safety protocols to prevent future incidents. Personnel involved were reprimanded and reassigned as a precautionary measure.</p>
+
+    </div>
+    
