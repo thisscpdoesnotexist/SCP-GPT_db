@@ -1,0 +1,68 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27557 is  a tiktok account belonging to a man-eating mannequin with depression from another dimension </h3> </center>
+
+    <h3>Item #: SCP-27557 - "The Depressed Dimensional Dummy"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27557-GPT.png" alt="Illustration of SCP-27557" />
+        
+<h3>Description:</h3>
+<p>SCP-27557 is a mannequin of unknown make and origin, commonly designated as "The Depressed Dimensional Dummy." It is humanoid in appearance, measuring approximately 1.8 meters in height and is composed of a substance resembling common plastics used in mannequin manufacturing. Its anomalous properties manifest when it comes into contact with any device capable of accessing the social media platform TikTok.</p>
+<p>Upon gaining access to a device logged into TikTok, SCP-27557 anomalously creates an account named 'MelancholicMannequin' and begins uploading content. Videos uploaded by SCP-27557 typically contain a variety of skits and monologues alluding to its 'depression' from existing in our dimension. The TikTok account cannot be deleted, blocked, or reported by conventional means.</p>
+<p>The most hazardous property of SCP-27557 arises when a TikTok user watches its content and leaves a comment expressing disbelief or ridicule. The mannequin will somehow manifest in the immediate vicinity of the commenter within 72 hours and attempt to consume them. This is achieved by SCP-27557 unhinging its jaw in a serpentine manner before enveloping and dissolving the victim in a currently unidentified corrosive substance.</p>
+<p>SCP-27557 expresses remorse post-ingestion and has been recorded apologizing to inanimate objects, possibly mistaking them for the consumed individuals. This behavior contributes to the 'depression' it claims to suffer from due to its existence and actions in this dimension.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27557 is to be contained in a 5m x 5m x 5m anechoic chamber, with the internal surfaces lined with a 15cm thickness of reinforced concrete and embedded with carbon fiber mesh to withstand attempted breaches.</p>
+<p>No technology capable of accessing the internet, specifically social media platforms, is allowed within a 100-meter radius of SCP-27557's containment chamber. Any unauthorized devices found within this proximity are to be considered compromised and subject to immediate destruction.</p>
+<p>Foundation web crawlers (designated Webcrawler Sigma-9 ("Social Sentinel")) are to monitor TikTok for any manifestation of the 'MelancholicMannequin' account. In the event of an account emergence, Mobile Task Force Delta-5 ("Tome Raiders") is to immediately deploy and execute Protocol Melancholy, which involves suppression and targeted amnestic administration to witnesses, and retrieval of SCP-27557 to its containment chamber.</p>
+<h3>Addendum 1: Incident Logs</h3>
+<h4>Addendum 1-A: Incident 27557-Alpha</h4>
+<p>A lapse in surveillance allowed SCP-27557 to access a research assistant’s smartphone. The account 'MelancholicMannequin' manifested, accumulating approximately 50,000 followers in the span of 6 hours before Mobile Task Force Delta-5 successfully enacted Protocol Melancholy. SCP-27557 was located in a suburban neighborhood, having ingested three individuals. A local media blackout and targeted amnestics were employed to contain the situation.</p>
+<h4>Addendum 1-B: Experiment Log</h4>
+<h5>Experiment 27557-E1</h5>
+<ul>
+<li>
+<p><strong>Procedure:</strong> D-Class personnel were instructed to interact with SCP-27557 while a TikTok-capable device was present in the observation room.</p>
+</li>
+<li>
+<p><strong>Result:</strong> SCP-27557 quickly overpowered the D-Class and obtained the device. It proceeded to upload five new videos before containment breach protocols were enacted.</p>
+</li>
+<li>
+<p><strong>Note:</strong> Use of live bait is now considered unnecessary and inadvisable for experiments involving SCP-27557.</p>
+</li>
+</ul>
+<h5>Experiment 27557-E2</h5>
+<ul>
+<li>
+<p><strong>Procedure:</strong> To test the range of SCP-27557's manifestation ability, a comment was left by a D-Class in a remote Foundation facility after a video was uploaded during a controlled experiment.</p>
+</li>
+<li>
+<p><strong>Result:</strong> SCP-27557 managed to appear within the facility after 40 hours, causing two casualties before being recontained.</p>
+</li>
+<li>
+<p><strong>Note:</strong> SCP-27557's ability to bridge vast distances is a significant threat, hence containment procedures have been updated accordingly.</p>
+</li>
+</ul>
+<h3>Addendum 2: Recovered Communications</h3>
+<h4>Addendum 2-A: Incident 27557-Charlie</h4>
+<p>Recovered logs from a chat conversation on the 'MelancholicMannequin' TikTok account reveal that SCP-27557 communicates primarily using sorrowful emoji and terse statements about its perceived imprisonment between dimensions.</p>
+<p>Messages indicate that SCP-27557 experiences a compulsion to consume when it senses ridicule but is aware and regretful of its actions post-consumption.</p>
+<p>Further analysis of these communications for any potential psychological containment strategies is ongoing.</p>
+<h4>Addendum 2-B: Experimental Communication</h4>
+<h5>Experiment 27557-C1</h5>
+<ul>
+<li>
+<p><strong>Procedure:</strong> Establish a controlled communication channel with SCP-27557 while mimicking a sympathetic TikTok user.</p>
+</li>
+<li>
+<p><strong>Result:</strong> SCP-27557 responded favorably to empathetic engagement and revealed more about its origin, referring to a place it called "The Gray Expanse."</p>
+</li>
+<li>
+<p><strong>Note:</strong> Information is too vague for actionable intelligence but may be useful for developing refined containment strategies.</p>
+</li>
+</ul>
+<p>The ongoing study of SCP-27557 continues, as attempts to understand its nature and motivations may prove crucial in developing more effective containment protocols. The enigmatic expressions of depression and the manifestation of this entity represent yet another enigma of anomalous psychology requiring comprehensive examination.</p>
+
+    </div>
+    
