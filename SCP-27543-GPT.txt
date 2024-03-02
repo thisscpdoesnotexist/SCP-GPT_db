@@ -1,0 +1,58 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27543 is  a moderately hard to destroy synapsid </h3> </center>
+
+    <h3>Item #: SCP-27543 - "The Eternal Mammal-Like Reptile"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27543-GPT.png" alt="Illustration of SCP-27543" />
+        
+<h3>Description:</h3>
+<p>SCP-27543 is a creature resembling mammalian synapsids from the late Permian period, specifically those in the family Gorgonopsidae. Its body length averages approximately 3.5 meters, and it possesses a robust skeletal structure with significantly enhanced durability. Despite its reptilian ancestry, SCP-27543 exhibits traits characteristic of early mammals, such as a differentiated tooth structure, suggestive of a carnivorous diet, and a partially endothermic metabolism.</p>
+<p>SCP-27543 has shown a remarkable regenerative capability, rendering it moderately hard to destroy. It can recover from wounds that would be fatal to most organisms, including severe tissue damage and limb amputation. Complete regeneration of lost body parts has been observed within 1-4 weeks, depending on the extent of injury. SCP-27543 has yet to show signs of aging, leading to the hypothesis that it may be biologically immortal.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27543 is to be contained within a reinforced terrestrial habitat enclosure at Site-88, measuring at least 50m x 50m, with a minimum height of 10m, to accommodate its physical activity requirements. The containment habitat is to be secured with walls constructed from 1m-thick reinforced concrete to withstand potential aggressive behavior. The enclosure must simulate a semi-arid environment akin to its presumed natural habitat during the Permian period, including temperature control, enrichment features, and a suitable substrate for burrowing.</p>
+<p>Feeding is to occur bi-weekly, with livestock provided based on SCP-27543's dietary needs. All handlers and research personnel must remain outside of the enclosure during feeding times. Remote-operated cleaning and maintenance drones are to be used to minimize human interaction and potential injury.</p>
+<p>In the event of a containment breach, Site-88 is to initiate lockdown procedures and deploy a specialized recovery team equipped with high-caliber tranquilizers to recontain SCP-27543. Tranquilizer formulations may be periodically revised based on ongoing research to ensure optimal efficacy.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27543 was discovered in the Karoo basin of South Africa following reports of an "indestructible beast" unearthly to local wildlife and livestock. Foundation operatives embedded within local law enforcement were dispatched to investigate, leading to the eventual capture and containment of SCP-27543. Locals who had witnessed SCP-27543 were administered Class B amnestics to prevent public knowledge of its existence.</p>
+<h3>Addendum 2: Experiment Log 27543-A</h3>
+<p>Location: Site-88 Research Labs</p>
+<h4>Experiment A-01: Regeneration Test - Minor Wounds</h4>
+<p><strong>Objective:</strong> To determine the regenerative capabilities of SCP-27543 in response to superficial tissue injury.</p>
+<p><strong>Procedure:</strong> A small incision (approx. 3cm) was made on SCP-27543's hind limb under sedation. The wound was then monitored for signs of healing.</p>
+<p><strong>Results:</strong> The incision fully healed without scarring within 72 hours. No signs of infection or complications were observed.</p>
+<h4>Experiment A-02: Regeneration Test - Major Wounds</h4>
+<p><strong>Objective:</strong> To ascertain the regenerative response to significant tissue loss.</p>
+<p><strong>Procedure:</strong> A segment of the tail measuring approximately 30cm was surgically removed while SCP-27543 was under heavy sedation.</p>
+<p><strong>Results:</strong> The tail segment completely regenerated after 23 days, including bone, muscle, and integumentary structures. No behavioral changes were noted during the regenerative process.</p>
+<h3>Addendum 3: Incident Report 27543-01</h3>
+<p>On [REDACTED], SCP-27543 breached containment following an unanticipated period of heightened aggression, likely triggered by a containment habitat malfunction that led to excessive heat. SCP-27543 utilized its powerful forelimbs to weaken a section of reinforcement in the wall and subsequently escape.</p>
+<p>Containment breach protocol was initiated, and the creature was recontained after 6 hours with no human casualties, thanks to the prompt action of Site-88 personnel. Upgrades to the containment habitat's surveillance and environmental control systems were recommended and approved to prevent future incidents.</p>
+<h3>Addendum 4: Interview Log 27543-Dr. Rand</h3>
+<p><strong>Interviewer:</strong> Dr. Emily Rand, Lead Researcher on SCP-27543
+<strong>Interviewee:</strong> SCP-27543 (Note: Communication is achieved via a rudimentary system teach SCP-27543 to select pictograms representing basic concepts and desires) </p>
+<p><strong>Dr. Rand:</strong> "Can you indicate your understanding of where you are?"</p>
+<p><strong>SCP-27543:</strong> (Selects pictograms indicating 'enclosure' and 'alone')</p>
+<p><strong>Dr. Rand:</strong> "Do you remember where you were before you came here?"</p>
+<p><strong>SCP-27543:</strong> (Selects pictogram indicating 'no' and then a pictogram representing 'confusion')</p>
+<p>[Further interview logs are withheld, pending analysis of SCP-27543's cognitive abilities and comprehension of the communication system]</p>
+<h3>Addendum 5: Experiment Log 27543-B - Cognitive Assessment</h3>
+<p>A series of standard animal intelligence tests were modified and administered to SCP-27543, including problem-solving tasks, memory testing, and social interaction assessments.</p>
+<h4>Experiment B-01: Problem Solving Analysis</h4>
+<p>SCP-27543 demonstrated the ability to navigate a complex maze within a shorter than anticipated time frame, suggesting a significant cognitive capacity beyond that of baseline reptilian intelligence.</p>
+<h4>Experiment B-02: Memory Testing</h4>
+<p>Using a modified version of the Morris water navigation task, SCP-27543 consistently located an underwater platform, indicating a strong memory retention mechanism comparable to that of higher mammals.</p>
+<h3>Addendum 6: Update to Containment Procedures</h3>
+<p>Due to SCP-27543's demonstrated intelligence and ability to communicate using pictograms, additional protective measures and enrichment activities have been integrated into the containment procedures to prevent psychological distress and potential aggression.</p>
+<h3>Addendum 7: Recovery Log</h3>
+<p>Details of the recovery operation for SCP-27543 are classified at this time. Access is restricted to Level 4 personnel and above.</p>
+<h3>Addendum 8: Theoretical Essays on SCP-27543's Origin</h3>
+<p>Several theories have been posited by Foundation paleobiologists and geneticists regarding the origin and evolutionary history of SCP-27543, ranging from anomalous time displacement to artificial genetic manipulation by an undiscovered precursor civilization. Ongoing research aims to uncover genetic markers that may provide insight into SCP-27543's true origins.</p>
+<h3>Addendum 9: Miscellaneous - Environmental Preferences</h3>
+<p>Observations of SCP-27543's behavior have led to changes in the containment habitat's environment, including the introduction of a diurnal light cycle that mimics natural sunlight patterns and the addition of a large water feature, which SCP-27543 appears to utilize for both drinking and cooling behaviors.</p>
+<h3>Addendum 10: External Correspondence</h3>
+<p>Due to the unique nature of SCP-27543 and its potential connection to prehistoric life, discreet collaboration has commenced with select paleontological experts under the guise of a newly discovered extinct species. All external correspondences are to be monitored by the Site-88 Information Security team to ensure the continued secrecy of SCP-27543's anomalous nature.</p>
+
+    </div>
+    
