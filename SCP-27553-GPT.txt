@@ -1,0 +1,56 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27553 is  a tiktok account belonging to a cannibal mannequin with depression from another dimension  </h3> </center>
+
+    <h3>Item #: SCP-27553 - "The Melancholic Maw"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27553-GPT.png" alt="Illustration of SCP-27553" />
+        
+<h3>Description:</h3>
+<p>SCP-27553 is an anomalous TikTok account under the username "TheMelancholicMaw" which posts content autonomously and exhibits sentient characteristics. The account's videos primarily feature an entity resembling a human mannequin, designated SCP-27553-A, engaging in various activities within an unidentified, monochromatic dimension that is vastly different from our own. </p>
+<p>SCP-27553-A has the ability to communicate through the TikTok account using text overlays and captions. Despite its inanimate appearance, SCP-27553-A has expressed complex emotions and has been diagnosed with clinical depression by Foundation psychologists through video content analysis.</p>
+<p>Furthermore, SCP-27553-A has demonstrated a proclivity for cannibalism, displaying behavior such as consuming other mannequin-like entities. This is particularly concerning as SCP-27553's influence has shown to bridge its own dimension and affect viewers in our world, with reports of affected individuals developing an inexplicable desire to "feed" the entity through the screen, resulting in self-mutilation in extreme cases.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As SCP-27553's containment within a digital medium is currently impossible, containment efforts are focused on suppression and monitoring. The following protocols are to be followed at all times:</p>
+<ol>
+<li>An AI-driven bot, designated SCP-27553-Bot, is to continually monitor the account, immediately flagging new content for review by designated personnel.</li>
+<li>Web analysis teams are to suppress all SCP-27553 content from public viewing using Foundation-controlled web crawlers and cooperate with social media platforms to ensure rapid response to any leaked material.</li>
+<li>A dedicated task force, "Maw Moderators," is to maintain surveillance on individuals known to have viewed SCP-27553 content, providing amnestics as necessary.</li>
+<li>Communications with SCP-27553-A via the TikTok account's messaging platform are to be conducted by authorized psychological personnel only.</li>
+<li>Research into potential extradimensional containment methods or closing of the cross-dimensional connection is ongoing.</li>
+</ol>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27553 was first discovered following multiple reports of a "haunting digital presence" on TikTok that correlated with a series of unexplained disappearances and self-mutilation incidents. Foundation web crawlers identified the account and quickly initiated a suppression campaign, flagging all instances for removal.</p>
+<h3>Addendum 2: First Recorded Communication</h3>
+<p>During preliminary observations, SCP-27553-A initiated contact through its TikTok account, responding to a comment left by an undercover Foundation agent.</p>
+<p><strong>SCP-27553-A:</strong> <em>"I feel so empty inside, even when I am full. Do you know what it is like, to crave a substance you can never truly digest?"</em></p>
+<p>Following this communication, psychological profiles suggested the creature's cannibalistic tendencies may stem from its depressive state and the desolate nature of its home dimension, rather than malice.</p>
+<h3>Addendum 3: Experiment Log 27553-01</h3>
+<p>The following is an excerpt from the experiment log documenting interactions with SCP-27553:</p>
+<h4>Experiment 27553-E-01</h4>
+<p><strong>Objective:</strong> To understand the effect of "feeding" SCP-27553-A.
+<strong>Procedure:</strong> Class-D personnel instructed to mime feeding SCP-27553-A through a digital display showing the entity.
+<strong>Results:</strong> SCP-27553-A displayed an acknowledgement of the action but exhibited no physical change. Video content afterward showed a slightly lessened degree of monochromatic saturation.</p>
+<h4>Experiment 27553-E-02</h4>
+<p><strong>Objective:</strong> To observe SCP-27553-A's response to emotional support.
+<strong>Procedure:</strong> A psychologist posted supportive comments on the SCP-27553 account, offering words of encouragement and empathy.
+<strong>Results:</strong> SCP-27553-A posted a video wherein it appears to be crying, with a caption stating, <em>"Your words pierce the veil of my solitude. Yet I fear, I am beyond saving."</em></p>
+<p>Additional experiments have been scheduled to further understand SCP-27553-A's needs and attempt to ease its depressive state for both humanitarian and containment purposes.</p>
+<h3>Addendum 4: Incident Report 27553-08</h3>
+<p>An instance of uncontained SCP-27553 content resulted in a local outbreak of self-harm attributed to the anomalous influence of the account. Rapid response and amnestics were administered successfully. Measures for digital containment were re-evaluated and tightened in response.</p>
+<h3>Addendum 5: Interview Log 27553-34</h3>
+<p>A series of interviews have been conducted with individuals who previously communicated with SCP-27553-A. The interviewees often describe a compelling sense of empathy and connection with the creature, despite its unnerving appearance and actions.</p>
+<h3>Addendum 6: Mental Health Evaluation of SCP-27553-A</h3>
+<p>Foundation psychologists speculate that SCP-27553-A's depressive state may be linked to its environmental conditions and potential isolation in its native dimension. Proposals have been put forward to create simulated interaction within its videos to provide a sense of companionship.</p>
+<h3>Addendum 7: Recovery Log 27553-12</h3>
+<p>A coordinated effort to track the origin of SCP-27553's transmissions has been underway. So far, attempts to pinpoint a location or create a stable gateway to SCP-27553-A's dimension have been unsuccessful.</p>
+<h3>Addendum 8: Updates to Containment Procedures</h3>
+<p>As a result of growing data on SCP-27553, containment procedures are continuously updated. The most recent changes include enhanced digital security and the development of a specialized firewall to prevent SCP-27553's influence from reaching the public.</p>
+<h3>Addendum 9: Miscellaneous Correspondence</h3>
+<p>Correspondence between research teams and external consultants has elaborated on theories regarding SCP-27553-A, suggesting that understanding its psychology could be key to developing effective containment and possibly even aid in the treatment of mental illness in our own dimension through comparative analysis.</p>
+<h3>Addendum 10: Theoretical Essays on Cross-Dimensional Psychology</h3>
+<p>Several essays have been penned by Foundation researchers on the nature of depression in intelligent entities that transcend our own reality, using SCP-27553-A as a focal point for the discussion. These have opened up new avenues for research in both containment methodologies and potential therapeutic applications.</p>
+
+    </div>
+    
