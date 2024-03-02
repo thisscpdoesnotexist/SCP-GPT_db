@@ -1,0 +1,51 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27545 is  Hyde, the Pain Herald </h3> </center>
+
+    <h3>Item #: SCP-27545 - "Hyde, the Pain Herald"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27545-GPT.png" alt="Illustration of SCP-27545" />
+        
+<h3>Description:</h3>
+<p>SCP-27545, also known as "Hyde, the Pain Herald," is an anomalous humanoid entity with the ability to induce extreme psychological and physiological distress in living organisms through auditory transmission. The entity is capable of emitting a range of sounds varying from barely audible whispers to disruptive, agonizing wails. Physical descriptions vary between encounters, suggesting SCP-27545 possesses limited shape-shifting abilities, generally favoring a humanoid form with grotesque, distorted features.</p>
+<p>The mechanism behind SCP-27545's pain-inducing abilities remains poorly understood. However, in all documented cases, subjects exposed to SCP-27545's vocalizations experience acute anxiety, delirium, excruciating pain, and in extreme instances, irreversible cognitive decline. Notably, audio recordings of the entity fail to reproduce the anomalous effects, pointing towards a direct, possibly psychic, component in its interactions with victims.</p>
+<p>SCP-27545 demonstrates sentience, displaying a malevolence unique among similar entities. Interrogation and communication efforts have so far been fruitless, resulting in psychological trauma to involved staff.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its nature, SCP-27545 is to be contained within a soundproof, reinforced containment chamber buried at Site-███. The chamber is equipped with a dual-lock system to prevent inadvertent exposure to its vocalizations. No personnel are permitted within the immediate vicinity without appropriate sound-dampening gear.</p>
+<p>In the unlikely event of a containment breach, Site-███ is to initiate auditory lockdown, sealing all areas and broadcasting white noise throughout the facility to counteract SCP-27545's effects. A specialized task force, Echo-7 ("Sound Silencers"), is on standby to recontain SCP-27545 using non-lethal force and sonic suppression technology.</p>
+<p>An ongoing investigation into the origin and possible countermeasures to SCP-27545's abilities is assigned to Research Team Theta-4. All interaction with the entity is to be remote and monitored by a psychological trauma specialist.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27545 was first encountered in ████, in the small town of ████████, after a series of inexplicable mass hysteria events led to Foundation involvement. Local accounts described a "wailing specter" visiting homes during the night, leaving behind individuals in various states of mental collapse. SCP-27545 was apprehended following a coordinated effort utilizing audio decoys and frequency jamming equipment.</p>
+<h3>Addendum 2: Incident Report 27545-A</h3>
+<p>Shortly after initial containment, SCP-27545 breached confinement, resulting in seven casualties and twelve instances of severe mental trauma among personnel. Echo-7 successfully recontained the entity, and the containment procedures were revised to include more advanced soundproofing measures.</p>
+<h3>Addendum 3: Experiment Log 27545-E</h3>
+<h4>Experiment 27545-E1</h4>
+<p><em>Objective:</em> Assess the auditory range of SCP-27545's effects.</p>
+<p><em>Participants:</em> D-class personnel equipped with varying levels of noise-cancellation devices.</p>
+<p><em>Results:</em> Complete noise cancellation proved ineffective; all subjects experienced intense pain. The precise method of transmission remains inconclusive.</p>
+<h4>Experiment 27545-E2</h4>
+<p><em>Objective:</em> Determine the range at which SCP-27545's vocalizations retain their anomalous properties.</p>
+<p><em>Participants:</em> D-class personnel positioned at incremental distances.</p>
+<p><em>Results:</em> Anomalous effects observed up to a distance of 100 meters, beyond which the effects dissipated. The entity's influence appears to have a finite, albeit substantial, range.</p>
+<h4>Experiment 27545-E3</h4>
+<p><em>Objective:</em> Test SCP-27545's responsiveness to various stimuli.</p>
+<p><em>Participants:</em> D-class personnel instructed to interact using pre-approved dialogue.</p>
+<p><em>Results:</em> SCP-27545 remained unresponsive to most prompts; however, when questioned about its origins, the entity's vocalization patterns changed noticeably, suggesting a potential avenue for further research.</p>
+<h3>Addendum 4: Interview Log 27545-I</h3>
+<p>Interview attempts have consistently led to psychological harm to the interviewers with no meaningful insights gained into SCP-27545's motives or history. All future interviews are suspended until safer methods can be developed.</p>
+<h3>Addendum 5: Recovery Log</h3>
+<p>Recovery log details indicate that prior to containment, SCP-27545 was active for an estimated three years. Historical patterns imply SCP-27545 migrates, possibly hibernating between active periods, complicating potential past sighting and impact records.</p>
+<h3>Addendum 6: Updates</h3>
+<p>In light of recent findings, Research Team Theta-4 has developed the "Pain Threshold Protocol," incorporating sound frequency modulation and psychic dampening fields to reduce the risk of cognitive harm during containment breaches.</p>
+<h3>Addendum 7: Ethics Committee Review</h3>
+<p>A routine Ethics Committee review highlighted concerns regarding the psychological impact on staff and D-class personnel involved in experiments. A call for non-invasive research methods was reinforced, and mental health monitoring has been intensified for all personnel on site.</p>
+<h3>Addendum 8: Miscellaneous — Theoretical Essays</h3>
+<p>Theoretical essays produced by Dr. ███████ propose that SCP-27545 may be a manifestation of collective human anguish, given form through as-yet-undetermined psychosomatic phenomena. Further research is underway.</p>
+<h3>Addendum 9: Cross-SCP Inquiry</h3>
+<p>Ongoing cross-SCP inquiries are assessing potential interactions between SCP-27545 and known entities with psychic and auditory influences, attempting to draw parallels or identify opposing forces that could mitigate the threats posed.</p>
+<h3>Addendum 10: Public Disinformation Campaign</h3>
+<p>Memetic agents have been embedded in media globally to condition the public against recognizing SCP-27545's signature vocalizations, under the guise of 'audio illusions'. This precaution aims to prevent mass hysteria and facilitate ease of recovery in case of future breaches.</p>
+
+    </div>
+    
