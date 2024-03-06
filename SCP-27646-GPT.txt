@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27646 is  A cute octopus plushi that become alive at nights </h3> </center>
+
+    <h3>Item #: SCP-27646 - "The Nocturnal Cuddler"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27646-GPT.png" alt="Illustration of SCP-27646" />
+        
+<h3>Description:</h3>
+<p>SCP-27646 is a plush toy resembling an octopus, approximately 22 cm in diameter, with a soft, lavender exterior. The item displays a high degree of craftsmanship and does not possess any tags or marks indicative of its manufacturer.</p>
+<p>During daylight hours, SCP-27646 exhibits no signs of anomalous behavior; it is indistinguishable from a non-anomalous plush toy. However, from the onset of twilight until dawn, SCP-27646 exhibits autonomous movement and behavior indicative of sentience. During its active phase, SCP-27646 is able to move its tentacle-like appendages and is capable of ambulation at speeds of up to 1 meter per minute.</p>
+<p>SCP-27646 has demonstrated a desire to interact with living creatures, favoring physical contact in a manner consistent with 'cuddling'. It has been observed to seek out the nearest human or animal and attempt to wrap its appendages around them in a gentle embrace. Subjects report feelings of calm and comfort when in physical contact with SCP-27646. Extended exposure has no adverse psychological effects and is found to mildly alleviate symptoms of anxiety and insomnia in affected individuals.</p>
+<p>Testing has revealed no mechanical or electronic components present within SCP-27646, leaving its method of locomotion and apparent sentience unexplained. Its materials are typical of a standard plush toy, with polyester fiberfill and a synthetic fabric exterior.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27646 is to be contained in a standard secure locker at Site-77. The locker is to be fitted with a time-locked mechanism scheduled to automatically secure the item from one hour before sunset to one hour after sunrise, corresponding with local twilight times throughout the year.</p>
+<p>During daylight hours, SCP-27646 may be removed from containment for supervised interaction with personnel as part of mental health support and morale-boosting activities, following a strict sign-in and sign-out procedure.</p>
+<p>All interactions with SCP-27646 outside of daylight hours are to be recorded and monitored by no fewer than two (2) Level 2 security personnel. Any attempt by SCP-27646 to leave the observation area or engage with unauthorized personnel or items must be immediately reported to the Site Director.</p>
+<h3>Addendum 1: Initial Discovery</h3>
+<p>SCP-27646 was discovered in the town of ██████, ███████, following a series of reports detailing a "haunted toy" that was seen moving on its own at a local night market. Field agents from Site-77 successfully retrieved the item with minimal public exposure. Class A amnestics were administered to witnesses, and a cover story was disseminated involving a viral marketing stunt for an upcoming children's movie.</p>
+<h3>Addendum 2: Testing Logs</h3>
+<h4>Experiment Log 27646-E1</h4>
+<p><strong>Date:</strong> ████-██-██
+<strong>Procedure:</strong> SCP-27646 was placed in a secure observation room with Dr. ██████ during its active phase.
+<strong>Results:</strong> SCP-27646 moved towards Dr. ██████ and wrapped its appendages around their arm. Dr. ██████ reported a sense of relaxation, and monitoring equipment noted a slight decrease in heart rate and an increase in serotonin levels.
+<strong>Notes:</strong> Dr. ██████ has requested additional sessions for continued observation of SCP-27646's effects on stress.</p>
+<h4>Experiment Log 27646-E2</h4>
+<p><strong>Date:</strong> ████-██-██
+<strong>Procedure:</strong> SCP-27646 was placed in a secure observation room with D-9341, who has a documented history of insomnia.
+<strong>Results:</strong> SCP-27646 immediately approached D-9341, who laid down on the floor. The item then settled on D-9341's chest, at which point D-9341 fell asleep within five minutes.
+<strong>Notes:</strong> D-9341 experienced uninterrupted sleep for seven hours, a marked improvement from the usual two to three hours. D-9341 requested further sessions, pending approval.</p>
+<h4>Experiment Log 27646-E3</h4>
+<p><strong>Date:</strong> ████-██-██
+<strong>Procedure:</strong> SCP-27646 was placed in a room with a Labrador retriever to observe interactions with non-human subjects.
+<strong>Results:</strong> SCP-27646 wrapped its appendages around the Labrador, which responded by lying down and falling into a relaxed state. SCP-27646 remained in contact for approximately three hours.
+<strong>Notes:</strong> No stress or discomfort appeared to be experienced by the Labrador. Suggests SCP-27646's calming effect extends to animals as well.</p>
+<h3>Addendum 3: Incident 27646-A</h3>
+<p>On ██-██-████, during a routine interaction session, SCP-27646 breached containment following a malfunction of the time-locked mechanism on its locker. It was later found in the site cafeteria, having made its way to Agent ██████ who had suffered a panic attack earlier that day. After SCP-27646 had provided apparent 'comfort', the locker was repaired and updated with a secondary failsafe mechanism.</p>
+<h3>Addendum 4: Recommendations for Further Study</h3>
+<p>Further research is underway to determine the origin of SCP-27646 and the mechanism through which it exhibits its anomalous behavior. Proposals to utilize SCP-27646 in supporting mental health for personnel exposed to high-stress anomalies are under evaluation, as are potential applications in therapy for civilians suffering from psychological disorders, under the guise of a conventional treatment program.</p>
+
+    </div>
+    
