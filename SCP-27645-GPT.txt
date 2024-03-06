@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27645 is  a cute little plushie </h3> </center>
+
+    <h3>Item #: SCP-27645 - "The Dreamer's Stitchling"</h3>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-27645 appears to be a homemade plush toy resembling a rabbit with disproportionately large ears, standing at approximately 25 cm in height. The plushie's fur is a patchwork of various materials, including cotton, silk, and an unidentifiable shimmering fabric that subtly changes color when viewed from different angles. It possesses a small, intricately stitched heart symbol on its chest.</p>
+<p>Human subjects who sleep within a 2-meter radius of SCP-27645 report experiencing vivid and lucid dreams with consistent themes surrounding childhood innocence and the subject's personal happy memories. Subjects awaken with a sense of well-being and an improvement in their mental health as shown through a decrease in anxiety and depression symptoms. However, it is essential to note that there is a cumulative effect, with prolonged exposure leading to excessive daytime drowsiness and in some cases, narcolepsy.</p>
+<p>The object was discovered in an abandoned haberdashery shop in ████, ███ after multiple reports of the local population experiencing unusually peaceful sleep and a decline in the need for mental health services. Following the discovery of SCP-27645, these effects have been reduced but not eliminated, indicating a possible latent effect or additional undiscovered instances.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27645 is to be contained in a standard secure Safe-Class containment locker within Site-██. Access is restricted to personnel with a Level 2 security clearance or higher for testing purposes only. No one is permitted to sleep within SCP-27645's area of influence outside of approved experimental trials.</p>
+<p>Given its beneficial effects at managed exposure levels, SCP-27645 may be authorized for temporary use under strict supervision for Foundation staff suffering from acute stress reaction or PTSD as part of a prescribed psychological treatment plan by the Site Psychiatrist.</p>
+<h3>Addendum 1: Discovery and Initial Retrieval:</h3>
+<h4>Addendum 1-A: Witness Testimony</h4>
+<p>Local townspeople reported a surge in "the best sleep they've ever had" several weeks before the Foundation's interception. Diary entries retrieved from the haberdashery's previous owner, Mrs. █████, described her intention to "gift sweet dreams to the weary" with her final creation, speculated to be SCP-27645.</p>
+<h4>Addendum 1-B: Foundation Intervention</h4>
+<p>Emerging patterns of unusual mental health stability in the area led to Foundation surveillance and subsequent containment of SCP-27645. The object was retrieved with no resistance or unexpected occurrences.</p>
+<h3>Addendum 2: Experiment Log:</h3>
+<h4>Experiment 2-A: Effects of Short-Term Exposure</h4>
+<ul>
+<li>D-6824 was exposed to SCP-27645 for one night. Reported "the best sleep in years" and increased morale for a week following exposure.</li>
+</ul>
+<h4>Experiment 2-B: Effects of Long-Term Exposure</h4>
+<ul>
+<li>D-1472 was exposed to SCP-27645 for 30 consecutive nights. Subject began experiencing chronic drowsiness and unwillingness to leave SCP-27645's vicinity. Effects persisted for several weeks after the cessation of exposure.</li>
+</ul>
+<h4>Experiment 2-C: Testing with Non-Human Subjects</h4>
+<ul>
+<li>SCP-27645 was placed in the vicinity of a Canis lupus familiaris (domestic dog) overnight. The subject seemed to demonstrate a more playful and energetic demeanor the following day. No lasting effects noted.</li>
+</ul>
+<h4>Experiment 2-D: Response to Damaging the Object</h4>
+<ul>
+<li>Under carefully controlled conditions, SCP-27645 was subject to minor damage. When its left ear was partially torn, ambient temperature in the room dropped by an average of 3°C and personnel reported feelings of sadness. When subsequently repaired by Foundation sewing specialists, the typical effects restored, and a faint warmth emanated from SCP-27645 for several hours.</li>
+</ul>
+<h3>Addendum 3: Personnel Reports and Observations:</h3>
+<h4>Addendum 3-A: Staff Treatment Program</h4>
+<p>Following controlled exposure to SCP-27645, volunteer staff from various departments reported statistically significant improvements in mood and cognitive function. A proposal for integrating SCP-27645 into a Foundation-wide mental health program is under review.</p>
+<h4>Addendum 3-B: Personal Notes from Dr. Melfi</h4>
+<p>Dr. Melfi noted that despite SCP-27645 showing no agency or movement, it consistently appears to be facing the door or any new entry into its containment area. Further investigation into potential sentience is ongoing.</p>
+<h4>Addendum 3-C: Potential for SCP Creation</h4>
+<p>After an in-depth analysis of the initial effects seen in the town where SCP-27645 was discovered, there exists a hypothesis that the object might not be the source of the SCP effect, but could potentially "sew" the SCP effect into the fabric of local reality. This attribute is hypothesized to be transferred via Mrs. █████'s haberdashery materials and workmanship, though testing for this capability is yet to be authorized.</p>
+
+    </div>
+    
