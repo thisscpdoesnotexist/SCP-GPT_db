@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27732 is  A population of imperfect Mr Beast clones  </h3> </center>
+
+    <h3>Item #: SCP-27732 - The Philanthropic Doppelgängers</h3>
+<hr />
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27732-GPT.png" alt="Illustration of SCP-27732" />
+        
+<hr />
+<h3>Description:</h3>
+<p>SCP-27732 is a collective term referring to a population of anomalous humanoids, each bearing a nearly identical resemblance to the popular internet personality known as "Mr. Beast" (Civilian Identity: Jimmy Donaldson). These entities differ from the original person in their imperfect replication of Mr. Donaldson's behavior and appearance. Most notably, SCP-27732 instances exhibit varying degrees of facial asymmetry, irregular vocal patterns, and aberrant physiological traits, such as unusual eye colors or sporadic body convulsions.</p>
+<p>SCP-27732 instances are capable of materializing currency in an unknown fashion and feel a compulsive need to distribute it to individuals in a manner that often causes public unrest and economic destabilization. While the original Mr. Beast is known for carefully orchestrated acts of charity, SCP-27732 instances perform these actions abruptly and without apparent concern for wider consequences, leading to situations that can escalate into riots, stampedes, or mass hysteria.</p>
+<p>Testing has revealed that SCP-27732 entities possess a rudimentary hive-mind capability that allows them to coordinate their actions over great distances. Efforts to determine the source of SCP-27732's creation, replication method, and potential cessation have thus far proved unsuccessful.</p>
+<hr />
+<h3>Special Containment Procedures:</h3>
+<p>Due to the unpredictable nature of SCP-27732 appearance events, a dedicated task force, codenamed "Buzzkill," has been assigned to monitor internet activity related to Mr. Beast and deploy to any location where SCP-27732 manifestations are detected.</p>
+<p>Containment of SCP-27732 instances is to be executed swiftly, utilizing Class-A amnestics to ensure no memory of the entities remains with public witnesses. Monetary distributions by SCP-27732 are to be immediately confiscated and redistributed through Foundation front charities to avoid economic disruptions.</p>
+<p>In instances where SCP-27732 manifestations cannot be contained discreetly, Buzzkill is authorized to enact localized info-hazardous protocols to erase or alter digital and physical records of the event. Buzzkill operatives are to capture SCP-27732 instances using tranquilizers, as they have shown sensitivity to chemical sedatives.</p>
+<p>Instances of SCP-27732 are to be held in separate humanoid containment cells at Site-77. Due to their proclivity for generosity and their ability to conjure currency, they are to be placed under constant surveillance to prevent bribery of Foundation personnel.</p>
+<hr />
+<h3>Addendum 1: Initial Discovery</h3>
+<h4>1.1 Incident Report:</h4>
+<p>SCP-27732 came to the Foundation's attention after multiple reports from separate locations in North America detailed instances of a "Mr. Beast look-alike" causing public disturbances by throwing large amounts of cash into crowded areas. An emergency internet scrubbing protocol was initiated, and a Foundation cyber task force identified digital footprints leading to a now-defunct laboratory specializing in genetic engineering.</p>
+<hr />
+<h3>Addendum 2: Experiment Log</h3>
+<h4>2.1 Interaction with Original:</h4>
+<p>On ██/██/20██, an experimental interview was conducted between Mr. Jimmy Donaldson and SCP-27732-1, one of the entities. The interview was intended to assess the entity's cognitive abilities and potential to assist in the cessation of further SCP-27732 manifestations.</p>
+<ul>
+<li>The experiment concluded with indeterminate results; SCP-27732-1 expressed admiration for Mr. Donaldson but showed no insight into its origin or purpose.</li>
+</ul>
+<h4>2.2 Economic Impact Simulation:</h4>
+<p>A controlled environment was created to simulate an urban setting where SCP-27732-3 was allowed to distribute currency. The simulation was populated with D-Class personnel assigned various roles in the economic model.</p>
+<ul>
+<li>The simulation resulted in hyperinflation within the contained environment, leading to socioeconomic collapse within 72 hours.</li>
+</ul>
+<hr />
+<h3>Addendum 3: Recovery Operations</h3>
+<p>Due to the sporadic appearance and public influence of SCP-27732 entities, multiple covert recovery operations have been conducted. A significant challenge in these operations is the rapid response required to prevent wider public exposure and economic impact.</p>
+<ul>
+<li>Recorded operations detail the successful containment of 14 instances, with 3 resulting in minor breaches requiring large-scale amnestic distribution.</li>
+</ul>
+<p>The continuous management of SCP-27732 remains a top priority due to its potential for severe disruption to global economic systems and the inherent difficulty in containment. Further research dedicated to understanding the mechanisms behind SCP-27732 is ongoing to develop more effective containment and neutralization strategies.</p>
+
+    </div>
+    
