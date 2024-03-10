@@ -1,0 +1,60 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27729 is  the silly beam </h3> </center>
+
+    <h3>Item #: SCP-27729 - "The Silly Beam"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27729-GPT.png" alt="Illustration of SCP-27729" />
+        
+<h3>Description:</h3>
+<p>SCP-27729, known informally as "The Silly Beam," is an anomalous object manifesting as a handheld device resembling contemporary laser pointers. SCP-27729's casing is composed of an unknown, iridescent metal alloy, engraved with glyphs that do not match any known languages or documented anomalous iconography.</p>
+<p>When activated, SCP-27729 emits a concentrated beam of light in a spectrum visible to the naked eye as a vibrant pink hue. This light, upon striking an individual (hereafter referred to as SCP-27729-A), induces an immediate and severe alteration of the subject's behavior. Subjects affected by SCP-27729-A exhibit exaggerated, nonsensical actions and speech patterns, mirroring the tropes and characteristics commonly associated with clowns or slapstick comedy performers.</p>
+<p>These behaviors include, but are not limited to:
+- Excessive pie throwing.
+- Spontaneous and uncontrolled pratfalls.
+- Engaging in mimery, despite having no prior experience.
+- Creation of balloon animals from available materials, including non-pliable objects.
+- Hyperbolic comedic timing and reactions.</p>
+<p>Effects persist for a variable timeframe, ranging from a few hours to several days. Post-exposure, subjects have no recollection of their time affected by SCP-27729-A and experience a period of confusion and disorientation. Psychological analysis indicates that prolonged exposure could lead to lasting psychological trauma due to the inability to control one's actions.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27729 is currently stored in a standard secured anomalous object container lined with lead, located within Site-██. The activation switch has been locked and sealed with a tamper-proof cover to prevent inadvertent exposure. Access to SCP-27729 is strictly prohibited without Level 4 authorization and a mandatory two-person rule in place to prevent accidental exposure.</p>
+<p>In the event of accidental activation, affected personnel (SCP-27729-A) are to be isolated in a secure observation room until the effects have subsided. All interactions with SCP-27729-A individuals must be recorded for study, with researchers maintaining a safe distance to avoid the incidental spread of the anomaly's effects.</p>
+<p>Following Incident 27729-03, all research and testing require the approval of the Ethics Committee and must adhere to the updated guidelines to minimize the risk of psychological harm to D-class subjects. Attendance by medical and psychological staff is mandated for all testing sessions.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27729 was initially discovered at a derelict warehouse in ██████, ██, following reports of a "mad jesters' gathering" being investigated by local authorities. All civilians affected were administered Class-B amnestics, and the SCP was secured without further incident. The origins of SCP-27729 remain unknown, as all attempts to trace the manufacturer have been unsuccessful.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment Log 27729-E1:</h4>
+<p>Purpose: To determine the range and limits of SCP-27729's effect on behavior.</p>
+<p>Procedure:
+- Subject D-90312 exposed to SCP-27729 for 5 seconds.
+- Subject observed for 48 hours.</p>
+<p>Results:
+- Subject immediately began juggling nearby objects, including hazardous materials.
+- Juggling persisted intermittently for 36 hours.
+- Subject returned to baseline behavior after 48 hours.</p>
+<h4>Experiment Log 27729-E2:</h4>
+<p>Purpose: To assess whether the effects of SCP-27729 can be transmitted through secondary exposure (e.g., being the target of an SCP-27729-A's comedic actions).</p>
+<p>Procedure:
+- Subject D-78422 (SCP-27729-A) instructed to engage with Subject D-59673.
+- Interaction observed for 3 hours.</p>
+<p>Results:
+- Subject D-59673 became a secondary SCP-27729-A after being hit with a pie thrown by the initial subject.
+- Secondary effects last approximately half the time of primary exposure.
+- Confirmed secondary exposure potential.</p>
+<h4>Experiment Log 27729-E3:</h4>
+<p>Purpose: To explore the possibility of developing a resistance or immunity to SCP-27729's effects.</p>
+<p>Procedure:
+- Subject D-65948 exposed to SCP-27729 for 5 seconds daily for one week.
+- Subject's behavior and psychological state were monitored.</p>
+<p>Results:
+- No evidence of resistance development.
+- Subject exhibited increasing signs of psychological distress.
+- Testing discontinued on ethical grounds.</p>
+<h3>Addendum 3: Incident Report 27729-03</h3>
+<p>During a routine testing session, Research Assistant ████ prematurely activated SCP-27729 during setup. Assistant ████, now SCP-27729-A, caused chaos in Laboratory 19, leading to five additional contagions and extensive property damage. The breach was contained, and the affected individuals were isolated and monitored until full recovery.</p>
+<p>Following this incident, the current containment protocols were revised to include additional safety measures, and the Ethics Committee issued a moratorium on further testing until a full review of the SCP-27729 program could be completed.</p>
+<p>The true nature of SCP-27729 remains obscure, and further research is necessary to understand the implications of its effects on human psychology and behavior. Despite its seemingly humorous consequences, the risk of long-term psychological harm warrants careful consideration in future dealings with this anomaly.</p>
+
+    </div>
+    
