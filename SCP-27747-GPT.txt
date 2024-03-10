@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27747 is  PROMPT IS TOO LONG </h3> </center>
+
+    <h3>Item #: SCP-27747 - "The Penumbra's Heartbeat"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27747-GPT.png" alt="Illustration of SCP-27747" />
+        
+<h3>Description:</h3>
+<p>SCP-27747, known colloquially as "The Penumbra's Heartbeat," is an anomalous entity manifesting as a shadowy figure with pulsating features suggesting the presence of a heart, yet with no detectable corporeal form. SCP-27747’s size fluctuates, ranging from approximately two meters in height to over fifteen during manifestation events. The entity exhibits a disturbing ability to induce severe psychological disturbance in sentient beings exposed to its 'heartbeat,' a sound that anomalously broadcasts over a wide area when SCP-27747 is present.</p>
+<p>This sound is described by witnesses as an erratic, thumping rhythm that creates intense anxiety and fear. Sustained exposure results in more severe symptoms, including paranoia, hallucinations, and violent behavior. Furthermore, SCP-27747 can displace and absorb darkness from its vicinity, effectively 'feeding' on the shadows to grow in size and intensify its presence. It is currently unknown if SCP-27747 holds any intelligence or sentience as it shows no signs of communication or deliberate interaction with its environment outside its predatory behavior.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27747 is held in a 10x10x10 meter containment chamber at Site-██, with the interior lined with high-intensity floodlights capable of producing a collective brightness of over 100,000 lumens; redundancy systems are in place in the event of a lighting failure. Access to the containment chamber is restricted to personnel of Level 3 clearance or higher with authorization from two or more Level 4 personnel. Any maintenance to the containment chamber's lighting system must be completed within 120 seconds to minimize the duration of exposure to dimmer light.</p>
+<p>All observational procedures must be conducted through remote feeds, with audio muted to prevent any psychological influence from SCP-27747's 'heartbeat.' Any personnel manifesting symptoms of exposure to the entity are to be administered Class B amnestics and referred to psychological evaluation and potential therapy post-exposure.</p>
+<p>In the event of a containment breach, emergency protocols dictate immediate activation of site-wide lighting systems and deployment of Mobile Task Force Epsilon-9 ("Fire Eaters") equipped with portable floodlights and sonically insulated armor to recontain SCP-27747.</p>
+<h3>Addendum 1: Incident Report 27747-A</h3>
+<h4>Incident 27747-A1:</h4>
+<p>On ██/██/████, SCP-27747 breached containment during a routine maintenance outage. It manipulated existing shadows to form tendrils, utilizing them to injure three maintenance personnel fatally. The area's emergency lighting system failed due to an unforeseen electrical fault.</p>
+<h4>Incident 27747-A2:</h4>
+<p>MTF Epsilon-9 successfully reconstrained SCP-27747 after a site-wide lockdown. The containment procedures were revised to implement redundant and triple-failsafe lighting measures.</p>
+<h3>Addendum 2: Experiment Log 27747</h3>
+<h4>Experiment 27747-E1:</h4>
+<ul>
+<li><strong>Objective:</strong> Determine the range and effects of SCP-27747's 'heartbeat.'</li>
+<li><strong>Procedure:</strong> D-Class personnel equipped with noise-canceling headphones were exposed to SCP-27747's 'heartbeat' at varying distances.</li>
+<li><strong>Results:</strong> Symptoms observed at distances up to 50 meters, with full auditory protection. Behavioral changes persisted for up to 72 hours post-exposure.</li>
+</ul>
+<h4>Experiment 27747-E2:</h4>
+<ul>
+<li><strong>Objective:</strong> Test the effects of varying light intensities on SCP-27747.</li>
+<li><strong>Procedure:</strong> SCP-27747 was exposed to a gradual decrease of light within its containment.</li>
+<li><strong>Results:</strong> SCP-27747’s size and aggression appeared to correlate directly with lower light levels. Full luminosity is essential to minimize this SCP's threat.</li>
+</ul>
+<h4>Experiment 27747-E3:</h4>
+<ul>
+<li><strong>Objective:</strong> Ascertain if SCP-27747 possesses any form of intelligence or sentience.</li>
+<li><strong>Procedure:</strong> A series of patterns in light and shadow were introduced into its containment to elicit a response.</li>
+<li><strong>Results:</strong> SCP-27747’s movements became erratic and less predatory, but no recognizable awareness or communication patterns were discerned.</li>
+</ul>
+<h3>Addendum 3: Recovered Documents</h3>
+<p>Within six hours of Experiment 27747-E3, SCP-27747 produced a series of shadow symbols on the wall of its containment chamber. Linguistics experts from the Foundation are currently analyzing these, suggesting a potentially higher level of sentience or, at the very least, a rudimentary method of communication must be considered.</p>
+<h3>Addendum 4: Psychological Impact Studies</h3>
+<p>Ongoing analysis of personnel exposed to SCP-27747 indicates the development of a shared hallucination—a shadowy, thumping heart manifesting in their dreams. Whether SCP-27747 has a psychic or memetic effect remains to be conclusively determined. All personnel are advised to report any abnormal dreams or visions immediately.</p>
+<p>SCP-27747 continues to represent a significant threat to the psychological well-being of Foundation staff and the integrity of containment procedures. Research efforts have been doubled to unravel the mystery of "The Penumbra's Heartbeat" and devise more effective containment methods.</p>
+
+    </div>
+    
