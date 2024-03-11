@@ -1,0 +1,54 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27753 is  XXXTENACTION Of Death </h3> </center>
+
+    <h3>Item #: SCP-27753 - "The XXXTENACTION of Death"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27753-GPT.png" alt="Illustration of SCP-27753" />
+        
+<h3>Description:</h3>
+<p>SCP-27753, referred to as "The XXXTENACTION of Death," is a cognitohazardous phenomenon surrounding the musical compositions of a late 21st-century underground rapper known posthumously as 'Triple X'. The effect is triggered by listening to any auditory content that originated from the artist, regardless of the medium—digital, analog, live recordings, or even recitations by individuals who have memorized his lyrics.</p>
+<p>Exposure to SCP-27753 results in a series of stages in the affected individual (hereafter referred to as SCP-27753-1):</p>
+<p><strong>Stage 1</strong>: An overwhelming sense of nostalgia and a compulsion to discuss the late rapper's impact on music, regardless of SCP-27753-1's prior knowledge or feelings towards the artist.</p>
+<p><strong>Stage 2</strong>: The manifestation of anomalous physical symbols resembling triple Xs (XXX) on the skin of SCP-27753-1. These markings, which cannot be removed by any known means, are said to pulsate in time with the rhythm of the exposed track.</p>
+<p><strong>Stage 3</strong>: SCP-27753-1 demonstrates heightened aggression, accompanied by a distorted perception of reality. SCP-27753-1 perceives themselves as Trap music's sole protector, violently targeting anyone they view as a threat to the genre.</p>
+<p><strong>Stage 4</strong>: SCP-27753-1 succumbs to a state of catatonia, during which they repetitively vocalize "XXX" until they expire from dehydration or malnutrition. Autopsies have revealed triple X-shaped lesions throughout the nervous system.</p>
+<p>Investigators have traced the origin of SCP-27753 to a posthumous album release, which coincided with a spike in violent incidents among listeners. Containment of this anomaly has proven difficult due to the wide dispersal of the artist's music across the internet and the viral nature of modern media.</p>
+<h3>Special Containment Procedures:</h3>
+<p>All materials containing SCP-27753 are to be confiscated and securely stored in soundproof containers within Site-██. Web crawlers (SCP-27753-Omega) are to be employed to monitor and remove SCP-27753 related content from the internet. Collaborations with major streaming services under the guise of copyright strikes have been moderately successful in content removal and suppression.</p>
+<p>Due to the risk of exposure, personnel with a history of appreciation for the rap or Trap music genres are barred from interacting with SCP-27753-related materials.</p>
+<p>Any individual suspected of SCP-27753 exposure must be apprehended, quarantined, and observed until SCP-27753's effects subsist or until termination becomes necessary. Stage 3 individuals are to be contained by force if non-lethal methods fail.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<ul>
+<li>
+<p><strong>Subsection 1.1: Initial Discovery</strong>
+  Discovered after a string of unexplainable violent outbreaks at nightclubs, music venues, and parties, local law enforcement flagged patterns correlating with SCP-27753. Foundation agents embedded in local police units subsequently linked these events to the music of 'Triple X'.</p>
+</li>
+<li>
+<p><strong>Subsection 1.2: Agent Testimonials</strong>
+  Encounters with SCP-27753-1 individuals have proven hazardous, resulting in multiple casualties. Agents have reported surreal experiences upon engaging the affected, stating they appear to be in a trance-like state.</p>
+</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>Experiment 27753-A</strong>: D-Class with no prior history of rap music exposure subjected to SCP-27753 audio for 10 minutes. D-Class expressed confusion, claiming to understand the depth of ‘Triple X's' artistic vision, transitioning to Stage 1.</p>
+</li>
+<li>
+<p><strong>Experiment 27753-B</strong>: D-Class exposed to SCP-27753 audio for 30 minutes. The emergence of Stage 2 symptoms with XXX markings appeared across forearms. Stage 3 behaviors commenced shortly after.</p>
+</li>
+<li>
+<p><strong>Experiment 27753-C</strong>: D-Class exposed to SCP-27753 audio for 1 hour subsequently entered Stage 4. Observation discontinued after 5 days, at which point D-Class was [REDACTED].</p>
+</li>
+<li>
+<p><strong>Experiment 27753-D</strong>: SCP-27753 audio was played within a soundproof chamber to a D-Class subjectively resistant to anomalous effects. Subject succumbed to Stage 4 symptoms and expired.</p>
+</li>
+</ul>
+<h3>Addendum 3: Containment Revision Proposal</h3>
+<p>Due to the severe danger SCP-27753 presents and its resistance to conventional containment methods, a proposal has been put forward to create a memetic agent that inoculates the public against its effects. Feasibility studies are ongoing. Further research is to be directed towards understanding SCP-27753's origins and potential connections to other musical anomalies.</p>
+<h3>Addendum 4: Incident Report 27753-Alpha</h3>
+<p>A containment breach on ██/██/20██ resulted in the exposure of SCP-27753 to several research personnel, leading to a violent confrontation. See attached files Incident_27753-Alpha for a full debrief. The breach implicated the need for revised acoustic containment measures and renewed efforts in informational suppression of SCP-27753's existence from public knowledge.</p>
+
+    </div>
+    
