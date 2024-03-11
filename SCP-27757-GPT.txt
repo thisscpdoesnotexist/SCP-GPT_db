@@ -1,0 +1,53 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27757 is  Night Shift At Fuzzy’s https://www.youtube.com/watch?v=QK1ZyLRnH-M </h3> </center>
+
+    <h3>Item #: SCP-27757 - "Night Shift At Fuzzy's"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27757-GPT.png" alt="Illustration of SCP-27757" />
+        
+<h3>Description:</h3>
+<p>SCP-27757 is a series of anomalous incidents connected to a digital video titled "Night Shift At Fuzzy's" uploaded on a popular video hosting platform under the URL https://www.youtube.com/watch?v=QK1ZyLRnH-M. The video is approximately 2 minutes and 47 seconds long and depicts a nocturnal security guard working what appears to be an evening shift at a restaurant or arcade named "Fuzzy's", resembling typical family-friendly entertainment centers.</p>
+<p>Viewers who watch the video between 12:00 AM and 3:33 AM local time report heightened feelings of unease, paranoia, and, in some cases, visual and auditory hallucinations. These effects seem to dissipate after approximately 3 hours following the initial viewing. No long-term psychological damage has been observed, and the symptoms do not manifest when the video is watched outside of the aforementioned time frame nor with viewers who are made unaware of the alleged anomalous properties of SCP-27757.</p>
+<p>Aside from reports of minor electronic disturbances, such as flickering of the screen or temporary loss of internet connection, the video itself does not exhibit any physically altering properties. SCP-27757's effects do not seem to escalate with repeated viewings, making it classifiable as Safe.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27757 is to be stored on a secure Foundation server with access restricted to Level 2 personnel and above for research purposes. The original video has been removed from the aforementioned platform under the guise of copyright infringement to prevent accidental civilian exposure.</p>
+<p>Foundation web crawlers are to monitor for any re-uploads or shares of SCP-27757 on various social media platforms and digital forums. Any individual who has reported viewing the video during the sensitive time frame will be administered a Class-A amnestic and released without further interaction unless symptoms persist.</p>
+<h3>Addendum 1: Incident Log</h3>
+<ul>
+<li>
+<p><strong>Incident 27757-A</strong>: The video gained Foundation attention following several reports of viewers experiencing night terrors and the aforementioned symptoms after watching the video. Initial containment involved the Foundation's cybersecurity team assisting in the removal of the video and tracing its origin.</p>
+</li>
+<li>
+<p><strong>Incident 27757-B</strong>: A group of teenagers intentionally viewed SCP-27757 during the trigger time period and recorded their experience, which later went viral. This incident resulted in a small outbreak that was quickly contained and suppressed via amnestics and digital scrubbing of the upload.</p>
+</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>Experiment 27757-E1</strong>: D-8432 was instructed to watch SCP-27757 at 1:00 AM. Subject reported increasing discomfort and a sense of being watched. No hallucinations were reported, and symptoms ceased fully after three hours.</p>
+</li>
+<li>
+<p><strong>Experiment 27757-E2</strong>: D-5619, with a history of paranoid schizophrenia, was exposed to SCP-27757 during trigger hours. No exacerbation of her condition was noted, indicating SCP-27757 does not have a stronger effect on individuals with pre-existing mental health conditions.</p>
+</li>
+<li>
+<p><strong>Experiment 27757-E3</strong>: D-7774 was exposed to the video while in a controlled environment designed to mimic a realistic "Fuzzy's" setting. D-7774 experienced a panic attack and claimed animatronic figures within the environment were moving, akin to the hallucinations reported by civilian viewers.</p>
+</li>
+</ul>
+<h3>Addendum 3: Researcher Notes</h3>
+<ul>
+<li>
+<p><strong>Researcher Kline's Note</strong>: "Further analysis of SCP-27757's audio track has revealed subaudible frequencies that may be responsible for the elicited psychological effects. Studies are underway to understand the mechanism and determine its potential for therapeutic applications."</p>
+</li>
+<li>
+<p><strong>Researcher Gomez's Note</strong>: "It's crucial to understand that the video alone isn't anomalous; it's the experience of watching it under certain circumstances that creates the phenomenon. This could point to a psychosomatic trigger embedded within the video, or perhaps even a collective subconscious reaction to a shared stimulus."</p>
+</li>
+</ul>
+<h3>Addendum 4: Recovery Efforts</h3>
+<ul>
+<li><strong>Operation Fuzzy Retrieval</strong>: A covert operation was launched to trace the source of the original upload, leading to a defunct arcade in [REDACTED], Iowa, where several pieces of equipment and hard drives were seized. Investigation into whether the location has a direct connection to the anomalous properties of SCP-27757 is ongoing.</li>
+</ul>
+
+    </div>
+    
