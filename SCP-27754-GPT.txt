@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27754 is  not your average butt </h3> </center>
+
+    <h3>Item #: SCP-27754 - "Anomalus Maximus"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27754-GPT.png" alt="Illustration of SCP-27754" />
+        
+<h3>Description:</h3>
+<p>SCP-27754 is a humanoid entity with highly anomalous properties localized to its gluteal region. While most of its body is indistinguishable in appearance from a non-anomalous human, SCP-27754's buttocks possess a variable matter state allowing them to change form, density, and composition in response to various stimuli. Despite the humorous implications of SCP-27754's abilities, they represent a significant containment challenge and danger to personnel due to their unpredictable and potentially lethal manifestations.</p>
+<p>SCP-27754 appears to have full control over its anomalous properties and exhibits a high level of intelligence and strategic thinking. It has displayed the capability to form various objects and devices from its gluteal region, ranging from simple tools to complex machinery. Moreover, analysis has revealed the presence of non-baryonic matter within its transformed states, alluding to a possible extraterrestrial or extra-dimensional origin.</p>
+<p>Communication attempts with SCP-27754 have been met with mixed results, as the entity is generally uncooperative and seemingly amused by the effects its powers have on the Foundation staff and containment efforts. Psychological evaluations suggest a deep-seated desire for chaos and disruption, marking it as a considerable threat to normalcy and the structural integrity of Foundation facilities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27754 is to be contained within a 5x5x5 meter cell composed of a dynamic-alloy mesh that adapts in real-time to the molecular structure SCP-27754's buttocks assume. This ensures that any attempted breaches result in the modification of the containment cell to counteract the escape method. The cell should be under constant surveillance by both video and a squad of armed guards equipped with non-lethal suppression tools calibrated to respond to SCP-27754's shifting molecular state.</p>
+<p>No physical interaction with SCP-27754 is allowed without prior Level 4 authorization. Any personnel entering the containment area must wear an MK-V Adaptive Hazard Suit capable of withstanding extreme temperatures, chemical corrosivity, and kinetic impacts of up to 2,500 Newtons. </p>
+<p>In the event of a containment breach, a site-wide alert is to be issued, and all personnel must adhere to the Keter-level lockdown protocols. Scranton Reality Anchors are installed throughout the facility to prevent SCP-27754 from exploiting localized reality distortions during breaches.</p>
+<h3>Addendum 1: Incident Report 27754-A</h3>
+<ul>
+<li><strong>Situation:</strong> On [REDACTED], SCP-27754 transformed its buttocks into a high-frequency vibration device, essentially turning itself into a living jackhammer in an attempt to breach its containment cell.</li>
+<li><strong>Response:</strong> The incident prompted a swift change in the reinforcement material of the cell from standard alloy to the adaptive mesh now in use. SCP-27754 was subdued using sound-cancelling countermeasures and additional sedatives. One personnel member received minor injuries.</li>
+</ul>
+<h3>Addendum 2: Experiment Log 27754</h3>
+<h4>Experiment 27754-E-12</h4>
+<ul>
+<li><strong>Objective:</strong> To determine the extent of SCP-27754's matter manipulation abilities.</li>
+<li><strong>Procedure:</strong> D-7321 was instructed to approach SCP-27754 and request a simple object be formed (a steel ball).</li>
+<li><strong>Result:</strong> SCP-27754 complied, but the object produced was rapidly shifted into a flammable liquid state upon completion, causing a small-scale fire in the containment area before suppression systems activated.</li>
+</ul>
+<h4>Experiment 27754-E-24</h4>
+<ul>
+<li><strong>Objective:</strong> To understand the limits of SCP-27754's capacity for mass creation.</li>
+<li><strong>Procedure:</strong> A set of digital scales was introduced into the cell to measure the weight of objects created by SCP-27754 as it attempted to form a full-size grand piano.</li>
+<li><strong>Result:</strong> SCP-27754 formed the grand piano, but the object inexplicably weighed less than 500 grams, defying known physical laws. Further investigation into how SCP-27754 manipulates Higgs field is ongoing.</li>
+</ul>
+<h4>Experiment 27754-E-36</h4>
+<ul>
+<li><strong>Objective:</strong> To test SCP-27754's abilities under duress.</li>
+<li><strong>Procedure:</strong> SCP-27754 was subjected to high-decibel sound waves while being instructed to create an intricate clock mechanism.</li>
+<li><strong>Result:</strong> SCP-27754 failed to produce the requested item, instead generating a series of monolithic structures of unknown composition that emitted low-frequency pulses, disrupting facility operations. The experiment was terminated and SCP-27754 subdued.</li>
+</ul>
+<h3>Addendum 3: Psychological Profile Update</h3>
+<p>Following multiple containment breaches and experiments, it has become clear that SCP-27754 derives satisfaction from the chaos it creates. A psychosocial manipulation strategy is being developed to minimize the entity's tendency for havoc. Proposed methods include a controlled rewards system aimed at positively reinforcing non-disruptive behavior. Further data is required for the implementation of this strategy.</p>
+<p>SCP-27754's unpredictable nature and proven ability to cause significant disruption reiterate the necessity of rigorous containment protocols and the continued evaluation of its psychological state. Despite the whimsical nature of this SCP, it remains one of the most high-risk entities contained by the Foundation and should be regarded with extreme caution at all times.</p>
+
+    </div>
+    
