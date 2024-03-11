@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27764 is  A Black And Red Liquid Thing In a Toilet  </h3> </center>
+
+    <h3>Item #: SCP-27764 - "Abyssal Flush"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27764-GPT.png" alt="Illustration of SCP-27764" />
+        
+<h3>Description:</h3>
+<p>SCP-27764 is an amorphous entity primarily composed of a liquid that appears visually similar to a mixture of black ink and blood. This substance is anomalously present within the plumbing systems of seemingly random toilets around the globe. The substance has shown a capacity for rapid movement through pipes, an ability to resist attempts at physical and chemical containment, and seems to possess a rudimentary level of intelligence.</p>
+<p>Individual instances of SCP-27764 have been associated with a range of distressing psychological effects, including extreme anxiety, paranoia, and auditory hallucinations often described as "whispers from below." Physical contact with the substance has, in every documented case, resulted in the immediate disappearance of the individual involved. These disappearances are accompanied by a swift drainage of the red and black liquid through the toilet's plumbing system, leaving no physical trace of the missing persons.</p>
+<p>An especially troubling aspect of SCP-27764's behavior is its apparent selectivity in manifesting; instances often appear in privately owned toilets, suggesting either a preference or command over its movement and positioning that is currently beyond Foundation understanding.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-27764’s unpredictable nature and mobility, containment is focused on rapid response and prevention of public awareness. The Foundation has established a special task force, designated "Mobile Task Force Delta-9" (also known as "The Plumbers"), which is to be on standby at all times to respond to SCP-27764 manifestations.</p>
+<p>Monitoring algorithms, known as "FlushNet," have been deployed within major sewage treatment and plumbing systems worldwide to detect the anomalous substance before a manifestation becomes active. When SCP-27764 is detected, MTF Delta-9 is dispatched to secure the location, administer amnestics as necessary, and attempt containment of the entity using specialized equipment designed to neutralize the substance.</p>
+<p>In the event of physical contact with SCP-27764, the area must be evacuated and sealed. The encounter location is to be sanitized by a secondary response team equipped with hazmat gear to prevent accidental transport of the substance through physical contact with equipment or water sources outside the affected plumbing system.</p>
+<p>Containment strategies are under constant review as new information becomes available.</p>
+<h3>Addendum 1: Incident Logs</h3>
+<h4>Incident 27764-A:</h4>
+<p>Location: ██████, Texas</p>
+<p>Event: SCP-27764 appeared in a domestic residence. The homeowner was subjected to psychological effects and disappeared upon physical contact with the entity. MTF Delta-9 responded, but containment was unsuccessful. A cover story involving a gas explosion was disseminated, and the house was subsequently demolished.</p>
+<h4>Incident 27764-B:</h4>
+<p>Location: A high-security prison in ███████, Siberia</p>
+<p>Event: SCP-27764 manifested within a penal facility, leading to the disappearance of three inmates. MTF Delta-9 successfully contained the instance after administering Class-C amnestics to the entire prison population and staff. Disappearances were attributed to an orchestrated prison break, and the story was leaked to the local media.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p>SCP-27764's behavior has been the subject of several experiments attempting to understand its nature and purpose.</p>
+<h4>Experiment 27764-E-01:</h4>
+<p>Purpose: To determine the effects of various chemicals on SCP-27764.</p>
+<p>Procedure: A secure testing toilet was connected to a closed plumbing system. SCP-27764 was introduced to the system. Chemical agents, including bleach, sulfuric acid, and specialized Foundation compounds, were added.</p>
+<p>Results: The entity seemed to absorb all chemical agents introduced without any visible reaction or change in behavior. Post-experiment analysis of the plumbing revealed no trace of the added chemicals.</p>
+<h4>Experiment 27764-E-05:</h4>
+<p>Purpose: To test the entity's reaction to bait in the form of animal tissue.</p>
+<p>Procedure: Samples of animal tissue were introduced to a containment toilet within the secure plumbing system.</p>
+<p>Results: SCP-27764 immediately enveloped the tissue, which vanished within seconds. Acoustic sensors within the system recorded an increase in the whisper-like auditory hallucinations typically associated with the entity.</p>
+<h3>Addendum 3: Researcher Notes</h3>
+<p><strong>Dr. ████:</strong> "The behavior of SCP-27764 remains a source of speculation. We cannot discern a pattern to its appearances or dismiss the possibility that it is sentient. We have observed evidence of purposeful movements and the ability to avoid certain traps. Continued monitoring and experimentation are crucial. The risk to human life is significant, and the potential for widespread panic is high if knowledge of SCP-27764 reaches the public. We must advance our understanding of this entity to establish more effective containment measures."</p>
+<p><strong>Dr. █████:</strong> "The disappearances are especially concerning. We have no leads on the fate of those taken by SCP-27764. We've entertained theories from dimensional shifting to disintegration, but as of now, we are no closer to determining the truth. Each manifestation appears to be a roll of the dice, and what's at stake isn't just the integrity of our plumbing, but the very lives of any who come in contact with this anomaly."</p>
+
+    </div>
+    
