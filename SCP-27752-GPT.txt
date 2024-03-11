@@ -1,0 +1,34 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27752 is  A Fuzzy Restaurant  </h3> </center>
+
+    <h3>Item #: SCP-27752 - "The Hungry Shadows"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27752-GPT.png" alt="Illustration of SCP-27752" />
+        
+<h3>Description:</h3>
+<p>SCP-27752 is a metaphysical anomaly manifesting as a small, quaint bistro named "Le Ombre Affamate" (The Hungry Shadows) in a nondescript alleyway in Venice, Italy. The bistro's appearance varies between observers but constantly retains a charming and inviting aesthetic that is incongruent with its surrounding architecture and the reality of its impact. It has no staff, and its interior changes to match the gastronomic preferences of any individual who enters.</p>
+<p>Individuals entering SCP-27752 report experiencing the best meal of their lives, uniquely tailored to their preferences, including tastes and dishes they previously did not know they enjoyed. After consuming their meal, subjects become incapable of deriving pleasure from any other food and develop a compulsion to return to SCP-27752. Over subsequent visits, subjects' physical bodies begin to fade gradually until they become entirely incorporeal, visually characterized by shadowy forms.</p>
+<p>Extended observation revealed that once a patron reaches this incorporeal state, they become a permanent feature of the restaurant, indistinguishable from its other "hungry shadows", sometimes appearing to serve new customers or exist as silent background diners. Attempts to communicate with or retrieve these shadow entities have thus far been unsuccessful.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its fixed location and the unpredictable nature of its metaphysical properties, permanent containment at the location is unfeasible. As a result, SCP-27752 has been isolated from public access by the false front of an ongoing construction project preventing civilian ingress and egress. Foundation personnel disguised as city workers are to maintain this façade indefinitely.</p>
+<p>Electronic surveillance is to be employed to monitor for signs of any attempted breaches. Any individuals attempting to enter the construction zone are to be detained, administered amnestics, and released with a fabricated cover story explaining their detention.</p>
+<p>Foundation agents embedded in local government, emergency services, and social media platforms are responsible for the interception and suppression of any information or rumors pertaining to SCP-27752.</p>
+<p>Should any individuals somehow manage to enter SCP-27752, they must be considered lost. Extraction is not recommended due to the risk of additional personnel exposure and the creation of more instances.</p>
+<h3>Addendum 1: Discovery</h3>
+<h4>Incident Report 27752-A</h4>
+<p>SCP-27752 was discovered in <em><REDACTED></em> after a sharp increase in missing person reports within Venice. Local Foundation assets were dispatched, and the anomalous nature of the bistro's influence was swiftly confirmed.</p>
+<p>Following initial containment failure, which resulted in the loss of two agents due to their transformation into incorporeal entities within SCP-27752, containment protocols were reevaluated and updated to their current iteration.</p>
+<h3>Addendum 2: Experiment Logs</h3>
+<h4>Experiment 27752-E1</h4>
+<p><strong>Objective:</strong> To examine the addictive properties of SCP-27752's "meals" using Class-D personnel.</p>
+<p><strong>Procedure:</strong> D-34102 was instructed to enter SCP-27752 and consume the meal provided. The subject was fitted with a body camera and biometric monitors.</p>
+<p><strong>Results:</strong> D-34102 consumed a meal described as an exquisite foie gras followed by a rare steak. Upon completion, D-34102 immediately expressed a desire for more and had to be forcibly removed from SCP-27752. Withdrawal symptoms began within hours, including anorexia, depression, and a desire to return to SCP-27752. D-34102 ceased consuming any other food and perished three weeks later despite intravenous nutritional support.</p>
+<h4>Experiment 27752-E2</h4>
+<p><strong>Objective:</strong> To investigate the fate of individuals who have become incorporeal entities within SCP-27752.</p>
+<p><strong>Procedure:</strong> A robotic probe was sent into SCP-27752 to capture visuals and attempt communication with the entities via pre-recorded messages.</p>
+<p><strong>Results:</strong> Visuals confirmed the presence of numerous shadowy entities that appeared to be previous patrons now fully integrated into the restaurant's environment. Entities did not respond to any attempted communication. The probe was lost after experiencing unexplainable technical failure while attempting to approach the kitchen area, which seemingly acts as the epicenter of SCP-27752's anomalous properties.</p>
+
+    </div>
+    
