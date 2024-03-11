@@ -1,0 +1,65 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27763 is  A Roblox In Real Life World </h3> </center>
+
+    <h3>Item #: SCP-27763 - "Blockworld Breach"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27763-GPT.png" alt="Illustration of SCP-27763" />
+        
+<h3>Description:</h3>
+<p>SCP-27763 refers to a spatial-temporal anomaly leading to an alternate reality closely resembling the virtual world of a popular online game known as Roblox, hereafter known as "Blockworld". The aesthetic and mechanics of this alternate reality strictly adhere to the conventions and limitations found within the game, including physics, graphics, and user interactions. The inhabitants of SCP-27763, designated SCP-27763-1, are humanoid entities with appearances mirroring the blocky avatars used by players in Roblox. These entities possess sentience and are capable of communications through text dialogues, which appear as floating text above their heads, similar to the in-game chat system.</p>
+<p>The anomaly was initially discovered in [REDACTED], after reports surfaced about children playing a real-life version of Roblox. Foundation assets embedded in local law enforcement proceeded to secure the location and administer amnestics where necessary.</p>
+<p>It should be noted that SCP-27763 seems to imbue entering subjects with capabilities analogous to Roblox's user-generated content creation, enabling them to manipulate and construct the environment with ease. This has deemed SCP-27763 a potential asset for both containment construction and testing purposes under strict supervision.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the potential merits of SCP-27763 for containment and Foundation operations, the anomaly is to remain accessible under the guise of a government-owned utility building secured by Armed Containment Area-63. Entrance to SCP-27763 is strictly limited to Level 4 personnel with specialized training and oversight by O5 Command. Any alterations to the SCP-27763 environment must be pre-approved via Form 27763-E and overseen by Research Head Dr. Armin.</p>
+<p>Exits from SCP-27763 are monitored for any unauthorized outbound entities (SCP-27763-1). In the event of a containment breach, Mobile Task Force Mu-13 ("Blockbusters") is to be deployed to recontain or neutralize escaping entities.</p>
+<p>Testing within SCP-27763 must coincide with the broader Foundation's goals and requires thorough documentation. Any proposed tests or operations are to be reviewed and sanctioned by the Ethics Committee.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<ul>
+<li><strong>Addendum 1-A - Discovery Narrative:</strong>
+The anomaly that would be designated SCP-27763 was first encountered when several children in a suburban neighborhood were found "playing Roblox" in an empty lot where strange, colorful structures resembling those in the game had materialized. The children seemed to think there was nothing unusual about this.</li>
+</ul>
+<p>Upon initial containment, researchers and D-Class personnel sent into the anomaly experienced a complete transformation of their surroundings, now consistent with the blocky Roblox universe. Interestingly, subjects reported no disorientation despite the disparity in physics and visual input. It appears the human brain is capable of adapting to SCP-27763's environment without adverse effects.</p>
+<ul>
+<li><strong>Addendum 1-B - Interview Log:</strong><br />
+Initial interviews with SCP-27763-1 entities revealed that they believe themselves to be in a "game" and show varied levels of awareness concerning their existence. Some SCP-27763-1 instances demonstrate knowledge of the Foundation and our world but express contentment with their current existence.</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li><strong>Experiment Log 27763-01:</strong></li>
+<li><strong>Test Subject:</strong> D-8436</li>
+<li><strong>Procedure:</strong> D-8436 was instructed to construct a simple containment cell using the in-world mechanics.</li>
+<li><strong>Results:</strong> D-8436 successfully constructed a cell that met the basic criteria for containment.</li>
+<li>
+<p><strong>Notes:</strong> The constructed cell has since been used to contain a low-risk Safe-class entity for further investigation of long-term viability.</p>
+</li>
+<li>
+<p><strong>Experiment Log 27763-02:</strong></p>
+</li>
+<li><strong>Test Subject:</strong> D-1124</li>
+<li><strong>Procedure:</strong> D-1124 was provided with scripts for creating rudimentary non-player characters (NPCs).</li>
+<li><strong>Results:</strong> D-1124 was able to generate functioning NPCs that obeyed basic commands and exhibited limited interaction with the environment.</li>
+<li>
+<p><strong>Notes:</strong> Potential for use in training scenarios for field agents noted.</p>
+</li>
+<li>
+<p><strong>Experiment Log 27763-03:</strong></p>
+</li>
+<li><strong>Test Subject:</strong> D-7741</li>
+<li><strong>Procedure:</strong> D-7741 was instructed to create a replica of a standard humanoid containment chamber.</li>
+<li><strong>Results:</strong> Replica containment chamber was created with exceptional detail, surpassing expectations.</li>
+<li><strong>Notes:</strong> The entrance and exit point manipulation suggest SCP-27763 could be used for rapid construction of containment facilities during breach events.</li>
+</ul>
+<h3>Addendum 3: Incident Report 27763-01</h3>
+<ul>
+<li>
+<p>On ██/██/████, an SCP-27763-1 entity, seemingly aware of the Foundation's existence, manifested an unsanctioned structure mimicking the SCP Foundation's logo and various containment cells. The incident resulted in a temporary lockdown of the anomaly and a reassessment of the entity's cognitive capabilities.</p>
+</li>
+<li>
+<p>Interview logs post-incident uncovered the SCP-27763-1 entity responsible held no ill intent but intended to "provide help" after overhearing conversations from Foundation personnel about containment difficulties. This has opened discussions regarding the value of dialogue with SCP-27763-1 entities for mutual benefits. Caution is advised to prevent potential spread of classified information.</p>
+</li>
+</ul>
+
+    </div>
+    
