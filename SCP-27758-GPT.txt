@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27758 is  Night Shift At Fuzzy’s https://www.youtube.com/watch?v=QK1ZyLRnH-M </h3> </center>
+
+    <h3>Item #: SCP-27758 - The Eternity Jukebox</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27758-GPT.png" alt="Illustration of SCP-27758" />
+        
+<h3>Description:</h3>
+<p>SCP-27758, termed "The Eternity Jukebox," is a seemingly ordinary jukebox of the 1950s Wurlitzer design with chrome detailing and vibrant neon lighting. However, despite its exterior, SCP-27758 exhibits anomalous behavior when interacted with. The device is capable of initiating a temporal loop, effectively trapping individuals within a seemingly infinite cycle of the same time period, commonly referred to as a "night shift" lasting approximately 8 hours.</p>
+<p>Initial observation of SCP-27758's anomalous properties originated from a series of missing persons reports linked to an establishment known as "Fuzzy's," a retro diner located in ████, ███████, where the jukebox was placed. Witnesses reported individuals entering the diner during its later hours of operation, specifically targeting the "Night Shift at Fuzzy’s" event advertised to attract night owls and retro music enthusiasts. These individuals were never seen leaving the premises.</p>
+<p>Upon interaction with SCP-27758, subjects (later designated SCP-27758-1 instances) enter into a loop that restarts at precisely 10:00 PM local time and concludes at 6:00 AM, at which point the cycle initiates anew. During this loop, subjects are incapable of leaving the diner or meaningfully altering the sequence of events. Observers outside of SCP-27758's influence report seeing the subjects behave in a mechanical and repetitive manner, although detailed surveillance equipment ceases to function properly when recording the inside of the diner during a loop.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the public location of SCP-27758, the decision was made to purchase the property housing "Fuzzy's" under a Foundation front company. The establishment has been closed to the public under the guise of renovation. A standard disinformation campaign was carried out to obfuscate the true nature of missing persons associated with the diner.</p>
+<p>The diner has been surrounded by a Level-4 false wall perimeter to prevent visual identification of SCP-27758. Entrances are to be guarded at all times, and only individuals with Level 4/27758 clearance or higher are permitted to interact directly with the anomaly.</p>
+<p>As an additional containment measure, an EMP-hardened observation bunker has been constructed 50 meters from the diner to monitor and record SCP-27758’s effects during active phases without technology failure. Attempts to disrupt or terminate the time loop are ongoing, and all Foundation personnel involved in experiments with SCP-27758 are to be equipped with GPS locators and chronometers synchronized to an external atomic clock for recovery purposes.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-27758 was recovered after local law enforcement were alerted to the disappearance of ████, a frequent patron of Fuzzy’s, whose family reported him missing after failing to return from the "Night Shift at Fuzzy’s" event. Foundation agents embedded in local police departments investigated the establishment after tracking a pattern of similar disappearances dating back several months. Agent ██████ was the first to encounter the loop phenomenon after interacting with SCP-27758, becoming an instance of SCP-27758-1 for the duration of four complete cycles before the Foundation established preliminary containment procedures.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 27758-E01</h4>
+<ul>
+<li><strong>Procedure</strong>: D-8432 was instructed to approach and operate SCP-27758 with the intention of selecting a song from its playlist.</li>
+<li><strong>Result</strong>: Upon selection, D-8432 was enveloped in a bright light and failed to reappear post-flash. D-8432 was next seen attending the counter of the diner, repeating actions every loop cycle. Experiment terminated after 3 cycles.</li>
+</ul>
+<h4>Experiment 27758-E05</h4>
+<ul>
+<li><strong>Procedure</strong>: A robotic arm was used remotely to select a song on SCP-27758.</li>
+<li><strong>Result</strong>: Robotic arm ceased movement post-selection, and the device appeared to enter a cycle which repeated identical actions while being visibly non-functional. This remained consistent for 7 cycles until disengagement.</li>
+</ul>
+<h4>Experiment 27758-E13</h4>
+<ul>
+<li><strong>Procedure</strong>: D-9271 equipped with GPS tracker and synchronized chronometer entered the diner and instructed to merely observe without interacting with SCP-27758.</li>
+<li><strong>Result</strong>: D-9271 was not subjected to an infinite loop but reported extreme disorientation and nausea after being in proximity to SCP-27758 during loop initiation. GPS signal lost, chronometer frozen at 10:00 PM.</li>
+</ul>
+<h4>Experiment 27758-E19</h4>
+<ul>
+<li><strong>Procedure</strong>: An attempt to move SCP-27758 outside of the original establishment was made using a robotic drone.</li>
+<li><strong>Result</strong>: As the drone approached with intent to relocate SCP-27758, all electronic components of the robot ceased functioning. Drone recordings replayed previous experiment logs when later reviewed.</li>
+</ul>
+<h3>Addendum 3: Notes on Potential Neutralization</h3>
+<p>Efforts to neutralize or disrupt SCP-27758’s temporal loop effects have proven unsuccessful to date. It is theorized that the sustained loop could be linked to the specific power grid or geographical ley lines. Research into electromagnetic, thaumaturgical, and high-energy physics manipulation as potential countermeasures is ongoing.</p>
+<p>In the meantime, the diner's "Night Shift at Fuzzy’s" has become a graveyard of infinite repetition; a trap for the curious, where not even time can escape the music of The Eternity Jukebox.</p>
+
+    </div>
+    
