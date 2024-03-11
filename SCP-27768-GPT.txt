@@ -1,0 +1,53 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27768 is  Do Not Look A Ceiling  </h3> </center>
+
+    <h3>Item #: SCP-27768 - "Eyes on the Ceiling"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27768-GPT.png" alt="Illustration of SCP-27768" />
+        
+<h3>Description:</h3>
+<p>SCP-27768 is an anomalous phenomenon occurring exclusively within Room 101-E of the now-abandoned █████ Hotel in ████████, █████. The anomaly manifests when an individual (referred to as SCP-27768-1 from here on) enters Room 101-E and acknowledges the ceiling either visually (by looking directly) or verbally (by mentioning it in any capacity). Upon doing so, the ceiling appears to "stare back," and numerous human-like eyes open across its surface. These eyes display extreme variation in color, size, and movement, not correlating with any particular pattern or known biological structure.</p>
+<p>Any persons within Room 101-E who have not observed the ceiling prior to the manifestation become spontaneously compelled to look upwards, resulting in an instance of SCP-27768-1. Affected individuals report extreme discomfort, paranoia, and in some cases, auditory hallucinations typically described as whispering voices urging the person to "see" or "understand."</p>
+<p>Further investigation has revealed that extended exposure to SCP-27768 leads to psychological trauma and potential cognitive reconditioning, the full effects of which are still being studied. SCP-27768-1 can show signs of obsession with the ceiling, believing it to be a sentient being or a gateway to a higher understanding.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the static nature of SCP-27768's location, containment has been established on-site. Room 101-E has been permanently sealed and disguised as being under long-term maintenance to deter public curiosity. Two-meter-thick steel plating has been installed above and below Room 101-E to prevent any potential spread of the anomaly to other rooms or buildings. This plating is embedded with lead-based paint to obstruct any electronic or anomalous signals.</p>
+<p>A perimeter has been established around the █████ Hotel, and it is to be guarded at all times by no fewer than two (2) armed Foundation agents disguised as security personnel for a fictitious construction company. All potential trespassers are to be turned away under the pretense of safety hazards. If an individual becomes affected by SCP-27768, they are to be detained for debriefing, amnestic treatment as necessary, and released with a cover story consistent with local urban legends or plausible mundane explanations.</p>
+<p>Foundation web-crawlers are to monitor and suppress any online discussions or media pertaining to SCP-27768 or historic urban legends related to Room 101-E to prevent a potential breach of information. </p>
+<h3>Addendum 1: Discovery Log</h3>
+<h4>A1.1: Initial Report</h4>
+<p>SCP-27768 was discovered after local authorities responded to several missing persons reports linked to the █████ Hotel. Upon discovery of the anomaly by responding officers, the Foundation was alerted and established initial containment. The hotel was purchased and closed to the public within 24 hours under the guise of redevelopment plans.</p>
+<h4>A1.2: Interview Extracts</h4>
+<p>The following are selected transcripts from interviews with individuals affected by the anomaly prior to containment:</p>
+<blockquote>
+<p><strong>Interviewee</strong>: [REDACTED]</p>
+<p><strong>Interviewer</strong>: Dr. M█████</p>
+<p><strong>Subject</strong>: "It felt like the room got colder when I looked up. They were looking at me, man. I couldn't sleep, couldn't eat. Those eyes, they were everywhere. In my dreams, in my head... I can still feel them."</p>
+</blockquote>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>A2.1: Experiment #27768-03</h4>
+<h5>Procedure:</h5>
+<p>A D-class personnel equipped with a blindfold was instructed to enter Room 101-E and describe their sensations.</p>
+<h5>Results:</h5>
+<p>Subject reported feeling unease and a slight breeze but no compulsion to remove the blindfold. After approximately fifteen minutes, the subject began complaining about whispers and was promptly removed from the room. Psychological evaluation showed mild paranoia, which dissipated after two days.</p>
+<h4>A2.2: Experiment #27768-12</h4>
+<h5>Procedure:</h5>
+<p>A remote-controlled drone was flown into Room 101-E with a live video feed.</p>
+<h5>Results:</h5>
+<p>The drone's video feed was static upon entering the room and remained so until exiting the room. The drone itself was undamaged, suggesting that SCP-27768 specifically targets biological visual perception.</p>
+<h4>A2.3: Experiment #27768-20</h4>
+<h5>Procedure:</h5>
+<p>After multiple tests, an individual with congenital blindness (D-class personnel) was selected to enter the room to assess the SCP's effect on subjects devoid of sight.</p>
+<h5>Results:</h5>
+<p>The subject exhibited no immediate reaction to SCP-27768. However, within the next forty-eight hours, the subject reported hearing persistent whispers and eventually suffered a psychotic break, suggesting secondary sensory effects or a cumulative presence beyond visual acknowledgment.</p>
+<h3>Addendum 3: Ongoing Research</h3>
+<h4>A3.1: Psychological Impact Studies</h4>
+<p>The Cognitive Research Department is currently conducting long-term studies on subjects exposed to SCP-27768 to understand the full scope of its mental influence and its potential use or threat as an informational or psychological warfare agent.</p>
+<h4>A3.2: Structural Analysis</h4>
+<p>A specialized team of engineers and researchers continue to analyze Room 101-E for any structural anomalies, unusual materials, or other potentially overlooked factors that may contribute to SCP-27768's existence and behavior.</p>
+<h4>A3.3: Historical Context</h4>
+<p>Archival researchers have been tasked with tracing back the history of the █████ Hotel and Room 101-E, in particular, to uncover any events or patterns that might shed light on the origin of SCP-27768. Initial findings indicate an unusually high number of psychiatric disturbances and unexplained disappearances associated with the room dating back to the early 20th century.</p>
+
+    </div>
+    
