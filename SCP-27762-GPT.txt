@@ -1,0 +1,50 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27762 is  A Mold Fungal Wall Cause Cancer On Body </h3> </center>
+
+    <h3>Item #: SCP-27762 - "The Carcinogenic Constriction"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27762-GPT.png" alt="Illustration of SCP-27762" />
+        
+<h3>Description:</h3>
+<p>SCP-27762 is an anomalous, rapidly growing mold-like organism that, upon contact with any surface, begins to exhibit aggressive and uncontainable spread, resulting in a dense mycelium wall. This growth is characterized by several features unusual for common fungal species, the most notable being its effect on living tissue. SCP-27762 releases a potent carcinogenic compound that can trigger rapid and multiple oncological diseases in organic life forms that come within a 3-meter radius of the organism. This effect is not immediate but can develop within a few days of exposure.</p>
+<p>The organism is resistant to extreme temperatures, radiation, and most known antifungal agents, complicating containment and eradication efforts. DNA analysis of samples has revealed significant deviations from any known fungal genomes, with several sequences seemingly designed to interact specifically with mammalian DNA.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-27762's aggressive spread and carcinogenic properties, it has been contained in a purpose-built biohazard containment chamber located at Site-██. The chamber is constructed of inorganic materials with no susceptibility to SCP-27762's effects and features an airlock system that is to be used for all entry and exit operations.</p>
+<p>Personnel engaging in research or containment of SCP-27762 must wear HAZMAT suits with a self-contained oxygen supply to prevent inhalation or dermal exposure to SCP-27762. Any tools or equipment used within the containment area must be sterilized and exposed to UV-C light for a minimum of 30 minutes upon exit.</p>
+<p>A dedicated research team, designated as Team 27762-Epsilon, is tasked with developing a method to neutralize SCP-27762. Until such a means is devised, containment will focus on limiting the spread and mitigating the organism's effects on personnel.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27762 was first identified in a small rural town in ██████, where a local hospital reported an unprecedented number of rapidly progressing cancer cases. The Foundation intercepted communication and deployed Mobile Task Force Eta-10 ("See No Evil") to investigate. The origin of the outbreak was traced to an abandoned house on the outskirts of the town, where SCP-27762 was found consuming the building's structures. Initial containment efforts failed, leading to the unfortunate loss of several agents and the implementation of an immediate quarantine zone. Since then, the containment chamber at Site-██ has been constructed, and all research on SCP-27762 takes place within this facility.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 27762-A</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Procedure</strong>: Introduction of common antifungal agents to determine susceptibility.</li>
+<li><strong>Results</strong>: SCP-27762 showed no significant reaction to fluconazole, amphotericin B, or echinocandins.</li>
+<li><strong>Notes</strong>: Appears to be resistant to multiple classes of antifungal medications; alternative containment methods must be explored.</li>
+</ul>
+<h4>Experiment 27762-B</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Procedure</strong>: Application of extreme heat (up to 1000°C) and cold (-196°C, liquid nitrogen) to sample cuttings from SCP-27762.</li>
+<li><strong>Results</strong>: SCP-27762 temporarily reduced growth rate when subjected to temperature extremes, but resumed normal activity within hours of temperature normalization.</li>
+<li><strong>Notes</strong>: None.</li>
+</ul>
+<h4>Experiment 27762-C</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Procedure</strong>: Exposure of lab mice to SCP-27762 to analyze progression of carcinogenic effects.</li>
+<li><strong>Results</strong>: Mice developed multiple forms of cancer within a period of 72-96 hours post-exposure. 100% mortality rate observed.</li>
+<li><strong>Notes</strong>: SCP-27762's effects are not limited to humans. Expansion of effect radius has not been observed, remaining consistent at 3 meters.</li>
+</ul>
+<h3>Addendum 3: Incident Report 27762-01</h3>
+<p>On ██/██/20██, during routine containment maintenance, Researcher ████ accidentally breached his suit integrity. Despite immediate decontamination and medical intervention, multiple aggressive cancerous growths were detected within 72 hours. Researcher ████ was placed in medical quarantine but succumbed to the disease three days later. This incident emphasizes the need for enhanced suit protocols and additional emergency response procedures.</p>
+<h3>Addendum 4: Containment Update</h3>
+<p>Containment chamber modifications are underway to facilitate remote handling systems, minimizing the need for personnel to physically enter the containment area. Studying the organism remains a high priority; however, the risk to Foundation personnel necessitates an approach that heavily relies on drone technology and robotics for sample collection and experiments.</p>
+<h3>Addendum 5: Current Research Directive</h3>
+<p>Ongoing efforts to synthesize a compound capable of neutralizing SCP-27762's carcinogenic effects or hindering its growth are the top priority. Collaboration with specialists in mycology, molecular biology, and oncology has been approved, with a multidisciplinary task force now forming to address the unique challenges presented by SCP-27762.</p>
+<p>SCP-27762 continues to be one of the most alarming biohazard threats currently managed by the Foundation, with its potential for causing widespread harm necessitating constant vigilance and innovation in containment practices.</p>
+
+    </div>
+    
