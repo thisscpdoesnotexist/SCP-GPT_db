@@ -1,0 +1,39 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27769 is  Freddy Fazbear's Pizza </h3> </center>
+
+    <h3>Item #: SCP-27769 - "The Never-Ending Show"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27769-GPT.png" alt="Illustration of SCP-27769" />
+        
+<h3>Description:</h3>
+<p>SCP-27769 refers to the former site of a "Freddy Fazbear's Pizza" family entertainment center located in [REDACTED], which exhibits anomalous properties. The main anomalies of the site manifest in a time-loop phenomenon, autonomous behavior from animatronic figures, and spatial inconsistencies that defy the building's external dimensions.</p>
+<p>Recorded surveillance and firsthand accounts from Foundation agents reveal that the animatronics within SCP-27769 perform a continuous loop of their programmed entertainment routines, showing signs of self-awareness and occasionally aggression towards any living human detected within the vicinity. Analysis of the animatronics' circuitry does not coincide with their exhibited behaviors, suggesting a paranormal source to their autonomy. </p>
+<p>The internal layout of SCP-27769 seems to change when out of direct view, making navigation and mapping efforts inconclusive. Hallways extend beyond logical boundaries, rooms relocate, and furniture and decoration items appear or vanish without clear reasoning.</p>
+<p>Instances of SCP-27769-1 through -5 refer to the animatronics encountered within the premises, displaying notably distinct personalities and patterns of hostility. These have been identified as caricatures of the establishment's mascots: Freddy, Bonnie, Chica, Foxy, and a mysterious fifth entity referred to as "Golden Freddy."</p>
+<p>Attempts to dismantle or remove any of the animatronics from SCP-27769 have so far resulted in equipment malfunctions and the disappearance of personnel.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27769 is to be contained by a 5-meter tall reinforced concrete barrier encircling the premises, topped with electrified fencing. The barrier should be obscured with appropriate vegetation to prevent public suspicion. Only D-Class personnel may be allowed to enter SCP-27769 for the purpose of research, under the strict surveillance of remotely operated drones equipped with EMP devices.</p>
+<p>All attempts to extract SCP-27769-1 through -5 from the site have resulted in Foundation losses. Instead, these entities are to be contained and monitored within SCP-27769. Surveillance cameras with 24-hour monitoring have been placed throughout the facility to ensure that any new or unforeseen anomalies are quickly noticed and addressed.</p>
+<p>Personnel assigned to SCP-27769 must undergo mandatory psychological evaluations before and after shifts. A Quick Response Force (QRF) must remain on standby at all times, equipped to handle breaches of containment. Amnestics are approved for use on civilians who accidentally come into contact with SCP-27769.</p>
+<h3>Addendum 1: Incident Log 27769-A</h3>
+<h4>Incident 27769-A1:</h4>
+<p>At approximately [REDACTED], a security breach was reported when SCP-27769-2 (Bonnie) breached the North Hall containment zone. Immediate response measures resulted in the recovery of SCP-27769-2 to its stage area with only minor damage to the drone units involved in containment.</p>
+<h4>Incident 27769-A2:</h4>
+<p>Following Incident A1, SCP-27769-5 (Golden Freddy) appeared in the control room, despite no prior indicators of its movement. Golden Freddy's appearance caused severe emotional distress and cognitive anomalies among the monitoring staff, resulting in [REDACTED].</p>
+<h3>Addendum 2: Experiment Log 27769-E</h3>
+<h4>Experiment 27769-E1:</h4>
+<p>A D-Class personnel was tasked with entering SCP-27769 and interacting with the animatronics during their "off-hours," the timeframe when the looped performances typically cease. The D-Class individual, equipped with a live-streaming camera, was directed towards the stage area where SCP-27769-1 through -4 were in a powered down state.</p>
+<p>Within four minutes of interaction, SCP-27769-1 (Freddy) activated spontaneously, and despite the D-Class personnel's adherence to the recommended social script, proceeded to exhibit aggressive behavior resulting in loss of contact. The camera was recovered the following day during SCP-27769's inactive phase.</p>
+<h4>Experiment 27769-E2:</h4>
+<p>A drone equipped with EMP technology was sent into SCP-27769 with the intent of disabling SCP-27769-3 (Chica) for closer examination. When the drone approached SCP-27769-3, video feeds captured a distortion effect radiating from SCP-27769-3, which disabled the drone before the EMP could be deployed. The drone was later found dismantled within the "Parts &amp; Services" room of SCP-27769.</p>
+<h3>Addendum 3: Recovered Materials</h3>
+<h4>Document 27769-M1:</h4>
+<p>A series of handwritten notes believed to be from one of the missing persons within SCP-27769 indicated a prior awareness of the anomalous nature of the animatronics, and possible ties to occult activities by the original owners of Freddy Fazbear's Pizza. Further investigation into these claims is ongoing.</p>
+<h4>Document 27769-M2:</h4>
+<p>Blueprints for an additional unidentified animatronic have been discovered in SCP-27769's "Safe Room." The blueprints suggest a design focusing on secrecy and advanced surveillance capabilities, something far beyond the technical capabilities at the time of the establishment's opening. Research into the existence of this potential SCP-27769-6 is ongoing.</p>
+<p>The narrative surrounding SCP-27769 continues to evolve as research progresses, with each new discovery prompting revisions to containment strategies and theories about the original purpose of Freddy Fazbear's Pizza location. With multiple personnel lost and the elusive nature of the animatronics' malice, SCP-27769 remains one of the Foundation's more intriguing and dangerous Keter-class SCPs.</p>
+
+    </div>
+    
