@@ -1,0 +1,52 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27765 is  Sometime Hear Creepy Basement Large Hallway Sound By Block Chain Link Fence  </h3> </center>
+
+    <h3>Item #: SCP-27765 - "The Melodious Chains"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27765-GPT.png" alt="Illustration of SCP-27765" />
+        
+<h3>Description:</h3>
+<p>SCP-27765 is a subterranean chamber located approximately 15 meters beneath the foundations of an abandoned factory in [REDACTED], Ohio. The chamber measures approximately 30 meters in length and 10 meters in width, with an arched ceiling rising to 5 meters at its peak. The walls and floor of SCP-27765 are made of poured concrete, showing signs of age and moisture damage.</p>
+<p>The anomalous property of SCP-27765 manifests in the form of audible sounds resembling a melodic tune played on metallic chains, hence its moniker, "The Melodious Chains." These sounds appear to emanate from the far end of the chamber, which is blocked by a rusted chain-link fence, behind which the concrete wall has been worn down to an almost translucent state. The sounds occur sporadically, typically when a single individual enters the chamber and remains motionless for approximately 5-10 minutes.</p>
+<p>Further inspection reveals that no instruments or electronic devices are present to produce these sounds. Audio analysis matches the notes produced to an ancient form of musical notation associated with an obscure cult, previously thought extinct, that worshipped auditory phenomena.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27765 has been secured by the establishment of an exclusion perimeter extending 50 meters from the entrance to the subterranean chamber. A prefabricated structure, disguised as an industrial shed, has been erected over the entrance to provide cover and to restrict unauthorized access.</p>
+<p>Site personnel are to monitor the chamber through surveillance cameras installed within and conduct bi-weekly inspections to ensure the integrity of the location. Trespassers are to be apprehended, interviewed, administered Class-A amnestics, and released with cover stories consistent with local beliefs about the abandoned factory.</p>
+<p>Due to the non-hostile nature of SCP-27765 and ease of containment, personnel requirements are minimal. One Level-2 researcher is to be assigned for ongoing monitoring and research, with two armed guards to provide site security.</p>
+<p>Any testing must be approved by the designated researcher and O5 Council, and performed with appropriate sound recording equipment to document any variations in the auditory phenomena.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27765 was discovered on [REDACTED], after local reports of "haunted industrial sounds" reached a Foundation webcrawler monitoring paranormal forums. An investigation team was dispatched, and upon entering the chamber, the distinct sound phenomena of SCP-27765 were recorded.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 27765-01</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> A D-Class personnel was instructed to enter the chamber and sit quietly near the chain-link fence.</li>
+<li><strong>Results:</strong> After approximately 7 minutes of silence, the melodic tune began. The D-Class personnel reported feeling an overwhelming sense of calm and whispered instances of precognitive insight. No precognitive events reported have yet come to fruition.</li>
+<li><strong>Notes:</strong> Further psychological evaluation of D-Class personnel suggests potential for long-term emotional effects.</li>
+</ul>
+<h4>Experiment 27765-02</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> Audio recording equipment of various types was placed throughout the chamber to capture the range of frequencies produced by SCP-27765.</li>
+<li><strong>Results:</strong> The melodies recorded match no known musical compositions. The tune does not appear on any known spectrum of sound, suggesting possible non-acoustic origins.</li>
+<li><strong>Notes:</strong> Research into the cult's history may yield further understanding of the composition's significance.</li>
+</ul>
+<h4>Experiment 27765-03</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> An unmanned drone was flown to the translucent part of the chamber wall in an attempt to view or pass beyond the chain-link fence.</li>
+<li><strong>Results:</strong> The drone encountered an invisible barrier before reaching the fence, preventing any further investigation of the wall or the source of SCP-27765's phenomena.</li>
+<li><strong>Notes:</strong> This barrier may be linked to the mechanism by which the melodies are produced or may be a secondary anomaly. Further testing required.</li>
+</ul>
+<h3>Addendum 3: Interview Logs</h3>
+<p>Interviews with elderly locals revealed myths of an enigmatic group known as "The Listeners" who would gather in hidden places to "attune themselves to the whispers of the world." One informant mentioned that the abandoned factory was once owned by a suspected member of this cult.</p>
+<p>Further interviews and exploration of local records uncovered connections between the factory's last known owner and the cult's extinct doctrine, marking the site as a likely hub for their activities. The informant also claimed those who heard the melodies often "left this world with a final smile," suggesting a voluntary or involuntary transcendental event.</p>
+<h3>Addendum 4: Ongoing Research and Observations</h3>
+<p>Research is ongoing into SCP-27765's properties and possible connections with the "The Listeners" and their beliefs. Historical documents relating to the cult are sparse; however, exploration into their rituals and significance of the melodies are a high priority.</p>
+<p>Further observations have noted that the phenomena do not occur if more than one individual is present in the chamber or if recording equipment is left unattended. SCP-27765 seemingly requires the conscious awareness of a solitary observer to activate, indicating a subjective or sentient component to the anomaly.</p>
+<p>SCP-27765 remains classified as Safe. However, its containment is predicated on a continued understanding of its mechanisms and the avoidance of potential cognitohazardous effects. Staff are reminded to follow containment protocols strictly and to report any deviations in their emotional state or auditory perceptions while on-site.</p>
+
+    </div>
+    
