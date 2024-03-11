@@ -1,0 +1,49 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27766 is  A Bar Alcohol Cause Very Powerful Drunk </h3> </center>
+
+    <h3>Item #: SCP-27766 - "The Infinite Inebriation"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27766-GPT.png" alt="Illustration of SCP-27766" />
+        
+<h3>Description:</h3>
+<p>SCP-27766 is an anomalous perpetual-motion distillery apparatus, henceforth referred to as "The Drunken God," which produces an alcoholic beverage, designated SCP-27766-1. SCP-27766 resembles a patchwork of various distillation and brewing equipment, some of which are historically antiquated or otherwise not used in modern practices. It appears to operate independently of any known energy source.</p>
+<p>The liquid produced, SCP-27766-1, is a clear, potent spirit that on consumption generates exaggerated and intensified symptoms of ethanol intoxication. Subjects report an immediate onset of euphoria, followed by severe impairment of cognitive and motor functions. The anomalous effect of SCP-27766-1 is that it causes a state of perpetual inebriation that has yet to be reversed by any known medical intervention or sobering technique.</p>
+<p>Long-term effects of SCP-27766-1 consumption are severe and include permanent psychological alterations, reality dissociation, and in some cases, the development of extraordinary physiological changes such as increased resilience to physical harm or the manifestation of psychokinetic abilities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its nature, SCP-27766's containment focuses on preventing its operation and the distribution of SCP-27766-1. The object is contained within a specialized chamber in Site-██, equipped with a localized Scranton Reality Anchor to inhibit any autonomous activation. The chamber is to be sealed hermetically, and environmental conditions are to be monitored at all times for changes indicative of SCP-27766 operation.</p>
+<p>Access to SCP-27766 is strictly limited to Level 4 personnel and above, and all interactions must be approved by at least two members of O5 Command. Personnel who have partaken of SCP-27766-1 are barred from reentering the containment chamber indefinitely.</p>
+<p>Recovered instances of SCP-27766-1 are to be contained in a high-value item secure storage locker at Site-██. Direct contact with SCP-27766-1 is forbidden; handling must be performed via automated systems or through the use of specialized protective equipment.</p>
+<p>Any individual found under the influence of SCP-27766-1 is to be detained and held in a secure medical facility indefinitely. Research proposals involving the long-term effects of SCP-27766-1 are subject to approval by the Ethics Committee.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27766 was first discovered following a series of bizarre incidents at a defunct distillery in ███████, Scotland, where locals reported seeing the building operating at full capacity with no human presence. Mobile Task Force Nu-7 ("Hammer Down") was dispatched to investigate and successfully contained the anomaly. Initial handling agents reported short-term memory loss and confusion, which were later attributed to accidental exposure to SCP-27766-1.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment A:</h4>
+<ul>
+<li><strong>Subject:</strong> D-9341</li>
+<li><strong>Procedure:</strong> D-9341 instructed to consume 25ml of SCP-27766-1.</li>
+<li><strong>Results:</strong> Subject reported immediate dizziness and euphoria. Subject became unresponsive after 5 minutes and was moved to a medical bay for observation. Subject regained consciousness after 6 hours but remained functionally intoxicated.</li>
+<li><strong>Notes:</strong> Subject's inebriation has persisted for over 3 months with no signs of remission.</li>
+</ul>
+<h4>Experiment B:</h4>
+<ul>
+<li><strong>Subject:</strong> D-4527 (a known alcoholic)</li>
+<li><strong>Procedure:</strong> D-4527 was monitored for baseline withdrawal symptoms before administering 10ml of SCP-27766-1.</li>
+<li><strong>Results:</strong> Within seconds, D-4527 displayed a complete cessation of withdrawal symptoms. The subject experienced intense hallucinations and started conversing with invisible entities. Recovery efforts are ongoing.</li>
+<li><strong>Notes:</strong> This has alarming implications for subjects with a predisposition to substance abuse.</li>
+</ul>
+<h4>Experiment C:</h4>
+<ul>
+<li><strong>Subject:</strong> D-7783</li>
+<li><strong>Procedure:</strong> Subject was provided with protective gear designed to prevent absorption or inhalation of SCP-27766-1 but was instructed to handle a sample.</li>
+<li><strong>Results:</strong> Despite protective measures, D-7783 began to exhibit signs of intoxication. Further examination showed that SCP-27766-1 had transmuted through the protective gear.</li>
+<li><strong>Notes:</strong> SCP-27766-1 appears to be capable of bypassing conventional containment materials. Review and redesign of handling protocols are necessary.</li>
+</ul>
+<h3>Addendum 3: Incident 27766-A</h3>
+<p>On ██/██/████, SCP-27766 spontaneously activated despite Scranton Reality Anchor operation, resulting in the production of approximately 200 liters of SCP-27766-1 over a period of 48 hours. The substance breached containment and affected 17 personnel before the anomaly could be deactivated. The affected individuals exhibited extreme agitation, violent outbursts, and in two cases, the spontaneous manifestation of anomalous abilities.</p>
+<p>The site was placed on lockdown, and the affected staff were successfully detained. It was later determined that a minor fluctuation in the local Hume levels caused a temporary failure of the reality anchor. Containment procedures have been updated to include redundant anchors and improved structural integrity of containment measures.</p>
+<p>Following Incident 27766-A, SCP-27766's class has been reviewed, and discussions for reclassification to "Thaumiel" are ongoing, given the potential applications of SCP-27766-1 for enhancing human capabilities, despite the inherent risks. Further research is required.</p>
+
+    </div>
+    
