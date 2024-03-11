@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27756 is  Aaaaaaaaaaaaaaaaaaaaaawpwptg jgjgitgjtgjtjgtjgk </h3> </center>
+
+    <h3>Item #: SCP-27756 - "The Chronolock"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27756-GPT.png" alt="Illustration of SCP-27756" />
+        
+<h3>Description:</h3>
+<p>SCP-27756, commonly referred to as "The Chronolock," is an ancient, ornate padlock constructed from an unidentified bronze-gold alloy with temporal properties. When attached to any object or structure, SCP-27756 induces a localized temporal stasis. The effect is such that the locked object is rendered impervious to erosion, decay, and physical damage, essentially 'freezing' it in time.</p>
+<p>Upon locking, SCP-27756's keyhole vanishes, making it seem impossible to unlock by conventional means. The object has inscriptions that are similar to Sumerian cuneiform, although with notable differences indicating it is of non-human origin.</p>
+<p>The range of the temporal stasis is limited to the object that SCP-27756 is directly attached to and any object contained within. For example, locking a door with SCP-27756 will also preserve anything contained within the room or structure so long as it remains sealed.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27756 is to be kept in a standard high-value containment locker at Site-19. Only Researcher Grant and Dr. Helena, along with two armed guards, are permitted to access SCP-27756 for the purpose of scheduled experiments or if relocation is necessary.</p>
+<p>To prevent accidental activation, SCP-27756 must not be used to lock any objects without express written consent from at least two level 4 research personnel. The locker containing SCP-27756 must be inspected weekly for signs of tampering or damage.</p>
+<p>In the event that SCP-27756 is found locked onto an object improperly, a Containment Specialist with expertise in temporal anomalies must be consulted before attempting removal or neutralization.</p>
+<h3>Addendum 1: Discovery</h3>
+<h4>a. Recovery</h4>
+<p>SCP-27756 was discovered in the ruins of an ancient, underground temple near Uruk, modern-day Warka, Iraq. The temple's entrance bore an iteration of SCP-27756, locking a stone door. The object was, assumedly, keeping the structure preserved despite estimated age and potential exposure to the elements.</p>
+<h4>b. Extraction</h4>
+<p>Upon removal for study, the temple immediately began to exhibit signs of rapid aging and structural failure. Foundation agents secured the area and removed SCP-27756, at which point the temple collapsed. Further research on the ruins and SCP-27756 is ongoing to uncover any potential connections to other SCPs or ancient anomalous groups.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 27756-E1</h4>
+<p>Object: A simple wooden box.</p>
+<p>Procedure: SCP-27756 was locked onto the box, and various attempts to destroy the box were made, including sawing, burning, and crushing.</p>
+<p>Results: The box remained undamaged. All attempts to affect the box failed, with the tools and methods used either stopping abruptly upon contact or passing through without impact.</p>
+<h4>Experiment 27756-E2</h4>
+<p>Object: Same wooden box, now with a digital clock inside set to count time.</p>
+<p>Procedure: SCP-27756 locked onto the box with the clock running.</p>
+<p>Results: When the box was unlocked after 24 hours, the clock's timer showed no advancement in time, indicating that the temporal stasis also halted time within the enclosed object.</p>
+<h4>Experiment 27756-E3</h4>
+<p>Object: A live adult Drosophila melanogaster (fruit fly).</p>
+<p>Procedure: Subject placed in a sealed vial and locked within a safe along with SCP-27756.</p>
+<p>Results: When examined after one week, the fruit fly was found to be alive and unchanged, demonstrating no signs of aging or metabolic activity during the stasis period.</p>
+<h3>Addendum 3: Incident Report</h3>
+<h4>Incident 27756-A</h4>
+<p>On ██/██/20██, Junior Researcher Dray accidentally locked SCP-27756 onto his own wrist while demonstrating its effect to new personnel. The temporal stasis took effect up to Dray's elbow, though it didn't spread further due to the nature of SCP-27756's range. This incident resulted in Dray being chronologically 'frozen' from his fingers to his elbow until further notice. All future demonstrations now require a Senior Researcher's supervision, and Junior Researcher Dray has been relegated to desk duty indefinitely. </p>
+<h3>Addendum 4: Unlocking SCP-27756</h3>
+<p>Through extensive research and trial, it was discovered that reciting a specific incantation from a recovered tablet in the temple where SCP-27756 was found can cause the keyhole to reappear temporarily. The incantation must be recited verbatim in the presence of SCP-27756, and only then can a specially crafted key of similar material be used to unlock it. The instructions for creating the key are also inscribed in the same Sumerian-like cuneiform, and the Foundation's linguistics department is tasked with ensuring the preservation and decryption of this language.</p>
+
+    </div>
+    
