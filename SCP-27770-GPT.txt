@@ -1,0 +1,60 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27770 is  Not To Look At The Sky  </h3> </center>
+
+    <h3>Item #: SCP-27770 - "Gaze Not to the Heavens"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27770-GPT.png" alt="Illustration of SCP-27770" />
+        
+<h3>Description:</h3>
+<p>SCP-27770, colloquially referred to as "Gaze Not to the Heavens," is an anomalous phenomenon affecting human perception and reality. Individuals affected by SCP-27770 become completely unable to perceive the sky, in a state herein referred to as SKY-BLIND. Affected subjects will view the sky as an opaque, impenetrable black void during the day and a comparable void dotted with stars at night, regardless of actual atmospheric conditions. </p>
+<p>This effect is not achieved via hallucination or optical illusion, but rather through an ontological alteration in the affected individual's reality framework. Subsequent testing has revealed affected subjects will suffer no direct physical damage from solar radiation exposure or other atmospheric factors while in SKY-BLIND state, despite engaging in behaviors that would normally result in harm.</p>
+<p>The origin of SCP-27770 is currently unknown. It was first identified after an increase in reported cases of individuals experiencing sustained periods of SKY-BLIND during daylight hours around the world.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As a Thaumiel-class phenomenon, SCP-27770 is integral to ongoing containment efforts of several anomalous entities that require visual contact with celestial phenomena for activation or sustenance. Thus, it is under Foundation use in controlled circumstances. </p>
+<p>Persons exhibiting spontaneous SKY-BLIND are brought to Site-42 for debriefing and monitoring. Foundation personnel at Site-42 are to adhere to strict information control protocols to prevent knowledge of SCP-27770 from reaching the public or other interested anomalous organizations. </p>
+<p>A small task force, codenamed "Caelum's Veil," is dedicated to the investigation and intervention of public incidents that may be caused by SCP-27770. All individuals identified with spontaneous SKY-BLIND states are offered Class B amnestics following debriefing, with continuous psychological support provided throughout the amnesticization process.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27770 first came to the Foundation's attention following a mass incident in [REDACTED], where over 300 people simultaneously reported the sky turning pitch black at noon. Further investigation led to the classification of SCP-27770 as a potential global-level anomaly with controlled application possibilities.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li><strong>Experiment #27770-E01</strong></li>
+<li><strong>Subject(s):</strong> D-1001</li>
+<li><strong>Procedure:</strong> D-1001 is instructed to observe celestial bodies while under the influence of SCP-27770.</li>
+<li><strong>Results:</strong> D-1001 is unable to see any celestial bodies and reports seeing only darkness.</li>
+<li>
+<p><strong>Analysis:</strong> Confirms that SCP-27770 prevents the perception of all aspects of the sky.</p>
+</li>
+<li>
+<p><strong>Experiment #27770-E02</strong></p>
+</li>
+<li><strong>Subject(s):</strong> D-1002</li>
+<li><strong>Procedure:</strong> Subject exposed to high levels of ultraviolet radiation while under SKY-BLIND state.</li>
+<li><strong>Results:</strong> Subject demonstrates no physical damage or discomfort from ultraviolet exposure.</li>
+<li>
+<p><strong>Analysis:</strong> Reaffirms the ontological protection afforded by SCP-27770 against certain natural atmospheric elements.</p>
+</li>
+<li>
+<p><strong>Experiment #27770-E03</strong></p>
+</li>
+<li><strong>Subject(s):</strong> D-1003</li>
+<li><strong>Procedure:</strong> Subject placed within a planetarium and still exhibits SKY-BLIND state.</li>
+<li><strong>Results:</strong> Subject perceives the planetarium dome as completely black.</li>
+<li><strong>Analysis:</strong> Confirms that SCP-27770 affects the perception of sky-like visuals, even in artificial settings.</li>
+</ul>
+<h3>Addendum 3: Incident Log</h3>
+<ul>
+<li><strong>Incident #27770-IL01</strong></li>
+<li><strong>Description:</strong> An SCP that feeds on starlight (SCP-████) breached containment when a Caelum's Veil operative spontaneously became SKY-BLIND, leading to the deprivation of the SCP's food source. The SCP fell into a dormant state and was contained without further incident.</li>
+<li><strong>Outcome:</strong> Review of Caelum's Veil operative protocols and additional measures to prevent spontaneous SKY-BLIND affecting mission-critical personnel.</li>
+</ul>
+<h3>Addendum 4: Psychological Impact Report</h3>
+<p>Studies of individuals who experienced spontaneous SKY-BLIND states indicate an onset of existential anxiety and disorientation that persists even after the effect wears off. The profound impact of losing a universal constant such as the sky suggests that repeated long-term exposure to SCP-27770 should be avoided when possible.</p>
+<h3>Addendum 5: Theoretical Implications</h3>
+<p>The underlying mechanism for SCP-27770's alteration of reality perception remains a primary research interest for Foundation theorists. Speculations on its potential for bending reality have prompted the organization to consider SCP-27770 for Thaumiel-class use in strategic scenarios, such as the containment or neutralization of other anomalies reliant on visual stimuli.</p>
+<h3>Addendum 6: Field Usage</h3>
+<p>SCP-27770 has been employed in the field to contain or subdue anomalous entities with visuo-dependent abilities. Field agents are equipped with specialized lenses that prevent accidental exposure to SCP-27770. Its usage is closely monitored by Mobile Task Forces to ensure no unplanned activations occur during containment operations.</p>
+
+    </div>
+    
