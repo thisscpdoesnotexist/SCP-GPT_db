@@ -1,0 +1,60 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27771 is  Hate Memetic Hazard  </h3> </center>
+
+    <h3>Item #: SCP-27771 - "The Vengeful Chorus"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27771-GPT.png" alt="Illustration of SCP-27771" />
+        
+<h3>Description:</h3>
+<p>SCP-27771, referred to as "The Vengeful Chorus," is a complex auditory cognitohazard manifesting as a collective disembodied chorus of malevolent voices. Individuals who hear SCP-27771 report the sensation of being overwhelmed by a cacophony of spiteful and aggressive whispers aimed at inducing a deep sense of personal hatred and rage. The exact content of these whispers varies but consistently revolves around themes of betrayal, injustice, and retribution.</p>
+<p>The memetic hazard is notable for its virulence and resilience, having shown the ability to persist across various media, including analogue recordings, digital files, and even live transmissions. Attempts to filter or distort the audio have proven unsuccessful in attenuating its anomalous effects.</p>
+<p>Exposure to SCP-27771 results in rapid psychological deterioration. In early stages, affected subjects exhibit heightened irritability, paranoia, and a propensity towards violent confrontation. As exposure persists, these symptoms evolve into an obsessive compulsion to seek vengeance for perceived slights, often targeting both specific individuals and society at large. In the absence of intervention, subjects devolve into a state of relentless hostility, culminating in an event referred to as an 'Eruption.' </p>
+<p>Eruptions are characterized by extreme acts of violence and destruction, during which the subject appears to be driven by an internal narrative provided by SCP-27771. Survivors of Eruptions often recite phrases spoken by the chorus with an abiding conviction, even when doing so is against their prior moral inclinations or self-preservation.</p>
+<p>Following an Eruption, survivors that were exposed to SCP-27771 appear to gain a degree of immunity to its memetic properties but are left with profound psychological scars and, in most cases, deep-seated social animosities.</p>
+<p>The origin of SCP-27771 remains unknown. However, historical accounts suggest its existence has been periodically observed throughout human history, often preceding significant social upheaval or acts of mass violence.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its nature as a memetic hazard, containment of SCP-27771 primarily revolves around the suppression and obfuscation of its vector of transmission. Foundation webcrawler AI, designated THOTH, is tasked with identifying and neutralizing all digital occurrences of SCP-27771. A disinformation campaign operates in tandem to discredit leaked instances as hoaxes or viral marketing stunts.</p>
+<p>Public access to materials found to contain SCP-27771 is strictly prohibited. All known recordings are to be stored in a soundproof containment locker at Site-42. Direct auditory exposure to SCP-27771 is forbidden without the use of specialized memetic hazard countermeasures, and only for purposes crucial to containment or research.</p>
+<p>Field agents embedded in law enforcement, mental health facilities, and other relevant organizations are to remain vigilant for cases indicative of SCP-27771 exposure. Such cases are to be intercepted and handled by Mobile Task Force Kappa-10 ("Skylarks"), who specialize in the containment and de-escalation of cognitohazardous phenomena.</p>
+<h3>Addendum 1: Incident Log 27771-Alpha</h3>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Event:</strong> A large-scale Eruption occurred in ██████, ████, involving approximately ██ individuals. A broadcast containing SCP-27771, originating from an unknown source, was aired on local television and radio.</li>
+<li><strong>Response:</strong> MTF Kappa-10 deployed to administer amnestics and establish cover story. Media sources suppressed under Protocol Upsilon-4 ("Static Veil"). Civilian casualties numbered █, with ███ injuries reported.</li>
+<li><strong>Outcome:</strong> Event successfully obfuscated. Investigation into the source of the broadcast is ongoing.</li>
+</ul>
+<h3>Addendum 2: Experiment Log 27771-Epsilon</h3>
+<h4>Experiment E-27771-04:</h4>
+<ul>
+<li><strong>Subjects:</strong> D-8432</li>
+<li><strong>Procedure:</strong> Subject exposed to SCP-27771 for 30 seconds through noise-cancelling headphones. Audio was then cut off.</li>
+<li><strong>Result:</strong> Subject immediately exhibited distress, clawing at the headphones to restore audio. Initiation of violent behavior within 4 minutes. Subject subdued and administered Class-B amnestics.</li>
+<li><strong>Analysis:</strong> Short exposure is sufficient for the onset of aggressive behavior, though long-term effects are uncertain. </li>
+</ul>
+<h4>Experiment E-27771-09:</h4>
+<ul>
+<li><strong>Subjects:</strong> D-9054 (with prior history of anger management issues)</li>
+<li><strong>Procedure:</strong> Subject exposed to SCP-27771 for 5 minutes with periodic breaks.</li>
+<li><strong>Result:</strong> Subject became progressively more agitated, directing anger at test personnel. During the third interval of exposure, the subject experienced a mild Eruption, attacking observation staff.</li>
+<li><strong>Analysis:</strong> Suggests that pre-existing psychological conditions may amplify the effects of SCP-27771.</li>
+</ul>
+<h4>Experiment E-27771-15:</h4>
+<ul>
+<li><strong>Subjects:</strong> D-12980 (Deaf subject)</li>
+<li><strong>Procedure:</strong> Subject was placed in a room with a speaker emitting SCP-27771, testing the cognitohazard's dependency on auditory perception.</li>
+<li><strong>Result:</strong> Subject remained unaffected, displaying no behavioral anomalies.</li>
+<li><strong>Analysis:</strong> Confirms that SCP-27771's effects are dependent on the subject's ability to perceive sound. Possible avenue for containment explored: specialized hearing protection.</li>
+</ul>
+<h3>Addendum 3: Recovery Log 27771-Rho</h3>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Location:</strong> Ancient ruins near ███████, Iran.</li>
+<li><strong>Details:</strong> During an unrelated archaeological dig, a partially destroyed stone tablet was discovered. Inscriptions upon the tablet bear phonetic similarities to recorded instances of SCP-27771. The find implies that SCP-27771 may have ancient origins and potentially served a purpose in historical contexts. </li>
+<li><strong>Action:</strong> The tablet was confiscated by Foundation agents and is currently undergoing analysis at Site-42's Linguistic Research Department.</li>
+</ul>
+<p>The narrative of SCP-27771 portrays an ancient influence seeping into the modern world as a destructive force preying on the human psyche. Its containment is complicated by the memetic nature of the hazard, and the ongoing struggle to understand and neutralize it is emblematic of humanity's broader fight against the destructive potential hidden within its own consciousness.</p>
+
+    </div>
+    
