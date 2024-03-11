@@ -1,0 +1,75 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27772 is  Annoying TopToon Ads Freaking Me Out </h3> </center>
+
+    <h3>Item #: SCP-27772 - "The Unsilenced Broadcast"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27772-GPT.png" alt="Illustration of SCP-27772" />
+        
+<h3>Description:</h3>
+<p>SCP-27772 is an anomalous advertising phenomenon that occurs across various electronic display devices, such as televisions, computer monitors, smartphones, and digital billboards. The anomaly manifests in the form of persistent advertisements for a non-existent children's cartoon show titled "TopToon". These advertisements have been observed to possess several disturbing traits:</p>
+<ol>
+<li>
+<p><strong>Persistence</strong>: The ads bypass normal ad-blocking technologies and are immune to attempts to close or mute them.</p>
+</li>
+<li>
+<p><strong>Awareness</strong>: The character showcased in the advertisement, a cartoonish figure known as "Mr. Topper," appears to be sentient and capable of interacting with viewers. This character can respond to verbal prompts and seems aware of its existence within the ad.</p>
+</li>
+<li>
+<p><strong>Psychological Influence</strong>: Prolonged exposure to SCP-27772 is correlated with increasing levels of anxiety, paranoia, and hallucinations in affected individuals. Subjects report feeling as though Mr. Topper is "watching" them or attempting to communicate subliminal messages.</p>
+</li>
+<li>
+<p><strong>Propagation</strong>: Once an individual has witnessed the advertisement on one device, it begins to appear across all electronic displays they encounter. The intervals between appearances decrease over time, leading to near-constant exposure after approximately 72 hours.</p>
+</li>
+<li>
+<p><strong>Immutability</strong>: Attempts to destroy the device displaying SCP-27772 have consistently failed. The advertisements continue on any remaining fragments of the screen, regardless of the destruction level.</p>
+</li>
+</ol>
+<h3>Special Containment Procedures:</h3>
+<p>Given the viral nature of SCP-27772, containment efforts focus on interception and amnestic treatment. Foundation operatives embedded in tech companies are to monitor for the SCP-27772 signature and eliminate it from networks using a specially designed counter-algorithm, designated "CurtainCall."</p>
+<p>Individuals exposed to SCP-27772 are to be detained and administered Class-B amnestics to prevent the spread of the phenomenon and alleviate psychological effects. Public sightings are to be dismissed as viral marketing stunts, with Foundation agents spreading disinformation where necessary.</p>
+<p>Containment of affected devices should be attempted with the following protocol:</p>
+<ol>
+<li>Isolate the device within a Faraday cage to prevent wireless signal transmission.</li>
+<li>Engage CurtainCall to cleanse the device of SCP-27772's influence.</li>
+<li>If CurtainCall fails, the device is to be contained within a lead-lined unit to prevent visual exposure and shield against potential unknown emissions until a containment solution is developed.</li>
+</ol>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27772 first came to the Foundation's attention after reports of a "cursed advertisement" leading to a string of hospital admissions for acute stress reactions. Initial containment was established at a local television station where the first occurrence of SCP-27772 was traced.</p>
+<h3>Addendum 2: Incident Log</h3>
+<ol>
+<li>
+<p><strong>Incident 27772-A</strong>: Dr. ██████ was exposed to SCP-27772 during initial containment efforts. Despite being administered amnestics, they later succumbed to paranoia, with acute delusions about "Mr. Topper's pending arrival." Subject was placed in indefinite psychiatric care.</p>
+</li>
+<li>
+<p><strong>Incident 27772-B</strong>: A small town in ██████ experienced a mass exposure event after SCP-27772 appeared on a digital billboard for 24 hours before Foundation intervention. Amnestic treatment was distributed via the town's water supply. All electronics capable of displaying SCP-27772 in the area were seized and secured.</p>
+</li>
+</ol>
+<h3>Addendum 3: Experiment Log</h3>
+<ul>
+<li><strong>Experiment 27772-01</strong>: D-Class personnel were subjected to SCP-27772 for varying intervals. </li>
+<li>Subjects exposed for less than 15 minutes reported discomfort but no lasting effects.</li>
+<li>Subjects exposed for 1 hour began to display signs of paranoia, referencing "Mr. Topper's plans."</li>
+<li>
+<p>Subjects exposed for 24 hours suffered acute psychological breakdowns. Further exposure terminated to prevent loss of life.</p>
+</li>
+<li>
+<p><strong>Experiment 27772-02</strong>: An attempt was made to communicate with "Mr. Topper."</p>
+</li>
+<li>Dr. █████ initiated a dialogue, asking about "Mr. Topper's" origin. The figure responded with nonsensical gibberish and unsettling laughter.</li>
+<li>
+<p>When asked about SCP-27772's purpose, "Mr. Topper" ceased all movement for approximately 3 minutes before the screen displaying SCP-27772 shattered spontaneously. No further responses were recorded.</p>
+</li>
+<li>
+<p><strong>Experiment 27772-03</strong>: Analysis of SCP-27772's signal. </p>
+</li>
+<li>It was determined that the signal is of an unknown origin and does not match any known digital encoding methods.</li>
+<li>Attempts to trace the signal's source have consistently failed, with all investigations leading to various dead ends or looping back to the original containment site.</li>
+</ul>
+<h3>Addendum 4: Ongoing Research</h3>
+<p>Ongoing research aims to understand the potential for utilizing SCP-27772's memetic properties for Foundation benefits, as well as to develop more effective containment procedures. Current theories suggest that SCP-27772 may be a manifestation of an infohazard or a cognitohazard that has found a loophole in our digital infrastructure.</p>
+<p>Until such a time that SCP-27772 can be fully contained or neutralized, all Foundation personnel are advised to remain vigilant for signs of its influence and to report any possible sightings immediately.</p>
+
+    </div>
+    
