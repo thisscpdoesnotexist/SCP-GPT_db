@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27775 is  Printer Ink River </h3> </center>
+
+    <h3>Item #: SCP-27775 - "The Ink That Flows"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27775-GPT.png" alt="Illustration of SCP-27775" />
+        
+<h3>Description:</h3>
+<p>SCP-27775 is a subterranean river comprised entirely of printer ink, measuring approximately 5 km in length. The river's composition mimics standard commercial printer ink but possesses anomalous properties. It demonstrates sentient behavior and an ability to manipulate its form and flow, defying gravitational constraints and displaying hostility towards living organisms. SCP-27775 has been observed ejecting projectiles of ink with extreme force, creating ink-based constructs and occasionally emitting vocalizations, suggesting a form of sentience or communication ability.</p>
+<p>Radiocarbon dating has shown that the ink's age is inconsistent with its surroundings, indicating either a supernatural origin or the possibility that SCP-27775 is capable of temporal manipulation, although the latter has not been observed directly.</p>
+<p>More worryingly, exposure to SCP-27775 leads to the rapid onset of a condition referred to as “Inkrot” in affected subjects, which is characterized by the gradual dispersion of the individual's molecular structure, eventually resulting in complete liquefaction and absorption into SCP-27775. This process is invariably fatal and currently has no known cure.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given its subterranean nature and fluid dynamics, SCP-27775 cannot be fully contained in the traditional sense. The Foundation has established a perimeter around the known entry points to SCP-27775’s ecosystem, with a dedicated facility constructed for ongoing study and containment efforts, designated Site-103.</p>
+<p>All entrances to SCP-27775 are to be secured with reinforced barriers capable of withstanding high-pressure liquid forces. Pressure sensors and remote-operated steel bulkheads are installed to seal off compartments in the event of containment breach. Security teams equipped with specialized hazardous material suits are stationed at all times to prevent unauthorized access and to respond to containment breaches.</p>
+<p>No organic matter is allowed within 50 meters of SCP-27775 without prior approval, and any tools or equipment must be treated with a specialized non-absorbent coating to prevent the spread of Inkrot. Furthermore, all electronic equipment is to be remotely operated to minimize the risk of Inkrot infection through compromised tech.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27775 was initially discovered by miners in [REDACTED], following a minor cave-in incident which breached an uncharted cavern containing the river of ink. Foundation agents embedded in local law enforcement were alerted following reports of "the earth bleeding." Upon examination, an emergency containment effort was launched, during which four agents were lost to Inkrot after exposure to SCP-27775's spray.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 27775-E01: Basic Interaction</h4>
+<p><strong>Date</strong>: [REDACTED]
+<strong>Procedure</strong>: A remote-controlled drone was sent to collect a sample of SCP-27775.
+<strong>Results</strong>: SCP-27775 reacted aggressively, destroying the drone before a sample could be collected. The sample container was found crushed 200 meters away.
+<strong>Notes</strong>: It appears SCP-27775 can preempt interaction with foreign objects. Recommend further tests with more robust equipment.</p>
+<h4>Experiment 27775-E02: Communications Attempt</h4>
+<p><strong>Date</strong>: [REDACTED]
+<strong>Procedure</strong>: Using audio equipment, Foundation linguists attempted to communicate with SCP-27775 using various languages, including patterns imitating the sounds emitted by SCP-27775.
+<strong>Results</strong>: Initial attempts received no discernible response. However, during a sequence imitating SCP-27775's sounds, a large spike in activity was noted, and the equipment was subsequently inundated by an ink surge.
+<strong>Notes</strong>: Audio-based communication may be possible, but SCP-27775's reactions are highly unpredictable and potentially dangerous.</p>
+<h4>Experiment 27775-E03: Introduction of Inanimate Organic Material</h4>
+<p><strong>Date</strong>: [REDACTED]
+<strong>Procedure</strong>: A piece of raw chicken meat was introduced to the environment near SCP-27775 using a drone.
+<strong>Results</strong>: SCP-27775 extended a tendril of ink and enveloped the chicken. Within minutes, the meat began to show signs of Inkrot before dissolving completely.
+<strong>Notes</strong>: SCP-27775 can induce Inkrot without direct contact. Presumed to be airborne or communicated through micro-splashes. Upgrading necessary precautions and containment procedures.</p>
+<h3>Addendum 3: Incident 27775-A</h3>
+<p>On [REDACTED], an unexpected seismic event resulted in a temporary loss of containment, during which SCP-27775 erupted through Site-103, resulting in severe facility damage and multiple casualties. Emergency protocols were enacted, and use of heavy water and cryogenic countermeasures proved partially effective in stalling the flow of SCP-27775 long enough for repairs to be made to the containment bulkheads.</p>
+<p>The incident prompted a review and overhaul of the containment procedures with a focus on enhanced seismic activity monitoring and structural integrity reinforcement of Site-103. It also led to the reclassification of SCP-27775 to Keter due to the evident potential for significant loss of life and breach of masquerade.</p>
+<h3>Addendum 4: Ongoing Investigations</h3>
+<p>Investigations into the source of SCP-27775 and the possibility of connecting passages or "tributaries" are ongoing. Efforts to analyze and counteract the effects of Inkrot are considered a top priority. Foundation researchers are compiling data on historical accounts that could potentially reference SCP-27775 or related phenomena, in an attempt to understand the scope and history of this enigmatic and dangerous anomaly.</p>
+
+    </div>
+    
