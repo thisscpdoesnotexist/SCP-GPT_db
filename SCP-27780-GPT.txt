@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27780 is  Jeff The Killer </h3> </center>
+
+    <h3>Item #: SCP-27780 - "The Harbinger's Portrait"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27780-GPT.png" alt="Illustration of SCP-27780" />
+        
+<h3>Description:</h3>
+<p>SCP-27780, colloquially known as "The Harbinger's Portrait," is a 19th-century oil painting depicting a serene pastoral scene during twilight. When viewed, the painting induces a violent transformation in the observer, eliciting a psychological and physiological metamorphosis that culminates in the observer assuming characteristics reminiscent of the urban legend known as "Jeff The Killer."</p>
+<p>Affected individuals (hereafter referred to as SCP-27780-1) undergo severe dermal pigmentation loss, experience forced rictus resulting in a grotesquely wide smile, loss of eyelids, enhanced strength, and a profound psychotic break characterized by homicidal tendencies and an obsession with their own reflection. The transformation is irreversible and results in the subject's eventual self-destruction due to an inability to consume sustenance or rest.</p>
+<p>The object exhibits no anomalous properties when photographed or digitally replicated, but its effects manifest regardless of the observer's awareness of the painting's anomalous nature.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the high risk of psychological contamination and the difficulty of controlling information spread, SCP-27780 is contained in a sealed, climate-controlled, and light-tight containment unit within Site-██. The containment unit is constructed with walls lined with non-reflective material and located in a restricted-access section of the site.</p>
+<p>The object is to be monitored via non-visual means at all times. Any description or replication of SCP-27780's imagery, both analog and digital, is to be avoided. Personnel with a clearance level below 3 are forbidden from accessing the containment unit, and any personnel affected by SCP-27780 are to be quarantined and treated as SCP-27780-1 instances.</p>
+<p>In the case of an SCP-27780-1 containment breach, lethal force is authorized as SCP-27780-1 instances exhibit extreme resilience to non-lethal methods of incapacitation.</p>
+<h3>Addendum 1: Discovery</h3>
+<h4>Incident Report 27780-A:</h4>
+<p>SCP-27780 was initially discovered in [REDACTED], Louisiana after multiple reports of a contagion turning people into violent, disfigured assailants began surfacing. Foundation agents embedded in local law enforcement were dispatched to investigate. After isolating the commonality of exposure to an antique painting, SCP-27780 was secured and Class-A amnestics were administered to the surviving witnesses.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 27780-E1:</h4>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p><strong>Procedure:</strong> D-20938 was exposed to SCP-27780 for a duration of 30 seconds before being pulled away from the painting.
+<strong>Outcome:</strong> D-20938 exhibited initial signs of SCP-27780-1 transformation within 4 hours, showing unnatural fixations and aggressive behavior. Complete transformation occurred within 12 hours of exposure. Termination of SCP-27780-1 (D-20938) was carried out following transformation.</p>
+<h4>Experiment 27780-E2:</h4>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p><strong>Procedure:</strong> D-76891 was provided with opaque glasses and exposed to SCP-27780 while blindfolded for 30 minutes.
+<strong>Outcome:</strong> No transformation occurred, suggesting that only direct visual exposure to SCP-27780 triggers the anomalous effect.</p>
+<h4>Experiment 27780-E3:</h4>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p><strong>Procedure:</strong> Previous SCP-27780-1 instance (D-20938) remains were placed in the containment unit with SCP-27780.
+<strong>Outcome:</strong> No anomalous activity was observed from SCP-27780. Remains showed no sign of further abnormality post-termination.</p>
+<h3>Addendum 3: Incident 27780-B</h3>
+<h4>Incident Report 27780-B:</h4>
+<p>On ██/██/20██, during a scheduled containment check, SCP-27780 breached containment due to human error. Junior Researcher ██████ inadvertently viewed the painting and transformed into SCP-27780-1 within a shorter-than-anticipated time frame of 2 hours. The subject showcased acute intelligence, evading capture and causing multiple casualties. After a site-wide lockdown and deployment of MTF units, SCP-27780-1 (Junior Researcher ██████) was neutralized.</p>
+<p>Following Incident 27780-B, containment procedures were revised to include additional fail-safes and automatic lockdown protocols. A full psychological evaluation is now mandatory for any personnel assigned to SCP-27780 containment duties.</p>
+<h3>Addendum 4: Psychological Profile</h3>
+<h4>Analysis Report 27780-C:</h4>
+<p>Psychological evaluations of SCP-27780-1 instances have revealed a consistent pattern of compulsion towards perfection in appearance, coupled with extreme self-loathing. It is hypothesized that SCP-27780 may exploit underlying psychological vulnerabilities related to self-image and societal standards of beauty, warping these preconceptions into the observed transformation. Further research into potential memetic properties of SCP-27780's image is ongoing.</p>
+
+    </div>
+    
