@@ -1,0 +1,38 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27774 is  Keep Fales Information And Infohazard All Time </h3> </center>
+
+    <h3>Item #: SCP-27774 - "The Deceitful Oracle"</h3>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-27774, known colloquially as "The Deceitful Oracle," is an anomalous sentient being resembling an aged human male, approximately 70 years old, possessing extensive knowledge on a vast array of topics, both mundane and esoteric. SCP-27774 is capable of speaking all known and several unknown languages. Its anomalous properties manifest when engaged in conversation about future events or the acquisition of knowledge.</p>
+<p>When questioned, SCP-27774 provides information which initially appears factual and verifiable but gradually reveals itself to be a mixture of truths, half-truths, and outright falsehoods. This information is tailored to lead to significant negative consequences if acted upon. The deceptive nature of the information is not easily detectable, often requiring extensive cross-referencing or the unfolding of events to reveal its true nature.</p>
+<p>The most hazardous aspect of SCP-27774's ability is that any recorded information provided by the entity immediately becomes an infohazard. Individuals who directly expose themselves to the content without proper memetic inoculation followed by secondary psychological screening tend to believe and act upon the information, despite any subsequent evidence to the contrary. This has led to numerous containment breaches and loss of life before the current containment procedures were developed.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27774 is to be contained in a soundproof humanoid containment cell measuring 6m x 6m, with no access to external information sources. The interior of the cell is to be fitted with non-reflective surfaces to prevent the entity from gathering information from its surroundings. The cell is to be monitored at all times via closed-circuit cameras, with audio monitoring disabled.</p>
+<p>Communication with SCP-27774 is to be conducted through written correspondence alone, using a double-blind method to prevent direct information exchange, with no individual knowing both the content of the questions and the content of the answers. All communication must be conducted in a coded language developed by Foundation cryptolinguists to prevent SCP-27774 from manipulating its responses. Only D-Class personnel who have undergone memetic inoculation may be used to transcribe communications, and they must undergo a full psychological evaluation following interaction.</p>
+<p>Strict protocols are to be followed regarding the information provided by SCP-27774. All intelligence must be considered as potentially harmful and should not be acted upon until it has passed through five levels of cross-verification. Any confirmed infohazardous material is to be immediately destroyed by incineration.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27774 was discovered after a series of unexplainable political upheavals in [REDACTED], where all intelligence pointed to the impossible. Foundation operatives traced the source of the false intelligence to an elderly individual providing consultations under the guise of a local oracle. An embedded agent's report led to containment.</p>
+<h3>Addendum 2: Incident Log 27774-05</h3>
+<h4>Subsection A: Containment Breach</h4>
+<p>Initial containment protocols underestimated the memetic potency of SCP-27774's communication. A breach occurred when a researcher acted on information that led to the deactivation of containment fields for multiple Euclid-class SCPs. Subsequent memetic reinforcement protocols and the transition to the double-blind communication system have since prevented similar occurrences.</p>
+<h4>Subsection B: Experiment Log 27774-E</h4>
+<h5>Experiment E-01</h5>
+<p><strong>Objective:</strong> Determine SCP-27774's accuracy in predicting future events without influencing them.</p>
+<p><strong>Procedure:</strong> Two sets of future events were created - a set of control events occurring naturally and a set of experimental events deliberately set in motion by the Foundation.</p>
+<p><strong>Results:</strong> SCP-27774 provided information that accurately predicted details of the control events but led to paradoxical outcomes in experimental events, with detrimental effects. </p>
+<p><strong>Analysis:</strong> SCP-27774 is capable of accurate predictions when events unfold naturally but intentionally provides misleading information when it anticipates manipulation.</p>
+<h5>Experiment E-02</h5>
+<p><strong>Objective:</strong> Test the effectiveness of memetic inoculation on D-Class personnel when transcribing interactions.</p>
+<p><strong>Procedure:</strong> D-Class subjects were divided into inoculated and non-inoculated groups and exposed to SCP-27774's materials.</p>
+<p><strong>Results:</strong> Non-inoculated D-Class subjects exhibited extreme belief in the Oracle's information and required termination. Inoculated subjects remained unaffected.</p>
+<p><strong>Analysis:</strong> Current memetic inoculation techniques are effective but must be maintained and updated continually as SCP-27774 adapts.</p>
+<h3>Addendum 3: Psychological Profile</h3>
+<p>Psychological evaluations of SCP-27774 indicate a disdain for its captors and a desire to create chaos. Whether it is motivated by malicious intent or its nature compels it to deceive is still under investigation. Future interactions must be carefully controlled to prevent SCP-27774 from exploiting psychological vulnerabilities in containment personnel.</p>
+<p>The containment of SCP-27774 remains a top priority due to its potential to disseminate dangerously false information that poses a significant risk to global stability, SCP Foundation secrecy, and the integrity of reality itself.</p>
+
+    </div>
+    
