@@ -1,0 +1,34 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27773 is  A Very Extremely Creepy Picture  </h3> </center>
+
+    <h3>Item #: SCP-27773 - "The Inscrutable Portrait"</h3>
+<h3>Object Class:</h3>
+<p>Thaumiel</p>
+<h3>Description:</h3>
+<p>SCP-27773 is an oil painting sized 70cm x 50cm, depicting an ever-changing landscape which, so far, has included gothic castles, desolate winter forests, and tempestuous ocean scenes with titanic waves. These scenes seemingly have no connection to any known locations on Earth. The painting is housed in an ornate, gilded frame that is immune to any form of damage or alteration.</p>
+<p>The primary anomalous property of SCP-27773 manifests when it is viewed directly by a sentient being. Upon observation, the scenery within the painting begins to animate, and viewers report hearing corresponding sounds seemingly emanating from the painting itself, such as howling winds or crashing waves. Extended viewing induces a transe-like state where subjects claim to communicate with an entity referred to as "The Curator". Subjects in this state exhibit heightened emotional stability and clarity, providing resolutions to psychological trauma and answers to personal quandaries.</p>
+<p>The secondary anomalous effect of SCP-27773 is its apparent ability to absorb and contain other lesser anomalies when they are introduced to its immediate vicinity. Seemingly, SCP-27773 serves as a bastion against these anomalies breaching containment, as they become part of the painting's landscape, losing their harmful properties in the process.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27773 is to be contained within a temperature-controlled and humidity-regulated display case at Site-██. The case is to be secured in a containment chamber with walls lined with soundproofing material. Access to SCP-27773 is restricted to personnel with Level 4 clearance or higher and is limited to psychological treatment purposes or containment of lesser anomalies, as approved by the Site Director.</p>
+<p>All interactions with SCP-27773, whether for maintenance, study, or containment purposes, must be performed via remote-controlled drones or robotic arms to prevent direct human observation. Should a breach occur, personnel are instructed to avert their gaze and evacuate the containment chamber immediately, activating the site-wide memetic hazard alarms.</p>
+<p>Personnel who have undergone treatment with SCP-27773 are to be monitored for a minimum of six months for any long-term psychological changes or latent anomalous effects. A log of these treatments, as well as interactions with any contained anomalies, must be meticulously recorded in the SCP-27773 databases.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27773 was discovered in an abandoned wing of the ████████ Gallery in Paris, France, after an uptick in missing persons reports. Embedded Foundation agents within local law enforcement were alerted when survivors described a "haunted painting" which "showed them the truth".</p>
+<p>Upon containment, SCP-27773 was classified as Thaumiel, given its potential use in both psychological treatment and anomaly containment.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 27773-E1</h4>
+<p><strong>Procedure:</strong> Subject D-9812 was instructed to observe SCP-27773 and describe their experience.
+<strong>Results:</strong> D-9812 reported viewing a desolate, war-torn cityscape. After five minutes, he began communicating with "The Curator," who claimed to show D-9812 the futility of his former violent behavior. D-9812 demonstrated significant behavioral improvements post-experiment.
+<strong>Notes:</strong> Subject's improvement in conduct has been remarkable, suggesting SCP-27773 has substantial rehabilitative potential.</p>
+<h4>Experiment 27773-E2</h4>
+<p><strong>Procedure:</strong> SCP-████, a Class-II anomalous object with minor telekinetic properties, was introduced to the containment chamber of SCP-27773.
+<strong>Results:</strong> The telekinetic effects of SCP-████ ceased, and the object appeared in the painting as a deactivated relic within a dilapidated museum scene.
+<strong>Notes:</strong> Excellent demonstration of SCP-27773's secondary containment abilities. It has been proposed that SCP-27773 could serve as an auxiliary containment method for Class-I and Class-II objects.</p>
+<h3>Addendum 3: Incident Report 27773-A</h3>
+<p>On ██/██/20██, Dr. █████ accidentally viewed the painting directly when the automated curtain malfunctioned. Dr. █████ became unresponsive and had to be forcibly removed from SCP-27773’s chamber. After regaining consciousness, Dr. █████ claimed to have gained "enlightenment" regarding an unrelated, high-risk anomaly (SCP-████), subsequently resolving a containment breach that could have resulted in an XK-class end-of-the-world scenario.</p>
+<p>Further investigations into the potential use of SCP-27773 as a strategic asset in resolving crises situations involving other SCP objects are ongoing. However, direct exposure remains strictly controlled due to the unpredictable and potentially drastic psychological effects.</p>
+
+    </div>
+    
