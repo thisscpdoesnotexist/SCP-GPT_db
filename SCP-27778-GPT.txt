@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27778 is  Watch Porn So Addictive Non Stop  </h3> </center>
+
+    <h3>Item #: SCP-27778 - "The Siren's Screen"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27778-GPT.png" alt="Illustration of SCP-27778" />
+        
+<h3>Description:</h3>
+<p>SCP-27778 is an anomalous digital signal that intermittently hijacks internet streaming services, primarily targeting platforms with adult content. However, SCP-27778 has also been found on other video-sharing websites. Subjects who view the signal, hereafter referred to as SCP-27778-1, become psychologically entrapped, demonstrating an obsessive-compulsive need to continue watching. </p>
+<p>SCP-27778 does not create content but appears to algorithmically morph existing footage into a mesmerizing loop that caters to the subconscious desires and deepest fantasies of the viewer. The signal is also capable of simulating tactile sensations, eliciting physical responses from SCP-27778-1 as if they were experiencing the events portrayed in the content. The signal's effect does not diminish over time and has shown to be resistant to conventional psychological treatments, suggesting a permanent alteration in brain chemistry or neural structure. </p>
+<p>Individuals affected by SCP-27778 gradually lose interest in all other activities, including eating and sleeping. Full immersion in SCP-27778 ultimately results in the expiration of the affected subject due to dehydration and malnutrition.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As SCP-27778 is transmitted via internet protocols, complete containment is currently not feasible. Web Analysis Task Force Delta-9 ("Net Nannies") has been created to monitor internet traffic for the signature of SCP-27778 and enact immediate takedown procedures on compromised streams. Collaboration with major ISPs and tech companies is ongoing under the guise of an international cybersecurity initiative (Code Name: "Digital Hygiene").</p>
+<p>Sites found to be recurrent vectors for SCP-27778 are to be infiltrated, and their infrastructure dismantled covertly. Any personnel tasked with monitoring and containing SCP-27778 must do so in a controlled environment where exposure to the anomalous signal is impossible. They must also pass monthly psychological evaluations to ensure accidental exposure has not taken place. </p>
+<p>D-Class personnel used for testing are selected from non-violent offenders. Testing chambers are designed to limit exposure time and are equipped with emergency measures to forcibly remove subjects from SCP-27778's influence if necessary.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27778 was first encountered by Foundation web crawlers on ██/██/20██ after a dramatic rise in reports of individuals hospitalized for severe malnutrition and dehydration linked to compulsive internet usage. The common thread was the report of an "inescapable adult film" described by hospitalized individuals who later succumbed to their conditions. </p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 27778-E01</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Subjects:</strong> D-Class Personnel D-53921</li>
+<li><strong>Procedure:</strong> Subject was exposed to SCP-27778 for 5 minutes.</li>
+<li><strong>Results:</strong> D-53921 refused to leave the viewing chamber, displaying immediate signs of psychological entrapment. Subject was forcibly removed and placed under observation; the compulsion to return to SCP-27778 persisted for 72 hours before expiring.</li>
+</ul>
+<h4>Experiment 27778-E02</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Subjects:</strong> D-Class Personnel D-64982</li>
+<li><strong>Procedure:</strong> Subject was given a placebo film falsely claimed to be SCP-27778.</li>
+<li><strong>Results:</strong> D-64982 watched the content indifferently for 10 minutes before remarking on a lack of interest. No compulsions noted.</li>
+</ul>
+<h4>Experiment 27778-E03</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Subjects:</strong> D-Class Personnel D-71298</li>
+<li><strong>Procedure:</strong> Exposure to SCP-27778 with the promise of a reward upon voluntary cessation of viewing.</li>
+<li><strong>Results:</strong> Subject was incapable of discontinuing viewing for the promised reward, showcasing the signal's overpowering compulsion even against strong incentives.</li>
+</ul>
+<h3>Addendum 3: Incident Report 27778-A</h3>
+<p>On ██/██/20██, a breach of containment protocols resulted from an unintentional exposure of SCP-27778 to Site-██ staff. SCP-27778 had been streamed onto the personal devices of five members of the research team. The affected individuals were found in their quarters in a state of advanced malnourishment. Amnestics were administered to unaffected staff witnessing the event. The containment protocols have been updated to mandate air-gapped systems for all personnel dealing with SCP-27778 containment and research.</p>
+<p>The Foundation's understanding of SCP-27778's influence and the extent of its capabilities are incomplete. Researchers are investigating potential ties to siren-like entities or other cognitohazardous SCPs. All information is subject to revision as new data becomes available. Interdisciplinary collaboration with psychological and digital experts is ongoing to develop a counter-signal that can negate the effects of SCP-27778.</p>
+
+    </div>
+    
