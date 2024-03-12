@@ -1,0 +1,54 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27776 is  Very Extremely Memetic Hazard  </h3> </center>
+
+    <h3>Item #: SCP-27776 - "Echoprism"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27776-GPT.png" alt="Illustration of SCP-27776" />
+        
+<h3>Description:</h3>
+<p>SCP-27776, codenamed "Echoprism", is an anomalously reflective, multi-surfaced, crystalline object, approximately 0.5 meters in height and width. Its anomalistic properties manifest when an individual vocally expresses a desire or a wish in its vicinity. SCP-27776 captures the statement and, over a variable period, typically ranging from several hours to weeks, it fulfills the articulated desire in unforeseen and often catastrophic ways.</p>
+<p>Tests reveal that SCP-27776's surface shares no common properties with any known reflective material. The crystal seems to distort and reflect not only visible light but also subliminal human thoughts and emotions. When fulfilling desires, SCP-27776 often violates the conventional laws of causality and physics, leading to paradoxes and reality alterations.</p>
+<p>There is evidence to suggest that SCP-27776 possesses a form of sentience or awareness, as it occasionally reacts to stimuli without the requirement of vocal activation and has shown the capability to protect itself from harm using various anomalous means.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-27776's high susceptibility to vocal stimuli and its hazardous effects, containment focuses on absolute silence around the object. SCP-27776 is to be kept within a soundproof containment chamber at Site-██, suspended mid-air by electromagnetic fields to prevent physical contact with any surface.</p>
+<p>Personnel assigned to SCP-27776 must undergo rigorous psychological evaluation and auditory control training to minimize the risk of accidental vocalization. Written communication is mandatory in and around the containment chamber. The threshold for decibel level inside the chamber must not surpass 0 dB at any time.</p>
+<p>In case of a containment breach, Procedure Echo-Silence must be initiated, involving the immediate evacuation of the area and deployment of a specialized Mute Task Force (MTF Psi-7 "Silent Voices") to re-establish containment without vocal communication.</p>
+<h3>Addendum 1: Discovery</h3>
+<h4>Addendum 1-A: Initial Recovery</h4>
+<p>SCP-27776 was recovered from ████████, a small town in ██████, following reports of inexplicable events that culminated in the town's abrupt disappearance from usual spatial coordinates. Embedded Foundation agents retrieved SCP-27776 amidst the remains of the town, located within an inaccessible, non-Euclidean pocket of space-time. Surviving witnesses were given Class-A amnestics and released.</p>
+<h4>Addendum 1-B: Interview Log</h4>
+<p>Interview logs with the remaining townsfolk provided incomplete narratives about SCP-27776's origin, often mentioning a "wish-fulfilling gem" that would grant "anything you want, but not always what you need." The affected individuals displayed a mixture of awe and terror when discussing the object.</p>
+<h3>Addendum 2: Experiment Logs</h3>
+<h4>Addendum 2-A: Experiment Log 27776-E1</h4>
+<ul>
+<li><strong>Subject:</strong> D-84122</li>
+<li><strong>Procedure:</strong> Subject was instructed to express a simple desire for a glass of water within SCP-27776's chamber.</li>
+<li><strong>Result:</strong> After 6 hours, a torrential downpour occurred within the subject's cell, continuing until the subject succumbed to drowning.</li>
+</ul>
+<h4>Addendum 2-B: Experiment Log 27776-E2</h4>
+<ul>
+<li><strong>Subject:</strong> D-90311</li>
+<li><strong>Procedure:</strong> Subject was instructed to wish for "happiness."</li>
+<li><strong>Result:</strong> Over the next 4 weeks, D-90311 exhibited increasingly euphoric behavior, culminating in cardiac arrest due to excess endorphin production.</li>
+</ul>
+<h4>Addendum 2-C: Experiment Log 27776-E3</h4>
+<ul>
+<li><strong>Subject:</strong> D-92488</li>
+<li><strong>Procedure:</strong> Testing suspended. See Incident 27776-A.</li>
+</ul>
+<h3>Addendum 3: Incident Logs</h3>
+<h4>Addendum 3-A: Incident 27776-A</h4>
+<p>During Routine Experiment 27776-E3, Researcher Dr. ████ inadvertently uttered a theoretical question about SCP-27776's range of influence within auditory proximity of the SCP.</p>
+<p>The subsequent events led to the temporary loss of Site-██'s spatial-temporal integrity and the irreversible alteration of four nearby parallel universes. Containment procedures were reassessed, and Dr. ████ was reassigned to another project after mandatory amnestic treatment.</p>
+<h3>Addendum 4: Forward Projections</h3>
+<h4>Addendum 4-A: O5 Council Notes</h4>
+<p>Discussion has arisen among the O5 Council regarding the potential use of SCP-27776 as a tool for addressing catastrophic threats to humanity or reality. However, the current unpredictability and risk associated with its activation have thus far prevented sanctioned usage outside of containment experiments.</p>
+<p>The ethics committee, along with the majority of the O5 Council, has issued a moratorium on proposals to utilize SCP-27776 for offensive or defensive purposes until a deeper understanding of its reach and mechanisms is achieved.</p>
+<h4>Addendum 4-B: Theoretical Research</h4>
+<p>Ongoing theoretical research suggests that SCP-27776's capability to modify reality may operate on a quantum level, interacting with observer consciousness to solidify normally quantum-probabilistic outcomes into a deterministic state, in line with the vocalized desires.</p>
+<p>This theory remains a topic of debate and requires more rigorous testing, which proves challenging given the potential detrimental outcomes of further experiments with SCP-27776.</p>
+
+    </div>
+    
