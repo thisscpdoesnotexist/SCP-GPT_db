@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27804 is  The infinite Black Hole And infinite Wormhole Cause XK-Class </h3> </center>
+
+    <h3>Item #: SCP-27804 - "The Cosmic Equilibrium"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27804-GPT.png" alt="Illustration of SCP-27804" />
+        
+<h3>Description:</h3>
+<p>SCP-27804 is a pair of linked anomalous astronomical objects, consisting of an infinitely dense black hole (SCP-27804-A) and a corresponding wormhole (SCP-27804-B). These objects exhibit properties that deviate significantly from current astrophysical models.</p>
+<p>SCP-27804-A and SCP-27804-B are connected via an unobservable "throat", theorized to maintain a balance of energy and matter between them; this process prevents the occurrence of an XK-Class End-of-the-World scenario. SCP-27804-A is capable of absorbing matter and energy without growth, while SCP-27804-B seemingly generates them from an unknown source.</p>
+<p>What is most perplexing is that SCP-27804-A appears to be nondestructive. Matter and energy absorbed by SCP-27804-A are not only preserved but are translocated and reconstituted at SCP-27804-B's exit point, which is currently estimated to be located outside of our observable universe. The reconstructed matter closely resembles its original state prior to absorption.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the nature of SCP-27804, physical containment is impossible. However, observation posts designated Site-41 through Site-59 have been established in a network surrounding SCP-27804-A. These posts are equipped with advanced telescopes and monitoring equipment to study SCP-27804 and watch for any signs of instability or changes in its behavior.</p>
+<p>All information pertaining to SCP-27804 is classified at the highest level and disseminated on a strict need-to-know basis to prevent any potential attempts to weaponize or disrupt SCP-27804. Additionally, Foundation AI "Atlas" has been tasked with running continuous simulations to predict the effects of possible disruptions to SCP-27804 and devise response strategies to any conceivable threats. </p>
+<p>Field agents embedded in major space agencies are instructed to redirect or delay any missions that may come into contact with SCP-27804 to prevent accidental interference.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<h4>Addendum 1.1: Observational Anomalies Leading to Discovery</h4>
+<p>SCP-27804 was initially detected by a Foundation deep-space monitoring satellite that identified unusual energy readings consistent with neither a typical black hole nor a stable wormhole. Upon closer observation, the satellite recorded the disappearance of matter on one end and the concurrent appearance of similar matter beyond the known cosmic horizon.</p>
+<h4>Addendum 1.2: Incident Report 27804-Alpha</h4>
+<p>When news of an unidentified black hole reached worldwide astronomical communities, the Foundation intervened to classify and suppress information to avoid public panic. A disinformation campaign was launched, promoting SCP-27804-A as a "quantum singularity anomaly" still under investigation by the scientific community.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Addendum 2.1: Testing Parameters</h4>
+<p>All experiments are subject to O5 Council approval and are carried out by D-Class personnel under strict surveillance. Experiments aim to understand the transfer mechanisms between SCP-27804-A and B, and the effects of various matter and energy types on this process.</p>
+<h4>Addendum 2.2: Experiment 27804-E01</h4>
+<p><strong>Input:</strong> A cube of tungsten weighing 1kg.
+<strong>Result:</strong> Tungsten cube was drawn into SCP-27804-A. After 27 days, an energy spike was detected at site 59, consistent with a mass emerging from SCP-27804-B, outside of the observable universe.</p>
+<h4>Addendum 2.3: Experiment 27804-E02</h4>
+<p><strong>Input:</strong> A container of water totaling 1 liter.
+<strong>Result:</strong> The container was absorbed by SCP-27804-A. Monitoring equipment detected elevated hydrogen and oxygen signatures matching the water composition, emerging from SCP-27804-B exactly 48 days later.</p>
+<h3>Addendum 3: Incident Log 27804-Beta</h3>
+<h4>Addendum 3.1: Near-Breach Event</h4>
+<p>On ██/██/████, an unauthorized civilian probe came within 50 km of SCP-27804-A's event horizon. An MST team was deployed and successfully intercepted the probe before absorption. The probe was later disposed of in accordance with the Data Expungement Protocols.</p>
+<h4>Addendum 3.2: Post-Incident review</h4>
+<p>The incident sparked a review of containment protocols. Upgrades to observation sites and implementation of a disinformation buffer zone around SCP-27804 have been proposed to the O5 Council to ensure no such breaches occur in the future.</p>
+<h3>Addendum 4: Theoretical Implications</h3>
+<p>The continued equilibrium of SCP-27804 raises substantial questions about the conservation of information in the universe, as well as the potential for controlled utilization of SCP-27804-B's constructive properties. Research into the existence of an antiverse, where SCP-27804-B may lead, has been proposed and is awaiting approval.</p>
+
+    </div>
+    
