@@ -1,0 +1,64 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27792 is  Loop Hallways </h3> </center>
+
+    <h3>Item #: SCP-27792 - The Infinite Hallway</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27792-GPT.png" alt="Illustration of SCP-27792" />
+        
+<h3>Description:</h3>
+<p>SCP-27792 is an architectural anomaly located within the historical ██████ Hotel in █████████, Europe. The anomaly presents itself as a seemingly infinite series of hallways, interconnected in a non-Euclidean layout, which does not correspond to the exterior dimensions or blueprints of the establishment. </p>
+<p>Measurements and explorations indicate that SCP-27792 itself is in flux, with the length and configuration of the hallways changing upon each separate entry. Rooms along the hallways appear and disappear, sometimes visible through open doors, other times the doors lead only to solid walls. There have been no instances of rooms leading to other spaces outside of the hotel's conventional layout. </p>
+<p>Interior décor suggests the hallways originate from various historical periods, occasionally matching the known renovations of the ██████ Hotel, although many hallways exhibit designs not found in any known records. </p>
+<p>A common phenomenon among subjects exploring SCP-27792 is the experience of intense nostalgia or déjà vu, with some reporting auditory hallucinations consistent with whispers or soft music correlating to the period of the hallway's décor. Despite these anomalies, SCP-27792's hallways are not inherently harmful unless one becomes lost or succumbs to psychological stress from prolonged exposure.</p>
+<h3>Special Containment Procedures:</h3>
+<p>The ██████ Hotel has been acquired by the SCP Foundation under the guise of a historical preservation society. Standard security protocols have been established, with two plainclothes agents stationed at the hotel to deter unauthorized personnel. Entrance to SCP-27792 is restricted behind a false wall installed in the lobby, which is to be accessed only by Level 3 personnel and above, or with special authorization for testing.</p>
+<p>Due to the unpredictable nature of SCP-27792, exploration and testing are to be conducted only with pre-approved plans and safety measures. Each team must consist of at least three individuals equipped with a GPS (though signal reliability within SCP-27792 is questionable), a long-range radio, an emergency locator beacon, and provisions for at least 72 hours. </p>
+<p>Personnel with a history of claustrophobia or prone to spatial disorientation are to be excluded from direct experimentation. Individuals exiting SCP-27792 are required to undergo a psychological evaluation to ensure no detrimental effects of exposure have taken hold.</p>
+<h3>Addendum 1: Exploration Logs</h3>
+<h4>Subsection 1: Exploration Log A</h4>
+<p>Date: ██/██/20██
+Team: D-8432, D-3910, Dr. ███
+Duration: 4 hours</p>
+<p>Results: </p>
+<ul>
+<li>Hallways exhibited designs from the late Victorian era.</li>
+<li>Consistent temperature drop of 10°C from baseline recorded throughout exploration.</li>
+<li>D-8432 reported hearing a woman softly singing; no source identified.</li>
+<li>Team encountered a room containing furniture from the 1920s; disappeared upon subsequent encounter.</li>
+</ul>
+<h4>Subsection 2: Exploration Log B</h4>
+<p>Date: ██/██/20██
+Team: D-2101, D-6587, Dr. ████
+Duration: 6 hours</p>
+<p>Results:</p>
+<ul>
+<li>D-2101 became distressed after claiming to recognize childhood memories linked to the hallway's aesthetics; required sedation.</li>
+<li>Team reached a dead-end with a mirrored wall that did not reflect any of the team members or equipment.</li>
+<li>Upon attempting to return, the pathway adjusted, extending the duration of the return trip by two hours.</li>
+</ul>
+<h3>Addendum 2: Incident Report 27792-01</h3>
+<h4>Subsection 1: Summary</h4>
+<p>Date: ██/██/20██
+Resulting in the temporary loss of contact with Research Team Delta-5 during routine exploration. </p>
+<p>Incident Details:</p>
+<ul>
+<li>Team Delta-5 lost radio contact for 12 hours after reporting a new hallway with a futuristic design inconsistent with the hotel's history.</li>
+<li>Visual feeds (where operational) showed no human figures but captured moving shadows in the periphery.</li>
+<li>The emergency locator beacon was activated with no discernible effect.</li>
+<li>Team emerged from SCP-27792 after 14 hours, showing signs of extreme psychological trauma and malnutrition consistent with an exposure of several days, despite only 14 hours having passed outside SCP-27792.</li>
+</ul>
+<h4>Subsection 2: Psychological Impact Assessment</h4>
+<p>Post-incident evaluation showed that affected team members suffered from a disrupted sense of time and intense paranoia. Treatment included long-term counseling and administration of Class-B amnestics.</p>
+<h3>Addendum 3: Research Note 27792-09</h3>
+<p>Dr. █████'s Proposal:</p>
+<ul>
+<li>Commence testing the effects of SCP-27792 on subjects with past living experiences within the ██████ Hotel.</li>
+<li>Observe if hallways conform to subjects' memories and whether this is a key feature of SCP-27792's anomaly.</li>
+<li>Investigate potential connections between SCP-27792 and SCP-3008 ("A Perfectly Normal, Regular Old IKEA") in terms of spatial manipulation and psychological influence.</li>
+</ul>
+<p>Note: Approved by O5 Council. Research teams are being assembled.</p>
+
+    </div>
+    
