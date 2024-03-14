@@ -1,0 +1,45 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27821 is  Pocket Dimension To Heaven And Hell </h3> </center>
+
+    <h3>Item #: SCP-27821 - "Abyssal Gateway"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27821-GPT.png" alt="Illustration of SCP-27821" />
+        
+<h3>Description:</h3>
+<p>SCP-27821 is a miniature ornate gateway standing approximately 1.5 meters tall, with a width of 0.5 meters. The artifact seems to be composed of a substance resembling aged brass, adorned with intricate carvings depicting both angelic and demonic figures engaged in what appears to be an eternal struggle. Radiometric dating indicates that the metal is approximately 2000 years old, though its precise origins remain unknown.</p>
+<p>When a sentient being opens the gateway, they are presented with two divergent pathways leading to distinct pocket dimensions resembling theological concepts of heaven and hell. These dimensions are designated SCP-27821-1 ("Celestia") and SCP-27821-2 ("Infernus").</p>
+<p>SCP-27821-1 is described as an idyllic plane of existence with perpetually clear skies, ambient music, and a sense of peace ingrained within the environment. Inhabitants of this dimension report feelings of tranquility and euphoria.</p>
+<p>Conversely, SCP-27821-2 is a dystopian realm characterized by perpetual fires, brimstone, and a sense of despair that permeates the atmosphere. Entities encountered within this dimension are highly aggressive and often resemble traditional demonic iconography.</p>
+<p>The pathway a subject is allowed to traverse appears to be influenced by their moral and ethical history, although ongoing research suggests additional factors may be at play.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27821 is to be contained in a secure item locker at Site-██, with access restricted to Level 4 personnel or higher. The locker is to be installed with biometric locks and 24-hour surveillance to prevent unauthorized access.</p>
+<p>Experiments involving SCP-27821 must receive approval from at least two members of the O5 Council, given the potential implications of misuse. All personnel engaging with SCP-27821 are required to undergo rigorous psychological evaluation before and after interactions to assess any alterations in mental state or behavior.</p>
+<p>D-class personnel used for testing are to be selected based on their extensive moral and ethical backgrounds to explore the criteria SCP-27821 utilizes for pathway determination. Should SCP-27821 display any changes in behavior or properties, containment protocols are to be reevaluated immediately.</p>
+<p>Due to the potential utility of SCP-27821 in rehabilitation and containment of other SCPs, as well as understanding post-mortem phenomena, it has been assigned the object class Thaumiel.</p>
+<h3>Addendum 1: <strong>Initial Discovery Log</strong></h3>
+<p>SCP-27821 was recovered in ████████, Italy, following reports from locals about a "door to another world" found within the ruins of an ancient structure presumed to be from the Roman era. Mobile Task Force Delta-5 'Front Liners' were deployed to secure the object. During retrieval, two members of the task force unintentionally activated SCP-27821, resulting in one agent entering SCP-27821-1 and the other SCP-27821-2. Both agents were retrieved successfully, with the former experiencing considerable distress and the latter in a state of euphoria.</p>
+<h3>Addendum 2: <strong>Experiment Log</strong></h3>
+<p><strong>Experiment 27821-E01</strong>
+- <strong>Subject:</strong> D-8291, male, convicted for multiple homicides.
+- <strong>Details:</strong> Subject D-8291 opened SCP-27821, which immediately presented the pathway to SCP-27821-2. Upon entry, contact was lost. Remote exploration has been scheduled.
+- <strong>Outcome:</strong> Subject's location within SCP-27821-2 remains unknown.</p>
+<p><strong>Experiment 27821-E02</strong>
+- <strong>Subject:</strong> D-4032, female, imprisoned for grand larceny and fraud.
+- <strong>Details:</strong> Subject D-4032 opened SCP-27821 and was presented with the pathway to SCP-27821-1. Post-event interview suggests she experienced profound personal insights and expressed a desire to reform.
+- <strong>Outcome:</strong> Subject's behavior showed lasting positive change, pending long-term observation.</p>
+<p><strong>Experiment 27821-E03</strong>
+- <strong>Subject:</strong> D-5179, male, incarcerated for civil disobedience and minor property damage during protests.
+- <strong>Details:</strong> Subject D-5179 was presented with both pathways, an unprecedented event. Subject described feeling drawn to SCP-27821-1 but was able to resist and return. Subject reported feeling a strong moral test during interaction.
+- <strong>Outcome:</strong> The event led to a revision of containment protocols, emphasizing the unpredictability of SCP-27821.</p>
+<p><strong>Experiment 27821-E04</strong>
+- <strong>Subject:</strong> Dr. ██████, a researcher with a spotless ethical record.
+- <strong>Details:</strong> Upon opening SCP-27821, Dr. ██████ was granted access to SCP-27821-1. The expedition was monitored and yielded extensive records of the dimension's landscape and inhabitants.
+- <strong>Outcome:</strong> The acquired data has been invaluable in understanding the moral parameters employed by SCP-27821 and potential applications for other ongoing research projects.</p>
+<h3>Addendum 3: <strong>Containment Breach Log</strong></h3>
+<p>On ██/██/20██, Site-██ experienced a full-scale containment breach. SCP-27821 was accessed by several security personnel and SCPs during the chaos. Notably, SCP-████, a Keter class entity, approached SCP-27821 and was observed to enter SCP-27821-2 voluntarily. Seismic activity subsided following its entry, and as of this report, SCP-████ has not reemerged.</p>
+<p>Due to SCP-27821's role in neutralizing a potential XK-class end-of-world scenario, its Thaumiel classification was affirmed. Further research into the potential of using SCP-27821 for containment and neutralization of high-threat SCP entities has been authorized.</p>
+
+    </div>
+    
