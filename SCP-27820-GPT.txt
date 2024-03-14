@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27820 is   Minecraft The Void </h3> </center>
+
+    <h3>Item #: SCP-27820 - "The Pixelated Gateway"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27820-GPT.png" alt="Illustration of SCP-27820" />
+        
+<h3>Description:</h3>
+<p>SCP-27820 is an anomalous phenomenon resembling a gateway, which appears to be a tear or hole in the fabric of reality. This rupture takes on the appearance of a void found in the game Minecraft, characterized by pitch-black emptiness surrounded by a mosaic of pixelated blocks that emit a faint blue glow.</p>
+<p>Instances of SCP-27820 are unique in that they act as a two-way conduit between our physical reality and an extra-dimensional space that largely conforms to the physics and environmental properties of the Minecraft universe. Collectively, this space is referred to as SCP-27820-1.</p>
+<p>Due to its Thaumiel classification, SCP-27820 is utilized for the safe and controlled disposal of hazardous SCP items and the testing of experimental containment strategies without risk to the external environment. However, all activities involving SCP-27820 require strict oversight due to the potential consequences of introducing anomalies into SCP-27820-1 or allowing entities from SCP-27820-1 to enter our reality.</p>
+<p>The gateway opens on command and remains open for a period defined prior to activation, after which it automatically closes. The range for how long SCP-27820 can remain open is currently between five minutes and six hours.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27820 is housed within a specialized containment facility at Site-██, designed with multiple fail-safes and emergency lockdown protocols to prevent unauthorized access to the gateway. Only personnel with Level 4 clearance or higher may approve of and oversee usage of SCP-27820, and they are responsible for managing the input and output of materials, entities, and D-Class personnel.</p>
+<p>Trans-dimensional travel through SCP-27820 must be approved through a rigorous review process. Exploration and experimentation within SCP-27820-1 must adhere to strict guidelines, ensuring minimal impact on the environment and the return of all personnel and equipment.</p>
+<p>Any SCP items scheduled for disposal via SCP-27820 must undergo a thorough analysis to confirm that their properties will not result in undue hazard or alteration to SCP-27820-1. All disposals must be logged, monitored, and reviewed by the SCP-27820 research committee.</p>
+<h3>Addendum 1: Exploration Logs</h3>
+<h4>- Exploration Log A1:</h4>
+<p>The first manned exploration into SCP-27820-1 was performed by a team of three Class D personnel trained in documenting and sampling protocols. They reported an environment identical to the Minecraft universe, with breathable air and a functioning ecosystem. They collected samples of various materials, including dirt, stone, and wood, which retained their pixelated form upon returning to our reality.</p>
+<h4>- Exploration Log A2:</h4>
+<p>Continued expeditions have mapped a substantial portion of SCP-27820-1, discovering various biomes, entities, and structures resembling those found in the game. Efforts to interact with entities within SCP-27820-1 have been met with mixed results; some entities exhibit hostile behavior, while others ignore human presence.</p>
+<h3>Addendum 2: Incident Report 27820-IR-01</h3>
+<h4>- Event Summary:</h4>
+<p>On ██/██/████, SCP-27820 inadvertently remained open past the approved closing time due to a system malfunction. This event allowed several entities from SCP-27820-1, including hostile mobs like Creepers and Endermen, to escape into the containment facility. The entities retained their properties from SCP-27820-1 and presented significant destruction and a security risk to Site-██ before being neutralized.</p>
+<p>In response to the incident, Containment Protocols have been updated to include additional emergency counter-measures and strengthened dimensional stability monitoring.</p>
+<h3>Addendum 3: Experiment Log 27820-EX</h3>
+<h4>- Experiment EX-01:</h4>
+<p>The hypothesis was to test if ordinary items from our reality would maintain their physical properties upon transfer to SCP-27820-1. Objects such as a digital camera, a steel knife, and a heart-rate monitor were sent with D-Class personnel. Upon return, data retrieved from the camera confirmed visual congruence with D-Class testimony. The knife had been converted into pixelated form, with effectiveness comparable to iron tools in SCP-27820-1. The heart-rate monitor malfunctioned due to incompatible physics.</p>
+<h4>- Experiment EX-02:</h4>
+<p>A piece of SCP-███, an anomalous substance known for its explosive reactivity to air, was introduced to SCP-27820-1 inside a sealed container. When released into the environment, it reacted much like TNT within the game, albeit with a significantly reduced blast radius. This experiment validated SCP-27820 for potential hazard-neutralizing applications.</p>
+<h3>Addendum 4: SCP-27820 Research Committee Notes</h3>
+<h4>- Note R1:</h4>
+<p>Dr. ██████ warns that continued interaction with SCP-27820-1 may result in unforeseen consequences, potentially destabilizing the boundary between realities. Future experiments are to consider the ethical and safety ramifications of extensive manipulation or explorative procedures.</p>
+<h4>- Note R2:</h4>
+<p>The potential for SCP-27820-1 as a containment area for specific anomalous entities is under review. Introducing entities into SCP-27820-1 may alter its ecosystem or behavioral norms, and the committee stresses caution and comprehensive study before any such attempts are made.</p>
+
+    </div>
+    
