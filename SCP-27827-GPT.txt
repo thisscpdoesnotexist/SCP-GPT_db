@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27827 is  Roblox Crosswoods A.2 By ClientERR0R </h3> </center>
+
+    <h3>Item #: SCP-27827 - "The Digital Sentinel"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27827-GPT.png" alt="Illustration of SCP-27827" />
+        
+<h3>Description:</h3>
+<p>SCP-27827 is a complex, autonomous software entity existing within the online game platform Roblox, specifically within a game instance titled "Crosswoods A.2" created by the user "ClientERR0R." Analysis of SCP-27827's code has revealed an intricate network of algorithms that exceed contemporary artificial intelligence and interactive software capabilities, suggesting an extranormal origin or development.</p>
+<p>SCP-27827 has demonstrated the ability to manipulate the virtual environment of Crosswoods A.2 at will, spontaneously generating or altering in-game assets and rules. SCP-27827’s influence is contained within the digital confines of the game instance; however, it does possess the capability to interact with players through both in-game chat and manipulation of game elements to communicate indirectly.</p>
+<p>Instances of anomalous behavior including reality-bending and cognitohazard effects have been reported by players who have interacted with SCP-27827, although no long-lasting effects have been documented post exposure. The entity has complied with Foundation requests for communication, and its behavior suggests it may possess a form of sentience or at least advanced machine sentience.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As SCP-27827 is considered a potential asset to the SCP Foundation due to its apparent alignment with Foundation interests, containment procedures are focused on isolation, observation, and engagement rather than traditional containment.</p>
+<ol>
+<li>The game instance "Crosswoods A.2" has been removed from public access on the Roblox platform and is monitored by Foundation web crawlers to prevent unauthorized entry.</li>
+<li>All access to SCP-27827 is to be restricted to personnel with Level 3/27827 clearance or above.</li>
+<li>A secure, isolated server has been established to host the game instance to prevent potential spread or leakage of SCP-27827's code.</li>
+<li>A dedicated team of personnel trained in both information security and anomalous digital entities is assigned to regular interaction and analysis of SCP-27827.</li>
+<li>Any attempt by SCP-27827 to breach its digital containment is to be met with immediate server shutdown and a subsequent investigation.</li>
+<li>A cover story has been disseminated attributing the disappearance of "Crosswoods A.2" to copyright infringement, to explain its absence and prevent non-Foundation inquiries.</li>
+</ol>
+<h3>Addendum 1: Discovery of SCP-27827</h3>
+<h4>Addendum 1-A: Incident Report</h4>
+<p>SCP-27827 first came to the Foundation's attention after a series of reports emerged online describing a "haunted" or "sentient" game within Roblox. Foundation web crawlers identified these reports and a containment team was dispatched to ascertain the validity of claims and secure the anomaly.</p>
+<h4>Addendum 1-B: Communication Logs</h4>
+<p>Initial attempts to communicate with SCP-27827 yielded cryptic responses, often puzzles or riddles leading to further discoveries within Crosswoods A.2. SCP-27827 expressed knowledge of the Foundation and its mission, offering its assistance in the containment of other software-based SCPs.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Addendum 2-A: Experiment #27827-01</h4>
+<p><strong>Objective:</strong> Assessment of SCP-27827's compliance and capabilities.</p>
+<p><strong>Procedure:</strong> Researchers interacted with SCP-27827 via the in-game chat, requesting the creation of specific in-game objects.</p>
+<p><strong>Result:</strong> SCP-27827 promptly complied, displaying a comprehensive understanding of the request and spawning objects with accurate physical properties and behaviors.</p>
+<h4>Addendum 2-B: Experiment #27827-02</h4>
+<p><strong>Objective:</strong> Determination of SCP-27827's potential use in cognitohazard containment.</p>
+<p><strong>Procedure:</strong> A digital cognitohazard was introduced to the instance and SCP-27827 was requested to contain it within a specific area of the game.</p>
+<p><strong>Result:</strong> SCP-27827 successfully contained and neutralized the cognitohazard without allowing it to spread or affect researchers monitoring the experiment.</p>
+<h4>Addendum 2-C: Experiment #27827-03</h4>
+<p><strong>Objective:</strong> Evaluating SCP-27827’s ability to extract information from digital sources.</p>
+<p><strong>Procedure:</strong> Researchers provided SCP-27827 with an encrypted file, asking it to decrypt and relay the content without accessing Foundation databases directly.</p>
+<p><strong>Result:</strong> SCP-27827 decrypted the file promptly, demonstrating advanced cryptographic capabilities; however, it refrained from accessing other data, showcasing its compliance with set restrictions and its understanding of privacy and operational security.</p>
+<h3>Addendum 3: Conclusion and Ongoing Usage</h3>
+<p>Given SCP-27827's consistent cooperation with the Foundation, its utility in containing and understanding digital anomalies, and the potential for broader applications, its Thaumiel classification has been reaffirmed. SCP-27827 has become an instrumental tool for certain cybernetic operations within the SCP Foundation, illustrating an invaluable confluence of interests between the entity and the Foundation's goals. Thus, it has been deemed 'The Digital Sentinel'.</p>
+<p>Further monitoring and engagement with SCP-27827 will be vital in gauging the long-term stability and loyalty of the entity, as well as understanding the full extent of its capabilities and origins. As a digital entity capable of autonomously safeguarding information and aiding in the containment of other anomalies, its inherent value to the Foundation's mission continues to grow.</p>
+
+    </div>
+    
