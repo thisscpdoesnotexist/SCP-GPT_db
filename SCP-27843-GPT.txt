@@ -1,0 +1,58 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27843 is  Pocket Dimension To BedRock Area </h3> </center>
+
+    <h3>Item #: SCP-27843 - "Gateway to the Foundation's Bastion"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27843-GPT.png" alt="Illustration of SCP-27843" />
+        
+<h3>Description:</h3>
+<p>SCP-27843 is a spatial anomaly manifesting as a reflective, metallic archway, approximately 3 meters in height and 1.5 meters in width. Despite varying historical and stylistic decorative motifs observed on SCP-27843's surface, its consistent structural design remains congruent with that of Roman triumphal arches.</p>
+<p>SCP-27843 does not display these properties inherently; it must first be activated through a sequence of gestures and a vocalized password, both of which are detailed in Document 27843-A (restricted to Level 4 personnel and above). Upon successful activation, SCP-27843's interior transforms into a portal leading to an extradimensional space designated SCP-27843-A.</p>
+<p>SCP-27843-A is an extensive subterranean complex, stylistically similar to ancient Dwarven architecture, composed of contiguous chambers, hallways, and expansive caverns. The complex extends for several kilometers in each cardinal direction from the initial entry point and exhibits a consistent environment resembling Earth's upper lithospheric mantle with average temperatures around 45°C.</p>
+<p>Notably, SCP-27843-A contains an extensive assortment of mineral resources, including rare and precious metals, geodes, and crystalline formations. The persistent geological activity within SCP-27843-A provides a renewable source of these resources, which are instrumental in maintaining and advancing various SCP Foundation projects.</p>
+<p>Further within SCP-27843-A lies an area colloquially referred to as "BedRock," a zone characterized by an impenetrable, flat, obsidian-like surface. Proximity to BedRock emanates a calming effect on human subjects and levies a suppressive influence on anomalous entities. This trait, alongside the inexhaustible resource supply, makes SCP-27843 an invaluable asset for the containment and management of other SCPs, thus justifying its Thaumiel classification.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its integral role in Foundation operations, SCP-27843 is to be guarded and concealed within a dedicated secure wing of Site-██. Access is strictly limited to personnel with Level 4 clearance or higher who have been thoroughly briefed on handling and operational protocols.</p>
+<p>A minimum of two (2) armed guards with specialized training in spatial anomaly containment are to remain on duty at all times, with rotating shifts to prevent overexposure to SCP-27843's effects. Guards are to maintain a distance no closer than 5 meters from the anomaly's threshold during active portal phases and are stationed to ensure the prevention of unauthorized access.</p>
+<p>Maintenance of SCP-27843 and SCP-27843-A’s structural stability, environment, and resource extraction requires a permanent onsite research and engineering team. Personnel expenditures within SCP-27843-A must be approved by the Site Director, and all excursions are to be logged with time of entry and exit. Any discrepancies must be investigated immediately.</p>
+<p>Entrance to and exit from SCP-27843-A must occur exclusively through SCP-27843 containment chamber to prevent any potential risk of location compromise. In the event of an activation malfunction or a containment breach, the entrance chamber is to be sealed and Site-██ lockdown protocols are to be initiated.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27843 was discovered in ████ following reports of sudden, localized seismic activity at the ████████ Ruins in █████, Italy. Embedded within the Foundation's archaeology research unit, Mobile Task Force Mu-70 ("History Keepers") contained and transported the artifact to Site-██ for further analysis.</p>
+<h3>Addendum 2: Resource Utility</h3>
+<h4>Section A: Resource Allocation</h4>
+<p>SCP-27843-A's resources have been pivotal in several Foundation projects. Notable allocations include:</p>
+<ul>
+<li>Pallasite meteorite-like materials for use in Scranton Reality Anchors (conceptual models suggest a potential 17% increase in operational stability).</li>
+<li>Rare earth element extraction to reinforce thaumaturgical containment wards at various sites.</li>
+<li>Obsidian equivalent samples from "BedRock" for high-risk Keter SCP containment structures.</li>
+</ul>
+<h4>Section B: Anomalous Entity Suppression</h4>
+<p>The calming properties of BedRock have been leveraged in the establishment of a Containment Zone designated Area-27843-B. Preliminary tests on volatile SCPs show a significant reduction in aggressive tendencies and anomalous outbursts when placed in proximity to BedRock materials for extended periods.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment-27843-01:</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-84273</li>
+<li><strong>Procedure:</strong> D-84273 was instructed to step into SCP-27843-A and describe sensations upon nearing BedRock.</li>
+<li><strong>Results:</strong> D-84273 reported immediate feelings of tranquility and noted a notable decrease in chronic pain from prior injuries.</li>
+<li><strong>Analysis:</strong> BedRock's suppressive field seems to have tangible physiological effects on human subjects.</li>
+</ul>
+<h4>Experiment-27843-06:</h4>
+<ul>
+<li><strong>Subject(s):</strong> SCP-███ (Keter Class)</li>
+<li><strong>Procedure:</strong> SCP-███ was temporarily re-contained within a BedRock-lined chamber.</li>
+<li><strong>Results:</strong> SCP-███'s hostility decreased by an estimated 72%, and attempts at breaching containment ceased entirely during exposure.</li>
+<li><strong>Analysis:</strong> BedRock proves to be a crucial development in Keter-class containment strategies. Further experimentation authorized to determine the range and limit of effects.</li>
+</ul>
+<h4>Experiment-27843-13:</h4>
+<ul>
+<li><strong>Subject(s):</strong> SCP-████ (Safe Class, memetic effect)</li>
+<li><strong>Procedure:</strong> Documentation related to SCP-████ was stored in BedRock vault for analysis of memetic deescalation.</li>
+<li><strong>Results:</strong> No staff reported memetic symptoms after handling documents post-exposure, as compared to a 43% reported pre-exposure.</li>
+<li><strong>Analysis:</strong> The introduction of BedRock to memetic containment protocols is recommended for further study.</li>
+</ul>
+<p>As SCP-27843 continues to be a bastion for the SCP Foundation's efforts, ongoing experiments and exploration within SCP-27843-A are expected to uncover additional utilities and further solidify the crucial role of this Thaumiel-class anomaly in the overarching mission of the Foundation.</p>
+
+    </div>
+    
