@@ -1,0 +1,54 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27850 is  A Ritual In Backrooms With SCP-4971-▽ The One Who Knows Silence In The Earth </h3> </center>
+
+    <h3>Item #: SCP-27850 - "Silent Sonata"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27850-GPT.png" alt="Illustration of SCP-27850" />
+        
+<h3>Description:</h3>
+<p>SCP-27850 is a ritualistic process attributed to a location colloquially termed as "The Backrooms," an extradimensional space composed of an infinite number of rooms and corridors resembling unfurnished commercial office spaces, industrial complexes, and similar structures. The ritual purportedly allows for controlled communication and interaction with SCP-4971-▽, an entity self-titled "The One Who Knows Silence In The Earth" (henceforth designated as SCP-4971-▽).</p>
+<p>SCP-4971-▽ is an anomalous, sapient entity whose primary characteristic is its influence over silence and cessation of motion at a quantum level in its immediate vicinity, essentially creating zones devoid of kinetic and potential energy states. This is evidenced by the suspension of atomic and molecular vibration, leading to absolute zero temperatures and cessation of all conventional forms of energy transfer.</p>
+<p>The entity exhibits in-depth knowledge of the Backrooms and possibly other anomalous locales or objects. Due to the potential utility in utilizing SCP-4971-▽'s knowledge and its unique containment capabilities, SCP-27850 has been classified as Thaumiel.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27850 is to be conducted within a specialized containment chamber located in Site-██, which simulates an environment visually and spatially similar to the Backrooms. Access is strictly limited to personnel with Level 4/27850 clearance or higher. The ritual requires the presence of three D-class personnel, one Level 4 researcher (designated the 'conductor'), and two armed security personnel.</p>
+<p>Due to the inherent risks involved with interacting with SCP-4971-▽, strict protocols are in place to prevent the entity's silence effect from uncontrollably propagating and to protect the involved personnel from the absolute zero conditions. Personnel must be equipped with specialized insulated suits with independent life support and communication systems.</p>
+<p>The ritual's steps are not to be disclosed in this document for security reasons and to prevent unauthorized attempts to contact SCP-4971-▽.</p>
+<p>In the event of containment breach caused by SCP-4971-▽'s influence spreading beyond the containment chamber, Site-██ is to initiate Protocol Erebus, a site-wide emergency response that includes the immediate evacuation of non-essential personnel and the activation of heat-based countermeasures designed to counteract SCP-4971-▽'s zone of influence.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-27850 was discovered after multiple accounts of missing persons were reported, with the last known locations being near suspected entrances to the Backrooms. An undercover Foundation research team traced these disappearances to an esoteric cult known as "The Order of the Silent Earth," which had been utilizing SCP-27850 to interact with SCP-4971-▽. Following this discovery, a raid was conducted, leading to the containment of SCP-27850's ritual framework and several key cult members, who provided further information under interrogation. </p>
+<h3>Addendum 2: Experiment Log</h3>
+<p>SCP-27850 has been activated multiple times under controlled conditions to better understand SCP-4971-▽ and its capabilities. The following is a brief overview of notable experiments.</p>
+<h4>Experiment 27850-03:</h4>
+<ul>
+<li><strong>Purpose:</strong> Initial test of the ritual's effectiveness outside the influence of the cult.</li>
+<li><strong>Result:</strong> SCP-4971-▽ was successfully contacted, briefly halted all motion within the containment chamber, and communicated via tapping Morse code on the walls.</li>
+<li><strong>Notes:</strong> Entity requested exchange of knowledge for unknown reasons.</li>
+</ul>
+<h4>Experiment 27850-07:</h4>
+<ul>
+<li><strong>Purpose:</strong> To establish a more efficient communication method with SCP-4971-▽.</li>
+<li><strong>Result:</strong> Entity provided schematics for a device that facilitates direct telepathic communication with the conductor of the ritual.</li>
+<li><strong>Notes:</strong> Further communication revealed SCP-4971-▽'s interest in the containment of other SCP entities.</li>
+</ul>
+<h4>Experiment 27850-15:</h4>
+<ul>
+<li><strong>Purpose:</strong> Testing the potential use of SCP-4971-▽'s zone of influence to contain a secondary anomalous entity (SCP-███).</li>
+<li><strong>Result:</strong> SCP-███ was successfully suspended in a state of total inactivity during interaction with SCP-4971-▽. However, SCP-███'s effects resumed with increased intensity once removed from SCP-4971-▽'s influence.</li>
+<li><strong>Notes:</strong> SCP-27850 and SCP-4971-▽ may be used as an emergency containment measure, but long-term effects on other SCPs are unpredictable.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<blockquote>
+<p>An interview was conducted by Dr. ██████ with SCP-4971-▽ to determine the entity's origins and motives.</p>
+<p><strong>Dr. ██████:</strong> What is your purpose in assisting the Foundation?</p>
+<p><strong>SCP-4971-▽:</strong> Through solitude, I've become a witness to the unseen. The threads holding reality are fraying. I aid, for in silence, there is understanding. Preservation aligns with my will.</p>
+<p><strong>Dr. ██████:</strong> How are you able to know so much about the universe and other anomalies?</p>
+<p><strong>SCP-4971-▽:</strong> In the quiet, one listens to the whispers of creation. Entities like myself are old, as old as the silence that filled the void before the stars sang. My knowledge is the accumulation of countless eons.</p>
+<p><strong>Dr. ██████:</strong> Is there a risk to the Foundation or reality from conducting SCP-27850?</p>
+<p><strong>SCP-4971-▽:</strong> As the ritual is a bridge between spaces, caution is your ward. But fear not the silence I bring, for it is the purest form of order amidst chaos.</p>
+<p>Additional interviews are scheduled to further explore SCP-4971-▽'s insights into anomalous phenomena and potential collaboration on containment efforts.</p>
+</blockquote>
+
+    </div>
+    
