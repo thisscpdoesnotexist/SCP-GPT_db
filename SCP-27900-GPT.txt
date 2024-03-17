@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27900 is  Air Conditioner Window Infinite Thermostat </h3> </center>
+
+    <h3>Item #: SCP-27900 - "The Gateway Draft"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27900-GPT.png" alt="Illustration of SCP-27900" />
+        
+<h3>Description:</h3>
+<p>SCP-27900 is an outdated air conditioning unit of the brand ██████, model number █████, typically designed for window-mounting. The device was manufactured in the 1980s and shows signs of wear commensurate with its age. Notably, SCP-27900 possesses an analog rotary thermostat that, when turned beyond its maximum setting, engages an anomalous function.</p>
+<p>When SCP-27900's thermostat is rotated past the typical limit, it emits a low-frequency hum and draws substantial electrical power. Investigations reveal it's not cooling the immediate environment but instead, cooling a variable, non-physical space. It is theorized that the device affects the temperature in an adjacent reality or dimension, hereafter referred to as "SCP-27900-A."</p>
+<p>Instances of contact with entities from SCP-27900-A have been recorded following activation of the SCP's anomalous properties. For safety reasons, all interactions with entities from SCP-27900-A must be approved and overseen by Level 3 personnel or higher.</p>
+<p>There is no discernible pattern or limitation to the depicted realities of SCP-27900-A, seemingly ranging from mundane parallel Earths to vastly different landscapes, some even lacking recognizable laws of physics.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27900 is to be stored in a standard safe-class containment locker equipped with power supply and security measures at Site-██. Access to SCP-27900 is restricted to personnel with Level 2 clearance or higher. The thermostat is to be locked in a neutral position when not in use, to prevent accidental activation.</p>
+<p>In case of testing or approved use, all procedures must be held in a controlled environment within a specialized containment chamber with a reinforced Faraday cage to prevent potential electrical hazards. At least two (2) armed security personnel must be present, and an emergency shutdown protocol should be in place to deactivate SCP-27900 remotely if necessary.</p>
+<p>If SCP-27900 is activated for any length of time, the surrounding area must be quarantined, and environmental readings should be taken to monitor for reality alteration effects.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27900 was discovered in ████████, Florida after reports of unusual weather patterns and phenomena within an apartment complex. An embedded Foundation agent responded and, upon discovering the device, relocated it and the affected tenants to Site-██. Amnestics were administered to non-Foundation witnesses.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 27900-01:</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Procedure:</strong> The thermostat was turned past its maximum setting for five (5) minutes.</li>
+<li><strong>Results:</strong> The room's temperature decreased rapidly. Upon reaching 5°C, an opaque, shimmering threshold appeared in the containment chamber. The thermal camera showed a reading of -15°C from within the threshold. No exploration was attempted.</li>
+<li><strong>Notes:</strong> Threshold closed upon powering down SCP-27900.</li>
+</ul>
+<h4>Experiment 27900-05:</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Procedure:</strong> SCP-27900 activation followed by deployment of a remote drone through the threshold.</li>
+<li><strong>Results:</strong> Drone footage revealed a barren, icy landscape with a clear purple sky. The drone encountered what appeared to be an ice sculpture of a humanoid figure that moved to wave at the camera upon noticing the drone. The sculpture did not emit heat according to thermal imaging.</li>
+<li><strong>Notes:</strong> Further expeditions approved to understand SCP-27900-A inhabitants.</li>
+</ul>
+<h3>Addendum 3: Incident Report</h3>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Incident:</strong> During Experiment 27900-08, an entity from SCP-27900-A (later designated SCP-27900-A1) crossed into our reality. The entity was humanoid, with elongated limbs and a featureless face. It interacted peacefully with the research team, communicating through a series of chimes and temperature fluctuations.</li>
+<li><strong>Containment:</strong> SCP-27900-A1 was contained temporarily while a dialogue was attempted. After 72 hours, it returned through SCP-27900's threshold of its own accord.</li>
+<li><strong>Notes:</strong> SCP-27900-A1's visit provided significant insights into SCP-27900's capabilities and potential uses. A protocol for peaceful contact with SCP-27900-A entities is under development.</li>
+</ul>
+<p>Future explorations have been scheduled to establish a deeper understanding of SCP-27900-A, with particular interest in the potential exchange of information with SCP-27900-A entities. However, the ethical implications of such interactions are under stringent review by the Ethics Committee.</p>
+
+    </div>
+    
