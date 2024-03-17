@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27897 is  A Infinite Phone Battery  </h3> </center>
+
+    <h3>Item #: SCP-27897 - "Eternal Connection"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27897-GPT.png" alt="Illustration of SCP-27897" />
+        
+<h3>Description:</h3>
+<p>SCP-27897 is a smartphone battery that exhibits an anomalous ability to maintain a full charge indefinitely, regardless of the energy being drawn from it. The battery is of a standard Lithium-ion make, closely resembling those produced by [REDACTED] in the year 2016. Upon discovery, SCP-27897 was installed in a smartphone model [REDACTED], wherein it has remained operational without the need for recharging since acquisition.</p>
+<p>SCP-27897 differs only slightly in weight from a standard battery of its make and model, with a mass approximately 0.8 grams heavier. SCP-27897 does not produce additional heat and has not shown any physical or chemical degradation. All attempts to replicate the technology or phenomena of SCP-27897 have thus far failed.</p>
+<p>The device housing SCP-27897 has been modified to allow for continuous data retrieval and energy output monitoring. SCP-27897 demonstrates the ability to power the smartphone beyond the design limitations of said device, including non-stop usage of high-energy-demand functions such as video recording and application processing.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27897 is to be contained in a standard secure locker within Site-77. Access to SCP-27897 is restricted to personnel with Level-2 clearance or higher and is subject to approval by at least one Level-3 senior researcher assigned to the object.</p>
+<p>While SCP-27897 poses no immediate risk of breach or danger under normal conditions, standard containment is focused on preventing unauthorized research and potential technological breaches that may arise from the uncontrolled spread of SCP-27897's properties. In the unlikely event of any behavioral change or unexplained fluctuation in SCP-27897's functionality, all personnel are to evacuate the immediate vicinity, and containment breach protocols are to be executed.</p>
+<p>The foundation has installed an experimental rig for SCP-27897 to power a variety of devices, acting as a precaution to measure the full extent of its capabilities and to ensure it remains under load continuously. This setup is checked bi-weekly for signs of wear or anomalous changes.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27897 was initially discovered in [REDACTED], California, after reports on Internet forums described a second-hand smartphone with a battery that "never seems to die." Foundation web crawlers flagged these reports, and a small team was dispatched to retrieve the item. Class-A amnestics were administered to the previous owner and all individuals with knowledge of the item, and a generic smartphone was left in place of SCP-27897 to prevent suspicion.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>Experiment A: Basic Functionality Test</strong>
+  <em>Procedure:</em> SCP-27897 was installed in a smartphone and was operated continuously by Foundation personnel running high-energy-demand applications.
+  <em>Result:</em> After 672 hours of continuous operation, SCP-27897 maintained a charge state of 100%. The smartphone showed signs of stress due to overheating but was otherwise functional. SCP-27897 remained unaffected.</p>
+</li>
+<li>
+<p><strong>Experiment B: Energy Output Test</strong>
+  <em>Procedure:</em> SCP-27897 was connected to a series of LED bulbs designed to draw power equivalent to its rated capacity continuously.
+  <em>Result:</em> SCP-27897 powered the bulbs indefinitely, without any loss of charge or visible degradation.</p>
+</li>
+<li>
+<p><strong>Experiment C: Exposure to Extreme Conditions</strong>
+  <em>Procedure:</em> SCP-27897 was subjected to temperatures ranging from -40°C to 85°C while powering a standard test device.
+  <em>Result:</em> SCP-27897 operated within normal parameters regardless of the temperature changes. The test device's operational limits were exceeded before any effect on SCP-27897 was noted; the experiment was then halted to prevent damage to monitoring equipment.</p>
+</li>
+<li>
+<p><strong>Experiment D: Attempted Dismantling</strong>
+  <em>Procedure:</em> Technicians attempted to dismantle SCP-27897 to analyze its internal structure.
+  <em>Result:</em> All attempts to dismantle or open SCP-27897 have failed. Tools break or malfunction when used on SCP-27897, and all direct physical intervention ceases to affect the item approximately 0.5 cm from its surface.</p>
+</li>
+</ul>
+<h3>Addendum 3: Researcher's Note</h3>
+<p>Dr. ████████ has posited that SCP-27897's properties may be harnessed for Foundation use in extended field operations. While this potential application is promising, concerns about unforeseen consequences derived from SCP-27897's anomalous properties have led to a conservative approach in any off-site use. Current containment procedures and usage restrictions will remain in place until further notice.</p>
+<p>Further studies are ongoing to understand the origins of SCP-27897's anomalous properties and any potential applications or threats associated with its capabilities. SCP-27897 remains a curiosity among Safe class objects due to its exceptional and yet single-faceted anomaly.</p>
+
+    </div>
+    
