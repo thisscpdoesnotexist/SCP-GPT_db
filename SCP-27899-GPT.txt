@@ -1,0 +1,35 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27899 is  Five Nights at SCP’s Night Shift At SCP’s </h3> </center>
+
+    <h3>Item #: SCP-27899 - Five Nights at SCP’s</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27899-GPT.png" alt="Illustration of SCP-27899" />
+        
+<h3>Description:</h3>
+<p>SCP-27899 (also known by the informal moniker “Five Nights at SCP’s”) is a seemingly normal security booth measuring 1.5m x 1.5m x 2.5m, equipped with a desk, chair, multiple monitors, a telephone, and other standard security paraphernalia. The exterior is nondescript and bears no unusual markings or signage. However, SCP-27899 possesses anomalous properties that manifest between the hours of 12 AM and 6 AM local time. </p>
+<p>During these hours, a subject (hereafter referred to as the "Security Officer") within SCP-27899 is subject to a series of paranormal events that intensify over the course of five consecutive nights. These events seem to be hallucinatory or psychological in nature and include visual and audio manifestations of various known SCP entities, despite the onsite absence of such entities. The Security Officer is also unable to exit SCP-27899 during these hours, finding the door impossible to open by any means until the end of the shift at 6 AM. </p>
+<p>Testing has revealed that the Security Officer is exposed to increasingly stressful scenarios, swiftly escalating in danger and perceived threat level each night. They are provided with several tools to manage these threats, such as security doors, lights, and a rudimentary camera system to track the movement of entities. All tools available to the Security Officer consume a finite power resource, requiring strategic usage to last through the night.</p>
+<p>Despite the lucid and realistic sensations, no Security Officer has ever been physically harmed by the anomalies within SCP-27899, and no breaches or containment failures have been linked to the experiences of the Security Officers therein.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27899 is to be housed in a containment chamber within Site-██, accessible only to personnel with Level 2 security clearance or above. The containment chamber must be monitored at all times via external security camera to ensure that no unauthorized entry occurs.</p>
+<p>Testing with SCP-27899 is only to be conducted with D-Class personnel that have been fully briefed on their role and the non-lethal nature of the SCP. All subjects must undergo a full psychological evaluation both before and after their experience with SCP-27899 to assess any lasting effects.</p>
+<p>Power to the SCP should be cut off outside of testing hours to prevent accidental interaction with its anomalous properties, and a failsafe mechanism has been installed to shut down and reboot the containment environment in case of emergency or breach protocol.</p>
+<p>Following the discovery of SCP-27899’s properties, all research is to be overseen by Dr. ██████, who maintains comprehensive logs of each individual test for later analysis and cross-referencing with SCP entity records.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27899 was first discovered in an abandoned amusement park in ████████, following reports of a "haunted security booth." Local legends suggested that a series of night guards had reported disturbing occurrences before disappearing or ceasing to show up for their shifts. SCP Foundation agents secured the site and moved the object to Site-██ for further analysis.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li><strong>Night 1:</strong> D-Class personnel report initial confusion and unease. Sightings of SCP-173 and SCP-106 were reported, but these were quickly understood to be hallucinations. Power management was described as manageable.</li>
+<li><strong>Night 2:</strong> Security Officer reports increased tension; entities appear more frequently and power drain becomes a notable issue. Auditory hallucinations become more vivid, including scraping, laughter, and indistinct whispers.</li>
+<li><strong>Night 3:</strong> Security Officer experiences significant stress; the frequency of entity encounters necessitates careful power management. The subject reported an encounter with SCP-087-B and visible distress was observed.</li>
+<li><strong>Night 4:</strong> Security Officer reports extreme paranoia, continuous auditory and visual anomalies, and several power outages. Use of security doors to block the perceived entities becomes a reflexive action.</li>
+<li><strong>Night 5:</strong> Security Officer becomes incapacitated with fear, often screaming or muttering to themselves about SCP-966. Power supply is depleted by 4 AM, forcing the subject to rely on hiding under the desk and minimal light usage until the conclusion of the shift.</li>
+</ul>
+<h3>Addendum 3: Observations &amp; Interview Transcripts</h3>
+<p>Extracts from de-briefings with D-Class personnel who completed all five nights at SCP-27899 have provided valuable insights into the psychological tolerance of the human mind under the influence of anomalous stress factors. The information gathered will inform future therapeutic methods for Foundation personnel affected by psychological SCPs.</p>
+<p>An ongoing study spearheaded by Dr. ██████ is investigating whether exposure to SCP-27899 might serve as an effective training tool for strengthening mental resilience among field agents, though ethical considerations are still under debate.</p>
+
+    </div>
+    
