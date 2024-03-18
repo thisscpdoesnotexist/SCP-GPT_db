@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27916 is  A Infinite Floor </h3> </center>
+
+    <h3>Item #: SCP-27916 - "The Neverending Parlor"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27916-GPT.png" alt="Illustration of SCP-27916" />
+        
+<h3>Description:</h3>
+<p>SCP-27916 is a Victorian-style parlor located within a derelict mansion in rural England. The room initially appears to be a typical, albeit aged, 4m x 4m room, with a ceiling height of 3m. However, the parlor exhibits an anomalous property when any individual enters and attempts to traverse its wooden floor, which extends infinitely in all directions, disregarding the physical limitations of the walls observed from the outside.</p>
+<p>The parlor remains fixed in its original dimensions when viewed from the outside, and any attempts to observe the infinite property from an external viewpoint have been met with failure; it appears solely as a finite space.</p>
+<p>The infinite extension of the floor ceases to function when any individual ceases movement or expresses a clear intent to leave SCP-27916. At this point, the walls, ceiling, and return to their perceived finite dimensions, and individuals may exit the room normally. However, the infinite extension will resume upon any new attempt to cross the room.</p>
+<p>SCP-27916's infinite extension exhibits no observable end. It is hypothesized that the space within is a pocket dimension with its own set of physical laws. Objects left on the floor remain stationary relative to the mansion's fixed reference frame and do not experience any form of decay, further suggesting an abnormal temporal state within SCP-27916.</p>
+<p>No dangerous entities or materials have been encountered within SCP-27916, and its ambient environment reflects that of a typical, albeit old, parlor. However, the potential for psychological effects due to prolonged exposure to the infinite feature is under continuous examination.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As SCP-27916 is immovable and contained by its nature, Site-██ has been established around the derelict mansion housing it. A security perimeter has been set up to prevent unauthorized entry. For research purposes, access to SCP-27916 is only granted to personnel with Level 2 clearance or higher, and they must be accompanied by at least one other researcher.</p>
+<p>Foundation personnel stationed at Site-██ are to conduct regular checks on the structural integrity of the mansion and ensure that the parlor remains in stable condition. Any significant changes to SCP-27916 or its surrounding environment are to be reported immediately.</p>
+<p>To mitigate psychological risks, personnel are forbidden from spending more than two hours within SCP-27916 during a single visit. Additionally, a standardized psychological evaluation is to be performed on any individual exiting the room.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27916 was discovered in 198█ after local reports of a "haunted mansion where space does not make sense." Foundation operatives embedded within local law enforcement were alerted and managed to secure the location shortly afterward.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 27916-A</h4>
+<ul>
+<li><strong>Subject:</strong> D-46201</li>
+<li><strong>Procedure:</strong> Subject instructed to walk straight ahead until further notice.</li>
+<li><strong>Results:</strong> Subject walked for approximately 3 hours without reaching any walls. The floor’s appearance remained consistent. Subject requested to stop due to fatigue and subsequently exited SCP-27916 with no ill effects.</li>
+</ul>
+<h4>Experiment 27916-B</h4>
+<ul>
+<li><strong>Subject:</strong> Remote-controlled vehicle equipped with GPS and a camera.</li>
+<li><strong>Procedure:</strong> Vehicle instructed to drive straight in one direction.</li>
+<li><strong>Results:</strong> After 24 hours of continuous operation, the vehicle had not reached any boundary, and GPS signals failed to provide a coherent location beyond what appeared to be the parlor's initial dimensions. The camera feed showed no change in scenery or environment.</li>
+</ul>
+<h4>Experiment 27916-C</h4>
+<ul>
+<li><strong>Subject:</strong> D-51059, equipped with enough provisions for 48 hours.</li>
+<li><strong>Procedure:</strong> Subject instructed to continue walking and document any changes in the environment or personal psychology.</li>
+<li><strong>Results:</strong> After 36 hours, subject reported a sensation of being "watched" and severe disorientation, despite no apparent change in SCP-27916. The subject was called back and exited the parlor exhibiting signs of psychological distress. A full psychological evaluation and treatment plan were prescribed.</li>
+</ul>
+<h3>Addendum 3: Incident Report 27916-1</h3>
+<p>On ██/██/20██, Researcher Dr. Eleanor Grant accidentally dropped a personal memento—a locket containing a family picture—while conducting an experiment within SCP-27916. Upon attempting to retrieve the locket, Dr. Grant experienced a temporary extension of SCP-27916's infinite floor property, adhering to the object's location relative to the researcher. No direct interaction with SCP-27916 had occurred prior.</p>
+<p>Further testing confirmed that SCP-27916's anomalous effects can be triggered by objects of emotional significance to individuals within the parlor. This revelation has prompted a revision of containment procedures to include a ban on personal items within SCP-27916.</p>
+
+    </div>
+    
