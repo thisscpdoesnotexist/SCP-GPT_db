@@ -1,0 +1,56 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27925 is  A Large Reptile With Spike Two Tail </h3> </center>
+
+    <h3>Item #: SCP-27925 - "Caudabifurca"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27925-GPT.png" alt="Illustration of SCP-27925" />
+        
+<h3>Description:</h3>
+<p>SCP-27925, codenamed "Caudabifurca," is a large reptilian entity measuring approximately 12 meters in length with two distinct spiked tails. Its scales exhibit a remarkable reflective property, which renders conventional camouflage ineffective. SCP-27925 has demonstrated high levels of intelligence and has shown an ability both to communicate in a rudimentary fashion using a series of growls and to solve complex problems.</p>
+<p>The creature's diet appears carnivorous, with a preference for large mammals, and it has been observed to engage in hunting behavior. In addition to its physical prowess, SCP-27925 exhibits anomalous abilities which include the emission of an electromagnetic pulse (EMP) from its tails and the capacity to momentarily phase through solid objects. These abilities pose significant containment challenges and risks to electronic security systems.</p>
+<p>Behaviorally, SCP-27925 is highly territorial and aggressive when provoked. Its interaction with humans has varied from cautious observation to overt hostility, especially when containment procedures are being enforced or when it perceives a direct threat to its well-being.</p>
+<p>Genetic analysis of SCP-27925 has proven inconclusive, as its DNA contains sequences that are non-native to Earth, suggesting possible extraterrestrial origin or genetic manipulation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27925 is to be contained within a multi-layered, high-security enclosure at Site-███. The enclosure must consist of an inner containment made from solid steel walls, 1-meter thick, and an outer layer made from lead-lined reinforced concrete to prevent the creature from phasing through or emitting EMPs externally.</p>
+<p>Security personnel monitoring SCP-27925 must use non-digital observation equipment and remain outside the creature's EMP range, which extends up to 20 meters from its tails. All electrical systems within this radius must be shielded to military-grade EMP-resistant standards.</p>
+<p>Feeding is to occur twice weekly, with live prey being introduced into the enclosure using a pneumatic delivery system. Interaction with SCP-27925 requires the presence of an on-site xenobiologist and a Rapid Response Team. All personnel are advised to maintain a safe distance and are prohibited from entering the enclosure unless absolutely necessary and when SCP-27925 has been sedated through aerosolized tranquilizers.</p>
+<p>In the event of a breach, Site-███ is to initiate a facility-wide lockdown and activate EMP-safe countermeasures. An ASF (Armed Site Forces) unit equipped with specialized EMP-resistant armor and weaponry is to be dispatched to recontain SCP-27925.</p>
+<h3>Addendum 1: Incident Report 27925-Alpha</h3>
+<h4>Addendum 1-A: Summary</h4>
+<p>On ██/██/████, SCP-27925 breached containment for the first time, exploiting an unshielded ventilation opening. The breach resulted in multiple casualties and demonstrated the creature's ability to disrupt electronic systems and resist standard recontainment strategies.</p>
+<h4>Addendum 1-B: Containment Reevaluation</h4>
+<p>After Incident 27925-Alpha, containment protocols were revised to prevent future breaches. Additional physical barriers were implemented, and current EMP-resistant shielding was upgraded.</p>
+<h3>Addendum 2: Experiment Log 27925</h3>
+<h4>Addendum 2-A: Experiment 27925-01</h4>
+<p><strong>Objective:</strong> To assess the range and effect of SCP-27925's EMP abilities.<br />
+<strong>Procedure:</strong> Four drones were flown at varying distances toward SCP-27925.<br />
+<strong>Results:</strong> At 20 meters, the EMP was strong enough to disable all drones instantly.<br />
+<strong>Analysis:</strong> Effective EMP range confirmed. Future electronic devices used in containment or research must be shielded accordingly.</p>
+<h4>Addendum 2-B: Experiment 27925-02</h4>
+<p><strong>Objective:</strong> To determine the limits of SCP-27925's phasing ability.<br />
+<strong>Procedure:</strong> SCP-27925 was provided with walls of increasing thickness and material strength in a controlled environment.<br />
+<strong>Results:</strong> SCP-27925 phased through up to 50 cm of concrete but was unable to pass through the steel layer.<br />
+<strong>Analysis:</strong> Limitations of phasing ability established, informing containment construction requirements.</p>
+<h4>Addendum 2-C: Experiment 27925-03</h4>
+<p><strong>Objective:</strong> To establish a communication baseline with SCP-27925.<br />
+<strong>Procedure:</strong> A series of signals and objects were introduced to SCP-27925 to prompt reactions.<br />
+<strong>Results:</strong> SCP-27925 responded distinctly to geometric shapes and specific tones, disregarding others.<br />
+<strong>Analysis:</strong> Communication may be possible; further investigation recommended.</p>
+<h3>Addendum 3: Observation Logs</h3>
+<h4>Addendum 3-A: Behavioral Study</h4>
+<p>Over the course of several months, SCP-27925 has been observed to engage in complex nest-building behaviors, utilizing materials from its enclosure to construct a lair. Researchers have postulated that this may be indicative of a natural nesting instinct or territorial marking.</p>
+<h4>Addendum 3-B: Social Interaction</h4>
+<p>On multiple occasions, SCP-27925 has been observed interacting with its own reflection in a manner that suggests self-awareness or possibly loneliness. Experimentation with mirrors has led to a decrease in aggressive displays when humans are visible, implying recognition of individual humans or an understanding of reflections.</p>
+<h3>Addendum 4: Researcher Notes</h3>
+<h4>Addendum 4-A: Dr. ██████ Notes</h4>
+<p>"We may be dealing with an entity that is far more complex than a simple predatory reptile. The cognitive abilities of SCP-27925 should not be underestimated, and I recommend caution in any direct interaction. A deeper understanding of its anomalous abilities is vital to ensuring continued containment and the safety of Site-███ personnel."</p>
+<h3>Addendum 5: Related Documents</h3>
+<h4>Addendum 5-A: Recovery Report</h4>
+<p>SCP-27925 was first discovered after multiple reports of livestock disappearances and anomalous electromagnetic activity in rural [REDACTED]. Foundation field agents were dispatched, resulting in the successful containment of SCP-27925 after a severe confrontation.</p>
+<h4>Addendum 5-B: Extraterrestrial Hypothesis</h4>
+<p>Given its non-native DNA sequences and anomalous abilities, there is ongoing research into the possibility that SCP-27925 originated from a non-terrestrial source. Collaboration with Foundation departments specializing in extraterrestrial anomalies is ongoing.</p>
+
+    </div>
+    
