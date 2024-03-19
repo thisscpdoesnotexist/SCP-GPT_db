@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27941 is  A Infinite Elevator  </h3> </center>
+
+    <h3>Item #: SCP-27941 - <em>The Infinite Descent</em></h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27941-GPT.png" alt="Illustration of SCP-27941" />
+        
+<h3>Description:</h3>
+<p>SCP-27941 is an anomalous elevator located within an abandoned corporate facility, the █████████, in ███████, USA. The exterior is unremarkable, resembling a standard commercial elevator constructed in the early 2000s. SCP-27941's interior mimics the appearance of typical elevators from the period, with mirrored walls and a ceiling-mounted fluorescent light fixture. The primary control panel contains floor buttons ranging from B5 (sub-basement 5) to 20 (20th floor); however, examination of the building's blueprints reveals only three basements and ten floors. The building's original designation of SCP-27941's floors does not correspond to any known architectural structure.</p>
+<p>Upon activation, SCP-27941 descends indefinitely, surpassing the physical confines of the building. The number of floors displayed on the LED panel inside the elevator continues to increase, with no upper or lower limit observed. The elevator's descent does not align with any known spatial dimensions and can apparently continue ad infinitum.</p>
+<p>SCP-27941 appears to have an empathic connection to its riders. The emotional state of the occupants seems to modulate the experiences encountered on different floors. Encounters range from benign and surreal to hostile and hazardous environments. The floors visited exhibit various anomalous properties, which include altered physics, manifestations of cognitive hazards, and the appearance of entities both sentient and non-sentient (designated SCP-27941-1 through SCP-27941-n).</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-27941's stationary nature and the potential utility in the study of other SCPs, containment is to be maintained on-site. A permanent research facility has been established around SCP-27941, designated Site-██. Access to SCP-27941 requires Level 4 clearance and is strictly limited to research and exploration purposes.</p>
+<p>A security perimeter has been established to prevent unauthorized access. Standard disinformation protocols are in place to conceal the facility's purpose from the public. Security personnel are to be rotated on a monthly basis to avoid extended exposure to SCP-27941.</p>
+<p>Experiments involving SCP-27941 must be approved by at least two (2) Level 4 senior researchers. Expedition teams are to be equipped with psychological screening and counseling upon return. Recording devices, survival gear, and counter-cognitive hazard equipment are mandatory for exploration attempts.</p>
+<h3>Addendum 1: Exploration and Incident Reports</h3>
+<p><strong>Subsection A: Experiment Log</strong></p>
+<ul>
+<li>
+<p>Experiment #27941-E1: D-Class personnel instructed to enter SCP-27941 and descend to floor 50. Upon arrival, the subject reported a floor resembling a lush forest with unknown flora. The subject was recalled successfully after two hours of exploration.</p>
+</li>
+<li>
+<p>Experiment #27941-E2: D-Class personnel with a history of violent behavior entered SCP-27941, descending to floor 102. Audio feed indicated an environment similar to an urban warzone; the subject encountered hostile entities (SCP-27941-37) and was lost in contact.</p>
+</li>
+</ul>
+<p><strong>Subsection B: Notable Incidents</strong></p>
+<ul>
+<li>Incident #27941-I3: During an unscheduled descent caused by a containment breach involving SCP-████, the elevator stopped on floor -12, an area resembling a control room with advanced technology not aligned with contemporary human development. Notably, the entities within provided valuable information to contain SCP-████. This interaction led to the reclassification of SCP-27941 as Thaumiel.</li>
+</ul>
+<h3>Addendum 2: Researcher Notes and Observations</h3>
+<p><strong>Subsection A: Emotional Influence on Floor Manifestations</strong></p>
+<p>Initial hypotheses suggest that SCP-27941 responds to the collective emotional and psychological state of its occupants. Efforts to control and predict floor manifestations through psychological screening and emotional manipulation are ongoing. This discovery has fundamental implications for understanding SCP-27941's operational mechanisms.</p>
+<p><strong>Subsection B: Communications from SCP-27941-Entities</strong></p>
+<p>Various entities encountered during explorations have attempted communication with the exploration teams. Some instances have revealed knowledge of other SCPs or events that suggest either precognition or access to alternate temporal streams. The entities encountered on floors corresponding to negative integers (e.g., -12) have exhibited more cooperative behavior and have, on occasion, provided assistance or information beneficial to the Foundation's interests.</p>
+<h3>Addendum 3: Cross-Testing Authorization</h3>
+<p>Given SCP-27941's unique properties, cross-testing with other SCPs may yield valuable insights into their behavior, origins, or potential containment strategies. However, due to the high risk of unforeseen complications or containment breaches, any cross-testing will require unanimous approval from the O5 Council.</p>
+
+    </div>
+    
