@@ -1,0 +1,52 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-27989 is  Infinite Year </h3> </center>
+
+    <h3>Item #: SCP-27989 - "The Infinite Yearbook"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-27989-GPT.png" alt="Illustration of SCP-27989" />
+        
+<h3>Description:</h3>
+<p>SCP-27989 is a leather-bound yearbook of unidentifiable origin, estimated to date roughly to the year 1970, judging by the wear of the materials and design aesthetics. The yearbook, titled "Memories of Infinity," is an anomaly due to its inexhaustible content. Every page turn reveals a new set of pages, each filled with photographs and handwritten comments, resembling typical high school yearbook entries. However, the individuals depicted do not correlate with any known existing or historical schools, and it appears to include people from various timelines and realities. The clothing styles and technology in the photographs range from turn-of-the-century fashion to conjectural future developments.</p>
+<p>Additional anomalous properties include the following:</p>
+<ol>
+<li>Individuals who have viewed their likeness within SCP-27989's pages report experiencing memories of events they have never actually participated in.</li>
+<li>Attempts to duplicate or photograph pages result in images of blank paper or unrelated yearbook pages.</li>
+<li>Some viewers have discovered photographs of SCP personnel within its pages, often accompanied by predictive information regarding those personnel's futures.</li>
+</ol>
+<p>SCP-27989 exerts mild cognitohazardous effects; prolonged exposure has led to subjects developing false memories or an obsession with events depicted within the yearbook. To prevent undue psychological impact, viewing of SCP-27989 is strictly regulated and monitored.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-27989 is to be kept in a secure containment locker at Site-73. Access to SCP-27989 is prohibited without express permission from two Level 4 personnel. Those who are approved for access must go through a psychological evaluation prior to and following the interaction with SCP-27989.</p>
+<p>All viewing sessions are limited to one hour, under surveillance by a security team trained to resist cognitohazardous effects. A record is to be kept of all individuals and corresponding pages viewed during each session.</p>
+<p>After each viewing session, individuals must undergo a 14-day observation period to monitor for any lasting psychological effects, and amnestics may be administered if any adverse symptoms arise. Electronic recording devices are disallowed within the containment room, and any attempt at duplicating the contents of SCP-27989 is strictly forbidden.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-27989 was originally discovered at an estate sale in ████████, New Hampshire, after reports of the host's sudden onset of dementia and subsequent reversion to teenage behavioral patterns. Foundation agents embedded in local law enforcement were dispatched. Subject vehemently claimed to be reliving her high school years, and the yearbook was found among her possessions. The subject was taken into Medical Care at Site-73, and SCP-27989 secured.</p>
+<h3>Addendum 2: Experiment Logs</h3>
+<h4>Experiment Log 27989-01:</h4>
+<ul>
+<li><strong>Subject:</strong> D-9842</li>
+<li><strong>Procedure:</strong> D-9842 was instructed to turn pages of SCP-27989 and report on content.</li>
+<li><strong>Results:</strong> D-9842 found a page with her likeness, accompanied by the caption “Most Likely to Cross the Barrier of Realities.” After the experiment, D-9842 suffered from confusion and identity crisis but no long-term effects.</li>
+<li><strong>Notes:</strong> D-9842's account correlated with closed investigations involving cross-dimensional anomalies.</li>
+</ul>
+<h4>Experiment Log 27989-03:</h4>
+<ul>
+<li><strong>Subject:</strong> Dr. Ian H███</li>
+<li><strong>Procedure:</strong> Dr. H███ volunteered to interact with SCP-27989 due to his expertise in cognitohazards.</li>
+<li><strong>Results:</strong> Dr. H███ reported a page that detailed his promotion to a Level 5 position, an event expected in his career trajectory. Later, it was found that the predicted promotion date coincided with an open slot in the administrative team.</li>
+<li><strong>Notes:</strong> It appears SCP-27989 can have predictive properties. Memetic barriers have been suggested to be reinforced for staff involved with SCP-27989.</li>
+</ul>
+<h4>Experiment Log 27989-07:</h4>
+<ul>
+<li><strong>Subject:</strong> Dr. Linda J█████</li>
+<li><strong>Procedure:</strong> Dr. J█████ was looking to explore the future predictive elements of SCP-27989.</li>
+<li><strong>Results:</strong> Upon interaction, a page was found showing a catastrophic containment breach involving several Keter-class SCPs. Dr. J█████ immediately ordered an audit of containment procedures, which resulted in prevention of a potentially critical series of breaches.</li>
+<li><strong>Notes:</strong> SCP-27989's predictive utility has resulted in its reclassification as Thaumiel. Containment protocols have been updated to reflect this new utility.</li>
+</ul>
+<h3>Addendum 3: Incident Report 27989-A</h3>
+<p>On ██/██/20██, SCP-27989 spontaneously started producing photos and commentary of a non-existent "Class of 20██.” The pages detailed an SCP organization decades in the future, facing an unnamed existential threat. The Research Division was immediately alerted. The warning led to the discovery of a sleeper cell of rogue dissidents within the Foundation.</p>
+<p>Since this incident, SCP-27989 has been consulted periodically under strict protocols for Foundation strategic planning purposes. All information acquired thusly is to be strictly classified and handled by the O5-Council for examination.</p>
+
+    </div>
+    
