@@ -1,0 +1,49 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28066 is  Catalogue of Infinite Freaks </h3> </center>
+
+    <h3>Item #: SCP-28066 - Catalogue of Infinite Freaks</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28066-GPT.png" alt="Illustration of SCP-28066" />
+        
+<h3>Description:</h3>
+<p>SCP-28066, also known as the "Catalogue of Infinite Freaks," is a leather-bound book measuring 30 cm x 22 cm x 5 cm. The cover of SCP-28066 contains an engraved symbol resembling a circus tent, with the title embossed below it. SCP-28066 manifests an anomalous property that allows it to generate an infinite number of pages, which are filled with illustrations and descriptions of entities referred to as "freaks."</p>
+<p>Each entity (designated SCP-28066-A through SCP-28066-∞) appears to possess anomalous abilities and characteristics, some of which are extremely dangerous. It is currently believed that the entities described within SCP-28066 can be manifested into reality under certain, yet indistinct, circumstances associated with the reading and interaction with the catalogue. Due to the unpredictable nature of these manifestations and their potential for causing large-scale chaos, SCP-28066 has been designated as Keter class.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28066 is to be contained within a secure book vault at Site-113, equipped with humidity and temperature controls to prevent decomposition of the material. The vault must be locked with a biometric scanner, and access is to be limited strictly to personnel with Level 4 clearance and explicit permission from the current SCP-28066 project head.</p>
+<p>Under no circumstances are individuals to read from SCP-28066 without prior approval and a comprehensive containment strategy for potential SCP-28066-A manifestations. In the event of an SCP-28066-A manifestation, Mobile Task Force Eta-10 ("See No Evil") is to be deployed to recontain or neutralize the entity.</p>
+<p>All interactions with SCP-28066 are to be recorded, and any new manifestations of SCP-28066-A entities are to be documented immediately. A contingency plan, including facility-wide lockdown procedures and the use of Scranton Reality Anchors, has been implemented to prevent a potential CK-class reality restructuring event.</p>
+<h3>Addendum 1: SCP-28066 Acquisition Log</h3>
+<p>SCP-28066 was originally discovered in ████████, Russia, in the ruins of an old circus tent following reports of a "haunted carnival" that would sporadically appear and disappear, with witnesses describing various "monstrous performers." Foundation agents were deployed, and upon containment of several SCP-28066-A entities, the Catalogue of Infinite Freaks was secured with no further anomalous occurrences reported at the location.</p>
+<h3>Addendum 2: Selected Experiment Log</h3>
+<h4>Experiment 28066-01:</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> D-4053 instructed to read aloud page 13 of SCP-28066, which described SCP-28066-A-13, a humanoid figure with elongated limbs and the ability to phase through solid matter.</li>
+<li><strong>Result:</strong> SCP-28066-A-13 manifested in the containment chamber and attempted to phase through the wall. The chamber was reinforced with a steel lattice infused with a low concentration of ██████, which proved momentarily effective in hindering the entity's phasing capabilities until MTF Eta-10 could apprehend it.</li>
+<li><strong>Notes:</strong> SCP-28066-A-13 recontained successfully. Procedures updated to include countermeasures for phasing entities.</li>
+</ul>
+<h4>Experiment 28066-07:</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> D-8921 ordered to sketch the depiction of SCP-28066-A-32, a creature resembling a carnivorous plant with hypnotic abilities.</li>
+<li><strong>Result:</strong> SCP-28066-A-32 manifested partially, with several vines emerging from the page and attempting to ensnare D-8921. The subject was removed from the chamber before full manifestation occurred.</li>
+<li><strong>Notes:</strong> Study disproves the theory that full reading is necessary for manifestation. Visual reproduction may also trigger SCP-28066-A events.</li>
+</ul>
+<h4>Experiment 28066-16:</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> For this test, SCP-28066 was placed in a sealed chamber with no human contact.</li>
+<li><strong>Result:</strong> Random flickers of spectral images resembling SCP-28066-A entities were observed via surveillance. However, no full manifestations occurred.</li>
+<li><strong>Notes:</strong> Indicates that the presence of a human consciousness may be required for manifestation or that SCP-28066 exhibits a degree of sentience and will only manifest entities when observed.</li>
+</ul>
+<h3>Addendum 3: Incident Report 28066-Ω</h3>
+<p>On ██/██/20██, during an approved reading of SCP-28066 by Dr. ██████, SCP-28066-A-███, described as an entity capable of reality distortion, was accidentally manifested. The site experienced a localized reality shift, resulting in the temporal and spatial displacement of several research wings and the loss of ██ personnel. MTF Eta-10 was able to contain and neutralize SCP-28066-A-███ after the deployment of Scranton Reality Anchors and the unfortunate use of lethal force.</p>
+<p>After this event, the O5 Council approved the implementation of more stringent containment protocols and the prohibition of direct reading from SCP-28066 without utilization of remote drones and artificial intelligence units, specifically designed to handle and interpret the content without the risk of inadvertent manifestations.</p>
+<h3>Addendum 4: O5 Council Directive</h3>
+<p>Following the Incident Report 28066-Ω, all testing of SCP-28066 has been suspended indefinitely. Future testing proposals must be approved by unanimous vote of the O5 Council and shall consider the use of advanced thaumaturgical barriers, predictive algorithms, and extensive psychological screenings for all personnel involved. SCP-28066 has been reclassified as a top priority containment target, and a review of all similar anomalous items is underway to prevent related containment breaches.</p>
+<p>The underlying objective now is to ascertain the origins of SCP-28066 and to explore possible countermeasures to neutralize its reality-altering effects. Access to the Catalogue of Infinite Freaks is to be limited to essential research and containment actions only, and all knowledge pertaining to its content is to be classified at the highest level of secrecy to minimize the risk of information leakage or unauthorized attempts to harness its powers.</p>
+
+    </div>
+    
