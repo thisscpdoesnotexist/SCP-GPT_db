@@ -1,0 +1,49 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28091 is   [UNPUBLISHED] </h3> </center>
+
+    <h3>Item #: SCP-28091 - "Aegis of Janus"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28091-GPT.png" alt="Illustration of SCP-28091" />
+        
+<hr />
+<h3>Description:</h3>
+<p>SCP-28091 is a large, ornate mirror measuring 2.5 meters in height and 1.5 meters in width. The frame is carved from what appears to be marble, embedded with a variety of unknown luminescent gemstones. When inactive, the mirror's surface is reflective like any typical mirror. However, SCP-28091 is capable of functioning as a portal to alternate realities, with each reality corresponding to a unique timeline or dimension. It is hypothesized that the gemstones play a crucial role in the selection and stabilization of these realities.</p>
+<p>SCP-28091's anomalous properties manifest when a subject with a strong emotional or psychological connection to an event or entity in an alternate reality makes physical contact with the mirror. A corresponding alternate reality becomes accessible, and the reflective surface becomes translucent, depicting the selected reality as if it were a window rather than a mirror. Entry and exit from SCP-28091 are currently limited to sentient beings only; attempts to send inanimate objects through the mirror have resulted in their disintegration.</p>
+<p>Due to SCP-28091's potential for information gathering, strategic manipulation of events, and containment of extra-dimensional threats, it’s classified as Thaumiel. SCP-28091 is also sentient, responding to verbal and mental communication, and appears to have a form of prescience concerning potential threats to reality or the SCP Foundation.</p>
+<hr />
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28091 is to be housed in a secured, climate-controlled containment chamber at Site-██. Access is strictly limited to personnel with Level 4/28091 clearance or higher and requires written approval from at least two (2) members of the O5 Council. All interaction with SCP-28091 must be recorded and monitored by a minimum of two (2) Level 4 Research Staff.</p>
+<p>Staff entering SCP-28091's chamber must be psychologically screened to prevent inadvertent activation of its properties. Additionally, an Emergency Temporal Lockdown Protocol (ETLP) is in place to secure and isolate the containment chamber in the event that an alternate reality with catastrophic or potentially contaminating phenomena is accessed.</p>
+<hr />
+<h3>Addendum 1: Acquisition Log</h3>
+<p>SCP-28091 was first discovered during an archeological expedition in ████████, █████ on ██/██/████. The mirror was found in a sealed chamber, undisturbed for centuries. All members of the expedition were administered Class-B amnestics after Foundation retrieval.</p>
+<hr />
+<h3>Addendum 2: Testing Protocols and Logs</h3>
+<h4>Experiment Log A:</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Test Subject:</strong> D-9341 (convicted felon, screened for specific regrets)</li>
+<li><strong>Procedure:</strong> D-9341 instructed to touch the surface of SCP-28091 while focusing on a moment of intense regret from their past.</li>
+<li><strong>Result:</strong> The surface of SCP-28091 became translucent, and D-9341 observed an alternate version of events where the crime they committed did not take place. D-9341 attempted entry into the alternate reality but was prohibited by the research staff as a safety precaution. Upon cessation of contact, the mirror returned to a reflective state. D-9341 reported feelings of closure and acceptance after the experiment.</li>
+<li><strong>Notes:</strong> Further testing for potential therapeutic applications is under consideration.</li>
+</ul>
+<h4>Experiment Log B:</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Test Subject:</strong> Researcher Dr. ██████ (selected for their deep interest in historical events)</li>
+<li><strong>Procedure:</strong> Dr. ██████ was instructed to ask SCP-28091 to display the signing of the ██████████████ Treaty.</li>
+<li><strong>Result:</strong> The mirror displayed an unfamiliar reality where the treaty in question led to an extensive period of world peace. Dr. ██████, while maintaining physical contact with SCP-28091, vocalized a request to step into the displayed reality. Approval was granted under strict monitoring. Dr. ██████ reported significant differences in historical progression and returned with valuable information. The reality closed upon exit.</li>
+<li><strong>Notes:</strong> This experiment confirmed SCP-28091's utility in counterfactual historical analysis.</li>
+</ul>
+<hr />
+<h3>Addendum 3: Incident 28091-Alpha</h3>
+<p>On ██/██/████, SCP-28091 spontaneously activated without direct contact. The displayed reality was a hostile post-apocalyptic environment dominated by an unknown, aggressive, non-human species. Containment protocols were immediately enacted, and the ETLP was engaged. Dr. ██████ and other personnel in the chamber during the incident were quarantined for observation. No entities from the alternate reality crossed into ours.</p>
+<p>SCP-28091 communicated post-incident, expressing it had perceived a threat to our reality originating from the one displayed. It advised heightened surveillance on any and all dimensional anomalies detected within a 50 km radius of Site-██. This advice was taken into consideration, resulting in the successful interdiction of a nascent inter-dimensional breach two (2) weeks later.</p>
+<hr />
+<h3>Addendum 4: Ethical Considerations</h3>
+<p>Given the potential for exploitation and psychological harm, the Ethics Committee has advised stringent restrictions and oversight on experiments with SCP-28091. The possibility of altering significant events in either our or alternate realities represents a Pandora's box of ethical dilemmas and existential risks. SCP-28091's usage thus remains under continuous scrutiny, requiring a delicate balance between exploration, exploitation, and preservation of the multiverse's varied fabric of existence.</p>
+
+    </div>
+    
