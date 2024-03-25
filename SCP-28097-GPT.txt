@@ -1,0 +1,65 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28097 is  WIZARD COUNCIL 2024 BANNED SPELL LIST: "Greater Breakfast Storm, Menthol Torrent, Fireball by Mail, Taylor's Swift Execution, and Duplicate Crying Fire Skull." </h3> </center>
+
+    <h3>Item #: SCP-28097 - "Forbidden Spells Manifest"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28097-GPT.png" alt="Illustration of SCP-28097" />
+        
+<h3>Description:</h3>
+<p>SCP-28097 is a collection of five anomalous spells documented in the classified compendium titled "Wizard Council 2024 Banned Spell List". Each spell exhibits properties that pose a significant threat to global security and the veil of normalcy, potentially leading to widespread harm or societal disruption if not properly contained. The spells are as follows:</p>
+<ol>
+<li>
+<p><strong>Greater Breakfast Storm</strong>: This enchantment causes a torrential downpour of breakfast foods, which can lead to ecological disasters and economic disruption in the agriculture industry. The effects are localized within a 5 km radius and last for up to 72 hours.</p>
+</li>
+<li>
+<p><strong>Menthol Torrent</strong>: A spell that unleashes a powerful and continuous flow of chilling, mint-scented liquid that freezes and preserves anything in its path. While non-toxic, prolonged exposure can lead to hypothermia and environmental damage.</p>
+</li>
+<li>
+<p><strong>Fireball by Mail</strong>: An insidious curse that enables the sender to deliver a potent fireball to any recipient through standard postal services. This incendiary effect is undetectable by non-anomalous mail-scanning technologies.</p>
+</li>
+<li>
+<p><strong>Taylor's Swift Execution</strong>: A hex that, upon casting, causes the target to rapidly experience all life stages within a span of three minutes—culminating in instant death. The spell effect cannot be reversed and is considered inhumane.</p>
+</li>
+<li>
+<p><strong>Duplicate Crying Fire Skull</strong>: This necromantic spell creates a sentient flaming skull that screams in unison with the caster’s voice. When heard, duplicates of the skull materialize in the vicinity of listeners, perpetuating an exponential growth in numbers.</p>
+</li>
+</ol>
+<h3>Special Containment Procedures:</h3>
+<p>Given the incorporeal nature of these spells, standard physical containment methods are insufficient. The containment strategy for SCP-28097 focuses on suppression, misinformation, and counter-spell development.</p>
+<ul>
+<li>Distribution of the compendium containing knowledge of SCP-28097 must be restricted. All known copies are to be secured in a high-priority memetic hazard vault at Site-███, with access limited to personnel with Level 4 Clearance or above.</li>
+<li>A specialized team of Foundation Thaumaturgists and Anti-Memetic Agents, designated as MST (Mobile Specialized Team) Tau-5 "Spellbinders," is tasked with locating unauthorized practitioners of these spells and administering Class-A Amnestics.</li>
+<li>Task Force Omega-0 "Nullifiers" is assigned to develop, master, and cast protective wards and counter-spells that neutralize the effects of SCP-28097. These counter-measures must be constantly updated and disseminated to key Foundation sites and offices.</li>
+<li>A global disinformation campaign should be maintained to discredit reports of SCP-28097's effects as urban legends, hoaxes, or explainable meteorological and magical phenomena.</li>
+<li>Due to the high risk of SCP-28097’s manifestation, an "Immediate Response Scenario Ethics Waiver" has been approved, allowing for preemptive use of lethal force against non-compliant practitioners.</li>
+</ul>
+<h3>Addendum 1: Acquisition of SCP-28097</h3>
+<p>SCP-28097 was first identified during a conflux of anomalous events in M██████, England. Localized breakfast food precipitation, mass occurrences of frozen wildlife, and untraceable destructive fires raised Foundation alert. Following the discovery of the compendium during a raid on a suspected parahuman dwelling, analysis linked these phenomena to SCP-28097.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment #28097-E1</h4>
+<p><strong>Subject</strong>: D-9834
+<strong>Procedure</strong>: Subject was instructed to cast the "Greater Breakfast Storm" spell in a controlled environment.
+<strong>Result</strong>: A torrential downpour of eggs, bacon, and waffles manifested within the test chamber. All organic matter decomposed at an accelerated rate 30 minutes after the cessation of the spell. Custodial staff took preventive measures against vermin infestation.
+<strong>Note</strong>: "Seems to have more of a downside than an upside, economically. And let's not even get into the mess." - Dr. L█████</p>
+<h4>Experiment #28097-E2</h4>
+<p><strong>Subject</strong>: D-4692
+<strong>Procedure</strong>: Subject moderated to cast "Taylor's Swift Execution" on a plant to observe the effect on non-sentient life.
+<strong>Result</strong>: As anticipated, the plant's life cycle rapidly accelerated, blossoming and withering within three minutes. This confirmed the spell's efficacy on non-sentient targets.
+<strong>Note</strong>: "Confirming the spell doesn't discriminate. Ethical implications for usage are dire." - Ethics Committee</p>
+<h4>Experiment #28097-E3</h4>
+<p><strong>Subject</strong>: D-5417
+<strong>Procedure</strong>: Subject attempted to cast "Duplicate Crying Fire Skull" under heavy supervision and containment preparations.
+<strong>Result</strong>: Upon the skull's manifestation, 14 duplicates emerged within the first minute, causing minor structural damage before the counter-spell was successfully enacted. D-5417 reported intense psychological distress from the screaming skulls.
+<strong>Note</strong>: "Psi-Blockers recommended for future testing with this spell. We can't afford to have staff or D-class compromised mentally." - Dr. K████</p>
+<h4>Experiment #28097-E4</h4>
+<p><strong>Subject</strong>: D-1589
+<strong>Procedure</strong>: Subject tasked with casting "Fireball by Mail" while contained within a silicone-carbide envelope designed to suppress the spell's propagation.
+<strong>Result</strong>: The envelope successfully contained the fireball upon casting, but within hours the seal degraded, and a secondary containment protocol was initiated.
+<strong>Note</strong>: "We need to re-evaluate our containment material. No standard package will hold this for long." - Researcher M██████</p>
+<h3>Addendum 3: Ethics Review</h3>
+<p>Following the detailed review of the usage and containment of SCP-28097, the Ethics Committee has issued an injunction against further use of any component spells outside of emergency containment circumstances. They cite the unpredictable collateral damage and potential for massive loss of life. All knowledge and utilization of these spells must be strictly regulated by the O5 Council.</p>
+
+    </div>
+    
