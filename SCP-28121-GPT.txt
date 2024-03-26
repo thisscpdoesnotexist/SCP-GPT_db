@@ -1,0 +1,63 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28121 is  a successful zoo with only seven diseased rats </h3> </center>
+
+    <h3>Item #: SCP-28121 - "Pestilence's Menagerie"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28121-GPT.png" alt="Illustration of SCP-28121" />
+        
+<h3>Description:</h3>
+<p>SCP-28121 refers to a seemingly ordinary urban zoo, designated as ██████ Zoological Gardens, located in ████████, ██████. However, despite its normal appearance and operation during daylight hours, the zoo becomes anomalous shortly after sundown. Observations confirm that all animals observed by visitors and staff during the day disappear, and the pens, cages, and enclosures instead become inhabited by seven rats showing symptoms of advanced and various diseases.</p>
+<p>These rats, designated SCP-28121-1 through SCP-28121-7, appear to be common Rattus norvegicus but possess several anomalous properties. At night, any disease exhibited by one of the rats manifests in associated real-life outbreaks in surrounding human populations within a 50km radius of SCP-28121.</p>
+<p>Each rat corresponds to a particular pathology: SCP-28121-1 corresponds with bubonic plague; SCP-28121-2 with Hantavirus; SCP-28121-3 is tied to Lassa fever; SCP-28121-4 with Leptospirosis; SCP-28121-5 seems to cause outbreaks of Ebola; SCP-28121-6 is linked to the Marburg virus; and SCP-28121-7, the most unpredictable, has been associated with rapidly evolving strains of influenza.</p>
+<p>The mechanism of disease transmission from SCP-28121 to humans has yet to be fully understood, as no direct contact has been observed. Furthermore, efforts to terminate or remove any of the rats have resulted in immediate and severe disease outbreaks in the vicinity, far exceeding typical infection rates and virulence.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28121 is to be kept operational as a public zoo during the day to maintain its cover, staffed by Foundation personnel trained in both zoo operations and containment protocols. A no-fly zone and an electronic surveillance buffer are to be maintained around the perimeter to ensure no unauthorized visual recordings are taken of the anomalous activity after sundown.</p>
+<p>At night, the zoo is to be locked down and patrolled by armed security personnel equipped with hazmat gear. No one is to enter the enclosures of SCP-28121-1 through SCP-28121-7 between local sundown and sunrise.</p>
+<p>In the event of an SCP-28121-related disease outbreak, Foundation medical teams are to be deployed to administer treatment and disseminate a cover-up story involving a more common source of infection.</p>
+<p>To attempt to reduce the risks of widespread infections, continuous research efforts into a possible cure or vaccine for the diseases spread by the rats are mandatory and are to be conducted under BSL-4 conditions.</p>
+<h3>Addendum 1: Capture Log</h3>
+<ul>
+<li><strong>Capture Date:</strong> ██/██/20██</li>
+<li><strong>Location:</strong> ██████ Zoological Gardens, ████████, ██████.</li>
+<li><strong>Event:</strong> SCP-28121 was initially flagged by Foundation web crawlers following a pattern of unusual disease outbreaks in the area. Mobile Task Force Eta-10 ("See No Evil") was dispatched to the site and quickly identified the anomalous activity. Full containment was established within 72 hours.</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 28121-E1</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> Introduction of a healthy lab rat into the enclosure of SCP-28121-3.</li>
+<li><strong>Results:</strong> The healthy rat showed signs of Lassa fever within 3 hours. SCP-28121-3 appeared unphased by the presence of the additional rat, which expired 48 hours later.</li>
+<li><strong>Notes:</strong> The experiment confirmed the aggressive nature of the diseases carried by SCP-28121 instances.</li>
+</ul>
+<h4>Experiment 28121-E2</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> Attempted extraction of SCP-28121-7 for further study.</li>
+<li><strong>Results:</strong> Upon extraction of SCP-28121-7 from its enclosure, an immediate outbreak of an especially virulent strain of influenza occurred in ████████. SCP-28121-7 was returned to its enclosure, and the outbreak subsided within 12 hours.</li>
+<li><strong>Notes:</strong> No further attempts to remove SCP-28121 instances from the zoo have been approved following this incident.</li>
+</ul>
+<h4>Experiment 28121-E3</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> Implementation of ultraviolet light within SCP-28121 enclosures during nighttime.</li>
+<li><strong>Results:</strong> No discernible effect on the rats' activity or the associated disease outbreak patterns.</li>
+<li><strong>Notes:</strong> Further investigation into potential containment improvements is required.</li>
+</ul>
+<h3>Addendum 3: Incident Report 28121-IR7</h3>
+<h4>Incident 28121-IR7-A</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Details:</strong> A security breach occurred when a group of urban explorers managed to infiltrate the zoo after dark, bypassing the electronic surveillance buffer. Contact with the group was lost shortly after entry.</li>
+</ul>
+<h4>Incident 28121-IR7-B</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Details:</strong> Bodies of the intruders were located the next morning. Autopsies revealed death by multiple organ failure consistent with intense infection by a cocktail of the pathogens carried by SCP-28121-1 through SCP-28121-7.</li>
+</ul>
+<p>Additional security enhancements, including improved surveillance and deterrence measures, have since been implemented. The cover story "Fatal Exposure to Contaminated Water" was disseminated to explain the deaths of the intruders.</p>
+<p>The containment of SCP-28121 continues to be a high priority for the Foundation, the stakes raised by an understanding that any lapse or failure could easily result in a global pandemic.</p>
+
+    </div>
+    
