@@ -1,0 +1,42 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28098 is  Non-newtonian twerking techniques  </h3> </center>
+
+    <h3>Item #: SCP-28098 - "The Rhythmic Menace"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28098-GPT.png" alt="Illustration of SCP-28098" />
+        
+<h3>Description:</h3>
+<p>SCP-28098 is an anomalous phenomenon that manifests when individuals perform a dance known colloquially as "twerking" while in the presence of a non-Newtonian fluid mixture, typically a cornstarch and water suspension known as "oobleck." The anomaly activates under specific, though currently not fully understood, acoustic frequencies and rhythmic motion patterns resembling those found in various forms of dance music.</p>
+<p>Upon activation, the non-Newtonian fluid undergoes instant solidification and autonomously shapes into humanoid forms mimicking the motions of the initiating performer. These constructs exhibit aggressive behavior, attempting to force any nearby individuals into synchronicity with their own rhythmic movements, possibly to spread the anomaly further. Once an individual is forcibly "in sync," they transition into a state designated as SCP-28098-1. SCP-28098-1 instances display greatly increased stamina and relentless dedication to continue dancing. If uninterrupted, this state leads to extreme dehydration, fatigue, and eventually death.</p>
+<p>SCP-28098 was first documented at a music festival in [REDACTED], when numerous attendees encountered the fluid during a rainstorm that turned parts of the event grounds into a muddy, oobleck-like substance. Multiple instances of SCP-28098-1 were recorded before Foundation intervention.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28098's intangible and situational nature presents substantial containment challenges. As such, containment procedures focus on prevention and immediate response:</p>
+<ul>
+<li>Public distribution of instructions and recipes for non-Newtonian fluids is to be monitored and subtly discouraged.</li>
+<li>Audio surveillance is to be conducted at all major dance music events. Events found to be playing frequencies corresponding to SCP-28098 activation triggers are to be discreetly shut down.</li>
+<li>Foundation personnel embedded in local law enforcement and medical services are to report and respond to any SCP-28098-related incidents.</li>
+<li>MTF Psi-7 ("Home Improvers") are to be on alert to respond to any outbreaks, with the primary objective of disrupting the anomaly's activation environment and administering Class-B amnestics to witnesses.</li>
+<li>Research into specific frequencies and motion patterns that trigger SCP-28098 is ongoing. Foundation front companies specializing in sound equipment are tasked with developing sound dampening technology to counteract activation conditions.</li>
+</ul>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 28098-E1</h4>
+<p><strong>Objective:</strong> Test the activation threshold of SCP-28098.</p>
+<p><strong>Procedure:</strong> D-class subject instructed to perform various dance moves adjacent to a controlled non-Newtonian fluid environment under different acoustic conditions.</p>
+<p><strong>Result:</strong> Activation occurred at a specific frequency range and rhythmic cadence. However, the resulting SCP-28098 instance displayed low aggression, likely due to the limited quantity of fluid and the restrained emotion of the D-class subject.</p>
+<h4>Experiment 28098-E2</h4>
+<p><strong>Objective:</strong> Determine if trained dancers could more effectively activate SCP-28098.</p>
+<p><strong>Procedure:</strong> Trained dancers from various disciplines were conscripted and instructed to perform choreographed routines near the non-Newtonian mixture.</p>
+<p><strong>Result:</strong> SCP-28098 activated more quickly and with higher aggression levels than in previous tests. Instances of SCP-28098-1 arose within minutes, necessitating termination of the experiment and extensive cleanup.</p>
+<h3>Addendum 2: Incident 28098-A</h3>
+<p><strong>Incident Report 28098-A</strong></p>
+<p><strong>Date:</strong> [REDACTED]</p>
+<p><strong>Location:</strong> [REDACTED], at a local club.</p>
+<p>An unsanctioned test by Dr. [REDACTED] involved introducing oobleck to the club's dance floor without approval, resulting in an SCP-28098 outbreak. MTF Psi-7 responded and suppressed the event, with thirty-five instances of SCP-28098-1 identified and amnesticized. Dr. [REDACTED] was reprimanded and demoted for breaching protocol.</p>
+<h3>Addendum 3: Researcher Notes</h3>
+<p><strong>Note from Dr. [REDACTED]:</strong> It appears that SCP-28098 is not just triggered by mechanical stimuli, but also by the emotional intensity and collective euphoria common in group dance scenarios. Further exploration into these psychosocial elements could provide insight into predictive containment measures.</p>
+<p><strong>Note from Dr. [REDACTED]:</strong> After observing multiple tests and incidents, it is my conclusion that SCP-28098 feeds off the energy of the dance. It's almost as though it is a living embodiment of the music and the movement, thriving in environments where rhythmic expression is at its peak. Combat strategies should consider the disruption of these elements to weaken SCP-28098 instances.</p>
+
+    </div>
+    
