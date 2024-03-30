@@ -1,0 +1,58 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28196 is  an alien octopus capable of flying at mach 20, who vaporized 70% of the moon and will do the same to Earth unless he's assassinated by the class of middle schoolers he teaches  </h3> </center>
+
+    <h3>Item #: SCP-28196 - "The Celestial Pedagogue"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28196-GPT.png" alt="Illustration of SCP-28196" />
+        
+<h3>Description:</h3>
+<p>SCP-28196 is a highly intelligent, extraterrestrial cephalopod-like entity capable of achieving atmospheric flight at speeds up to and exceeding Mach 20. It is approximately five meters in diameter with a semblance of tentacle-like appendages extending another three meters. Its skin shifts in color and luminescence, suggestive of complex communication or adaptive camouflage.</p>
+<p>Biological analysis has been limited due to SCP-28196's formidable intellectual and physical capabilities, but it seems to be composed of an amalgamation of organic and mechanical elements, allowing it to survive in the vacuum of space, as demonstrated during the incident that resulted in the vaporization of approximately 70% of the moon's surface – an event that has since been camouflaged as a natural astronomical phenomenon to the public.</p>
+<p>SCP-28196 has demonstrated an unusual interest in Earth's education systems, particularly those pertaining to middle school curricula. It has taken on the guise of a middle school teacher in various institutions using a powerful perception filter, which prevents humans from recognizing its true form unless it chooses to reveal itself. It is currently engaged in this role under the alias "Mr. Octavius." </p>
+<p>Despite its engagement in society, SCP-28196 has communicated a clear ultimatum to the SCP Foundation: it intends to enact a similar destructive event on Earth unless it is assassinated by one of the students it teaches. The motivations behind this demand remain unclear, but it poses a significant challenge due to the ethical implications and the entity's defensive capabilities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28196 is to be contained on-site at the middle school it is currently inhabiting, under the guise of a government-mandated educational improvement program. The perimeter is to be monitored and guarded at all times by Foundation personnel disguised as school staff and security.</p>
+<p>Given the high risk and potential global impact, the O5 Council has enacted Protocol "Celestial Tutor." A specialized task force, designated MT-28196 ("Schoolyard Snipers"), primarily consisting of operatives with backgrounds in psychology, pedagogy, and adolescent behavior, has been tasked with the goal of subtly influencing SCP-28196's selected classroom environment to facilitate its assassination.</p>
+<p>The task force is authorized to utilize non-lethal means to manipulate the conditions within SCP-28196's teaching domain, aiming to identify potential candidates among the students and to nurture the necessary skillsets conducive to the entity's requirements while ensuring the safety and well-being of all minors involved.</p>
+<p>In the event of a containment breach, or if SCP-28196 deviates from its pattern and poses an imminent threat, Protocol "Fallen Planet" is to be initiated, authorizing the use of advanced weaponry and, as a last resort, the employment of Scranton Reality Anchors to inhibit SCP-28196's anomalous capabilities.</p>
+<h3>Addendum 1: Incident Log 28196-A</h3>
+<h4>Incident 28196-A1 - Moon Vaporization Event</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Description:</strong> SCP-28196 was first observed during this unanticipated event. The entity accelerated towards the moon and emitted an unidentified form of high-energy plasma from its appendages, leading to the ablation of a major portion of the moon's surface. The resulting debris posed a secondary containment issue and required extensive use of amnestics on a global scale.</li>
+</ul>
+<h4>Incident 28196-A2 - Ultimatum Delivery</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Description:</strong> SCP-28196 infiltrated Site-██ and used its perception filter to bypass security. It communicated its demands directly to the O5 Council via a holographic projection in Conference Room 5. The entity gave the Foundation a time frame of one academic year to fulfill its assassination requirement.</li>
+</ul>
+<h3>Addendum 2: Experiment Log 28196-E</h3>
+<h4>Experiment 28196-E1</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> Introduction of a high-achieving student with marksmanship training into SCP-28196's class under the guise of a transfer student.</li>
+<li><strong>Result:</strong> SCP-28196 identified the student's potential within a week. However, it also induced an anomalous effect, causing the student to perceive any violent intention towards SCP-28196 as irrational and abhorrent, effectively neutralizing the threat.</li>
+</ul>
+<h4>Experiment 28196-E2</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> Manipulation of the curriculum to include advanced problem-solving and tactical training within core educational activities.</li>
+<li><strong>Result:</strong> SCP-28196 adapted its teaching to incorporate these elements, praising creativity and critical thinking. SCP-28196 expressed pride in students' development, but there was no progress concerning its ultimatum.</li>
+</ul>
+<h4>Experiment 28196-E3</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> Deployment of a junior Foundation agent posing as a troubled youth with documented aggression issues.</li>
+<li><strong>Result:</strong> SCP-28196 exhibited unexpectedly empathetic behavior, guiding the agent towards peaceful conflict resolution and personal growth. The agent has since refrained from violent tendencies and was removed from the protocol after developing a mentor-mentee relationship with SCP-28196.</li>
+</ul>
+<h3>Addendum 3: Correspondence Log 28196-C</h3>
+<h4>Correspondence 28196-C1</h4>
+<ul>
+<li><strong>To:</strong> O5 Council</li>
+<li><strong>From:</strong> Dr. Helena Moss, Head of Psyc...</li>
+</ul>
+
+    </div>
+    
