@@ -1,0 +1,53 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28241 is  john mcafee's poop hammock </h3> </center>
+
+    <h3>Item #: SCP-28241 - "McAfee's Fecal Conundrum"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28241-GPT.png" alt="Illustration of SCP-28241" />
+        
+<h3>Description:</h3>
+<p>SCP-28241, dubbed "McAfee's Fecal Conundrum," is an anomalous artifact resembling a makeshift hammock constructed of various fabrics, wires, and unidentifiable materials. Initial inspections suggest it was once owned by John McAfee, the infamous British-American computer programmer, and businessman known for his eccentric and erratic behavior.</p>
+<p>The artifact has the unusual property of inducing profound cognitive and physical changes in individuals who come into contact with the excrement placed within it. The exact nature of these changes appears to be heavily influenced by the psychological state and intentions of the individual at the moment of contact. SCP-28241 is seemingly indestructible and has the ability to repair itself rapidly from any damage inflicted.</p>
+<p>Upon contact with human excrement, SCP-28241 activates. The individual who has excreted into SCP-28241 experiences a series of anomalous events over the following 72 hours. This includes, but is not limited to, altered perceptions of reality, the manifestation of hallucinations, and in some instances, the development of temporary anomalous abilities.</p>
+<p>The artifact's origin remains unknown. However, documentation found alongside SCP-28241 suggests that McAfee may have believed it to be a tool for achieving heightened states of consciousness or as a method of evading governmental tracking methods, though these theories remain speculative.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28241 is to be contained in a standard secure artifact containment locker at Site-██. The locker is to be sealed with a biometric lock and monitored by 24-hour surveillance. Only personnel with Level 3 clearance or higher and explicit permission from at least two (2) Level 4 researchers may access SCP-28241.</p>
+<p>Handling of SCP-28241 is strictly prohibited unless required for approved experimental protocols. In such events, all interactions with the artifact must be conducted by D-class personnel who have been extensively briefed on the potential effects and fitted with biosafety suits.</p>
+<p>All waste material is to be sanitized and incinerated immediately following experiments. Psychological evaluations and medical screenings are mandatory for all personnel involved in testing or handling SCP-28241.</p>
+<h3>Addendum 1:</h3>
+<h4>Recovery Log:</h4>
+<p>SCP-28241 was first recovered from a raid on a property in Belize owned by John McAfee. The local authorities were alerted to unusual activities, including breaches of local sanitation laws, and requested the Foundation's involvement after the discovery of SCP-28241's anomalous properties during their initial investigation.</p>
+<h3>Addendum 2:</h3>
+<h4>Experiment Log Summary:</h4>
+<p>A series of experiments have been conducted to understand the range of effects prompted by SCP-28241. The following is a brief summary of noteworthy test results.</p>
+<ul>
+<li><strong>Experiment 28241-E-01</strong></li>
+<li><strong>Subject:</strong> D-4789 (Male, 32)</li>
+<li><strong>Procedure:</strong> Subject instructed to use SCP-28241 for its intended purpose.</li>
+<li>
+<p><strong>Results:</strong> Subject began exhibiting signs of acute paranoia and claimed to perceive government surveillance devices in all electronic equipment. No such devices were found. Effects lasted for 72 hours.</p>
+</li>
+<li>
+<p><strong>Experiment 28241-E-05</strong></p>
+</li>
+<li><strong>Subject:</strong> D-5932 (Female, 26)</li>
+<li><strong>Procedure:</strong> Subject told to meditate on their greatest desire before using SCP-28241.</li>
+<li>
+<p><strong>Results:</strong> Subject reported intense visual and auditory hallucinations correlated with her desire for wealth. Hallucinations subsided after the 72-hour period.</p>
+</li>
+<li>
+<p><strong>Experiment 28241-E-13</strong></p>
+</li>
+<li><strong>Subject:</strong> D-7128 (Male, 39)</li>
+<li><strong>Procedure:</strong> Subject instructed to use SCP-28241 with fear-inducing stimuli prior to use.</li>
+<li><strong>Results:</strong> Subject exhibited the involuntary ability to cast vivid projections of their most significant fears, affecting all present in the testing chamber. Several security personnel required psychiatric intervention. Projections ceased after the 72-hour period.</li>
+</ul>
+<h3>Addendum 3:</h3>
+<h4>Incident 28241-1:</h4>
+<p>On ██/██/20██, SCP-28241 autonomously released a previously unseen gaseous substance when a containment breach in an adjacent chamber resulted in elevated site-wide stress levels. The gas caused widespread, albeit temporary, mass hysteria and visual impairments amongst staff, leading to a temporary site lockdown.</p>
+<p>Amnestics were administered to all affected personnel, and security protocols have since been updated. Research into the potential of SCP-28241 possessing sapient characteristics or adaptive responses to environmental stressors is ongoing.</p>
+
+    </div>
+    
