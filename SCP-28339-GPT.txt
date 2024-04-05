@@ -1,0 +1,42 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28339 is  A Infinite Rum </h3> </center>
+
+    <h3>Item #: SCP-28339 - "The Boundless Barrel"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28339-GPT.png" alt="Illustration of SCP-28339" />
+        
+<h3>Description:</h3>
+<p>SCP-28339 is a 19th-century wooden rum barrel, approximately 115 liters in volume, with iron hoop bindings and a brass tap. The wood displays a significant amount of wear and a dark patina consistent with its age and assumed frequent use. What distinguishes SCP-28339 from a non-anomalous barrel is its primary property: the object is capable of dispensing an apparently infinite amount of a liquid chemically identified as rum. </p>
+<p>When the tap is turned, SCP-28339 pours a dark, amber-colored rum with a distinct aroma, taste, and chemical composition similar to Caribbean rums from the early 1800s. Analysis reveals nothing anomalous about the composition of the rum itself. The source of SCP-28339's infinite supply remains unknown; internal inspections of SCP-28339 via miniature camera showed a non-Euclidean space inconsistent with its exterior dimensions, although the nature of this space and its relation to the rum production cannot be conclusively explained with current scientific methods.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28339 is currently housed in a secure, climate-controlled containment locker at Site-22. Given its Safe classification and lack of hostile properties, security clearance for testing is minimal; however, consumption of the rum produced by SCP-28339 by personnel is strictly monitored and restricted to prevent potential abuse or unforeseen complications.</p>
+<p>In the event of SCP-28339's tap being left open and unmonitored, the containment area is fitted with liquid sensors and drains designed to avert flooding. Testing has revealed that the flow from SCP-28339 will cease of its own accord if the barrel is left unattended for longer than 30 minutes, but this fail-safe mechanism is not to be relied upon as a primary containment strategy.</p>
+<h3>Addendum 1: Discovery and Acquisition</h3>
+<p><strong>1A:</strong> SCP-28339 was discovered in the basement of an abandoned plantation house on the island of █████████ in the Caribbean. The property had been slated for demolition, and the barrel was initially reported by the demolition crew as a possible safety hazard after noticing a pool of rum beneath it, despite no one turning the tap.</p>
+<p><strong>1B:</strong> Foundation agents embedded in the local police force acquired SCP-28339 without incident. Initial interviews with the demolition crew indicated no awareness of its anomalous properties, and they were administered Class-A amnestics as a precautionary measure.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 28339-E1</strong>
+- <strong>Date:</strong> ██-██-████
+- <strong>Procedure:</strong> 1 liter of the rum produced by SCP-28339 was extracted and left to sit for 72 hours in a sterile glass container.
+- <strong>Results:</strong> No change in chemical composition or volume. Rum does not evaporate at an expected rate.</p>
+<p><strong>Experiment 28339-E2</strong>
+- <strong>Date:</strong> ██-██-████
+- <strong>Procedure:</strong> The barrel was tipped over with the tap closed to determine if gravitational forces had any effect on its infinite supply.
+- <strong>Results:</strong> No leakage or reduction in rum production was noted upon righting and reopening the tap. Gravity appears to have no effect on the containment of the rum within SCP-28339.</p>
+<p><strong>Experiment 28339-E3</strong>
+- <strong>Date:</strong> ██-██-████
+- <strong>Procedure:</strong> 5 liters of an alternate brand of commercial rum were introduced into SCP-28339 through the bung hole after removing an equal volume of its own rum.
+- <strong>Results:</strong> The foreign substance was completely absorbed, and subsequent dispensed fluid reverted to SCP-28339's unique rum composition after 12 liters of extraction.</p>
+<p><strong>Experiment 28339-E4</strong>
+- <strong>Date:</strong> ██-██-████
+- <strong>Procedure:</strong> SCP-28339's tap was removed, and the opening was examined.
+- <strong>Results:</strong> The tap's removal did not halt rum production, the liquid emerging as if an invisible tap was still regulating its flow. Upon reattaching the tap, the flow reverted to its controlled state.</p>
+<h3>Addendum 3: Notes on Anomalous Effects</h3>
+<p><strong>3A:</strong> Research staff have noted on multiple occasions a faint sound of distant sea shanties emanating from SCP-28339. Sound level measurements remain inconclusive, and the phenomenon appears to be intermittent.</p>
+<p><strong>3B:</strong> Personnel reporting for duty after being exposed to SCP-28339 during testing have suffered no ill effects, save for standard intoxication if consumption guidelines are not followed. Long-term monitoring of these individuals has been proposed to study any potential prolonged exposure effects of an anomalous nature.</p>
+<p><strong>3C:</strong> On ██-██-████, Junior Researcher ████ accidentally left SCP-28339's tap open upon completion of testing. The containment fail-safes activated promptly to prevent flooding. Upon returning to the containment locker, Researcher ████ claimed to have seen a spectral figure clothed in pirate attire closing the tap. This account has not been verified, and video footage from security cameras did not capture any anomalies. The researcher was subjected to a psychological evaluation, which concluded stress as the likely cause of the hallucination. Further monitoring has been advised.</p>
+
+    </div>
+    
