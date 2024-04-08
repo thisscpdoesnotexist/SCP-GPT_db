@@ -1,0 +1,66 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28425 is  an infinite double decker party bus that's bigger on the inside and inhabited by extra dimensional beings </h3> </center>
+
+    <h3>Item #: SCP-28425 - The Never-Ending Festivity</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28425-GPT.png" alt="Illustration of SCP-28425" />
+        
+<h3>Description:</h3>
+<p>SCP-28425 is an anomalous vehicle resembling a modern double-decker party bus equipped with what appear to be an unconventional propulsion system and technology not consistent with current human capabilities. The vehicle's exterior dimensions correspond to that of a standard bus (14 meters in length, 4 meters high, and 2.5 meters wide), yet the interior extends indefinitely in all directions, defying physical laws. The phrase "The Never-Ending Festivity" is emblazoned on both sides of the bus in bright neon lettering.</p>
+<p>The vehicle's interior exhibits a constant, vibrant party environment, regardless of the external time of day or geographic location. Music, consistent with popular genres across various cultures and eras, plays from an unseen source at a sound level that does not cause harm to human ears. SCP-28425 is inhabited by entities hereby referred to as SCP-28425-1. These entities vary greatly in form and are believed to be extra-dimensional in origin. SCP-28425-1 instances demonstrate sentience and sapience, communicating in an unidentified language, and occasionally in the native language of interacting subjects.</p>
+<p>Individuals who enter SCP-28425 often find themselves compelled to join the ongoing festivities and are reported to experience an increase in euphoria and decreased perception of time. Attempts to measure or map the bus's interior have returned inconclusive results due to its anomalous geometry. Cameras and tracking devices cease functioning upon entry.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28425's nonstandard physical properties make direct containment impracticable. As such, containment focuses on misdirection, misinformation, and relocation.</p>
+<ol>
+<li>
+<p>A perimeter (Designated Zone Alpha-28425) is to be established within a 1km radius around SCP-28425's current location. Should the vehicle relocate itself, Mobile Task Force Zeta-9 ("Mole Rats") are to be dispatched immediately to establish a new perimeter.</p>
+</li>
+<li>
+<p>Any civilians attempting to enter Zone Alpha-28425 are to be detained, interrogated, and administered Class-A amnestics before release.</p>
+</li>
+<li>
+<p>Weekly inspections of SCP-28425 are to be conducted by D-class personnel under heavy supervision. Attempts to disable or dismantle sound systems are strictly forbidden due to previous incidents (See Addendum 2).</p>
+</li>
+<li>
+<p>In the event of SCP-28425 manifesting within an urban area or other high-population centers, a cover story should be disseminated explaining the presence as a promotional event for a non-existent movie or videogame. All evidence is to be confiscated, and witnesses are to be administered amnestics.</p>
+</li>
+<li>
+<p>All staff interacting with SCP-28425 are required to have psych evaluations before and after the interaction to monitor for any long-term psychological effects.</p>
+</li>
+</ol>
+<h3>Addendum 1: Incident Log</h3>
+<h4>Addendum 1-A: Initial Discovery</h4>
+<p>SCP-28425 was first discovered when civilians reported a "never-ending party bus" causing disturbances on the streets of [REDACTED]. Agents embedded in local law enforcement responded, quickly ascertaining the anomalous nature of the vehicle. Foundation personnel contained the situation under the guise of responding to a traffic hazard.</p>
+<h4>Addendum 1-B: Incident 28425-Alpha</h4>
+<p>During a preliminary investigation, Agent ████████ entered SCP-28425 and did not return. An extraction team was dispatched resulting in the recovery of the agent three days later, although only 45 minutes had elapsed according to the agent's personal time perception. Post-incident psychological evaluation revealed persistent altered mood and memory impairment.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Addendum 2-A: Exploration Attempt</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/████</li>
+<li><strong>Procedure</strong>: D-8492 equipped with GPS tracker and audio-video capture equipment, instructed to explore and map the interior as much as possible.</li>
+<li><strong>Results</strong>: Equipment failed upon entry, GPS signal lost. Recovered after four hours with no memory of the interior layout. Expressed a strong desire to re-enter SCP-28425.</li>
+</ul>
+<h4>Addendum 2-B: Sound System Interaction Attempt</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/████</li>
+<li><strong>Procedure</strong>: D-6359 instructed to locate and disable any audio equipment inside SCP-28425.</li>
+<li><strong>Results</strong>: Subject found the audio equipment (hereafter SCP-28425-2) but was unable to disable it. Upon interference with SCP-28425-2, all instances of SCP-28425-1 became hostile. D-6359 was ejected from SCP-28425, and the area experienced a low-frequency sound wave that caused temporary incapacitation of all personnel within Zone Alpha-28425. Henceforth, no attempts to disable SCP-28425-2 are authorized.</li>
+</ul>
+<h4>Addendum 2-C: Long-Term Exposure</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/████</li>
+<li><strong>Procedure</strong>: D-2910 was permitted to stay within SCP-28425 for a period of 24 hours.</li>
+<li><strong>Results</strong>: D-2910 remained within SCP-28425 for a subjective time of approximately two weeks, according to the subject's recounting. On retrieval, D-2910 displayed severe psychological addiction to the environment within SCP-28425, necessitating extended psychiatric care. No valuable intelligence regarding the interior or entities was gained.</li>
+</ul>
+<h3>Addendum 3: SCP-28425-1 Communication Attempt</h3>
+<h4>Addendum 3-A: SCP-28425-1 Interaction</h4>
+<p>A communication attempt with SCP-28425-1 was authorized and carried out by Dr. ████, an expert in xenolinguistics.
+- <strong>Date</strong>: ██/██/████
+- <strong>Procedure</strong>: Dr. ████ entered SCP-28425, equipped with a variety of communication aids, with the objective to establish a dialogue with SCP-28425-1.
+- <strong>Results</strong>: Dr. ████ achieved partial success, establishing a basic non-verbal understanding with several SCP-28425-1 instances. Learned that the entities view the environment as a "sanctuary" and are aware of the Foundation's surveillance. Ascertained that SCP-28425-1 are not hostile unless provoked. Further communication attempts are planned.</p>
+<p>Ongoing research and containment efforts aim to better understand SCP-28425's properties, origins, and purposes. All personnel are reminded that despite its outwardly benign appearance, SCP-28425 remains a Keter-class anomaly due to its unpredictable nature and potential threat to normalcy.</p>
+
+    </div>
+    
