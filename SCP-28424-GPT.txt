@@ -1,0 +1,50 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28424 is  An infinite room </h3> </center>
+
+    <h3>Item #: SCP-28424 - "Echoes Through Eternity"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28424-GPT.png" alt="Illustration of SCP-28424" />
+        
+<h3>Description:</h3>
+<p>SCP-28424 is an anomalous space located within what appears to be a derelict warehouse situated in ██████, Germany. From the exterior, the warehouse does not exhibit any unusual properties; however, its internal spatial dimensions have been altered anomalously.</p>
+<p>Upon entering a specific room within the warehouse, designated as SCP-28424-1, subjects encounter an expansive, infinitely extending space that defies the warehouse’s external dimensions. The room, SCP-28424-1, has no observable walls, ceiling, or floor beyond the initial threshold, with a seemingly unending expanse stretching out in all directions.</p>
+<p>Initial observations indicated that any sound produced within SCP-28424-1 echoes for an anomalously extended duration, with no decay in volume or clarity, which is contrary to known acoustic phenomena. Moreover, despite the absence of visible sources of illumination, the space within SCP-28424-1 is evenly lit, allowing for clear visibility up to the threshold from which subjects may enter or exit.</p>
+<p>Objects introduced into SCP-28424-1 tend to remain suspended at the point they are left, not exhibiting gravitational pull in any specific direction. Despite extensive surveillance and exploration using drones and human test subjects, the boundaries of SCP-28424-1 have yet to be mapped, leading researchers to hypothesize that it could indeed be infinite.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28424 itself requires minimal active containment due to its stationary nature and remote location. The exterior of the warehouse has been secured and outfitted with standard Foundation surveillance equipment. Access is restricted to authorized personnel only, who must log their entry and exit with on-site security.</p>
+<p>Exploration of SCP-28424-1 is limited to drone reconnaissance and pre-approved manned missions. Individuals entering SCP-28424-1 must be equipped with a GPS locator, a communication device, an anchored safety line connected to the entry threshold, and basic sustenance provisions in case of emergency retrieval difficulties.</p>
+<p>The primary concern lies in preventing unauthorized access; the warehouse is under the guise of a condemned building, and a cover story has been established to deter trespassers. A small research team remains permanently stationed at the site to monitor the anomaly and to study its properties.</p>
+<h3>Addendum 1:</h3>
+<h4>Addendum 1-A: Discovery</h4>
+<p>SCP-28424 was discovered following local reports of missing persons linked to the warehouse’s location. Upon investigation, Foundation agents uncovered the anomalous nature of SCP-28424-1 and proceeded to secure the site. Archived reports suggest that the room's existence was known since post-World War II but went unnoticed by the international community.</p>
+<h4>Addendum 1-B: Experiment Log</h4>
+<p><strong>Experiment 28424-E01: Acoustic Testing</strong></p>
+<ul>
+<li><strong>Purpose:</strong> To determine the nature and properties of sound within SCP-28424-1.</li>
+<li><strong>Procedure:</strong> D-class personnel were instructed to produce various sounds at differing frequencies and volumes.</li>
+<li><strong>Results:</strong> Sounds persisted without decay indefinitely. Recordings gathered exhibited no degradation over time.</li>
+</ul>
+<p><strong>Experiment 28424-E02: Physical Exploration</strong></p>
+<ul>
+<li><strong>Purpose:</strong> To ascertain the physical boundaries of SCP-28424-1, if any.</li>
+<li><strong>Procedure:</strong> Trained D-class personnel, physically tethered to the entry point, walked directly forward from the threshold.</li>
+<li><strong>Results:</strong> The subject walked for an estimated 10 km, as measured by the tether, without encountering any boundary. GPS signals and radio communications remained uninterrupted throughout the test.</li>
+</ul>
+<p><strong>Experiment 28424-E03: Light Propagation Test</strong></p>
+<ul>
+<li><strong>Purpose:</strong> Investigate the properties of light within SCP-28424-1.</li>
+<li><strong>Procedure:</strong> Directed high-intensity beams of light into SCP-28424-1.</li>
+<li><strong>Results:</strong> Light beams appeared to continue indefinitely without being obstructed or fading.</li>
+</ul>
+<h3>Addendum 2:</h3>
+<h4>Addendum 2-A: Personal Accounts</h4>
+<p>Several individuals who have entered SCP-28424-1 report a feeling of unease and disorientation despite the stability of environmental conditions. Some have described a sense of being "watched" or not being "alone," although no evidence supports the presence of another entity within SCP-28424-1.</p>
+<h4>Addendum 2-B: Research Notes</h4>
+<p>Dr. ████ notes in his personal log that SCP-28424-1 might offer groundbreaking insights into the nature of space and the potential existence of other dimensions. Current research is focused on understanding the quantum irregularities present within SCP-28424-1 and their implications on accepted physical laws. </p>
+<p>Exploratory theories have led to considerations for utilizing SCP-28424-1 in potential interspatial travel or as a means of containment for other SCP entities. However, due to the unknown nature and potential risks, any such applications are speculative at this stage.</p>
+<p>The enigmatic qualities of SCP-28424 continue to intrigue and challenge the scientific staff, with further experimentation and study ongoing.</p>
+
+    </div>
+    
