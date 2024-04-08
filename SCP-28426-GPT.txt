@@ -1,0 +1,50 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28426 is  a glow in the dark minigolf course </h3> </center>
+
+    <h3>Item #: SCP-28426 - "The Evergreen Par"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28426-GPT.png" alt="Illustration of SCP-28426" />
+        
+<h3>Description:</h3>
+<p>SCP-28426 is a seemingly ordinary glow-in-the-dark mini-golf course located in ████████, ██████. The facility, comprising 18 holes with varying themes and obstacles, exhibits anomalous properties when played during nighttime hours with no direct source of sunlight.</p>
+<p>Patrons who play SCP-28426 after sundown report experiencing a temporal anomaly, often playing for what feels like hours but upon exiting, find that no time has passed on the outside. Electronic devices fail to operate correctly within the premises under these conditions, making timekeeping impossible. Additionally, witnesses have described interactions with entities identified as SCP-28426-1 through -18, corresponding to each hole of the mini-golf course.</p>
+<p>Entities SCP-28426-1 through -18 bear resemblance to caricatures of figures from mythological, folklore, and pop culture, themed appropriately to the hole they inhabit. These entities are capable of verbal communication and exhibit distinct personalities. Initial reports suggest the entities may be custodians of their respective holes, challenging players in various ways that differ from standard mini-golf play. While SCP-28426-1 through -18 do not exhibit overtly hostile behaviors, they will enforce the rules of their domain with what witnesses describe as "supernatural penalties" for infractions.</p>
+<p>Instances of SCP-28426-1 through -18 manifest only during the anomalous temporal state; no sightings have been reported during daylight hours or when the facility is unoccupied. Players who successfully complete the course report feelings of intense satisfaction, while those who fail or forfeit express disorientation and mild distress for up to several days after exiting SCP-28426.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28426 is contained on-site due to its immobile nature and the impracticality of moving the course without potential loss of anomalous properties. The area surrounding SCP-28426 has been fenced off under the guise of a renovation project, and a false storefront has been constructed to deter public interest. Access to the facility is restricted to personnel with Level-3 clearance and above or with approval for testing purposes.</p>
+<p>Security cameras and motion detectors have been installed around the perimeter and within the course to monitor for unauthorized access. Surveillance is to be reviewed daily. Any civilians found attempting to access SCP-28426 are to be detained, administered Class-B amnestics, and released with the cover story of a severe trespassing violation.</p>
+<p>Personnel assigned to SCP-28426 are to work in pairs for safety and undergo psychological evaluation before and after each interaction with the entity. Communication with SCP-28426-1 through -18 is allowed under controlled circumstances, and any information obtained from these entities is to be documented for further analysis.</p>
+<h3>Addendum 1: Incident Log - SCP-28426</h3>
+<h4>Incident 28426-A:</h4>
+<p>On ██/██/20██, two teenagers trespassed into SCP-28426 after sunset and were reported missing for 72 hours. Upon their return, they exhibited signs of extreme fatigue and confusion, claiming to have been playing mini-golf "for weeks" without pause. No physical evidence of extended absence was present; however, their psychological trauma was consistent with temporal dislocation. Follow-up interviews revealed interactions with the SCP-28426 entities, which encouraged their prolonged play.</p>
+<h4>Incident 28426-B:</h4>
+<p>On ██/██/20██, during a scheduled research operation, Research Assistant ████ ██████ broke protocol by attempting to remove a mini-golf club from the facility. SCP-28426-7, associated with Hole 7, reacted violently, causing a localized weather anomaly within the building that resulted in a downpour of a luminescent, tar-like substance. The assistant was rescued, but the club disintegrated upon removal from the anomaly's influence.</p>
+<h3>Addendum 2: Experiment Log - SCP-28426</h3>
+<h4>Experiment 28426-E-1:</h4>
+<p><strong>Objective:</strong> To establish initial communication with SCP-28426-1 through -18.</p>
+<p><strong>Procedure:</strong> D-Class personnel equipped with audio recording equipment instructed to play one hole of mini-golf and engage in conversation with the associated entity.</p>
+<p><strong>Result:</strong> SCP-28426-4 (Hole 4 entity: a leprechaun-like figure) engaged in jovial conversation, offered cryptic advice regarding the "true nature" of SCP-28426, and warned against breaking the rules.</p>
+<h4>Experiment 28426-E-5:</h4>
+<p><strong>Objective:</strong> To determine the effects of completing the course with a perfect score.</p>
+<p><strong>Procedure:</strong> D-Class personnel provided with professional mini-golf training, aiming to achieve a hole-in-one on every hole.</p>
+<p><strong>Result:</strong> Upon achieving a perfect score, the facility brightened significantly, and all instances of SCP-28426-1 through -18 appeared, congratulating the subject. The subject reported a seemingly omniscient voice granting them "the boon of the Evergreen Par," resulting in a vastly improved mood and well-being. The effects lasted for 28 days.</p>
+<h4>Experiment 28426-E-9:</h4>
+<p><strong>Objective:</strong> Investigate SCP-28426's influence on time perception.</p>
+<p><strong>Procedure:</strong> Two D-Class personnel played simultaneously, with one starting at Hole 1 and the other at Hole 9. They were instructed to complete the course and record their experiences.</p>
+<p><strong>Result:</strong> Despite synchronous starts, subjects completed the course at staggeringly different times. Subject starting at Hole 1 experienced no time dilation, while the subject starting at Hole 9 perceived a duration of several days. Cameras show both subjects completing the course in approximately 45 minutes.</p>
+<p>(Further investigations of SCP-28426's anomalous properties are ongoing.)</p>
+<h3>Addendum 3: Interview Excerpts - SCP-28426 Entities</h3>
+<h4>SCP-28426-3 Interview:</h4>
+<ul>
+<li>Upon questioning, SCP-28426-3, a sphinx-like figure at Hole 3, suggested it had been created by the collective unconscious desires for a "perfect game of mini-golf" but also remarked on a deeper purpose it was "not at liberty to disclose."</li>
+</ul>
+<h4>SCP-28426-13 Interview:</h4>
+<ul>
+<li>This unlucky number hole's entity, resembling a cartoonish ghost, insisted on speaking in riddles. Security footage later showed signs of spectral manipulation whenever the entity was present, affecting both the trajectory of the golf balls and the behavior of the ambient lighting.</li>
+</ul>
+<p>(Additional interviews with other SCP-28426 entities are pending authorization, with particular interest in SCP-28426-18, which has displayed an understanding of SCP operational protocols.)</p>
+
+    </div>
+    
