@@ -1,0 +1,55 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28463 is  U  Whiskey Bar </h3> </center>
+
+    <h3>Item #: SCP-28463 - "The Soliloquy Sip"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28463-GPT.png" alt="Illustration of SCP-28463" />
+        
+<h3>Description:</h3>
+<p>SCP-28463 refers to a seemingly unremarkable whiskey bar located in ███ █████, Scotland. The structure and decor of SCP-28463 mirror those of typical late 19th-century establishments, with an extensive collection of malt whiskies. The primary anomalous property of SCP-28463 manifests when individuals consume any beverage within the premises and vocalize a personal secret or confession.</p>
+<p>Upon the expression of a true personal secret by the patron, an intangible effect envelops the individual, compelling them to continue disclosing progressively deeper and more personal secrets. Observations have noted that individuals under the influence of SCP-28463's anomalous properties exhibit an unusual level of catharsis and emotional relief. SCP-28463 does not exert any anomalous effects on individuals who abstain from speaking or those who tell lies or statements that are not deeply personal in nature.</p>
+<p>Emotional and psychological assessments conducted post-exposure show improved mental health in subjects, suggesting a therapeutic benefit to SCP-28463's anomalous properties. However, the potential for the exposure of sensitive information and the implications of these involuntary disclosures necessitate controlled access to SCP-28463. </p>
+<h3>Special Containment Procedures:</h3>
+<p>To prevent unauthorized access, SCP-28463 has been acquired by a Foundation front company and is to be operated by undercover agents trained as bartenders. The establishment is to be kept open to the public to preserve its cover, with all employees briefed on potential containment breaches.</p>
+<p>The bar is under constant surveillance for data collection and to ensure that patrons do not experience SCP-28463's anomalous effects unknowingly. Patrons who exhibit signs of SCP-28463's effect are to be discreetly monitored and administered a Class-B amnestic upon leaving the premises, ensuring the anomaly remains undetected by the general public. Foundation agents are to collect any recorded confessions for analysis and potential security risk assessment.</p>
+<p>Foundation personnel wishing to study SCP-28463 may do so under strict guidelines and require, at a minimum, Level 2 clearance and the approval of the project head. Consumption of beverages within SCP-28463 for purposes other than approved testing is strictly prohibited for all personnel.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-28463 was discovered following a series of unusual social media posts originating from ███ █████, where individuals recounted experiencing profound personal growth after visiting the local whiskey bar. Foundation web crawlers flagged the posts for investigation, and Agent ████ subsequently confirmed the existence of SCP-28463's anomaly through covert field tests.</p>
+<h3>Addendum 2: Experiment Logs</h3>
+<ul>
+<li><strong>Experiment Log 1:</strong></li>
+<li><strong>Subject:</strong> D-87234</li>
+<li><strong>Procedure:</strong> Subject was instructed to consume a glass of whiskey and state a known personal secret.</li>
+<li>
+<p><strong>Result:</strong> Subject disclosed the nature of a childhood misdemeanor, followed by increasingly personal confessions relating to past criminal activities. The subject reported feeling unusually relieved despite the stressful nature of the information revealed.</p>
+</li>
+<li>
+<p><strong>Experiment Log 2:</strong></p>
+</li>
+<li><strong>Subject:</strong> D-58921</li>
+<li><strong>Procedure:</strong> Subject was instructed to remain silent after consuming a glass of whiskey.</li>
+<li>
+<p><strong>Result:</strong> No anomalous effects were observed. The subject remained silent throughout the duration and reported no compulsion to speak.</p>
+</li>
+<li>
+<p><strong>Experiment Log 3:</strong></p>
+</li>
+<li><strong>Subject:</strong> D-16189 (A known compulsive liar)</li>
+<li><strong>Procedure:</strong> Subject was instructed to consume a glass of whiskey and tell an intentional lie.</li>
+<li><strong>Result:</strong> SCP-28463's effects did not manifest; the subject showed no discomfort and continued to fabricate stories without impunity.</li>
+</ul>
+<h3>Addendum 3: Interview Logs</h3>
+<ul>
+<li><strong>Interview Log 28463-5:</strong></li>
+<li><strong>Interviewer:</strong> Dr. █████</li>
+<li><strong>Subject:</strong> Former patron Mrs. ██████████, post-Containment and administration of amnestics</li>
+<li><strong>Summary:</strong> Mrs. ██████████ recounted her experience at SCP-28463, describing it as an "extraordinary place where I could unburden my soul." She attributed her improved relationship with her family and cessation of long-standing depressive symptoms to her visit, providing further evidence of SCP-28463's therapeutic potential.</li>
+</ul>
+<h3>Addendum 4: Additional Notes</h3>
+<p>Subsequent to the events of Experiment Log 1 and the monitored confession of D-87234, Foundation agents apprehended a third-party individual attempting to blackmail D-87234 using the disclosed information. After interrogation, the individual revealed no knowledge of SCP-28463's anomalous properties and appeared to have overheard the confession purely by chance.</p>
+<p>This incident has prompted the Foundation to revise surveillance and post-exposure procedures, including soundproofing the establishment and mandating immediate amnestic treatment of all patrons displaying the effects of SCP-28463. Personnel are reminded that the use of SCP-28463 outside of sanctioned testing is not only a breach of protocol but could also potentially lead to personal and professional compromises.</p>
+
+    </div>
+    
