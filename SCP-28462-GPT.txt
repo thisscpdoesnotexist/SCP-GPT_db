@@ -1,0 +1,39 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28462 is  in the zone </h3> </center>
+
+    <h3>Item #: SCP-28462 - "Eternal Resonance"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28462-GPT.png" alt="Illustration of SCP-28462" />
+        
+<h3>Description:</h3>
+<p>SCP-28462, dubbed "Eternal Resonance," is an anomalous audio phenomenon that emanates from SCP-28462-1, a vintage radio receiver of an unidentified make and model, dated to the early 20th century. The radio itself displays no extraordinary physical properties and remains non-operative under normal conditions.</p>
+<p>However, when powered by alternating current within an electromagnetic field of a precise frequency range (between 95 Hz and 102 Hz), SCP-28462-1 activates regardless of apparent lack of internal circuitry connectivity and begins broadcasting SCP-28462. The broadcast consists of a collection of disjointed voices, music from anachronistic periods, and, on rare occasions, coherent messages in various languages. Notably, individuals within the audible range of SCP-28462 have reported experiencing vivid hallucinations, temporal disorientation, and memory alteration. Extended exposure has resulted in prolonged episodes of Psychotic Disorder Not Otherwise Specified (PD-NOS) and, in some instances, unexplained disappearances.</p>
+<p>The origin of the broadcasted content remains unknown. The voices and music do not correspond to any known broadcasts in history. Further investigations are underway to determine if SCP-28462 acts solely as a receiver for these transmissions or if it is generating them.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28462-1 is contained within a soundproof chamber at Site-██, suspended at the center of an electromagnetically shielded Faraday cage. The chamber is to be monitored with both audio and visual equipment at all times. Any sound transmitted from within the chamber is to be recorded and analyzed by the assigned research team led by Dr. Penelope Sung.</p>
+<p>Access to SCP-28462-1's containment chamber is strictly prohibited under normal circumstances. Authorized personnel entering the chamber for maintenance or experimentation must wear specialized ear protection equipment to avoid auditory exposure to SCP-28462. Any personnel exhibiting symptoms of exposure are to be quarantined and evaluated by Site psychiatrists.</p>
+<p>Under no circumstances should SCP-28462-1 be connected to an electrical source outside scheduled testing parameters. All test sessions are to be authorized by at least two Level 4 personnel and should not exceed 30 minutes in duration to prevent extended exposure.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<ul>
+<li>
+<p>Experiment 28462-E-001: Subject D-5031 was instructed to listen to SCP-28462 for five minutes. Subject began reporting conversations with deceased relatives and showed signs of severe emotional distress. Post-exposure, the subject retained no memory of the experiment, claiming to have been in the court of King Louis XIV.</p>
+</li>
+<li>
+<p>Experiment 28462-E-009: Introduction of an external audio source (Beethoven's 9th Symphony) during activation resulted in SCP-28462 synchronously broadcasting a distorted version of the symphony with interspersed laughter and weeping. No further interaction was noted.</p>
+</li>
+<li>
+<p>Experiment 28462-E-015: Utilization of a local Low-Frequency Oscillation (LFO) altered the broadcast's content, resulting in a clearer voice claiming to be Dr. Rupert Lang, a physicist who had disappeared in 1974 while working on quantum communication theories. Dr. Lang's voice warned of the "threads of time unraveling."</p>
+</li>
+</ul>
+<h3>Addendum 2: Incident Report 28462-IR-021</h3>
+<p>On January 29, 20██, SCP-28462 spontaneously activated despite being disconnected from its power source. Dr. Sung and her team reported an immediate lockdown of the containment chamber. The chamber's internal surveillance captured the appearance of a shadowy figure standing beside SCP-28462-1. All audio equipment in the facility became overwhelmed by a high-decibel broadcast of a cacophony of historical distress calls.</p>
+<p>Security personnel who attempted to enter the containment chamber experienced severe temporal dislocation, with some personnel momentarily 'phased' to different eras, as observed via their personal recording devices. The event lasted for 17 minutes and 32 seconds before SCP-28462-1 ceased functioning. Typically non-authorized individuals reported sightings of figures garbed in clothing across various time periods throughout Site-██, though these were unsubstantiated.</p>
+<p>Following the incident, a new procedural mandate requires SCP-28462-1 to be stored within a triple-redundant power isolation unit to prevent unscheduled activation.</p>
+<h3>Addendum 3: Researcher's Note</h3>
+<p>Dr. Sung has postulated that SCP-28462-1 may behave as a "temporal nexus," intersecting various points in time. This hypothesis may explain the anachronistic nature of the broadcasts, the acquaintance with Dr. Lang, and the phenomenon during Incident 28462-IR-021. However, the potential for SCP-28462 to affect past timelines, and thus causality, makes it a subject of significant concern. Further research is needed to understand the mechanics behind SCP-28462 and pursue mechanisms for its potential containment breach reverberations.</p>
+<p>Ongoing investigations are working on mapping the potential sources of the broadcasts and developing countermeasures to the temporal dislocation and memory alteration suffered by exposed staff. SCP-28462's classification as Euclid may be subject to upgrade pending evaluation of possible temporal hazards and the scope of its effects on the space-time continuum.</p>
+
+    </div>
+    
