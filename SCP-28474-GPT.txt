@@ -1,0 +1,38 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28474 is  A Godzilla  </h3> </center>
+
+    <h3>Item #: SCP-28474 - "Kaiju Revenant"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28474-GPT.png" alt="Illustration of SCP-28474" />
+        
+<h3>Description:</h3>
+<p>SCP-28474 is a colossal, reptilian entity bearing a striking resemblance to the creature popularized in Japanese cinema known as "Godzilla." It exhibits an array of anomalous qualities and behaviors distinct from any known terrestrial lifeform.</p>
+<p>SCP-28474 stands approximately 100 meters in height, with rigorous biological studies indicating a mass surpassing 60,000 metric tons. The creature's dermal layer is composed of an unknown substance resembling scales, showing extreme resistance to damage from conventional weaponry and high thermal resistance. In addition to physical strength, SCP-28474 has demonstrated the ability to discharge a highly concentrated beam of blue-hued radiation from its oral cavity, hereafter referred to as its "Atomic Breath."</p>
+<p>The entity displays a prodigious regenerative ability, capable of healing severe wounds within minutes. Radiological studies suggest that SCP-28474's cells undergo rapid mitosis, mediated by an anomalous energy signature detected within its nuclear-chondrial (an abnormally fused mitochondrial and nuclear DNA structure) cells. This energy seems to be the source of SCP-28474's atomic breath and resilience.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given SCP-28474's immense size, physical containment is deemed impractical. Instead, containment efforts are to focus on tracking, misdirection, and deterrence strategies. Foundation-operated satellites equipped with an array of sensors are to maintain constant surveillance on SCP-28474's position.</p>
+<p>In the event of SCP-28474 emerging on land, Protocol "Giga Curtain" is to be immediately instated, involving:
+1. Deployment of Mobile Task Forces (MTFs) equipped with specialized containment vehicles to the vicinity of SCP-28474.
+2. Strategic use of high-frequency sound emitters to disorient and redirect SCP-28474 away from populated areas.
+3. Coordination with global military forces to provide a show of force, utilizing non-lethal armaments to deter the entity's advance.
+4. Dissemination of memetic agents to nearby civilian populations to prevent mass hysteria and ensure compliance with evacuation orders.</p>
+<p>In case SCP-28474 exhibits aggressive behavior or attempts to utilize its Atomic Breath, Procedure "Icarus Shield" is authorized, which includes the deployment of high-altitude drone swarms to generate a reflective aerosol cloud, mitigating the intensity of the energy projection.</p>
+<h3>Addendum 1: Incident Report 28474-A</h3>
+<h4>Date: [REDACTED]</h4>
+<p>SCP-28474 was first identified breaching the surface of the Pacific Ocean near the Mariana Trench, generating a significant earthquake and tsunami. It made landfall on the coast of [REDACTED], causing widespread destruction. Emergency containment measures were enacted, resulting in the successful redirection of SCP-28474 back to the ocean.</p>
+<h3>Addendum 2: Research Notes</h3>
+<h4>Lead Researcher: Dr. Hiroshi Yamamura</h4>
+<p>After several encounters with SCP-28474, we have gathered substantial data regarding its behavior and physiology. It appears to be drawn to areas of intense seismic activity and high radiation levels. Efforts to understand the source of these attractions could lead to improved containment strategies.</p>
+<h3>Experiment Log 28474-EX:</h3>
+<h4>Experiment 28474-EX1: Sound Deterrence Trial</h4>
+<p>Using sound emitters at various frequencies, researchers attempted to provoke a response from SCP-28474. It was observed that SCP-28474 is particularly sensitive to frequencies between 22-29 kHz. This data has since been incorporated into Protocol "Giga Curtain."</p>
+<h4>Experiment 28474-EX2: Radiation Absorption Observation</h4>
+<p>SCP-28474 was exposed to varying levels of gamma radiation. The creature appeared to absorb the radiation, with a subsequent increase in its luminescence and activity. Energy emissions spiked, followed by a discharge of Atomic Breath, which was safely redirected by Procedure "Icarus Shield."</p>
+<h4>Experiment 28474-EX3: Regenerative Tissue Analysis</h4>
+<p>A small tissue sample was successfully extracted from SCP-28474 during a dormant phase. The sample displayed extraordinary regenerative properties when subject to various degrees of damage, regrowing within minutes. Research into potential applications of this regenerative factor for medical purposes is ongoing, with significant ethical review and security precautions.</p>
+<p>To this end, SCP-28474 remains an enigma, presenting both a monumental risk and an invaluable subject of study. Its existence is a cautionary reminder of the extraordinary phenomena that lurk in the depths of our world. Our ultimate goal is not only to keep SCP-28474 contained but also to delve deeper into its mysteries, hopefully unlocking secrets that could benefit mankind or aid in mitigating the existential threats posed by such entities.</p>
+
+    </div>
+    
