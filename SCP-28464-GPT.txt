@@ -1,0 +1,36 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28464 is  No One Believes in Mystery </h3> </center>
+
+    <h3>Item #: SCP-28464 - "No One Believes in Mystery"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28464-GPT.png" alt="Illustration of SCP-28464" />
+        
+<h3>Description:</h3>
+<p>SCP-28464 appears to be an adult male in his early 40s, of variable height and build. The entity has the unique ability to manipulate reality based on collective belief, with its influence extending over the conscious and unconscious convictions of human populations.</p>
+<p>SCP-28464 can reshape its physical appearance and surroundings, including the alteration of living organisms, objects, and the environment, in accordance with the prevailing beliefs held about it. The more people who share a belief about SCP-28464, whether true or false, the stronger its ability to manifest that belief becomes.</p>
+<p>When a belief about SCP-28464 changes among a sizeable demographic, SCP-28464 undergoes a corresponding transformation which can be instantaneous or gradual. This transformation can include changes in physical form, abilities, and properties. SCP-28464 has demonstrated sentience and sapience but tends to refrain from communication, as any information disclosed could potentially influence public perception and inadvertently trigger a self-modification.</p>
+<p>Cases have been documented where SCP-28464 has purposely disseminated misinformation about itself to leverage its abilities for escape or subversion of containment. As such, the spread of knowledge or beliefs regarding SCP-28464 poses a significant risk for containment breaches and wider societal disruption.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28464 is to be contained within a standard humanoid containment cell at Site-██. The cell is to be equipped with reality anchors to prevent SCP-28464's abilities from manifesting effectively. SCP-28464 is to be under 24-hour surveillance by a team of researchers and security personnel who have been treated with Class-C amnestics to minimize their knowledge of SCP-28464.</p>
+<p>Information dissemination regarding SCP-28464 is strictly controlled and compartmentalized. Only a limited number of personnel are authorized to possess comprehensive knowledge about SCP-28464 and its properties.</p>
+<p>To reduce the influence of SCP-28464, a widespread disinformation campaign is to be maintained, seeding conflicting narratives to ensure that no coherent or dominant belief about SCP-28464 persists in the public consciousness. Propagation of new urban legends or the reinforcement of existing ones are approved methods of managing SCP-28464's effects.</p>
+<p>In the event of a containment breach, Protocol "Blank Slate" is to be initiated. This protocol involves the immediate deployment of amnestics on a large scale to suppress public knowledge and belief about SCP-28464, coupled with targeted media blackouts and information scrubbing from digital platforms.</p>
+<h3>Addendum 1: Discovery</h3>
+<h3>Subsection A: Initial Containment</h3>
+<p>SCP-28464 was first discovered in a small town in [REDACTED] after rumors emerged about a "miracle man" who could cure illnesses with a touch. The Foundation dispatched agents who captured SCP-28464 after a brief encounter, where it appeared to exhibit no anomalous properties due to the agents' skepticism about the rumors.</p>
+<h3>Subsection B: Incident 28464-A</h3>
+<p>Three months into SCP-28464's containment, a containment breach occurred when a religious group outside the Foundation began to venerate SCP-28464 as a divine figure following the spread of rumors from the town. SCP-28464's abilities were significantly enhanced, resulting in the manifestation of various "miracles" that facilitated its escape. Recapture required the coordinated efforts of multiple MTF units and an extensive amnestic campaign.</p>
+<h3>Addendum 2: Experiment Log 28464</h3>
+<p><strong>Experiment 28464-E1:</strong>
+Research team conducted a controlled release of information to a small group of D-Class personnel, presenting SCP-28464 as a harmless individual without special abilities. SCP-28464 exhibited no anomalous properties during interaction with these subjects.</p>
+<p><strong>Experiment 28464-E2:</strong>
+A new group of D-Class personnel was informed that SCP-28464 had telekinetic powers. Subjects were then exposed to SCP-28464. Despite initial skepticism, a minor telekinetic event was observed, supporting the hypothesis that belief influences SCP-28464's capabilities.</p>
+<p><strong>Experiment 28464-E3:</strong>
+SCP-28464 was introduced to another group of D-Class personnel who were convinced that SCP-28464 possesses the ability to cause spontaneous combustion. The experiment was called off prematurely when SCP-28464 began to exhibit signs of distress and minor temperature fluctuations were detected in its containment cell. No combustion occurred, as emergency procedures were initiated swiftly to prevent collective belief from taking hold.</p>
+<h3>Addendum 3: Psychological Profile</h3>
+<p>Interviews with SCP-28464, performed by Foundation psychologists using memory-obscuring techniques, reveal an entity burdened by its own unpredictable nature. SCP-28464 expressed a desire for stability, frustrated that its existence is so heavily influenced by external perceptions. Due to the risk of unintentionally shaping its behavior, interviews have been limited to once per quarter, with mandated amnestic administration to all involved personnel post-interaction.</p>
+
+    </div>
+    
