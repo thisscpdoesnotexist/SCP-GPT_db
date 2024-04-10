@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28461 is  U  Whiskey Bar </h3> </center>
+
+    <h3>Item #: SCP-28461 - The Melancholy Echoes</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28461-GPT.png" alt="Illustration of SCP-28461" />
+        
+<h3>Description:</h3>
+<p>SCP-28461, colloquially known as "The Melancholy Echoes," is an anomalous establishment resembling an early 20th-century speakeasy bar. It is located in an underground space beneath the remains of what was once a prominent jazz club in [REDACTED], Louisiana. SCP-28461's anomalous properties manifest when any individual initiates a musical performance within its confines. These performances create auditory hallucinations echoing past events, conversations, and emotions perceived by individuals present during the original time of the performance's historical counterpart. These echoes appear to be remnants of the club's former glory during the Prohibition era.</p>
+<p>No lasting psychological effects from the hallucinations have been observed. Attempts to record the auditory hallucinations have resulted in standard audio of the present performance, with no traces of the anomalous effects. Observers not physically present in SCP-28461 during a performance report nothing unusual about the recordings.</p>
+<p>The interior of SCP-28461 is preserved in a state indefinitely suggesting continuous use. Bottles, glasses, and musical instruments present in the establishment cannot be removed from the premises and will dematerialize and reappear in their original locations if such action is attempted.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As SCP-28461 is not inherently dangerous and is self-containing, a minimal security approach has been adopted. The entrance to SCP-28461 has been sealed with a reinforced steel door, and the property above has been acquired by a Foundation front company. Two guards, rotated weekly, are to monitor the entrance to prevent unauthorized access.</p>
+<p>Scheduled testing is allowed with prior approval from at least one Level-3 Senior Researcher. Personnel with backgrounds in historical musicology or similar disciplines are preferred for meaningful interaction with SCP-28461's properties. All research personnel must undergo a psychological evaluation before and after interaction with SCP-28461.</p>
+<h3>Addendum 1:</h3>
+<h4>Addendum 1A: Discovery</h4>
+<p>SCP-28461 was discovered in 19██ after local reports of mysterious music and voices near the derelict location of the jazz club. A Foundation field agent embedded in the local police force conducted a preliminary investigation and concluded the need for Foundation involvement. Subsequent exploration led to SCP-28461's classification as Safe, given its predictable behavior and ease of containment.</p>
+<h4>Addendum 1B: Incident 28461-1</h4>
+<p>During a routine test that involved a jazz ensemble performing period-appropriate music, SCP-28461 exerted its effect over a much larger radius than previously observed, affecting individuals in the nearby Foundation-controlled surface building. Affected personnel experienced intense nostalgia and an overwhelming sense of longing for an era none of them had lived through. Containment procedures were updated to include a secondary soundproof barrier, and on-site personnel are now required to wear noise-canceling headphones as a precaution during testing.</p>
+<h3>Addendum 2:</h3>
+<h4>Addendum 2A: Experiment Log</h4>
+<p><strong>Experiment 28461-E1</strong>
+- <strong>Date:</strong> ██/██/20██
+- <strong>Subject(s):</strong> D-2851, amateur pianist
+- <strong>Procedure:</strong> D-2851 instructed to perform Scott Joplin's "Maple Leaf Rag."
+- <strong>Results:</strong> D-2851 reported hearing distant applause and glasses clinking. Surveillance captured D-2851 pausing intermittently, as if listening to unseen patrons.
+- <strong>Notes:</strong> D-2851 became sullen after exiting SCP-28461. Described a "profound sense of loss."</p>
+<p><strong>Experiment 28461-E2</strong>
+- <strong>Date:</strong> ██/██/20██
+- <strong>Subject(s):</strong> D-3912, no musical background
+- <strong>Procedure:</strong> D-3912 instructed to play a pre-recorded track of a jazz band using sound equipment inside SCP-28461.
+- <strong>Results:</strong> No anomalous effects observed. D-3912 reported nothing out of the ordinary.
+- <strong>Notes:</strong> Live performance seems to be a requirement to trigger SCP-28461's anomalous properties.</p>
+<p><strong>Experiment 28461-E3</strong>
+- <strong>Date:</strong> ██/██/20██
+- <strong>Subject(s):</strong> Dr. ██████, a trained classical cellist
+- <strong>Procedure:</strong> Dr. ██████ to perform J.S. Bach's "Cello Suite No. 1."
+- <strong>Results:</strong> Despite the anachronistic choice of music, SCP-28461 still enacted its property. Dr. ██████ reported the sound of rain and distant thunder, accompanied by hushed conversations about the 1929 Stock Market Crash.
+- <strong>Notes:</strong> Historical relevance of music played within SCP-28461 might not be the main trigger for its effects. Emotional resonance plays a significant role.</p>
+<h3>Addendum 3:</h3>
+<h4>Addendum 3A: Personal Accounts</h4>
+<p>Personal reports logged by researchers describe feelings of sadness and introspection following exposure to SCP-28461. Some have noted a lingering desire to revisit the bar, even expressing dreams where they converse with patrons from the speakeasy's past. Psychological evaluations indicate that these desires fade within two weeks following exposure. The exact nature of SCP-28461's influence over human emotion remains an area of active research. </p>
+<p>Ongoing studies aim to decipher the pattern of SCP-28461’s auditory echoes with the hope to understand not only the historical context but also the potential to forecast events based on the bar’s "memories." Researchers have begun cataloging the experiences induced by SCP-28461 to ensure a comprehensive understanding of its effects and to guard against any long-term psychological influences on Foundation staff.</p>
+
+    </div>
+    
