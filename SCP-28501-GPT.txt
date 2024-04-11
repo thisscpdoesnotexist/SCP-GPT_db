@@ -1,0 +1,45 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28501 is  A Giant Elk With Spikes Ball On Tail </h3> </center>
+
+    <h3>Item #: SCP-28501 - "Cervus Spiculatus"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28501-GPT.png" alt="Illustration of SCP-28501" />
+        
+<h3>Description:</h3>
+<p>SCP-28501, dubbed "Cervus Spiculatus," appears to be a massive elk species with significant anomalous properties. Adults have been observed standing at approximate heights of 3.5 meters at the shoulder, with antlers spanning up to 5 meters. The defining feature of SCP-28501, however, is its tail, which terminates in a highly muscular and prehensile appendage ending in a heavy keratinous ball bristling with metallic spikes. The composition of these spikes is an alloy not found in any non-anomalous biological matter and is resistant to most forms of damage.</p>
+<p>SCP-28501 displays abnormally high levels of intelligence, suggestive of a cognitive ability on par with that of a non-anomalous adolescent human. It can manipulate its tail with devastating effect, using it to create structures, manipulate objects, and as a lethal weapon. The entity is capable of vocalizing in a range that is undetectable to human hearing, and it is hypothesized that it uses this ability to communicate with its kind or perhaps other unknown entities.</p>
+<p>The entity exhibits a unique defense mechanism when threatened: the spikes on its tail can be launched with great velocity, embedding into a variety of surfaces, including reinforced steel. Subsequent testing has revealed that these spikes undergo rapid regrowth, allowing SCP-28501 to rapidly replenish its arsenal.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28501 is contained in a custom-built, high-security biodome at Site-███, designed to replicate the entity's natural habitat—an approximation of North American temperate forest. The enclosure is to be surveilled at all times with both visible spectrum and thermal imaging cameras. </p>
+<p>The walls, floor, and ceiling of the biodome are reinforced with a tungsten-carbide-steel alloy capable of withstanding both the brute force and spike attacks from SCP-28501. Personnel entering the enclosure for maintenance or study must wear specially designed protective suits with an exoskeletal reinforcement frame to protect against potential spike projectiles and physical assault.</p>
+<p>Use of tranquilizers has proven ineffective; thus, should containment breach become imminent, the biodome is equipped with a series of electromagnetic pulse (EMP) emitters, designed to temporarily stun SCP-28501 by disrupting its neural pathways without causing permanent damage.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-28501 was initially discovered in the ██████ National Forest after a series of reports related to unusual wildlife activity and several missing person cases. A Foundation research team was dispatched and successfully contained the entity after employing the use of a prototype EMP weapon.</p>
+<h3>Addendum 2: Incident Log</h3>
+<ul>
+<li>
+<p><strong>Incident 28501-A:</strong> SCP-28501 became agitated during a routine feeding operation and launched several spikes at the observation window. Despite the window’s reinforced glass holding, immediate revision of the enclosure's design was initiated to prevent repeat events.</p>
+</li>
+<li>
+<p><strong>Incident 28501-B:</strong> A breach of containment occurred when SCP-28501 managed to break one of the biodome's walls by utilizing an as-yet-unknown resonance frequency emission. Reinforcement of the entire structure was undertaken, with the addition of adaptive counter-frequency measures.</p>
+</li>
+</ul>
+<h3>Addendum 3: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>Experiment 28501-E1:</strong> An attempt to communicate with SCP-28501 via low-frequency sound waves yielded inconclusive results. The entity did not respond with aggression, but neither did it show any signs of comprehension.</p>
+</li>
+<li>
+<p><strong>Experiment 28501-E2:</strong> D-class personnel, equipped with the protective suits, were introduced into the biodome to test SCP-28501's reactions to human presence. The entity observed them from a distance, eventually launching a single spike in the vicinity without striking anyone directly.</p>
+</li>
+<li>
+<p><strong>Experiment 28501-E3:</strong> Introduction of various non-anomalous elk specimens to ascertain SCP-28501's social behavior. SCP-28501 displayed initial curiosity, followed by aggressive posturing. The experiment was terminated when SCP-28501 began attacking the other elk, resulting in lethal outcomes for the non-anomalous subjects.</p>
+</li>
+</ul>
+<h3>Addendum 4: Researcher's Notes</h3>
+<p>Dr. ██████: Additional notes concerning the behavioral patterns of SCP-28501 suggest a complex social structure not yet understood. Each encounter with the entity yields new information about its capabilities, indicating a level of adaptability that makes containment and research challenging. Its ability to damage or alter its containment without apparent planning hints at a potential for escape and necessitates ongoing review of its enclosure. The Ethics Committee has approved ongoing studies to further understand SCP-28501, with the express goal of developing more effective, humane containment procedures.</p>
+
+    </div>
+    
