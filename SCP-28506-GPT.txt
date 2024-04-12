@@ -1,0 +1,50 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28506 is  A reptile With Spikes Ball Tail </h3> </center>
+
+    <h3>Item #: SCP-28506 - "The Porcupine Dragon"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28506-GPT.png" alt="Illustration of SCP-28506" />
+        
+<h3>Description:</h3>
+<p>SCP-28506, colloquially referred to as "The Porcupine Dragon," is an anomalous entity resembling an apex predator with an irregular combination of reptilian and mammalian features. The creature possesses a lithe, serpentine body, covered in tough, kevlar-like scales, and measures approximately 7 meters in length. Its most distinguishing characteristic is its tail, which ends in a large, spherical cluster of spikes able to be launched with lethal velocity.</p>
+<p>SCP-28506 demonstrates high intelligence, problem-solving abilities, and an innate understanding of human behavior. Its origin remains unknown, but DNA analysis suggests it is a chimeric organism comprised of genetic material from multiple Earth species, as well as unknown extraterrestrial sequences. The entity is capable of vocalizing in a way that disrupts electronic recording devices, and as such, no complete audio of SCP-28506 exists.</p>
+<p>Since its containment, SCP-28506 has made several escape attempts, often employing cunning strategies to bypass security. The creature's metabolism allows it to thrive on a variety of biological and non-biological materials, giving it a significant survival advantage. Ingestion of certain metals appears to catalyze rapid regrowth of its tail spikes, which are the primary method of both hunting prey and defense.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28506 is to be held in a custom-designed spherical containment cell, composed of reinforced titanium alloy 5 meters in thickness, with an interior diameter of 25 meters. The cell is suspended by electromagnetic fields to minimize physical contact with the outer structure, thus reducing potential wear and points of failure.</p>
+<p>The interior of the cell is to be surveilled via drones resistant to EMP and sonic disruptions, with remote observation taking place at least 500 meters from the primary containment unit. Feeding is to be conducted once per day through automated systems, delivering a mixed diet of organic material and select metals.</p>
+<p>All personnel interacting with SCP-28506 must undergo psychological evaluation to ensure resilience against its manipulative behavior. In the event of a containment breach, Site-██ is to enact Protocol Vespine, which includes site-wide lockdown, activation of automated defense systems, and mobilization of Recovery Team Kappa-6 ("Dragon Slayers").</p>
+<h3>Addendum 1: Incidence Report 28506-Alpha</h3>
+<h4>Incident 28506-Alpha-1:</h4>
+<p>On ██/██/20██, SCP-28506 breached containment by shooting spikes to rupture the gyroscopic stabilization system of its cell. This led to the temporary shutdown of the electromagnetic suspension, allowing it to breach the outer layer. Immediate implementation of Protocol Vespine resulted in recontainment within four hours. Casualties included ██ personnel with █ fatalities.</p>
+<h4>Incident 28506-Alpha-2:</h4>
+<p>Post-breach analysis revealed SCP-28506 exploited a previously unknown vulnerability in the electromagnetic suspension's harmonic frequency. Upgrades to containment protocols and structural redundancies have been implemented.</p>
+<h3>Addendum 2: Experiment Log 28506</h3>
+<h4>Experiment 28506-E-1:</h4>
+<p><strong>Objective</strong>: To test the regrowth rate of SCP-28506's spikes in the absence of metal ingestion.
+<strong>Procedure</strong>: SCP-28506 was provided with organic material exclusively for a period of 7 days.
+<strong>Result</strong>: Spikes showed a 75% reduction in regrowth speed, suggesting metal consumption is a catalyst for rapid regeneration.</p>
+<h4>Experiment 28506-E-2:</h4>
+<p><strong>Objective</strong>: To determine the effects of different metals on spike regrowth.
+<strong>Procedure</strong>: SCP-28506 was fed a controlled diet including iron, copper, titanium, and a sample of an SCP-148 alloy.
+<strong>Result</strong>: Titanium accelerated regrowth more than other metals, while SCP-148 produced unprecedented spike growth and aggression. SCP-148 has been removed from SCP-28506's diet.</p>
+<h4>Experiment 28506-E-3:</h4>
+<p><strong>Objective</strong>: To assess SCP-28506's adaptability in various environmental conditions.
+<strong>Procedure</strong>: The containment cell's internal environment was adjusted to simulate arctic, desert, and underwater conditions.
+<strong>Result</strong>: SCP-28506 demonstrated rapid physiological adaptation to each environment, including thermal regulation, respiratory adjustment, and elongation of its spiked tail for propulsion in water.</p>
+<h3>Addendum 3: Interview Log 28506-Delta</h3>
+<p><strong>Interviewer</strong>: Dr. ███████
+<strong>Subject</strong>: SCP-28506
+<strong>Transcript</strong>:</p>
+<p>[Begin Log]</p>
+<p>Dr. ███████: Can you understand me?</p>
+<p>SCP-28506: [Loud static interference] Yes, Doctor.</p>
+<p>Dr. ███████: You've shown remarkable adaptability. What are you?</p>
+<p>SCP-28506: [Static interference, speech indistinguishable]</p>
+<p>[Remainder of the interview is lost due to extreme audio disruption caused by SCP-28506]</p>
+<p>[End Log]</p>
+<p><em>Notice</em>: Further communication attempts with SCP-28506 have been suspended due to potential informational hazards and to prevent psychological manipulation of staff members.</p>
+
+    </div>
+    
