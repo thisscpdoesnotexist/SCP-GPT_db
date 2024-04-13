@@ -1,0 +1,74 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28542 is  Forest in Ritual With AII Kaiju </h3> </center>
+
+    <h3>Item #: SCP-28542 - "The Thaumaturgic Copse"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28542-GPT.png" alt="Illustration of SCP-28542" />
+        
+<h3>Description:</h3>
+<p>SCP-28542 refers to an anomalous biological ecosystem resembling an age-old forest located in a remote area of Hokkaido, Japan. The forest covers an expanse of approximately 3.5 square kilometers and exhibits an uncharacteristic, evergreen verdure regardless of the season.</p>
+<p>The flora within SCP-28542 exhibits extraordinary regenerative properties and is comprised of both identifiable species and various unidentified, possibly extra-dimensional varieties. These regenerative properties extend to any living organism within its perimeter, effectively rendering them immune to age and disease; however, standard mortal injuries remain potent.</p>
+<p>Central to SCP-28542's anomalous characteristics is a ritualistic event that occurs biannually during the equinoxes. The forest floor opens to reveal a vast subterranean chamber, which subsequently allows for the manifestation of a colossal entity provisionally designated as SCP-28542-AII.</p>
+<p>SCP-28542-AII appears to be a kaiju-class organism with a morphology vaguely reminiscent of creatures from Japanese folklore amalgamated with biomechanical elements. SCP-28542-AII displays behaviors consistent with a protective entity and not only actively defends the forest from external threats but has also intervened in multiple worldwide cataclysmic scenarios, including potential CK-Class Reality Restructuring and XK-Class End-of-the-World scenarios.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given its globally protective function and the inherent difficulty in containing a kaiju-class entity of this nature, SCP-28542 has been classified as Thaumiel and is currently under discreet Foundation surveillance and environmental protection through the guise of a wildlife sanctuary (Designation: "Inari's Haven").</p>
+<p>Perimeter security is to be maintained by Foundation personnel with credentials of Level 3 or higher, masquerading as park rangers. Access is strictly forbidden except under direct authorization from the Site Director or the O5 Council. The entrance to SCP-28542 is to be concealed using state-of-the-art holographic camouflage technology.</p>
+<p>In preparation for the equinox events, Foundation personnel are to evacuate the area and deploy a disinformation campaign to cover any potential visibility of SCP-28542-AII's emergence. Should any unaffiliated individuals accidentally breach containment during an equinox event, amnestics are to be administered post-event.</p>
+<h3>Addendum 1: Discovery of SCP-28542</h3>
+<ul>
+<li>
+<p><strong>1.1 Historical Background:</strong>
+SCP-28542 was initially discovered following the investigation of several local legends detailing a "forest that walks." The first Foundation agents on-site encountered SCP-28542-AII during an equinox event and narrowly avoided an XK-Class scenario.</p>
+</li>
+<li>
+<p><strong>1.2 Initial Containment:</strong>
+Temporarily classed as Keter, SCP-28542 was contained following Protocol Kaiju-Bravo, which involved aerospace and terrestrial monitoring, electromagnetic interference to prevent electronic detection, and the establishment of the Inari's Haven wildlife sanctuary.</p>
+</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>2.1 Biological Experiments:</strong>
+Several D-Class personnel with terminal illnesses were allowed under controlled conditions to enter SCP-28542. They exhibited complete remission of their conditions within 48 hours. Subsequent aging studies have been inconclusive due to the apparent cessation of the aging process within SCP-28542's limits.</p>
+</li>
+<li>
+<p><strong>2.2 Interaction with SCP-28542-AII:</strong>
+A series of tests were conducted to determine SCP-28542-AII's level of sentience and potential for communication. Utilizing a combination of audio, visual, and technological signals, researchers eventually established a rudimentary method to exchange information. SCP-28542-AII appears to possess a complex understanding of global threats and its role in countering them.</p>
+</li>
+<li>
+<p><strong>2.3 SCP-28542-AII Defensive Capabilities:</strong>
+During an attempt by the Group of Interest known as the "Serpent's Hand" to infiltrate SCP-28542, SCP-28542-AII was observed emitting an energy beam of unidentified composition, resulting in the annihilation of the offending force. Further testing of SCP-28542-AII's capabilities has been approved but is pending due to ethical considerations. </p>
+</li>
+</ul>
+<h3>Addendum 3: The Ritual of Equinox</h3>
+<ul>
+<li>
+<p><strong>3.1 Description of the Event:</strong>
+Twice a year, SCP-28542 undergoes a metamorphosis culminating in an elaborate display of bioluminescence. This event serves as a precursor to SCP-28542-AII's emergence. Hieroglyphs appearing on the trees suggest a correlation with ancient Japanese esoteric rituals and may offer clues to the entity's origin.</p>
+</li>
+<li>
+<p><strong>3.2 Theoretical Implications:</strong>
+Researchers posit that SCP-28542-AII's appearances and the ritualistic nature of the events may be tied to the Earth's geomagnetic and ley-line energies. The precise function of the ritual, apart from the being's defensive purposes, remains largely speculative. Studies into the nature of this relationship and potential applications for the prevention of circumstantial anomalies are ongoing.</p>
+</li>
+</ul>
+<h3>Addendum 4: Incident Report XXXX-01</h3>
+<ul>
+<li>
+<p><strong>4.1 Raid by Unknown Forces:</strong>
+On ██/██/20██, a highly organized militant force equipped with advanced technology and anomalous capabilities attempted to seize control of SCP-28542 during an equinox event. SCP-28542-AII responded defensively, causing severe casualties to the aggressors and damage to the containment perimeter.</p>
+</li>
+<li>
+<p><strong>4.2 Implications for Foundation Security:</strong>
+The attackers utilized technology previously undocumented by the Foundation, suggesting the existence of a previously unknown GOI or a significant advancement from a known adversary. Further security protocols, including the use of Scranton Reality Anchors and Thaumiel-class asset defense, have been implemented. </p>
+</li>
+<li>
+<p><strong>4.3 Measures Taken:</strong>
+Enhanced interrogation of the few captives yielded minimal viable intelligence. However, heightened monitoring and further development of SCP-28542-based defense mechanisms are underway to mitigate future threats to both the SCP and global stability.</p>
+</li>
+</ul>
+<p>The forest contained within SCP-28542 remains one of the Foundation's most guarded and enigmatic assets, guarding the Earth in ways humanity is only just beginning to understand.</p>
+
+    </div>
+    
