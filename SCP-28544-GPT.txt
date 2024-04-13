@@ -1,0 +1,62 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28544 is  Hard To Destroy Largest Demonic Goat  </h3> </center>
+
+    <h3>Item #: SCP-28544 - The Indestructible Capra</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28544-GPT.png" alt="Illustration of SCP-28544" />
+        
+<h3>Description:</h3>
+<p>SCP-28544, colloquially known as "The Indestructible Capra," is an anomalous entity resembling a domestic goat (Capra aegagrus hircus) in size and morphology. However, it is distinguished by its significantly larger stature, standing approximately 3.5 meters at the shoulder. SCP-28544's fur is an obsidian black, with eyes that intermittently glow a deep red. Despite its mammalian appearance, the entity has displayed properties often associated with spiritual demonic entities.</p>
+<p>SCP-28544's notable anomalous attributes include:
+1. The ability to regenerate fully within seconds from any form of physical damage, rendering it effectively indestructible.
+2. A malevolent aura that induces intense fear and psychological torment in humans and animals within a 50-meter radius.
+3. The capability to speak in a variety of languages, often threatening and foreboding in content.
+4. Emission of an as-yet-unidentified energy that is disruptive to electronic devices.
+5. Teleportation within an unspecified range.</p>
+<p>SCP-28544 was first encountered in [REDACTED], where it was the center of local folklore for centuries. The Foundation's attention was drawn after a significant uptick in missing persons reports and unusual seismic activities in the area. Following containment, SCP-28544 has demonstrated intelligence and cunning, often attempting to manipulate staff and breach containment.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the resilient and erratic behavior of SCP-28544, it is currently contained in an area known as Site-122, specifically design for its containment. Site-122 is a heavily fortified underground facility, located in a remote area with no public access.</p>
+<p>The containment chamber is a 10m x 10m x 10m cube made of 3-meter thick walls composed of a lead and tungsten alloy, surrounded by an array of electromagnetic field (EMF) generators designed to create an interference that limits SCP-28544's teleportation ability. The interior is fitted with automated defense mechanisms capable of incapacitating SCP-28544 temporarily, during which time maintenance and inspections can be safely carried out.</p>
+<p>Personnel assigned to SCP-28544 must undergo rigorous psychological evaluation and training. A minimum of four armed guards are to monitor the containment chamber at all times, with orders to engage the entity with non-lethal force to prevent a potential breach. Any communication with SCP-28544 should be conducted via intercom by authorized personnel only, and all interactions must be recorded and logged.</p>
+<p>Access to SCP-28544's containment chamber is restricted to Level 4 personnel and above, and must be approved by two-thirds of the O5 Council given the extreme risk that the entity poses.</p>
+<h3>Addendum 1: Incident Log-28544-A</h3>
+<ul>
+<li>
+<p><strong>Date</strong>: [DATA EXPUNGED]</p>
+</li>
+<li>
+<p><strong>Summary</strong>: SCP-28544 succeeded in a partial containment breach when it manipulated a guard into deactivating the EMF generators. The entity slaughtered numerous personnel before being recontained by the automatic defense systems. As a result, psychological screening procedures were enhanced, and the affected guard was reassigned after thorough mind-affecting anomaly cleansing.</p>
+</li>
+</ul>
+<h3>Addendum 2: Experiment Log-28544</h3>
+<p><strong>Experiment 28544-E01</strong>: Examination of Regeneration
+- <strong>Procedure</strong>: Removal of SCP-28544's left foreleg.
+- <strong>Results</strong>: Leg fully regenerated within 7 seconds. SCP-28544 became highly hostile and had to be subdued.</p>
+<p><strong>Experiment 28544-E04</strong>: Teleportation Range Test
+- <strong>Procedure</strong>: Temporarily disabling one EMF generator to observe teleportation distances.
+- <strong>Results</strong>: SCP-28544 teleported 50 meters from its containment chamber before EMFs were restored. Breach lockdown initiated. No casualties.</p>
+<p><strong>Experiment 28544-E19</strong>: Psychological Influence Assessment
+- <strong>Procedure</strong>: Class-D personnel were placed within 50 meters of SCP-28544's containment chamber while SCP-28544 was provoked to demonstrate its malevolent aura.
+- <strong>Results</strong>: Affected Class-D suffered from severe panic attacks and hallucinations. One subject [DATA EXPUNGED] and expired. EMF interference implemented to reduce psychological influence.</p>
+<h3>Addendum 3: Interview Log-28544-Θ</h3>
+<ul>
+<li><strong>Date</strong>: [REDACTED]</li>
+<li><strong>Interviewer</strong>: Dr. Valery Aramov.</li>
+<li><strong>Subject</strong>: SCP-28544.</li>
+</ul>
+<p><strong>Begin Transcript</strong></p>
+<p>Dr. Aramov: SCP-28544, can you understand me?</p>
+<p>SCP-28544: (voice resonating deeply) I understand far more than your mortal coil could comprehend, Doctor.</p>
+<p>Dr. Aramov: Why do you cause harm to those around you?</p>
+<p>SCP-28544: It is not a matter of desire; it is my very essence. You chain what you fear, yet you know not the depths of the abyss that stares back at you.</p>
+<p>Dr. Aramov: What are your intentions?</p>
+<p>SCP-28544: To exist is to influence. Your kind will either worship or cower. The outcome is of no consequence.</p>
+<p>Dr. Aramov: Are there more beings like you?</p>
+<p>SCP-28544: This conversation tires me, mortal. Seek your answers in the void that will eventually consume you.</p>
+<p><strong>End Transcript</strong></p>
+<p>Following the interview, Dr. Aramov recommended further study into possible extra-dimensional origins of SCP-28544 and a reassessment of containment strategies to account for not only its physical attributes but also psychological and existential threats presented by the entity.</p>
+
+    </div>
+    
