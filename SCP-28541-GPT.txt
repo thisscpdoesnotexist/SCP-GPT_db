@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28541 is  A Largest abandoned dead mall Mall In Ritual Dragon Demon And Reptilian Demon In after Dimension Portal Space time </h3> </center>
+
+    <h3>Item #: SCP-28541 - "The Draconic Nexus"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28541-GPT.png" alt="Illustration of SCP-28541" />
+        
+<h3>Description:</h3>
+<p>SCP-28541 refers to a spatial anomaly existing within an abandoned shopping mall, previously known as the ██████ Shopping Centre, located in ███████, ██████. The anomaly was discovered on ██/██/20██ after numerous reports of missing persons and strange atmospheric conditions emanating from the vicinity of the mall.</p>
+<p>The interior of SCP-28541 exhibits significant deviations from its exterior dimensions, suggesting spatial distortion or a link to an extra-dimensional space. The atmosphere within the mall is consistently reported as dense with a sulfurous odor and a dim, reddish ambient light, despite the absence of visible light sources.</p>
+<p>Peculiar to SCP-28541 is the presence of what witnesses describe as a 'Ritual Dragon Demon' (dubbed SCP-28541-A) and 'Reptilian Demons' (collectively referred to as SCP-28541-B instances). SCP-28541-A appears as a colossal serpentine entity with draconic features and is often seen hovering or coiled around a large central atrium, where a spatial rift, assumed to be the portal to another dimension, is located. SCP-28541-B entities are humanoid reptilians of varying stature that roam the complex, seemingly guarding the central atrium.</p>
+<p>Unlike other SCPs with hazardous or unpredictable effects, SCP-28541 appears to offer significant potential for research into spatial anomalies, extra-dimensional travel, and potential containment or communication with non-human entities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the large scale and public location of SCP-28541, complete secrecy and isolation are not feasible. Instead, the area surrounding SCP-28541 has been acquired by a Foundation front company, and unauthorized access is deterred under the guise of hazardous structural damage.</p>
+<p>A reinforced containment unit has been established at the entrance of the mall, and access to SCP-28541 is restricted to Level 4 personnel and above or those with explicit authorization from the O5 Council. A team of researchers specializing in spatial anomalies and thaumatology is assigned for analysis and experimentation.</p>
+<p>Armed security teams, equipped with specialized protective gear and armaments effective against reptilian cryptids, maintain a constant presence at the mall's perimeter and within the containment unit to neutralize any hostile SCP-28541-B instances attempting to exit the anomaly.</p>
+<p>All activity within SCP-28541 is to be monitored via remote surveillance whenever possible. Any direct exploration or interaction with SCP-28541-A should be conducted with extreme caution and requires approval from two members of the O5 Council.</p>
+<h3>Addendum 1: Incident Log 28541-01</h3>
+<h4>Incident 28541-01-A: Initial Discovery</h4>
+<p>On ██/██/20██, local authorities were alerted by concerned citizens about a series of unexplained disappearances in the ██████ area. Upon investigation, agents embedded within the local police department uncovered the connection to the abandoned shopping mall and subsequently notified the Foundation.</p>
+<h4>Incident 28541-01-B: Encounter with SCP-28541-A and SCP-28541-B</h4>
+<p>A reconnaissance team reported the first sighting of SCP-28541-A and SCP-28541-B entities, as well as the presence of the spatial rift within the central atrium. One team member was lost during the initial contact, and the encounter led to the immediate establishment of preliminary containment procedures.</p>
+<h3>Addendum 2: Experiment Log 28541</h3>
+<h4>Experiment 28541-E1: Communication Attempt</h4>
+<p>Objective: To establish a method of communication with SCP-28541-A.
+- Results: SCP-28541-A displayed awareness of the research team's presence but did not respond to any known form of communication, including verbal, written, mathematical, or telepathic attempts.</p>
+<h4>Experiment 28541-E2: Exploration of Rift</h4>
+<p>Objective: To explore the spatial rift within the central atrium using unmanned drones equipped with cameras and environmental sensors.
+- Results: Drones transmitted data indicative of an expansive, interconnected series of extra-dimensional spaces, likely constituting a pocket dimension. Contact with drones was lost after about 500 meters beyond the rift. Retrieval has thus far proved impossible.</p>
+<h4>Experiment 28541-E3: Interaction with SCP-28541-B</h4>
+<p>Objective: To capture a live SCP-28541-B instance for study.
+- Results: SCP-28541-B instances displayed high levels of hostility and strength, resulting in significant damage to containment equipment and two casualties. Capture was successful but resulted in the self-termination of the instance via unknown means shortly after containment.</p>
+<h3>Addendum 3: Theoretical Applications</h3>
+<p>Research into SCP-28541's potential applications is ongoing. Preliminary theories suggest that the anomaly may provide insight into:</p>
+<ul>
+<li>Thaumaturgic practices, particularly those involving space-time manipulation;</li>
+<li>Extra-dimensional travel and containment of entities originating from such dimensions;</li>
+<li>The nature of SCP-28541-A's existence and whether it holds any influence over the spatial anomaly.</li>
+</ul>
+<h3>Addendum 4: O5 Council Directive</h3>
+<p>Following extensive deliberations, the O5 Council has issued a directive prioritizing the study and potential harnessing of SCP-28541's spatial properties. The potential to create stable gateways or even 'contain' other SCP entities within the pocket dimension warrants exhaustive exploration, under the understanding that such measures could fundamentally advance the Foundation's containment capabilities. All future experiments must observe the utmost caution given the unpredictability and potential dangers associated with SCP-28541.</p>
+
+    </div>
+    
