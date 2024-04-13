@@ -1,0 +1,42 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28549 is  a doomsday monster that can set all of Europe aflame just by scratching its nose </h3> </center>
+
+    <h3>Item #: SCP-28549 - "Pyroclastic Nemesis"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28549-GPT.png" alt="Illustration of SCP-28549" />
+        
+<h3>Description:</h3>
+<p>SCP-28549, dubbed "Pyroclastic Nemesis," is an entity of indeterminate origin, approximately 12 meters in height and resembling a grotesque conglomeration of various mythological creatures with a predominantly reptilian appearance. Its skin appears to be composed of an obsidian-like substance that continuously emits a low, red glow reminiscent of molten rock.</p>
+<p>The most notable and dangerous feature of SCP-28549 is its extraordinary pyrokinetic ability which becomes active when the entity exhibits behavior that could be analogously described as "scratching its nose." Upon this action, an instance of catastrophic pyroclastic activity is manifested, inexplicably igniting vast swathes of the European continent in flames comparable to those observed during major volcanic eruptions. This event occurs instantaneously and affects areas within a radius of at least 1,500 kilometers from SCP-28549's location.</p>
+<p>SCP-28549 appears to be sentient and has demonstrated intelligence, though it has not communicated in any known language. It has exhibited patterns of behavior suggesting a degree of self-awareness and possible understanding of the consequences of its actions—though it should be noted this is speculative.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28549 is currently uncontained and at large. Efforts to capture and contain SCP-28549 are ongoing and of the highest priority. The entity has evaded all attempts at containment to date using a combination of its anomalous properties and apparent strategic intelligence.</p>
+<p>Mobile Task Force Mu-13 ("Hellchasers") has been assigned to pursue and attempt to contain SCP-28549, employing a variety of non-lethal capture strategies devised specifically for this entity. Due to the catastrophic nature of SCP-28549's pyrokinetic manifestation, all nearby civilian populations are to be evacuated covertly in anticipation of its next scratching event with the cover story of a "gas leak" or "seismic activity" to prevent public panic.</p>
+<p>In the event SCP-28549 is successfully contained, a specialized containment facility is to be constructed at a classified location. This facility must be equipped to withstand extreme temperatures and must have a containment chamber made from heat-resistant alloys and materials capable of withstanding sustained temperatures in excess of 2,000 degrees Celsius. A secondary containment zone is to be filled with an inert gas such as argon to prevent any accidental ignitions.</p>
+<h3>Addendum 1: Incident Log</h3>
+<h4>Addendum 1-A: Incident #28549-A1</h4>
+<p>On ██/██/20██, SCP-28549 was spotted in the Carpathian Mountains, where it inadvertently triggered its pyrokinetic effect, resulting in widespread forest fires across Eastern Europe. The fires were contained after the loss of ███ human lives.</p>
+<h4>Addendum 1-B: Recorded Communication Attempt</h4>
+<p>During a confrontation with Mobile Task Force Mu-13, SCP-28549 emitted a series of low-frequency vocalizations. Audio analysts have yet to decipher any potential linguistic content.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Addendum 2-A: Experiment #28549-E1</h4>
+<p>A remote drone equipped with various non-lethal incapacitating agents attempted to approach SCP-28549. The entity became agitated and performed the nose-scratching gesture, resulting in a pyroclastic discharge destroying the drone.</p>
+<h4>Addendum 2-B: Experiment #28549-E2</h4>
+<p>A specialized drone emitting calming pheromones and broadcasting various soothing sound frequencies was employed. SCP-28549 showed initial signs of reduced hostility but soon became distrusting of the drone’s presence and incinerated the unit with a directed burst of flame.</p>
+<h4>Addendum 2-C: Experiment #28549-E3</h4>
+<p>An unmanned ground vehicle (UGV) approached SCP-28549 while dispersing a trail of a chemical composition similar to volcanic ash. SCP-28549 followed the trail, leading it away from populated areas. The UGV was ultimately incinerated, but the result indicates a potential method for guiding SCP-28549's movement.</p>
+<h3>Addendum 3: Researcher Notes</h3>
+<h4>Addendum 3-A: Dr. ██████'s Hypothesis</h4>
+<p>"It is my belief that SCP-28549’s 'nose-scratching' is not a habitual act but a deliberate defensive mechanism triggered by specific environmental or psychological stimuli. Further research into the entity’s behavioral patterns is necessary to develop more effective containment strategies."</p>
+<h4>Addendum 3-B: Ethics Committee Review</h4>
+<p>The Ethics Committee has raised concerns over the potential requirement for 'bait' populations to lead SCP-28549 away from major urban centers. Current protocols are under review to prioritize civilian life while maintaining containment efforts.</p>
+<h3>Addendum 4: Ongoing Containment Efforts</h3>
+<h4>Addendum 4-A: Project "Firebreaker"</h4>
+<p>Project "Firebreaker" is in the developmental stage, consisting of the proposed construction of a series of underground containment corridors designed to guide and eventually trap SCP-28549 utilizing its predilection for following artificial volcanic ash trails.</p>
+<h4>Addendum 4-B: Update on MTF Mu-13 Status</h4>
+<p>MTF Mu-13 has currently been reassigned to work in conjunction with other Task Forces due to the nature of SCP-28549’s ability to affect large areas. Collaborative efforts to develop a full-range response to the entity are top priority, given its danger to European and potentially global safety.</p>
+
+    </div>
+    
