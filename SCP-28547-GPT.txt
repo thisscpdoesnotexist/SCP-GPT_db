@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28547 is  A Kaiju Slattern </h3> </center>
+
+    <h3>Item #: SCP-28547 - "The Leviathan's Puppeteer"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28547-GPT.png" alt="Illustration of SCP-28547" />
+        
+<h3>Description:</h3>
+<p>SCP-28547, colloquially referred to as "The Leviathan's Puppeteer," is an anomalous entity bearing a superficial resemblance to the deep-sea Kaiju 'Slattern,' a fictional creature from the cinematic work "Pacific Rim." SCP-28547 is approximately 300 meters in length with a weight that seems to fluctuate, defying current understanding of mass and density.</p>
+<p>The entity possesses the unique ability to telepathically influence and manipulate both sea life and human subjects within an estimated radius of 100 kilometers. SCP-28547's control over marine organisms is strong enough to incite coordinated attacks against vessels and infrastructure, while its influence on humans usually manifests as an overwhelming compulsion to approach the entity, often leading to self-endangerment.</p>
+<p>SCP-28547 is bioluminescent and emits a pulsating blue light from patterns along its body which can have hypnotic effects on observers. Studies have identified an unknown form of radiation accompanying the light emissions, tentatively named "Theta-Kaiju Radiation" (TKR), which may be the catalyst for its mind-controlling abilities. Prolonged exposure to TKR has proven detrimental to neurological functions in both humans and animals.</p>
+<p>Beyond its mental influence, SCP-28547 displays physical characteristics and abilities far beyond any known terrestrial organism. Its skin exhibits extraordinary regenerative properties, and it has been observed to sustain itself on a diet that consists entirely of microplastics and pollution within the ocean, seemingly with no ill effects.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-28547’s size, conventional containment is impractical. Instead, the entity is to be constantly monitored by satellite tracking and a network of deep-sea drones, as part of Project DeepBlueWatch. A 150-kilometer exclusion zone (designated Zone-28547) has been established around SCP-28547’s last known location in the Mariana Trench. Any non-Foundation vessels attempting to enter Zone-28547 are to be deterred under the guise of military exercises or environmental preservation efforts.</p>
+<p>Foundation-operated naval vessels equipped with Scranton Reality Anchors (SRAs) are to patrol the perimeter, mitigating SCP-28547’s mind-controlling effects. 'Theta Shield' units specially designed to resist and nullify TKR are to be installed in all monitoring and containment equipment. Personnel operating within Zone-28547 must undergo regular psychological evaluation and TKR decontamination procedures.</p>
+<p>In the event of a containment breach, MTF Gamma-6 "Deep Feeders" is to be deployed with the task of enacting Protocol Leviathan's Reel, which involves the administration of a Class-V amnestic aerosol across affected populations and the use of submersible drones armed with high-yield explosives to drive SCP-28547 back to the Mariana Trench.</p>
+<h3>Addendum 1: Incident Report 28547-Alpha</h3>
+<p>On ████-██-██, SCP-28547 breached containment by extending its influence beyond Zone-28547, resulting in the formation of a coalition of marine predators that attacked a civilian cruise ship. The incident resulted in ██ casualties and the disappearance of ███ passengers. SCP-28547 had also commandeered a group of sperm whales, employing them as battering rams to cripple the ship's propulsion.</p>
+<p>MTF Gamma-6 successfully enacted Protocol Leviathan's Reel, and SCP-28547 was driven back to the Mariana Trench. Surviving witnesses were administered Class-V amnestics. Media reports attributed the incident to an unanticipated tropical storm leading to a shipping disaster.</p>
+<h3>Addendum 2: Experiment Log 28547</h3>
+<h4>Experiment 28547-E-001:</h4>
+<p><strong>Objective:</strong> To assess SCP-28547’s ability to influence deep-sea organisms.
+<strong>Procedure:</strong> A remotely operated vehicle (ROV) was deployed to observe SCP-28547’s interactions with local fauna.
+<strong>Results:</strong> SCP-28547 was observed to command a group of giant squid, synchronizing their movements to create complex patterns in bioluminescence, hypothesized to be a form of communication or display.
+<strong>Analysis:</strong> SCP-28547’s influence extends to highly intelligent deep-sea creatures, and it appears capable of eliciting cooperation for unknown purposes.</p>
+<h4>Experiment 28547-E-017:</h4>
+<p><strong>Objective:</strong> To test the effectiveness of the Theta Shield units against SCP-28547's TKR emissions.
+<strong>Procedure:</strong> A series of drones fitted with varying generations of the Theta Shield technology were maneuvered within close proximity to SCP-28547.
+<strong>Results:</strong> Latest generation Theta Shield units proved effective up to 15 meters from SCP-28547 before drone operators experienced minor psychological effects; earlier versions failed at distances greater than 50 meters.
+<strong>Analysis:</strong> Continuous development on Theta Shield units are required to maintain a safe working distance from SCP-28547.</p>
+<h4>Experiment 28547-E-023:</h4>
+<p><strong>Objective:</strong> To investigate SCP-28547's dietary absorption of microplastics and pollution.
+<strong>Procedure:</strong> Samples of stomach contents were extracted using specialized drones.
+<strong>Results:</strong> SCP-28547 was found to metabolize pollutants without producing any identifiable waste, suggesting an unknown method of energy conversion.
+<strong>Analysis:</strong> SCP-28547's feeding habits may have unintentional environmental benefits; further research into potential applications of its metabolic processes is ongoing.</p>
+
+    </div>
+    
