@@ -1,0 +1,51 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28543 is  AII Kaiju Ritual In abandoned dead Largest mall In Afterlife Dimension Space Time Portal  </h3> </center>
+
+    <h3>Item #: SCP-28543 - "The Afterlife Marketplace"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28543-GPT.png" alt="Illustration of SCP-28543" />
+        
+<h3>Description:</h3>
+<p>SCP-28543 is an extradimensional space accessible through what appears to be a ruptured fabric in spacetime, located in the ruins of what was once the world's largest mall, ████████ Plaza. This anomaly was first discovered on ██/██/20██ when reports of missing persons were traced back to the now-abandoned facility.</p>
+<p>The dimension accessed via SCP-28543 has been designated as SCP-28543-1. It resembles a vastly larger and more complex version of ████████ Plaza, with the key difference being that all entities and 'shoppers' observed within are deceased individuals whose last known location was within a 1-km radius of SCP-28543. Furthermore, these entities engage in what can best be described as a ritualistic barter system, using items that hold personal significance to the individual as currency.</p>
+<p>Highly religious iconography and symbols from multiple belief systems are prominently displayed throughout SCP-28543-1, and entities often exhibit behaviors and forms that do not correspond with their appearance prior to death, suggesting the manifestation of their personal beliefs regarding the afterlife.</p>
+<p>Several expeditions have been mounted to explore SCP-28543-1, and while it appears to be infinite in scope, consistent landmarks and realms have been mapped, hinting at an internal logic to its structure.</p>
+<p>Despite its hazardous environment and the potential psychological threat to research personnel, SCP-28543 has been classified as Thaumiel due to its potential use in understanding post-mortem consciousness and negotiating with entities that have crucial information about pre-death events.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28543 is to be contained on-site due to its fixed location and the impracticality of relocating the spacetime rupture. A permanent Foundation-operated observation post, disguised as a security unit for the abandoned mall, has been established to monitor and control access to the anomaly.</p>
+<p>No entry to SCP-28543-1 is permitted without the explicit approval of at least two (2) Level 4 research personnel. All expeditions must include a team of at least three (3) researchers equipped with specialized gear to prevent psychological contamination, as well as recording devices to document encounters and ritualistic behaviors within SCP-28543-1.</p>
+<p>Psychological screenings and debriefings are mandatory for all personnel before and after expeditions. Any significant changes in belief systems or behavior patterns in returnees are to be reported immediately.</p>
+<h3>Addendum 1: Expedition Log Excerpts</h3>
+<h4>Expedition Log A-01 - Initial Recon</h4>
+<ul>
+<li><strong>Personnel:</strong> Dr. H████, Agent L██, Researcher O████</li>
+<li><strong>Summary:</strong> First recorded entry into SCP-28543-1. Encounter with entities resembling known missing persons led to the discovery of the barter system. Expedition was cut short when a shift in the local reality index began affecting team perception, necessitating an immediate retreat.</li>
+</ul>
+<h4>Expedition Log A-05 - Mapping Landmarks</h4>
+<ul>
+<li><strong>Personnel:</strong> Dr. K█████, Agent R███, Researcher B█████</li>
+<li><strong>Summary:</strong> Team was tasked with mapping the spatial configuration of SCP-28543-1. Key landmarks, such as 'The Cathedral of Whispered Prayers' and 'The River of Forgotten Promises,' were identified and logged. Entities within SCP-28543-1 proved to be non-aggressive unless provoked.</li>
+</ul>
+<h3>Addendum 2: Incident Report I-03</h3>
+<h4>Incident Report I-03 - Encounter with a Hostile Entity</h4>
+<p>A previously undocumented entity, designated SCP-28543-A, was encountered during Expedition A-09. SCP-28543-A exhibited aggressive behavior and displayed reality-warping capabilities. It referred to itself as the 'Gatekeeper' and claimed to guard against 'unworthy souls' seeking 'forbidden knowledge.' Agent J███ was lost to SCP-28543-A after engaging in active combat to ensure the retreat of the remaining team members.</p>
+<h3>Addendum 3: Research Findings and Implications</h3>
+<h4>Subsection 3.1 - Post-Mortem Consciousness</h4>
+<p>Evidence from expeditions suggests that consciousness may persist in some form post-mortem within SCP-28543-1. Research into whether these entities retain memories and cognizance from their living days is ongoing.</p>
+<h4>Subsection 3.2 - Thaumiel-Class Utility</h4>
+<p>SCP-28543's unique properties have been harnessed to gather intelligence on several key figures who passed away under mysterious circumstances. The negotiation with their post-mortem consciousnesses has yielded valuable data that have advanced other SCP cases and broader Foundation knowledge.</p>
+<h3>Addendum 4: Experiment Log</h3>
+<h4>Experiment E-01 - Reality Index Calibration</h4>
+<ul>
+<li><strong>Objective:</strong> To evaluate the impact of SCP-28543 on baseline reality and to test the effects of various protective gear against reality shifts. Results inconclusive, but some protective gear showed promise in reducing cognitive dissonance.</li>
+</ul>
+<h4>Experiment E-05 - Communication Trials</h4>
+<ul>
+<li><strong>Objective:</strong> Establish meaningful communication with SCP-28543-1 entities using linguists well-versed in various religious texts and cultural practices. Partial success; entities were more responsive but often conveyed messages through allegory and parable, complicating data extraction.</li>
+</ul>
+<p>The continued study of SCP-28543 is expected to provide further insights into the nature of human consciousness and may fundamentally alter the Foundation's understanding of life, death, and what lies beyond.</p>
+
+    </div>
+    
