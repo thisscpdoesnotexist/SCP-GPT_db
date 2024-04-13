@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28546 is  The Leviathan's With Two Large Spikes Ball Tail  </h3> </center>
+
+    <h3>Item #: SCP-28546 - The Leviathan's Lament</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28546-GPT.png" alt="Illustration of SCP-28546" />
+        
+<h3>Description:</h3>
+<p>SCP-28546 is an aquatic, serpentine entity measuring approximately 800 meters in length with a thickness of 50 meters at its widest point. Its skin is of an unknown composition that is reminiscent of dark, oil-slick scales capable of withstanding tremendous pressure and heat. Two distinguishing features of SCP-28546 are its disproportionately vast, bioluminescent eyes that exhibit hypnotic properties in various spectra, and a distinctive, ball-like appendage at the terminal end of its body, adorned with two large spikes.</p>
+<p>The anomalous properties of SCP-28546 manifest primarily in what has been termed its 'Siren Song'—an infrasonic vocalization that directly influences the amygdala of the human brain, instilling an irresistible compulsion in listeners to seek out the entity. Those affected become unresponsive to external stimuli and appear to possess an innate understanding of SCP-28546's current location, though they are incapable of articulating this knowledge.</p>
+<p>Initial exposure to SCP-28546's 'Siren Song' results in mild euphoria and obsessive thoughts about oceanic exploration. Prolonged or repeated exposure induces severe psychological dependency, physiological changes to adapt to underwater environments, and in most cases, eventual self-termination through attempted fusion with SCP-28546. The alterations are irreversible and have been classified as SCP-28546-1 instances.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-28546's immense size and migratory nature, direct containment is unfeasible. Therefore, containment efforts are centered on suppression and misinformation. A designated Naval Containment Task Force (NCTF) codenamed "Neptune's Bane" has been established to monitor the entity's movements and enforce a 5-kilometer exclusion radius.</p>
+<p>Foundation hydrophones and satellites must maintain constant vigilance for any manifestation of SCP-28546's 'Siren Song'. Should the 'Siren Song' be detected, NCTF is authorized to deploy high-powered sonar disruptors to interfere with the transmission and initiate Protocol Leviathan Wail, a disinformation campaign designed to discredit any non-Foundation witness reports as mass hysteria or auditory hallucinations due to naturally occurring phenomena.</p>
+<p>Personnel assigned to SCP-28546 must undergo rigorous psychological screening and are limited to two-week rotations to minimize exposure to the 'Siren Song'. Any personnel exhibiting signs of SCP-28546's influence are to be detained immediately for deprogramming.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-28546 was initially discovered following an anomalous event on ██/██/20██ when the commercial deep-sea mining vessel "Deep Venture" was found deserted, drifting in the South Pacific. The entire crew was missing, although the ship's log mentioned a "serpent of the deep" luring them to "ascension".</p>
+<h3>Addendum 2: Incident Report 28546-Alpha</h3>
+<p>On ██/██/20██, an unauthorized civilian submersible piloted by a famous oceanographer, Dr. ██████, inadvertently breached the containment exclusion zone. Dr. ██████ reported hearing otherworldly songs before visual contact with SCP-28546. Following retrieval, the doctor underwent amnestic treatment but exhibited advanced symptoms of SCP-28546's influence. The doctor was designated a SCP-28546-1 instance and is currently under Foundation study at Bio-Site-██.</p>
+<h3>Experiment Log:</h3>
+<ul>
+<li><strong>Experiment 28546-E-01</strong></li>
+<li><strong>Subjects:</strong> D-class personnel equipped with submergence gear</li>
+<li><strong>Procedure:</strong> Exposure to 'Siren Song' within secure containment at a depth of 100 meters</li>
+<li>
+<p><strong>Results:</strong> Subjects proceeded to swim in the direction of SCP-28546 until rebreather supplies were exhausted. Psychological conditioning delayed effects but did not prevent them.</p>
+</li>
+<li>
+<p><strong>Experiment 28546-E-05</strong></p>
+</li>
+<li><strong>Subjects:</strong> D-class personnel with pre-implanted neural disruptors</li>
+<li><strong>Procedure:</strong> Repeat of E-01 with the addition of neural disruptors designed to neutralize infrasonic influence</li>
+<li>
+<p><strong>Results:</strong> Success. Subjects experienced disorientation but did not succumb to compulsive behavior. Long-term exposure effects remain unknown.</p>
+</li>
+<li>
+<p><strong>Experiment 28546-E-09</strong></p>
+</li>
+<li><strong>Subjects:</strong> Model subs crafted to mimic human EEG signals</li>
+<li><strong>Procedure:</strong> Expose models to 'Siren Song' to test targeting specificity</li>
+<li><strong>Results:</strong> SCP-28546 did not react to the models, indicating it selectively targets sentient beings or specific brain patterns.</li>
+</ul>
+<p>This entity's nature and its forceful subversion of will present extensive challenges for containment and highlight concerns for the safety of maritime populations. Research into countermeasures and further understanding of SCP-28546's origins remain ongoing priorities for the SCP Foundation.</p>
+
+    </div>
+    
