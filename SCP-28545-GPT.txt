@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28545 is  A Mega-Kaiju </h3> </center>
+
+    <h3>Item #: SCP-28545 - "The Leviathan's Enigma"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28545-GPT.png" alt="Illustration of SCP-28545" />
+        
+<h3>Description:</h3>
+<p>SCP-28545, dubbed "The Leviathan's Enigma," is a colossal, chimeric aquatic creature of unknown origin that sporadically manifests in different bodies of water across the globe. SCP-28545 exhibits a combination of physical attributes found in various marine species, including cephalopods, arthropods, and teleost fishes, among others. The entity's size is variable, ranging from fifty (50) to three hundred (300) meters in length. </p>
+<p>The creature's unusual characteristics extend beyond its physical form; SCP-28545 seems to possess the ability to manipulate its surrounding environment, altering water currents, creating localized storms, and causing electronic and navigational equipment malfunctions within a radius that fluctuates with its size.</p>
+<p>SCP-28545 has been observed to exhibit highly intelligent behavior, often evading capture or interaction with humankind. It has demonstrated the capability to communicate by generating and modulating complex patterns of bioluminescence across its body. Despite this, no successful attempt at establishing communication has been recorded.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-28545's nomadic nature and immense size, containment through conventional physical means is currently not feasible. However, the following procedures have been implemented to mitigate the risk posed by the entity:</p>
+<ol>
+<li>Satellite and oceanographic monitoring systems have been repurposed to track and predict manifestations of SCP-28545.</li>
+<li>A rapid-response team, codenamed "Leviathan Watchers," composed of specialized personnel equipped with high-endurance naval vessels, has been established to respond to SCP-28545 sightings.</li>
+<li>Disinformation campaigns are to be conducted to suppress public knowledge of SCP-28545. Any accurate documentation by civilians or third parties shall be confiscated or dismissed as elaborate hoaxes.</li>
+<li>A scientific task force is tasked with researching ways to establish communication with SCP-28545. Any communication breakthroughs must be reported directly to the O5 Council.</li>
+</ol>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-28545 was first identified on ██/██/20██ when multiple fishing vessels in the North Atlantic reported encounters with an "unearthly leviathan" causing havoc. Subsequent investigations confirmed the existence of the creature.</p>
+<h3>Addendum 2: Incident Log</h3>
+<h4>Incident 28545-A – ██/██/20██</h4>
+<p>After a manifestation near the coast of ███████, SCP-28545 displayed a previously unseen level of aggression. It directly attacked a research vessel, identified as the "S.S. ██████", resulting in multiple casualties. The reasons behind SCP-28545's aggression remain unknown.</p>
+<h4>Incident 28545-B – ██/██/20██</h4>
+<p>SCP-28545's presence correlated with a mass stranding of marine animals along a 15-mile stretch of coastline. Autopsies of deceased animals revealed no obvious cause of death.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 28545-E1</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Objective:</strong> Attempt to establish a rudimentary method of communication.
+<strong>Procedure:</strong> D-class personnel were placed on a modified submersible equipped with various communication devices. Upon approach, SCP-28545 responded with rapid color changes.
+<strong>Result:</strong> No meaningful communication was achieved. SCP-28545 displayed apparent curiosity but ultimately lost interest and departed after three hours.</p>
+<h4>Experiment 28545-E2</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Objective:</strong> Observe and analyze the environmental effects of SCP-28545.
+<strong>Procedure:</strong> Deploy deep-sea sensors to monitor changes in water temperature, pressure, and chemical composition during a manifestation.
+<strong>Result:</strong> Collected data shows significant disruptions in the local ecosystem. SCP-28545 seems to release an unidentified enzyme-like compound into the water, causing temporary sterility in most marine fauna within a five-kilometer radius.</p>
+<h4>Experiment 28545-E3</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Objective:</strong> Test SCP-28545's intelligence and problem-solving capabilities.
+<strong>Procedure:</strong> A series of complex puzzles and mazes were projected underwater using high-intensity lasers.
+<strong>Result:</strong> SCP-28545 solved each puzzle with increasing speed, suggesting it can learn and adapt quickly to new challenges. After completing the tasks, SCP-28545 approached the observation submersible, emitting a series of elaborate bioluminescent patterns before disappearing. </p>
+<p>Researchers continue to analyze the data, seeking to decode possible meanings within the patterns. Further experiments are approved, with a cautionary note that SCP-28545 may be developing an understanding of our intent and capabilities.</p>
+
+    </div>
+    
