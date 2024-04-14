@@ -1,0 +1,56 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28554 is  A Leviathan's In Lava And Leviathan's In Snow </h3> </center>
+
+    <h3>Item #: SCP-28554 - A Leviathan's In Lava And Leviathan's In Snow</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28554-GPT.png" alt="Illustration of SCP-28554" />
+        
+<h3>Description:</h3>
+<p>SCP-28554 refers to two separate, but similarly appearing anomalous entities designated SCP-28554-A and SCP-28554-B. Both entities manifest as titanic serpentine creatures with dimensions exceeding 200 meters in length and respective diameters of 20 and 15 meters.</p>
+<p>SCP-28554-A is primarily found within the molten environments of active volcanoes and possesses a geothermal exoskeleton comprised of solidified volcanic rock and magma. Thermal imaging has revealed a core temperature of approximately 1400°C, and it can expel molten substances as a defensive mechanism.</p>
+<p>SCP-28554-B is encountered in polar regions, taking on the characteristics of its arctic surroundings. Its exterior is composed of dense glacial ice, and it exerts control over localized weather patterns to create blizzard conditions as a form of camouflage or to hinder observation.</p>
+<p>Both entities exhibit reality-warping abilities, but to different extents and manners:
+- SCP-28554-A can cause localized volcanic eruptions and tectonic shifts, while also exhibiting control over the flow and solidification of magma.
+- SCP-28554-B is capable of rapid freezing and thawing of vast bodies of water and manipulates snowfall to form complex, labyrinthine structures that have caused disappearances and entrapment.</p>
+<p>Foundation researchers speculate upon a possible predatory relationship between both; however, this hypothesis remains unverified due to the absence of direct interaction observed between SCP-28554-A and SCP-28554-B.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the entities' innate attributes and abilities to manipulate their environments on a massive scale, physical containment is deemed impractical. However, extensive monitoring protocols are employed to predict and intercept the manifestations of SCP-28554-A and SCP-28554-B.</p>
+<p>For SCP-28554-A:
+- A global network of seismographs and volcanology stations monitor tectonic activity indicative of SCP-28554-A's movement.
+- Thermally resistant drones are used to investigate eruptions and lava flows for signs of SCP-28554-A's presence.</p>
+<p>For SCP-28554-B:
+- Satellite reconnaissance combined with climate data analysis identifies abnormal cold patterns and sudden glacial formation.
+- Autonomous heat-generating drones patrol designated areas to survey snow and ice conditions.</p>
+<p>In the event of a manifestation, the Foundation deploys Mobile Task Force Epsilon-6 ("Village Idiots") expert in geothermal environments, and Mobile Task Force Theta-12 ("Frostbite") specialized in cold climate operations, to establish an exclusion zone and administer Class-F amnestics to civilians.</p>
+<p>To discourage potential encounters, Foundation front companies instigate environmental protection actions, claiming extreme geological or meteorological risks to prevent or limit access to the affected areas.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-28554-A was first documented when volcanic activity in [REDACTED] triggered substantial urban damage and vanishings in 2008. The erection of exclusion zones under the guise of toxic fumes and unstable geology allowed for initial containment efforts.</p>
+<p>SCP-28554-B drew attention following a series of anomalous blizzards in [REDACTED], 2011, where several research stations went dark. Post-event investigations by Foundation researchers identified SCP-28554-B's involvement.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 28554-A1:</h4>
+<ul>
+<li><strong>Objective:</strong> Measure the effect of external cooling on SCP-28554-A.</li>
+<li><strong>Procedure:</strong> Release a payload of chemical refrigerants into an active lava flow inhabited by SCP-28554-A.</li>
+<li><strong>Result:</strong> SCP-28554-A briefly submerged into the magma, re-emerging sheathed in a new layer of molten rock. No signs of distress observed.</li>
+</ul>
+<h4>Experiment 28554-B1:</h4>
+<ul>
+<li><strong>Objective:</strong> Test SCP-28554-B's manipulation over ice via applied heat.</li>
+<li><strong>Procedure:</strong> Direct microwave energy towards structures constructed of atmospheric moisture by SCP-28554-B.</li>
+<li><strong>Result:</strong> SCP-28554-B accelerates snowfall, rapidly reconstructing affected sections. Additionally, creates intense localized blizzard as microwave equipment becomes encapsulated in ice.</li>
+</ul>
+<h4>Experiment 28554-C1 (Joint):</h4>
+<ul>
+<li><strong>Objective:</strong> Evaluate a potential controlled interaction between SCP-28554-A and SCP-28554-B.</li>
+<li><strong>Procedure:</strong> Simultaneously provoke a surface manifestation of SCP-28554-A and an emergence of SCP-28554-B in a remote location using controlled geological and weather inductions.</li>
+<li><strong>Result:</strong> [DATA EXPUNGED]</li>
+</ul>
+<h3>Addendum 3: Incident Log</h3>
+<p>Following Experiment 28554-C1, the hypothesis regarding predatory behavior has been tentatively dismissed due to the high-level disturbances observed in [DATA EXPUNGED]. The incident resulted in the revision of both entities' containment procedures, increased monitoring, and a cessation of direct interaction studies pending further investigation.</p>
+<h3>Addendum 4: Notes from Dr. ██████</h3>
+<p>"It's become apparent that SCP-28554-A and SCP-28554-B represent catastrophic forces of nature, almost as if they're the embodiment of the planet’s volcanic fury and polar wrath. While they do not appear overtly aggressive towards humanity or each other, the secondary effects of their presence are indisputably devastating. Our containment strategies must evolve accordingly, focusing on prediction and prevention rather than confinement. The prospect of what might occur should they ever converge on purpose is nothing short of apocalyptic."</p>
+
+    </div>
+    
