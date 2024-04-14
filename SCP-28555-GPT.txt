@@ -1,0 +1,50 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28555 is  A Quetzalcoatl In Abandoned Public Office  </h3> </center>
+
+    <h3>Item #: SCP-28555 - "Legacy of the Plumed Serpent"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28555-GPT.png" alt="Illustration of SCP-28555" />
+        
+<h3>Description:</h3>
+<p>SCP-28555, colloquially referred to as "The Legacy of the Plumed Serpent," is an anomalous entity resembling the Mesoamerican deity Quetzalcoatl, located within the remnants of an abandoned government building in ████████, Mexico. The entity appears as a massive, serpentine creature adorned with vibrant feathers, emanating a subtle glow and warmth despite the dilapidated state of its surroundings. SCP-28555 exhibits both physical and ethereal qualities, capable of altering its form between a corporeal and a spectral state.</p>
+<p>The entity possesses an aura of tranquility, and any individual within a 50-meter radius experiences an overwhelming sense of peace and mental clarity. SCP-28555 has displayed an innate ability to communicate telepathically with sentient beings, showing an advanced understanding of human emotions, psychology, and sociopolitical structures. However, it exclusively communicates in Nahuatl, the language historically associated with the Aztec civilization.</p>
+<p>SCP-28555's physical touch has shown the capacity to heal both physical injuries and psychological ailments, which has classified it as a potential asset in the field of psychological warfare recovery and recuperation of SCP Foundation staff members.</p>
+<p>Further anomalous properties of SCP-28555 include the manipulation of vegetation, the capacity to cleanse areas of harmful pollutants, and occasional precognition. Research into SCP-28555's potential applications in ecological restoration and counteracting other SCP threats is ongoing.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the beneficial nature of SCP-28555, full containment is deemed unnecessary and counterproductive. However, to minimize the risk of public exposure to its anomalous properties and to safeguard its well-being, the following measures are implemented:</p>
+<ol>
+<li>A 2-kilometer exclusion zone is established around the abandoned government building housing SCP-28555.</li>
+<li>A Foundation cover story of hazardous structural instability and residual toxic waste is to be maintained to deter civilians.</li>
+<li>Surveillance devices are installed at all potential points of entry, and any unauthorized individuals approaching the exclusion zone are to be detained, administered Class-B amnestics, and released with cover memories.</li>
+<li>Entry to SCP-28555 is restricted to personnel with Level 4 clearance or higher and requires written approval from at least two members of the O5 Council.</li>
+<li>Personnel entering SCP-28555's presence are required to pass a psychological evaluation and must demonstrate proficiency in Nahuatl or be accompanied by an interpreter.</li>
+<li>Any experiments conducted with SCP-28555 must adhere to strict ethical guidelines, with an emphasis on preserving the entity's dignity and autonomy.</li>
+</ol>
+<h3>Addendum 1: Discovery and Initial Containment</h3>
+<p><strong>Addendum 1-A: Historical Context</strong></p>
+<p>Local legend suggests SCP-28555 has dwellt within the vicinity for centuries, but documentation of its existence only surfaced after the abandonment of the building in the early 2000s. It is theorized that the entity may have been a protective force or a guardian, with historical texts alluding to a ‘divine serpent’ watching over the land.</p>
+<p><strong>Addendum 1-B: Discovery Log</strong></p>
+<p>SCP-28555 was first encountered by Foundation operatives on ██/██/20██ during a routine sweep for anomalous activity in the region. Initial contact was met with SCP-28555 calmly welcoming the agents, expressing a desire to aid humanity while requesting sanctuary from the devastation of its surrounding environment.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Addendum 2-A: Experiment Log-28555-01</strong></p>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Procedure:</strong> D-Class personnel with chronic, untreatable depression are allowed to interact with SCP-28555 under observation.
+<strong>Results:</strong> Subjects reported a significant decrease in depressive symptoms. Follow-up evaluations indicate a sustained improvement in mental health.
+<strong>Notes:</strong> SCP-28555 commented on the sorrow it sensed in the subjects and expressed contentment in providing relief.</p>
+<p><strong>Addendum 2-B: Experiment Log-28555-02</strong></p>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Procedure:</strong> SCP-28555 is exposed to soil samples contaminated with heavy metals and other pollutants.
+<strong>Results:</strong> SCP-28555 facilitated the rapid growth of native vegetation, effectively extracting and isolating the pollutants. Soil tests post-exposure show a considerable reduction in toxicity.
+<strong>Notes:</strong> SCP-28555 conveyed a sense of obligation to cleanse and protect the Earth, citing an intrinsic connection to the land.</p>
+<p><strong>Addendum 2-C: Experiment Log-28555-03</strong></p>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Procedure:</strong> SCP-28555's precognitive abilities are tested by presenting it with a set of abstract puzzles correlated with future events.
+<strong>Results:</strong> SCP-28555 accurately predicted outcomes with a 94% success rate, far beyond statistical probability.
+<strong>Notes:</strong> SCP-28555 expressed concerns about the misuse of its foresight, insisting on the responsible application of its visions.</p>
+<h3>Addendum 3: Further Research and Applications</h3>
+<p>Investigations into the full extent of SCP-28555's capabilities continue, particularly its potential to contribute to the wellbeing of SCP Foundation staff and the restoration of ecological systems. Ethical considerations are paramount, with SCP-28555 recognized as an autonomous entity and ally, not a tool. Strategies for mutually beneficial cooperation with SCP-28555 are in development, and dialogue between the entity and select O5 Council members has begun to outline the foundations of this partnership.</p>
+
+    </div>
+    
