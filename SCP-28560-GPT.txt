@@ -1,0 +1,79 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28560 is  kukulkan In Indiana Largest Mall Abandoned Dead Mall </h3> </center>
+
+    <h3>Item #: SCP-28560 - "The Shrouded Arcade"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28560-GPT.png" alt="Illustration of SCP-28560" />
+        
+<h3>Description:</h3>
+<p>SCP-28560 is an abandoned shopping mall located in Indiana, previously known as the "Kukulkan Plaza". It was constructed in 1998 and abandoned following an economic downturn in 2010. However, the anomaly associated with SCP-28560 was not discovered until 2023, when local urban explorers reported strange occurrences and "living shadows" within its confines.</p>
+<p>The primary anomalous properties of SCP-28560 manifest in the form of sentient constructs, known as SCP-28560-A entities, which seem to have originated from the vestiges of the mall's "arcade" section. These entities are capable of manipulating the internal layout of SCP-28560, thereby defying the laws of physics and space. The entities show a level of intelligence and appear to be driven by the collective emotions and memories imprinted upon the mall by its past visitors.</p>
+<p>SCP-28560's secondary anomaly is a temporal inconsistency that affects individuals inside the mall. Time within SCP-28560 seems to be non-linear and highly subjective, with reports of time dilation and contraction.</p>
+<p>Experimentation has proven SCP-28560 to be a valuable resource for the Foundation, as the SCP-28560-A entities have demonstrated a willingness to cooperate with Foundation personnel, sharing insights into parallel dimensions and aiding in the containment of other SCP objects.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its Thaumiel classification and cooperative nature, SCP-28560 requires unique containment protocols. 
+The following procedures have been established:</p>
+<ol>
+<li>
+<p>SCP-28560 is to be guarded by a permanent security detail consisting of no less than 20 Foundation personnel trained in both combat and anomalous containment. The security detail must ensure no unauthorized access to SCP-28560.</p>
+</li>
+<li>
+<p>A perimeter is to be established 500 meters from SCP-28560's entrances, with signs indicating danger due to structural instability to deter civilians.</p>
+</li>
+<li>
+<p>A small contingent of Foundation researchers is to remain on-site to study SCP-28560's properties and communicate with the SCP-28560-A entities.</p>
+</li>
+<li>
+<p>Exploration and experimentation within SCP-28560 must be approved by at least two Level 4 personnel. All individuals entering SCP-28560 must have a tracking device and a tether line to ensure their navigability within the anomalous space. Personal carried must be minimal to avoid unnecessary complication with the mall's space distortion effects.</p>
+</li>
+<li>
+<p>Any communication with SCP-28560-A entities is to be documented and analyzed for potential applications in cross-dimensional research and containment.</p>
+</li>
+</ol>
+<h3>Addendum 1: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>[EXP-28560-01]:</strong> A team of D-Class personnel equipped with video recording devices explored the arcade zone. Contact with SCP-28560-A entities was established, revealing their awareness of the Foundation and their acceptance of containment.</p>
+</li>
+<li>
+<p><strong>[EXP-28560-02]:</strong> A study was conducted to measure the temporal anomalies. D-Class personnel reported "missing time" and, conversely, "extended minutes." Video evidence showed temporal discrepancies when compared to external timekeeping.</p>
+</li>
+<li>
+<p><strong>[EXP-28560-03]:</strong> Testing with other SCP items showed that SCP-28560-A entities can manipulate space to contain or isolate anomalies. They successfully contained a Euclid-class object for 48 hours before willingly returning it.</p>
+</li>
+</ul>
+<h3>Addendum 2: Communication Logs</h3>
+<ul>
+<li>
+<p><strong>[COMM-28560-A1]:</strong> Interview between Dr. █████████ and SCP-28560-A revealed the entities' origin is tied to the emotions and memories of individuals who frequented the mall, with a particularly strong connection to the arcade.</p>
+</li>
+<li>
+<p><strong>[COMM-28560-A2]:</strong> Negotiations with SCP-28560-A entities established guidelines for their cooperation in containing other anomalies.</p>
+</li>
+</ul>
+<h3>Addendum 3: Incident Reports</h3>
+<ul>
+<li>
+<p><strong>[INC-28560-01]:</strong> On ██/██/2024, a containment breach of SCP-████ resulted in the deployment of SCP-28560's entities to assist. Their intervention prevented a potential catastrophic outcome.</p>
+</li>
+<li>
+<p><strong>[INC-28560-02]:</strong> An accidental introduction of an electronic device during EXP-28560-07 caused significant distortion within SCP-28560. The incident resulted in the temporary loss of a research team for six hours real time, who experienced only thirty minutes subjective time. Debriefing protocols have been updated to ensure personal electronic devices are excluded from SCP-28560.</p>
+</li>
+</ul>
+<h3>Addendum 4: Forward Research Initiatives</h3>
+<ul>
+<li>
+<p><strong>[FWD-28560-01]:</strong> Development of a dedicated on-site research facility to facilitate closer collaboration with SCP-28560-A entities.</p>
+</li>
+<li>
+<p><strong>[FWD-28560-02]:</strong> Exploration of SCP-28560's utility in understanding the multiverse, potentially providing a safe testing ground for cross-dimensional technology.</p>
+</li>
+<li>
+<p><strong>[FWD-28560-03]:</strong> Ongoing psychological evaluation of SCP-28560-A entities to determine their capabilities, needs, and long-term stability.</p>
+</li>
+</ul>
+
+    </div>
+    
