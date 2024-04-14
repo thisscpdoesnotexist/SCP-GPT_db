@@ -1,0 +1,44 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28572 is  The White Light Ritual In Location Forest With Chain Link Fence  </h3> </center>
+
+    <h3>Item #: SCP-28572 - "The Luminary Thicket"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28572-GPT.png" alt="Illustration of SCP-28572" />
+        
+<h3>Description:</h3>
+<p>SCP-28572, known as "The Luminary Thicket," is a naturally occurring spatial phenomenon localized within a deciduous forest in [REDACTED], surrounded by a chain-link fence approximately 3 meters in height topped with barbed wire. The anomaly itself is a circular area with a diameter of exactly 33 meters, where the central 10 meters radius glows with an unearthly white light when certain conditions are met.</p>
+<p>The glowing is not constant but occurs when a ritual, hereby referred to as the White Light Ritual (WLR), is performed. The WLR involves a series of precise movements and incantations, which are documented in a leather-bound tome found on-site. This tome is designated as SCP-28572-A. Although the origin of these rites is uncertain, their efficacy in triggering the phenomenon is undeniable.</p>
+<p>SCP-28572 has demonstrated its utility by providing containment countermeasures or remedial effects upon entities and objects of malevolent or hazardous nature. It also appears to possess a form of sentience or reactive intelligence, responding variably to the emotional and psychological states of the individuals performing the WLR.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its Thaumiel classification and potential utility in aiding other containment efforts, SCP-28572 does not follow standard containment protocols. Instead, the area surrounding the anomaly is to be restricted from public access under the guise of an ecological reserve. Foundation personnel guarding the perimeter must rotate every three weeks to prevent potential psychic influence or anomalous attachment.</p>
+<p>The specific procedures of the WLR are limited to personnel with Level 4 clearance and above, and may only be performed under the authorization of two or more O5 Council members. All experimentation involving SCP-28572 must be meticulously documented and supervised by a Head Researcher with expertise in parascientific phenomena.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<h4>1.1 Initial Report</h4>
+<p>SCP-28572 was discovered after several reports of "angelic visions" and "miraculous healings" emerged from the local populace. Foundation agents embedded in various news agencies flagged the tales as potential SCP phenomena, prompting immediate investigation.</p>
+<h4>1.2 The Tome and the Ritual</h4>
+<p>Investigating agents uncovered SCP-28572-A within the center of the glowing area. Attempts to remove the tome from the site have failed; it appears to be bound to that location by an unknown force. The chain-link fence was subsequently erected by operatives to secure the area.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>2.1 Experiment SCP-28572/E-001</h4>
+<p><strong>Objective:</strong> To determine the base effects of the WLR performed within SCP-28572.
+<strong>Protocol:</strong> D-Class personnel were instructed to perform the WLR according to SCP-28572-A's instructions.
+<strong>Result:</strong> Upon completion, the central area emanated a white light lasting for 33 seconds. No changes were noted in the surroundings or the participants beyond a temporary sense of euphoria.</p>
+<h4>2.2 Experiment SCP-28572/E-007</h4>
+<p><strong>Objective:</strong> To understand how SCP-28572 interacts with other SCPs.
+<strong>Protocol:</strong> SCP-████, a small amulet with cognitohazardous properties, was introduced to the central area.
+<strong>Result:</strong> Following the WLR, the amulet ceased its hazardous emissions permanently. However, the D-Class personnel performing the ritual experienced a 7-day coma afterwards. Recovered with no lasting side effects.</p>
+<h4>2.3 Experiment SCP-28572/E-013</h4>
+<p><strong>Objective:</strong> Test the White Light Ritual's capability to counteract memetic hazards.
+<strong>Protocol:</strong> Introduction of a memetic agent known for causing rapid onset of aggression in subjects.
+<strong>Result:</strong> After the WLR, aggression levels in test subjects within the vicinity of SCP-28572 drastically reduced. Researcher ████ began showing signs of acute paranoia and was relieved from their position shortly thereafter.</p>
+<h3>Addendum 3: Incident Report</h3>
+<h4>3.1 Incident SCP-28572/I-001</h4>
+<p>During routine testing, a researcher deviated from the prescribed WLR, provoked by emotional distress caused by a personal loss. The light emitted from the central area turned dark red, and a series of unknown glyphs appeared in the air. The researcher disappeared and has not been recovered. This event led to a stricter overhaul of psychological screening and protocol adherence for involved personnel.</p>
+<h4>3.2 Incident SCP-28572/I-002</h4>
+<p>An attempt to utilize SCP-28572 to pacify SCP-█████, a Class-Keter entity, failed catastrophically. SCP-█████ became agitated by the white light, resulting in a containment breach and [DATA EXPUNGED]. Revised guidelines now prohibit using SCP-28572 on Keter-class SCPs without extensive theoretical modeling and simulation.</p>
+<h3>Addendum 4: Ongoing Usage and Research</h3>
+<p>SCP-28572 remains a valuable asset to the Foundation. Extensive research is underway to understand the underlying mechanisms of the White Light Ritual and the phenomenon itself. Its potential for mitigating other SCP containment challenges is significant but continues to warrant caution due to unpredictable outcomes and collateral psychic effects on research staff.</p>
+
+    </div>
+    
