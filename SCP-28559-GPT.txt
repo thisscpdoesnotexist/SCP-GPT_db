@@ -1,0 +1,37 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28559 is  Jormungand in Abandoned Ship </h3> </center>
+
+    <h3>Item #: SCP-28559 - "Jörmungandr's Legacy"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28559-GPT.png" alt="Illustration of SCP-28559" />
+        
+<h3>Description:</h3>
+<p>SCP-28559 is an anomalous entity bearing a close resemblance to the mythical Jörmungandr, a sea serpent from Norse mythology, known also as the Midgard Serpent. SCP-28559 measures approximately 30 meters in length with bioluminescent scales covering its serpentine body. This entity exhibits intelligence beyond known marine species, and it reacts to human presence with what can be interpreted as curiosity rather than aggression.</p>
+<p>The SCP was first discovered in an abandoned whaling ship, codenamed "Titan's Cradle," found drifting in the North Atlantic Ocean. The ship, of 19th-century construction, contained numerous engravings and arcane symbols on its husk that correspond to rituals thought to bind mythical sea creatures by unknown practitioners.</p>
+<p>SCP-28559 demonstrates abilities that qualify it for Thaumiel classification, most notably its capacity to neutralize and contain other SCPs of a maritime nature. It appears to generate an anomalous field that negates the supernatural properties of other SCP entities within a certain radius, effectively serving as a mobile containment unit.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-28559’s unique properties and non-aggressive behavior, containment involves the monitoring of its migration patterns and ensuring that its habitat remains undisclosed and undisturbed by civilian maritime activity.</p>
+<p>Mobile Task Force Beta-4 ("Castaways") is tasked with tracking and studying SCP-28559, as well as intercepting any unauthorized vessels that come into contact with Titan's Cradle. The MTF is also responsible for the documentation of SCP-28559's interaction with other anomalous maritime entities.</p>
+<p>As of the last review, SCP-28559 remains in the vicinity of the Titan's Cradle, occasionally straying into open waters but regularly returning to the abandoned ship. The ship itself has been anchored to the ocean floor using specialized weights and is equipped with Scranton Reality Anchors to maintain an area of stability around SCP-28559.</p>
+<p>In the event of a breach, autonomous submersible drones are to locate SCP-28559 and guide it back to Titan's Cradle using a series of ultrasonic signals which it has been conditioned to respond to. Should SCP-28559 exhibit signs of distress or aggressive behavior, Protocol Leviathan is to be engaged, utilizing a series of pre-recorded whale calls designed to calm and direct the entity.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-28559 was first encountered on ██/██/20██, during a mission to explore a derelict ship spotted by a commercial airline. Initial assessment by MTF Beta-4 identified it as a vessel of historical interest but found it to be a source of several local disappearance cases. SCP-28559 was encountered inside the hull of the ship in a dormant state, surrounded by pictograms theorized to be related to rituals for binding sea creatures.</p>
+<h3>Addendum 2: Interaction with SCP entities</h3>
+<h4>Experiment Log 28559-01:</h4>
+<p>SCP involved: SCP-████ (Designation: Thalassokinetic Entity)</p>
+<p>Procedure: SCP-████ was deliberately introduced into SCP-28559’s vicinity.</p>
+<p>Results: Upon approach, SCP-████ lost its ability to manipulate aquatic environments and was subsequently rendered docile. SCP-28559 coiled around SCP-████ and remained in contact for approximately 43 minutes before returning it to its original containment.</p>
+<h4>Experiment Log 28559-02:</h4>
+<p>SCP involved: SCP-████ (Designation: Aquatic Predator)</p>
+<p>Procedure: SCP-████ was released within 1 km of SCP-28559.</p>
+<p>Results: SCP-████ became noticeably lethargic, and its anomalous predatory features receded. SCP-28559 approached SCP-████, seemingly examining it. Through unknown means, SCP-28559 'healed' a previously observed scar on SCP-████, after which SCP-████ was directed back to containment without incident.</p>
+<h3>Addendum 3: Behavioral Study</h3>
+<p>Extended observation of SCP-28559 by Dr. ████████ and her team revealed the entity demonstrating protective behaviors towards other marine life, both mundane and anomalous. This has led to the hypothesis that SCP-28559 may have once served as a guardian or regulator of oceanic SCP entities, a trait that remains despite centuries of dormancy.</p>
+<h3>Addendum 4: Potential for Containment Application</h3>
+<p>Given SCP-28559’s unique capabilities, the O5 council has approved pilot programs aiming to utilize the entity in the containment efforts of other aquatic SCPs. This "mobile containment protocol" strategy remains in experimental stages, but early successes have been promising, fostering discussions about the ethical implications and control measures regarding the instrumentalization of sentient SCP entities.</p>
+<p>In light of its potential for safeguarding humanity against other maritime anomalies, SCP-28559’s Thaumiel classification is reaffirmed, and further research is encouraged under Project Midgard's oversight.</p>
+
+    </div>
+    
