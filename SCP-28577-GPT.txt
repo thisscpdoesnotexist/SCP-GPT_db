@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28577 is  a book of "equine hypnosis" but it's not what you'd expect </h3> </center>
+
+    <h3>Item #: SCP-28577 - The Equine Enigma</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28577-GPT.png" alt="Illustration of SCP-28577" />
+        
+<h3>Description:</h3>
+<p>SCP-28577 is a leather-bound book titled "Equus Minds: The Unfathomable Depths of Equine Hypnosis." The object contains approximately 300 pages, though only 132 bear any text or illustrations. The contents deal extensively with methods of hypnotizing horses, with detailed illustrations and inexplicable symbols. However, it has a highly anomalous effect on human readers. Instead of imparting knowledge on equine hypnosis, SCP-28577 induces a trance-like state in humans. Subjects become highly suggestible and experience abrupt and profound alterations in psychology and physiology, often acquiring horse-like behaviors and characteristics.</p>
+<p>Subjects under the influence of SCP-28577 (designated SCP-28577-1) exhibit a wide array of symptoms, including but not limited to:
+- Neighing or whinnying
+- A preference for foods commonly fed to horses (e.g., apples, oats)
+- Increased muscle mass in the lower body
+- Instance of growing coarse hair resembling a horse's mane
+- Formation of hoof-like keratin structures over the feet
+- A tendency to shy away from loud noises or sudden movements</p>
+<p>Effects of SCP-28577 vary in intensity and longevity, potentially lasting from a few hours to several weeks. Prolonged exposure can lead to permanent physical and mental changes. SCP-28577's influence does not extend to actual equines, which appear to be unaffected by the contents of the book.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28577 is to be contained in a standard secure locker at Site-19's Anomalous Documents Wing. Access to SCP-28577 requires Level 3 clearance and must be accompanied by two (2) armed guards. Any testing with SCP-28577 must only be performed in soundproof containment chambers equipped with non-intrusive monitoring equipment.</p>
+<p>Personnel displaying any interest in SCP-28577 outside of a professional context are to be evaluated for potential exposure and reassigned as necessary. Following Incident 28577-A (see Addendum 1), all physical contact with SCP-28577 is strictly prohibited unless approved by two senior researchers and under controlled experimental settings.</p>
+<p>Any instances of SCP-28577-1 are to be sedated and confined to specific containment units designed to accommodate their altered physical traits until the effects of SCP-28577 subside. Psychological evaluations and counseling are mandatory for all SCP-28577-1 instances following recovery.</p>
+<h3>Addendum 1: Incident 28577-A</h3>
+<p>On ██/██/20██, Research Assistant ████████ ███ ignored established containment procedures and perused SCP-28577 without supervision. ███ developed severe physiological changes within 36 hours, including bone restructuring and organ displacement. ███'s mental state deteriorated rapidly; within 48 hours, verbal communication was no longer possible. ███ was re-designated SCP-28577-1A and contained for further study. SCP-28577-1A expired 72 hours thereafter due to internal complications. A psychological review of involved personnel has since been mandated.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 28577-E7</h4>
+<p><strong>Subject</strong>: D-84212, a female aged 31 with no prior psychological conditions
+<strong>Procedure</strong>: D-84212 was instructed to read from SCP-28577 for exactly 30 seconds and then describe her experience.
+<strong>Results</strong>: D-84212 began to mimic the posture typically associated with horses (standing on all fours, head extended). Exhibited a temporary aversion to human speech, responding only to hand gestures and clicks.</p>
+<h4>Experiment 28577-E15</h4>
+<p><strong>Subject</strong>: D-91527, a male aged 26 with a history of past criminal activities involving animals
+<strong>Procedure</strong>: D-91527 was given one (1) hour of unsupervised exposure to SCP-28577.
+<strong>Results</strong>: Subject displayed aggressive behavior and attempted to escape containment. Physical mutations were pronounced, including a vocal apparatus capable of producing equine vocalizations. Effects lasted for two weeks before subsiding.</p>
+<h4>Experiment 28577-E23</h4>
+<p><strong>Subject</strong>: D-53629, a male aged 29 with previous military service
+<strong>Procedure</strong>: Subject was tasked with illustrating one of the symbols found within SCP-28577.
+<strong>Results</strong>: Upon drawing the symbol, D-53629 underwent rapid psychological changes, believing he was a "warhorse of old." Despite the physical strength, SCP-28577's influence rendered him obedient to any individual brandishing a mock 'rider's crop.' Controlled testing paused to assess potential utilizations of these behaviors in containment protocols.</p>
+<h3>Addendum 3: Recovery</h3>
+<p>SCP-28577 was recovered from an underground auction of anomalous artifacts in █████████, Poland, after local reports described a series of bizarre incidents at a nearby horse farm. Embedded field agents intercepted a transaction involving SCP-28577 and secured the object without further incident. Original creator of SCP-28577 remains unknown, and investigations into its origins are ongoing.</p>
+
+    </div>
+    
