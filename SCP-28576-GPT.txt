@@ -1,0 +1,50 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28576 is  A Annoying Memetic </h3> </center>
+
+    <h3>Item #: SCP-28576 - "The Siren's Memo"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28576-GPT.png" alt="Illustration of SCP-28576" />
+        
+<h3>Description:</h3>
+<p>SCP-28576, colloquially known as "The Siren's Memo," is a memetic anomaly with the appearance of a standard office memorandum. The item's properties manifest when an individual reads the document, irrespective of the language it is translated into. Though bearing a banal message concerning office supplies, recipients of SCP-28576 express an immediate, irrepressible compulsion to distribute copies to colleagues.</p>
+<p>Within one hour of reading, affected individuals (hereafter referred to as SCP-28576-1) begin vocalizing a high-pitched, melodious sound comparable to that of a siren's call, hence the designation. This auditory phenomenon affects anyone within earshot, triggering a secondary compulsion to read any distributed copies of SCP-28576. Those under this secondary effect will seek out and read the memo, thus propagating the anomaly further.</p>
+<p>Prolonged exposure to SCP-28576 results in irreversible psychological alterations. Subjects exhibit heightened aggression, an obsession with creating more complex versions of the memo, and advanced echolalia, compulsively repeating phrases from the document. As an active information hazard, containment focuses on interception and suppression.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28576 is to be contained within a soundproof, hermetically sealed chamber (2x2x2 meters) at Site-██. A Faraday cage envelops the container, preventing electronic dissemination of the memo. Printed copies of SCP-28576 are stored in a secure vault, with access restricted to personnel with Level 4 clearance or higher and a proven immunity to memetic hazards.</p>
+<p>Any personnel handling SCP-28576 must wear noise-cancelling headphones with embedded white-noise generators and memetic inoculation hardware. Transcription or digital scans of SCP-28576 are forbidden outside of controlled experimental setups approved by no less than two (2) Level 4 researchers.</p>
+<p>Embedded Task Force Nu-7 ("Mind Sweepers") are trained in the interception and quarantine of memetic anomalies. They actively monitor communication channels for any outbreaks of SCP-28576, focusing on corporate and governmental offices known for interdepartmental memos.</p>
+<p>Amnestics have proven successful in early-stage exposure cases. Complete incineration is the recommended disposal method for unsanctioned copies of SCP-28576.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-28576 was first identified following a series of reports concerning an “endless meeting” at ███████ Consulting, where employees barricaded themselves inside a conference room, conveying the memo through the door cracks. Initial Foundation response teams were partially affected, necessitating deployment of a specialized memetic hazards team.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 28576-E1</h4>
+<ul>
+<li><strong>Objective:</strong> Determine SCP-28576's effect on electronic dissemination.</li>
+<li><strong>Procedure:</strong> A digital copy was sent to a contained computer terminal observed by D-class personnel via CCTV.</li>
+<li><strong>Result:</strong> The digital copy retained its memetic properties, causing the D-class to attempt to escape and disseminate the "urgent" memo.</li>
+<li><strong>Note:</strong> Following this experiment, all digital copies were purged from the database under Level 4 supervision.</li>
+</ul>
+<h4>Experiment 28576-E2</h4>
+<ul>
+<li><strong>Objective:</strong> Test SCP-28576's memetic resistance among personnel.</li>
+<li><strong>Procedure:</strong> Class-D personnel with varying levels of inoculation were exposed to the memo.</li>
+<li><strong>Result:</strong> 70% succumbed to compulsions. 30% remained unaffected, validating memetic resistance training.</li>
+<li><strong>Note:</strong> Memetic resistance appears correlated with cognitive flexibility and preexisting resistance to auditory memes.</li>
+</ul>
+<h4>Experiment 28576-E3</h4>
+<ul>
+<li><strong>Objective:</strong> Observe long-term psychological effects of SCP-28576.</li>
+<li><strong>Procedure:</strong> Five (5) D-class subjects with memetic immunity deficiencies were exposed under controlled conditions.</li>
+<li><strong>Result:</strong> Aggressive memo reproduction, siren-like vocalizations, echolalia persisted even after amnestic administration. Subjects were terminated.</li>
+<li><strong>Note:</strong> Full PPE and memetic protection are essential.</li>
+</ul>
+<h3>Addendum 3: Incident Report 28576-IR1</h3>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Summary:</strong> A containment breach resulted in SCP-28576 spreading to the administrative wing of Site-██. Audiovisual recordings captured staff frantically distributing copies before succumbing to the siren-like vocalizations. Task Force Nu-7 secured and administered amnestics, containing the breach. Surviving staff were reassigned, and protocols have been updated to include preemptive amnestic treatment in the event of future breaches.</li>
+</ul>
+
+    </div>
+    
