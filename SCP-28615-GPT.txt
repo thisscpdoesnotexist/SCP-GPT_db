@@ -1,0 +1,45 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28615 is  A World to Second Wolf XK ZK YK Class </h3> </center>
+
+    <h3>Item #: SCP-28615 - "A World to Second"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28615-GPT.png" alt="Illustration of SCP-28615" />
+        
+<h3>Description:</h3>
+<p>SCP-28615 is an extradimensional terrestrial habitat approximately the size of Luxembourg, which exists in a parallel universe accessible via a spatial anomaly (designated SCP-28615-1). The dimension shares many similarities with Earth, including a breathable atmosphere, indigenous flora and fauna genetically identical to those found on Earth, and a day/night cycle synchronized with GMT.</p>
+<p>However, SCP-28615 diverges from Earth in several key aspects:</p>
+<ol>
+<li>Historical and geopolitical events have taken different courses, as evidenced by the discovery of abandoned cities reflecting hybrid architectural styles not seen in our timeline.</li>
+<li>SCP-28615's human population is non-existent. DNA analysis of artefacts suggests the presence of a human race until approximately 200 years prior to Foundation discovery.</li>
+<li>An unknown cataclysm seems to have eradicated all human life, sparing non-human organisms. The specifics of this event remain unclear, but it is theorized to relate to failed containment protocols of an unknown SCP-type entity within that universe.</li>
+</ol>
+<p>The Foundation utilizes SCP-28615 as a containment site for highly dangerous or world-ending anomalies (designated SK-Class, ZK-Class, and YK-Class scenarios) due to its isolation and inherent security from external intervention.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Access to SCP-28615 is strictly limited. The entrance to SCP-28615-1 is located at a classified Foundation site and is to be guarded by no fewer than twelve (12) armed personnel at all times. Any travel into SCP-28615 requires Level 4 authorization and is restricted to research and containment purposes.</p>
+<p>Containment facilities within SCP-28615 have been constructed mimicking standard Foundation security measures but are enhanced to accommodate the unique nature of the entities contained. All experimentation within SCP-28615 must be approved by O5 Council and are subject to strict ethical review due to the potential consequences of containment breach within this alternate dimension.</p>
+<p>Should any catastrophic containment failure occur, the immediate area around SCP-28615-1 is equipped with a high-yield thermobaric bomb, set to detonate on receipt of a fail-deadly signal from the onsite command center. This is to ensure no entities from SCP-28615 can reach Earth, even at the cost of the research and containment facility within.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-28615 was first observed by a Foundation deep-space monitoring satellite which detected anomalous readings similar to known spatial rifts. Mobile Task Force Lambda-5 ("White Rabbits") was dispatched to investigate. Upon entry, MTF Lambda-5 discovered the anomaly to be a stable portal leading to SCP-28615.</p>
+<h3>Addendum 2: Incident Report 28615-IR-01</h3>
+<p>Soon after establishing a forward base within SCP-28615, a catastrophic containment failure of SCP-████ within Earth-based Site-██ prompted the decision to re-contain the entity within SCP-28615's special facilities.</p>
+<p>After re-containment procedures were executed, SCP-████ manifested additional unforeseen capabilities, leading to significant loss of personnel and resources. This incident underlined the current inadequacy of containment measures for unpredictable entities in SCP-28615 and prompted a review and upgrade of all existing containment procedures.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 28615-E01</h4>
+<p><strong>Objective:</strong> Study flora samples for comparison with Earth species.
+<strong>Procedure:</strong> Collection of plant specimens from various locations within SCP-28615 for genetic analysis.
+<strong>Results:</strong> Specimens are genetically identical to Earth species; however, certain unknown pathogens affecting plant life were discovered. Further study required to ascertain the risk of transference to Earth’s ecosystem.</p>
+<h4>Experiment 28615-E02</h4>
+<p><strong>Objective:</strong> Establish a baseline for the "Second Wolf Protocols" in the containment of sentient anomalies.
+<strong>Procedure:</strong> Sentient SCP-████ was transported to SCP-28615 for interview and containment testing.
+<strong>Results:</strong> SCP-████ remained compliant. Noted a significant drop in hostility and agreed to cooperate with Foundation researchers. Second Wolf Protocols proved effective in peaceful containment of sentient anomalies.</p>
+<h4>Experiment 28615-E03</h4>
+<p><strong>Objective:</strong> Test the repercussions of a controlled ZK-Class Reality Failure Scenario in SCP-28615.
+<strong>Procedure:</strong> A miniature replica of Dr. ███████'s “ZK-Loom” device was deployed under strict conditions.
+<strong>Results:</strong> Partial reality collapse occurred within a 3km radius, successfully re-stabilized. SCP-28615's universe appears to operate under slightly different physical laws, allowing for reversion of the ZK-Class event. This offers potential strategies for a "reality fail-safe" in the event of such a scenario on Earth.</p>
+<h3>Addendum 4: Ethics Committee Review</h3>
+<p>Following the results of Experiment 28615-E03 and concerns regarding the multidimensional ecological impact, the Ethics Committee has demanded stricter controls over experimental use of SCP-28615. Plans to exploit SCP-28615's unique properties for preventative measures against cataclysmic events are to be carefully balanced against ethical considerations including the preservation of the dimension’s native ecosystem.</p>
+
+    </div>
+    
