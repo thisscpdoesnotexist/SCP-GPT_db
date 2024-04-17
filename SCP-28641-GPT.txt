@@ -1,0 +1,44 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28641 is  Basement With Chain Link Fence In Hallway With Creepy Sound And Dark Hallway Room In Chain Link Fence  </h3> </center>
+
+    <h3>Item #: SCP-28641 - "Corridor of Echoes"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28641-GPT.png" alt="Illustration of SCP-28641" />
+        
+<h3>Description:</h3>
+<p>SCP-28641 is an anomalous spatial structure located in the basement of an abandoned manufacturing facility in █████, Germany. The initial point of anomaly is a corridor 30 meters in length and 4 meters wide, characterized by a chain link fence that bifurcates the space longitudinally.</p>
+<p>Further unusual is the presence of a single room situated midway along the corridor that is entirely enclosed by the fence, accessible through an aged, rusted gate that tends not to match the architectural aesthetics of the facility. The anomalous phenomena associated with SCP-28641 are auditory in nature; individuals who enter the corridor report hearing sounds resembling faint whispering, indistinct conversations, and sporadic, eerie laughter that emanates from no identifiable source.</p>
+<p>All attempts at recording or amplifying these sounds have resulted in failure, suggesting that the phenomena may be psychological or memetic rather than physical. The room enclosed by the chain link fence is shrouded in darkness, despite numerous attempts at illumination. Light sources within this space become significantly dimmed or extinguished altogether, rendering the room's interior virtually impossible to observe.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its immobile nature and classification as Safe, containment of SCP-28641 is primarily focused on the prevention of unauthorized access. The facility containing SCP-28641 has been purchased by the Foundation under a front company and is to be locked and secured at all times. Foundation personnel assigned to monitor and maintain SCP-28641 must undergo routine psychological evaluations due to the memetic nature of the auditory phenomena.</p>
+<p>The following procedures are in place for the containment of SCP-28641:</p>
+<ul>
+<li>The perimeter of the facility is to be fenced off, with conspicuous 'No Trespassing' signage to deter civilian curiosity.</li>
+<li>A minimal security detail is stationed to patrol the facility grounds and ensure the containment integrity. They are not to enter SCP-28641 unless conducting approved testing.</li>
+<li>Any testing within SCP-28641 requires the approval of a Level 3 researcher and must include safety provisions for psychological welfare.</li>
+<li>The surrounding local area is to be monitored for any signs of SCP-28641's influence extending beyond the facility and to counteract the spread of rumors or urban legends that might attract interest.</li>
+</ul>
+<h3>Addendum 1: Discovery and Initial Containment</h3>
+<p>SCP-28641 was discovered in 20██ when urban explorers captured footage of the basement and uploaded it to the internet. Foundation web crawlers detected the potential anomaly and dispatched a retrieval team.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment #28641-01:</h4>
+<p><strong>Objective:</strong> To determine the nature of the auditory phenomena and its influence on subjects.
+<strong>Procedure:</strong> D-Class personnel equipped with audio recording equipment instructed to walk the corridor's length and report their experiences.
+<strong>Results:</strong> Audio equipment failed to capture anomalies. Subject reported hearing indistinct whispers and moments of laughter. No psychological changes observed post-experiment.</p>
+<h4>Experiment #28641-02:</h4>
+<p><strong>Objective:</strong> To explore and document the interior of the enclosed room.
+<strong>Procedure:</strong> D-Class personnel with various light sources instructed to enter the room and describe observations.
+<strong>Results:</strong> Despite using high-lumens flashlights and infrared equipment, all light sources failed to illuminate the room. Subject reported an overwhelming sense of unease but emerged unharmed with no visual documentation successfully obtained.</p>
+<h4>Experiment #28641-03:</h4>
+<p><strong>Objective:</strong> To test for possible extradimensional space within the room.
+<strong>Procedure:</strong> A remote-operated drone equipped with a tethered power source and multiple cameras is sent into the room.
+<strong>Results:</strong> Signals from the drone became erratic upon entering the room. After 3 meters, communication and video feeds were lost. The tether was pulled back to find the drone had vanished, suggesting a spatial anomaly.</p>
+<p><strong>Note:</strong> After multiple experiments with similar outcomes, it has been hypothesized that SCP-28641's room may be a gateway to another dimension or an unobservable pocket within our own. Further experiments are pending approval.</p>
+<h3>Addendum 3: Incident 28641-A</h3>
+<p>On ██/██/20██, two security personnel reported sounds of a distressed child emanating from the room within SCP-28641 during a routine patrol. The personnel were ordered not to investigate and to maintain perimeter security. Review of security footage revealed no presence of any children, nor any breach of the facility. Psychological counseling was provided to the affected individuals.</p>
+<p>These incidents raise questions about the depth of SCP-28641's effects on human perception and potential variance in the auditory anomalies experienced. The Ethics Committee has suggested stricter mental health monitoring for staff and a cessation of testing involving human subjects until further notice.</p>
+
+    </div>
+    
