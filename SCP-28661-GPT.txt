@@ -1,0 +1,51 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28661 is  Dehumidifier Cause Flood Wet  </h3> </center>
+
+    <h3>Item #: SCP-28661 - "Typhoon's Paradox"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28661-GPT.png" alt="Illustration of SCP-28661" />
+        
+<h3>Description:</h3>
+<p>SCP-28661 is an anomalously modified dehumidifier, visually indistinguishable from standard units produced by the company "ClimateRight" in the late 2010s. It possesses the unique property of accumulating and releasing water at an exponential rate, which is not sourced from ambient atmospheric moisture. This characteristic defies the principles of mass conservation and has been classified as a spatiotemporal anomaly.</p>
+<p>When SCP-28661 is activated, it starts to collect moisture, functioning as a standard dehumidifier for approximately two hours. After this incubation period, it begins to release a constant stream of water from its vents. The output volume increases steadily, and within six hours, SCP-28661 expels roughly 300% more water than what can be logically extracted from the surrounding air. The source of the additional water remains unidentified.</p>
+<p>SCP-28661 was discovered in an abandoned warehouse in ███████, Florida, after local authorities were alerted to an unexplained flood. The Foundation was subsequently informed when the responding police officers reported water emitting from the unit with no discernible origin. Since its recovery, no considerable mechanical alterations or noteworthy electronic components deviating from standard manufacture have been detected within SCP-28661, leaving its mechanism of water generation an enigma.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28661 is to be kept in a standard containment locker at Site-██, with a water absorbent mat placed beneath it as a precautionary measure against unintentional activation. All testing is to be conducted in a sealed room with appropriate drainage systems and within a controlled environment to prevent unintended water damage to the surrounding areas.</p>
+<p>Personnel wishing to perform experiments must receive approval from at least one Level 3 Researcher. At all times during testing, a minimum of two personnel equipped with standard issue water evacuation tools must be on standby to manage any unexpected water release.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>Experiment 28661-E1:</strong>
+    <strong>Date:</strong> ██/██/████
+    <strong>Procedure:</strong> SCP-28661 was activated within a controlled setting. Timed observations were taken to quantify water output.
+    <strong>Result:</strong> As predicted, the item began to emit water excessively after the two-hour mark, reaching a critical volume of overflow at the six-hour point, ultimately releasing approximately 3000 liters of water from an unidentifiable source before being manually deactivated.
+    <strong>Note:</strong> Ensured containment room’s drainage system was capable of handling the overflow. Sealed the room to prevent moisture from affecting nearby materials and equipment.</p>
+</li>
+<li>
+<p><strong>Experiment 28661-E2:</strong>
+    <strong>Date:</strong> ██/██/████
+    <strong>Procedure:</strong> SCP-28661 was placed in an environment with a 0% humidity level to test its water acquisition properties.
+    <strong>Result:</strong> SCP-28661 continued to expel water at the same rate despite the absence of ambient moisture. Research team confirmed that the surrounding air remained devoid of moisture throughout the process.
+    <strong>Note:</strong> Supporting hypothesis that SCP-28661 does not require external humidity to produce water. Possible pocket dimension or other extraphysical source for the water is now under consideration.</p>
+</li>
+</ul>
+<h3>Addendum 2: Incident Log</h3>
+<ul>
+<li><strong>Incident 28661-I1:</strong>
+    <strong>Date:</strong> ██/██/████
+    <strong>Details:</strong> SCP-28661 was accidentally activated by janitorial staff during routine cleaning of the containment locker. The unit was left unattended for approximately seven hours, leading to extensive water damage in the immediate area as well as affecting several nearby containment units.<br />
+<strong>Aftermath:</strong> Security protocols have since been amended, requiring the item to be placed within an internally sealed case to avoid accidental activation.</li>
+</ul>
+<h3>Addendum 3: Recovery Log</h3>
+<ul>
+<li><strong>Recovery 28661-R1:</strong>
+    <strong>Date of Recovery:</strong> ██/██/████
+    <strong>Location:</strong> ███████, Florida
+    <strong>Details:</strong> Following the report of unexplained flooding, Foundation agents were dispatched to investigate and secure the anomaly. Interviews with local witnesses revealed that the warehouse had been leased by an obscure research company, "Hydraflux Innovations," which vacated the premises abruptly two weeks prior to the event, leaving SCP-28661 behind.
+    <strong>Note:</strong> The company's name is a possible alias; no public records of a "Hydraflux Innovations" exist prior to six months before the incident. Investigation into the origins of SCP-28661 and any related anomalous activities by this organization is ongoing.</li>
+</ul>
+
+    </div>
+    
