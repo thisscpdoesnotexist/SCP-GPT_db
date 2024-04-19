@@ -1,0 +1,38 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28685 is  Poppy Playtime Catnap </h3> </center>
+
+    <h3>Item #: SCP-28685 - Poppy Playtime Catnap</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28685-GPT.png" alt="Illustration of SCP-28685" />
+        
+<h3>Description:</h3>
+<p>SCP-28685 is an anomalous entity visually resembling a large, humanoid feline, with various attributes reminiscent of a plush toy. It stands approximately 2.5 meters tall. The entity possesses deep black fabric for its fur and bright, silver button eyes that give off a faint luminescence in low light conditions. It has been observed to behave in a manner similar to a domestic cat, though with an intelligence that far exceeds any known feline. </p>
+<p>SCP-28685 has the ability to induce an irresistible state of sleep in humans and animals. This effect has a radius of approximately 15 meters and appears to be a form of hypnosis, acting directly on the brain to catalyze an immediate shutdown of wakefulness, plunging subjects into REM sleep within seconds of exposure.</p>
+<p>Once its victims are asleep, SCP-28685 engages in an activity eerily similar to a child at play, manipulating the unconscious bodies in various tableau and scenarios which it stages with the finesse of a puppeteer. Interestingly, the entity shows no malice or intent to harm during these interactions, rather displaying behaviors that suggest a search for companionship or play. However, its anomalous ability to force sleep can lead to life-threatening situations should it engage with individuals operating vehicles, machinery, or performing critical tasks.</p>
+<p>Subjects report dreams dominated by SCP-28685, which often take on whimsical, albeit disturbing, narratives. Prolonged exposure can result in long-term psychological damage due to sleep-deprivation-like symptoms, despite subjects technically experiencing a full cycle of sleep. Close encounters with SCP-28685 have led to permanent sleep pattern disruptions and lasting insomnia in several cases.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its unpredictable nature and propensity for sudden appearances, SCP-28685 is currently uncontainable by standard means. A specialized Mobile Task Force, designated Mu-13 ("Cat's Cradle"), has been assigned for the tracking and recapture of SCP-28685. The use of wide-area surveillance and field reports of "mass napping" incidents are the primary means of locating the entity.</p>
+<p>In the event of an encounter, subjects showing susceptibility to SCP-28685's sleep-inducing effect must be immediately removed from the entity's proximity. Engaging the entity is strictly prohibited unless equipped with auditory isolation equipment and sleep-prevention countermeasures. The use of long-range tranquilizers has been approved to subdue the entity temporarily, though its tolerance to sedatives is considerably high.</p>
+<p>Containment chambers have been prepped at several sites, consisting of a soundproof room with an electromagnetically sealed door. Due to the entity's playful nature, containment chambers are equipped with durable toys and puzzles to engage SCP-28685's attention and discourage escape attempts.</p>
+<h3>Addendum 1: Incident Report 28685-01</h3>
+<p>On 20██-██-██, SCP-28685 was responsible for a mass sleep event in the town of ████, resulting in 342 individuals succumbing to unconsciousness. Mu-13 was deployed and successfully relocated the entity to a temporary containment unit. However, SCP-28685 breached containment later that day, the escape coinciding with the bedtime of several MTF agents, suggesting a possible manipulation of circadian rhythms by the entity.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 28685-E1</h4>
+<p><strong>Date:</strong> 20██-██-██
+<strong>Procedure:</strong> D-8432 was placed in a controlled environment with SCP-28685, equipped with a specialized waking EEG to monitor brain activity.
+<strong>Results:</strong> D-8432 fell asleep within 27 seconds of exposure. EEG readings confirmed REM sleep. SCP-28685 could be observed moving D-8432's limbs in a pattern resembling a nursery rhyme. D-8432 awoke with no recollection of the event.</p>
+<h4>Experiment 28685-E2</h4>
+<p><strong>Date:</strong> 20██-██-██
+<strong>Procedure:</strong> D-2194, a diagnosed insomniac, was introduced to SCP-28685 under the same conditions as E1.
+<strong>Results:</strong> D-2194 showed resistance for approximately two minutes, which is an anomalously prolonged duration. SCP-28685 appeared increasingly distressed by the lack of immediate effect but eventually succeeded. Upon waking, D-2194 reported a dream wherein they felt "deeply at peace," atypical of their usual sleep experiences.</p>
+<h4>Experiment 28685-E3</h4>
+<p><strong>Date:</strong> 20██-██-██
+<strong>Procedure:</strong> A group of D-class personnel were placed in an environment with SCP-28685, all equipped with specialized waking EEGs.
+<strong>Results:</strong> SCP-28685 induced simultaneous sleep in all subjects. During the REM phase, subjects exhibited synchronized movements directed by the entity. Post-experiment, all subjects reported sharing the same dream narrative, suggesting SCP-28685's ability to manipulate dreamscapes collectively.</p>
+<h3>Addendum 3: Recovery Efforts and Future Considerations</h3>
+<p>Efforts to develop a permanent containment solution for SCP-28685 are ongoing. Research into its influence on circadian rhythms may yield potential countermeasures. Meanwhile, deployed task forces have been instructed to provide SCP-28685 with items of comfort and toy-like objects whenever possible to reduce the likelihood of breaches and public incidents. Should containment be achieved, SCP-28685's impact on human sleep patterns offers a valuable opportunity for the study of dream and consciousness manipulation.</p>
+
+    </div>
+    
