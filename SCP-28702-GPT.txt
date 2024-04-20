@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28702 is  Gamera In Abandoned Office </h3> </center>
+
+    <h3>Item #: SCP-28702 - "Gamera's Vigil"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28702-GPT.png" alt="Illustration of SCP-28702" />
+        
+<h3>Description:</h3>
+<p>SCP-28702, colloquially known as "Gamera's Vigil," is a seemingly sentient entity of unknown origin manifesting exclusively within the confines of an abandoned office building, designated as Site-053, located in [REDACTED], Japan. SCP-28702 visually resembles a hybrid between a tortoise and a traditional Japanese "Komainu" (lion-dog statue typically found in Shinto shrines).</p>
+<p>SCP-28702's body composition is a mix of biological and anomalous components; its external shell is adorned with intricate glyphs emitting a faint luminescence. These glyphs are understood to fluctuate in response to the presence of other SCP entities.</p>
+<p>Initial hypotheses propose that SCP-28702 functions as a guardian against hostile anomalous activity. SCP-28702 remains stationary most of the time, interacting only when it detects the presence of an anomalous threat within a 3-kilometer radius of Site-053.</p>
+<p>When engaged by a threat, SCP-28702 utilizes a plethora of defensive and offensive capabilities to neutralize the target. These abilities have been cataloged as including, but not limited to, manipulations of space-time within its proximity, spontaneous generation of protective energy barriers, and bursts of directed high-intensity plasma.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As a Thaumiel-class object, SCP-28702's active cooperation with the Foundation has mitigated the necessity for typical containment. Site-053 has been retrofitted to act as both containment and operating base for SCP-28702.</p>
+<p>All entrances to Site-053 are to be secured with reinforced doors, always locked and monitored via CCTV and motion sensors. A contingent of Mobile Task Force Gamma-6 ("Deep Feeders") is assigned to the perimeter, ensuring that no unauthorized personnel approaches within a 1-kilometer exclusion zone around Site-053.</p>
+<p>An ECC (Entity Communication Chamber) has been established to facilitate interaction with SCP-28702 for the purpose of studying its capabilities and responding to any containment breaches nearby. The ECC is equipped with a variety of communication tools informed by the interaction it has had with Foundation personnel, including visual displays and symbol-based interfaces.</p>
+<p>Only D-class personnel and approved research staff may directly interact with SCP-28702, under strict supervision and with the necessary safeguards in place.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<h4>A: Initial Sighting</h4>
+<p>SCP-28702 was discovered after local reports detailing "a statue coming to life" grabbed the attention of Foundation agents embedded in local law enforcement. Site-053 was being used as a front by a rogue group of anomalous artifact traffickers. Upon raiding the site, SCP-28702 engaged and neutralized the threat, thereafter appearing dormant.</p>
+<h4>B: Foundation Engagement</h4>
+<p>Initial attempts to establish communication were met with passive resistance as SCP-28702 appeared to evaluate Foundation personnel's intentions. Once deemed non-hostile, SCP-28702 began to allow for closer examination, responding to demonstrations of peaceful interaction with subtle movements and glyphs changing patterns.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>A: Experiment-28702-Alpha</h4>
+<p>Objective: To ascertain SCP-28702's range of detection and the nature of its defensive capabilities.
+Procedure: A small, non-hostile anomalous object (SCP-1128, a class-Safe rubber duck with mild telepathic properties) was placed at varying distances from SCP-28702.
+Result: SCP-28702 ignored SCP-1128 until it was positioned within a 3-kilometer radius. It then produced a small barrier around itself but did not engage further, suggesting a detection threshold and a metric of threat assessment.</p>
+<h4>B: Experiment-28702-Beta</h4>
+<p>Objective: To determine the entity's response to a direct but controlled hostile threat.
+Procedure: D-class personnel were provided with a non-lethal taser and instructed to simulate an attack towards SCP-28702.
+Result: SCP-28702 immobilized the D-class personnel using localized temporal distortion for approximately ninety seconds, after which the subject was released unharmed. </p>
+<h4>C: Experiment-28702-Gamma</h4>
+<p>Objective: Investigate SCP-28702's offensive capacity.
+Procedure: A non-sentient SCP entity demonstrating regenerative properties (SCP-682-J, a miniature replica of SCP-682) was introduced in a controlled environment.
+Result: SCP-28702 emitted a plasma blast, reducing SCP-682-J to inert ash. It then reverted to a passive state after ensuring no further threat.</p>
+<h3>Addendum 3: Collaborative Containment Efforts</h3>
+<h4>A: Thaumiel-class Utility</h4>
+<p>SCP-28702's unique capabilities have been deemed vital in the containment and neutralization of potential Keter-class breaches. Its ability to gauge the threat of anomalous entities has made it an integral component in site defense protocols.</p>
+<h4>B: Morality Core Hypothesis</h4>
+<p>Advanced interaction and extensive studies suggest SCP-28702 possesses a set of behavioral protocols akin to a "morality core." It consistently refrains from using lethal force unless engaged by entities displaying intent to harm or corrupt. Further exploration into SCP-28702's core directives may provide insight into its origins and purpose.</p>
+<p>In summary, SCP-28702 continues to aid the SCP Foundation's mission to contain, protect, and secure anomalous objects around the globe, acting as a bastion within its operational radius and providing a nexus of defense against otherwordly threats.</p>
+
+    </div>
+    
