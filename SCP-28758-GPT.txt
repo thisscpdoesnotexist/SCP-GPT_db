@@ -1,0 +1,44 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28758 is  Rickroll Rick Astley </h3> </center>
+
+    <h3>Item #: SCP-28758 - "The Never-Giving-Up Paradox"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28758-GPT.png" alt="Illustration of SCP-28758" />
+        
+<h3>Description:</h3>
+<p>SCP-28758 is an anomalous phenomenon that manifests exclusively around Richard Paul Astley (henceforth referred to as RPA), an English singer, songwriter, and radio personality known for his 1987 song "Never Gonna Give You Up." SCP-28758 arises when any individual or entity attempts to "rickroll" RPA, i.e., deceive him into watching his own music video under false pretenses. Upon such attempts, the perpetrator, from this moment referred to as SCP-28758-1, undergoes a series of events that invariably cause significant alterations to their perception of reality, memory, and temporal awareness.</p>
+<p>SCP-28758 was discovered after a series of strange reports surfaced on social media, where individuals claimed to have experienced severe disorientation and memory loss after attempting to rickroll RPA at public appearances and online engagements. Further investigations revealed that these individuals not only forgot the act of rickrolling itself but also displayed symptoms of having experienced an alternate timeline in which the '80s music scene developed differently, often involving RPA in scenarios vastly unlike the established historical record.</p>
+<p>SCP-28758's nature makes it remarkably difficult to contain, as it does not adhere to physical forms but rather to specific conditions of human behavior involving RPA.</p>
+<h3>Special Containment Procedures:</h3>
+<p>The SCP Foundation's containment strategy for SCP-28758 revolves around preventing any attempts to rickroll RPA. RPA has been covertly made aware of SCP-28758's existence and has agreed to cooperate fully with the Foundation's research and containment efforts. RPA's public appearances are to be monitored and managed by Foundation agents to intercept and deter SCP-28758-1. Additionally, RPA's online presence is to be supervised by Foundation cyber-security teams to prevent digital instances of SCP-28758-1.</p>
+<p>Since SCP-28758 poses a considerable risk to the individual attempting the rickroll and could potentially affect a broader spectrum of the population through memetic spread, all online content regarding "how to rickroll RPA" must be identified and expunged. Automated web crawlers (designated Scrub-AI) have been employed to continuously monitor and remove such content.</p>
+<p>In the event SCP-28758-1 successfully initiates an instance of SCP-28758, they are to be apprehended immediately, administered Class-B amnestics, and subjected to psychological evaluation and support. Any evidence or records of their actions will be erased or altered to prevent any recurrence or additional research into the phenomenon by unauthorized parties.</p>
+<h3>Addendum 1: Initial Containment Report</h3>
+<h4>Addendum 1-A: Discovery of SCP-28758</h4>
+<p>SCP-28758 was first identified after an individual known as [REDACTED] attempted to rickroll RPA during a live television interview. Immediately after the attempt, [REDACTED] fell into a state of confusion and was unable to recall recent events. Hospital records indicated a diagnosis of acute disassociative amnesia. Upon further investigation, similar cases were documented, and patterns were established leading to the initial containment of SCP-28758.</p>
+<h4>Addendum 1-B: Interview with RPA</h4>
+<p>RPA has been highly cooperative with the Foundation, expressing concern over the well-being of individuals affected by SCP-28758. During interviews, RPA has provided valuable insights into the anomalous events, noting that he himself occasionally experiences brief flickers of alternate memories coinciding with SCP-28758 occurrences, though he remains largely unaffected.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 28758-E1: Foundation-Sanctioned Rickroll</h4>
+<p><strong>Objective:</strong> To initiate a controlled rickroll of RPA in hopes of observing the immediate effects of SCP-28758.</p>
+<p><strong>Details:</strong> A D-Class subject was instructed to present RPA with a tablet under the guise of showing an article, which would instead play his music video. Both were monitored in a secure testing room.</p>
+<p><strong>Result:</strong> Upon the rickroll attempt, the D-Class subject [DATA EXPUNGED] leading to a containment breach. Although the situation was quickly controlled, the subject retained an altered state of consciousness for 72 hours. RPA reported a momentary lapse in memory but recovered with no further complications.</p>
+<h4>Experiment 28758-E2: Memetic Resistance Testing</h4>
+<p><strong>Objective:</strong> To determine if there is a correlation between exposure to other memetic anomalies and resistance to SCP-28758's effects.</p>
+<p><strong>Details:</strong> A select group of D-Class subjects with previous exposure to different memetic anomalies was subjected to separate instances of SCP-28758.</p>
+<p><strong>Result:</strong> No significant difference in outcome for exposed subjects when compared to control groups; all instances resulted in the expected disorientation and memory lapse. This suggests no cross-immunity or resistance stemming from previous exposure to memetic effects.</p>
+<h3>Addendum 3: Incident Log</h3>
+<h4>Incident 28758-I1: Unsanctioned Rickroll Attempt</h4>
+<p><strong>Date:</strong> [REDACTED]
+<strong>Details:</strong> An external hacker group orchestrated a mass rickroll attempt targeted at RPA across multiple social media platforms. Despite rapid intervention by Foundation assets, numerous subjects were affected and thus designated SCP-28758-1.</p>
+<p><strong>Response:</strong> The Foundation enacted Protocol Lockstep, a mass amnesticization initiative partnering with major social media outlets, to contain the digital spread of SCP-28758. The hacker group has been apprehended and are under indefinite Foundation custody.</p>
+<h4>Incident 28758-I2: The Astley Paradox</h4>
+<p><strong>Date:</strong> [REDACTED]
+<strong>Details:</strong> RPA himself inadvertently triggered SCP-28758 during a scripted comedic segment on a televised charity event where he was to jokingly rickroll another celebrity. This instance caused significant disturbance in the audience and television crew present, numbering into the hundreds.</p>
+<p><strong>Response:</strong> Emergency Protocol Colossus was initiated: a broadcast signal hijack across affected networks to deliver a Class-H memetic agent that induces targeted amnesia. Affected individuals were administered follow-up amnestics as necessary, and the charity event footage was seized and destroyed.</p>
+<p>SCP-28758 remains a Keter-class anomaly, with risks and effects only partially understood. The containment protocols are under continuous review for amendments to prevent further outbreaks and to protect RPA and the general populace from its anomalous influence.</p>
+
+    </div>
+    
