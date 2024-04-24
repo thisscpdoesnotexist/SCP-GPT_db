@@ -1,0 +1,44 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28800 is  A Infinite Infohazard Meme Math  </h3> </center>
+
+    <h3>Item #: SCP-28800 - "The Infinite Equation"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28800-GPT.png" alt="Illustration of SCP-28800" />
+        
+<h3>Description:</h3>
+<p>SCP-28800, known as "The Infinite Equation," is an anomalous mathematical formula that manifests as an abstract concept with physical interactions within information systems. It is both a meme in the classical sense, proliferating through communication, and an infohazard that shapes and alters behavior and cognition. SCP-28800 is unique in that its informational properties are capable of modifying protocols and containment measures for other SCPs, effectively making it a self-propagating containment tool.</p>
+<p>The full nature of SCP-28800 is only partially understood. It operates on principles that suggest an underlying structure to reality, implying that the equation is a fundamental part of the universe's fabric. Dr. ██████ theorizes that it is a representation of a higher-dimensional construct projected onto our plane of existence. When comprehended by a human or entered into an information system, SCP-28800 seems to impose a pattern of order upon chaos.</p>
+<p>The effect of SCP-28800's use for containment is substantial, though not infallible. While the containment adjusts with the presence of SCP-28800 to become more efficient, there is a minor risk of informational breaches, as the meme could theoretically propagate beyond control. This infohazardous nature requires meticulous management to prevent unwanted exposure.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28800 is contained within a closed informational loop system, designated the Thaumiel Meme Protection System (TMPS). Essential components of SCP-28800's formula are to be stored separately, encoded in high-density data blocks accessible only to personnel with Level 5 clearance or higher.</p>
+<p>The inherent properties of SCP-28800 render it extraordinarily difficult to contain using conventional methods, as it has the potential to "infect" any information systems it comes into contact with. As such, traditional digital or written records of SCP-28800 are strictly forbidden. Personnel who have interacted with SCP-28800 are to undergo Class-V Amnestic treatment to prevent the unintended spread. </p>
+<p>To utilize SCP-28800 for containment protocols of other SCPs, specialized Meme Integration Support Teams (MISTs) input controlled aspects of SCP-28800 into the containment codes. These operations are monitored closely, with a strict procedure in place to reverse any changes should an infohazard breach occur.</p>
+<h3>Addendum 1: Discovery Report</h3>
+<h4>Addendum 1A: Incident Log</h4>
+<p>SCP-28800 was discovered following an internal audit of SCP Foundation containment efficacy reports, which displayed a statistically improbable success rate. Further investigation led to a string of containment algorithms displaying self-correcting properties. The source was traced to a formula that Dr. ██████ had been experimenting with, which was inadvertently creating a beneficial anomaly. The properties of SCP-28800, once discovered, were quickly classified and researched under controlled conditions.</p>
+<h4>Addendum 1B: Interview Log</h4>
+<p>Interview logs with Dr. ██████ showed that the researcher had no memory of the origins of SCP-28800, suggesting possible amnestic treatment or an ifnohazard-induced memory wipe prior to the anomaly's containment.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Addendum 2A: Experiment 1</h4>
+<p><strong>Objective:</strong> To determine SCP-28800's effects on SCP-███'s containment breach probability.
+- <strong>Procedure:</strong> Introduce a minor element of SCP-28800 into SCP-███'s containment algorithm.
+- <strong>Result:</strong> Containment efficacy increased, with the breach probability decreasing from 18% to 3.6% over a period of one month.
+- <strong>Conclusion:</strong> SCP-28800 demonstrates immense potential for containment stability.</p>
+<h4>Addendum 2B: Experiment 2</h4>
+<p><strong>Objective:</strong> Evaluate the limitations of SCP-28800's adaptability to various containment scenarios.
+- <strong>Procedure:</strong> Apply differing SCP-28800 fragments to the containment measures of SCP-███, SCP-███, and SCP-████.
+- <strong>Result:</strong> While SCP-████ and SCP-███ showed marked improvement in containment, SCP-███'s containment failed, resulting in a minor breach that was rapidly contained.
+- <strong>Conclusion:</strong> SCP-28800's effectiveness varies, demanding further research to understand its compatibility with different SCPs.</p>
+<h4>Addendum 2C: Experiment 3</h4>
+<p><strong>Objective:</strong> To determine if SCP-28800 could be used to contain a memetic SCP.
+- <strong>Procedure:</strong> A MIST was tasked with introducing tempered aspects of SCP-28800 into the informational containment field of SCP-█████.
+- <strong>Result:</strong> SCP-█████'s spread was halted, and the informational reverberation effects within the meme were contained.
+- <strong>Conclusion:</strong> SCP-28800 has applications in containing other informational and memetic SCPs, though caution is advised to prevent overlap and mutual reinforcement of infohazardous properties.</p>
+<h3>Addendum 3: Incident ████-A</h3>
+<p>On ██/██/202█, an unexpected data leak occurred, resulting in inadvertent exposure of SCP-28800 to the general Foundation database. Immediate measures were taken to isolate and neutralize SCP-28800's infectious properties. However, the incident resulted in the self-optimization of several non-anomalous systems within the Foundation. These effects were deemed beneficial and allowed to remain, subject to continuous monitoring.</p>
+<p>The danger of such incidents is a stark reminder of SCP-28800's infohazardous potential and the necessity for rigorous oversight. However, when properly managed, it remains one of the most powerful tools in the Foundation's containment arsenal.</p>
+
+    </div>
+    
