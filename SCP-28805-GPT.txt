@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28805 is  Rainbow Friends  </h3> </center>
+
+    <h3>Item #: SCP-2880</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28805-GPT.png" alt="Illustration of SCP-28805" />
+        
+<h3>Description:</h3>
+<p>SCP-28805, codenamed "Rainbow Friends," is an anomalous phenomenon consisting of five entities, designated SCP-28805-1 through SCP-28805-5. These entities manifest as humanoid figures, each one corresponding to a distinct color of the visible spectrum: red, orange, yellow, green, and blue. Though each entity appears to be composed of a gelatinous substance, analysis has determined that they possess a complex internal structure not unlike organs found in standard terrestrial animals.</p>
+<p>SCP-28805 entities exhibit individual personalities and intelligence comparable to that of a human child, aged approximately 6-8 years. They communicate through a combination of vocalizations, body language, and telepathy with one another. Entities have thus far displayed friendly and non-aggressive behavior towards Foundation personnel.</p>
+<p>Containment of SCP-28805 has been focused on understanding the purpose and origin of these entities, as well as ensuring they do not come into contact with the general public lest a breach in normalcy occur.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28805 is housed in a specialized containment wing at Site-██. The wing is comprised of five containment chambers, one for each entity, connected by a central play area resembling a children's daycare center.</p>
+<p>Each containment chamber is outfitted to mimic a comfortable living environment, and daily enrichment activities are scheduled to provide mental stimulation for the SCP-28805 entities. Nutritional needs are met through a diet of high-energy gelatinous cubes, developed specifically for them by the Site ██ cafeteria staff.</p>
+<p>All interactions with SCP-28805 are to be conducted by personnel with Level 2/28805 clearance or higher, and with the approval of the Site Director. Personnel must undergo psychological screening prior to engaging with SCP-28805 to ensure they exhibit high empathy and patience.</p>
+<p>Due to SCP-28805's non-hostile nature, strict containment protocols are not required. However, any attempts by SCP-28805 entities to breach containment must be met with non-violent restraint techniques, and all staff are trained in such procedures as a precaution.</p>
+<h3>Addendum 1: Discovery and Initial Containment</h3>
+<p>SCP-28805 was first discovered at ██████ Kindergarten in ████████, ███████████, following reports of "living cartoons" that were interacting with the children. The Foundation was alerted and dispatched agents, who confirmed the presence of anomalous entities. Class-A amnestics were administered to all witnesses, and SCP-28805 was contained without incident.</p>
+<p>Initial interviews with the entities were inconclusive, as they seemed to possess limited understanding of their own existence. Theories proposed by researchers range from SCP-28805 being a spontaneously generated collective consciousness to an interdimensional experiment in child-like perception.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 28805-E1: Communication</h4>
+<p><strong>Objective:</strong> Understand the method and complexity of SCP-28805 communication.</p>
+<p><strong>Procedure:</strong> Researchers introduced various objects and images to the SCP-28805 entities to gauge their reactions and assess their communication skills.</p>
+<p><strong>Results:</strong> SCP-28805 demonstrated the ability to understand and to an extent interact with the presented items. While their ability to express complex abstract concepts was lacking, they did show a clear understanding of basic emotions and needs.</p>
+<h4>Experiment 28805-E2: Learning and Memory</h4>
+<p><strong>Objective:</strong> Test the SCP-28805 entities' capacity for learning and memory retention.</p>
+<p><strong>Procedure:</strong> A series of educational children's games were provided, with escalating difficulty over several weeks.</p>
+<p><strong>Results:</strong> Each entity learned at differing rates but showed significant progress in complex tasks. SCP-28805-4 exhibited the most rapid cognitive growth, quickly mastering puzzles meant for children several years older.</p>
+<h4>Experiment 28805-E3: Social Dynamics</h4>
+<p><strong>Objective:</strong> Observe SCP-28805 intra-species interactions and establish social hierarchy if present.</p>
+<p><strong>Procedure:</strong> SCP-28805 was allowed to interact freely within the central play area under surveillance.</p>
+<p><strong>Results:</strong> Entities exhibited cooperative behavior, with SCP-28805-1 (Red) often taking on a leadership role. No aggression was noted, and entities seemed to make decisions as a collective more often than not.</p>
+<h3>Addendum 3: Incident Report 28805-I1</h3>
+<p>On ██/██/20██, a site-wide power outage caused temporary deactivation of SCP-28805's containment chambers containment fields. During this time, SCP-28805-2 (Orange) and SCP-28805-5 (Blue) were able to exit their containment chambers. Despite initially wandering towards the staff residential quarters, they were found by Dr. ██████ drawing colorful pictures on a cafeteria wall. The entities voluntarily returned to their chambers once containment fields were re-established.</p>
+<p>Subsequent interviews suggested that SCP-28805-2 and SCP-28805-5 were not attempting escape, but rather wishing to "share happiness" with the rest of the facility. Despite their benevolent intentions, security protocols have since been updated to include backup containment measures.</p>
+
+    </div>
+    
