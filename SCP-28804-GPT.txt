@@ -1,0 +1,56 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28804 is  Poppy Playtime </h3> </center>
+
+    <h3>Item #: SCP-28804 - "Lullaby Labyrinth"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28804-GPT.png" alt="Illustration of SCP-28804" />
+        
+<h3>Description:</h3>
+<p>SCP-28804, colloquially named "Lullaby Labyrinth," is an anomalous play structure located within the now-abandoned Sunshine Daycare Center in ████████, ██. The structure appears to consist of several interconnected rooms and corridors designed in a whimsical and colorful style commonly found in children's indoor playgrounds. </p>
+<p>SCP-28804's anomalous properties become evident when an adult attempts to navigate through it. An adult entering SCP-28804 will perceive the interior to be a constantly shifting, non-euclidean space, with paths changing and doorways relocating seemingly at random, effectively turning the structure into a labyrinth with no clear exit.</p>
+<p>However, SCP-28804 does not exhibit the same effect on children under the age of 12. Recorded observations have shown that children are able to navigate SCP-28804 without any signs of disorientation or confusion. Children describe their experience as enjoyable and have stated that they did not observe any changes in the structure's layout. </p>
+<p>Recordings and transmissions from within SCP-28804 become increasingly distorted the deeper an adult subject moves into the structure, further complicating mapping efforts.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28804 has been contained on-site due to the immovability of its spatial phenomena. The building housing SCP-28804 has been purchased by a Foundation front company and designated Site-██. Access to the playground structure itself has been sealed off with reinforced steel doors and under constant surveillance. The only entry permitted is for approved testing or research.</p>
+<p>Personnel are advised not to enter SCP-28804 unless accompanied by remote-controlled exploration drones or are otherwise under exceptional orders. Due to its impact being isolated to adults, children have been strictly forbidden from entering the site to prevent any unforeseen manifestation of its anomalous properties.</p>
+<p>In case of a containment breach, non-lethal incapacitating agents are to be used to prevent affected adults from leaving the vicinity until the anomaly's influence ceases. Any civilians exposed to the anomaly are to be administered Class-A amnestics and provided with a cover story consistent with local psychological phenomena or intoxication.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-28804 was first discovered when reports of several missing adults in ████████, ██ began to surface. Investigation linked these disappearances to the now-defunct Sunshine Daycare Center. Foundation agents embedded in local law enforcement were dispatched to the site and discovered SCP-28804. MTF Psi-8 ("The Silencers") were subsequently deployed to establish a containment perimeter and initiate on-site containment.</p>
+<h3>Addendum 2: Incident 28804-1</h3>
+<p>An incident occurred on ██/██/20██ that prompted a revision of containment procedures. Agent ██████ inadvertently entered SCP-28804 during a routine security check without the use of a drone. The search and rescue operation that followed proved to be exceptionally challenging due to SCP-28804's anomalous effects.</p>
+<p>Incident report 28804-1-A:
+- 00:15: Agent ██████ reports entry into SCP-28804.
+- 00:17: Contact with Agent ██████ becomes sporadic.
+- 00:45: Agent ██████'s last transmission indicates extreme disorientation and panic.
+- 01:30: Rescue team deploys two remote-operated drones. Signals become unstable after drones pass the second interior junction.
+- 03:50: Agent ██████ is found unconscious in the section known as "The Ball Pit Depths," which previously did not exist during initial exploration.
+- 04:10: Agent ██████ and drones are successfully extracted.</p>
+<p>Agent ██████ recovered with no lasting effects beyond mild psychological distress. The "Ball Pit Depths" area could not be relocated in subsequent explorations.</p>
+<h3>Addendum 3: Experiment Log 28804</h3>
+<h4>Experiment 28804-A</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Subject</strong>: D-9481 (Male, 34 years old)</li>
+<li><strong>Procedure</strong>: Subject is equipped with a GPS tracker and a video link before entering SCP-28804.</li>
+<li><strong>Results</strong>: Subject demonstrates increasing confusion and is unable to locate the entrance despite clear directions from observing researchers. GPS signal becomes unreliable after 20 minutes. Video link lasts for 45 minutes before failing. Subject is found asleep at the entrance after 2 hours with no memory of the events inside SCP-28804.</li>
+</ul>
+<h4>Experiment 28804-B</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Subjects</strong>: Three D-class personnel (two adults, one 11-year-old)</li>
+<li><strong>Procedure</strong>: Subjects are sent into SCP-28804 with the task of reaching the central chamber as designated in the blueprint.</li>
+<li><strong>Results</strong>: The children navigate to the supposed central chamber without issue, constantly in a visual contact with a drone. The adult subjects become separated and exhibit signs of stress and disorientation. After 30 minutes, the children complete their task. The adults are retrieved with difficulty and report different environmental details than those provided by the children and recorded by the drone.</li>
+</ul>
+<h4>Experiment 28804-C</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Subject</strong>: D-1123 (Female, 29 years old)</li>
+<li><strong>Procedure</strong>: Subject is instructed to map the structure using provided materials while under the effects of a mild sedative.</li>
+<li><strong>Results</strong>: The sedative appears to have no effect on the anomaly's influence. Subject becomes lost and increasingly agitated, and the supplied materials are scattered throughout the route. Remote assistance proves only slightly effective, and full retrieval takes approximately 3 hours. The mapped data is largely inconsistent with previous findings.</li>
+</ul>
+<p>These experiments have led researchers to theorize that SCP-28804 may react not purely to physical age but possibly to subjects' mental state or perception of playfulness. Further testing is approved to explore these dimensions.</p>
+
+    </div>
+    
