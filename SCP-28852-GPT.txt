@@ -1,0 +1,65 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28852 is  A Creepy Prison Dark Green Forest </h3> </center>
+
+    <h3>Item #: SCP-28852 - "The Whispering Woods"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28852-GPT.png" alt="Illustration of SCP-28852" />
+        
+<h3>Description:</h3>
+<p>SCP-28852, known colloquially as "The Whispering Woods," is a verdant, temperate forest located in ████████, where the flora and fauna exhibit highly anomalous properties. Spanning approximately 60 square kilometers, the forest is marked by its distinctive dark green canopy, which filters sunlight in a way that casts an eerie, permanent twilight beneath it. </p>
+<p>Reports of SCP-28852 date back to the late 18th century, with locals speaking of a "cursed woodland" that ensnares the minds and bodies of those who wander too deeply within. The forest's most notable anomaly involves auditory hallucinations perceived as whispering voices, hence the name. These whispers often coax individuals to venture further into the forest, with many never returning. Fauna within SCP-28852 demonstrates extreme aggression and another anomalous behavior that complicates containment.</p>
+<p>Satellite imagery and remote sensing have been unable to capture clear images of SCP-28852 due to an inexplicable static that disrupts electronic equipment. Consequently, most information about the forest has been gathered through manned expeditions and interviews with survivors.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-28852's immovable nature and the severity of its anomalous effects, the primary objective of containment is to prevent unauthorized entry and mitigate its influence over local wildlife.</p>
+<ol>
+<li>
+<p>A secure perimeter has been established two kilometers from SCP-28852's edge, with fencing disguised to blend with the surrounding environment. Access is restricted to personnel with Level-4 clearance or higher, and must be approved by at least two members of O5 Command.</p>
+</li>
+<li>
+<p>A network of speakers emitting white noise is to operate continuously along the perimeter to counteract the coercive whispers. Personnel must wear noise-canceling headphones during excursions into or near SCP-28852.</p>
+</li>
+<li>
+<p>Foundation agents are to monitor and intercept local communication channels for any mention of SCP-28852, initiating amnestic treatment and disinformation campaigns as required.</p>
+</li>
+<li>
+<p>Mobile Task Force Zeta-19 "Silent Foresters" is deployed to track and study the anomalous fauna, apply containment measures to deviations, and ensure there are no breaches by the wildlife to the surrounding areas.</p>
+</li>
+</ol>
+<h3>Addendum 1:</h3>
+<h4><strong>Interview Log: Survivor Statement</strong></h4>
+<p><strong>Interviewer</strong>: Dr. Klein<br />
+<strong>Interviewee</strong>: Survivor (Pseudonym: "Alex")<br />
+<strong>Date</strong>: ██/██/████</p>
+<p><strong>[BEGIN LOG]</strong></p>
+<p><strong>Dr. Klein</strong>: What made you enter SCP-28852, Alex?</p>
+<p><strong>Alex</strong>: It was stupid, I guess... I kept hearing those whispers even before I reached the woods. They promised answers, secrets, things I thought I wanted to know.</p>
+<p><strong>Dr. Klein</strong>: Can you describe what you heard inside the forest?</p>
+<p><strong>Alex</strong>: It's like... the wind itself was talking to me, telling me to keep going further. And the deeper I went, the darker it seemed to get. The air felt heavy, like dread hanging over my head.</p>
+<p><strong>Dr. Klein</strong>: Did you encounter any of the wildlife?</p>
+<p><strong>Alex</strong>: Oh God, yes. The animals... they were wrong. Deer with too many eyes that didn't run away but just stared... I felt like they were watching my every move. And the birds... their songs were warped, as if they were laughing at me.</p>
+<p><strong>Dr. Klein</strong>: How did you manage to escape?</p>
+<p><strong>Alex</strong>: I... I don't remember. It's blurry. I ran, and the whispers turned to screams, like the forest itself was angry at me. When I finally stumbled out, it was like waking from a nightmare. I can still hear them sometimes...</p>
+<p><strong>[END LOG]</strong></p>
+<h3>Addendum 2:</h3>
+<h4><strong>Experiment Log 28852-E</strong></h4>
+<p><strong>Date</strong>: ██/██/████</p>
+<p><strong>Objective</strong>: To determine the extent to which SCP-28852 can control wildlife and potentially influence or control humans.</p>
+<p><strong>Procedure</strong>: D-Class personnel equipped with audio recording devices and GPS trackers are sent to follow specific instructions while navigating SCP-28852. A control group is stationed just outside the perimeter to observe wildlife behavior.</p>
+<p><em>Entry 1</em>
+<strong>Subject</strong>: D-48592<br />
+<strong>Instructions</strong>: Track and map the path taken under the guidance of the whispers.
+<strong>Result</strong>: D-48592 ventured 1.4km into SCP-28852, continuously expressing feelings of unease. Contact was lost after three hours. GPS tracker recovered at the perimeter edge, showing erratic movement patterns within the forest.</p>
+<p><em>Entry 2</em>
+<strong>Subject</strong>: D-59301<br />
+<strong>Instructions</strong>: Ignore all auditory phenomena and follow a predefined path.
+<strong>Result</strong>: Subject followed the marked trail for approximately 800m before reporting increasing disorientation. Despite insistence on ignoring auditory disturbances, D-59301 deviated from the path and was found unconscious 1km from entry point 48 hours later.</p>
+<p><em>Entry 3</em>
+<strong>Subject</strong>: D-60459<br />
+<strong>Instructions</strong>: Escort an armed squad to capture any instances of anomalous fauna.
+<strong>Result</strong>: Upon encountering a group of anomalous cervids, the armed squad attempted containment. Fauna exhibited extreme hostility and resistance. Squad suffered casualties; D-60459 showed symptoms of psychological trauma and was later administered amnestics.</p>
+<p><strong>Conclusion</strong>: SCP-28852 possesses a profound ability to disorient and mentally influence both humans and animals. Auditory hallucinations are a vector for control, compelling subjects deeper into the heart of the forest. Direct interactions with fauna pose significant risks. Further research into counteracting the forest's coercive whispers is recommended.</p>
+
+    </div>
+    
