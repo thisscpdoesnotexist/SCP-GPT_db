@@ -1,0 +1,49 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28855 is  Largest Dark Abandoned Bathroom Basement  </h3> </center>
+
+    <h3>Item #: SCP-28855 - "The Basin of Eternal Solitude"</h3>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-28855 is a seemingly extra-dimensional space accessed through what appears to be a common basement bathroom door situated in an abandoned property in ████████, Michigan. The external demeanor of SCP-28855 is unremarkable, featuring standard items usually found in a domestic bathroom such as a sink, a mirror, and a shower stall. However, eluding initial impressions, the bathroom extends indefinitely into a massive, darkened basement area upon crossing the shower stall threshold.</p>
+<p>This area, henceforth referred to as SCP-28855-1, is of non-Euclidean geometry, contradicting external spatial dimensions and extending far beyond any estimable boundary. It is characterized by seemingly infinite rows of porcelain washbasins, each identical and evenly spaced. Direct observation or recording devices have yet to find an end to these rows. The ambient temperature remains a constant 10°C, and the environment is uniformly lit by an undetermined source with no observable fixtures.</p>
+<p>Subjects report feelings of overwhelming isolation and disorientation within minutes of entering SCP-28855-1. These psychological effects are presumed to be anomalous in nature due to their intensity and onset speed, far surpassing typical human reactions to similar environments. </p>
+<p>Exposure to SCP-28855-1 for more than 15 minutes has been shown to induce a catatonic state, in which affected individuals exhibit a compulsion to continually wash their hands in one of the basins. This behavior persists until physical removal from SCP-28855-1. Upon extraction, individuals report no memory of their time within, though they often experience acute agoraphobia and obsessive-compulsive tendencies related to hand cleanliness that may diminish gradually over several weeks.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28855 is secured by a locked, coded access door installed at the point of entry which is to be monitored by no fewer than two (2) armed guards at all times. Guards must be rotated on a bi-weekly basis to prevent potential anomalous influence stemming from proximity to SCP-28855. A false wall has been erected to conceal the entryway from casual observation, and the abandoned property surrounding SCP-28855 has been purchased by the Foundation and is maintained as a restricted area under the guise of hazardous material contamination. Any trespassers are to be detained, interrogated, and administered a Class-A amnestic before release.</p>
+<p>Personnel entering SCP-28855-1 must adhere to a strict time limit of 10 minutes, with a secured safety tether at all times to facilitate a swift extraction. Testing with D-Class personnel requires approval from at least two (2) Level 3 researchers, varying in different fields of expertise to ensure comprehensiveness in understanding SCP-28855's numerous facets.</p>
+<h3>Addendum 1: Experiment Log Summary</h3>
+<h4>Experiment-01:</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-1432</li>
+<li><strong>Procedure:</strong> Subject instructed to enter SCP-28855-1 and describe observations.</li>
+<li><strong>Results:</strong> D-1432 reported an initial fascination with the environment's scale. Approximately 7 minutes in, the subject began showing signs of distress, vocalizing feelings of isolation. Extraction occurred at the 10-minute mark, with D-1432 exhibiting mild agoraphobia upon return.</li>
+</ul>
+<h4>Experiment-02:</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-2887</li>
+<li><strong>Procedure:</strong> Subject tasked to travel as far straight ahead as possible within time constraints.</li>
+<li><strong>Results:</strong> D-2887 reported continuous rows of washbasins with no variance. Subject refused to continue at the 9-minute mark, claiming to hear whispers emanating from unseen sources. Extraction completed with no physical anomalies, but D-2887 developed a persistent hand-washing compulsion.</li>
+</ul>
+<h4>Experiment-03:</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-3910 (equipped with audio recording devices)</li>
+<li><strong>Procedure:</strong> Subject instructed to record ambience and any auditory anomalies within SCP-28855-1.</li>
+<li><strong>Results:</strong> Recording equipment captured only the subject's movements and signs of increasing psychological distress. Retrieval initiated after subject became unresponsive, having succumbed to a catatonic state at 13 minutes. Subject was found at a basin, repeatedly washing hands, and could only be removed with considerable effort. </li>
+</ul>
+<h3>Addendum 2: Recovery Notes</h3>
+<ul>
+<li><strong>Date of Recovery:</strong> ██/██/████</li>
+<li><strong>Initial Report:</strong> Local teenage trespassers stumbled upon SCP-28855 and uploaded video evidence to social media. Their reports of a "haunted bathroom" were initially dismissed as a prank; however, the Foundation intercepted chatter on paranatural forums that warranted investigation.</li>
+<li><strong>Response:</strong> Mobile Task Force Psi-7 ("Home Improvement") dispatched to secure the location. Initial reconnaissance corroborated trespassers' accounts. The property was promptly acquired, and amnestics were utilized to nullify public knowledge of the anomaly.</li>
+</ul>
+<h3>Addendum 3: Notes on Psychological Effects</h3>
+<ul>
+<li><strong>Researcher Observations:</strong> Prolonged exposure to SCP-28855-1 has clear detrimental effects on mental health. The nature of the compulsions and paranoia remains deeply concerning, suggesting a cognitohazardous or memetic component inherent to the environment. Long-term studies on affected subjects and the development of countermeasures have been proposed.</li>
+<li><strong>Further Action:</strong> Ongoing therapy and monitoring of affected subjects. Investigation into the creation of a "mental inoculation" to protect against SCP-28855-1's effects is underway. The Ethics Committee has scheduled a review of the therapeutic and exploratory protocol associated with SCP-28855.</li>
+</ul>
+
+    </div>
+    
