@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28857 is  Looking for a Spousal Unit? </h3> </center>
+
+    <h3>Item #: SCP-28857 - "Eternal Bachelor"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28857-GPT.png" alt="Illustration of SCP-28857" />
+        
+<h3>Description:</h3>
+<p>SCP-28857 is a humanoid entity resembling a middle-aged male, approximately 1.75 meters in height and weighing around 70 kilograms. The entity has the ability to alter its facial features and bodily structure to match the ideal preferences of any individual looking for a romantic partner. Regardless of the preference specifics, SCP-28857 consistently maintains 
+distinctive bright green eyes, which appear to have a hypnotic effect on those subjected to its gaze for extended periods.</p>
+<p>SCP-28857 is fluent in several languages and exhibits knowledge of various cultural dating rituals. It expresses a desire to bond with a 'spousal unit' and engages in behavior typical of human courtship. However, SCP-28857's effect on potential partners is anomalous: subjects enter a state of euphoria and exhibit extreme infatuation with SCP-28857, often neglecting basic needs to be near the entity. This effect persists for approximately 4 to 6 months, after which subjects suffer severe psychological withdrawal, sometimes leading to self-harm or suicide.</p>
+<p>The entity has been known to seek out individuals through online dating services, local bars, social gatherings, and occasionally by directly approaching individuals deemed to be seeking companionship. Recovery of SCP-28857 occurred after a marked increase in missing persons and related incidents in [REDACTED], with traces leading to the entity.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28857 is to be contained in a Standard Secure Humanoid Containment Cell equipped with basic amenities at Site-██. The cell is to be monitored via CCTV, and any interaction with the entity requires approval from at least two (2) Level 3 personnel. To reduce SCP-28857's influence and prevent the detrimental effects of its containment, personnel interacting with SCP-28857 must be rotated on a weekly basis and screened for psychological stability.</p>
+<p>All communication equipment within and surrounding the containment cell has been disabled to prevent SCP-28857 from accessing external networks and online dating platforms. In the event that SCP-28857 breaches containment, personnel are advised to use non-lethal methods to recontain the entity due to its relatively benign nature when not engaged in courtship behaviors.</p>
+<h3>Addendum 1:</h3>
+<h4>Addendum 1-A: Discovery</h4>
+<p>SCP-28857 was first encountered following a string of unexplained disappearances linked to online dating in the vicinity of [REDACTED]. Field agents embedded within local law enforcement connected these cases to a single individual described differently by each witness but with identical green eyes. Upon containment, SCP-28857 expressed confusion and a strong desire to 'reconnect with loved ones'.</p>
+<h4>Addendum 1-B: Psychological Profile</h4>
+<p>Psychological evaluations of SCP-28857 suggest that it genuinely seeks a lasting relationship but is either unaware of or unconcerned by the harm it causes to subjects. It has been hypothesized that the compulsion to find a 'spousal unit' is an ingrained part of its being rather than a consciously malevolent act.</p>
+<h3>Addendum 2:</h3>
+<h4>Addendum 2-A: Experiment Log 28857-01</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Procedure:</strong> D-8432 was introduced to SCP-28857 after being briefed on the potential psychological effects.
+<strong>Results:</strong> D-8432 exhibited immediate infatuation with SCP-28857, who had assumed a form matching D-8432's expressed preferences. After 4 months, D-8432's mental health deteriorated rapidly.
+<strong>Note:</strong> D-8432 was treated for withdrawal symptoms and psychological trauma.</p>
+<h4>Addendum 2-B: Experiment Log 28857-02</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Procedure:</strong> D-9457, a confirmed asexual with no interest in romance, was introduced to SCP-28857.
+<strong>Results:</strong> SCP-28857 appeared initially confused but still attempted courtship behaviors. D-9457 remained largely unaffected, with minor discomfort reported.
+<strong>Note:</strong> This suggests that SCP-28857's effects may be reduced or negated by a lack of interest in companionship.</p>
+<h4>Addendum 2-C: Experiment Log 28857-03</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Procedure:</strong> An exposed individual (recovered affected civilian) was reintroduced to SCP-28857 after a full recovery.
+<strong>Results:</strong> Subject displayed immediate discomfort and fear upon seeing SCP-28857, with no re-emergence of infatuation symptoms.
+<strong>Note:</strong> This result implies potential immunity following initial exposure and recovery.</p>
+<h3>Addendum 3:</h3>
+<h4>Addendum 3-A: Containment Breach Incident Report</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Event:</strong> SCP-28857 breached containment by manipulating a guard (later identified as susceptible to SCP-28857's effects) during routine rotation. SCP-28857 was located in a nearby town attempting to integrate into a local community.
+<strong>Response:</strong> A recontainment team was dispatched and successfully administered Class-B amnestics to affected individuals. SCP-28857 was re-contained without further incident.
+<strong>Note:</strong> The guard responsible was reprimanded and reassigned to a non-anomalous sector. Security protocols have been updated to include psychological screening for potential susceptibility to SCP-28857's effects before assignment.</p>
+<p>The continued study of SCP-28857 focuses on understanding the full extent of its anomalous properties and developing more effective containment strategies. Researchers are particularly interested in the entity's unique form of emotional manipulation and possible applications for SCP containment and diplomacy.</p>
+
+    </div>
+    
