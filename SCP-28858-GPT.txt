@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28858 is  xmas tree falling </h3> </center>
+
+    <h3>Item #: SCP-28858 - "The Timely Tannenbaum"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28858-GPT.png" alt="Illustration of SCP-28858" />
+        
+<h3>Description:</h3>
+<p>SCP-28858 is an artificial Christmas tree, approximately 2.1 meters in height, with a metal stand and pre-attached decorative lights. While SCP-28858 appears non-anomalous for most of the year, it exhibits a peculiar temporal anomaly centered on December 24th at precisely 23:57 local time, every year.</p>
+<p>SCP-28858 was initially retrieved from a suburban household in ████, ████████, where the family residing there reported the tree to spontaneously fall over without outside interference each Christmas Eve. Upon Foundation intervention, it was discovered that SCP-28858’s collapse was an unavoidable event that occurred regardless of any physical restraints applied to prevent it.</p>
+<p>Studies have shown that SCP-28858's fall results from an undetectable, concentrated force emanating from within the object itself. Notably, this force exhibits distinct chronal signatures, indicating manipulation of time not currently understood by modern physics. Attempts to destroy or dismantle SCP-28858 have been met with failure, as the object restores itself to its original condition at 23:56 each December 24th, one minute before its collapse. Tests to alter or prevent its restoration have thus far proven ineffective.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28858 is to be contained in a standard secure anomalous object locker at Site-██ during non-active phases. Due to the limited range of SCP-28858’s effects, only personnel with Level 2 clearance or higher are permitted to be present in the containment chamber during its active phase on December 24th.</p>
+<p>All personnel involved in the containment of SCP-28858 are to remain at least 5 meters away from the object beginning at 23:50 local time on December 24th, to avoid any potential, albeit unknown, harmful effects that may occur during its collapse and restoration.</p>
+<p>During its inactive period, SCP-28858 may be used for employee recreational purposes, though care must be taken to ensure the object is returned to its original state before the next active phase.</p>
+<p>Containment protocols are subject to annual review to allow adjustments based on new research findings related to SCP-28858’s anomaly.</p>
+<h3>Addendum 1: Incident Report 28858-01</h3>
+<h4>Addendum 1-A: Initial Acquisition</h4>
+<p>SCP-28858 came to the Foundation's attention on December 25th, ████, after reports surfaced on local news outlets suggesting a "haunted Christmas tree" that could not be kept upright. Field agents embedded in local law enforcement were dispatched and swiftly secured SCP-28858 for transport to Site-██.</p>
+<h4>Addendum 1-B: Witness Statements</h4>
+<p>Interviews with the household from which SCP-28858 was retrieved revealed that the family had purchased the tree from a seasonal novelty store that closes shortly after the Christmas period and has no fixed address. Former inhabitants admitted to feelings of unease and sporadic sensations of déjà vu leading up to the days before SCP-28858’s annual collapse, with no lasting effects observed post-event.</p>
+<h3>Addendum 2: Experiment Log 28858</h3>
+<h4>Experiment 28858-E1</h4>
+<p><strong>Date:</strong> December 24th, ████<br />
+<strong>Procedure:</strong> A high-speed camera was set up to capture SCP-28858's collapse. Ten different physical constraints, ranging from adhesive agents to mechanical brackets, were used to prevent the fall.
+<strong>Result:</strong> At precisely 23:57, SCP-28858 collapsed, despite all constraints, which showed simultaneous mechanical failure impossible under normal physics. The high-speed camera footage captured a brief, inexplicable blurring of SCP-28858 before the event.</p>
+<h4>Experiment 28858-E2</h4>
+<p><strong>Date:</strong> December 24th, ████<br />
+<strong>Procedure:</strong> A D-Class personnel was instructed to hold SCP-28858 in an upright position manually.
+<strong>Result:</strong> The D-Class personnel was forcefully repelled from SCP-28858 at the moment of collapse, with no injuries reported. SCP-28858’s collapse proceeded unimpeded.</p>
+<h4>Experiment 28858-E3</h4>
+<p><strong>Date:</strong> December 24th, ████<br />
+<strong>Procedure:</strong> SCP-28858 was placed in a chamber with no gravitational influence.
+<strong>Result:</strong> SCP-28858 succeeded in "falling" even without the directional influence of gravity, further confounding researchers.</p>
+<h4>Experiment 28858-E4</h4>
+<p><strong>Date:</strong> December 24th, ████<br />
+<strong>Procedure:</strong> An attempt was made to dismantle SCP-28858 completely one hour before the expected event.
+<strong>Result:</strong> SCP-28858 reassembled itself instantaneously at 23:56, just before its programmed collapse, regardless of the disassembly state.</p>
+<h3>Addendum 3: Researcher Notes</h3>
+<p><strong>Note 28858-N1:</strong> "The recursive nature of SCP-28858's collapse coupled with its unalterable restoration suggests a pocket of 'stuck' time. In essence, we're not dealing with a simple object but a time loop imprinted on physical matter." - Dr. Eisenberg</p>
+<p><strong>Note 28858-N2:</strong> "The potential application of SCP-28858's temporal properties shouldn't be understated. If we can harness this enigmatic chronal force, we may gain new insights into time manipulation technologies." - Dr. Murakami</p>
+
+    </div>
+    
