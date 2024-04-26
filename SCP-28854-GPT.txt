@@ -1,0 +1,54 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28854 is  Lost in the Wilds </h3> </center>
+
+    <h3>Item #: SCP-28854 - The Whispering Woods</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28854-GPT.png" alt="Illustration of SCP-28854" />
+        
+<h3>Description:</h3>
+<p>SCP-28854 is an anomalous geographical area located in the [REDACTED] National Forest. The area encompasses approximately 5 square kilometers and is characterized by a dense, old-growth forest with a variety of indigenous plant and animal life. However, the SCP's most notable feature is its ability to induce a range of psychological and sensory anomalies in individuals who enter its boundaries.</p>
+<p>Documented effects include:</p>
+<ul>
+<li>
+<p><strong>Auditory Hallucinations</strong>: Subjects report hearing whispers and voices of indistinguishable origin, often urging them deeper into the woods or warning them to leave. No electronic devices have been able to record these sounds.</p>
+</li>
+<li>
+<p><strong>Disorientation and Memory Loss</strong>: Even experienced navigators find themselves unable to maintain a sense of direction within SCP-28854. GPS devices malfunction, and compasses spin erratically, rendering them useless. Subjects often forget how long they have been inside the perimeter or the reason for their entry.</p>
+</li>
+<li>
+<p><strong>Altered Perception of Time</strong>: Time appears to dilate, with subjects experiencing episodes that feel like hours but match only minutes of real-time and vice versa.</p>
+</li>
+<li>
+<p><strong>Visual Phenomena</strong>: Some subjects have reported seeing shadowy figures darting between trees, or the appearance of paths that lead to nowhere and vanish when approached.</p>
+</li>
+</ul>
+<p>SCP-28854 does not appear to inhibit wildlife from leaving its boundaries. Flora and fauna within the area seem unaffected by its anomalous properties.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28854 is currently surrounded by a 2-meter tall electrified fence camouflaged to blend with the surrounding environment. Warning signs indicating a hazardous area are posted around the perimeter to deter public access. The entrance is guarded by Foundation personnel posing as park rangers to prevent unauthorized entry.</p>
+<p>Due to the risk of mental contamination and the ensuing difficulty in extracting agents, remote observation methods are preferred for study. Any personnel entering SCP-28854 must have a purpose approved by at least two Level 4 researchers and are required to follow a strict protocol including psychological evaluation, use of a tether system as a physical guide, and constant communication with an onsite monitoring team.</p>
+<p>An outer observation post (designated Outpost-28854-A) monitors any movements in or out of SCP-28854 and serves as a research base.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-28854 came to the Foundation's attention following a series of missing persons reports in the surrounding area. Local legend spoke of a "whispering forest" that "speaks to those who wander in." Initial Foundation surveys confirmed the anomalous nature of the area. Embedded agents in local law enforcement and media maintain a cover story of a dangerous wild animal presence, effectively keeping civilians away.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 28854-E1:</h4>
+<ul>
+<li><strong>Subject</strong>: D-8432, male, 32 years old, with a history of successful navigation in challenging environments.</li>
+<li><strong>Procedure</strong>: Subject was equipped with standard exploration gear, including a malfunctioning compass and a digital camera. A tether was attached to the subject, and communication was maintained via radio.</li>
+<li><strong>Results</strong>: Subject reported mild disorientation and began hearing whispers after 15 minutes inside SCP-28854. The digital camera failed to operate after 20 minutes. Subject became increasingly agitated, claiming to see "shadows watching" him and was ordered to return. Total elapsed time inside SCP-28854 was 47 minutes. Post-experiment psychological evaluation showed heightened paranoia and suggested extended observation.</li>
+</ul>
+<h4>Experiment 28854-E4:</h4>
+<ul>
+<li><strong>Subject</strong>: D-10901, female, 27 years old, no prior navigational experience.</li>
+<li><strong>Procedure</strong>: The subject was instructed to follow a straight path marked by a pre-laid rope while documenting her feelings and observations.</li>
+<li><strong>Results</strong>: D-10901 followed the path without incident for approximately 100 meters before radio communication deteriorated into static. The tether remained tight and was reeled in manually. D-10901 was found unconscious 170 meters from the entry point with no memory of her experiences within SCP-28854. Analysis of audio recordings confirmed the presence of faint indecipherable whispering.</li>
+</ul>
+<h3>Addendum 3: Additional Notes</h3>
+<h4>Dr. Jensen's Observation:</h4>
+<p>During an exterior patrol of SCP-28854, Dr. Jensen reported a temporary lapse in auditory perception characterized by absolute silence despite the presence of wind and wildlife sounds. This phenomenon lasted approximately 10 seconds before normal environmental noise returned. Dr. Jensen has since been placed under observation for related aftereffects. This incident may indicate a potential expansion of SCP-28854's influence or an unrecorded ability to affect subjects outside its current boundaries.</p>
+<h4>Incident 28854-I1:</h4>
+<p>On [DATE REDACTED], a containment breach occurred when a group of four hikers bypassed the perimeter fencing. Despite immediate intervention and search efforts, only one was recovered, exhibiting severe psychological trauma and persistent aphasia. A subsequent security review has led to improvements in fencing and surveillance. Further investigation into the missing individuals is ongoing, with particular attention to the possibility of the anomalous area's effects persisting beyond initial exposure.</p>
+
+    </div>
+    
