@@ -1,0 +1,50 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28856 is  Gas Merchant </h3> </center>
+
+    <h3>Item #: SCP-28856 - "The Wandering Gas Merchant"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28856-GPT.png" alt="Illustration of SCP-28856" />
+        
+<h3>Description:</h3>
+<p>SCP-28856 refers to a humanoid entity, approximately 1.8 meters tall, dressed in a wide-brimmed hat and anachronistic overcoat that resembles attire from the early 20th century. SCP-28856 is characterized by its ability to transmute any gaseous substance it contacts into a different chemical composition, often generating hazardous or anomalous gases. The entity is known to propose exchanges with individuals it encounters, requesting personal belongings or intangible concepts such as memories in return for its gaseous "wares." </p>
+<p>The full extent of SCP-28856's transmutative abilities is unknown. Attempts to collect samples of the gases produced by SCP-28856 for analysis have often led to unpredictable consequences, ranging from minor reality alterations to localized temporal shifts.</p>
+<p>SCP-28856's behavior has been described as mercurial, communicating in a polite, yet cryptic manner. It demonstrates a broad knowledge of various chemical compounds and their effects, suggesting a high level of intelligence and understanding of chemistry that surpasses current human knowledge.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28856 is to be contained within a 10m x 10m x 10m sealed containment chamber lined with a specially designed carbon composite that can adsorb a wide variety of gaseous substances. No ventilation system is connected to SCP-28856's chamber, and its atmosphere is to be cycled and filtered every 24 hours through a secondary containment system capable of handling a diverse range of chemical hazards.</p>
+<p>Direct interaction with SCP-28856 is prohibited unless approved for testing purposes. All personnel engaging with SCP-28856 must wear HAZMAT suits with an independent oxygen supply. Communication is to be conducted through a two-way intercom system from a secured observation area.</p>
+<p>In the event of a containment breach, localized lockdown procedures should be initiated immediately. Mobile Task Force MU-4 ("Gas Maskers") is to be deployed to recontain SCP-28856 using non-lethal methods. All areas affected by SCP-28856's gas production are to be quarantined and subjected to rigorous decontamination protocols.</p>
+<h3>Addendum 1: Incident Log 28856-Alpha</h3>
+<h4>- Event 28856-Alpha-A:</h4>
+<p>Date: ██/██/████</p>
+<p>SCP-28856 was discovered in ████████, Russia, after reports of a "strange fog" causing disorientation and memory loss among the locals. Foundation agents intercepted SCP-28856 while it was attempting to "trade" gases with a civilian. The entity willingly entered Foundation custody after a brief negotiation, offering a sample of its gas in exchange for the "experience of containment."</p>
+<h4>- Event 28856-Alpha-B:</h4>
+<p>Date: ██/██/████</p>
+<p>SCP-28856 produced a gas that caused a rapid, localized drop in temperature, resulting in a flash freeze of its containment cell. The entity then offered to reverse the effect in exchange for a "snapshot of the sunset." A digital photo was provided, satisfying SCP-28856's request, and it reverted the cell to its original state.</p>
+<h3>Addendum 2: Experiment Log 28856</h3>
+<h4>- Experiment 28856-Epsilon-1:</h4>
+<p>Date: ██/██/████</p>
+<p><strong>Objective</strong>: To assess SCP-28856's ability to transmute gases into breathable air.</p>
+<p><strong>Procedure</strong>: SCP-28856 was provided with a sample of methane gas and asked to convert it into a breathable mixture.</p>
+<p><strong>Result</strong>: SCP-28856 complied, transforming the methane into a breathable mixture. However, subjects inhaling the gas reported euphoric and hallucinogenic effects lasting several hours. SCP-28856 commented on the outcome with, "One must always enjoy the air they breathe, no?"</p>
+<h4>- Experiment 28856-Kappa-4:</h4>
+<p>Date: ██/██/████</p>
+<p><strong>Objective</strong>: To understand the transactional nature of SCP-28856's exchanges.</p>
+<p><strong>Procedure</strong>: SCP-28856 was offered a common house plant in exchange for a gas that would enhance its growth.</p>
+<p><strong>Result</strong>: SCP-28856 produced a gas that accelerated the plant's growth rate exponentially until it expired from rapid aging. SCP-28856 retrieved the plant postmortem, stating that it would now "experience a different kind of growth."</p>
+<h3>Addendum 3: Interview Log 28856-Delta</h3>
+<h4>- Interviewer: Dr. ███████</h4>
+<h4>- Subject: SCP-28856</h4>
+<p><strong><Begin Log></strong></p>
+<p>Dr. ███████: "Can you explain the nature of your abilities, SCP-28856?"</p>
+<p>SCP-28856: "My dear Doctor, I am but a humble merchant of air, offering trade winds of change to those who desire them."</p>
+<p>Dr. ███████: "Where do you originate from?"</p>
+<p>SCP-28856: "Ah, a merchant's lineage is as vast as the skies—beyond your time, beyond your 'space', I have traversed the gales of existence."</p>
+<p>Dr. ███████: "What do you seek from these exchanges?"</p>
+<p>SCP-28856: "Trade is as essential to me as breath is to you. Except my breath... can be anything you desire."</p>
+<p><strong><End Log></strong></p>
+<p>Following Interview Log 28856-Delta, SCP-28856's motivations remain as unclear as its origins. Its propensity for vague and cryptic responses makes it difficult to ascertain its true nature or intent.</p>
+
+    </div>
+    
