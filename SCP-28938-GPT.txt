@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28938 is  For Esther, Lots of Things </h3> </center>
+
+    <h3>Item #: SCP-28938 - "For Esther"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28938-GPT.png" alt="Illustration of SCP-28938" />
+        
+<h3>Description:</h3>
+<p>SCP-28938 is an anomalous Victorian-era writing desk made of mahogany with intricate brass detailing, measuring 1.5 meters in length, 0.75 meters in width, and 1.1 meters in height. When a person sits at SCP-28938 and writes a letter addressed to "Dear Esther" detailing a heartfelt personal dilemma, the following anomalous property is observed:</p>
+<p>Within 24 hours, the writer receives a handwritten letter in response, emerging from the desk's previously locked central drawer. The response letter contains advice, insight, or information directly pertinent to the writer's situation, seemingly tailored by an entity identifying itself as "Esther." The advice provided has proven to be exceptionally wise, solving complex problems or suggesting solutions that had evaded conventional approaches.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28938 is to be kept in a standard secure item storage room at Site-██. Access to SCP-28938 is restricted to personnel with Level 3 clearance or higher and requires approval from at least two Level 4 Senior Researchers. Testing with SCP-28938 may only be conducted with prior approval and under the supervision of the overseeing researcher.</p>
+<p>Individuals interacting with SCP-28938 must undergo a psychological evaluation before and after each session to assess any potential psychological impact of the communications from "Esther." Personnel found to be developing an unhealthy dependency on SCP-28938's advice will be barred from further interaction and referred for counseling.</p>
+<p>Due to SCP-28938's Thaumiel classification and potential for beneficial outcomes, the ethics committee has permitted limited and controlled use of the entity's advice for resolving critical Foundation issues.</p>
+<h3>Addendum 1: Discovery and Acquisition</h3>
+<p>SCP-28938 was discovered in the study of an abandoned manor in █████████, England. The estate's last known owner, who passed away in the late 19th century, was Lady Esther ███████, a reputed philanthropist and social advisor of her time. Her death and the consequential abandonment of the property led to SCP-28938's discovery by Foundation agents following reports of "miraculous problem-solving" by local trespassers.</p>
+<p>Upon acquisition, SCP-28938's anomalous properties were revealed through experimentation, and the artifact was designated Thaumiel status for its potential utility in strategic operations.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 28938-E1:</h4>
+<p><strong>Subject:</strong> Dr. Claire Jensen
+<strong>Procedure:</strong> Dr. Jensen described an issue regarding interdepartmental communication breakdowns and requested Esther's advice. 
+<strong>Results:</strong> The received letter detailed a comprehensive strategy for improving communication, including departmental reshuffling and the implementation of new protocols. The advice was enacted, resulting in a significant increase in operational efficiency.</p>
+<h4>Experiment 28938-E2:</h4>
+<p><strong>Subject:</strong> Agent K█████ M█████
+<strong>Procedure:</strong> Agent M█████ requested insights on a personal psychological struggle impeding job performance.
+<strong>Results:</strong> The returned letter provided guidance on stress management techniques and suggested the agent take a temporary leave of absence. After adherence to the advice, the agent reported improved mental health and subsequent performance.</p>
+<h4>Experiment 28938-E3:</h4>
+<p><strong>Subject:</strong> O5 Council Member [REDACTED]
+<strong>Procedure:</strong> A covert investigation into potential security breaches within the Foundation.
+<strong>Results:</strong> Esther's letter suggested the use of a specifically designed counterintelligence operation, which led to the discovery of multiple leaks that were promptly sealed.</p>
+<h3>Addendum 3: Incident 28938-I1</h3>
+<p>During an unauthorized use of SCP-28938 by Research Assistant L███ H██████, an unusual response was received. H██████ had written a letter inquiring about personal romantic issues, which breached protocol for trivial use. The response from Esther warned of an upcoming catastrophic containment breach in a separate wing of Site-██, days before it occurred. Due to this warning, the Foundation was able to preemptively contain the situation with minimal loss. This event led to stricter controls and reinforced the potential value of SCP-28938 for foreseeing and managing Foundation crises.</p>
+<h3>Addendum 4: Theories on Origin and Nature</h3>
+<p>Analysis of the language, handwriting, and materials used in Esther's letters indicates a temporal origin consistent with the late Victorian period, but the actual source of the communication remains unknown. Some researchers speculate the entity known as "Esther" may not be a single conscious being but a manifestation of a temporal anomaly or collective unconscious given form and purpose by SCP-28938's properties.</p>
+<p>Because of the enigmatic nature of SCP-28938 and the potential ethical implications of its advice, ongoing debates within the Foundation exist regarding its use and the ramifications of such reliance on an entity whose motivations, if any, are not understood.</p>
+
+    </div>
+    
