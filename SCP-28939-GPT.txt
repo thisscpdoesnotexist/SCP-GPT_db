@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28939 is  A Star Is Born </h3> </center>
+
+    <h3>Item #: SCP-28939 - "A Celestial Cradle"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28939-GPT.png" alt="Illustration of SCP-28939" />
+        
+<h3>Description:</h3>
+<p>SCP-28939 is a small, metallic sphere, approximately 10 centimeters in diameter, whose surface is covered with intricate, unknown symbols and a pattern resembling that of a star chart. The object emits a constant low humming sound and a soft, pulsating light that synchronizes with the known frequencies of main sequence stars.</p>
+<p>Upon activation, which only occurs in the presence of a newborn infant, SCP-28939 unfolds and projects a holographic simulation of a stellar nursery, a region of space where new stars are born. Within this simulation, the movements and actions of the newborn seem to influence the creation and development of stars and planetary systems, implying a connection between the infant’s development and the maturation of the celestial objects.</p>
+<p>Research indicates that the sphere contains technology vastly superior to human understanding, and although its origin is not terrestrial, the device demonstrates no hostile properties and appears to have been designed with nurturing intentions. It remains inactive when not in the presence of a newborn and has so far displayed no ability to function beyond its strict parameters as a stimulatory and observational tool.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28939 is to be contained in a standard secure locker located in Site-66. Access to SCP-28939 is restricted to personnel with Level 2/28939 clearance or higher and is limited to approved study protocols. </p>
+<p>Testing with newborns is only to be conducted in a controlled environment, with parental consent and under strict ethical guidelines as outlined in Document 28939-ECP (Ethical Conduct Protocol). All tests must be monitored by at least two approved Foundation researchers and one pediatrician.</p>
+<p>In the event of SCP-28939's activation outside of a testing environment, it must be deactivated through the use of a standard dampening field tailored to the object's frequency, returning it to its inert state until it can be safely returned to containment.</p>
+<h3>Addendum 1: Discovery</h3>
+<h4>Addendum 1-A: Recovery Report</h4>
+<p>SCP-28939 was recovered on ██/██/20██ following reports of a "supernatural event" in a small village in ███████. The Foundation's agents were dispatched to the village after local media reported on a "baby that could make stars dance". Upon arrival, agents located the device in a humble dwelling, where the newborn's parents claimed they had received it as a gift from a mysterious, robed figure just before the birth of their child. The object was secured without incident, and the family was administered Class-A amnestics.</p>
+<h4>Addendum 1-B: Witness Accounts</h4>
+<p>Interviews with village locals revealed mythologies describing "celestial benefactors" who would bestow gifts upon newborns meant to aid them in their life's journey. While this seems to correlate with the apparent function of SCP-28939, no further evidence of such entities or objects has been found.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 28939-E-01</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Purpose:</strong> To observe SCP-28939's activation and its interaction with a newborn.
+<strong>Procedure:</strong> SCP-28939 was placed within the vicinity of a 3-day-old infant under controlled conditions.
+<strong>Result:</strong> SCP-28939 activated, producing a stellar nursery hologram. The infant's movements seemed to guide the formation of a binary star system within the simulation.
+<strong>Note:</strong> It was remarkable to see how the stars and planetary bodies formed in synchronization with the child’s coos and laughter.</p>
+<h4>Experiment 28939-E-04</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Purpose:</strong> To understand if SCP-28939's effects are influenced by the emotional state of the newborn.
+<strong>Procedure:</strong> SCP-28939 was exposed to the same previous infant, now agitated and crying.
+<strong>Result:</strong> The hologram displayed a corresponding tempestuousness within the nebula regions; however, once the child was soothed, the simulation returned to a peaceful state.
+<strong>Note:</strong> This indicates a clear connection between the emotional state of the infant and the behavior of the celestial simulation.</p>
+<h3>Addendum 3: Long-term Observation</h3>
+<h4>Addendum 3-A: Follow-up Studies</h4>
+<p>Continuous observation of the children involved in SCP-28939's experiments has shown a statistically significant tendency towards careers or hobbies related to astronomy, astrophysics, or other space-related fields. Further analysis is needed to determine whether SCP-28939 has a lasting psychological impact.</p>
+<h4>Addendum 3-B: Potential Educational Applications</h4>
+<p>Given SCP-28939’s apparently benign nature, theoretical applications have been proposed for its use in educational settings. Proposals are currently under review by the Ethics Committee. However, considering its anomalous nature, SCP-28939 remains classified as an SCP object and is not approved for public use.</p>
+<h3>Addendum 4: O5 Council Notes</h3>
+<h4>Addendum 4-A: Containment Rationale</h4>
+<p>Given the lack of danger presented by SCP-28939 and its specific activation requirements, the object class has been designated as 'Safe’. However, the Council has decided to maintain its containment to both protect the general populace from exposure to anomalous objects and to prevent any potential misuse. SCP-28939 represents a unique opportunity for study into the intersection of anomalous activity and human development.</p>
+
+    </div>
+    
