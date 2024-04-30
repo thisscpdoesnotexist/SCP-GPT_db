@@ -1,0 +1,50 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28940 is  Tula Finds out about Dumbing </h3> </center>
+
+    <h3>Item #: SCP-28940 - "Tula's Touch of Oblivion"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28940-GPT.png" alt="Illustration of SCP-28940" />
+        
+<h3>Description:</h3>
+<p>SCP-28940, dubbed "Tula's Touch of Oblivion," is an antique handheld mirror, dating back to the late 19th century, with an ornate frame made of an unknown alloy. The mirror itself exhibits no reflective properties and instead appears as a solid, obsidian-like surface. SCP-28940 causes any individual (hereafter referred to as the subject) peering into it to experience a temporary but profound loss of knowledge and skills.</p>
+<p>This effect is varied and seems to target areas in which the subject is highly knowledgeable or skilled, effectively "dumbing down" the individual for a period ranging from a few hours to several days. Following the removal of the mirror from the subject's presence, a full recovery of lost knowledge and abilities is typically observed within 48 hours.</p>
+<p>SCP-28940 was retrieved from a private estate sale after an agent embedded in the antique trade circuit noticed a series of unusual anecdotal reports from buyers. Prior to Foundation custody, the mirror was in possession of a family lineage that ostensibly guarded the artifact, referring to it as 'Tula,' a term whose origin remains undiscovered. The family records mention a matrilineally inherited duty to contain its effects, though they believed it to be a channel for divine humility rather than a paranormal object.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28940 is to be stored in a standard containment locker at Site-██. The locker is to remain locked at all times when SCP-28940 is not under study or undergoing testing. Access to SCP-28940 is only permitted to personnel with authorization from at least two Level 3 researchers.</p>
+<p>Personnel exposed to SCP-28940 are to undergo a standard 48-hour post-exposure observation period followed by a cognitive assessment to confirm the return of all knowledge and skills to baseline levels. Any personnel affected by SCP-28940 during testing must refrain from duties that require specialized knowledge or skills until full recovery is confirmed.</p>
+<p>The room containing SCP-28940 is to be lined with mirrored surfaces to ensure any incidental exposure does not lead to unintentional knowledge loss due to reflections of SCP-28940.</p>
+<h3>Addendum 1: Acquisition Log</h3>
+<p>SCP-28940 was secured following reports to local authorities by attendees of an estate sale in ██████, Louisiana. Agents intercepted the transmission and contained the object without civilian incident. The last surviving member of the lineage, Ms. Morgana █████, was detained and interviewed. She relinquished the artifact willingly but warned: "Tula reminds us that what we know can be lost, and what is lost can be learned again."</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 28940-E1</h4>
+<p><strong>Subject:</strong> D-9341, demonstrates high aptitude for mechanical repair.
+<strong>Procedure:</strong> Subject instructed to disassemble and reassemble a small engine pre- and post-exposure to SCP-28940.
+<strong>Results:</strong> Post-exposure, subject unable to recall steps for disassembly or demonstrate previous mechanical competency.
+<strong>Recovery:</strong> Full mechanical skill restored after 27 hours.</p>
+<h4>Experiment 28940-E2</h4>
+<p><strong>Subject:</strong> D-1287, professional classical pianist.
+<strong>Procedure:</strong> Subject requested to play a complex piano piece by Chopin pre- and post-exposure to SCP-28940.
+<strong>Results:</strong> Post-exposure, subject unable to recall how to read sheet music or play the piano beyond basic scales.
+<strong>Recovery:</strong> Musical ability and knowledge of music theory restored after 32 hours.</p>
+<h4>Experiment 28940-E3</h4>
+<p><strong>Subject:</strong> Dr. █████, researcher with expert-level knowledge of Foundation SCP database.
+<strong>Procedure:</strong> Subject requested to provide detailed summaries of various SCP articles pre- and post-exposure to SCP-28940.
+<strong>Results:</strong> Post-exposure, Dr. █████ unable to recall any specific SCP details beyond their existence.
+<strong>Recovery:</strong> Full recollection of SCP database recovered after 49 hours, slightly exceeding the average recovery period.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewer:</strong> Dr. Chen
+<strong>Interviewee:</strong> Ms. Morgana █████ (Prior owner)</p>
+<p><strong>[Excerpt Start]</strong></p>
+<p><strong>Dr. Chen:</strong> Ms. █████, can you tell us more about 'Tula' and why your family kept it hidden?</p>
+<p><strong>Ms. Morgana:</strong> Tula's been with us since my great-great-grandmother. She told us it was a test, to see the value in knowing nothing—for humility's sake. We never let outsiders look too long into Tula; it wasn't meant for them.</p>
+<p><strong>Dr. Chen:</strong> Why pass it on to The Foundation now?</p>
+<p><strong>Ms. Morgana:</strong> I'm the last. No child to bear the weight. Tula shouldn't be lost to the world, but she can't be free either. You people know how to keep secrets. How to hold onto the dangerous things.</p>
+<p><strong>Dr. Chen:</strong> Did your family ever experiment with its effects?</p>
+<p><strong>Ms. Morgana:</strong> No. The obligation was to protect, not to wield. We respected Tula's lesson too much. To forget... (Pauses) there's a certain peace to it, but also a desperation when the mind reaches for what it can't find. A double-edged sword and no mistake.</p>
+<p><strong>[Excerpt End]</strong></p>
+<p>SCP-28940 remains classified as Safe, but researchers are reminded to use caution when considering its utility. The potential for SCP-28940 to hinder knowledge retention or to be misused intentionally necessitates stringent containment and ethical testing guidelines.</p>
+
+    </div>
+    
