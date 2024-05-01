@@ -1,0 +1,52 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28973 is  five nights at freddy's </h3> </center>
+
+    <h3>Item #: SCP-28973 - "The Pizzeria Paradox"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28973-GPT.png" alt="Illustration of SCP-28973" />
+        
+<h3>Description:</h3>
+<p>SCP-28973 is an anomalous location mimicking the interior of a fictional pizza parlor, "Freddy Fazbear's Pizza," from the indie video game "Five Nights at Freddy's." This location was first discovered in █████, following local reports of individuals vanishing without a trace after entering an abandoned arcade.</p>
+<p>SCP-28973 possesses an extremely sophisticated self-contained reality, exhibiting temporal and spatial anomalies. Inside, animatronic characters closely resembling those from the game exhibit independent movement and sentient behavior, conflicting with their non-sentient outside game counterparts. These entities are designated SCP-28973-1 through SCP-28973-4 and correspond to the characters: Freddy, Bonnie, Chica, and Foxy respectively.</p>
+<p>While SCP-28973 appears static from the outside, resembling a rundown building with no power source, its interior is anomalously preserved and shows signs of a functioning establishment. Individuals within SCP-28973, henceforth referred to as Subjects, experience time at a significantly slower rate, with one hour outside equating to approximately five nights within.</p>
+<p>Subjects report escalating hostile behavior from SCP-28973-1 through -4, culminating at what the Subjects perceive as the "end of the fifth night." Survivors often display symptoms of extreme psychological trauma, consistent with prolonged exposure to life-threatening situations.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given its stationary nature and influence radius, the containment of SCP-28973 focuses on isolating the anomaly from the public. A perimeter fence disguised as a construction site barrier has been erected to deter unauthorized entry. Foundation personnel posing as construction workers guard all potential access points 24/7.</p>
+<p>Electronic jamming devices have been installed to interfere with any unauthorized communication or recording equipment that could potentially broadcast evidence of SCP-28973's existence.</p>
+<p>Foundation web crawler AI, designated SIGMA-9, monitors and suppresses online discussions, images, or videos that accurately depict SCP-28973 or its entities to prevent the spread of its influence and minimize public knowledge.</p>
+<p>Entrance into SCP-28973 for research purposes requires prior authorization from at least two Level 4 Foundation personnel and is strictly limited to D-Class subjects under heavy surveillance. All research teams are to maintain a safe distance from the anomaly's entrance.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 28973-E-01:</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-5531 (Male, 31 years old)</li>
+<li><strong>Procedure:</strong> Subject instructed to enter the facility and report observations.</li>
+<li><strong>Results:</strong> Subject reported contact with SCP-28973-1 through SCP-28973-4, which gradually became hostile. Audio and visual feeds were disrupted at the "fifth night." Subject failed to emerge after the experiment.</li>
+<li><strong>Note:</strong> Retrieval deemed too dangerous. Further use of D-Class subjects recommended for a more controlled experiment.</li>
+</ul>
+<h4>Experiment 28973-E-02:</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-7782 (Female, 29 years old), equipped with advanced tracking and biometric devices.</li>
+<li><strong>Procedure:</strong> Subject instructed to enter SCP-28973, avoid SCP-28973-1 through -4, and attempt to find any exits other than the main entrance.</li>
+<li><strong>Results:</strong> Tracking and biometric signals lost after the third "night." Visual and audio feeds persisted sporadically, revealing Subject in a state of extreme distress. Subject was not retrieved.</li>
+<li><strong>Note:</strong> It appears there is no secondary exit within SCP-28973. Entities' behavior escalates significantly on the third night.</li>
+</ul>
+<h4>Experiment 28973-E-03:</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-9903 (Male, 28 years old), given blueprints of the pizzeria to find and secure potential weak points.</li>
+<li><strong>Procedure:</strong> Subject entered with instructions to barricade in the security room and monitor entity behavior.</li>
+<li><strong>Results:</strong> After the fourth "night," SCP-28973-2 breached the security room despite fortification. Audio feed captured sounds of a struggle before it cut out. Subject did not return.</li>
+<li><strong>Note:</strong> SCP-28973-2 demonstrated previously unseen levels of physical strength and problem-solving ability.</li>
+</ul>
+<h3>Addendum 2: Incident Reports and Observations</h3>
+<h4>Incident 28973-A:</h4>
+<p>Following Experiment 28973-E-03, SCP-28973-2 was observed on surveillance occasionally exhibiting non-hostile behavior, interacting with the environment in a manner inconsistent with its originally observed patterns. It henceforth ignored D-Class personnel on several occasions without inciting confrontation, indicating a potential learning curve or adaptation.</p>
+<h4>Observation Log from External Surveillance:</h4>
+<p>Dr. ██████ observed SCP-28973 entities during “closing hours,” noting that SCP-28973-1 through -4 displayed behavior seemingly indicative of a structured social hierarchy, contradicting their in-game portrayals as singularly hostile. Further study into the entities’ social dynamics and potential for complex behavior is proposed.</p>
+<h4>Incident 28973-B:</h4>
+<p>SIGMA-9 detected an online resurgence of SCP-28973-related information, leading to the identification of a former D-Class subject (D-5531) posting detailed accounts of the interior of SCP-28973. Subject D-5531 claimed to have “escaped the game” and provided information that could only be known by someone who had entered SCP-28973. As a result, a potential existential threat to SCP-28973's environmental integrity has been posed, and an investigation into how subject D-5531 managed to escape and retain his memories despite the Foundation's amnestic treatments is ongoing. </p>
+<p>The mobile task force has been dispatched to recontain D-5531, with orders to administer Class A amnestics to all exposed individuals and remove any trace of his testimony from public knowledge. However, the means by which SCP-28973 released an individual back into reality remains a top priority for Foundation research, with potential implications for containment breach protocols and the nature of SCP-28973's existence.</p>
+
+    </div>
+    
