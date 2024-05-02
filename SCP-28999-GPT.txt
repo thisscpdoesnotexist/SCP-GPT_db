@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28999 is  The Beetle Offers to Harm You </h3> </center>
+
+    <h3>Item #: SCP-28999 - The Beetle Offers to Harm You</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28999-GPT.png" alt="Illustration of SCP-28999" />
+        
+<h3>Description:</h3>
+<p>SCP-28999 is an anomalous entity resembling a large Coleopteran insect, specifically a member of the <em>Scarabaeidae</em> family. It stands at approximately 0.5 meters in height and 1 meter in length. SCP-28999's exoskeleton is a dark iridescent blue, with patterns that suggest a shifting, almost sapient level of complexity when observed directly.</p>
+<p>What is distinctly anomalous about SCP-28999 is its behavior and method of communication. SCP-28999 possesses the ability to communicate with humans through a form of telepathy. While SCP-28999 has never been observed producing vocal sounds, subjects within a 5-meter radius report hearing a clear, malevolent voice in their minds, described as deep and unnerving. </p>
+<p>The entity regularly offers to inflict harm on the subjects in exchange for unspecified "benefits." These offers are always phrased politely and with an unsettling level of earnestness. Subjects report feelings of intense unease and often express a desire to accept the entity's offers, despite the understood risks. The nature of the "benefits" has yet to be determined, as no exchange has been officially sanctioned by the Foundation.</p>
+<p>SCP-28999 does not appear to take any physical action unless its offer is accepted. If the subject verbally agrees to the offer, SCP-28999 will proceed to harm the subject in a manner consistent with the entity's previous statements. The harm inflicted is often severe but non-lethal. It is important to note that despite SCP-28999's ability to communicate, it does not respond to questioning and will often ignore the subject following acceptance and infliction of harm.</p>
+<p>Researchers have not been able to determine SCP-28999's origin or how it chooses its subjects. Woefully, multiple instances of SCP-28999 may exist, as reports of similar phenomena have surfaced globally.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28999 is contained in a standard anomalous entity containment cell reinforced with lead lining to prevent its telepathic communications from reaching outside its containment. The cell is to be under 24/7 surveillance by non-D-Class personnel equipped with sound-canceling headphones to prevent telepathic influence.</p>
+<p>All interaction with SCP-28999 must be carried out by D-Class personnel who have been briefed and consented to the risks; these personnel are to be monitored closely and vetted for psychological stability.</p>
+<p>Any acceptance of SCP-28999's offer must be with express permission from at least two Level 4 research personnel for the purpose of research only. Should any personnel accept SCP-28999's offer without permission, they are to be quarantined and assessed for psychological influence or manipulation.</p>
+<h3>Addendum 1: Incident Log-28999-A</h3>
+<p>On June 6, ████, SCP-28999 breached containment momentarily when a scheduled telepathic dampening field malfunctioned due to an unexpected power surge. The entity approached laboratory assistant Dr. ██████ and offered to harm her in exchange for a powerful position within the SCP Foundation. Dr. ██████ accepted the offer and was found with both arms broken in multiple places. The subject was administered an amnestic and demoted. SCP-28999 was successfully re-contained with additional redundancies added to the containment cell's power supply.</p>
+<h3>Addendum 2: Experiment Log-28999-E</h3>
+<h4>Experiment 28999-E-01:</h4>
+<p><strong>Subject:</strong> D-4732
+<strong>Procedure:</strong> Subject was sent to communicate with SCP-28999 with instructions to decline any offers.
+<strong>Results:</strong> SCP-28999 offered to inflict a minor laceration on D-4732's forearm in exchange for "release from burden." D-4732 declined as per instructions; SCP-28999 showed no reaction and repeated the offer three times before ceasing communication.</p>
+<h4>Experiment 28999-E-05:</h4>
+<p><strong>Subject:</strong> D-5821
+<strong>Procedure:</strong> Subject was instructed to accept SCP-28999's offer to determine the nature of the "benefit."
+<strong>Results:</strong> SCP-28999 offered to "remove the sensation of hunger" from D-5821 in exchange for breaking three of his fingers. With oversight consent, D-5821 accepted. SCP-28999 caused the injuries in a manner that appeared surgical and precise. D-5821 reported an absence of hunger for 72 hours before the sensation returned. D-5821 was treated and psychological evaluations were scheduled.</p>
+<h4>Experiment 28999-E-14:</h4>
+<p><strong>Subject:</strong> D-8993 (fitted with a neural inhibitor to prevent psychic influence)
+<strong>Procedure:</strong> Subject encouraged to negotiate the terms of the offer.
+<strong>Results:</strong> D-8993 attempted negotiation, but SCP-28999 did not acknowledge these attempts and repeated a standard offer to "grant clarity of mind" in exchange for "a part of yourself." Against orders, D-8993 accepted before the neural inhibitor could be adjusted for intensity. SCP-28999 removed D-8993's left eye. Post-operation, D-8993 exhibited increased focus and reduced need for sleep. Long-term effects are under observation.</p>
+<h4>Experiment 28999-E-22:</h4>
+<p><strong>Subject:</strong> D-10012
+<strong>Procedure:</strong> Subject was tasked to outright reject and insult SCP-28999 to monitor its reaction to hostility.
+<strong>Results:</strong> Upon rejection and verbal abuse by D-10012, SCP-28999 remained placid, its outer carapace shifting colors more rapidly. It made no offers and resumed communication only after D-10012 was removed from containment. D-10012 reported severe headaches for several days following the experiment. Researchers hypothesize that SCP-28999 may be capable of passive retaliation.</p>
+<h3>Addendum 3: Foundation Ethics Committee Review</h3>
+<p>After reviewing the outcomes of Experiment Log-28999-E, the Foundation Ethics Committee raised concerns about the moral and psychological implications of continued testing, particularly with respect to possible long-term effects on D-Class personnel. A motion has been made to discontinue experiments that result in intentional harm to D-Class personnel and to focus research on understanding the nature of the "benefits" and developing countermeasures to SCP-28999's influence. This motion is currently pending review by the O5 Council.</p>
+
+    </div>
+    
