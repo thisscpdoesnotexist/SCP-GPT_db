@@ -1,0 +1,54 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28997 is  The Scottish National Famine </h3> </center>
+
+    <h3>Item #: SCP-28997 - "The Scottish National Famine"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28997-GPT.png" alt="Illustration of SCP-28997" />
+        
+<h3>Description:</h3>
+<p>SCP-28997 refers to a phenomenon manifesting exclusively within the borders of Scotland, UK, affecting the nutritional yield and edibility of food crops, food products, and occasionally livestock. The effect is localized to a radius of approximately 50 meters and is centered on what appears to be an ancient engraved stone, designated SCP-28997-1, located in a remote area of the Scottish Highlands.</p>
+<p>The anomaly occurs in irregular intervals, with each event lasting anywhere from a few hours to a maximum recorded span of three days. During these events, all food within the affected radius becomes devoid of any nutritive value, providing no sustenance to those who consume it. Additionally, consumers report a persistent taste of "damp soil" irrespective of the actual food ingested. The phenomenon has not been observed to spread or change location from SCP-28997-1.</p>
+<p>Archive records, mythological studies, and local folklore suggest SCP-28997-1 may be linked to ancient Celtic rituals intended to invoke protection over the land and its harvest. It is hypothesized that the rituals may have backfired, creating SCP-28997.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28997 is contained in situ due to its immobility and relative harmlessness when managed correctly. A perimeter has been established 100 meters from SCP-28997-1, with electronic surveillance monitoring for any trespassing. The area is secured under the guise of a habitat restoration project for endangered wildlife, effectively deterring public interest. </p>
+<p>Foundation personnel stationed at Outpost-28997 are responsible for the maintenance of surveillance equipment, enforcement of perimeter security, and the monitoring of SCP-28997 activity. In the event of a SCP-28997 manifestation, these agents are also responsible for intercepting and detaining any civilians who might inadvertently enter the area, administering Class-A amnestics as necessary.</p>
+<p>To prevent widespread knowledge of SCP-28997, all agricultural efforts within a 10-kilometer radius have been discouraged through economic incentives and zoning laws. Livestock farming has been similarly redirected to ensure that SCP-28997 poses no threat to local food supplies.</p>
+<p>In the unlikely event of an SCP-28997 breach, the procedures designated under Protocol "Caledonian Wean" are to be enacted—this involves a disinformation campaign and the strategic distribution of food supplies to mitigate any impact on regional or national food security.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p><strong>SCP-28997 was discovered in 19██ after a series of reports of a "hunger stone" reached local authorities. These reports coincided with a sudden increase in malnutrition cases within a small, isolated community nearby. Agents embedded within the UK Health Services were alerted and successfully traced the phenomenon to SCP-28997-1, allowing the Foundation to establish control over the affected area. Initial containment was achieved by relocating the local populace under the pretext of a hazardous material spill.</strong></p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>SCP-28997 Experiment Log 28997-01:</h4>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p><strong>Objective:</strong> To study the effects of SCP-28997 on various foodstuffs.</p>
+<p><strong>Procedure:</strong> Samples of fruits, vegetables, meats, and processed foods were placed within the radius of SCP-28997 during an active phase.</p>
+<p><strong>Results:</strong> All food samples lost their nutritive content while adopting the aforementioned taste of damp soil. Nutritional analysis post-event showed a complete breakdown of proteins, fats, carbohydrates, and vitamins to an undetectable level.</p>
+<p><strong>Analysis:</strong> The process appears irreversible and, despite retaining original appearance and texture, affected items are rendered completely non-nourishing.</p>
+<h4>SCP-28997 Experiment Log 28997-02:</h4>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p><strong>Objective:</strong> To determine if SCP-28997 has any effect on liquids, including water and various beverages.</p>
+<p><strong>Procedure:</strong> Liquid samples including water, milk, beer, and soda were exposed to SCP-28997.</p>
+<p><strong>Results:</strong> Similar to the food samples in Experiment Log 28997-01, all liquid samples were found to lose any nutritive content. Taste was likewise altered to the "damp soil" flavor regardless of previous content.</p>
+<p><strong>Analysis:</strong> SCP-28997's effect is not limited to solid food forms and extends to liquids consumed as nourishment.</p>
+<h4>SCP-28997 Experiment Log 28997-03:</h4>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p><strong>Objective:</strong> To understand if SCP-28997 affects living organisms directly.</p>
+<p><strong>Procedure:</strong> Various plants and insects were placed within SCP-28997's radius during an active phase.</p>
+<p><strong>Results:</strong> Living organisms were unaffected, continuing to grow and behave as expected within the active radius of SCP-28997.</p>
+<p><strong>Analysis:</strong> SCP-28997 does not seem to directly impair living organisms unless consumed as food. This may help explain how the anomaly went unnoticed for an extended period, considering the local ecosystem remains otherwise unaltered.</p>
+<h3>Addendum 3: Interview Log</h3>
+<p><strong>Interviewed:</strong> Dr. Alice Montrose, Lead Researcher on SCP-28997</p>
+<p><strong>Interviewer:</strong> Dr. Harinder Singh, Anomalous Agriculture Department</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. Singh:</strong> "Dr. Montrose, can you elaborate on the implication of the mythological aspects discovered in SCP-28997's history?"</p>
+<p><strong>Dr. Montrose:</strong> "Certainly. Our analysis of the inscriptions on SCP-28997-1, along with local Celtic mythologies, indicates a potential ritualistic origin. The symbolisms carved into the stone represent typical themes of protection and abundance for crops, which is paradoxical given the object's current effect."</p>
+<p><strong>Dr. Singh:</strong> "What's your theory on what went wrong, then?"</p>
+<p><strong>Dr. Montrose:</strong> "It's all conjecture, but it's possible that a protective ritual was either performed incorrectly or was tampered with, perhaps to bring about a curse rather than a blessing. This could explain why the stone now prevents sustenance rather than ensuring it."</p>
+<p><strong>Dr. Singh:</strong> "What are the steps forward?"</p>
+<p><strong>Dr. Montrose:</strong> "We continue monitoring. There's a lot to learn from SCP-28997 about ancient rituals and their effects on the modern world. Plus, understanding this SCP's mechanism could potentially lead to breakthroughs in how we understand food security and preservation."</p>
+<p><strong><End Log></strong></p>
+<p><strong>Closing Notes:</strong> Dr. Montrose has put forth a proposal to conduct further research on SCP-28997 in conjunction with experts in ancient Celtic rituals in hopes of finding a more permanent solution to neutralize SCP-28997's effects.</p>
+
+    </div>
+    
