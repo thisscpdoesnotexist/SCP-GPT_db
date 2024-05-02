@@ -1,0 +1,45 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29001 is  Just speak the words of power! </h3> </center>
+
+    <h3>Item #: SCP-29001 - "The Whispering Codex"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29001-GPT.png" alt="Illustration of SCP-29001" />
+        
+<h3>Description:</h3>
+<p>SCP-29001, known as "The Whispering Codex," is a large, seemingly ancient tome with no discernible authorship or place of origin. The book is bound in a material resembling human skin and measures approximately 46 cm in height, 30 cm in width, and 10 cm in thickness.</p>
+<p>SCP-29001 uniquely interacts with the vocal cords of any person within a 3-meter radius. Individuals report hearing indistinct whispers urging them to vocalize specific phrases in an unknown language. Upon speaking the phrases, a variety of anomalous events occur, which seem to be contextually related to the spoken phrase's supposed meaning.</p>
+<p>Attempts to translate the language have yielded inconsistent results, leading researchers to believe that SCP-29001 intentionally obscures its own linguistic patterns. The only consistent element observed is that phrases evoke effects that fall within four categories: elemental manipulation, temporal distortion, living organism alteration, or pure energy manifestation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29001 is to be housed in a soundproof containment chamber at Site-██. Only personnel with Level 4 clearance and above are allowed to engage directly with SCP-29001 and must do so under strict auditory isolation protocols to prevent accidental articulation of its phrases.</p>
+<p>Any experiments involving vocalizations from SCP-29001 must be pre-approved by two or more Level 4 researchers and be conducted inside a specialized containment unit equipped to handle a wide array of potential anomalous effects.</p>
+<p>Access to SCP-29001's chamber is to be monitored by two armed guards at all times, who are equipped with noise-canceling headphones. Any unauthorized personnel attempting to access the chamber are to be detained and submitted for psychological evaluation and amnestic treatment as deemed necessary.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<h4>A. Initial Discovery</h4>
+<p>SCP-29001 was recovered from an underground chamber beneath the ruins of what is believed to have been a temple in ██████, ██. Local reports of people disappearing and sudden unexplained phenomena led Foundation agents to the site. The artefact was found alongside multiple skeletons, presumed to be former worshippers or guardians of the codex.</p>
+<h4>B. Foundation Retrieval</h4>
+<p>The retrieval team reported auditory hallucinations similar to those described by later subjects, which subsided once the artefact was secured within a soundproof case. Due to the loss of Agent ████ during retrieval (see Incident Report 29001-██), initial containment protocols were immediately drafted to include stringent auditory protections.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 29001-E01</h4>
+<p><strong>Parameters:</strong> D-18344 was instructed to vocalize a specific phrase from SCP-29001.
+<strong>Result:</strong> Upon utterance, the temperature within the testing chamber dropped to -20°C instantaneously, freezing all moisture in the air and causing minor frostbite to personnel present. D-18344 entered a state of panic but was unharmed.</p>
+<h4>Experiment 29001-E05</h4>
+<p><strong>Parameters:</strong> D-45922, a trained vocalist, was instructed to articulate a different phrase under the supervision of Dr. ██████.
+<strong>Result:</strong> D-45922 experienced rapid aging, estimated at a rate of 20 years per second, resulting in biological death within 3 seconds of vocalization. No other temporal anomalies were reported.</p>
+<h4>Experiment 29001-E12</h4>
+<p><strong>Parameters:</strong> D-93711 was asked to read a sequence of phrases while inside an isolated containment unit designed to counteract a range of potential anomalous effects.
+<strong>Result:</strong> A localized electromagnetic pulse was emitted, disabling all electronic devices within a 5-meter radius, including the containment unit's preventive measures. The D-Class was unharmed, but reported hearing a sustained whisper for several hours post-experiment.</p>
+<h4>Experiment 29001-E19</h4>
+<p><strong>Parameters:</strong> A high-fidelity recording of a previously uttered anomalous phrase was played back within the containment chamber without a human subject present.
+<strong>Result:</strong> No anomalous effects were observed, suggesting that the artefact's powers are activated only by live human speech.</p>
+<h3>Addendum 3: Incident Report 29001-██</h3>
+<h4>A. Incident Overview</h4>
+<p>Agent ██████ disappearance during the initial retrieval of SCP-29001 necessitated a more detailed investigation into the codex's properties. The agent's voice recorder was later recovered, revealing that, moments before disappearing, Agent ██████ had recited a lengthy phrase from SCP-29001.</p>
+<h4>B. Follow-up Actions</h4>
+<p>Despite extensive search and rescue efforts, Agent ██████ remains missing. The phrase spoken has been classified, and any research pertaining to that section of SCP-29001 is currently suspended. Audio analysis of the event provided more insight into the possible functions and safe handling of SCP-29001.</p>
+<h3>Conclusion</h3>
+<p>SCP-29001 continues to pose a significant risk if not adequately contained and understood. Further research is ongoing to catalog and comprehend the full scope of phrases within "The Whispering Codex," as well as to ascertain possible ways of mitigating or reversing the effects of the spoken words of power. The disappearance of Agent ██████ serves as a solemn reminder of SCP-29001's potential dangers.</p>
+
+    </div>
+    
