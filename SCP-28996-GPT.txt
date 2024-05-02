@@ -1,0 +1,52 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28996 is  Time and Judgment have joined hands </h3> </center>
+
+    <h3>Item #: SCP-28996 - Time and Judgment Have Joined Hands</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28996-GPT.png" alt="Illustration of SCP-28996" />
+        
+<h3>Description:</h3>
+<p>SCP-28996 is a grandiose and meticulously decorated courtroom clock, circa the late 19th century, standing approximately 3 meters tall. The peculiar aspect of SCP-28996 is its unforeseen influence on the perception and justice-related decision-making of individuals within a radius of approximately ten meters. It has an ornate clock face, with each number engraved with an intricate set of scales symbolizing justice. The grandfathers clock chime is a melodious sequence that, when heard, seems to induce a heightened state of moral introspection in nearby individuals.</p>
+<p>Initial reports of SCP-28996 came from a small-town courthouse where a peculiar number of cases were being resolved with unexpected leniency or severity after the installation of the anomalous clock. Civilians and officials alike reported experiencing an overwhelming sense of guilt or vindication when the clock struck its chimes. Following its containment, testing has proven that prolonged exposure will result in drastic alterations to one’s ethical compass and their overall sense of fairness.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28996 is to be contained in a secure standard holding room at Site-██. Access to SCP-28996 is restricted to personnel with Level 2 clearance or higher and is to be monitored by two (2) security cameras at all times. The clockwork mechanism within SCP-28996 is to be maintained by a qualified horologist every six (6) months to ensure it remains functional, albeit its chimes are to be muted to prevent unnecessary exposure to its effects.</p>
+<p>Any testing with SCP-28996 must be approved by at least two (2) Level 3 researchers and is to be conducted in a controlled environment. Personnel involved in direct testing must undergo a psychological evaluation before and after exposure to SCP-28996. It is advised that exposure should not exceed thirty (30) minutes to prevent permanent alterations to the subject's moral cognition.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<h4>Subsection A: Discovery</h4>
+<p>SCP-28996 came to the Foundation's attention on ██/██/20██ after the sudden shift in courtroom behavior was reported in an anonymous tip to a Foundation operative embedded in local law enforcement. Upon covert observation, an investigative team recorded several incidents where the influence of SCP-28996 was evident, leading to immediate classification as an SCP and subsequent containment.</p>
+<h4>Subsection B: Initial Containment</h4>
+<p>SCP-28996 was retrieved under the guise of a routine replacement due to maintenance issues. No anomalous properties manifested during transport, and initial containment had no unforeseen complications.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 28996-A: Ethical Compass Alteration</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Subject:</strong> D-84329, previously convicted for burglary.</li>
+<li><strong>Procedure:</strong> Subject exposed to SCP-28996's chimes for ten (10) minutes and then presented with a moral dilemma involving theft.</li>
+<li><strong>Results:</strong> Post-exposure, D-84329 exhibited profound guilt when presented with the scenario, vehemently refusing to engage and condemning the action, despite prior history.</li>
+</ul>
+<h4>Experiment 28996-B: Moral Sensitivity Increase</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Subject:</strong> D-59204, with a history of sociopathic tendencies.</li>
+<li><strong>Procedure:</strong> Subject exposed to chimes for fifteen (15) minutes followed by an empathy assessment test.</li>
+<li><strong>Results:</strong> Increased sensitivity and remorse were observed. Subject temporarily showed concern for the well-being of others, a marked change from the baseline assessment.</li>
+</ul>
+<h4>Experiment 28996-C: Prolonged Exposure and Resultant Behavior Modification</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Subject:</strong> D-38811, with multiple violent offenses.</li>
+<li><strong>Procedure:</strong> Subject exposed to continuous chimes of SCP-28996 over a thirty (30) minute period. Afterwards, presented with a situation requiring a moral judgment involving harm to another individual.</li>
+<li><strong>Results:</strong> Subject initially resisted harmful action but became extremely torn, showing signs of deep inner conflict. Eventually, the subject became catatonic. Psychological evaluation post-experiment showed significant disruption in the subject's ethical beliefs.</li>
+</ul>
+<h3>Addendum 3: Incident Log</h3>
+<h4>Subsection A: Incident 28996-1</h4>
+<p>During routine maintenance, the clock's chimes were not properly muted, resulting in several technicians and security personnel experiencing a temporary shift in their moral judgments. Three technicians resigned following the incident, citing overwhelming feelings of guilt regarding past unethical behavior.</p>
+<h4>Subsection B: Therapeutic Applications Proposal</h4>
+<p>Dr. Elisabeth ████ has proposed using SCP-28996 in a controlled therapeutic context to help rehabilitate individuals with certain psychological conditions. The Ethics Committee is currently reviewing this proposal, with ongoing debates concerning the potential for human rights violations versus the benefits of unconventional treatment modalities.</p>
+<h4>Subsection C: Long-term Exposure Study</h4>
+<p>Following the incident and the potential therapeutic use proposal, an extended study is planned to observe the long-term effects of SCP-28996 exposure, with particular attention to whether the induced alterations in judgment become permanent or diminish over time without exposure. Volunteer staff with no history of criminal behavior and exemplary conduct records will be involved in this study under rigorous supervision.</p>
+
+    </div>
+    
