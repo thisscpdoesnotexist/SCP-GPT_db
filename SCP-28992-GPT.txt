@@ -1,0 +1,38 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28992 is  The Stranger and the Tree </h3> </center>
+
+    <h3>Item #: SCP-28992 - The Stranger and the Tree</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28992-GPT.png" alt="Illustration of SCP-28992" />
+        
+<h3>Description:</h3>
+<p>SCP-28992 refers to two interconnected anomalies, designated SCP-28992-A and SCP-28992-B.</p>
+<p><strong>SCP-28992-A</strong> is a humanoid entity of indeterminate origin, age, and gender, standing approximately two meters in height. SCP-28992-A exhibits an extraordinary ability to manipulate organic matter within a range of approximately 15 meters. Biological entities affected undergo rapid and often extreme alterations, which SCP-28992-A appears to control with a high degree of precision. These alterations include but are not limited to: accelerated cellular growth, creation of appendages, the fusion of organisms, and spontaneous generation of toxic substances. SCP-28992-A displays an aversion to human contact and sustains itself through photosynthesis, which it performs by spreading chlorophyll across its skin.</p>
+<p><strong>SCP-28992-B</strong> is an ancient and massive tree of an unclassified species, rooted at the coordinates ████████, ████████. SCP-28992-B is capable of a form of telepathic communication with SCP-28992-A and has shown a unique resilience to damage and disease. Surrounding flora have come to exhibit anomalous properties reminiscent of SCP-28992-A's manipulation abilities. SCP-28992-B also exudes an aura that influences the psychological state of individuals within an approximate 1-kilometer radius, often inducing calmness or placidity; however, within a 10-meter radius, the influence becomes severe distress or terror.</p>
+<p>SCP-28992-A and SCP-28992-B seem to exist in a symbiotic relationship, with SCP-28992-A performing a protective function for SCP-28992-B. Attempts to separate the two entities have resulted in aggressive defensive reactions from SCP-28992-A and an immediate deterioration of local environment and wildlife.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28992-A is to be contained within a specialized facility constructed at Site-███, designed to resemble a natural forest environment and positioned no less than 50 kilometers from SCP-28992-B, but with no direct line of sight to prevent telepathic communication. The enclosure is to be composed of high-strength polymer walls, capable of withstanding significant physical and biological corrosion. Contact with the entity is to be limited to D-class personnel under strict experimental protocols.</p>
+<p>SCP-28992-B is to remain at its original location, with a 5-kilometer exclusion zone established around it. The zone will be enclosed with multiple layers of reinforced fencing, and biometric alarm systems are to be deployed. Any unauthorized individuals attempting to enter the zone are to be detained, administered Class-B amnestics, and released outside the perimeter.</p>
+<p>A 24-hour surveillance detail is to be maintained around SCP-28992-B's exclusion zone, employing both standard surveillance equipment and biometric scanners capable of detecting physiological changes indicative of SCP-28992-A's break from containment.</p>
+<h3>Addendum 1:</h3>
+<h4>Experiment Log</h4>
+<ul>
+<li>
+<p><strong>Experiment A - Physical Contact with SCP-28992-A</strong>: D-class personnel instructed to touch SCP-28992-A. Upon contact, subject immediately underwent rapid fungal growth from their extremities, incapacitating them within minutes. Faster response teams with hazmat equipment are now standard for proximity testing.</p>
+</li>
+<li>
+<p><strong>Experiment B - Communication with SCP-28992-B</strong>: A linguist equipped with noise-cancelling headphones placed within 10 meters of SCP-28992-B. Subject reported hearing a voice pleading for reunion with SCP-28992-A. After 2 hours, the subject became catatonic. All communication attempts have since mandated the use of remotely operated drones.</p>
+</li>
+</ul>
+<h3>Addendum 2:</h3>
+<h4>Incident Report 28992-1</h4>
+<p>On ██/██/20██, SCP-28992-A breached containment after exhibiting previously unrecorded seismic manipulation abilities to trigger an earthquake, weakening the facility's structure. During the event, SCP-28992-B simultaneously increased its telepathic influence's range, suggesting a coordinated effort. SCP-28992-A was recaptured, and the containment procedures were subsequently updated to include seismic anomaly detection systems.</p>
+<h3>Addendum 3:</h3>
+<h4>Researcher's Note</h4>
+<p>After thorough observation and analysis, it has become clear that SCP-28992-A and SCP-28992-B do not merely communicate but may share a consciousness or collective awareness. Further research into the nature of their connection could provide insight into their origins and potentially how to contain them more effectively.</p>
+<p>Continued observation and increased security measures around both SCP-28992-A and SCP-28992-B are crucial as we seek to understand the extent of their abilities and the potential dangers they pose. It is imperative that we prevent any future coordinated containment breaches and mitigate their influence on the surrounding biomes.</p>
+
+    </div>
+    
