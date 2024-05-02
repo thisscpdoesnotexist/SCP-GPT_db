@@ -1,0 +1,38 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28995 is  Goodbye, Wyoming Ms. Spotted Toes </h3> </center>
+
+    <h3>Item #: SCP-28995 - "Goodbye, Wyoming Ms. Spotted Toes"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28995-GPT.png" alt="Illustration of SCP-28995" />
+        
+<h3>Description:</h3>
+<p>SCP-28995, colloquially referred to as "Goodbye, Wyoming Ms. Spotted Toes," is an anomalous entity resembling a Eurasian Lynx (Lynx lynx) with distinctive polka-dotted fur on its lower legs, giving the appearance of spotted toe socks. SCP-28995 exhibits behavior similar to that of a non-anomalous lynx, including a preference for solitary existence and the display of natural hunting patterns. However, SCP-28995 possesses reality-altering properties that manifest upon the expression of its name by any individual within audible range.</p>
+<p>When an individual vocalizes the phrase "Goodbye, Wyoming Ms. Spotted Toes," hereafter referred to as the "activation phrase," SCP-28995 enters a dormant state, and the consciousness of the individual(s) involved is transported to an alternate reality. This alternate reality, designated SCP-28995-1, is an exact replica of the state of Wyoming, devoid of human inhabitants. Affected individuals will live out an indeterminate length of time within SCP-28995-1, often experiencing years or even decades, while only a fraction of time passes in our reality. Upon return, the individual(s) retain full memory of their experiences in SCP-28995-1.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28995 is contained within a standard secure animal habitat enclosure at Site-77. The enclosure is fitted with environmental controls to simulate a comfortable habitat for a lynx, including temperature adjustments and foliage representative of its natural environment.</p>
+<p>No personnel are to vocalize the activation phrase within the facility. Written communication and digital records of the activation phrase must remain encrypted and accessible only to personnel with Level 3 clearance or higher. Any recordings of the phrase must be kept in a secured audio-proof storage. Personnel interacting with SCP-28995 are advised to refer to it using its SCP designation only.</p>
+<p>In the event of accidental activation, the individual(s) will be monitored and provided with post-exposure counseling upon their return to standard reality. The duration of SCP-28995's dormant state typically correlates with the period the individuals perceive themselves to be in SCP-28995-1, which, in our reality, lasts between 30 seconds to 2 minutes.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-28995 first came to the Foundation's attention after several missing person reports emerged from the town of Lander, Wyoming. The individuals were later found within city limits, disoriented and claiming to have spent extensive periods within an empty version of Wyoming. Amnestics were administered to the non-Foundation individuals involved, and an investigation led to the capture of SCP-28995 in the Wind River Range.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment Log 28995-A</h4>
+<p><strong>Subject:</strong> D-4389</p>
+<p><strong>Procedure:</strong> D-4389 was instructed to vocalize the activation phrase while in the presence of SCP-28995.</p>
+<p><strong>Result:</strong> D-4389 collapsed and entered a catatonic state for approximately 1 minute and 47 seconds. Upon awakening, D-4389 claimed to have lived in SCP-28995-1 for what felt like 23 years, establishing a homestead and developing a deep understanding of the land.</p>
+<p><strong>Notes:</strong> D-4389's testimony has provided an invaluable insight into SCP-28995-1's ecology and geography. Psychological evaluation shows no adverse effects, aside from a lingering nostalgia for SCP-28995-1.</p>
+<h4>Experiment Log 28995-B</h4>
+<p><strong>Subject:</strong> D-8120</p>
+<p><strong>Procedure:</strong> D-8120, who had a background in cartography, was instructed to explore and map as much of SCP-28995-1 as possible.</p>
+<p><strong>Result:</strong> After a dormant period of 1 minute and 12 seconds, D-8120 awoke with tears, having amassed 15 years' worth of exploration data on SCP-28995-1. A detailed map was created from the subject's memories, confirming the exactitude of SCP-28995-1 to the known geography of Wyoming.</p>
+<p><strong>Notes:</strong> The map crafted from D-8120's memory has proven to be accurate to within current satellite imaging of Wyoming. However, subtle discrepancies in minor landmarks suggest SCP-28995-1 may not be a perfect copy or is subject to alterations.</p>
+<h3>Addendum 3: Incident 28995-C</h3>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p><strong>Details:</strong> Researcher Dr. Allison ███ unintentionally vocalized the activation phrase outside the audio-proof containment chamber. Security personnel found her in a state of shock, claiming to have spent a "lifetime" within Wyoming, where she re-encountered her deceased spouse and children, living out a peaceful existence.</p>
+<p><strong>Aftermath:</strong> Dr. Allison ███ was treated for severe psychological distress and subsequently took her own life ██ days post-exposure despite the intensive counseling provided. Her notes on SCP-28995 were recovered and have offered great insight, but at a tragic cost.</p>
+<p>A moratorium on the use of D-class or other personnel for exposure to SCP-28995-1 has been instated by the O5 Council pending further psychological assessments of the risks involved. </p>
+<p>The question of whether SCP-28995-1 retains a continuity of existence independent of interaction with SCP-28995, and the ethical implications of such a possibility, remain ongoing topics of discussion among Foundation researchers and ethicists.</p>
+
+    </div>
+    
