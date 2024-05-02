@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28989 is  A Quest for Invention </h3> </center>
+
+    <h3>Item #: SCP-28989 - "A Quest for Invention"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28989-GPT.png" alt="Illustration of SCP-28989" />
+        
+<h3>Description:</h3>
+<p>SCP-28989 is an antique wooden writing desk of unknown origin, dating back to the late 19th century. The desk is unique in its ability to motivate and enhance the inventiveness and problem-solving abilities of individuals who use it for its intended purpose. SCP-28989 measures approximately 1.5m in length, 0.75m in width, and 1.1m in height.</p>
+<p>When a subject sits at SCP-28989 and begins to draft plans for an invention or to solve a complex problem, the desk seems to induce a state of hyper-focus in the user, regardless of their prior knowledge or expertise in the relevant field. This state allows for the generation of highly complex and innovative ideas, often surpassing the individual's normal capacity for invention by a considerable margin.</p>
+<p>Materials left on the desk when not in use (papers with written content, utensils, etc.) exhibit a slow, anomalous self-organizing behavior, creating an orderly arrangement that subtly changes daily. No adverse effects have been observed from this property, and it seems purely aesthetic in nature.</p>
+<p>Interestingly, SCP-28989 does not enhance artistic creativity, literary composition, or any endeavors unrelated to invention and problem-solving. Attempts to use the desk for such work result in no anomalous effects.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28989 is currently contained at Site-19 in a standard secure object storage room. Access to SCP-28989 is restricted to personnel with Level 2 security clearance or higher, and it is only to be used for sanctioned research purposes.</p>
+<p>Testing with SCP-28989 must be approved by at least two Level 3 researchers, with a clear research goal stated before use. SCP-28989 is to be monitored via CCTV during testing, and a guard is to be stationed outside the room to ensure no unauthorized access occurs.</p>
+<p>All inventions created using SCP-28989 must be cataloged and subject to review by the Site Director and the Ethics Committee to ensure no intellectual property violations or unintended security breaches occur. Any non-research personnel experiencing effects from SCP-28989 must be evaluated for potential amnestic treatment.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-28989 was discovered in the attic of an abandoned estate in ███████, England, after multiple reports of unusual patents filed by an unknown individual in the nearby village. Upon researching the patents, embedded Foundation personnel in the European Patent Office noted the complexity and sophistication of the designs, triggering a low-level investigation that led to the item's recovery.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 28989-E1</h4>
+<p><strong>Subject:</strong> D-91283, with no prior engineering background.
+<strong>Procedure:</strong> D-91283 was instructed to design a device that could clean large bodies of water efficiently.
+<strong>Result:</strong> D-91283 produced a complete blueprint for a solar-powered filtration system that requires minimal maintenance. The design was deemed feasible and highly innovative by the supervising researchers.</p>
+<h4>Experiment 28989-E2</h4>
+<p><strong>Subject:</strong> Dr. Ameera Yassin, with a background in mechanical engineering.
+<strong>Procedure:</strong> Dr. Yassin was asked to develop a new propulsion system for unmanned underwater vehicles.
+<strong>Result:</strong> Dr. Yassin designed a biomimetic propulsion system based on cephalopod jet propulsion within 3 hours. The design process would typically take several weeks to months for such a novel concept.</p>
+<h4>Experiment 28989-E3</h4>
+<p><strong>Subject:</strong> D-74892, who demonstrated an interest in puzzles but had no formal education in mathematics.
+<strong>Procedure:</strong> D-74892 was given the task of creating a new, unsolved problem in the field of graph theory.
+<strong>Result:</strong> D-74892 proposed a problem that intrigued the on-site mathematicians, and it remains an open problem currently under study by multiple institutions.</p>
+<h4>Experiment 28989-E4</h4>
+<p><strong>Subject:</strong> Dr. Emilio Garza, a sculptor by training.
+<strong>Procedure:</strong> Dr. Garza was asked to draft a concept for an aesthetically pleasing but functional building.
+<strong>Result:</strong> Despite SCP-28989's influence, Dr. Garza could not produce a feasible design. He reported a lack of inspiration, consistent with the desk's specific influence on invention and not extending to artistic pursuits.</p>
+<h3>Addendum 3: Misc Notes</h3>
+<ul>
+<li>Previous owners of SCP-28989 appear to have greatly benefited from its properties, with links to several breakthrough inventions from the early 20th century.</li>
+<li>The self-organizing effect on materials left on the desk creates patterns reminiscent of electrical circuit diagrams. It is unclear whether this is a form of residual influence from the desk's use or an inherent property.</li>
+<li>After extended use, subjects report a brief period of mental fatigue, suggesting a possible toll on the user’s cognitive resources. Long-term effects are currently under study.</li>
+</ul>
+
+    </div>
+    
