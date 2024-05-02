@@ -1,0 +1,49 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28998 is  Toh: Start the Ship </h3> </center>
+
+    <h3>Item #: SCP-28998 - "Toh: Start the Ship"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28998-GPT.png" alt="Illustration of SCP-28998" />
+        
+<h3>Description:</h3>
+<p>SCP-28998 is a metallic, unmanned spacecraft of unknown origin, approximately 10 meters in length with a bulbous body and appendages resembling solar panels. The craft emits a faint, blue glow from its underside and has symbols engraved on its hull which do not correlate with any known languages or cipher systems. Despite its extraterrestrial appearance, SCP-28998's materials have been identified as terrestrial in origin, yet its technology far surpasses current human capabilities.</p>
+<p>SCP-28998 is in a state of perpetual readiness for launch but remains inactive. It has shown the ability to levitate exactly 1 meter above ground level without any visible means of propulsion or support. Initial investigation revealed an unnoticed auditory component: the craft generates a low-frequency hum, imperceptible to human ears but has been observed to have calming effects on a variety of animal species.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28998 is contained at Site-██ in Hangar-03, a modified aircraft hangar equipped with soundproofing materials to prevent the escape of its low-frequency emissions. As SCP-28998 poses no immediate threat during its inert state, security measures focus primarily on preventing unauthorized access and ensuring the object remains functional for study.</p>
+<p>Hangar-03 is to be staffed with personnel who have undergone rigorous psychological screening to ensure they are not unfavorably affected by the hum emitted by SCP-28998. Standard maintenance of the hangar and monitoring of SCP-28998's status are to be conducted weekly. Any changes in SCP-28998's activity or output must be reported immediately to level 3 personnel.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<h4>Addendum 1-A: Discovery</h4>
+<p>SCP-28998 was first identified on ██/██/20██ when a group of amateur astronomers reported an unidentified falling object (UFO) in the remote region of ████, a sparsely populated area in the northern hemisphere. Foundation agents, embedded in various astronomical and ufo-enthusiast networks, intercepted the communication and a recovery team was dispatched.</p>
+<p>Upon arrival, SCP-28998 was found partially buried in the earth, appearing to have made a controlled descent rather than a crash. No explosion had occurred, and remarkably, the surrounding environment was undisturbed except for minor displacement of soil where SCP-28998 rested. The craft was excavated and transported to Site-██ without incident.</p>
+<h4>Addendum 1-B: Public Disinformation</h4>
+<p>To dispel any public interest and prevent further investigation by civilian parties, a disinformation campaign was executed. Official statements were released attributing the sightings to a failed satellite re-entry, combined with the seeding of fake social media posts supporting the cover story. The immediate area around the recovery site was treated with amnestics as a precaution.</p>
+<h3>Addendum 2: Experiment Logs</h3>
+<h4>Addendum 2-A: Initial Assessment</h4>
+<p>Experiment 1:
+- Date: ██/██/20██
+- Procedure: An unmanned drone was flown around SCP-28998 to assess potential defense mechanisms or responses.
+- Results: SCP-28998 remained inactive; however, the drone's camera malfunctioned temporarily when it approached within 0.5 meters, suggesting an electromagnetic field around the object.</p>
+<p>Experiment 2:
+- Date: ██/██/20██
+- Procedure: Various acoustic frequencies played to determine if SCP-28998 responds to external stimuli.
+- Results: SCP-28998 did not react visibly to any sounds, including those replicating its own frequency.</p>
+<h4>Addendum 2-B: Interaction Attempts</h4>
+<p>Experiment 3:
+- Date: ██/██/20██
+- Procedure: A D-Class personnel with background in linguistics was instructed to interact verbally with SCP-28998.
+- Results: No response from SCP-28998. The D-Class reported feeling an inexplicable sense of anticipation during interaction.</p>
+<p>Experiment 4:
+- Date: ██/██/20██
+- Procedure: A control panel extracted from SCP-28998's hull was presented to D-Class personnel with electrical engineering experience.
+- Results: D-Class was able to power up the control panel using SCP-28998's energy emissions. A series of symbols illuminated on the display, and SCP-28998 rose to a height of 2 meters before returning to its normal stationary levitation of 1 meter. Control panel has since been reattached under strict supervision.</p>
+<h3>Addendum 3: Additional Notes</h3>
+<h4>Addendum 3-A: Observations by Dr. H███</h4>
+<ul>
+<li>Date: ██/██/20██</li>
+<li>Notes: "SCP-28998's existence challenges our understanding of technology and potentially, our place in the universe. Initial tests indicate it's waiting for something or someone to activate it. The question remains: Who, or what, is 'Toh', and when will they 'start the ship'? We must proceed carefully; we have a remarkable opportunity but also a profound responsibility."</li>
+</ul>
+
+    </div>
+    
