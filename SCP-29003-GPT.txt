@@ -1,0 +1,38 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29003 is  The Night of the Big Gay Fishpig </h3> </center>
+
+    <h3>Item #: SCP-29003 - "The Night of the Big Gay Fishpig"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29003-GPT.png" alt="Illustration of SCP-29003" />
+        
+<h3>Description:</h3>
+<p>SCP-29003 is the designation for an anomalous phenomenon consisting of the spontaneous manifestation of an entity, hereafter referred to as SCP-29003-1. SCP-29003-1 is a chimera-like creature with the anatomy of a large Sus scrofa domesticus (domestic pig), overlaid with scales and fins typical of an Oncorhynchus mykiss (rainbow trout). Despite the seemingly random amalgamation of features, SCP-29003-1 exhibits a coherent, albeit bizarre, physiology that allows it to survive both on land and in water.</p>
+<p>SCP-29003-1 has shown sapience and communicates via a form of telepathy, primarily seeking companionship with certain male individuals whom it refers to as "suitors." SCP-29003-1 displays homosexual tendencies and has articulated clear preferences in partners, many of which align with stereotypical attributes commonly associated with the human LGBTQ+ community.</p>
+<p>Manifestations occur exclusively during the night of every leap year, February 29th, at exactly 23:57 local time, and persist until the following sunrise. Due to its infrequent manifestation and the increased likelihood of interaction with human populations during its active phase, SCP-29003 presents a considerable containment challenge.</p>
+<p>During manifestations, SCP-29003-1 has been observed to exude an aura that induces euphoria and a compulsion to engage in celebratory activities among affected individuals. These effects are temporary and wear off within 6-12 hours following exposure. The affected individuals report no recollection of events that transpired under SCP-29003-1's influence.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the transient nature of SCP-29003-1, permanent containment is currently impossible. Instead, the Foundation has established Protocol 29-Kappa, which involves predictive modeling of SCP-29003-1's likely manifestation locations based on previous encounters.</p>
+<p>On the night of February 29th, Mobile Task Forces are to be deployed to probable manifestation sites to enforce a perimeter, redirect unauthorized personnel, administer amnestics when necessary, and engage with SCP-29003-1 to satisfy its need for company until it dematerializes at sunrise. Personnel assigned to interact with SCP-29003-1 are to be D-class who meet the entity's selection criteria to minimize the risk of a containment breach.</p>
+<p>During SCP-29003-1's inactive phase, Research Team-29003 is tasked with studying past manifestation patterns and effects on affected populations to refine containment strategies and develop a better understanding of SCP-29003-1's origin and motives.</p>
+<h3>Addendum 1: Incident Log</h3>
+<h4>Incident 29003-2004:</h4>
+<p>During the 2004 manifestation, SCP-29003-1 appeared at a rural farmstead in Iowa, engaging in merrymaking with the residents. The entity's aura affected nearly two dozen individuals who later reported experiencing vivid dreams involving grand festivities with a "glittering pigfish" for several weeks thereafter.</p>
+<h4>Incident 29003-2008:</h4>
+<p>SCP-29003-1 manifested in a coastal town in Newfoundland, where it was found "dancing" by the waterfront. The resultant compulsion to celebrate, though contained, caused a minor public disturbance. Twelve individuals were administered Class-C amnestics following the incident.</p>
+<h3>Addendum 2: Experiment Log – Interaction and Communication</h3>
+<h4>Experiment 29003-E-2012:</h4>
+<p>During the 2012 manifestation, Dr. ████ attempted to engage SCP-29003-1 in conversation using a D-class personnel as an intermediary. SCP-29003-1 expressed contentment at being the center of attention and revealed that its appearances are intended as a form of social outreach. The entity cryptically referenced its "many oceans and many worlds," which Research Team-29003 hypothesized could denote extraterrestrial or extradimensional origins.</p>
+<h4>Experiment 29003-E-2016:</h4>
+<p>A D-class subject equipped with recording devices and augmented reality tools for real-time communication was assigned to fraternize with SCP-29003-1. The entity became agitated upon noticing the devices, causing a temporary breach in containment protocol until the equipment was removed. SCP-29003-1 claimed it felt "vulnerable and viewed," insisting that its nights of manifestation should be "free of prying eyes."</p>
+<h3>Addendum 3: Research Developments</h3>
+<h4>Analysis of Phenomenological Aura:</h4>
+<p>Research Team-29003 has identified a unique energy signature associated with SCP-29003-1's aura. The components of this energy have made it possible to develop an early-warning system for predicting SCP-29003-1's manifestation locations with greater accuracy.</p>
+<h4>Potential Multiverse Connection:</h4>
+<p>Footage from a tourist's phone inadvertently captured the moment SCP-29003-1 dematerialized at sunrise during the 2016 manifestation. The footage revealed what appeared to be a brief glimpse into another reality, lending credibility to the multiverse theory proposed by Research Team-29003.</p>
+<h4>The "Suitors" Profiles:</h4>
+<p>Foundation psychologists have compiled profiles of individuals who appear to attract SCP-29003-1's attention. Common traits include above-average extraversion, flamboyancy in fashion or behavior, and a past engagement in significant festive or carnal activities. This information has proven critical for selecting appropriate D-class personnel for interaction.</p>
+
+    </div>
+    
