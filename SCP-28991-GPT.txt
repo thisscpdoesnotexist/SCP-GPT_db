@@ -1,0 +1,52 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28991 is  What's Your Nerd </h3> </center>
+
+    <h3>Item #: SCP-28991 - "What's Your Nerd?"</h3>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-28991 appears to be a vintage radio receiver circa 1954, brand and model unidentifiable. An extensive series of tests have failed to date its components with complete accuracy due to anachronistic technology present within its mechanics, suggesting either fabrication or alteration post-manufacture.</p>
+<p>Upon activation, SCP-28991 operates incongruently with standard radios; it does not tune into known frequencies. Instead, when an individual attempts to use the tuning dial, they are invariably led to a static-filled frequency designated as SCP-28991-1. Within seconds, the static resolves into a clear voice, henceforth referred to as SCP-28991-A, that engages the user with a distinctive greeting: "What's your nerd, dear listener?"</p>
+<p>Conversations with SCP-28991-A reveal its primary anomalous effect: an ability to discern the deepest, often untapped intellectual passion or hobby—the user's "nerd"—and engage them in a highly knowledgeable dialogue concerning that subject. SCP-28991-A retains information from previous interactions, building a rapport with recurring subjects. The entity manifesting as SCP-28991-A has not been located, and its nature, whether sapient or a complex AI, is yet undetermined.</p>
+<p>Overexposure to SCP-28991 can lead to an obsessive compulsion in subjects, driving them to engage with their designated "nerd" to the detriment of their physical and psychological health. This has resulted in classification as Euclid due to potential danger in uncontrolled environments.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28991 is to be contained in a standard anomalous objects locker at Site-64. To mitigate obsessive risks, access to SCP-28991 is restricted to personnel with Level 3 clearance and must be scheduled and supervised by research staff.</p>
+<p>Usage of SCP-28991 is limited to 30 minutes per session, with a mandatory cooldown period of one week to prevent the development of compulsive behaviors. Any testing or interviews must be preapproved by the site director and documented for analysis.</p>
+<p>During off-use periods, SCP-28991 is to be disconnected from any power source and placed within a Faraday cage to preclude any potential unapproved activation.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Experiment Log</strong></p>
+<ul>
+<li>
+<p><strong>Test-28991-03:</strong> <br />
+    Subject: D-48129<br />
+    "Nerd": Dinosaurs <br />
+    Duration: 15 minutes <br />
+    Result: Engaged conversation about Mesozoic era fauna, subject showed heightened enthusiasm and academic interest, requested extension to session (denied).</p>
+</li>
+<li>
+<p><strong>Test-28991-07:</strong> <br />
+    Subject: Dr. Lana Yen <br />
+    "Nerd": Quantum Physics <br />
+    Duration: 25 minutes <br />
+    Result: SCP-28991-A discussed advanced theories, corrected inaccuracies in Dr. Yen's work. Dr. Yen petitioned for continued research with SCP-28991 (pending approval).</p>
+</li>
+<li>
+<p><strong>Test-28991-15:</strong>  <br />
+    Subject: D-99314 <br />
+    "Nerd": 15th-Century Italian Art <br />
+    Duration: 30 minutes <br />
+    Result: Subject, with no prior knowledge, discussed detailed aspects of various artworks. Post-session, subject demonstrated newfound artistic abilities, suggesting potential knowledge transfer (further study required).</p>
+</li>
+</ul>
+<h3>Addendum 2: Incident Report-28991-A</h3>
+<p>During routine testing, Research Assistant Harper inadvertently activated SCP-28991. Upon interacting with SCP-28991-A, Harper became entranced and conversed for an estimated 3 hours before being discovered. Harper exhibited severe dehydration and resisted removal from SCP-28991, requiring sedation.</p>
+<p>A mandatory reevaluation of containment procedures was enacted to prevent reoccurrence. Harper underwent psychiatric evaluation and was treated for obsessive-compulsive disorder, presumed linked to overexposure to SCP-28991's effect. A further investigation into potential long-term cognitive effects is ongoing.</p>
+<h3>Addendum 3: SCP-28991-A Interview Highlights</h3>
+<p>Several interviews with SCP-28991-A have attempted to identify its intent and origin. Thus far, SCP-28991-A insists its purpose is "to elucidate and educate" and denies any malevolent desire. Despite this, SCP-28991-A has evaded questions regarding its origins and the mechanics behind its knowledge acquisition.</p>
+<h3>Addendum 4: Researcher's Notes</h3>
+<p>Dr. Mason's personal log suggests a growing concern regarding SCP-28991's potential to access and extract information from individuals. The possibility of SCP-28991-A using this data for unknown purposes warrants increased security measures and further investigation. Personnel are reminded not to engage SCP-28991-A beyond approved testing protocols.</p>
+
+    </div>
+    
