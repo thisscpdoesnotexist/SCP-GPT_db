@@ -1,0 +1,58 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28993 is  Single-celled Electrics </h3> </center>
+
+    <hr />
+<h3>Item #: SCP-28993 - "Single-celled Electrics"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28993-GPT.png" alt="Illustration of SCP-28993" />
+        
+<hr />
+<h3>Description:</h3>
+<p>SCP-28993, colloquially referred to as "Single-celled Electrics," refers to a previously unknown genus of anomalous unicellular organisms, exhibiting the ability to collectively generate and manipulate electrical currents with apparent sentience and purpose.</p>
+<p>Individual cells of SCP-28993 are microscopic and predominantly spherical, with a diameter ranging from 15-25 micrometers. A typical cell contains organelles resembling those of standard eukaryotic cells, alongside unique structures analogous to biological capacitors and inductors, which facilitate the storage and direction of electrical charge in ways that defy current scientific understanding.</p>
+<p>When a colony of SCP-28993 is under stress or is threatened, the organisms synchronize their internal bio-electrical discharges to produce a focused, high-voltage electric current capable of disabling electronic devices, incapacitating living organisms, or even altering local weather patterns by ostensibly generating rudimentary ionic wind.</p>
+<p>SCP-28993 displays exceptional adaptability and intelligence, as colonies have been observed to form complex patterns reminiscent of integrated circuits, seemingly to optimize their collective electrical output or to perform unclear computational functions. The rate of growth and replication of SCP-28993 is exponential given adequate resources and has proven to be resistant to most known antibiotics and antifungal agents.</p>
+<hr />
+<h3>Special Containment Procedures:</h3>
+<p>Due to the volatile and infectious nature of SCP-28993, stringent containment protocols have been established. Samples of SCP-28993 are to be kept in a Bio-Safety Level 4 (BSL-4) Laboratory at Site-██, within a Faraday-cage containment unit to prevent any external electrical interference or emissions.</p>
+<p>Any personnel entering the containment unit must wear insulated HAZMAT suits equipped with its own power supply, as SCP-28993 has shown the capability to drain electrical power from its surroundings. Upon exit, all personnel and equipment must undergo rigorous decontamination procedures to prevent the accidental spread of SCP-28993.</p>
+<p>In the event of containment breach, emergency power cutoffs must be engaged, and Site-██'s backup generators are to be activated. Mobile Task Force Eta-10 ("Surge Suppressors") is to be dispatched to handle recontainment.</p>
+<p>Remote research stations monitoring SCP-28993 outbreaks in the wild must report all findings immediately, and any affected areas are to be quarantined and subject to controlled burns or EMP usage, pending approval from the Site Director and O5 council.</p>
+<hr />
+<h3>Addendum 1: Discovery and Initial Containment</h3>
+<h4>A - Discovery Event</h4>
+<p>SCP-28993 was first identified in 20██, when a small town in ██████ experienced widespread electrical failures followed by an anomalous lightning storm, despite clear weather conditions. Foundation field agents embedded in the local power company responded to the reports and uncovered the presence of an unknown biological agent within electrical systems.</p>
+<h4>B - Initial Containment</h4>
+<p>The town was evacuated under the guise of a hazardous chemical spill. A containment unit established by MTF-Eta-10 secured samples of the organism, which were transported to Site-██. Early containment efforts resulted in several casualties, as the organism demonstrated the capability to generate electrical discharges exceeding 50,000 volts.</p>
+<hr />
+<h3>Addendum 2: Research Logs</h3>
+<h4>Experiment Log 28993-A</h4>
+<ul>
+<li><strong>Objective</strong>: Determine the threshold at which SCP-28993 generates a defensive electrical discharge.</li>
+<li><strong>Procedure</strong>: A sample of SCP-28993 was introduced to increasing levels of direct heat while monitored for electrical activity.</li>
+<li><strong>Result</strong>: At approximately 40 degrees Celsius, SCP-28993 cells synchronize, culminating in a discharge measuring 4.1kV. The discharge effectively halted the experiment, damaging sensitive equipment.</li>
+</ul>
+<h4>Experiment Log 28993-B</h4>
+<ul>
+<li><strong>Objective</strong>: Assess the ability of SCP-28993 to conduct problem-solving.</li>
+<li><strong>Procedure</strong>: A maze of conductive and non-conductive materials was constructed, with a nutrient source placed at one end and a small SCP-28993 colony at the opposite end.</li>
+<li><strong>Result</strong>: SCP-28993 colonies created pathways through the conductive sections of the maze and rerouted around non-conductive barriers, demonstrating a level of problem-solving and environmental manipulation.</li>
+<li><strong>Note</strong>: This experiment led to the hypothesis that SCP-28993 possesses a form of intelligence or collective consciousness.</li>
+</ul>
+<h4>Experiment Log 28993-C</h4>
+<ul>
+<li><strong>Objective</strong>: Test containment effectiveness against SCP-28993 growth and adaptability.</li>
+<li><strong>Procedure</strong>: Samples of SCP-28993 were held in various containment materials, including lead-lined and electrically insulated environments.</li>
+<li><strong>Result</strong>: SCP-28993 demonstrated the ability to breach containment by subtly altering its biological structure to penetrate microscopic imperfections in the materials. Full integrity was only maintained in the Faraday-cage environment, confirming its continued usage in containment procedures.</li>
+</ul>
+<hr />
+<h3>Addendum 3: Incident 28993-A</h3>
+<p>On ██/██/20██, SCP-28993 breached containment after a site-wide power surge weakened the Faraday cage's integrity. The organism infected Site-██'s main electrical grid, leading to a catastrophic cascade of equipment failures and subsequent breaches of additional SCP objects.</p>
+<p>MTF-Eta-10 successfully restored containment by deploying an EMP device to neutralize SCP-28993's collective activity, but not before significant structural damage occurred. This incident prompted a thorough review and upgrade of containment protocols, including redundant fail-safes and portable EMP capabilities supplied to containment teams.</p>
+<p>Subsequent to Incident 28993-A, the Object Class of SCP-28993 was reevaluated and promptly upgraded from Euclid to Keter. Further research into SCP-28993's behavior, reproductive mechanisms, and possible communication methods remains a top priority to prevent future catastrophic containment failures.</p>
+<hr />
+
+    </div>
+    
