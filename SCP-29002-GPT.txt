@@ -1,0 +1,38 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29002 is  The Sailing </h3> </center>
+
+    <h3>Item #: SCP-29002 - The Lonely Sailor</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29002-GPT.png" alt="Illustration of SCP-29002" />
+        
+<h3>Description:</h3>
+<p>SCP-29002 is an antique, fully functional, scale model of an 18th-century sailing ship known as "The Lonely Sailor." The ship is constructed from aged oak and patinated brass with finely detailed rigging. The model is 1.2 meters in length and stands at a height of 0.9 meters from the base to the top of the mainmast. All materials present in the structure and the design of SCP-29002 are confirmed to be historically accurate to the era it represents.</p>
+<p>Upon visual or tactile contact with SCP-29002, individuals report experiencing a vivid hallucination consistent with being the captain of a full-sized version of the model ship, sailing alone on a vast, endless ocean. Subjects report sensations of wind, spray from waves, movement of the ship, and other sensory experiences that corroborate this hallucination. However, they remain physically present and can be awakened from this state with nautical orders being shouted or a loud noise resembling a ship's bell.</p>
+<p>These hallucinations have been described as extremely lucid and detailed, lasting from several minutes to several hours. Test subjects also demonstrate an immediate and intricate knowledge of 18th-century naval operations and terminology, despite any prior inexperience or knowledge. No lasting psychological damage has been recorded following these experiences.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29002 is currently contained in a security locker within Site-██'s Safe Euclid Object Storage Wing. Access to SCP-29002 is restricted to personnel with Level 2/29002 clearance and must be accompanied by at least one member of the Site-██'s psychiatric staff. Testing is only to be conducted with prior approval from two or more Level 4 personnel.</p>
+<p>As SCP-29002's effects are non-invasive and limited to direct contact, no additional containment measures are required. The display case housing SCP-29002 is to be kept locked at all times, and the locker is monitored by security cameras. In the event of a containment breach, individuals found in contact with SCP-29002 are to be removed from its presence and debriefed.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-29002 was discovered at an estate sale in Portsmouth, UK, where attendees reported feeling an overwhelming sense of loneliness and sadness emanating from the model ship. The Foundation was alerted and agents embedded in the local police initiated containment protocols. Upon containment, all attendees were administered Class-A amnestics.</p>
+<h3>Addendum 2: Test Log Excerpt</h3>
+<ul>
+<li><strong>Experiment #: 29002-E-5</strong></li>
+<li><strong>Subject(s):</strong> D-2910</li>
+<li><strong>Procedure:</strong> D-2910 was instructed to touch SCP-29002 and describe their experiences.</li>
+<li><strong>Results:</strong> Subject reported being on a ship sailing under a starless night sky. They felt a profound sense of isolation and nostalgia for an unknown home. After 3 minutes, the subject was awakened and exhibited no memory of their life beyond the ship.</li>
+<li>
+<p><strong>Notes:</strong> The consistent emotional response is of interest. Further testing on the subject's emotions pre and post interaction may reveal more about SCP-29002's influence.</p>
+</li>
+<li>
+<p><strong>Experiment #: 29002-E-9</strong></p>
+</li>
+<li><strong>Subject(s):</strong> D-2954, who is an experienced sailor</li>
+<li><strong>Procedure:</strong> D-2954 was asked to engage with SCP-29002 and execute a series of complex sailing maneuvers using the knowledge gained from the encounter.</li>
+<li><strong>Results:</strong> D-2954 effectively issued orders and adjusted the ship's rigging while in the hallucinative state. After termination of contact, D-2954 retained his knowledge of varying winds and weather patterns they would "never even have thought of before."</li>
+<li><strong>Notes:</strong> SCP-29002 might grant temporary cognitive enhancement regarding sailing navigation and strategy. Further investigation is warranted.</li>
+</ul>
+
+    </div>
+    
