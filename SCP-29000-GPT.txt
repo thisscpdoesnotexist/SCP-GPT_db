@@ -1,0 +1,45 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29000 is  Two Takeaways Not Worth Drowning </h3> </center>
+
+    <h3>Item #: SCP-29000 - Two Takeaways Not Worth Drowning</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29000-GPT.png" alt="Illustration of SCP-29000" />
+        
+<h3>Description:</h3>
+<p>SCP-29000 is a pair of seemingly mundane, ceramic takeaway containers that were initially discovered in a sinkhole near ████████, Louisiana. Examination and testing of these containers have revealed anomalous properties that are both mesmerizing and alarming in their possible implications, though thankfully contained and non-replicating.</p>
+<p>The exterior of SCP-29000 is white, with a blue stylized dragon depicted on each side. They each come with a tightly fitting ceramic lid, and despite being apparently identical to non-anomalous takeaway containers, SCP-29000 has proven indestructible by any means currently known to the Foundation.</p>
+<p>Whenever any biotic material (food, flora, or fauna) is placed within either container, it will vanish completely upon sealing the lid. It is unknown where the material is transported or what the mechanism of this disappearance is; no known forms of tracing have been successful in determining a destination point.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29000 is to be stored in a standard containment locker at Site-17. Direct interaction with SCP-29000 requires Level 2 clearance and is only to be opened for testing purposes. No unauthorized materials are to be placed within SCP-29000 to prevent unnecessary loss of resources or potential unforeseen reactions to untested substances.</p>
+<p>Following Incident 29000-A, personnel are reminded that no living organisms are to be placed within SCP-29000 under any circumstances, and all testing must be pre-authorized by at least two Level 3 personnel.</p>
+<h3>Addendum 1: Discovery and Retrieval</h3>
+<h4>Addendum 1a: Initial Report</h4>
+<p>SCP-29000 was retrieved following a series of unexplained disappearances in ████████. Foundation operatives embedded within local law enforcement agencies were alerted when a sinkhole opened in a residential area, exposing a hidden underground cavern. No missing persons were located; instead, SCP-29000 was found on a stone pedestal in the center of the chamber.</p>
+<h4>Addendum 1b: Recovery Log</h4>
+<p>The recovery team reported no hostile or anomalous activity within the cavern aside from the presence of SCP-29000. Class B amnestics were administered to non-Foundation witnesses of the event, and the sinkhole was attributed to natural geological processes. SCP-29000 was secured without incident.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 29000-E1:</strong>
+- Subject: One (1) apple (Malus domestica)
+- Procedure: The apple was placed inside SCP-29000-1. The lid was secured and the container was re-opened after 60 seconds.
+- Results: The apple had completely vanished with no trace of its existence within the container.</p>
+<p><strong>Experiment 29000-E2:</strong>
+- Subject: One (1) standard-issue Foundation pen
+- Procedure: The pen was placed in SCP-29000-2. The lid was secured and re-opened after 60 seconds.
+- Results: The pen remained within SCP-29000-2, confirming that inorganic material is unaffected.</p>
+<p><strong>Experiment 29000-E5:</strong>
+- Subject: One (1) white lab mouse (Mus musculus)
+- Procedure: The mouse was placed within SCP-29000-1 for controlled testing of SCP-29000's effect on living organisms.
+- Results: The mouse vanished in the same manner as the apple. This sparked a moral and ethical debate within the Foundation on the ethics of using SCP-29000 for such tests.</p>
+<h3>Addendum 3: Incident 29000-A</h3>
+<h4>Addendum 3a: Incident Report</h4>
+<p>On [REDACTED], Junior Researcher ████████ opened SCP-29000-1 out of curiosity with unauthorized food items. The researcher was alone in the containment room and accidentally tripped, partially falling into SCP-29000-1. The researcher managed to pull himself out; however, his hand up to his wrist had vanished completely.</p>
+<h4>Addendum 3b: Medical Log</h4>
+<p>Immediate medical attention was provided to Junior Researcher ████████. The wound appeared as if it had been surgically amputated with no sign of bleeding—a cauterized stump remained. The researcher was administered Class C amnestics and discharged from the Foundation for the breach of protocol.</p>
+<p>Following Incident 29000-A, containment procedures were updated with further restrictions on the use of SCP-29000 to avoid further loss of personnel or limbs.</p>
+<h3>Addendum 4: Researcher Notes</h3>
+<p>Research into SCP-29000 continues, focused on understanding the mechanics behind the disappearance of biological material and attempting to trace where it may be transported. Concerns have been raised regarding the possible existence of SCP-29000-3 or additional containers, though to date none have been found. Resources have been allocated to further archaeological surveys around the initial sinkhole discovery site for potential clues to SCP-29000's origins or creators.</p>
+
+    </div>
+    
