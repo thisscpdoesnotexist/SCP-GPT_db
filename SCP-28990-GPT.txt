@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28990 is  Create a Hack </h3> </center>
+
+    <h3>Item #: SCP-28990 - "Eternal Sonata"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28990-GPT.png" alt="Illustration of SCP-28990" />
+        
+<h3>Description:</h3>
+<p>SCP-28990 is an ornate grand piano of an unidentified make, with intricately carved mahogany wood and ivory keys that show no signs of aging or wear. The instrument's design suggests it originates from the 19th century. Despite its appearance of conventional craftsmanship, it possesses anomalous properties that manifest when the piano is played.</p>
+<p>When SCP-28990 is played, listeners within auditory range reportedly experience a profound sense of tranquility and temporal dislocation. Individuals exposed to SCP-28990's music claim they perceive time as slowing down considerably or becoming inconsequential. Most subjects report visual and auditory hallucinations that align closely with the tone and composition of the music being played.</p>
+<p>Further investigation revealed that music emerging from SCP-28990 can induce a range of timescale alterations. The phenomenon persists for the duration of the performance and immediately ceases when the music stops. No lingering effects have been documented. </p>
+<p>Aside from its temporal effects, there are no other known anomalies associated with SCP-28990. Analysis of the materials composing the piano has returned inconclusive results, indicating a blend of both known and undetermined elements.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28990 is currently housed in Storage Room 4B at Site-22. The room is soundproofed, with additional layers of lamination to ensure no sound leakage occurs. Entry to the containment chamber is strictly limited to personnel with Level 2 clearance or higher, and only for approved research or maintenance purposes.</p>
+<p>No one is to play SCP-28990 without prior authorization from at least two Level 3 researchers. Maintenance of the piano must be carried out by personnel with experience in antique instruments. During such maintenance, ear protection must be worn to prevent accidental exposure to SCP-28990's effects.</p>
+<p>In the event of unscheduled auditory exposure, affected personnel are to be quarantined and undergo psychological evaluation for a minimum of 72 hours. Maintenance of the storage room should be conducted every six months to ensure the continued efficacy of the soundproofing materials.</p>
+<h3>Addendum 1: Acquisition Log</h3>
+<h4>A-1: Discovery</h4>
+<p>SCP-28990 was acquired on ██/██/20██ after agents followed a trail of civilian reports describing a "timeless music" emanating from an abandoned estate in ██████, France. MTF Lambda-5 "White Notes" secured and extracted the object without incident. Amnestics were administered to the local population to maintain the Veil Protocol.</p>
+<h4>A-2: Provenance</h4>
+<p>Investigation into the history of SCP-28990 has brought forth evidence linking it to a 19th-century composer, ████ ████████, who vanished under mysterious circumstances. Manuscripts found alongside SCP-28990 suggest a final composition that was meant to "transcend time itself."</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 28990-E1</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Procedure:</strong> D-Class personnel instructed to play Frédéric Chopin's "Nocturne Op. 9 No. 2" on SCP-28990. 
+<strong>Result:</strong> Subject reported a "night spanning eons" where stars moved across the sky in slow motion. No temporal anomalies detected in the surroundings.
+<strong>Notes:</strong> Hallucinations appear to be subjective and highly impressionable by the piece performed.</p>
+<h4>Experiment 28990-E2</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Procedure:</strong> A trained pianist (D-████) played an original fast-paced jazz improvisation.
+<strong>Result:</strong> Observers felt as though mere minutes had passed during the two-hour performance. D-████ experienced no time dilation.
+<strong>Notes:</strong> Temporal effects seem independent of the performer's perception, suggesting a one-way phenomenon.</p>
+<h4>Experiment 28990-E3</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Procedure:</strong> D-Class personnel with no musical training attempted to play SCP-28990.
+<strong>Result:</strong> Despite poor performance and numerous mistakes, temporal effects on observers were akin to previous experiments.
+<strong>Notes:</strong> SCP-28990's effects appear to be triggered by any interaction with the keys, regardless of musical quality.</p>
+<h3>Addendum 3: Incident Report 28990-A</h3>
+<h4>Date: ██/██/20██</h4>
+<p>During routine maintenance, a staff member accidentally produced a chord on SCP-28990. They reported a subjective experience of living a full day within a span of 30 seconds, which resulted in transient acute stress reaction. Since then, protective measures during maintenance have been updated to include a locking cover for the keyboard.</p>
+<h3>Addendum 4: Researcher's Note</h3>
+<p>After extensive testing, it has been hypothesized that SCP-28990's properties could have therapeutic applications, particularly in palliative care settings where perception of time can significantly affect quality of life. Proposals for further studies are pending approval.</p>
+<p>Despite SCP-28990's seemingly benign nature, continued caution is advised. The object's origins and the true extent of its capabilities remain unknown, and the potential for misuse or psychological impact should not be underestimated. Further research and observation are necessary to fully understand SCP-28990 and the nature of its anomalous properties.</p>
+
+    </div>
+    
