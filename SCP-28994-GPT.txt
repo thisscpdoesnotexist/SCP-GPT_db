@@ -1,0 +1,45 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-28994 is  Dream House </h3> </center>
+
+    <h3>Item #: SCP-28994 - "The Labyrinthine Abode"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-28994-GPT.png" alt="Illustration of SCP-28994" />
+        
+<h3>Description:</h3>
+<p>SCP-28994 refers to a constantly shifting, extradimensional structure accessible via a 19th-century Victorian doorframe located in [REDACTED], England. The doorframe, when attached to any vertical surface, produces a non-Euclidean space that outwardly possesses the aesthetic and architectural features of a residential building from the same era as its frame.</p>
+<p>Upon entry, subjects find themselves in an expansive foyer with countless doors on all sides, including the ceilings and floors, each leading to disparate rooms that defy the exterior dimensions of a typical house. The internal architecture dynamically reconfigures, resulting in hallways elongating, staircases reorienting, and rooms changing purpose and design. Some rooms exhibit anomalous properties, such as altered gravity, temporal loops, or cognitive hazards.</p>
+<p>SCP-28994 appears to have a varying degree of sapience or sentience, often reacting to the emotional state and intentions of its inhabitants. Attempts to map the interior have proved futile, as the structure's layout changes with each observation. The longer a subject remains inside SCP-28994, the more tailored or personalized the rooms' characteristics become, often manifesting elements from the subject's memories or fears.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-28994 is contained on-site due to the immobile nature of the primary anomaly (the doorframe) and the potential risks of transporting it. A permanent research and security outpost has been established, staffed with personnel trained in navigation and survival in non-Euclidean spaces.</p>
+<p>The doorframe is to be monitored 24/7, with no unauthorized entrance permitted. Those approved to enter must be equipped with a GPS locator, a camera with a live feed to the monitoring station, and a two-way radio for communication. Entrance groups must not exceed three persons to avoid overcrowding within the unpredictable internal geography.</p>
+<p>To prevent psychological harm or potential loss of personnel, all exploratory missions are limited to one hour, after which an automated recall protocol will be initiated. Should any team member display signs of psychological distress or disorientation, the mission must be aborted immediately.</p>
+<p>For the examination of sapient or sentient behavior of SCP-28994, non-invasive observational studies are to be conducted, recording changes in responses to varying emotional stimuli presented by different subjects.</p>
+<h3>Addendum 1: Discovery and Initial Containment</h3>
+<h4>Subsection A: Discovery</h4>
+<p>SCP-28994 came to the Foundation's attention after a series of missing person reports in [REDACTED], England. Local police investigations led to the discovery of the anomalous doorframe in an abandoned manor, with several personal items belonging to the missing individuals found near the entry point. The Foundation intercepted the reports and established initial containment protocols.</p>
+<h4>Subsection B: Containment</h4>
+<p>Following the cordoning-off of the affected area, Foundation researchers successfully secured SCP-28994. A containment team successfully installed it in a specialized containment chamber designed to inhibit its spatial altering abilities, with mixed results.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment #28994-01</h4>
+<p><strong>Subject:</strong> D-19230 (Male, 31, with a history of burglary)
+<strong>Procedure:</strong> The subject was instructed to enter SCP-28994 and describe his experience while exploring the foyer.
+<strong>Results:</strong> Subject entered and reported seeing a door that resembled the doorway to his childhood home. Upon entering, he discovered a room that replicated his living room from the same period, complete with period-accurate items.
+<strong>Notes:</strong> D-19230 displayed emotional distress upon finding an item he claimed to have stolen as a teenager.</p>
+<h4>Experiment #28994-02</h4>
+<p><strong>Subject:</strong> D-87491 (Female, 28, claustrophobic)
+<strong>Procedure:</strong> The subject equipped with a panic button was instructed to navigate further into SCP-28994 than previous subjects.
+<strong>Results:</strong> D-87491 found herself in increasingly tight corridors, eventually activating her panic button. Extraction took longer than expected due to the sudden expansion of the space between her and the retrieval team.
+<strong>Notes:</strong> It appears SCP-28994 exacerbated the claustrophobic tendencies of D-87491, leading to a theorized empathetic reaction from the anomaly.</p>
+<h4>Experiment #28994-03</h4>
+<p><strong>Subject:</strong> Dr. [REDACTED]
+<strong>Procedure:</strong> A seasoned Foundation researcher volunteered to enter SCP-28994 with the goal of reaching the second level.
+<strong>Results:</strong> Dr. [REDACTED] described the environment as "surprisingly accommodating," with libraries filled with research material on non-Euclidean mathematics and spatial anomalies. Nevertheless, he reported hearing whispers and felt compelled to leave earlier than planned.
+<strong>Notes:</strong> SCP-28994 may have a capacity for manipulation through tailored environments conducive to subjects' interests or expertise.</p>
+<h3>Addendum 3: Incident Report</h3>
+<p>On ██/██/████, Security Officer [REDACTED] entered SCP-28994 unauthorized, under the influence of unidentified emotional stressors. Forty-eight hours passed before containment teams were able to retrieve the officer. Upon extraction, the officer was found in a trance-like state, obsessively drawing a complex, recursive schematic which analysis suggests may represent SCP-28994's layout—or at least one iteration of it. Officer [REDACTED] has since been treated for psychological trauma and transferred to a non-Euclidean anomalies counseling program.</p>
+<p>The potential for information extraction and psychological profiling based on the interior transformations witnessed by individuals within SCP-28994 has prompted further investigation by the Foundation's Psychiatric and Cognitive Anomalies Division.</p>
+
+    </div>
+    
