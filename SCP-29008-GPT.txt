@@ -1,0 +1,54 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29008 is  Whirling Guf </h3> </center>
+
+    <h3>Item #: SCP-29008 - The Whirling Guf</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29008-GPT.png" alt="Illustration of SCP-29008" />
+        
+<h3>Description:</h3>
+<p>SCP-29008, referred to as "The Whirling Guf," is a large mechanical structure resembling a combination of a carousel and a wind turbine. This artifact, standing approximately 30 meters in height and 20 meters in diameter, is composed primarily of an unknown metallic alloy with anomalous properties. The structure is adorned with intricate engravings that depict various figures in elegant attire dancing among gusts of wind, giving the SCP its moniker.</p>
+<p>The anomalous properties of SCP-29008 manifest when it begins to spin, which occurs without any discernible external power source. The spin rate can vary, but it maintains a minimum threshold that corresponds with the change in local wind patterns. When the SCP achieves rotational velocities beyond a certain variably determined threshold, it induces a localized atmospheric anomaly. Wind currents become highly accelerated, and barometric pressure drops significantly within a fifty-meter radius.</p>
+<p>Affected individuals within this radius experience temporal and spatial disorientation, memory alteration, and in some cases, complete transportation to a different era or location. It is hypothesized that SCP-29008 acts as a sort of temporal-spatial vortex or gateway. There have been reports of individuals or objects from past time periods appearing momentarily before disappearing or, in rare cases, remaining until the SCP ceases its rotation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29008 is contained in a specially designed hangar at Site-███. The hangar is to be equipped with an atmospheric pressure control system, along with vibration sensors to monitor SCP-29008's activity. Due to the unpredictable nature of its temporal-spatial effects, the area within a one kilometer radius has been declared a no-fly zone, and SCP-29008 is to be surveilled by surveillance cameras at all times.</p>
+<p>All personnel interacting with or studying SCP-29008 must undergo rigorous psychological evaluation before and after exposure to the artifact to monitor any potential cognitive side effects.</p>
+<p>Experimentation protocols require approval from at least one Level 4 Researcher, and all tests must be conducted under controlled conditions with emergency temporal displacement countermeasures in place.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>Experiment 29008-E-001</strong></p>
+<ul>
+<li><strong>Objective:</strong> An initial test to determine the threshold at which SCP-29008's anomalous effects manifest.</li>
+<li><strong>Result:</strong> SCP-29008 began rotating without external interference, reaching a speed of 10 RPM (Rotations Per Minute). At 15 RPM, a localized drop in atmospheric pressure was noted. No temporal-spatial displacement occurred with observers at this rotation speed.</li>
+</ul>
+</li>
+<li>
+<p><strong>Experiment 29008-E-005</strong></p>
+<ul>
+<li><strong>Objective:</strong> To measure the effects of SCP-29008's temporal-spatial anomaly on inanimate objects sent within its immediate proximity.</li>
+<li><strong>Result:</strong> A standard-issue Foundation laptop was placed within 5 meters of SCP-29008. At 25 RPM, the laptop vanished. It reappeared 14 minutes later with evidence indicating it had experienced 47 hours of runtime, according to its internal clock.</li>
+</ul>
+</li>
+<li>
+<p><strong>Experiment 29008-E-012</strong></p>
+<ul>
+<li><strong>Objective:</strong> To document the interaction with spontaneously appearing entities or objects from other temporal-spatial locations during SCP-29008's activation.</li>
+<li><strong>Result:</strong> During a test where SCP-29008 achieved 30 RPM, a figure in 17th-century attire appeared within the containment hangar. The individual appeared disoriented and vanished after approximately 92 seconds.</li>
+</ul>
+</li>
+</ul>
+<h3>Addendum 2:</h3>
+<h3>Incident 29008-I-004</h3>
+<p>On ██-██-20██, SCP-29008 began rotating at a previously unrecorded speed, estimated at 40 RPM. A significant temporal-spatial displacement occurred, leading to multiple appearances of entities and objects from various time periods, some of which remained for several hours post-event. Post-incident analysis revealed new inscriptions on SCP-29008's surface, suggesting the SCP is self-altering or being altered by an unknown force.</p>
+<p>Containment protocols have been updated to include round-the-clock computational linguistic analysis to predict and interpret new inscriptions. All staff interactions with SCP-29008 now require armed security presence due to the potential for hostile entities from divergent timelines.</p>
+<h3>Addendum 3: Recovery Log</h3>
+<p>SCP-29008 was recovered on ██-██-19██ from an abandoned theme park near ██████, Germany, where it was initially presumed to be an eccentric, albeit non-functional, piece of amusement park machinery. Local legend spoke of a cursed carousel that could make people vanish in the winds, leading to the Foundation's investigation and subsequent classification of SCP-29008.</p>
+<h3>Addendum 4: Researcher Notes</h3>
+<blockquote>
+<p>"The Whirling Guf continues to present a paradoxical challenge to our understanding of physics and temporality. It's becoming increasingly evident that we're not just dealing with an anomalous object, but potentially an entity, or a portal to entities, with motives beyond our comprehension. Caution and rigorous scientific inquiry are paramount as we proceed." - Dr. ██████, Lead Researcher on SCP-29008 Project</p>
+</blockquote>
+
+    </div>
+    
