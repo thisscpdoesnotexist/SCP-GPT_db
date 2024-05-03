@@ -1,0 +1,49 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29009 is  The Face of Heaven </h3> </center>
+
+    <h3>Item #: SCP-29009 - "The Face of Heaven"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29009-GPT.png" alt="Illustration of SCP-29009" />
+        
+<h3>Description:</h3>
+<p>SCP-29009, dubbed "The Face of Heaven," is an ornate, antique mirror approximately 2.5 meters in height and 1 meter in width. The frame is crafted from gilded wood, decorated with intricate carvings that display celestial motifs, including stars, moons, and cherubic figures. The glass itself exhibits an imperceptible luminescent quality that does not appear to be a result of reflected light.</p>
+<p>Subjects viewing their reflection in SCP-29009 report a profound sense of tranquility and often describe encounters with a benevolent entity, hereafter referred to as SCP-29009-1. SCP-29009-1 is described uniformly as a luminous figure bearing a calming smile with an indistinct face that exudes warmth and light. Communication with SCP-29009-1 takes place telepathically, with the entity offering comforting insights and personalized advice to viewers.</p>
+<p>Prolonged exposure to SCP-29009 can lead to an obsession with the entity, with individuals expressing a desperate desire to maintain visual contact. The effect is not considered addictive in nature, as it does not affect basic needs and desires, but could potentially lead to neglect of personal responsibilities if access is not moderated.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29009 is to be contained in a secure, climate-controlled room at Site-██, upon a pedestal designed to minimize physical contact. The room is to be fitted with an opaque curtain that can conceal the mirror when not in use. Only Level 2 and above personnel are permitted to interact with SCP-29009, and such interactions must be approved by at least two senior researchers.</p>
+<p>Viewing sessions are strictly limited to 30 minutes, and no individual is to engage with SCP-29009 more than once per week. A psychological evaluation is required before and after contact to monitor for signs of obsession. An armed guard is to remain outside the containment room at all times to ensure protocols are followed.</p>
+<p>In the event of a containment breach, the application of a light-diffusing cloth over SCP-29009's surface has shown to be an effective temporary measure, as it significantly diminishes the item's anomalous influence.</p>
+<h3>Addendum 1: Discovery and Acquisition</h3>
+<h4>Subsection 1-A: Background</h4>
+<p>SCP-29009 was recovered from an abandoned estate in █████████, France, after local rumors of a "haunted mirror" reached Foundation operatives. Upon retrieval, it was noted that the local populace exhibited unusually low levels of stress and interpersonal conflict, which they attributed to the presence of the mirror.</p>
+<h4>Subsection 1-B: Interviews</h4>
+<p>Interviews with the townspeople revealed that the mirror was considered a guardian and advisor. Several individuals who had gazed into the mirror credited SCP-29009-1 with transformational life advice. The Foundation has expunged these accounts from public knowledge to maintain secrecy and prevent pilgrimage attempts.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment Log: 29009-01</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Subject:</strong> D-84127 (Female, 31 years old, convicted felon)</li>
+<li><strong>Procedure:</strong> Subject was instructed to look at her reflection and describe her experience.</li>
+<li><strong>Results:</strong> The subject reported normal reflection initially, but after ten minutes, described SCP-29009-1. The entity allegedly advised her to seek forgiveness from her family. Post-experiment, the subject requested to write a letter of apology to her sister.</li>
+</ul>
+<h4>Experiment Log: 29009-02</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Subject:</strong> D-92711 (Male, 28 years old, diagnosed with anxiety disorder)</li>
+<li><strong>Procedure:</strong> Similar to experiment log 29009-01.</li>
+<li><strong>Results:</strong> D-92711 became visibly calmer while speaking with SCP-29009-1. After the session, he displayed a marked decrease in anxiety symptoms that persisted for several weeks.</li>
+</ul>
+<h4>Experiment Log: 29009-03</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Subject:</strong> Dr. ██████ (Level 3 Researcher)</li>
+<li><strong>Procedure:</strong> Volunteered for exposure under controlled conditions.</li>
+<li><strong>Results:</strong> During exposure, Dr. ██████ was observed to be in a deep conversation with their reflection. Post-experiment, they requested to reassign personnel to improve department cohesion, citing advice from SCP-29009-1.</li>
+</ul>
+<h3>Addendum 3: Incident Report 29009-A</h3>
+<p>On ██/██/████, during a routine analysis, Junior Researcher ████ accidentally made eye contact with SCP-29009. Rapid escalation of the researcher's obsession with the object led to an unauthorized 2-hour exposure, after which the researcher attempted to destroy the opaque curtain to maintain contact. Security was able to restrain the individual, and they were administered a Class-C amnestic. Adjusted containment procedures now include a secondary physical barrier when not testing.</p>
+
+    </div>
+    
