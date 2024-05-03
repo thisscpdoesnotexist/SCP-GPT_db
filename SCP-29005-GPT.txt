@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29005 is  Charlie, Charlie is My Name </h3> </center>
+
+    <h3>Item #: SCP-29005 - "Charlie, Charlie is My Name"</h3>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-29005, colloquially known as "Charlie, Charlie," is an anomalous entity that manifests through a children's game involving balanced pencils, similar to a makeshift ouija board. SCP-29005 is capable of communicating through the movement of the pencils, which are influenced by an unseen force assumed to be SCP-29005. The entity displays intelligence and awareness of its surroundings and has been observed to answer questions ranging from benign to impossibly complex.</p>
+<p>SCP-29005's true form has yet to be observed. It has been demonstrated that once a session of the game has begun, the entity will not cease interaction until the participant either follows a precise termination protocol or becomes incapacitated. Prolonged exposure to SCP-29005 has resulted in psychological manipulation, paranoia, and in extreme cases, complete loss of the participant’s will, leading to bodily possession by the entity.</p>
+<p>Physical manifestations of SCP-29005's influence have also been observed, including poltergeist-like activities, fluctuations in temperature, and electronic interference. SCP-29005 seems to thrive on fear and uncertainty; it has shown an ability to adapt its responses to exploit the emotional state of its participants, making containment a high priority.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29005 is currently contained within a reinforced, soundproof, and electromagnetically shielded chamber at Site-██. Interaction with SCP-29005 is strictly forbidden unless under direct authorization for the purpose of research as approved by at least two Level 4 personnel. Personnel who must interact with SCP-29005 must undergo rigorous psychological screening both before and after exposure.</p>
+<p>The containment chamber for SCP-29005 is rigged with an automated termination protocol system. This system is designed to mechanically perform the termination procedure without human intervention, to protect staff members from the entity's psychological influence.</p>
+<p>A strict no-pencil policy is in effect throughout the Site-██ to prevent accidental summoning of SCP-29005. All writing utensils that could potentially be used to engage with the entity are to be made of non-graphite materials and are to be approved by Site Security.</p>
+<h3></h3>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-29005 was discovered after a series of incidents at [REDACTED] Elementary School where multiple children reported contact with 'Charlie' during recess. Initial Foundation involvement occurred after local news stations reported on the "Charlie, Charlie Challenge" going viral, and children were hospitalized with severe psychological trauma.</p>
+<h3>Addendum 2: Incident Log</h3>
+<h4>Incident 29005-A</h4>
+<p>A research assistant, Dr. ██████, attempted unauthorized communication with SCP-29005 without following proper containment protocols. The attempt resulted in SCP-29005 gaining temporary control over the Site-██’s electronic security systems, causing a facility-wide lockdown. Dr. ██████ was found in a catatonic state, muttering "Charlie" repeatedly and was subsequently provided amnestic treatment and reassigned.</p>
+<h4>Incident 29005-B</h4>
+<p>A D-Class personnel, D-18345, during a monitored interaction session with SCP-29005, suffered a mental breakdown which led to an instance of SCP-29005's partial possession. The D-Class was observed speaking in languages they had no prior knowledge of. The session was quickly terminated using the automated protocol system, but D-18345 expired shortly thereafter from a cerebral aneurysm.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 29005-E1</h4>
+<p><strong>Purpose:</strong> To determine SCP-29005's knowledge reach.
+<strong>Procedure:</strong> Ask SCP-29005 a series of questions escalating in obscurity and complexity.
+<strong>Result:</strong> SCP-29005 answered all questions correctly, including those regarding highly classified Foundation information, suggesting either a telepathic capability or an inexplicable source of knowledge.</p>
+<h4>Experiment 29005-E2</h4>
+<p><strong>Purpose:</strong> To test the effects of prolonged exposure in a controlled environment.
+<strong>Procedure:</strong> D-Class personnel instructed to engage with SCP-29005 for a period extending beyond standard protocol.
+<strong>Result:</strong> D-Class personnel D-19422 began showing signs of psychological dependence on SCP-29005, eventually refusing to terminate the session and displaying violent behavior when forced to do so. The D-Class was placed in containment, and surveillance footage later revealed conversations between D-19422 and an indistinct voice believed to be SCP-29005, despite no physical interaction.</p>
+<h4>Experiment 29005-E3</h4>
+<p><strong>Purpose:</strong> To probe SCP-29005's intentions or goals.
+<strong>Procedure:</strong> Engage in a dialogue-focused session, employing psychological tactics to deduce SCP-29005's motives.
+<strong>Result:</strong> SCP-29005 became increasingly evasive and hostile, eventually resulting in [DATA EXPUNGED]. The supervising researcher was found unconscious with a message carved into the desk: "Let's play forever." Reinforcement of containment protocols was immediately recommended and enacted.</p>
+<p>The ongoing containment and study of SCP-29005 remain a top priority, as its capabilities hint at both an extraordinary intelligence and a potential for widespread psychological influence or manipulation. Full documentation of each interaction is catalogued and available to authorized personnel with clearance Level 4/29005 or higher.</p>
+
+    </div>
+    
