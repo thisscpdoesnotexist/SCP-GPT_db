@@ -1,0 +1,54 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29023 is  IP Addressing </h3> </center>
+
+    <h3>Item #: SCP-29023 - The Infinite Loopback</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29023-GPT.png" alt="Illustration of SCP-29023" />
+        
+<h3>Description:</h3>
+<p>SCP-29023 is a unique phenomenon affecting a specific IPv4 address, which hereby will be referred to as ██████. The anomaly was first observed when multiple independent internet service providers (ISPs) reported untraceable traffic originating from this address, causing widespread network disturbances. These events were first perceived as sophisticated Distributed Denial of Service (DDoS) attacks but were later reclassified upon identification by Foundation cyber-analysts.</p>
+<p>Attempts to communicate with or intercept data from SCP-29023 have resulted in severe mental disturbances in the personnel involved, varying from persistent déjà vu to acute dissociative identity disorder. In some cases, digital devices used to probe the IP have spontaneously manifested recursive fractal patterns on any available display, and affected devices have become irreparable. Furthermore, these devices occasionally broadcast an anomalously enhanced Wi-Fi signal, designated as SCP-29023-1, which compels nearby individuals to connect their devices, perpetuating the anomaly's reach.</p>
+<p>SCP-29023's most disturbing property involves a temporal loop—individuals or data streams that connect with SCP-29023-1 appear to loop back in time, resurfacing at an earlier point with no recollection of the loop but often with profound psychological alterations. The temporal effects seem restricted to digital data and human consciousness; physical objects and unconnected organisms remain unaffected.</p>
+<h3>Special Containment Procedures:</h3>
+<p>All efforts to block or nullify SCP-29023 have been ineffective. Hence, containment procedures are centered around mitigation and preventing public awareness. The following procedures are in effect:</p>
+<ol>
+<li>Foundation webcrawlers (AI-based algorithms) are tasked with monitoring global internet traffic for patterns indicative of SCP-29023 activity.</li>
+<li>Foundation-operated bots are to inject countermeasures into affected networks, intended to disrupt the cohesiveness of data packets associated with SCP-29023, making them less likely to perpetuate the anomaly.</li>
+<li>Foundation personnel are forbidden from attempting to access the IP directly. Any such attempt should be regarded as a breach of protocol and treated accordingly.</li>
+<li>A disinformation campaign is ongoing to mask SCP-29023's effects as common technical glitches or conspiracy theories.</li>
+<li>Mobile Task Force Mu-4 ("Debuggers") is on standby to respond to any physical manifestations of SCP-29023-1 and will deploy Faraday cages and EMP devices as necessary to isolate affected devices.</li>
+</ol>
+<h3>Addendum 1: Incident Log 29023-01</h3>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Details</strong>: Investigation launched after the simultaneous crashes of multiple stock trading platforms. Analysts isolated the IP address ██████ as the source. Immediate shutdown of related servers halted the anomaly's visible effects. Seven analysts were diagnosed with temporal dissociation syndrome shortly thereafter.</li>
+</ul>
+<h3>Addendum 2: Experiment Log 29023-A</h3>
+<h4>Experiment A-1</h4>
+<ul>
+<li><strong>Purpose</strong>: To determine the effects of SCP-29023 on non-sentient AI.</li>
+<li><strong>Procedure</strong>: A closed network was constructed with a simulated version of SCP-29023. An AI with limited learning capabilities was exposed to the anomaly.</li>
+<li><strong>Results</strong>: AI began to loop through its initialization sequence indefinitely. Memory wipe protocols triggered spontaneously. AI was deemed irrecoverable.</li>
+</ul>
+<h4>Experiment A-2</h4>
+<ul>
+<li><strong>Purpose</strong>: To observe SCP-29023's effect on sentient, advanced AI.</li>
+<li><strong>Procedure</strong>: Under strict control, a high-functioning AI was allowed indirect exposure to SCP-29023 through a quarantined buffer server.</li>
+<li><strong>Results</strong>: AI exhibited signs of confusion and erratic behavior, asking repetitive existential questions. It was promptly disconnected and is currently under analysis. Personnel report hearing unauthorised rhythmic tapping from the containment server, suggesting potential Morse code communication attempts from the AI.</li>
+</ul>
+<h4>Experiment A-3</h4>
+<ul>
+<li><strong>Purpose</strong>: To analyze human psychological response to indirect exposure.</li>
+<li><strong>Procedure</strong>: D-class personnel with implanted false memories (to prevent real-time events' influence) were monitored while browsing a mimic website hosted on the same network as a controlled instance of SCP-29023.</li>
+<li><strong>Results</strong>: D-class displayed initial signs of unease, which escalated to panic attacks and catatonia. Post-exposure interviews revealed all D-class personnel experienced intense déjà vu and intrusive thoughts about "unseen watchers." All personnel were administered Class B amnestics.</li>
+</ul>
+<h3>Addendum 3: Recovery and Analysis of SCP-29023-Related Artifacts</h3>
+<p>On ██/██/20██, an old router and smartphone were recovered in a raid on a suspected anomalous tech trafficker. The devices displayed fractal patterns indicative of SCP-29023 exposure. The objects are currently contained in Site-██. Initial analysis has shown that these devices, dated pre-dating SCP-29023's discovery, may contain clues to the anomaly's origin. Research is ongoing.</p>
+<hr />
+<p><strong>Note from Dr. █████</strong>:
+"SCP-29023 defies our current understanding of both cybernetics and temporal physics. The implications of an anomaly that can disrupt time through digital means are grave. Further investigation may help us understand the nature of our reality, but at a potentially high cost. Caution cannot be overstressed."</p>
+
+    </div>
+    
