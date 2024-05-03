@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29010 is  Blind calculator </h3> </center>
+
+    <h3>Item #: SCP-29010 - "Blind Calculator"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29010-GPT.png" alt="Illustration of SCP-29010" />
+        
+<h3>Description:</h3>
+<p>SCP-29010 is a mechanical calculator from the early 20th century featuring a full QWERTY keyboard and numeral input keys. It is made of brass and seems to contain internal mechanisms far more complex than any other calculators made during that time period. The device has no identifiable manufacturing marks and attempts to open its casing have all ended in failure, as the brass is anomalously resistant to force. </p>
+<p>SCP-29010's anomalous properties manifest when a mathematical problem or any text is input into the machine. Upon entry, the calculator will output a response on a small ticker-tape, unfurling from a slot on its side. The contents of these responses vary widely, from accurately solving mathematical problems to providing cryptic messages, predictions of future events, or personal information about the user, which it could not possibly know through conventional means.</p>
+<p>Despite its name, “Blind Calculator,” there is evidence to suggest that SCP-29010 has a sentient presence within it, as responses often carry a conversational or subjective tone. The source of SCP-29010's knowledge and its method of acquiring information are as yet unknown.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29010 is to be contained in a locked, opaque containment box at all times unless it is being studied or tested. This containment box is to be kept in a standard secure item locker at Site-██. Interaction with SCP-29010 is strictly limited to testing periods or approved research projects. Any individual interacting with SCP-29010 must undergo a full psychological review before entering the containment chamber and be subject to monitoring for at least one month afterward due to the potential personal and psychological impact of its responses.</p>
+<p>Personnel are advised to avoid inputting overtly personal questions or information into the machine to prevent any psychologically damaging incidents. Should SCP-29010 produce any predictions, they are to be logged, and any necessary action should be taken following standard protocol for precognitive anomalies.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-29010 was discovered in the attic of an abandoned house in ██████, France, during a separate investigation into anomalous activity in the area. Agents found the device amidst various outdated technological items and antiquated personal belongings. Initial appraisal of the device did not suggest anomalous properties until Agent ████ absent-mindedly used it to calculate expenses.</p>
+<h3>Addendum 2: Testing Log</h3>
+<h4>Experiment Log 29010-██:</h4>
+<h5>Test 001</h5>
+<p><strong>Input:</strong> The mathematical problem "235 + 678" was keyed into SCP-29010.
+<strong>Output:</strong> A ticker tape with the correctly calculated value "913."</p>
+<h5>Test 004</h5>
+<p><strong>Input:</strong> The question "What will be tomorrow's weather in [REDACTED]?"
+<strong>Output:</strong> "Skies will weep. Carry an umbrella."
+<strong>Note:</strong> Weather reports for [REDACTED] did, in fact, indicate heavy rainfall the following day.</p>
+<h5>Test 014</h5>
+<p><strong>Input:</strong> Dr. █████ keyed in "What is my heart's desire?"
+<strong>Output:</strong> "You seek knowledge, but fear its burden. Look within."
+<strong>Note:</strong> Dr. █████ requested a week of absence post-experiment, citing personal reasons.</p>
+<h5>Test 027</h5>
+<p><strong>Input:</strong> Research Assistant L███ entered his own full name.
+<strong>Output:</strong> "Beware of secrets left untold; they are the ones that hurt us most."
+<strong>Note:</strong> Two weeks later, Assistant L███ was taken into custody after undisclosed information regarding a breach in security protocol was uncovered linked to his clearance.</p>
+<h3>Addendum 3: Incident Report 29010-1</h3>
+<p>On ██/██/20██, Researcher Dr. M████, while under the influence of alcohol, accessed SCP-29010 without authorization and entered multiple inputs that included sensitive personal information and amorous inquiries about a colleague. The resulting outputs led to a containment breach when Dr. M████ became unstable and attempted to destroy the machine, claiming it "knew too much." This incident resulted in the tightening of the Special Containment Procedures and a reassessment of the mental health support available to Foundation staff. Dr. M████ has been reassigned and is under regular psychological monitoring.</p>
+<p>SCP-29010 remains an asset of significant interest due to its predictive capabilities and potential use in interrogative applications. However, the implications of its ability to affect the psychological state of its users are considered an equal matter of importance in ongoing research.</p>
+
+    </div>
+    
