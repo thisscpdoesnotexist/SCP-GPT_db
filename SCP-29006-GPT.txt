@@ -1,0 +1,63 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29006 is  She wants the moon </h3> </center>
+
+    <h3>Item #: SCP-29006 - She Wants the Moon</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29006-GPT.png" alt="Illustration of SCP-29006" />
+        
+<h3>Description:</h3>
+<p>SCP-29006 is a looped silver bracelet, approximately 7cm in diameter, with a charm in the shape of a crescent moon attached. The charm is crafted from an unknown luminescent material that emits a soft, white glow in low light conditions. Radiometric dating suggests the bracelet is over three centuries old, yet it shows no sign of tarnishing.</p>
+<p>The main anomalous effect of SCP-29006 occurs when it is worn by an individual (hereafter referred to as Subject) who expresses a strong desire for the moon, or more broadly, an unattainable wish. Upon vocalizing such a desire while wearing the bracelet, the Subject enters a trance-like state, during which they assert that they are "touching the moon." Observers cannot perceive any physical or spatial changes in the Subject's position or in the moon's apparent location.</p>
+<p>Extracted accounts from Subjects report a vivid alternate reality where they achieve the focus of their longing. No consistent narrative exists between Subjects' experiences; however, the commonality is the sensation of fulfillment of their desires. Recovery from the trance is spontaneous and typically occurs after a period that ranges from several minutes to two hours. Post-recovery Subjects exhibit a sense of peace and loss which can lead to a transient depressive episode.</p>
+<p>SCP-29006 was retrieved from an estate sale in ███████, Italy, after reports of its effects reached local Foundation operatives. A connection between the bracelet and an old romantic folktale involving a lovesick woman who was granted her wish to touch the moon has been noted but remains speculative.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29006 is to be contained in a standard secure locker at Site-19. Access to SCP-29006 for research purposes is allowed with the approval of a Level 3 Senior Researcher or higher. Under no circumstances should SCP-29006 be worn outside of a controlled experimental setting.</p>
+<p>Staff assigned to direct interaction with SCP-29006 must undergo psychological screening to ensure they harbor no strong, unattainable desires that might trigger the object's effects. In the event of accidental activation, the affected individual should be removed from the bracelet and monitored by medical personnel until full recovery.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 29006-E-01:</h4>
+<ul>
+<li><strong>Subject:</strong> D-8210</li>
+<li><strong>Procedure:</strong> D-8210 was instructed to wear SCP-29006 and then asked to express a personal longing.</li>
+<li><strong>Result:</strong> D-8210 stated a wish to see his deceased wife. He immediately entered a trance state, vocalizing a tearful reunion with his wife. Upon recovery, D-8210 appeared emotionally overwhelmed but calmer.</li>
+<li><strong>Notes:</strong> This experiment confirms SCP-29006’s consistent effect when an individual articulates a strong, specific desire.</li>
+</ul>
+<h4>Experiment 29006-E-02:</h4>
+<ul>
+<li><strong>Subject:</strong> D-7602</li>
+<li><strong>Procedure:</strong> D-7602 was asked to wear SCP-29006 but given no instruction regarding expressing desires.</li>
+<li><strong>Result:</strong> No anomalous effects were observed until D-7602 spontaneously mentioned a wish to have escaped incarceration. She then entered a trance, murmuring about freedom and open skies. D-7602 recovered and exhibited mild confusion.</li>
+<li><strong>Notes:</strong> It appears intention is not a necessary component for activation, provided the subject harbors an intrinsic longing.</li>
+</ul>
+<h4>Experiment 29006-E-03:</h4>
+<ul>
+<li><strong>Subject:</strong> D-9031</li>
+<li><strong>Procedure:</strong> Subject has a recorded history of expressing a desire to travel to outer space. Subject was asked to wear SCP-29006.</li>
+<li><strong>Result:</strong> D-9031 entered a trance and recounted an experience aboard a spacecraft viewing Earth from orbit. After returning to consciousness, D-9031 displayed intense elation, which gradually subsided into melancholy.</li>
+<li><strong>Notes:</strong> Subject was noted to outline detailed and accurate descriptions of space travel, despite no prior knowledge or experience. The source of this knowledge is unclear.</li>
+</ul>
+<h3>Addendum 2: Interview Logs</h3>
+<h4>Interview 29006-IL-01:</h4>
+<ul>
+<li><strong>Interviewer:</strong> Dr. Mireille</li>
+<li><strong>Subject:</strong> D-9031</li>
+<li><strong>Excerpt from Transcript:</strong><blockquote>
+<p><strong>Dr. Mireille:</strong> "Can you describe your experience while under the influence of SCP-29006?"</p>
+</blockquote>
+</li>
+</ul>
+<blockquote>
+<p><strong>D-9031:</strong> "It felt so real... like I was actually out there, among the stars. I saw Earth, hanging like... like some beautiful marble. I didn’t want to leave."</p>
+<p><strong>Dr. Mireille:</strong> "Have you had any knowledge or interest in space before this?"</p>
+<p><strong>D-9031:</strong> "Well, yeah, I’ve always wanted to go to space. But it was just a dream, you know? I've never read much about it... But there I was, floating... No suit, no spaceship, nothing. Just me and the void."</p>
+</blockquote>
+<ul>
+<li><strong>Notes:</strong> The potential of SCP-29006 to impart knowledge or create fully realized experiences remains an intriguing subject for further study. Post-interview, D-9031 requested access to astronomy books, which was granted for therapeutic purposes.</li>
+</ul>
+<h3>Addendum 3: Recovery of Initial Anecdotal Accounts</h3>
+<p>Upon acquisition of SCP-29006, several second-hand accounts were collected from individuals familiar with the bracelet's history. It appears the bracelet has been passed down through various family lines in the region, with each owner eventually experiencing the fulfillment of a heartfelt wish. Folkloric tales suggest that the original creator was a heartbroken artisan, who fashioned the bracelet under a lunar eclipse as a tribute to his lost love, promising any wearer the moon itself. While such tales cannot be substantiated, they contribute to the understanding of SCP-29006's origins and potential conceptual framework.</p>
+<p>The Foundation will continue to monitor SCP-29006 for any changes in its anomalous behavior and probe the extent of its effects. Further experiments are scheduled to explore the limits of SCP-29006's ability to engender experiences and to ascertain whether such experiences can be objectively validated.</p>
+
+    </div>
+    
