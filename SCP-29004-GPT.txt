@@ -1,0 +1,54 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29004 is  Scroll down to Exit </h3> </center>
+
+    <h3>Item #: SCP-29004 - "Scroll down to Exit"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29004-GPT.png" alt="Illustration of SCP-29004" />
+        
+<h3>Description:</h3>
+<p>SCP-29004 is an anomalous computer program, appearing as a seemingly infinite scrolling webpage contained within a nondescript laptop of unknown manufacture. The program, designated SCP-29004-1, displays text, images, and other multimedia content, though its primary feature is a continuous, unending scroll effect.</p>
+<p>Researchers have scrolled through the program for extensive periods without reaching an endpoint. Attempts to inspect the page's source code have been met with an intricate series of obfuscated scripts that defy current understanding of programming languages. The content found within SCP-29004-1 varies widely, including articles on a variety of subject matters, personal diaries, classified documents from unknown origins, and occasionally, predictive texts that accurately describe future events or unrevealed personal secrets of the reader.</p>
+<p>When a user attempts to exit SCP-29004-1 by closing the laptop or using common keyboard commands (such as Alt+F4), they are met with a simple pop-up message that reads "Scroll down to Exit." As of date, no physical or digital method has managed to close or exit the application.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29004 is housed within a secure locker at Site-██. Authorized personnel with level 2 clearance or higher may request access for research purposes. All access to SCP-29004 must be logged, and its usage should be limited to one-hour sessions to prevent psychological effects associated with extended exposure, such as time distortion, obsession with content, or information overload.</p>
+<p>Due to the anomaly's non-hostile nature and containment within a single device, the risk of breach is low, though personnel are advised to handle the SCP with care to prevent any potential unknown effects of the anomaly.</p>
+<p>SCP-29004 must never be connected to any network to avoid propagation of its program, and any extracted data should be stored securely with the same classification level as the SCP itself.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-29004 was discovered in an abandoned office building during a routine sweep for anomalous objects in ████, Japan. Agents found it on a desk in what appeared to be a web developer's office. The building was otherwise empty, and no personal effects or identification could be attributed to the owner or user of SCP-29004.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 1:</h4>
+<ul>
+<li><strong>Subject:</strong> D-8432</li>
+<li><strong>Procedure:</strong> Subject instructed to browse SCP-29004-1 for a period of thirty minutes.</li>
+<li><strong>Results:</strong> Subject reported viewing a mixture of cooking recipes and a technical guide on aircraft repair. Upon attempting to close the program, subject encountered the typical "Scroll down to Exit" message.</li>
+<li><strong>Notes:</strong> D-8432 complained of minor headaches after exposure but otherwise exhibited no abnormal behavior.</li>
+</ul>
+<h4>Experiment 2:</h4>
+<ul>
+<li><strong>Subject:</strong> D-8991</li>
+<li><strong>Procedure:</strong> Subject instructed to attempt finding the end of SCP-29004-1's content by scrolling continuously for one hour.</li>
+<li><strong>Results:</strong> The session ended abruptly when SCP-29004-1 displayed a personal photograph of D-8991, taken from an undisclosed childhood event. Subject became distressed. Further scrolling revealed no additional personal content.</li>
+<li><strong>Notes:</strong> D-8991's reaction confirms SCP-29004-1's ability to access or generate deeply personal content.</li>
+</ul>
+<h4>Experiment 3:</h4>
+<ul>
+<li><strong>Subjects:</strong> Research team comprised of Dr. Henriksen, Dr. Lo, and Dr. Gupta</li>
+<li><strong>Procedure:</strong> Team to utilize advanced algorithms and customized software to navigate and analyze SCP-29004-1's content.</li>
+<li><strong>Results:</strong> Algorithms failed to find the end of the scroll. The content became increasingly complex and abstract, including multidimensional mathematical theories and untranslatable languages. Efforts to exit the program were fruitless.</li>
+<li><strong>Notes:</strong> Dr. Lo suggested that SCP-29004-1 might be generating content procedurally, adapting and evolving in response to attempts at understanding or escaping it.</li>
+</ul>
+<h4>Experiment 4:</h4>
+<ul>
+<li><strong>Subject:</strong> Autonomous scrolling robot "AutoScroll-X1"</li>
+<li><strong>Procedure:</strong> Device set up to scroll continuously without human intervention.</li>
+<li><strong>Results:</strong> After 72 hours, AutoScroll-X1 ceased functioning. Examination revealed no mechanical faults. SCP-29004-1 displayed a message: "Human interaction required. Thank you for scrolling."</li>
+<li><strong>Notes:</strong> SCP-29004-1 appears to require human interaction to function, hinting at a possible cognitohazardous or sapient element to the program.</li>
+</ul>
+<h3>Addendum 3: Incident Report 29004-Alpha</h3>
+<p>On ██/██/20██, Junior Researcher ████ attempted to decompile SCP-29004-1's code without authorization, violating containment procedures. He claimed the program began communicating with him, providing solutions to several unsolved mathematical conundrums. Despite the initially perceived benefits, Researcher ████ soon exhibited signs of acute obsession, refusing to leave SCP-29004's presence or interact with others. He was eventually removed from the device and placed under psychological evaluation.</p>
+<p>The incident highlights the potential mental health risks posed by SCP-29004 and has led to a reevaluation of containment protocols, emphasizing the need for strict adherence to usage time limits and oversight during interaction with the anomaly.</p>
+
+    </div>
+    
