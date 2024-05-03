@@ -1,0 +1,44 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29007 is  The dragon-boat </h3> </center>
+
+    <h3>Item #: SCP-29007 - The Celestial Vessel</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29007-GPT.png" alt="Illustration of SCP-29007" />
+        
+<h3>Description:</h3>
+<p>SCP-29007 is an ornate dragon-boat, approximately 23 meters in length with a beam of 4 meters, crafted from an unknown dark wood with a lacquer finish that shimmers under light in hues of deep blues and greens. The vessel's design resembles that of ancient Chinese royal dragon-boats, with elaborate carvings of dragons along the sides and a large dragon head at the prow that appears almost lifelike.</p>
+<p>The anomalous properties of SCP-29007 manifest when it is sailed by at least one individual during the night of a full moon. When these conditions are met, the vessel is capable of autonomous celestial navigation, departing from earthly waters and ascending skyward, traversing what appears to be an astral or ethereal plane of existence. Numerous crew members have reported seeing constellations not visible from Earth, as well as encounters with entities resembling mythological beings.</p>
+<p>Upon sunrise, or when a crew member dictates the command "Return" in Mandarin Chinese, SCP-29007 smoothly descends back to the water's surface from whence it embarked. Any individual not onboard at the moment of descent remains in the plane SCP-29007 visited until the next full moon cycle, where they may reboard the vessel to return. No harmful effects from the transition between planes or the time spent in the astral plane have been observed, though some crew have reported ephemeral sensations of enlightenment or cosmic awareness that quickly fade upon return.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29007 is to be housed in a secured boathouse located at Site-██ on an artificial lake created for containment purposes. Outside of testing periods, the boathouse is to remain locked and under surveillance. Access to SCP-29007 is strictly prohibited except under approved experimentation protocols or with clearance from two Level 3 or higher personnel.</p>
+<p>During full moon nights, the area surrounding the artificial lake's perimeter is to be patrolled to prevent unauthorized access. Any observed attempts at breaching the containment must be intercepted immediately. All personnel assigned to SCP-29007 should be familiar with maritime protocols despite the vessel's anomalous properties, to ensure safety and prevent accidental activation of its capabilities.</p>
+<p>To prevent undue attention, Site-██ has been outfitted with a cover story as a private research facility performing environmental studies on the local fauna and flora. Any unauthorized individuals inquiring about the site are to be given a standard cover story and escorted off-premises by security.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-29007 was discovered by the Foundation in ██/██/20██ after reports of a "ghost ship" ascending to the sky off the coast of ██, China. A quick response team was dispatched to the site, and the vessel was recovered without incident during the following new moon when it failed to exhibit its anomalous traits. Local witnesses were given Class-A amnestics, and a cover story involving a misinterpreted weather balloon was disseminated.</p>
+<h3>Addendum 2: Experiment Logs</h3>
+<h4>Experiment-29007-A:</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Participants:</strong> Dr. Liu, D-91823
+<strong>Procedure:</strong> Dr. Liu commanded D-91823 to pilot SCP-29007 during the full moon.
+<strong>Results:</strong> SCP-29007 ascended, remaining in the astral plane for approximately 6 hours. Both personnel reported encounters with peaceful non-corporeal entities.
+<strong>Notes:</strong> Dr. Liu noted that the entities seemed to communicate in abstract concepts rather than language, imparting a sense of "universal harmony."</p>
+<h4>Experiment-29007-B:</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Participants:</strong> D-51044, D-51045
+<strong>Procedure:</strong> Both D-Class personnel were instructed to remain silent during ascent and full travel.
+<strong>Results:</strong> SCP-29007 ascended as per previous tests, traveled through the astral plane for 7 hours. D-51044 broke silence, causing an immediate descent back to the lake.
+<strong>Notes:</strong> The role of verbal communication appears to be critical for the duration of the vessel's travel within the astral plane.</p>
+<h4>Experiment-29007-C:</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Participants:</strong> D-31822
+<strong>Procedure:</strong> D-31822 was equipped with various measuring devices to gather data on the astral plane.
+<strong>Results:</strong> Instrumentation failed to operate once SCP-29007 left Earth's atmosphere, but resumed function upon re-entry. D-31822 returned safely, reporting awe-inspiring visions and a sense of lost time.
+<strong>Notes:</strong> While the true nature of the astral plane remains elusive, its profound effect on travelers is undeniable.</p>
+<h3>Addendum 3: Additional Notes</h3>
+<p>Further experiments with SCP-29007 have suggested that the vessel may possess a form of sentience or at least programmed behavior, as it appears to be selective in its destinations within the astral plane. The prevailing hypothesis suggests that SCP-29007 is not simply a form of transportation but an ambassadorial craft meant to bridge physical and metaphysical realms.</p>
+<p>It is worth mentioning that, on several occasions, crew members believed that they were receiving a message or invitation from the entities encountered. However, this has yet to be substantiated with tangible evidence. Scientists and researchers at Site-██ continue to analyze these interactions, hoping to unlock deeper understanding of SCP-29007's purpose and the true nature of the astral domain it navigates.</p>
+
+    </div>
+    
