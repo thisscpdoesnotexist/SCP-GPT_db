@@ -1,0 +1,52 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29019 is  A Memetic Here </h3> </center>
+
+    <h3>Item #: SCP-29019 - A Memetic Here</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29019-GPT.png" alt="Illustration of SCP-29019" />
+        
+<h3>Description:</h3>
+<p>SCP-29019 is an anomalous memetic phenomenon localized to a currently untraceable source. It primarily affects written and digital text, altering the content to include the phrase "Here, but not here." Affected text often leads to cognitive dissonance, paranoia, and a persistent sensation of being observed in individuals exposed to the phenomenon for prolonged periods.</p>
+<p>Persons affected by SCP-29019, hereafter referred to as subjects, develop symptoms in stages. Initial exposure causes minor confusion as subjects encounter the nonsensical phrase in otherwise normal contexts. With continued exposure, subjects begin to believe in the presence of an unseen observer or entity. At advanced stages, subjects exhibit extreme agoraphobia and will seek to isolate themselves in small, enclosed spaces, claiming it is the only way to hide from the "Here."</p>
+<p>SCP-29019 appears to be self-propagating; affected materials cause the anomaly to spread to nearby written content, including books, signage, and personal notes, regardless of language or format. Digital spreads are incredibly virulent, with reports of entire databases becoming unusable within hours of initial exposure. The phenomenon's rate of occurrence has increased exponentially since its initial documentation, indicating a possible impending information containment breach at a global scale.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the nature of SCP-29019, containment efforts are focused on mitigation and research into possible sources to prevent further spread.</p>
+<ol>
+<li>
+<p>A specialized web crawler, designated as AI Sigma-19, has been developed to detect and quarantine affected digital content. Sigma-19 operates in tandem with multiple Foundation servers to filter, analyze, and delete instances of SCP-29019 from the internet. The web crawler is to be constantly updated to adapt to the memetic anomaly's evolving nature.</p>
+</li>
+<li>
+<p>Foundation field agents assigned to SCP-29019 are provided with memetic inoculation and trained in recognizing early symptoms in civilians. If an outbreak is detected in a public setting, agents are to enact Protocol Echo-Lima (Eradication of Localized Leak), which includes the distribution of disinformation and, if necessary, amnestics to halt the spread.</p>
+</li>
+<li>
+<p>A specialized containment chamber, Shielded Information Vault-19 (SIV-19), has been constructed to house all physical manifestations of SCP-29019 for study and destruction. SIV-19 is to be lined with lead and soundproofed to prevent possible auditory or subliminal leakage of the anomaly.</p>
+</li>
+<li>
+<p>Any personnel assigned to SCP-29019 who exhibit symptoms or knowledge of "Here, but not here" without prior, controlled exposure are to be quarantined immediately and administered Class-B amnestics.</p>
+</li>
+</ol>
+<h3>Addendum 1: Incident Report 29019-Alpha</h3>
+<h4>Incident 29019-Alpha-1</h4>
+<p>On ██/██/20██, Agent ██████ reported the first known incident of SCP-29019 after noticing the repeated phrase within several confiscated documents during an unrelated operation. The agent was quarantined, leading to the discovery of SCP-29019 unique properties when several researchers reported unease just hours into the study.</p>
+<h4>Incident 29019-Alpha-2</h4>
+<p>Further investigation uncovered that a small independent publishing house had been the epicenter of SCP-29019, with the first appearance documented in a novel titled "Here, but not here." The novel's author, ███████ █████ (SCP-29019-01), claimed no knowledge of the anomaly, and was found to be immune to the memetic effects.</p>
+<h3>Addendum 2: Experiment Log 29019</h3>
+<p>Multiple experiments have been attempted to understand SCP-29019's capabilities and develop potential countermeasures:</p>
+<h4>Experiment 29019-E1</h4>
+<p><strong>Procedure</strong>: Expose D-class personnel to a controlled environment with text affected by SCP-29019.
+<strong>Result</strong>: D-9811 began experiencing a heightened sense of unease after 17 minutes of exposure. On day 7, D-9811 refused to leave his containment cell, claiming "It's in the words."</p>
+<h4>Experiment 29019-E2</h4>
+<p><strong>Procedure</strong>: A digital document infected with SCP-29019 was introduced to a closed intranet to observe the anomaly's spread.
+<strong>Result</strong>: The phrase replicated across all digital files within 3 hours, leading to the intranet's decommissioning to prevent further contamination.</p>
+<h4>Experiment 29019-E3</h4>
+<p><strong>Procedure</strong>: SCP-29019-01 was reintroduced to the original manuscript of "Here, but not here," which had been quarantined in SIV-19.
+<strong>Result</strong>: SCP-29019-01 displayed no abnormal behavior, confirming immunity. When asked to transcribe the affected text, the transcription remained unaffected by the anomaly. SCP-29019-01's apparent immunity to SCP-29019 is under ongoing study.</p>
+<h3>Addendum 3: Researcher Notes</h3>
+<blockquote>
+<p>Since containment, we have made strides in understanding SCP-29019's effects but are nowhere near a permanent solution. Its ability to propagate through any textual medium presents a formidable challenge. Sigma-19's efficiency is encouraging, but not foolproof. SCP-29019-01's immunity offers a potential lead; however, reverse-engineering this resistance has been slow. Our priority remains the prevention of a Keter-class information breach that could point humanity towards an intellectual dark age. - Dr. ███████</p>
+</blockquote>
+
+    </div>
+    
