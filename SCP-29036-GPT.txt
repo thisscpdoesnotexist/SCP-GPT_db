@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29036 is  Goldstar Beer Contain Aggressive Skin  </h3> </center>
+
+    <h3>Item #: SCP-29036 - "Goldstar Aggression"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29036-GPT.png" alt="Illustration of SCP-29036" />
+        
+<h3>Description:</h3>
+<p>SCP-29036 refers to a case of three hundred (300) 330 ml bottles of a beer brand named "Goldstar", which has been found to contain an anomalous property that induces aggressive skin conditions in individuals upon physical contact. The liquid inside the bottles visually and olfactorily resembles standard Goldstar Beer, but it has been identified to possess a range of anomalous effects not present in non-anomalous versions.</p>
+<p>Upon skin contact, the affected area undergoes a rapid transformation, becoming highly sensitive and aggressive in nature. The skin takes on a reddened hue and develops a rough, abrasive texture. In some cases, small protuberances resembling hop cones have been observed to sprout from the affected area. The condition does not seem to spread beyond the initial contact site and does not have a systemic effect on the individual's health. Once contact is discontinued and the liquid is washed off, the condition progressively subsides over the course of approximately four to six hours.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29036 is to be stored in a secure containment locker in Site-77's anomalous beverages wing. Access to SCP-29036 is restricted to personnel with Level-2 clearance or higher and requires authorization from at least one Level-4 researcher specializing in biochemical anomalies.</p>
+<p>Personnel handling SCP-29036 must wear standard hazardous material handling gear to prevent skin contact. In the event of accidental exposure, affected personnel must immediately proceed to the site's decontamination showers and report to the medical bay for observation and treatment.</p>
+<p>No consumption or external application of SCP-29036's contents is allowed outside of approved testing protocols. All testing must take place in a controlled environment, and any waste generated must be treated with a neutralizing agent before disposal.</p>
+<h3>Addendum 1: Initial Discovery</h3>
+<h4>Addendum 1-A: Incident Report</h4>
+<p>SCP-29036 was discovered after an incident at a local pub in Haifa, Israel, where multiple patrons presented symptoms of the aforementioned aggressive skin condition after a promotional event for Goldstar Beer. The Foundation was alerted when local media began reporting an "epidemic of skin aggression." A team of field agents was dispatched to contain the situation, administer amnestics to witnesses, and retrieve any affected products.</p>
+<p>Subsequent investigation led to the brewery, although no evidence of deliberate tampering or other anomalous activities was found. The batch of Goldstar Beer corresponding to SCP-29036 has been traced and secured, with no other instances identified outside of containment.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Addendum 2-A: Experiment-29036-01</h4>
+<p><strong>Objective:</strong> To observe the effects of direct skin contact.
+<strong>Procedure:</strong> D-8432 was instructed to place their hand into a container filled with the contents of SCP-29036.
+<strong>Results:</strong> Within seconds of contact, D-8432's skin began to redden and develop a grainy texture. After two minutes, D-8432 reported a sense of hostility emanating from their hand, describing it as "trying to fight" the other hand. Abrasions consistent with minor scrapes were evident on the opposing hand. Upon washing off the substance, the skin's aggressive behavior ceased.</p>
+<h4>Addendum 2-B: Experiment-29036-05</h4>
+<p><strong>Objective:</strong> To determine if the condition has a psychological effect on subjects.
+<strong>Procedure:</strong> D-4561 was exposed to SCP-29036 while being monitored for psychological changes.
+<strong>Results:</strong> D-4561 experienced no changes in behavior or emotion, indicating the skin's aggressive response is purely physiological.</p>
+<h4>Addendum 2-C: Experiment-29036-09</h4>
+<p><strong>Objective:</strong> To assess the longevity of the substance when stored outside the original container.
+<strong>Procedure:</strong> Samples of SCP-29036 were poured into various non-anomalous containers and observed for changes.
+<strong>Results:</strong> SCP-29036 does not display degradation of anomalous properties when transferred to a different container. No deviations were observed in its effects regardless of the containment material used (glass, plastic, metal).</p>
+<h3>Addendum 3: Incident Log</h3>
+<h4>Addendum 3-A: Recovery Incident</h4>
+<p>During the transportation of SCP-29036 to Site-77, one bottle was accidentally dropped and shattered, resulting in the exposure and subsequent aggressive skin response of Agent H████. After decontamination, Agent H████ made a complete recovery, and procedures were updated to include additional safety measures during transport.</p>
+<h4>Addendum 3-B: Internal Memo</h4>
+<p>A memo was circulated, reminding staff that SCP-29036's containment handling gear is not standard kitchen gloves and that the appropriate hazmat gear must be used at all times to avoid incidents similar to Agent H████'s.</p>
+<h3>Addendum 4: Research Notes</h3>
+<h4>Addendum 4-A: Researcher's Commentary</h4>
+<p>Dr. K████ pointed out that SCP-29036 could provide valuable insight into the study of anomalous substance containment and neutralization. A deeper understanding of the chemical makeup could lead to developments in protective gear and containment fields for hazardous material handlers.</p>
+<h4>Addendum 4-B: Future Research Proposals</h4>
+<p>Further testing has been proposed to replicate and understand the process that instilled the anomalous properties in SCP-29036. Additionally, research into the psychological impact of observing the aggressive response of one's own skin could offer new perspectives in psychosomatic studies. These proposals are pending approval.</p>
+
+    </div>
+    
