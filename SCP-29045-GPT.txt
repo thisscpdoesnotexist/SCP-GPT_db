@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29045 is  Moeras : Wet Floor Coverings </h3> </center>
+
+    <h3>Item #: SCP-29045 - "Moeras: Wet Floor Coverings"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29045-GPT.png" alt="Illustration of SCP-29045" />
+        
+<h3>Description:</h3>
+<p>SCP-29045, colloquially referred to as "Moeras," consists of a series of anomalous floor coverings, including but not limited to: carpets, rugs, and mats. These coverings anomalously generate moisture on their surface, regardless of environmental conditions. The depth of the water produced by SCP-29045 ranges from a few millimeters to several centimeters.</p>
+<p>Upon stepping onto SCP-29045, individuals (hereafter referred to as SCP-29045-1) experience immediate disorientation and report feeling as though they are wading through a marsh or swamp, despite the apparent shallow water depth. Prolonged contact results in SCP-29045-1 being submerged into an alternate dimension (SCP-29045-A) resembling a vast wetland. Extraction from SCP-29045-A has only been successful in a limited number of cases.</p>
+<p>SCP-29045's anomalous properties do not activate when in contact with water-absorbent materials. However, saturation or heavy weight seems to trigger the transition to SCP-29045-A more quickly.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29045 instances are to be contained individually in watertight containment cells, with humidity levels strictly controlled and kept below 40%. The cells are to be monitored for any fluctuation in moisture levels. Items are to be placed on elevated platforms, with a 2-meter clearance from the ground to prevent accidental activation.</p>
+<p>Personnel entry is restricted to experimental purposes only and requires authorization from at least two Level 3 personnel. Entrants must wear water-absorbent suits and be connected to a winch system for retrieval purposes. An immediate extraction protocol is to be enacted if the subject begins the submersion process.</p>
+<p>In the event of accidental activation, the containment cell is to be drained, and the SCP-29045 instance is to be dried using industrial dehumidifiers until it can be safely handled and recontained.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<h4>Subsection A: Initial Discovery</h4>
+<p>SCP-29045 was initially recovered from a flea market in [REDACTED], Netherlands, after several missing person reports were linked to the purchase of antique floor coverings from an unknown vendor. Foundation agents were dispatched and recovered three instances after witnessing the disappearance of a D-Class personnel during testing.</p>
+<h4>Subsection B: Vendor Information</h4>
+<p>Efforts to locate the vendor have been unsuccessful. Witnesses describe the vendor as "having a water-like quality" to their appearance, significantly hindering identification efforts. Mobile Task Force Psi-8 ("The Silencers") continues to investigate.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Subsection A: Experiment 29045-E1</h4>
+<ul>
+<li><strong>Subject</strong>: D-Class Personnel, D-1983</li>
+<li><strong>Procedure</strong>: Subject instructed to stand on SCP-29045.</li>
+<li><strong>Results</strong>: Subject reported the sensation of wet feet immediately after contact. After 30 seconds, subject's legs became submerged up to the knees. Winch system activated, successfully retrieving D-1983. Subject reported visions of a vast wetlands landscape while in contact.</li>
+</ul>
+<h4>Subsection B: Experiment 29045-E2</h4>
+<ul>
+<li><strong>Subject</strong>: D-Class Personnel, D-2045</li>
+<li><strong>Procedure</strong>: Subject instructed to place pressure on SCP-29045 using inanimate weighted objects before standing on it.</li>
+<li><strong>Results</strong>: Submersion began almost instantaneously. Winch system failed under unexpected stress. D-2045 lost to SCP-29045-A.</li>
+</ul>
+<h4>Subsection C: Experiment 29045-E3</h4>
+<ul>
+<li><strong>Subject</strong>: D-Class Personnel, D-2091, equipped with water-absorbent suit.</li>
+<li><strong>Procedure</strong>: Subject instructed to walk across SCP-29045.</li>
+<li><strong>Results</strong>: Submersion delayed by approximately 4 minutes compared to previous tests. Subject successfully retrieved, reporting extensive sensory details of SCP-29045-A, including flora and fauna akin to Earth's Carboniferous period, but with notable differences.</li>
+</ul>
+<h3>Addendum 3: Incident Report 29045-1</h3>
+<p>On ██/██/20██, a containment breach occurred during cleaning procedures. Technician ████ inadvertently activated an SCP-29045 instance, resulting in partial submersion before containment protocols could be enacted. The incident highlighted a critical delay in the emergency drying system and has prompted the reevaluation of containment procedures. Technician ████ was retrieved after 3 hours within SCP-29045-A, undergoing psychological evaluation due to prolonged exposure.</p>
+<p>These events cement SCP-29045's status as a Euclid class object, and future research focuses on understanding the nature of SCP-29045-A and developing more reliable extraction methods.</p>
+
+    </div>
+    
