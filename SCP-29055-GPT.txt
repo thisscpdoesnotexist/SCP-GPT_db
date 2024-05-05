@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29055 is  Greg 'il Douchebags </h3> </center>
+
+    <h3>Item #: SCP-29055 - "Pandora's Soundstage"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29055-GPT.png" alt="Illustration of SCP-29055" />
+        
+<h3>Description:</h3>
+<p>SCP-29055 is an anomalous area of effect surrounding a dilapidated theater building, located in ████████, France, originally known as "Greg' il Théâtre." Preliminary investigations reveal that the theater, built in the 1800s, was a site for avant-garde performances but fell into disrepair in the mid-20th century. The theater's interior exhibits significant spatial and temporal anomalies.</p>
+<p>The core anomalous effect of SCP-29055 seems to be tied to audible frequencies produced within the theater space. These effects include but are not limited to:
+- Alteration of perception of time's flow for the individuals within.
+- Manifestation of historical or non-existent entities, particularly resembling actors and stage personnel from various eras.
+- Spontaneous generation of stage props and settings correlating with spoken or sung narrative content.
+- Reality shifting that aligns the interior to different historical periods of the theater's active use.</p>
+<p>Personnel within SCP-29055 have reported interactions with entities that demonstrate awareness of their non-corporeal nature and exhibit a wide range of emotions from benign curiosity to aggressive confrontation. </p>
+<h3>Special Containment Procedures:</h3>
+<p>A perimeter has been established 500 meters from SCP-29055's apparent area of influence. A no-entry zone has been enacted, with the cover story of structural instability and hazardous materials to discourage civilian intrusion. </p>
+<p>Foundation agents embedded within local law enforcement and historical preservation agencies are to monitor and intercept any attempts to approach or investigate the theater. Electronic surveillance methods are unreliable due to SCP-29055's anomalous properties; as such, periodic manned surveillance is necessary.</p>
+<p>Any unauthorized personnel found within the vicinity are to be administered Class-B amnestics and provided with cover memories consistent with the structural instability cover story.</p>
+<p>Approved research teams must include at least one member with a background in temporal anomalies and one member with theatrical production experience. Level 3/29055 clearance is required for entry, and all teams are to be equipped with noise-canceling equipment to mitigate SCP-29055's auditory-triggered effects. Teams should follow strict schedules with regular check-ins, and any deviation from the entry protocol will initiate immediate extraction procedures.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-29055 came to the attention of the Foundation after a series of missing person reports coincided with rumors of "haunted theater experiences" circulating in the area. Foundation agents conducted a covert investigation resulting in the classification and containment of SCP-29055.</p>
+<h3>Addendum 2: Retrieved Document</h3>
+<p>Among items retrieved during initial containment was a heavily damaged playbill believed to be from the theater's final performance before its abandonment. The playbill refers to a production titled "Pandora's Soundstage," with no further details provided. Further research into local archives for the existence of such production has yielded no information.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment Log 29055-01</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Research Team:</strong> Dr. Marceau, Agent Dubois, Research Assistant Lefevre
+<strong>Objective:</strong> Determine the extent of spatial anomalies within SCP-29055.
+<strong>Summary:</strong> The team entered wearing noise-canceling gear and conducted measurements comparing the theater's internal dimensions to its blueprints. Results showed a consistent disparity, with the interior measuring approximately 15% larger than possible according to exterior dimensions. The effect persisted despite auditory protection, suggesting a permanent alteration of space.</p>
+<h4>Experiment Log 29055-04</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Research Team:</strong> Dr. Marceau, Agent Dubois, Research Assistant Lefevre
+<strong>Objective:</strong> Investigate the theater's temporal distortions and entity interactions.
+<strong>Summary:</strong> Agent Dubois was instructed to recite a modern monologue. Upon commencement, the team experienced a shift in lighting and ambiance correlating to a contemporary stage setup. An entity resembling a director from the 21st century appeared and began offering critique to Dubois. The interaction was benign and ceased when recitation stopped.</p>
+<h4>Experiment Log 29055-07</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Research Team:</strong> Dr. Marceau, Agent Dubois
+<strong>Objective:</strong> Engage with the manifestation process by introducing narrative elements.
+<strong>Summary:</strong> Dr. Marceau sung a piece from an opera known to have been performed at the theater in the 19th century. During the performance, the stage transformed to match the opera's setting, and entities dressed in period costume joined the singing. A full orchestral ensemble manifested and accompanied the piece. The phenomena abruptly ended when Dr. Marceau discontinued singing, and all entities and props vanished without a trace.</p>
+<h3>Addendum 4: Incident Report 29055-Alpha</h3>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Details:</strong> An unplanned experiment occurred when Research Assistant Lefevre, while outside of the established safety protocols, hummed a tune reportedly from "Pandora's Soundstage" playbill. This action triggered a significant anomaly resulting in the extended disappearance of Assistant Lefevre. A retrieval operation was mounted, and Lefevre was found in a disoriented state 72 hours later in an adjacent street with no memory of the elapsed time. Henceforth, all team members are to remain silent unless expressly participating in controlled experiments.</p>
+
+    </div>
+    
