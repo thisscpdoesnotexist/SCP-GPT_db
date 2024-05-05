@@ -1,0 +1,66 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29057 is  Trippy Pint </h3> </center>
+
+    <h3>Item #: SCP-29057 - "Elixir of Infinite Vistas"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29057-GPT.png" alt="Illustration of SCP-29057" />
+        
+<h3>Description:</h3>
+<p>SCP-29057 is a single pint-sized glass bottle containing a ceaselessly changing fluid. The liquid exhibits a mesmerizing display of colors and patterns, continuously shifting without any external influence. Spectrographic analysis of SCP-29057's contents has proven inconclusive, as the compound's composition changes rapidly, impeding a consistent reading.</p>
+<p>The anomalous effects of SCP-29057 become evident upon ingestion of even a minuscule quantity of the fluid. Human subjects report experiencing profound alterations in perception, including but not limited to: visual and auditory hallucinations, a heightened sense of understanding of abstract concepts, a temporary breakdown of the perception of time, and an overwhelming sensation of interconnectedness with the universe. Notably, these effects can persist for varying durations but tend to subside completely within 24 hours. There have been no recorded instances of permanent physical or psychological harm resulting from SCP-29057 consumption.</p>
+<p>SCP-29057 came to the Foundation's attention after a series of unusual emergency room admissions in [REDACTED], where individuals displayed symptoms of extreme intoxication without evidence of alcohol or known drugs in their systems. Foundation agents embedded in local hospitals quickly traced the source back to a small pub named "The Infinite Tap," which has since been shut down and expunged from public records.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29057 is to be stored in a standard secure locker at Site-66. Access to SCP-29057 is restricted to Level 2 personnel and higher for testing purposes only. Given the innocuous nature of SCP-29057's effects and the absence of compulsion to ingest the substance among unexposed humans, containment focuses primarily on preventing unauthorized consumption.</p>
+<p>To preclude accidental ingestion, SCP-29057 is to be capped with a tamper-evident seal. Any experimentation involving SCP-29057 must be approved by two (2) Level 3 researchers and supervised by security personnel trained in handling cognitohazardous materials.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 29057-E-01</h4>
+<ul>
+<li><strong>Subject:</strong> D-4382</li>
+<li><strong>Procedure:</strong> D-4382 instructed to ingest 5ml of SCP-29057</li>
+<li><strong>Result:</strong> Subject reported seeing "geometric patterns folding into themselves" and "unfamiliar constellations that whispered secrets." Effects lasted approximately 6 hours.</li>
+<li><strong>Notes:</strong> Subject's psychological evaluation post-exposure showed no lasting harm.</li>
+</ul>
+<h4>Experiment 29057-E-02</h4>
+<ul>
+<li><strong>Subject:</strong> D-5591</li>
+<li><strong>Procedure:</strong> D-5591 instructed to ingest 10ml of SCP-29057</li>
+<li><strong>Result:</strong> Subject experienced a deep emotional response to perceived cosmic visions. Subject remained in a state of quiet contemplation until effects subsided after 12 hours.</li>
+<li><strong>Notes:</strong> Subject later requested materials on astrophysics. Request granted as a reward for ongoing cooperation.</li>
+</ul>
+<h4>Experiment 29057-E-03</h4>
+<ul>
+<li><strong>Subject:</strong> D-6733</li>
+<li><strong>Procedure:</strong> Subject was not informed about the nature of SCP-29057 and was instructed to ingest 5ml.</li>
+<li><strong>Result:</strong> Subject initially panicked due to unexpected sensory alterations. Subject calmed down after reassurance from supervising researchers. Subject reported a profound "sense of oneness with all living things" that lasted for 8 hours.</li>
+<li><strong>Notes:</strong> Subject displayed a notable shift in cooperative behavior post-exposure which persists to date.</li>
+</ul>
+<h3>Addendum 2: Recovery Log</h3>
+<p>SCP-29057 was recovered after an undercover operation in the aforementioned "The Infinite Tap" pub, where Foundation agents posed as patrons. Through covert interviews, it was learned that the pub's owner had found SCP-29057 during a hiking trip in the [REDACTED] forest. The owner, unaware of its anomalous properties, had been serving measured doses as a "house special" for the past several months. Class-A amnestics were administered to the owner and all known patrons who had been exposed to SCP-29057.</p>
+<h3>Addendum 3: Interview Logs</h3>
+<h4>Interview Log 29057-I-04</h4>
+<ul>
+<li><strong>Interviewer:</strong> Dr. Jonas</li>
+<li><strong>Interviewee:</strong> D-4382 (Post-Exposure to SCP-29057)</li>
+<li><strong>Excerpt:</strong></li>
+</ul>
+<p>Dr. Jonas: "Can you describe what you experienced during your exposure?"</p>
+<p>D-4382: "It was like...seeing the blueprint of reality, doc. Everything's connected, you know? It's all just patterns. Felt like I understood it all for a hot minute."</p>
+<p>Dr. Jonas: "Has this experience changed your perspective in any way?"</p>
+<p>D-4382: "I guess I'm less angry. I mean...if we're all just walking patterns, what's there to be mad about?"</p>
+<h4>Interview Log 29057-I-07</h4>
+<ul>
+<li><strong>Interviewer:</strong> Dr. Khatri</li>
+<li><strong>Interviewee:</strong> D-5591 (One week post-exposure)</li>
+<li><strong>Excerpt:</strong></li>
+</ul>
+<p>Dr. Khatri: "You've shown an interest in astronomy since your exposure to SCP-29057. Can you tell me why?"</p>
+<p>D-5591: "There's something out there, doc. During the trip, I felt it. Something big and...warm, like a cosmic hug. I wanna find it again."</p>
+<p>Dr. Khatri: "You're aware that the effects you experienced were induced by SCP-29057?"</p>
+<p>D-5591: "Sure, sure. But that doesn't mean it ain't real."</p>
+<h3>Addendum 4: Further Containment Considerations</h3>
+<p>While SCP-29057 remains classified as safe, there is an ongoing discussion regarding potential reclassification to Thaumiel due to its potential use in aiding in the understanding of other SCP objects with cosmic or higher-dimensional significance. Pending further tests and ethical reviews, auxiliary containment measures are being considered to leverage SCP-29057's unique properties for the benefit of the SCP Foundation's research initiatives.</p>
+
+    </div>
+    
