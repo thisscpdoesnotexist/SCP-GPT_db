@@ -1,0 +1,58 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29056 is  The Self-Alarm </h3> </center>
+
+    <h3>Item #: SCP-29056 - The Self-Alarm</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29056-GPT.png" alt="Illustration of SCP-29056" />
+        
+<h3>Description:</h3>
+<p>SCP-29056 is a vintage brass alarm clock, circa 1940s, with unique temporal properties. The clock is observed to exhibit an anomalous behavior whereby it will set off its alarm function at times corresponding to significant events occurring within a 10-meter radius, despite having no apparent connection to any external devices or sources of information. These events range from trivial, such as a glass of water tipping over, to life-threatening situations.</p>
+<p>The alarm mechanism of SCP-29056 differs from standard alarm clocks in that it cannot be manually set or disabled by conventional means. Attempts to open the clock or to deactivate its mechanics have failed, with the components reassembling instantaneously. When SCP-29056's alarm sounds, temporal distortions have been detected, indicating a linkage between its activation and spacetime anomalies.</p>
+<p>A direct causal relationship between the SCP-29056's alarm function and the occurrence of the events has been disproved since the events proceed regardless of human awareness of the alarm.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29056 is to be contained in a standard secure locker at Site-17. Due to its benign nature, no further active containment measures are required. Only personnel with Level 2 security clearance and above are allowed access to SCP-29056 for testing purposes, and such access must be approved by the Site Director.</p>
+<p>As part of ongoing research, SCP-29056 is to be monitored via closed-circuit camera around the clock to document any spontaneous activations of its alarm. In case an alarm does sound, immediate investigation is to be conducted to identify any unusual events within its area of effect.</p>
+<p>Following Experiment Log 29056-19, tests that could produce life-threatening situations are forbidden unless specifically approved on a case-by-case basis by the Ethics Committee.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-29056 was discovered in an antique store in ████, England, by Foundation operative Dr. ████. The store owner reported incidents of the alarm going off seconds before accidents or incidents in the vicinity. The object was bought by the operative following these reports and brought in for testing.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment Log 29056-07</h4>
+<p><strong>Objective:</strong> Test the range of SCP-29056's predictive capabilities.
+<strong>Procedure:</strong> A series of 10 tests involving a researcher accidentally dropping a pen from a desk, at increasing distances from SCP-29056.
+<strong>Results:</strong> SCP-29056's alarm activated 3 seconds prior to the pen dropping for each test within the 10-meter radius. Beyond this range, no activity from SCP-29056 was observed.
+<strong>Notes:</strong> Confirms the effective radius of SCP-29056's anomalous property.</p>
+<h4>Experiment Log 29056-12</h4>
+<p><strong>Objective:</strong> Determine if SCP-29056 can predict complex sequences.
+<strong>Procedure:</strong> A Rube Goldberg machine was set up to activate within SCP-29056's effective radius.
+<strong>Results:</strong> SCP-29056's alarm sounded 3 seconds before the machine activated. However, the alarm persisted for the entire duration of the machine's operation, ceasing only when a marble failed to complete the course.
+<strong>Notes:</strong> SCP-29056 may be sensitive to the expected outcomes of events within its radius.</p>
+<h4>Experiment Log 29056-19</h4>
+<p><strong>Objective:</strong> Investigate the potential of SCP-29056 to predict life-threatening events.
+<strong>Procedure:</strong> D-Class personnel were instructed to stage a fake armed assault outside of SCP-29056's containment unit.
+<strong>Results:</strong> SCP-29056's alarm activated 15 seconds before the staged event, a significantly prolonged lead time compared to earlier tests involving non-life-threatening events. Foundation security was alerted and responded reflexively before the test was revealed to be non-hostile.
+<strong>Notes:</strong> The alarm's early activation and duration appear to scale with the perceived severity of the impending event. Further testing of this nature is suspended pending ethics review.</p>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interview Log 29056-A</h4>
+<p><strong>Interviewed:</strong> Dr. ████
+<strong>Interviewer:</strong> Senior Researcher ████
+<em>An excerpt from the interview is provided below:</em></p>
+<p><strong>Senior Researcher ████:</strong> Can you explain the significance of your findings regarding SCP-29056's predictive alarms?
+<strong>Dr. ████:</strong> Certainly. SCP-29056 seems to "know" when events are about to transpire within its operational radius. It's uncanny in that even random, seemingly unpredictable events trigger the alarm.
+<strong>Senior Researcher ████:</strong> Have we reached any conclusions on how it may be operating?
+<strong>Dr. ████:</strong> We're still theorizing. It's possible SCP-29056 perceives or predicts disruptions in a local field we can't yet measure, or it's reacting to a microscopic pre-event reality disturbance. The exact mechanism is still unknown.
+<strong>Senior Researcher ████:</strong> Noted. Thank you, Dr. ████.</p>
+<p><em>The remainder of the interview deals primarily with potential applications and ethical considerations regarding further testing.</em></p>
+<h3>Addendum 4: Incident Report</h3>
+<h4>Incident 29056-01</h4>
+<p><strong>Date:</strong> ██/██/20██
+<strong>Incident:</strong> Unplanned activation of SCP-29056's alarm occurred without any prompted events. An investigation revealed a gas leak in a neighboring containment chamber which, if left unchecked, would have likely resulted in a catastrophic explosion.
+<strong>Action Taken:</strong> Gas leak secured and further security measures implemented. Monitoring of SCP-29056 to include potential large-scale threats.</p>
+<h3>Addendum 5: Researcher's Note</h3>
+<p>After extensive testing and the incident involving the gas leak, SCP-29056 has consistently demonstrated its value in preemptive threat detection. Approval for SCP-29056’s operational use within critical areas of the site to serve as an additional security measure has been proposed. Pending administrative approval.</p>
+<hr />
+<p><em>SCP-29056, while classified as Safe, continues to surprise the research team with its consistent and reliable enigmatic behavior. The object's seemingly benign nature belies a complexity that the Foundation is only beginning to comprehend.</em></p>
+
+    </div>
+    
