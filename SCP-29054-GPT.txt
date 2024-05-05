@@ -1,0 +1,44 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29054 is  Gallivanting </h3> </center>
+
+    <h3>Item #: SCP-29054 - "The Gallivanting Gallery"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29054-GPT.png" alt="Illustration of SCP-29054" />
+        
+<h3>Description:</h3>
+<p>SCP-29054 is a roving, extradimensional art gallery accessible through various doorways that manifest in art institutions around the world. The location, appearance, and exhibited artworks within SCP-29054 are mutable. Entry and exit points have been identified in museums, small galleries, and private collections, always appearing as a door where none previously existed.</p>
+<p>SCP-29054's most distinguishing interior characteristic is its seemingly infinite series of interconnected rooms, each varying in architectural style and décor. These rooms host pieces of art that range from well-known masterpieces to obscure works, often versions that diverge from their known counterparts in unsettling ways. These alterations seem to reflect events or scenarios related to the originating universe of SCP-29054. The artworks exhibit a reality-warping effect, and prolonged exposure has proven to have psychological effects on subjects, including confusion, memory alteration, and hallucination.</p>
+<p>The custodian of SCP-29054, referenced in retrieved documents as The Curator (SCP-29054-1), has been observed, but never directly interacted with. SCP-29054-1 appears to possess omniscience within SCP-29054's bounds and may be responsible for changing the venue's layout and displacing individuals within it.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29054's shifting nature renders permanent physical containment infeasible. Mobile Task Force Mu-4 ("Phantom Curators") is tasked with establishing surveillance across major art institutions to intercept and delay public access to emerging manifestations of SCP-29054.</p>
+<p>Once a manifestation has been discovered, MTF Mu-4 is responsible for sealing off the area and performing standardized "Gallery Closure" procedures, involving disinformation campaigns and controlled demolitions when necessary to prevent public entry.</p>
+<p>No personnel are to enter SCP-29054 without Level 4 authorization and an escort team. Teams entering SCP-29054 are equipped with additional cognitive shielding equipment to counter potential anomalous psychological effects and devices to maintain a reliable extrication path. Individuals exiting SCP-29054 must undergo a full psychological evaluation and amnestic treatment if exposure exceeds 15 minutes.</p>
+<h3>Addendum 1: Exploration Logs</h3>
+<h4>Addendum 1.1: Initial Discovery</h4>
+<p>SCP-29054 was first discovered in ████, at the ████████ Museum of Art, when an unauthorized door led a museum guard into the entity. After 48 hours, the guard emerged, speaking incoherently about "paintings that knew him." Foundation agents intervened, and subsequent exploration was authorized.</p>
+<h4>Addendum 1.2: Recorded Communication Attempts</h4>
+<p>Communication with SCP-29054-1 through written notes left within the space and direct address has been attempted. SCP-29054-1 has not responded verbally or in writing but has altered paintings to depict messages or scenes presumably in response to these attempts.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 29054-E01</h4>
+<p><strong>Objective:</strong> To map the layout of SCP-29054 galleries.
+<strong>Detail:</strong> Two D-Class personnel equipped with GPS trackers and video feeds were sent into SCP-29054. Layout proved non-Euclidean, and tracking equipment failed within 10 minutes.
+<strong>Result:</strong> Subjects lost for 72 hours before exiting, reporting they were "guided out" by unseen forces when they began to physically harm the artworks.</p>
+<h4>Experiment 29054-E05</h4>
+<p><strong>Objective:</strong> Determine if SCP-29054 exhibits control over artwork selection.
+<strong>Detail:</strong> D-Class personnel introduced to SCP-29054 carrying a provocative contemporary painting to incite reaction.
+<strong>Result:</strong> SCP-29054's art shifted to medieval depictions of heresy trials. The painting introduced by the D-Class was later found altered, showing the subject in a heresy trial similar to those depicted in the altered works. D-Class experienced vivid flashbacks of a past they claimed were not their own.</p>
+<h4>Experiment 29054-E12</h4>
+<p><strong>Objective:</strong> Assess SCP-29054-1's omniscience regarding the entity's internal conditions.
+<strong>Detail:</strong> D-Class ordered to deface a painting discreetly chosen beforehand. SCP-29054-1's reaction was monitored.
+<strong>Result:</strong> Before the action could be taken, the D-Class personnel were displaced to a room filled with portraits that increasingly became detailed portrayals of the personnel, showing them aging rapidly. Presumed to be a deterrent display of power; no physical harm to the individual recorded.</p>
+<h3>Addendum 3: Incident Reports</h3>
+<h4>Addendum 3.1: Incident 29054-A</h4>
+<p>During a routine exploration, an entire MTF team went missing. 28 days later, they re-emerged individually from different art institutions across the globe. Each member had drastically different accounts of the time lost, with psychological evaluations suggesting significant memory alteration or fabrication.</p>
+<h4>Addendum 3.2: Incident 29054-B</h4>
+<p>SCP-29054's exit point emerged within the private residence of ██████████, a known art collector with anomalous item associations. A significant breach of secrecy occurred, requiring extensive amnestic distribution and a cover-up story involving a gas leak causing mass hallucination.</p>
+<p>Further investigation and monitoring of SCP-29054's behavior and manifestation predictability continue to be primary objectives to avoid future incidents and to explore the potentialities of SCP-29054's origins, purpose, and capabilities for containment and utility.</p>
+
+    </div>
+    
