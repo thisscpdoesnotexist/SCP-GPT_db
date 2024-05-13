@@ -1,0 +1,39 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29250 is  A Infinite Book </h3> </center>
+
+    <h3>Item #: SCP-29250 - "The Neverending Story"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29250-GPT.png" alt="Illustration of SCP-29250" />
+        
+<h3>Description:</h3>
+<p>SCP-29250 appears to be an ordinary leather-bound book, titled "Aeternum Tales". The book's cover is embellished with intricate golden patterns and shows no sign of wear or damage. SCP-29250's anomalous properties manifest when an individual begins reading it; the story within SCP-29250 has no discernible end and continues to generate content ad infinitum. </p>
+<p>Tests have determined that the narrative within SCP-29250 is not random but instead adapts to the reader's subconscious interests, fears, and desires, effectively crafting a bespoke story that is both engrossing and highly personalized. The text itself is in the reader's native language, and shifts seamlessly should the book be passed to another individual of a different linguistic background.</p>
+<p>As of the current understanding, the book contains no memetic hazards or cognitohazards and can be read without inducing psychological harm, although prolonged exposure can lead to obsession with the narrative due to its highly engaging nature.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29250 is to be contained in a locked safe-deposit box at Site-██. Access is restricted to Level 2 personnel and above, and must be approved by two Level 4 researchers. SCP-29250 may be temporarily removed for approved testing or study, but it must be returned to its safe-deposit box no later than 72 hours after removal.</p>
+<p>Personnel who conduct extended reading sessions with SCP-29250 are to be monitored for obsessive behavior and are subject to mandatory psychological evaluation if they interact with the object for more than six consecutive hours. After any interaction with SCP-29250, a minimum two-week cooling-off period is required before personnel may interact with the object again.</p>
+<p>Due to the Safe classification and the lack of immediate danger from SCP-29250, it may be used in low-risk cross-testing with other SCPs upon approval from the Ethics Committee and O5 Council.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-29250 was discovered in a small, privately owned bookshop in ████████, England, after reports of a customer who had been reading the same book for multiple days without pause stirred local media interest. The bookshop owner claimed to have no knowledge of where the book had come from, stating it appeared on a shelf one morning. Foundation agents embedded in local law enforcement secured the item and administered Class-B amnestics to the involved civilians.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 29250-E-01</h4>
+<p><strong>Subject:</strong> D-83921, a 34-year-old male with a high school education.
+<strong>Procedure:</strong> Subject instructed to read SCP-29250 for one hour.
+<strong>Results:</strong> Subject reported a continuously evolving narrative that centred around a treasure hunt. After the test, the subject expressed a strong desire to continue reading, which faded after a 24-hour period.</p>
+<h4>Experiment 29250-E-02</h4>
+<p><strong>Subject:</strong> Researcher ████ who specializes in literature.
+<strong>Procedure:</strong> Subject read SCP-29250 for two hours.
+<strong>Results:</strong> The researcher described an elaborate epic that covered multiple generations of a family. The themes reflected some of the researcher's known areas of academic interest. Upon conclusion, the researcher proposed longer examination periods to understand the scope of SCP-29250's narrative generation.</p>
+<h4>Experiment 29250-E-03</h4>
+<p><strong>Subject:</strong> D-57293, a 28-year-old female with known psychological vulnerabilities.
+<strong>Procedure:</strong> Subject monitored during a four-hour reading session.
+<strong>Results:</strong> The subject's version of the narrative dealt with overcoming personal fears and achieving mental well-being. No adverse psychological effects were noted, indicating SCP-29250 may have potential therapeutic applications, warranting further study.</p>
+<h3>Addendum 3: Incident Report 29250-I-01</h3>
+<p>Two months after initial containment, SCP-29250 disappeared from its safe-deposit box. It was later discovered in the possession of Junior Researcher Lewis, who had become obsessed with the SCP. Lewis was found in his quarters, malnourished and sleep-deprived, insisting that he was "close to the ending". After recovering SCP-29250 and administering medical care to Lewis, enhanced security measures were implemented to prevent further incidents.</p>
+<h3>Addendum 4: Further Research and Cross-Testing Avenues</h3>
+<p>Following Incident 29250-I-01, suggestions have been made to employ SCP-29250's effects for the psychological assessment and treatment of personnel recovering from exposure to more hazardous SCPs. There are also proposals to cross-test SCP-29250's infinite narrative generation with AI-driven SCPs, to explore the limits and mechanisms of its content creation.</p>
+
+    </div>
+    
