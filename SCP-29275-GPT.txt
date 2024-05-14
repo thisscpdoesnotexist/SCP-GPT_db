@@ -1,0 +1,54 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29275 is  Then we can live under the sun By mechanical In Underground Site 8900 Level 4/5 </h3> </center>
+
+    <h3>Item #: SCP-29275 - "Then We Will Live in the Light"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29275-GPT.png" alt="Illustration of SCP-29275" />
+        
+<h3>Description:</h3>
+<p>SCP-29275 is a complex mechanical structure located approximately 500 meters below ground within the confines of what was once an abandoned limestone mine. The structure, discovered in 1987, exhibits both anomalous and non-anomalous properties. It is largely composed of a series of interlocking gears, levers, and hydraulic systems, with the core mechanism surrounded by a spherical lattice of an unknown metal alloy, exhibiting low-level radiation and a constant temperature of 37°C.</p>
+<p>The anomalous properties of SCP-29275 manifest when any living organism enters a 10-meter radius of its core. Such organisms immediately enter a state of suspended animation, their biological processes ceasing completely without resulting in death. Despite this, affected organisms appear conscious and report experiencing a dreamlike state described as "living under the sun."</p>
+<p>Further investigation has revealed that the structure extends deep into the Earth's crust, and may possibly be self-replicating. Its true purpose remains unknown.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29275 is contained within a sealed spherical chamber constructed of reinforced concrete lined with lead and a secondary layer of an SCP-148 (Telekill Alloy) lattice to prevent any potential memetic spread or psychic influence. The chamber is kept under constant surveillance by remote-operated drones, specifically designed to be non-organic to prevent activation of SCP-29275's anomalous effects.</p>
+<p>Due to the risk of mass anomalous activation and the difficulty in extracting individuals from SCP-29275's area of effect, no living organisms are permitted within a 50-meter radius of the containment chamber without special authorization from at least two Level 4 personnel. All personnel working in or near SCP-29275's chamber must undergo rigorous psychological evaluation before and after exposure to the anomaly.</p>
+<p>In the event of a containment breach, Site-8900 is to initiate lockdown procedures and activate a site-wide Scranton Reality Anchor to mitigate any anomalous spread until recontainment is achieved.</p>
+<h3>Addendum 1: Discovery</h3>
+<h4>Addendum 1a: Initial Report</h4>
+<p>SCP-29275 was discovered when local seismic activity prompted a Foundation geology team to inspect the mine for potential anomalous objects. During the inspection, three team members inadvertently entered SCP-29275's radius of influence and were immediately affected by its properties.</p>
+<h4>Addendum 1b: Recovery and Containment</h4>
+<p>A specialized retrieval team equipped with remote-operated machines successfully extracted the affected individuals, who resumed normal biological function once removed from SCP-29275's influence. Following this incident, a containment chamber was constructed, and SCP-29275 was classified as Keter.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 29275-E01</h4>
+<p><strong>Date:</strong> ██-██-1990<br />
+<strong>Lead Researcher:</strong> Dr. ██████<br />
+<strong>Subjects:</strong> D-11235 (male, 34 years old)<br />
+<strong>Procedure:</strong> Subject is instructed to approach SCP-29275 while wearing a bio-monitoring suit.<br />
+<strong>Results:</strong> Subject enters suspended animation upon crossing 10-meter threshold. Vital signs flatline; however, EEG readings indicate continued brain activity. After 5 hours, the subject is retrieved, exhibiting disorientation but no long-term physical effects.</p>
+<h4>Experiment 29275-E05</h4>
+<p><strong>Date:</strong> ██-██-1992<br />
+<strong>Lead Researcher:</strong> Dr. ██████<br />
+<strong>Subjects:</strong> D-9871 (female, 29 years old)<br />
+<strong>Procedure:</strong> Subject is instructed to touch the core lattice structure with a robotic arm.<br />
+<strong>Results:</strong> Subject reports a sharp increase in radiation levels before the equipment fails and ceases to transmit data. Subject enters suspended animation, but EEG readings show a markedly different pattern, with bursts of high-frequency waves. Subject is retrieved after 6 hours, reporting vivid experiences of "existence beyond physical boundaries."</p>
+<h4>Experiment 29275-E17</h4>
+<p><strong>Date:</strong> ██-██-2003<br />
+<strong>Lead Researcher:</strong> Dr. ████████<br />
+<strong>Subjects:</strong> D-44102 (male, 41 years old)<br />
+<strong>Procedure:</strong> Subject is instructed to carry an organic compound (a piece of fruit) within the radius.<br />
+<strong>Results:</strong> The organic compound exhibits the same suspended animation effect. D-44102 also affected but recovers without lasting harm after retrieval. The compound remains unchanged for over 48 hours before rapidly decomposing once outside the radius.</p>
+<h3>Addendum 3: Incident Log</h3>
+<h4>Incident 29275-A01</h4>
+<p>On ██-██-2009, an unexpected power surge within Site-8900 resulted in a temporary lowering of the containment field around SCP-29275. Though no personnel were affected, anomalous electromagnetic pulses were detected globally, correlating with the power surge event.</p>
+<p>Following this incident, additional backup generators and Scranton Reality Anchors were installed at Site-8900 to prevent future containment breaches.</p>
+<h3>Addendum 4: Theoretical Research and Observations</h3>
+<h4>Addendum 4a: Hypothesis</h4>
+<p>Dr. ████████ theorizes that SCP-29275 may be an artifact of extraterrestrial origin, potentially a device for preservation or hibernation, explaining the dreamlike states reported by subjects. Another theory posits that SCP-29275 is a gateway or a beacon, possibly linked to an unidentified cosmic event or civilization.</p>
+<h4>Addendum 4b: Observations</h4>
+<p>Multiple reports from subjects having experienced SCP-29275's effect suggest patterns in their shared 'dreams.' Many describe landscapes bathed in sunlight, profound feelings of peace, and an overwhelming sense that they are "on the verge of understanding everything." The significance of these experiences is under continuing investigation.</p>
+<p>Despite these theories, SCP-29275's origin, purpose, and full capabilities remain the subject of intense scrutiny and debate within the SCP Foundation. The universal directive is that SCP-29275 is to be closely monitored, its containment procedures updated with any new findings, to prevent any possible threat to global security.</p>
+
+    </div>
+    
