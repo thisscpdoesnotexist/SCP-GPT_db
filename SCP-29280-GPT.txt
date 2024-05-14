@@ -1,0 +1,65 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29280 is  Tunnel Basement To Live On Sky In Site 53 Underground  </h3> </center>
+
+    <h3>Item #: SCP-29280 - "Tunnel Basement To Live On Sky"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29280-GPT.png" alt="Illustration of SCP-29280" />
+        
+<h3>Description:</h3>
+<p>SCP-29280 refers to a spatial anomaly located underneath Site 53, manifesting as an underground basement that paradoxically contains an entire sky within. The "sky", named SCP-29280-A, exhibits diurnal patterns, weather phenomena, and celestial objects consistent with the outside world but does not correlate to the current weather or sky above Site 53, suggesting SCP-29280-A operates independently.</p>
+<p>One of the most distinct features of SCP-29280-A is the presence of entities, designated SCP-29280-B, that appear as silhouetted humanoids capable of 'flying' within SCP-29280-A. SCP-29280-B entities do not respond to any known forms of communication and occasionally perform aerial displays that seem ritualistic. Their intentions and nature remain unknown, and their resistance to various containment strategies has led to SCP-29280's classification as Keter.</p>
+<p>Studies show that prolonged exposure to SCP-29280 can result in acute agoraphobia, existential nausea, and in extreme cases, spontaneous disappearance, with subjects reappearing within SCP-29280-A, assimilated as SCP-29280-B instances.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29280 is contained through a three-tier approach:</p>
+<ol>
+<li>
+<p>Physical containment: Site 53's affected section has been sealed with reinforced steel and a Faraday cage to prevent electromagnetic anomalies. The entrance is protected by a series of airlocks.</p>
+</li>
+<li>
+<p>Information suppression: Any records or witness accounts of SCP-29280 are subject to standard amnestic treatment and disinformation campaigns to prevent public knowledge of the anomaly.</p>
+</li>
+<li>
+<p>Research and surveillance: A dedicated research team, working remotely with drones and telesensory equipment, monitors SCP-29280. Human entry is strictly forbidden without prior O5 Council approval. An emergency detachment of Mobile Task Force Mu-13 ("Ghostbusters") is on permanent standby to engage if SCP-29280-B entities breach containment.</p>
+</li>
+</ol>
+<h3>Addendum 1: Discovery Log</h3>
+<p><strong>Addendum 1-A: Discovery</strong></p>
+<p>SCP-29280 was first discovered during Site 53's routine expansion excavation. A standard dig team uncovered what seemed to be a basement structure, with no architectural records or surface buildings to explain its existence. When Site 53 personnel entered the basement for the first time, they encountered SCP-29280-A and its subsequent effects.</p>
+<p><strong>Addendum 1-B: Initial Encounter Log</strong></p>
+<p>The first research team reported a startling drop in outside noise, replaced by the gentle ambiance of birds and wind. When the team looked up, expecting a ceiling, they instead found SCP-29280-A. The event triggered immediate psychological distress amongst the team members, with two requiring psychiatric care for severe agoraphobia. The basement was immediately sealed, and anomalous status was confirmed.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Addendum 2-A: Experiment Log Introduction</strong></p>
+<p>A series of experiments have been initiated to understand SCP-29280 and its properties, aiming to develop effective containment measures against SCP-29280-B and to safely analyze SCP-29280-A's behavior and effects on personnel. All experiment entries detail methods, researcher notes, and results.</p>
+<p><strong>Experiment SCP-29280-E1</strong></p>
+<ul>
+<li><strong>Objective:</strong> Test the interaction with SCP-29280-A through remote drone surveillance.</li>
+<li><strong>Materials Used:</strong> Surveillance drone with attached high-definition cameras and communication relay.</li>
+<li><strong>Results:</strong> SCP-29280-A seemingly absorbed the drone upon entry. Video feed showed the drone ascending 'into the sky' before the signal was lost. Drone's remains were later found included in aerial formations with SCP-29280-B entities.</li>
+</ul>
+<p><strong>Experiment SCP-29280-E2</strong></p>
+<ul>
+<li><strong>Objective:</strong> Determine if SCP-29280-A follows a pattern similar to the natural world regarding weather and celestial cycles.</li>
+<li><strong>Materials Used:</strong> High-precision telescopes with video capture capabilities, meteorological sensors.</li>
+<li><strong>Results:</strong> SCP-29280-A showed weather patterns unaligned with the surface, including rainfall during clear days and nights with varied lunar phases. The SCP-29280-A sun cycles independently, with days sometimes lasting mere hours or extending beyond 24-hour periods.</li>
+</ul>
+<p><strong>Experiment SCP-29280-E3</strong></p>
+<ul>
+<li><strong>Objective:</strong> Attempt to communicate with SCP-29280-B entities.</li>
+<li><strong>Materials Used:</strong> High-frequency audio transmitters, linguistic experts, drones displaying various symbols.</li>
+<li><strong>Results:</strong> SCP-29280-B seemed inexplicably drawn to music but showed no significant responses to linguistic attempts or symbolisms. Further attempts require O5 Council evaluation due to potential security risks.</li>
+</ul>
+<p><strong>Addendum 2-B: Experiment Logs Continued</strong></p>
+<p>The experiment logs displayed here represent only a fraction of the ongoing efforts to understand SCP-29280. Full reports, additional experiments, and real-time data are available for Level 4/29280 clearance personnel or above. It is imperative to maintain vigilance as SCP-29280-B entities demonstrate unpredictable behavior that could threaten Site 53's security integrity.</p>
+<h3>Addendum 3: Incident Reports</h3>
+<p><strong>Addendum 3-A: Incident SCP-29280-I1</strong></p>
+<p>On ██-██-20██, a containment breach resulted in a temporary atmospheric condition above Site 53 resembling SCP-29280-A's weather patterns. Counter-anomalous measures were enacted, and the "false sky" was dispersed within six hours. An audit of Site 53's procedures and defense mechanisms was ordered, and enhancements to containment were implemented.</p>
+<h3>Addendum 4: Psychological Impact and Safety Protocols</h3>
+<p>Recognizing SCP-29280's significant mental health risks to staff, rigorous psychological screenings and mandatory counseling are enforced for any personnel involved in the anomaly's containment or research. Emergency psychological aid and amnestics are readily available in the event of an SCP-29280 induced psychological incident.</p>
+<h3>Addendum 5: Ethics Committee Review</h3>
+<p>The anomalous properties of SCP-29280 and its occupants have raised complex philosophical and ethical issues regarding the nature of space, consciousness, and the Foundation’s interaction with non-communicative entities. As a result, the Ethics Committee oversees all research and containment strategies to ensure that they comply with the Foundation's moral guidelines while safeguarding humanity.</p>
+<p>Continual vigilance and innovative research efforts are critical in developing more sophisticated and humane containment procedures for SCP-29280. While SCP-29280 remains a Keter-class anomaly, the possibility of a breakthrough in understanding or communication with SCP-29280-B offers a faint glimmer of hope in the otherwise bewildering and threatening existence of the anomaly known as "Tunnel Basement To Live On Sky."</p>
+
+    </div>
+    
