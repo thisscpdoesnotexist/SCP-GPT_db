@@ -1,0 +1,76 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29282 is  A Blank Room </h3> </center>
+
+    <h3>Item #: SCP-29282 - "Vacuus Cubiculum"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29282-GPT.png" alt="Illustration of SCP-29282" />
+        
+<h3>Description:</h3>
+<p>SCP-29282 is an ordinary-looking room measuring approximately 4m x 4m x 3m, located in [REDACTED], initially appearing to be part of an abandoned warehouse complex. The room's walls, ceiling, and floor are constructed of standard concrete, and there are no visible markings or anomalies upon visual inspection. The room has one door made of thick steel with no observable locking mechanism.</p>
+<p>The anomaly of SCP-29282 becomes apparent when any object or living organism enters the room and the door is shut completely; upon reopening, the room appears as it did initially, with no evidence of the entity that entered. Objects and organisms do not reappear unless specific conditions are met, which are currently partially understood.</p>
+<p>Any electronic or mechanical devices cease to function upon entering SCP-29282 and cannot be used to observe or track the contents inside once the door is closed.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29282 is to remain locked, and access is restricted to personnel with Level 3 clearance or higher. All experiments must have prior approval from at least two Level 4 Research Supervisors. Standard security cameras and motion sensors are placed outside the entrance to monitor unauthorized access.</p>
+<p>In front of SCP-29282's entrance, an exclusion zone marked 5 meters out is to be maintained with no unauthorized personnel to enter. The zone is to be marked with standard hazard warnings to prevent incidental contact.</p>
+<p>Researchers are advised to maintain a detailed account of all objects and living subjects introduced into SCP-29282. A logbook is to be placed in the security outpost adjacent to SCP-29282 for this purpose.</p>
+<p>Personnel who have entered SCP-29282 are to be considered lost and recovery attempts are currently suspended in light of Experiment-29282-E5 (see Addendum 2 for details).</p>
+<h3>Addendum 1: Experiment Logs</h3>
+<h4>Experiment-29282-E1:</h4>
+<ul>
+<li><strong>Subject:</strong> A standard D-class personnel (D-5612).</li>
+<li><strong>Procedure:</strong> D-5612 was instructed to enter SCP-29282 and remain standing next to the door.</li>
+<li><strong>Results:</strong> After closing and reopening the door, D-5612 was no longer present in SCP-29282. No signs of struggle or physical alteration of the space were observed.</li>
+<li><strong>Note:</strong> Audio surveillance failed immediately upon door closure.</li>
+</ul>
+<h4>Experiment-29282-E2:</h4>
+<ul>
+<li><strong>Subject:</strong> D-class personnel (D-5719) carrying a GPS tracking device.</li>
+<li><strong>Procedure:</strong> D-5719 was instructed to enter SCP-29282 and sit on the floor holding the active GPS device.</li>
+<li><strong>Results:</strong> Upon re-opening the door, both D-5719 and the device had vanished, with no GPS signal detectable. </li>
+<li><strong>Note:</strong> Secondary attempts to signal the device from outside SCP-29282 have been unsuccessful.</li>
+</ul>
+<h4>Experiment-29282-E3:</h4>
+<ul>
+<li><strong>Subject:</strong> A live adult bovine.</li>
+<li><strong>Procedure:</strong> The bovine was guided into SCP-29282. </li>
+<li><strong>Results:</strong> As with prior experiments, the bovine disappeared after the door was closed and reopened. </li>
+<li><strong>Note:</strong> This test confirmed that the disappearance is not limited to human subjects.</li>
+</ul>
+<h4>Experiment-29282-E4:</h4>
+<ul>
+<li><strong>Subject:</strong> A steel orb engraved with a unique identifier.</li>
+<li><strong>Procedure:</strong> The orb was placed at the center of SCP-29282, with a marked line just outside the door for alignment.</li>
+<li><strong>Results:</strong> The orb disappeared following the standard process. After 24 hours, the orb was found 200 meters away from SCP-29282, buried underground at a depth of approximately 1 meter. Engravings on the orb were still identifiable.</li>
+<li><strong>Note:</strong> This is the first instance of an object reappearing after being placed within SCP-29282.</li>
+</ul>
+<h3>Addendum 2: Experiment Log Continuation and Analysis</h3>
+<h4>Experiment-29282-E5:</h4>
+<ul>
+<li><strong>Subject:</strong> D-class personnel (D-5998) with a piece of paper bearing a written message.</li>
+<li><strong>Procedure:</strong> D-5998 was instructed to remain seated in SCP-29282 holding the paper with the visible message: "REPORT LOCATION".</li>
+<li><strong>Results:</strong> Per standard outcome, D-5998 and the note disappeared. The note, without D-5998, was later found outside SCP-29282's main entrance. The paper now carried an additional message: "UNKNOWN – CANNOT EXTRICATE SELF – DARK, SILENT".</li>
+<li><strong>Note:</strong> This suggests that SCP-29282 may act as a gateway, and entities inside may retain consciousness and the ability to interact under certain circumstances.</li>
+</ul>
+<h4>Experiment-29282-E6:</h4>
+<ul>
+<li><strong>Subject:</strong> Same as above (D-5998), but with instructions to attempt communication during disappearance.</li>
+<li><strong>Procedure:</strong> Utilized the same method as E5, with an added set of written questions for D-5998 to answer if possible.</li>
+<li><strong>Results:</strong> No re-appearance of D-5998 or the written questions. Addition of communication intent may have altered the effect.</li>
+<li><strong>Note:</strong> Further tests needed to deduce patterns of reappearances.</li>
+</ul>
+<h4>Experiment-29282-E7:</h4>
+<ul>
+<li><strong>Subject:</strong> A robotic arm programmed to draw a pre-determined path on sand spread evenly across SCP-29282's floor.</li>
+<li><strong>Procedure:</strong> The robotic arm was activated before the door was closed.</li>
+<li><strong>Results:</strong> Upon re-opening the door, the robotic arm was gone, and the sand remained undisturbed. </li>
+<li><strong>Note:</strong> The exact nature of the space within SCP-29282, when the door is closed, is still uncertain. </li>
+</ul>
+<h3>Addendum 3: Researcher Notes</h3>
+<p>SCP-29282 has shown consistent behavior in terms of entities disappearing, but inconsistent behavior regarding their re-appearance. The one constant is a total blackout of any electronic or communication device within the room. Research into potential extradimensional qualities of SCP-29282 is ongoing.</p>
+<p>Recovery procedures for personnel lost to SCP-29282 have been deprioritized after multiple failed attempts. The risk of additional losses during recovery is too great, considering the minimal threat SCP-29282 poses when containment procedures are properly followed.</p>
+<p>A theorized protocol for potential recovery is in development, with the hypothesis that specific entry and exit protocols may govern the re-appearance of subjects and objects. Such a protocol, however, will require meticulous planning and testing to ensure the safety of all involved.</p>
+
+    </div>
+    
