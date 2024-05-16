@@ -1,0 +1,59 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29332 is  Hard To Destroy Dragon Ship  </h3> </center>
+
+    <h3>Item #: SCP-29332 - The Indomitable Leviathan</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29332-GPT.png" alt="Illustration of SCP-29332" />
+        
+<h3>Description:</h3>
+<p>SCP-29332 is an immense draconic entity resembling a ship, forged from an unknown metallic substance that is resistant to all known forms of destruction, including high-heat incineration, heavy artillery, and molecular disintegration. The "ship" measures approximately 300 meters in length and bears intricately carved scales that glimmer with an internal luminescence. SCP-29332 is capable of autonomous flight and exhibits behaviors consistent with that of a sentient dragon from various mythologies.</p>
+<p>Investigations have revealed that the entity possesses an ecosystem within its hull, containing various undocumented species of flora and fauna that appear to be symbiotic with SCP-29332, suggesting it may be a living being rather than an inanimate object. Its 'crew' is comprised of entities resembling traditional seafarers, but they are in fact a part of SCP-29332, being physiologically connected to the ship itself. Attempts to communicate with these entities have been met with hostility or cryptic messages.</p>
+<p>SCP-29332 was first sighted in the North Atlantic Ocean on ██/██/20██, where it was initially mistaken for a rogue military vessel. After engendering significant naval and aerial conflict, it was designated as SCP-29332 and subsequently classified as Keter due to its elusive nature and potential for immense destruction.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its immense size and capability for flight, physical containment of SCP-29332 is currently deemed unfeasible. Current containment protocols focus on constant surveillance and the use of misinformation campaigns to prevent public awareness of SCP-29332's existence. A designated task force (code-named "Skybound Mariners") has been established, consisting of air and sea vehicles modified for stealth tracking and equipped with EMP devices to hinder SCP-29332's navigation systems.</p>
+<p>In case of SCP-29332 surfacing or coming into contact with civilian populations, protocol “Mythos Veil” is to be enacted, involving the immediate deployment of amnestic protocols and the dissemination of cover stories to mask its presence.</p>
+<p>Further research and reconnaissance missions are ongoing to discover any potential means of controlling or communicating effectively with SCP-29332. Personnel involved in said research must be psychologically evaluated before and after missions due to the mentally disorientating effects reported by those who have come into close contact with the entity.</p>
+<h3>Addendum 1: Encounter and Engagement Log</h3>
+<h4>Addendum 1-A: Initial Sighting</h4>
+<ul>
+<li>Date: ██/██/20██</li>
+<li>Involved Parties: French Naval Vessel FNV ██████, USS ██████</li>
+<li>Summary: SCP-29332 engaged in a three-hour confrontation with the aforementioned vessels, demonstrating a previously undocumented ability to generate what can best be described as "breath weapons," reminiscent of draconic fire. Ships sustained critical damage; SCP-29332 appeared unharmed. After the engagement, SCP-29332 submerged into the ocean, disappearing from all tracking for a period of fourteen days.</li>
+</ul>
+<h4>Addendum 1-B: Operation "Cerberus Down"</h4>
+<ul>
+<li>Date: ██/██/20██</li>
+<li>Summary: Covert operation involving specialized depth charges, designed to disrupt SCP-29332's navigation systems. Operation was initially deemed a success, with SCP-29332 surfacing and appearing disoriented. However, after approximately four minutes, SCP-29332 retaliated, causing significant loss of life and material. Subsequent to this operation, SCP-29332 was sighted taking flight, displaying the newly revealed ability to transition effortlessly from underwater to aerial travel.</li>
+</ul>
+<h3>Addendum 2: Communication Attempts</h3>
+<h4>Addendum 2-A: Linguistic Analysis</h4>
+<ul>
+<li>Date: ██/██/20██</li>
+<li>Summary: Decryption of SCP-29332's crew communications has led to the development of a partial lexicon. This lexicon appears to be a derivative of Proto-Indo-European languages, with notable alterations in syntax and semantics. This breakthrough may enable future communication attempts.</li>
+</ul>
+<h4>Addendum 2-B: Successful Message Exchange</h4>
+<ul>
+<li>Date: ██/██/20██</li>
+<li>Summary: A brief message was successfully transmitted to SCP-29332 using the developed lexicon. SCP-29332 responded with a cryptic statement: "We sail the tides of time, and the maelstrom is rising." Further inquiries into the meaning of the message and the implications of the "maelstrom" have been inconclusive and are ongoing.</li>
+</ul>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Addendum 3-A: Experiment #031</h4>
+<ul>
+<li>Date: ██/██/20██</li>
+<li>Procedure: An unmanned drone equipped with a prototype EMP weapon was directed toward SCP-29332 while it was airborne.</li>
+<li>Results: SCP-29332's flight pattern was briefly disrupted, but it quickly regained control. The drone was subsequently destroyed by SCP-29332 using a previously unseen defensive measure consisting of a swarm of metallic, dragonfly-like miniatures that detached from its hull.</li>
+</ul>
+<h4>Addendum 3-B: Experiment #047</h4>
+<ul>
+<li>Date: ██/██/20██</li>
+<li>Procedure: A team of deep-sea divers approached SCP-29332 while submerged using specialized stealth suits to mask their presence.</li>
+<li>Results: SCP-29332 remained inert throughout the duration of the encounter, allowing the team to collect samples of its outer hull and the surrounding fauna. The team reported hearing a haunting melody emanating from within SCP-29332 and experienced disorienting visions until they retreated to a safe distance.</li>
+</ul>
+<h3>Addendum 4: Future Considerations</h3>
+<p>The continued study of SCP-29332 has been marked as a top priority. As our understanding of this entity’s capabilities and its cryptic messages grows, it becomes increasingly apparent that SCP-29332 is not merely a passive observer but may have significant implications for our understanding of the space-time continuum and the very fabric of reality. Research into countermeasures and containment refinements is ongoing, with consideration being given to potential cross-testing with other space-time affecting anomalies in SCP possession. </p>
+<p>All personnel involved in the direct handling of SCP-29332-related activities are advised to remain vigilant for alterations in their perception of time or reality, and to report any such experiences immediately to their superiors. It is essential that we uncover the true nature of SCP-29332 before the so-called "maelstrom" it speaks of comes to fruition, whatever that may represent.</p>
+
+    </div>
+    
