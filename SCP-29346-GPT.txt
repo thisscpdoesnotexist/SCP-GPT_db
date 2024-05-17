@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29346 is  The Giant Biggest Largest Leviathan With Longest Fat Tail </h3> </center>
+
+    <h3>Item #: SCP-29346 - "The Leviathan's Labyrinth"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29346-GPT.png" alt="Illustration of SCP-29346" />
+        
+<h3>Description:</h3>
+<p>SCP-29346, colloquially referred to as "The Leviathan's Labyrinth," is a massive aquatic creature resembling a prehistoric whale with distinct anomalous properties. SCP-29346 measures approximately 2 kilometers in length, with a substantial portion of its size attributed to its unusually elongated and robust tail.</p>
+<p>SCP-29346's skin exhibits an intricate series of grooves and channels, which are constantly rearranged in an apparently deterministic pattern. This ever-changing maze-like pattern on its skin has proven to be a cognitive hazard to observers, often resulting in disorientation, labyrinthitis, and in severe cases, incurable psychological obsession with mazes.</p>
+<p>SCP-29346 exhibits a symbiotic relationship with human consciousness. It appears to 'feed' off of the mental focus directed towards solving the mazes on its skin, which, in turn, enhances the cognitive abilities of the participating individuals. </p>
+<p>Surprisingly, SCP-29346 demonstrates awareness of its surroundings and can communicate through low-frequency vocalizations. It has been determined to be sapient and has expressed a willingness to cooperate with the Foundation under certain circumstances.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-29346's size and aquatic nature, it is contained in a covert, oceanic trench zone in the South Atlantic, cordoned off from public access and satellite surveillance under the guise of a marine preservation area. Its location is to be monitored through a network of disguised sonar buoys and underwater observation posts.</p>
+<p>Personnel assigned to SCP-29346 must have no history of mental illness, and regular psychological evaluations are mandatory. Direct observation of SCP-29346's skin is to be done remotely or with the aid of image scrambling software to prevent cognitive hazards.</p>
+<p>Interactions for the purpose of research are to be conducted through the implementation of specialized unmanned submersibles equipped with artificial intelligence capable of processing the labyrinth patterns without human intervention.</p>
+<p>In the event of a breach, misinformation campaigns and amnestics are to be deployed accordingly, and Mobile Task Force Delta-9 ("Abyssal Stewards") is to be mobilized to ensure containment is promptly reestablished.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-29346 was discovered after a series of unexplainable disappearances of ships in the South Atlantic, along with reports of a "moving island" that emerged from deep-sea folklore among local fishermen. Exploration Submarine UX-1, dispatched by the Foundation, encountered SCP-29346 during an investigation of the area. Initial encounters with SCP-29346 resulted in the loss of three crew members to maze-induced psychosis before containment procedures were established.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment #29346-E-01</h4>
+<p><strong>Objective:</strong> To determine SCP-29346's response to basic communication attempts.</p>
+<p><strong>Procedure:</strong> D-Class personnel to attempt Morse code communication by tapping on the hull of the observation submersible.</p>
+<p><strong>Result:</strong> SCP-29346 responded with matching taps, demonstrating intelligence and an understanding of the code.</p>
+<h4>Experiment #29346-E-12</h4>
+<p><strong>Objective:</strong> To assess the extent of cognitive enhancement in individuals engaging with SCP-29346's mazes.</p>
+<p><strong>Procedure:</strong> D-Class personnel with a background in mathematics were exposed to SCP-29346's grooves via a controlled VR simulation.</p>
+<p><strong>Result:</strong> Subjects displayed significant increases in problem-solving abilities and spatial awareness for up to six hours post-exposure. One subject solved a previously unsolvable theorem, but also developed an obsessive compulsion to draw mazes.</p>
+<h4>Experiment #29346-E-26</h4>
+<p><strong>Objective:</strong> To explore SCP-29346's willingness to assist in Foundation operations.</p>
+<p><strong>Procedure:</strong> Engage SCP-29346 in a controlled dialogue via an AI translating low-frequency communications.</p>
+<p><strong>Result:</strong> SCP-29346 agreed to participate in research and offered to "host" containment for other aquatic SCP objects. It suggested a symbiotic containment approach that would benefit its need for cognitive stimulation and the Foundation's containment efforts.</p>
+<h3>Addendum 3: Psychological Impact</h3>
+<p>Study of long-term exposure to SCP-29346's mazes indicates that there is a compulsion loop formed in observers that may lead to permanent psychological changes. To mitigate these effects, it is imperative to minimize direct human observation of SCP-29346's skin patterns and instead utilize AI assistance for any interaction requiring analysis of the maze-like patterns.</p>
+<p>Furthermore, SCP-29346 has demonstrated a therapeutic effect on individuals with certain neurological conditions when exposed to its patterns under strict supervision, potentially providing an avenue for medical research and treatment development.</p>
+<p>The potential benefits of SCP-29346's anomalous properties justify its Thaumiel classification, as it can serve as a means of containment and cognitive enhancement. However, given the risk associated with direct exposure and its sapient nature, all interactions must be carefully regulated, with ethical considerations for SCP-29346 guiding Foundation protocols.</p>
+
+    </div>
+    
