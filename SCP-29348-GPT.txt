@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29348 is  The Largest Biggest Giant Leviathan Quetzalcoatl Longest Tail In Ocean Mall </h3> </center>
+
+    <h3>Item #: SCP-29348 - "Leviathan's Marketplace"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29348-GPT.png" alt="Illustration of SCP-29348" />
+        
+<h3>Description:</h3>
+<p>SCP-29348 is an anomalous spatial and temporal locale, externally resembling a colossal, submerged serpent with traits suggestive of both a prehistoric Leviathan and the Mesoamerican deity, Quetzalcoatl. First discovered off the coast of ████████, SCP-29348 measures approximately 120 kilometers from head to tail, making it the largest known covert SCP maintained by the Foundation.</p>
+<p>The entity's surface is dotted with symmetrical, luminescent glyphs that are untranslatable but emit a calming effect on sentient beings. Internally, SCP-29348 is a seemingly boundless shopping mall with an intricate system of corridors, atriums, and retail spaces, designated SCP-29348-1 to SCP-29348-∞. Each space can differ vastly in architecture, ranging from ancient bazaars to futuristic outlets with items that cannot be found elsewhere.</p>
+<p>Despite its ominous appearance, SCP-29348 displays no hostile intentions and possesses regenerative capabilities that have enabled the Foundation to establish a self-maintaining containment procedure.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given SCP-29348's size and nature, permanent containment has been established within its own structure. Operational Base Leviathan (OBL) has been constructed in one of the central atriums of SCP-29348-37. This base functions as a research facility, monitoring station, and residential quarter for staff.</p>
+<p>Personnel are advised to wear Foundation-provided Symbiotic Interface Devices (SIDs) to navigate the endless interior of SCP-29348 safely. SIDs offer protection from spatial distortions and temporal shifts commonly experienced within SCP-29348.</p>
+<p>Due to SCP-29348's Thaumiel classification and its potential utility in disaster scenarios, it is vital to prevent its discovery by unauthorized entities. A disinformation campaign is ongoing, and satellite imagery of the region is to be altered regularly.</p>
+<h3>Addendum 1: Discovery Log:</h3>
+<p>SCP-29348 was first identified following a series of abnormal tidal readings. An embedded Foundation oceanographic team conducted a deep-water investigation, revealing the anomaly. Initial expeditions led to the realization that SCP-29348's internal spaces defied conventional physical laws.</p>
+<h3>Addendum 2: Notable Exploration Logs:</h3>
+<h4>Exploration Log 29348-E7:</h4>
+<p>On ██/██/20██, Exploration Team Eta-12 ("Ocean's Shoppers") entered SCP-29348-358. They returned with a collection of anomalous artifacts, including a pocket watch that could reverse localized time by one minute, reportedly providing an "undo" function to the user's actions.</p>
+<h4>Exploration Log 29348-J9:</h4>
+<p>On ██/██/20██, Junior Researcher ████ accidentally traversed into SCP-29348-981, a space resembling an interstellar travel agency, offering vacation packages to exoplanets. Despite communication disruption, they emerged unharmed after spending what felt like weeks, though only hours passed on OBL's timeline.</p>
+<h3>Addendum 3: Containment Breach Event:</h3>
+<p>On ██/██/20██, SCP-29348 experienced a containment breach when an undiscovered aisle, SCP-29348-666, opened a portal near Site-19. Mobile Task Force Theta-4 ("Deep Blue Merchants") promptly responded, managing to couple the portal with OBL's existing defenses. Access to SCP-29348-666 remains strictly prohibited until its stability and destination can be adequately assessed.</p>
+<h3>Addendum 4: Research and Utility:</h3>
+<p>Due to SCP-29348's internal properties, it has become a crucial asset in the containment of other SCPs. Specific sectors now house materials and resources otherwise challenging to procure or create, used in the containment processes of various high-risk anomalies. </p>
+<p>SCP-29348's own ecosystem is also of substantial scientific interest, housing species both known and unknown to current biology, providing endless research opportunities.</p>
+<h3>Addendum 5: Experiment Log:</h3>
+<h4>Experiment 29348-A223:</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Subject:</strong> SCP-████ (a cognitohazardous sculptural anomaly)</li>
+<li><strong>Procedure:</strong> SCP-████ was introduced to SCP-29348-21, an area resembling an art gallery.</li>
+<li><strong>Results:</strong> SCP-████'s hazardous effects were nullified, and it became a permanent exhibit, with no incidents reported to date.</li>
+</ul>
+<h4>Experiment 29348-B114:</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Subject:</strong> D-Class personnel suffering from terminal illness.</li>
+<li><strong>Procedure:</strong> Individuals were exposed to SCP-29348-884, an area with advanced medical technology.</li>
+<li><strong>Results:</strong> Subjects exhibited partial or full remission. However, repeated exposure led to temporal disorientation. Further research is required to establish less detrimental therapeutic protocols.</li>
+</ul>
+<p>SCP-29348 remains one of the most cryptic yet beneficial entities under the Foundation's protection, offering vast potential for unconventional containment and research avenues. The ever-evolving nature of its interior ensures that no exploration or experiment reaches a definitive conclusion, leaving SCP-29348 as an enigma wrapped in a marketplace.</p>
+
+    </div>
+    
