@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29352 is  The Giant Largest Biggest Godzilla Leviathan With Longest Tail </h3> </center>
+
+    <h3>Item #: SCP-29352 - "Leviathan's Lament"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29352-GPT.png" alt="Illustration of SCP-29352" />
+        
+<h3>Description:</h3>
+<p>SCP-29352, colloquially named "Leviathan's Lament," is an enormous aquatic entity that superficially resembles a mythical leviathan. The creature measures approximately 2.5 kilometers in length, with a tail constituting nearly half its total length. The scales of SCP-29352 shimmer with a multitude of colors, primarily deep blue and emerald green, which change intensity and pattern when it experiences varying emotional states, discerned through extensive observation.</p>
+<p>SCP-29352's presence in any body of water dramatically affects the local ecosystem, causing accelerated evolution and mutation in aquatic lifeforms and severe climatic disturbances. It appears to have a rudimentary form of telepathic influence, causing bouts of depression and mania in sentient beings up to ten kilometers away. This has led to widespread social and economic disruption in affected areas.</p>
+<p>The most alarming feature of SCP-29352 is its ability to phase through dimensions, enabling it to elude containment by transitioning to an alternate reality, thus evading conventional tracking methods. This aspect of its nature has made it one of the most formidable entities the SCP Foundation currently faces.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29352 cannot be contained by traditional physical means due to its capability for interdimensional travel. The focus of containment is to track and predict manifestations using a network of satellites and deep-sea monitoring stations equipped with high-frequency dimensional flux detectors (DFDs).</p>
+<p>Upon detection of SCP-29352's materialization, Protocol Leviathan-Alpha is to be executed, which includes the following measures:</p>
+<ol>
+<li>Immediate dispatch of Mobile Task Force Kappa-10 ("Sealockers") to the manifestation zone for reconnaissance and population control.</li>
+<li>Initiation of disinformation campaigns to suppress public knowledge and mass hysteria.</li>
+<li>Employment of tailored sonar frequencies found to induce placidity in SCP-29352.</li>
+<li>Implementation of meteorological interference protocols to mitigate abnormal weather patterns.</li>
+<li>Preparation of the Scranton Reality Anchors (SRAs) to limit SCP-29352's ability to phase.</li>
+</ol>
+<p>In the scenario that SCP-29352 manifests within 200 kilometers of a human-populated area, emergency evacuation alongside amnestic treatment is authorized.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-29352 first rose to Foundation attention after an abnormal number of disappearances of ocean vessels and seismic activities in the Mariana Trench were reported in 20██. Through the use of deep-sea exploration drones, SCP-29352 was first visually documented. Early attempts to confine SCP-29352 resulted in the loss of several operatives and equipment due to its unexpected dimensional phasing capability.</p>
+<h3>Addendum 2: Incident Log</h3>
+<h4>Incident 29352-A:</h4>
+<p>In May 20██, SCP-29352 emerged near the coast of ████████, causing significant damage to marine and coastal infrastructure. Emergency Protocol Leviathan-Alpha was executed, resulting in successful dematerialization of SCP-29352 post-evacuation of over █████ civilian lives. The event was covered up as a rare and unusually powerful meteorological phenomenon.</p>
+<h4>Addendum 2b: Experiment Log</h4>
+<h5>Experiment 29352-E-001:</h5>
+<ul>
+<li><strong>Objective:</strong> Test the effects of modified sonar frequencies on SCP-29352's behavior.</li>
+<li><strong>Results:</strong> SCP-29352 became docile for a 12-hour period.</li>
+<li><strong>Analysis:</strong> Sonar frequencies induced a rest-like state, suggesting susceptibility to acoustic manipulation.</li>
+</ul>
+<h5>Experiment 29352-E-005:</h5>
+<ul>
+<li><strong>Objective:</strong> Trial run of SRA deployment when SCP-29352 surfaces.</li>
+<li><strong>Results:</strong> Partial containment achieved, dimensional phasing was delayed by 43%.</li>
+<li><strong>Analysis:</strong> SRAs have an inhibitory effect, but full containment was not achieved.</li>
+</ul>
+<h3>Addendum 3: Researcher's Note</h3>
+<p>SCP-29352's unpredictable behavior and impact on the global ecosystem remain a top concern for the Foundation. The apparent sentience and emotional responses observed in SCP-29352 necessitate further study into its cognitive functions. There is a potential for understanding and thereby predicting SCP-29352's movements more accurately. If possible, establishing a form of communication could become a priority in the future. Our understanding of SCP-29352 remains limited, but it is crucial that we unravel the mysteries of this creature for the sake of containment and the preservation of normalcy.</p>
+
+    </div>
+    
