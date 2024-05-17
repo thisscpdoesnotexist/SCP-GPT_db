@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29343 is  A Dragon Ship Fire </h3> </center>
+
+    <h3>Item #: SCP-29343 - "A Dragon Ship's Fire"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29343-GPT.png" alt="Illustration of SCP-29343" />
+        
+<h3>Description:</h3>
+<p>SCP-29343 is an intricately carved wooden Viking longship, measuring approximately 24 meters in length and 5 meters in width, with a dragon head figurehead at its prow. Radiocarbon dating places SCP-29343’s construction in the late 9th century. Despite its apparent age and construction material, SCP-29343 is remarkably preserved, possessing no signs of decay or damage one would expect from a vessel of such antiquity.</p>
+<p>SCP-29343 exhibits anomalous properties when waterborne with a crew aboard. When manned by at least one individual who verbally acknowledges their role as part of its crew, SCP-29343 will spontaneously combust, engulfing itself in flames that do not consume the vessel or harm the occupants. These flames emit no heat to the external environment and cannot spread to other objects or substances.</p>
+<p>If crew members depart or express the desire to no longer be part of the ship’s crew, the flames extinguish immediately. Apart from its fire-related properties, SCP-29343 functions as a typical Viking longship and requires no exceptional knowledge/skill to be operated.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29343 is to be stored in a climate-controlled hangar at Storage Site-33. Access to SCP-29343 requires Level 2 clearance and must be supervised by security personnel with training in maritime vessels. The pool within the hangar, constructed for the precise purpose of SCP-29343 containment, is to be maintained and monitored for structural integrity.</p>
+<p>Under no circumstances should SCP-29343 be allowed to reach open water without express permission from at least two members of the O4 Command. All testing is to be scheduled in advance with appropriate safety and emergency measures in place, including a standby firefighting crew despite the benign nature of SCP-29343's flames.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-29343 was discovered in the Svalbard archipelago by a group of amateur historians tracing the routes of Viking explorers. Upon their unsanctioned attempt to sail the vessel, SCP-29343 immolated, gaining the attention of a nearby research station. No casualties occurred, and the Foundation was alerted to the phenomenon shortly thereafter, securing SCP-29343 without incident and amnesticizing the involved civilians.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 29343-01:</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> D-18934 was instructed to board SCP-29343 and declare herself as part of the crew.</li>
+<li><strong>Result:</strong> SCP-29343 ignited as described in previous observations. Flames subsided upon D-18934's disembarkation.</li>
+</ul>
+<h4>Experiment 29343-02:</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> D-18934 and three additional D-Class personnel were instructed to navigate SCP-29343 within the hangar pool while alight.</li>
+<li><strong>Result:</strong> SCP-29343 operated as expected, with no additional anomalies. Members expressed surprise at the absence of heat from the flames.</li>
+</ul>
+<h4>Experiment 29343-03:</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> D-Class personnel were instructed to attempt to remove parts of SCP-29343 while it was alight.</li>
+<li><strong>Result:</strong> The flames resisted all attempts at dampening or physical interference; any object that entered the flames was repelled with a gentle force with no damage inflicted.</li>
+</ul>
+<h3>Addendum 3: Incident 29343-A</h3>
+<p>On ██/██/20██, during routine cleaning of the hangar, SCP-29343 spontaneously ignited without any personnel aboard. Surveillance footage revealed a janitorial staff member, later identified as Mr. ████, was heard whistling a tune concerning maritime travel as they worked. The ignition of SCP-29343 coincided with a particular lyric correlating with the recognition of oneself as part of a ship's crew.</p>
+<h4>Follow-up:</h4>
+<p>Mr. ████ was interviewed, revealing a personal hobby of maritime history and an expressive desire to have "sailed the seas during the times of the Vikings." Mr. ████ was administered a Class-B amnestic and reassigned to a different department with no exposure to potential SCP influence.</p>
+<p>It is now understood that SCP-29343's activation can occur through strong associative identification with being part of a "crew," even if not expressed directly to SCP-29343 itself. Containment procedures have been updated to include psychological screening for personnel assigned to SCP-29343 to prevent accidental activation.</p>
+<h3>Addendum 4: Researcher Notes</h3>
+<p>Given SCP-29343's benign behavior, there had been requests from historical and anthropological research teams for access to study the vessel and potentially use it as a practical demonstration tool for educational purposes. These requests have been denied to maintain the integrity of SCP-29343's containment and to avoid any untoward incidents should the ship's anomalous properties be activated improperly.</p>
+<p>Ongoing research is instead focused on understanding the source of SCP-29343's properties. Speculation includes the possibility of a thaumaturgic enchantment typical of Norse mythology or a form of reality warping that aligns with the deceased crew's beliefs or desires. Further experimental proposals are under review.</p>
+
+    </div>
+    
