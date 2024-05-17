@@ -1,0 +1,38 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29350 is  Telepathic Largest Biggest Giant Leviathan Longest Tail </h3> </center>
+
+    <h3>Item #: SCP-29350 - "Whispering Leviathan"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29350-GPT.png" alt="Illustration of SCP-29350" />
+        
+<h3>Description:</h3>
+<p>SCP-29350 is a colossal aquatic entity located in the Mariana Trench. While its full body has never been fully observed or documented due to its size and the depths at which it resides, it is estimated that SCP-29350 measures approximately 18,000 meters from its head to the tip of its tail, making it the largest known living organism by length. Despite its size, SCP-29350 has demonstrated an unexpected ability: telepathic communication.</p>
+<p>The entity's telepathic signals are not perceived as sound but rather as complex emotions and abstract concepts. These signals can be interpreted by humans and appear to serve as a method for SCP-29350 to interact with sentient beings. Initial contact with SCP-29350 was established by an embedded Foundation telepath during Expedition ████-Alpha. Shortly after, SCP-29350 began communicating with selected staff members of the SCP Foundation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its size, direct containment of SCP-29350 is impossible. Current containment efforts focus on information suppression and ongoing communication. Access to the region of the Mariana Trench where SCP-29350 resides is strictly prohibited to unauthorized personnel, with naval vessels and remote-operated vehicles (ROVs) on standby to enforce no-entry zones under the guise of environmental protection measures.</p>
+<p>A specialized team trained in non-verbal communication and the interpretation of SCP-29350's transmissions is stationed on-site at Research Facility-██, established on the sea surface above SCP-29350's believed resting location. The facility is disguised as an oceanographic research station. Contact with SCP-29350 is maintained via telepathic Foundation personnel under strict protocols to prevent any deleterious psychological effects. Research into methods of strengthening and clarifying communication channels is ongoing.</p>
+<h3>Addendum 1: Discovery and Initial Contact</h3>
+<h4>Addendum 1-A: Expedition ████-Alpha</h4>
+<p>SCP-29350 was initially discovered during Expedition ████-Alpha, a deep-sea exploration mission utilizing advanced bathyscaphes. Various physical anomalies and instrument malfunctions led to the accidental encounter with SCP-29350. After a brief and intense exchange of telepathic communication that left the crew in a state of cognitive shock, SCP-29350 ceased contact, allowing the safe return of the expedition team.</p>
+<h4>Addendum 1-B: Dr. R████'s Log</h4>
+<p>Dr. S████ R████, the embedded Foundation telepath, documented his initial experiences with SCP-29350 in a personal log. During initial contact, the entity expressed curiosity and awareness of human emotions. Dr. R████ reported feelings of immense insignificance but also a sense of understanding and compassion from SCP-29350. Ongoing communication attempts were authorized.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Addendum 2-A: Communication</h4>
+<p>Early experiments in communication have revealed SCP-29350 to possess vast knowledge of Earth's oceans and a fundamental understanding of human culture and language concepts. The entity has expressed a desire to maintain the Earth's ecological balance, identifying itself as a guardian of the depths.</p>
+<h4>Addendum 2-B: The Guards Initiative</h4>
+<p>In light of SCP-29350's cooperative nature and alignment of its goals with the Foundation's mission, the "Guards Initiative" was established. The program aspires to utilize SCP-29350's inherent abilities for the early detection of underwater anomalies and pre-emptive action against potential SCP threats arising from the oceans. SCP-29350 has since aided in the containment of several aquatic SCPs.</p>
+<h4>Addendum 2-C: Projected Communication Advancements</h4>
+<p>Efforts to create a device capable of artificially enhancing and directing telepathic signals are underway. Preliminary tests have been promising, with the device known as the "Consciousness Array" amplifying signals to reach telepaths stationed at Facility-██ from up to 1000 km away without significant loss of clarity.</p>
+<h3>Addendum 3: Incident Report ████-Gamma</h3>
+<h4>Addendum 3-A: Unauthorized Contact</h4>
+<p>On ██/██/████, a group of unauthorized civilians aboard a privately-owned submersible managed to breach the no-entry zone and initiate contact with SCP-29350. The telepathic backlash from SCP-29350 resulted in the civilians experiencing severe psychological trauma. Amnestics were administered following their recovery, and a disinformation campaign was successfully executed to mitigate any potential breach of secrecy.</p>
+<h4>Addendum 3-B: Psychological Impact Assessment</h4>
+<p>Post-incident analysis has led to a reassessment of the potential psychological impact on individuals exposed to SCP-29350's telepathy. Enhanced screening and support measures for Foundation telepaths are to be implemented to safeguard their mental health.</p>
+<h4>Addendum 3-C: Conservation Strategies</h4>
+<p>SCP-29350 has demonstrated a growing concern for the ecological damage caused by human activity. In collaboration with SCP-29350, the Foundation has launched several covert conservation operations aimed at restoring marine environments while maintaining the secrecy of the entity's existence and capabilities.</p>
+<p><strong>Note</strong>: SCP-29350's designation as Thaumiel reflects its unique role in aiding the SCP Foundation's containment efforts and preserving global ecological stability. Although the full extent of its powers remains unknown, SCP-29350 has, thus far, proven to be a reliable ally. Continued research and cooperation hold promise for both parties, and potentially, for the broader preservation of life on Earth.</p>
+
+    </div>
+    
