@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29349 is  The Largest Giant Biggest Leviathan Jörmungandr Longest Tail In Ritual In Ocean Public Office </h3> </center>
+
+    <h3>Item #: SCP-29349 - "Maelstrom's Manuscript"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29349-GPT.png" alt="Illustration of SCP-29349" />
+        
+<h3>Description:</h3>
+<p>SCP-29349, dubbed "Maelstrom's Manuscript," is an anomalous, oceanic entity loosely resembling mythological representations of the Midgard Serpent, Jörmungandr, from Norse mythology. The entity is colossal, measuring approximately 17 kilometers in length and with a diameter of 50 meters at its widest point. Its appearance is that of an elongated, serpentine dragon, possessing bioluminescent aquamarine scales, and a series of fin-like appendages running along its flanks which appear to aid in its locomotion and manipulation of water currents. SCP-29349's head is adorned with elongated horns and multiple eyes that exhibit a faint, otherworldly glow.</p>
+<p>SCP-29349 is sapient, displaying intelligence that surpasses that of an average adult human. The entity is capable of communicating through cryptic writings that manifest in water, forming symbols and scripts in various ancient and contemporary languages. It typically communicates its intent through these writings, partaking in complex negotiations and strategic planning in conjunction with the Foundation. SCP-29349 has shown a predisposition for maintaining Earth's oceanic balance and countering cataclysmic, water-related SCPs, a factor which aligns with the Foundation's goals for maintaining global normalcy.</p>
+<p>SCP-29349 appears to possess the ability to manipulate weather patterns, tectonic activities, and the flow of ocean currents on a global scale. Its presence within Earth's oceans and the patterns of its movements are key factors in the Foundation's efforts to contain and control other aquatic SCP entities and phenomena deemed catastrophic.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29349 is contained in situ within an undisclosed region of the Earth's oceans, at a depth which varies between 3,000 to 5,000 meters. To monitor and manage SCP-29349's activity, the Foundation has established Remote Site-29349, which is a network of submerged mobile research facilities, equipped with advanced tracking and communication devices to interact with SCP-29349. ASA-class submarines are to be deployed for monthly check-ins and to provide the entity with offerings as detailed in Protocol Leviathan. </p>
+<p>The motion and positions of SCP-29349 are to be constantly monitored via satellite and deep-sea tracking systems. To preclude civilian encounters, nearby maritime routes are to be subtly redirected under the guise of military exercises or environmental preservation efforts. Information leaks are to be suppressed via standard disinformation campaigns and the usage of amnestics when necessary.</p>
+<p>Personnel working with SCP-29349 must undergo extensive psychological evaluation to assess their suitability for interaction with the entity. Only those with high resilience to memetic effects and aptitude for deciphering esoteric languages are cleared for direct communication. </p>
+<h3>Addendum 1: Discovery of SCP-29349</h3>
+<p>SCP-29349 was initially discovered by satellite imagery in the aftermath of an anomalous hurricane formation in the North Atlantic Ocean. Foundation operatives were dispatched to investigate a series of unusual seismic events which corresponded with the last observed location of the hurricane's eye. Upon locating and recognizing the anomaly, Foundation agents engaged in initial contact protocols.</p>
+<h3>Addendum 2: Communication Logs</h3>
+<h4>Subsection A: Initial Contact</h4>
+<p>During the first interaction, SCP-29349 provided cryptic messages in a form of ancient runic script that was documented but not immediately understood. With the aid of linguistic experts and cryptographers, these messages were interpreted as SCP-29349 outlining its intentions to maintain planetary oceanic and atmospheric stability. SCP-29349 referred to itself as a "warden of the depths," taking responsibility for the balance of life and death within the world's waters.</p>
+<h4>Subsection B: Bargaining with the Leviathan</h4>
+<p>Further communications revealed SCP-29349’s value to the Foundation in aiding containment measures. In exchange for its cooperation, SCP-29349 requested a series of complex rituals to be performed regularly by designated Foundation personnel. These rituals, steeped in Norse mythological symbolism, seemed to nourish or appease the entity. </p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 29349-E1</h4>
+<p>Objective: To determine SCP-29349's influence over localized water currents and weather systems.</p>
+<p>Procedure: SCP-29349 was asked to alter the current trajectories and manipulate the intensity of a brewing storm system.</p>
+<p>Outcome: SCP-29349 successfully guided the storm system away from populated areas while simultaneously calming it. The entity showcased an acute awareness of human dwellings and casualty minimization.</p>
+<h4>Experiment 29349-E2</h4>
+<p>Objective: To test the limits of SCP-29349's communication ability and negotiation.</p>
+<p>Procedure: SCP-29349 was presented with a theoretical scenario wherein multiple aquatic SCP entities breach containment simultaneously.</p>
+<p>Outcome: Within the confines of the scenario presented, SCP-29349 offered strategies to re-contain or neutralize the SCP entities. SCP-29349 demonstrated a detailed understanding of Foundation containment procedures.</p>
+<h3>Addendum 4: Incident 29349-I1</h3>
+<p>On ██/██/████, an incident occurred involving SCP-29349 and a previously unknown deep-sea SCP entity (now designated SCP-████). SCP-29349 intercepted SCP-████ as it approached a major coastal city, engaging it in a display of aggressive posturing. SCP-29349 proceeded to create a series of whirlpools to contain SCP-████ until Foundation personnel could arrive. The incident resulted in heightened cooperation between SCP-29349 and the Foundation, solidifying SCP-29349's Thaumiel classification.</p>
+<h3>Addendum 5: Ongoing Observations</h3>
+<p>SCP-29349 continues to exhibit behavior indicative of a vested interest in Earth's oceanic ecosystems. Research into its motives, origin, and potential for further cooperation is ongoing. Regular updates to containment procedures are mandated due to the evolving nature of SCP-29349’s abilities and level of interaction with the Foundation.</p>
+<p>SCP-29349 remains one of the most enigmatic yet cooperative entities under Foundation custody, proving instrumental in the complex challenge of maintaining worldwide anomalous balance.</p>
+
+    </div>
+    
