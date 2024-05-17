@@ -1,0 +1,50 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29347 is  The Largest Biggest Giant Spikes Tail Leviathan Ritual In Abandoned In Indiana </h3> </center>
+
+    <h3>Item #: SCP-29347 - "The Cornfield Leviathan"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29347-GPT.png" alt="Illustration of SCP-29347" />
+        
+<h3>Description:</h3>
+<p>SCP-29347 is an anomalous entity located within the spectral ruins of a forgotten agricultural compound in rural Indiana. Measuring an estimated 60 meters in length, SCP-29347 superficially resembles a draconic leviathan from European folklore, specifically characterized by an elongated serpentine body, massive leathery wings, and an array of bio-luminescent spikes running the length of its spine and tail.</p>
+<p>SCP-29347 exhibits a rare case of bi-temporal existence, appearing fully tangible only during waxing crescent moon phases, and becoming ethereal during other lunar cycles. It possesses immense strength and durability in its tangible state and has shown the ability to manipulate electromagnetic fields around its spikes to create localized storms and disrupt electronic equipment.</p>
+<p>Its "Thaumiel" classification stems from an observed symbiosis with reality-stabilizing effects. SCP-29347 discharges a unique form of energy that not only anchors its immediate vicinity to a specific quantum state, preventing reality-bending phenomena, but also suppresses the malevolent influences of extra-dimensional entities attempting to materialize in our dimension.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-29347's integral role in maintaining a stable reality framework within its vicinity, full containment is deemed neither possible nor advisable. A perimeter of 10 kilometers has been established, cordoned off with the dual guise of a military testing area and a wildlife conservation project. This perimeter is to be maintained by designated personnel from Mobile Task Force Delta-5 ("Frontiersmen").</p>
+<p>Under no circumstances should electronic equipment or devices capable of generating electromagnetic fields be brought within a 3-kilometer radius of SCP-29347 during its tangible state, except for approved experimental protocols. Specialized EMP-hardened observation and research equipment have been developed for on-site use.</p>
+<p>A dedicated observation post, Site-47, has been constructed beyond the 3-kilometer safety perimeter with orders to monitor SCP-29347's patterns and activity. Ritualistic offerings of agricultural produce, consistent with logs recovered from the compound's former inhabitants, are to be conducted bi-monthly to maintain a non-hostile rapport with the entity.</p>
+<h3>Addendum 1: Discovery</h3>
+<h4>Subsection A: Encountering the Leviathan</h4>
+<p>SCP-29347 was first encountered in 19██, after reports of unexplained weather phenomena and electronic disturbances in rural Indiana reached local Foundation operatives. Initial reconnaissance teams reported visual contact with a "colossal entity resembling mythological depictions of dragons." Upon further investigation, the entity was traced back to the spectral remains of a settlement abandoned under unusual circumstances.</p>
+<h4>Subsection B: Settlement Records</h4>
+<p>Documents and various artifacts recovered from the ruins suggest that SCP-29347 was worshipped by the settlement, possibly as a guardian or deity. A partially destroyed manuscript detailed rituals and offerings to maintain the Leviathan's favor, which included the sacrifice of vast quantities of corn and the performance of enigmatic chants during specific lunar phases.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 29347-A: Electromagnetic Interaction</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Lead Researcher:</strong> Dr. Marianne Wallace</li>
+<li><strong>Objective:</strong> To determine the effect of controlled electromagnetic fields on SCP-29347's behavior.</li>
+<li><strong>Result:</strong> Upon activation of EM field generators, SCP-29347 exhibited agitation and manifested a thunderstorm within seconds. The entity absorbed the EM field, resulting in a mass discharge of energy. No lasting harm to SCP-29347 was observed. Experiment discontinued due to safety concerns.</li>
+</ul>
+<h4>Experiment 29347-B: Communication Attempts</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Lead Researcher:</strong> Dr. Javid Al-Harun</li>
+<li><strong>Objective:</strong> To attempt establishing communication with SCP-29347 utilizing linguistic patterns derived from settlement manuscripts.</li>
+<li><strong>Result:</strong> Vocalizations produced an observable reaction; SCP-29347 directed its gaze towards the research team, maintaining eye contact for the duration of the chant. No hostile behavior was exhibited. Further research into potential communication is ongoing.</li>
+</ul>
+<h4>Experiment 29347-C: Reality-Bending Suppression</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Lead Researcher:</strong> Dr. Emily Chang</li>
+<li><strong>Objective:</strong> To test SCP-29347's suppression of anomalous reality-bending fields.</li>
+<li><strong>Result:</strong> SCP-29347's presence demonstrably neutralized the introduced reality-bending artifacts. Notably, SCP-29347's bio-luminescent spikes shone brighter during this process—this reaction is being studied as a potential indicator of its suppression activity.</li>
+</ul>
+<h3>Addendum 3: Security Breach Incident</h3>
+<p>On ██/██/████, an unauthorized civilian drone managed to breach the 10-kilometer perimeter during a tangible phase and was promptly neutralized by a lightning strike from SCP-29347. This led to the implementation of enhanced aerial defense protocols, including jamming technology and a mandatory no-fly zone enforced by the FAA under the guise of radar calibration tests.</p>
+<p>SCP-29347 continues to be monitored closely, with a greater emphasis on maintaining the secrecy of its existence and the benefits it imparts upon our reality. Its Thaumiel classification not only acknowledges its containment capabilities but also serves as a reminder of the delicate balance between the anomalous and the mundane, and our responsibility in preserving it.</p>
+
+    </div>
+    
