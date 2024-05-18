@@ -1,0 +1,55 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29378 is  The Giant Largest Biggest Leviathan Xenomorph Longest Tail In Public Hospital Ocean  </h3> </center>
+
+    <h3>Item #: SCP-29378 - The Leviathan's Remedy</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29378-GPT.png" alt="Illustration of SCP-29378" />
+        
+<h3>Description:</h3>
+<p>SCP-29378, designated "The Leviathan's Remedy," is an anomalous entity located within the depths of the Pacific Ocean, approximately 500 meters below sea level, near the Mariana Trench. Initially discovered by a civilian deep-sea exploration team who inadvertently recorded footage of the entity, the video evidence later came into the possession of the Foundation after an increase in unexplained medical recovery rates was reported in the nearby ████████ Public Hospital.</p>
+<p>SCP-29378 resembles a colossal marine creature with an elongated, serpent-like body, but its full extent has yet to be observed due to its tremendous size—estimates suggest a total length surpassing 2 kilometers. Its skin exhibits a bioluminescent property, predominantly shimmering in hues of teal and indigo - which serves to attract certain marine life and has an inexplicable healing effect on humans.</p>
+<p>The extraordinary characteristic of SCP-29378 is its ability to excrete a viscous, luminescent substance from its tail (dubbed "Elixir-29378"). Samples of Elixir-29378 demonstrate remarkable regenerative capabilities when introduced to living human tissue. Surprisingly, the substance is also found in trace amounts in the water supply of the ████████ Public Hospital, leading to significant advancements in patient recovery and, in several documented cases, spontaneous remission of terminal illnesses.</p>
+<p>The full capabilities of SCP-29378 and its elixir remain subjects of ongoing research. However, the entity has shown no signs of hostility and seems indifferent to the presence of humans or equipment in its vicinity.</p>
+<h3>Special Containment Procedures:</h3>
+<p>A permanent research and containment facility, designated Outpost-29378, has been established on the ocean floor in close proximity to SCP-29378 under the pretense of a marine biology station. Outpost-29378 is tasked with continuous monitoring of SCP-29378 and collecting Elixir-29378 samples while maintaining the secrecy of the anomaly.</p>
+<p>The Foundation has managed to embed agents within the ████████ Public Hospital's maintenance and administrative staff to oversee the water filtration systems. Modifications have been made to these systems to discretely extract Elixir-29378 from the water supply, ensuring manageable and traced dissemination to the patient populace while researching its properties.</p>
+<p>Any unauthorized individual attempting to reveal information about SCP-29378 or exhibiting knowledge of its existence beyond Foundation personnel is to be administered Class-B amnestics.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>The initial video footage of SCP-29378 that attracted Foundation attention showcased an unexpected interaction where an injured diver, separated from the exploration team, was enveloped in a cloud of Elixir-29378. The diver's injuries, including a lacerated limb and symptoms of decompression sickness, were observed to heal at an accelerated rate.</p>
+<p>Following this incident, tracking the diver's subsequent admission to ████████ Public Hospital revealed a statistically improbable recovery, leading Foundation experts to posit a connection between the hospital's water supply and SCP-29378.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p>Upon obtaining samples of Elixir-29378, the Foundation conducted several controlled experiments to ascertain the elixir's regenerative capabilities.</p>
+<h4>Addendum 2.1: Experiment Log Summary</h4>
+<ul>
+<li><strong>Experiment 29378-E01</strong></li>
+<li><strong>Subject</strong>: D-1945, with a diagnosed degenerative bone condition</li>
+<li><strong>Procedure</strong>: Injecting 5ml of Elixir-29378 into subject's bloodstream.</li>
+<li><strong>Result</strong>: Marked improvement in bone density observed within 72 hours, full structural integrity restored in two weeks.</li>
+<li>
+<p><strong>Notes</strong>: Subject reported feeling "rejuvenated" and free of prior chronic pain.</p>
+</li>
+<li>
+<p><strong>Experiment 29378-E02</strong></p>
+</li>
+<li><strong>Subject</strong>: D-8612, suffering from third-degree burns on 40% of the body surface.</li>
+<li><strong>Procedure</strong>: Topical application of Elixir-29378 to affected areas, twice daily.</li>
+<li><strong>Result</strong>: Regeneration of healthy skin tissue, no signs of scarring or infection. Total recovery within one week.</li>
+<li>
+<p><strong>Notes</strong>: Standard burn treatments suspended during the testing period; recovery rate exceeded all known treatments.</p>
+</li>
+<li>
+<p><strong>Experiment 29378-E03</strong></p>
+</li>
+<li><strong>Subject</strong>: D-5710, terminally ill with pancreatic cancer.</li>
+<li><strong>Procedure</strong>: Regular ingestion of Elixir-29378 diluted in water, over a 30-day period.</li>
+<li><strong>Result</strong>: Significant tumor size reduction, improved organ function, and remission achieved by day 45.</li>
+<li><strong>Notes</strong>: Subject remained under observation for six months post-experiment, with no recurrence of illness.</li>
+</ul>
+<h3>Addendum 3: Potential Applications and Ethical Considerations</h3>
+<p>Ongoing discussions within the O5 Council explore the implications of wide-scale use of Elixir-29378, including potential population health benefits, the feasibility of mass production, and the ethical ramifications of its deployment. The potent regenerative properties of the elixir present opportunities for medical breakthroughs but also raise concerns regarding overpopulation and the balance of the world's ecosystems.</p>
+<p>Current sentiment among the council leans towards controlled release for critical and otherwise untreatable conditions under the guise of experimental treatments, pending further study on long-term effects and the entity's behavior. SCP-29378 serves as a paragon of Thaumiel-class SCPs, providing invaluable aid to humanity while its true nature and origins still elude us.</p>
+
+    </div>
+    
