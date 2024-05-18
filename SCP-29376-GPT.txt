@@ -1,0 +1,51 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29376 is  Freezing Squater Treatment </h3> </center>
+
+    <h3>Item #: SCP-29376 - "Arctic Possessor"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29376-GPT.png" alt="Illustration of SCP-29376" />
+        
+<h3>Description:</h3>
+<p>SCP-29376 is a spectral entity that causes rapid environmental cooling and possesses a unique ability to inhabit, animate, and manipulate snow and ice. When present, the ambient temperature in the vicinity rapidly drops to subzero conditions, regardless of prevailing local climate. SCP-29376 frequently creates humanoid forms out of ice and snow, which it uses as avatars to interact with the physical environment. </p>
+<p>These ice avatars exhibit varying degrees of motility and hostility, depending on SCP-29376's intent. Avatars are usually rudimentary in form but can become more intricate and durable over time as SCP-29376 devotes more energy to their construction.</p>
+<p>SCP-29376's presence has been linked to the sudden onset of localized winter storms, anomalous frost damage to vegetation, and the unexplained hypothermia of several individuals, some resulting in fatalities. It exhibits intelligence and an apparent desire to communicate, as evidenced by arrangements of ice shards in recognizable patterns and symbols.</p>
+<p>Initial encounters with SCP-29376 were reported in the rural Alaskan wilderness, but it has since shown the capability of manifesting wherever environmental conditions permit, presenting a containment challenge.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29376 requires a contained environment that can be temperature-controlled to replicate the Alaskan tundra and simultaneously prevent its escape. The containment chamber should be maintained at a temperature not exceeding -5°C and equipped with a secondary containment measure utilizing a Faraday cage to inhibit SCP-29376’s control over electromagnetic fields, a phenomenon noted during initial containment breaches.</p>
+<p>Personnel engaging SCP-29376 must wear specialized cold exposure suits to prevent hypothermia and wear headgear designed to shield against possible mental influence. Two guards trained in cold-weather combat must be stationed at the containment unit entrance at all times. Interaction with SCP-29376 for research purposes requires permission from two Level 4 personnel and must be conducted under controlled thermal and electromagnetic conditions.</p>
+<p>In case of a containment breach, emergency heating elements installed within the facility are to be activated immediately, and Mobile Task Force Delta-12 (“Frostbiters”) is to be deployed to recapture SCP-29376 using thermal lances and flame throwers.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-29376 was first encountered on January 7, 20██, when an Alaskan hunting party reported the disappearance of two members. Search and Rescue (S&amp;R) operations led to the discovery of a small ice cave, where both individuals were found frozen solid, alongside several misshapen snow sculptures.</p>
+<p>Footage from one of the victim’s body cameras showed a humanoid form emerging from the snow, with a subsequent temperature drop visible as ice formed on the camera lens. Facial recognition software identified the form as one of the missing hunters, although the body camera’s wearer was later found deceased without any external injuries, indicating that SCP-29376 utilized their image.</p>
+<p>SCP-29376 was contained following Incident-29376-A, wherein it created an ice avatar to incapacitate the remaining S&amp;R team members. Foundation intervention was rapid, and containment procedures were executed before SCP-29376 could escape the general vicinity of the ice cave.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment-29376-A:</h4>
+<ul>
+<li><strong>Objective</strong>: To understand the limits of SCP-29376’s avatar creation ability.</li>
+<li><strong>Procedure</strong>: Introduced various quantities of water into SCP-29376’s containment chamber.</li>
+<li><strong>Result</strong>: SCP-29376 converted the water into ice, expanding its influence over the newly-formed ice structures. However, it displayed difficulty in animating multiple avatars concurrently, suggesting a limit to its multitasking capabilities.</li>
+</ul>
+<h4>Experiment-29376-B:</h4>
+<ul>
+<li><strong>Objective</strong>: To communicate with SCP-29376.</li>
+<li><strong>Procedure</strong>: Presented SCP-29376 with images and objects from Alaskan culture, including native language scripts.</li>
+<li><strong>Result</strong>: SCP-29376 rearranged ice shards to crudely mimic some of the presented symbols. It showed recognition of the indigenous language scripts, indicating possible origins or previous inhabitation in the area.</li>
+</ul>
+<h4>Experiment-29376-C:</h4>
+<ul>
+<li><strong>Objective</strong>: To determine SCP-29376's response to heat exposure.</li>
+<li><strong>Procedure</strong>: Incrementally increased the temperature within the containment unit.</li>
+<li><strong>Result</strong>: SCP-29376 became visibly agitated and retreated to the coldest section of the containment chamber. Its ice avatars lost integrity and became nonthreatening. Suggested that temperature manipulation can be effectively used in containment breach scenarios.</li>
+</ul>
+<h3>Addendum 3: Incident Reports</h3>
+<h4>Incident-29376-B:</h4>
+<p>On June 23, 20██, SCP-29376 managed to breach containment during a scheduled maintenance check by momentarily disrupting power to the electromagnetic field generator. The entity exited the containment chamber and induced a localized frost hazard within Site-██. </p>
+<p>Three personnel succumbed to acute hypothermia before MTF Delta-12 was able to recontain SCP-29376. Since this breach, all personnel entering SCP-29376’s chamber are required to use additional safety measures, including backup generators for the containment facility.</p>
+<h4>Incident-29376-C:</h4>
+<p>A psychologist assigned to SCP-29376, Dr. Elsa Harrow, reported experiencing vivid dreams involving snowscapes and a figure beckoning her with a voice "like wind through branches." Subsequent investigations considered the possibility of telepathic influences projected by SCP-29376. Mental screenings and dream journaling have been implemented as preventative measures for all personnel assigned to SCP-29376. </p>
+<p>These incidents suggest SCP-29376 may have an inclination toward or capacity for mental influence. How this capability correlates with its primary anomalous effects, or whether it implicates a past of more intricate interaction with humans, remains subject to ongoing investigation. The ethical implications of its containment, given signs of sentience and possible sapience, are also under careful ethical review by the Foundation's Directorate of Humanoid Anomalies.</p>
+
+    </div>
+    
