@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29375 is  Largest Giant Biggest Leviathan With Longest Tail  Kaiju </h3> </center>
+
+    <h3>Item #: SCP-29375 - "Titan's Echo"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29375-GPT.png" alt="Illustration of SCP-29375" />
+        
+<h3>Description:</h3>
+<p>SCP-29375 is an enigmatic aquatic entity resembling a prehistoric leviathan with extraordinary size and length. Initial estimates place SCP-29375 at approximately 300 meters in length with the majority attributed to its tail, which measured 200 meters from base to tip. SCP-29375 has a serpentine body structure lined with bioluminescent patterns that seem to shift in a manner suggestive of a complex communicative method.</p>
+<p>Unlike other Keter or Euclid class SCPs, SCP-29375 has shown no aggressive tendencies towards humans or marine life, instead exhibiting a protective demeanor, particularly in instances involving reality-bending SCPs and anomalous threats to the Earth's oceans. Because of its ability to neutralize such threats, SCP-29375 has been classified as Thaumiel.</p>
+<p>While the full scope of SCP-29375's abilities is undetermined, it possesses the capability to manipulate water pressure and currents, generate localized electromagnetic fields, and emit powerful, low-frequency sounds capable of disorienting or incapacitating adversarial entities. Additionally, it appears to have a potent healing factor, regenerating from injuries that would be lethal to other organisms.</p>
+<p>The origin of SCP-29375 is unknown. Radiocarbon dating of scale samples suggests an age of several millennia, although this may be inaccurate given the entity's anomalous nature.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-29375's size and nomadic patterns, physical containment is deemed impractical. The current containment protocol involves a dedicated satellite surveillance network (codenamed "Leviathan's Gaze"), a fleet of unmanned underwater drones, and a team of Foundation marine biologists specializing in large-scale anomalous entities.</p>
+<p>Any unauthorized vessels, aircraft, or individuals detected approaching SCP-29375's last known location are to be rerouted under the guise of military exercises or environmental disasters. All Foundation engagement with SCP-29375 must be approved by no less than two Level 4 Senior Research staff.</p>
+<p>In the event of SCP-29375 engaging with another SCP or anomalous event, Mobile Task Force Omega-12 ("Abyss Walkers") is to be deployed to monitor the situation, assist in the containment or neutralization of hostile entities, and ensure no civilian exposure to either SCP-29375 or other involved anomalies.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-29375 was first encountered on ████-██-██, when an anomalous signature was detected by Foundation deep-sea monitoring probes in the Mariana Trench. Initial contact was established by a remote-operated submersible that was subsequently destroyed. However, it broadcast sufficient visual data for the Foundation to classify SCP-29375.</p>
+<h3>Addendum 2: Incident 29375-I</h3>
+<p>On ████-██-██, SCP-████, a known reality warping entity, manifested in the Philippine Sea. SCP-29375 intercepted SCP-████, using its electromagnetic field to nullify SCP-████'s abilities, allowing for its recontainment. Following this event, SCP-29375's classification was adjusted to Thaumiel.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>Experiment 29375-E1</strong>: D-Class personnel were instructed to approach SCP-29375 in a submersible. SCP-29375 displayed curiosity but no hostility. After several hours of observation, SCP-29375 assisted the damaged submersible to the surface safely.</p>
+</li>
+<li>
+<p><strong>Experiment 29375-E2</strong>: A sample of water imbued with SCP-████'s reality-altering properties was introduced into SCP-29375's vicinity. SCP-29375 responded by generating a unique sound frequency and a corresponding wave pattern, neutralizing the anomalous properties of the water sample.</p>
+</li>
+<li>
+<p><strong>Experiment 29375-E3</strong>: With the approval of the O5 Council, SCP-29375 was exposed to SCP-█████, a microorganism capable of rapid uncontrollable biological consumption. SCP-29375 sustained significant tissue loss before activating an unknown defensive mechanism, eradicating SCP-█████ and regenerating its injuries completely within 72 hours.</p>
+</li>
+</ul>
+<h3>Addendum 4: Witness Report</h3>
+<p>Fishermen operating illegally within the containment zone reported "a creature larger than an oil tanker and shining like the stars under water." Their boat suffered equipment failure supposedly after SCP-29375 approached it. The fishermen were administered amnestics, and their account was publicly dismissed as an embellished encounter with a large whale.</p>
+<h3>Addendum 5: O5 Memorandum</h3>
+<p>Due to SCP-29375's unique capabilities in counteracting anomalies and protecting Earth's aquatic integrity, O5 Command has designated it as a priority entity for the preservation of normalcy. Should SCP-29375 exhibit distress or display signs of hostility, an emergency meeting of the O5 Council will be convened to reassess containment and engagement protocols.</p>
+
+    </div>
+    
