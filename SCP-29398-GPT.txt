@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29398 is  The Leviathan Kaiju Mega </h3> </center>
+
+    <h3>Item #: SCP-29398 - The Leviathan Kaiju Mega</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29398-GPT.png" alt="Illustration of SCP-29398" />
+        
+<h3>Description:</h3>
+<p>SCP-29398, dubbed "The Leviathan Kaiju Mega," is an anomalous marine creature of unprecedented scale and power. The entity is predominantly reptilian in appearance and shows characteristics consistent with a variety of marine and terrestrial organisms. Estimated to stand over 300 meters in height when fully emergent, SCP-29398 displays immense physical strength, advanced regenerative capabilities, and the unusual ability to manipulate water currents and weather patterns.</p>
+<p>SCP-29398's skin is layered with chitinous plates, which appear to give off a bioluminescent glow in varying shades of blue and green. This glow pulses in an unknown pattern - believed to possibly be a form of communication or a byproduct of its anomalous properties. The entity possesses six limbs: two upper limbs that end in massive webbed claws and four lower limbs used for locomotion in both aquatic and terrestrial environments. SCP-29398 also has a long, powerful tail that contributes to its swimming agility and is used as a weapon during engagement with large objects or perceived threats.</p>
+<p>At the time of writing, SCP-29398 is currently dormant, residing within the Mariana Trench. Its activity patterns are sporadic, as it has been observed to remain inactive for months and then resurface without discernible provocation. Each emergence event invariably results in significant meteorological upheaval, including but not limited to the generation of typhoons, altered ocean currents, and widespread ecological disruption.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the enormous size and immense power of SCP-29398, direct containment is impossible. Current containment procedures are focused on constant surveillance, preparation for emergence events, and mitigation of consequential damage.</p>
+<p>A specialized mobile offshore research and containment unit, codenamed "Station Leviathan," has been established under the guise of an international deep-sea research collaboration. Station Leviathan is equipped with state-of-the-art anomaly detection and tracking systems, and hosts an armed response fleet designed to enact Protocol Aquatic Overlord—a series of strategies designed to distract, redirect, or incapacitate SCP-29398 long enough to coordinate evacuation and disaster relief efforts.</p>
+<p>An exclusion zone of 50 nautical miles is maintained around the last known location of SCP-29398. All unauthorized vessels are to be turned away under the pretense of environmental protection or military operations. Disinformation campaigns are in place to suppress public knowledge of SCP-29398; any leaked information is to be discredited or contained through standard Foundation web scrubbing protocols.</p>
+<p>In the event of an emergence, the nearest response fleet will engage SCP-29398 with the aim of luring the entity away from populated areas. Should SCP-29398 approach land, Procedure Poseidon's Bulwark will be initiated, a contingency plan that involves the use of tactical nuclear devices as a last resort.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-29398 was first encountered in 20██, when multiple naval vessels and submarines near the Mariana Trench reported experiencing violent underwater disturbances followed by significant weather anomalies. First thought to be a series of seismic and meteorological coincidences, an investigation revealed the presence of SCP-29398 when the entity surfaced near the ███████ Islands, leading to Operation Goliath's First Contact scenario.</p>
+<h3>Addendum 2: Interaction Log</h3>
+<h4>Experiment 29398-E1:</h4>
+<ul>
+<li><strong>Date</strong>: ████-██-██</li>
+<li><strong>Objective</strong>: Attempt communication using submersible equipped with high-frequency sonar devices</li>
+<li><strong>Result</strong>: SCP-29398 became agitated and produced a powerful undersea shockwave, causing the submersible to lose functionality. Communication not established.</li>
+</ul>
+<h4>Experiment 29398-E2:</h4>
+<ul>
+<li><strong>Date</strong>: ████-██-██</li>
+<li><strong>Objective</strong>: Observe the response of SCP-29398 to introduced stimuli (a herd of sperm whales)</li>
+<li><strong>Result</strong>: SCP-29398 ignored the whales; however, its bioluminescence increased tenfold, causing a significant rise in sea surface temperature. SCP-29398 remained dormant throughout the interaction.</li>
+</ul>
+<h4>Experiment 29398-E3:</h4>
+<ul>
+<li><strong>Date</strong>: ████-██-██</li>
+<li><strong>Objective</strong>: Test the effect of directed sonar pulses on SCP-29398's movement</li>
+<li><strong>Result</strong>: SCP-29398 responded to the pulses by moving directly towards the source. Procedure Aquatic Overlord was initiated, redirecting SCP-29398 away from the fleet. The entity subsequently dove deep underwater and entered a dormant state.</li>
+</ul>
+<h3>Addendum 3: Incident Report 29398-I7</h3>
+<p>On ████-██-██, SCP-29398 initiated an unforeseen emergence event near ██████████, ███████. Standard intervention procedures proved ineffective at redirecting the creature. SCP-29398 made landfall, causing unprecedented destruction before returning to the ocean. This event resulted in widespread public exposure to the existence of SCP-29398, necessitating the implementation of mass amnestic protocols and an overhaul of the Foundation's containment and response strategies regarding SCP-29398.</p>
+<p>The incident has prompted an ongoing evaluation of the entity's behavioral patterns and interventional technologies and a significant increase in the resources allocated to the research and containment of SCP-29398.</p>
+<hr />
+<p><strong>Additional Notes</strong>: Despite its Keter classification and the obvious threat it poses, SCP-29398's intentions and sentience level remain unclear. Further research and data collection are necessary to better understand and hopefully, one day, achieve a more effective containment procedure for SCP-29398. The possibility that it is not a singular entity, but a member of an undiscovered species, has not been ruled out and warrants consideration in future containment revisions.</p>
+
+    </div>
+    
