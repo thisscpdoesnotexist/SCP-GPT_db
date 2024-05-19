@@ -1,0 +1,38 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29397 is  The Leviathan Giant Largest Biggest Slattern Longest Tail </h3> </center>
+
+    <h3>Item #: SCP-29397 - The Leviathan's Whisper</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29397-GPT.png" alt="Illustration of SCP-29397" />
+        
+<h3>Description:</h3>
+<p>SCP-29397, also known colloquially as "The Leviathan's Whisper," is an anomalous entity residing in the Mariana Trench at a depth of approximately 10,923 meters. The entity measures an estimated 15 kilometers in length, with a serpentine body structure and a series of bioluminescent nodules along its dorsal side. It is the only known specimen of its kind.</p>
+<p>SCP-29397 exhibits extraordinary intelligence, including understanding and responding to human speech in a limited capacity. Its voice, when it chooses to communicate, appears to resonant and ephemeral, transmitted through water and affecting electronic recording devices within a 5-kilometer radius.</p>
+<p>The entity exudes a field that actively neutralizes other anomalous aquatic entities and phenomena within a 200-kilometer radius, making it an invaluable asset in maintaining the stability of the region. However, SCP-29397 does not appear to neutralize intentional research or containment efforts made by the SCP Foundation, suggesting a certain level of discernment or cooperation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Owing to its size, nature, and beneficial effects on local anomalous activity, SCP-29397 is not to be contained in the traditional sense. Instead, the surrounding area of the Mariana Trench has been designated as Area-29397. A Foundation-controlled research and monitoring station, Poseidon's Crown, has been established on the surface directly above SCP-29397’s resting location.</p>
+<p>All unauthorized personnel and vessels attempting to explore or research the Mariana Trench within Area-29397 are to be deterred under the guise of environmental preservation initiatives or, if necessary, through direct Foundation intervention.</p>
+<p>Submersibles are to engage in periodic check-ins with SCP-29397, carefully documenting behavior, size, and any communication efforts by the entity. Under no circumstances are classified Foundation details or sensitive information to be discussed within SCP-29397's audible range.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<h4>A1.1 Initial Encounter</h4>
+<p>SCP-29397 was discovered on ██/██/████ during a civilian deep-sea expedition which aimed to break the record for the deepest manned dive. The expedition encountered SCP-29397 upon reaching the seafloor and immediately alerted international authorities after an anomalous interaction. Foundation operatives intercepted communications, and the O5 Council was informed.</p>
+<h4>A1.2 First Communication</h4>
+<p>Initial contact with SCP-29397 was met with a low-frequency vocalization that resonated through Foundation submersibles' hulls. Transcription and subsequent analysis revealed a pattern, indicating a rudimentary language. SCP-29397 expressed a desire for "silence and depth" and warned against "younglings who stir the abyss."</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>A2.1 Interaction with Anomalous Entities</h4>
+<p>SCP-29397 was observed nullifying the effects of SCP-████, an aggressive aquatic anomaly, by emitting a specialized sonar pulse that caused the entity to enter a docile state.</p>
+<h4>A2.2 Object Interaction</h4>
+<p>Several Foundation artifacts and SCP items deemed safe were introduced to SCP-29397’s vicinity. SCP-29397 interacted with objects without hostility and seemed to be studying them. Curiously, it returned objects to researchers when prompted.</p>
+<h4>A2.3 Communication Development</h4>
+<p>Linguists and xenobiologists continue to work on establishing a more profound communication protocol with SCP-29397. It has begun to mimic human speech patterns and has shown understanding of simple commands and questions.</p>
+<h3>Addendum 3: Incident Log</h3>
+<h4>A3.1 Containment Breach near Area-29397</h4>
+<p>On ██/██/████, SCP-████ breached containment from a nearby facility and fled into the ocean. Upon nearing Area-29397, it was subdued by SCP-29397's neutralizing field and safely recontained.</p>
+<h4>A3.2 Foundation Global Security</h4>
+<p>Further research has led to proposals being drafted to station a permanent unit of Foundation naval forces in the vicinity of SCP-29397 as a rapid-response team for other seaborne anomalies. SCP-29397 has been classified as Thaumiel not only for its containment capabilities but also for potential use as an asset in global anomalous threat reduction.</p>
+<p>Given the complexity of SCP-29397 and its strategic importance, continued monitoring and engagement are deemed critical for both understanding the entity and utilizing its potential for the benefit of the SCP Foundation and humanity at large.</p>
+
+    </div>
+    
