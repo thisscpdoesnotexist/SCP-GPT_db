@@ -1,0 +1,45 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29559 is  Cartoon Butterfly Apples </h3> </center>
+
+    <h3>Item #: SCP-29559 - "Cartoon Butterfly Apples"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29559-GPT.png" alt="Illustration of SCP-29559" />
+        
+<h3>Description:</h3>
+<p>SCP-29559 refers to an orchard of 30 apple trees (Malus domestica) anomalously modified to bear fruit resembling cartoon-styled butterflies (Lepidoptera). These fruits, hereby designated as SCP-29559-1 instances, appear normal until they reach maturity, at which time they metamorphose over a period of approximately 72 hours. The final form is a colorful caricature of a butterfly, possessing wings, rudimentary facial features, and the ability to flutter weakly. Their wingspan ranges from 10 to 15 centimeters.</p>
+<p>SCP-29559-1 instances are not sentient and possess no circulatory or digestive systems akin to actual butterflies or any living organism. Their internal structure is consistent with that of a standard apple, with seeds at the center encased in a hard core, surrounded by typical apple flesh.</p>
+<p>While SCP-29559-1 instances require nutrients from the host tree to complete their transformation, they seemingly perform no ecological function. Consumption of SCP-29559-1 has proven to be safe, with taste and nutritional content indistinguishable from non-anomalous apples of a similar variety.</p>
+<p>SCP-29559 was discovered in [REDACTED], England, on a privately-owned farm after reports circulated of "flying fruit" among the locals. The Foundation enacted Protocol-47V (aka "Silly Seedling"), implementing a disinformation campaign and securing the area before transporting the trees to Site-103 for further study.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29559 is housed in an isolated and environmentally-controlled arboretum at Site-103. The containment area is equipped with an artificial sunlight system and is maintained by onsite botanists to mimic the natural habitat of Malus domestica. </p>
+<p>The orchard is sectioned off from any pollinators capable of spreading SCP-29559's seeds. Apples must be harvested before maturation to prevent the possible escape of SCP-29559-1 instances. Staff handling the fruits are required to wear full protective gear to prevent accidental ingestion or exposure to pollen.</p>
+<p>Outside of scheduled testing, access to SCP-29559 is limited to personnel with Level 2 clearance and above. Any seedlings that emerge from SCP-29559-1 specimens are to be incinerated immediately to prevent propagation.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 29559-E-01</h4>
+<ul>
+<li><strong>Objective:</strong> To observe the metamorphosis of SCP-29559-1 from maturity to the butterfly-like form.</li>
+<li><strong>Procedure:</strong> Sample of SCP-29559-1 instances monitored in a controlled environment.</li>
+<li><strong>Results:</strong> Transformation completed after 73 hours. Instances were able to flutter for short periods before becoming inert.</li>
+<li><strong>Notes:</strong> Instances appear to require no sustenance or external stimuli to change form.</li>
+</ul>
+<h4>Experiment 29559-E-02</h4>
+<ul>
+<li><strong>Objective:</strong> To test the edibility and nutritional value of SCP-29559-1 post-transformation.</li>
+<li><strong>Procedure:</strong> D-Class personnel instructed to consume a fully metamorphosed SCP-29559-1 instance.</li>
+<li><strong>Results:</strong> No adverse health effects reported. Subject described the taste as “moderately sweet with a crunchy texture.”</li>
+<li><strong>Notes:</strong> Despite their anomalous appearance, SCP-29559-1's internal structure remains similar to non-anomalous apples.</li>
+</ul>
+<h3>Addendum 2: Incident 29559-I-01</h3>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Event:</strong> A single SCP-29559-1 instance escaped containment due to a lapse in harvesting protocols. The instance was later recovered in the cafeteria on a fruit salad bar, having been mistakenly added by staff unaware of its nature.</li>
+<li><strong>Outcome:</strong> No breaches of secrecy occurred as SCP-29559-1 instances do not demonstrate anomalous behavior beyond the initial transformation. Review and reinforcement of harvesting and containment protocols were executed promptly to prevent future incidents.</li>
+</ul>
+<h3>Addendum 3: Researcher's Notes</h3>
+<p>Dr. Kaplan's Commentary: "The ongoing study of SCP-29559 could teach us much about the potential for the creation of new fruit cultivars and anomalous agricultural practices. The public reaction to the concept of 'living' fruit highlights the need for stringent containment, but the opportunities for learning are significant."</p>
+<p>Field Agent Lorne's Observation: "Local legend spoke of 'fairy trees' that could charm the birds out of the skies. Seems it wasn't just a tall tale after all. Perhaps this SCP-29559 is a remnant of something older, or maybe it's just another fluke of the unknown we've yet to unravel."</p>
+
+    </div>
+    
