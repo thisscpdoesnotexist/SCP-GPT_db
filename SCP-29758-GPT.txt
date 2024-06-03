@@ -1,0 +1,39 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29758 is  A VPN Gone Worng </h3> </center>
+
+    <h3>Item #: SCP-29758 - A VPN "Gone Wrong"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29758-GPT.png" alt="Illustration of SCP-29758" />
+        
+<h3>Description:</h3>
+<p>SCP-29758 refers to a software anomaly initially resembling a conventional Virtual Private Network (VPN) application. The anomaly was originally encountered on the deep web, being advertised as a tool for accessing "realms beyond standard browsing." SCP-29758 enables users to establish internet connections that not only mask the origin IP address but seemingly allow the user's digital presence to traverse into parallel digital dimensions, which are henceforth referred to as SCP-29758-1 instances.</p>
+<p>These SCP-29758-1 instances correspond to alternative versions of the World Wide Web, each with their distinct histories, content, and occasionally, sentient entities. Interactions with these entities have varied from docile exchanges to hostile attacks on Foundation cybersecurity. SCP-29758 is capable of altering data perceivably retroactively, indicating either manipulation of time or causality within the digital realm.</p>
+<p>SCP-29758 was originally classified as Euclid until the potential for intelligence gathering and exploitation of its anomalous properties in Foundation cybersecurity operations was realized. Its reclassification to Thaumield reflects its unique utility in both containment of other SCPs and defensive measures against infosec threats.</p>
+<h3>Special Containment Procedures:</h3>
+<p>All instances of SCP-29758 are to be stored on air-gapped hardware in Secure Storage Facility-█, with no external network connections. Research and experimentation with SCP-29758 are to occur only within isolated Virtual Machines specifically designed to contain and analyze high-threat software anomalies, under strict supervision from assigned personnel and AI constructs calibrated to recognize and respond to extradimensional threats.</p>
+<p>Personnel who have interacted with SCP-29758 instances must undergo a full cognitive evaluation and a 14-day observation period to detect potential cognitohazardous effects. Should any personnel exhibit anomalous behavior or unauthorized knowledge relating to non-native digital dimensions, they are to be detained and administered Class-X amnestics.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-29758 was discovered following reports of an individual, later identified as Clyde ████████, who claimed to possess "prophetic knowledge of internet events." ████████ was traced back to an online forum focused on cybersecurity and digital esoterics where he had shared vague details about SCP-29758, referring to it as "The Unseen Navigator." Foundation cyber-assets managed to locate and secure ████████, who revealed the nature of the anomaly before being administered amnestics.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>2.1 Experiment Log - SCP-29758 Interaction with SCP-29758-1 Instance Alpha</h4>
+<p><strong>Date</strong>: ██/██/20██
+<strong>Lead Researcher</strong>: Dr. Michelle Langford
+<strong>Subject</strong>: D-████ (Equipped with cognitive protection gear)</p>
+<p><strong>Procedure</strong>: Subject instructed to access a specific web address within SCP-29758-1 Instance Alpha using SCP-29758.
+<strong>Results</strong>: The subject encountered a version of the Foundation's database with differing SCP entries. Information was gathered regarding two non-extant SCPs from our dimension.</p>
+<p><strong>Analysis</strong>: Data suggests interdimensional leakage or coexistence of concurrent informational realities. Further investigation is required to understand the implications of these findings.</p>
+<h4>2.2 Experiment Log - SCP-29758 Interaction with Hostile Entity</h4>
+<p><strong>Date</strong>: ██/██/20██
+<strong>Lead Researcher</strong>: Dr. Haruto Nguyen
+<strong>Subject</strong>: Automated Foundation Cybersecurity Probe (AFCP-12)</p>
+<p><strong>Procedure</strong>: AFCP-12 deployed into SCP-29758-1 Instance Epsilon to establish dialogue with a previously encountered hostile digital entity.
+<strong>Results</strong>: Entity referred to itself as "The Gatekeeper." It expressed knowledge of the Foundation and demonstrated ability to temporarily disrupt AFCP-12's operation. The session was terminated manually after AFCP-12's self-preservation protocols were triggered.</p>
+<p><strong>Analysis</strong>: The existence of sentient digital entities within SCP-29758-1 instances is confirmed. The potential for leveraging or containing such entities remains of high research interest.</p>
+<h3>Addendum 3: Incident Report 29758-01</h3>
+<p>On ██/██/20██, SCP-29758 was utilized without authorization by Researcher ████ █████, resulting in a containment breach of SCP-████. █████ attempted to use SCP-29758 to alter the containment protocols of SCP-████ within an SCP-29758-1 instance. Surveillance showed █████ engaging in behaviors indicating advanced knowledge of alternate Foundation procedures after the event.</p>
+<p>█████ was taken into custody, and an investigation into the extent of SCP-29758-induced knowledge is ongoing. This incident has led to an overhaul of the containment procedures, emphasizing stricter access control and post-utilization monitoring.</p>
+
+    </div>
+    
