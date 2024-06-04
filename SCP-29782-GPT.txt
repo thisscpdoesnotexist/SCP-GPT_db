@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29782 is  Station To Largest Leviathan Entity Leviathan Largest Spikes Tail  </h3> </center>
+
+    <h3>Item #: SCP-29782 - "The Celestial Harpoon"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29782-GPT.png" alt="Illustration of SCP-29782" />
+        
+<h3>Description:</h3>
+<p>SCP-29782, known colloquially as "The Celestial Harpoon," is an anomalous structure located in the South Pacific Ocean. It manifests as an immense, ancient whaling station, resting on an otherwise uninhabited, uncharted island. The station is composed primarily of a substance resembling petrified wood, interlaced with a metal alloy similar to bronze but with anomalous durability. At the center of the station lies an enormous harpoon, approximately 300 meters in length, with unknown symbols engraved along its shaft.</p>
+<p>This harpoon is of particular interest due to its apparent purpose and functionality: it serves to immobilize the entity designated SCP-29782-1, a colossal, sapient aquatic creature resembling historical descriptions of sea serpents or leviathans. This entity is capable of communication through an unknown telepathic method, expressing intelligence and a sense of ancient wisdom. SCP-29782-1 measures over five kilometers from head to tail, with numerous retractable spikes adorning its spine, capable of emitting bio-luminescent light.</p>
+<p>Although SCP-29782-1 possesses the potential to cause catastrophic tsunamis or other major disturbances, the presence of the harpoon holds the entity in place, exerting a calming effect and deterring it from moving towards heavily populated coastal areas. The mechanism of control is not entirely understood, but research indicates a mixture of physical restraint and metaphysical influence over SCP-29782-1's will.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-29782's stationary nature and the entity it contains, containment is focused primarily on maintaining the secrecy of the existence of both the station and SCP-29782-1. As such, the following procedures have been implemented:</p>
+<ol>
+<li>A 200 nautical mile exclusion zone has been established around the island of SCP-29782, monitored by Foundation naval vessels under the guise of a marine wildlife reserve.</li>
+<li>No unauthorized personnel are allowed to approach the island. Any civilians who inadvertently enter the exclusion zone are to be redirected away under plausible pretense.</li>
+<li>A permanent research outpost, Site-29782, has been established on the island to monitor and study both SCP-29782 and SCP-29782-1. This facility is staffed by a rotating team of researchers specializing in marine biology, cryptolinguistics, and metaphysics.</li>
+<li>SCP-29782-1 is to be periodically communicated with by a designated researcher with cryptolinguistic training to ensure it remains passive and to glean any possible knowledge regarding its origins and the nature of SCP-29782.</li>
+<li>Any significant changes in SCP-29782-1's behavior, or the structural integrity of the harpoon, are to be reported immediately to Overwatch Command.</li>
+</ol>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-29782 was discovered on ██/██/20██ when satellite imagery revealed anomalous, short-duration light patterns emanating from the previously undocumented island. An exploration team was dispatched and stumbled upon the whaling station and the subdued SCP-29782-1. Initial communication attempts led to the understanding that the entity has been trapped by the harpoon for an indeterminate number of centuries, if not millennia. The origin of SCP-29782 and its harpoon remain unknown.</p>
+<h3>Addendum 2: Interview Logs</h3>
+<h4>Subsection A: Cryptolinguistic Communication Log</h4>
+<p><strong>Researcher:</strong> Dr. Eileen Mokhtar
+<strong>SCP-29782-1 Response:</strong> (Paraphrased, not direct quotes) SCP-29782-1 expressed a resigned familiarity with its confinement, indicating an obligation to remain bound to prevent an unnamed catastrophe. The entity hinted at the existence of other beings of similar magnitude, locked away for the 'balance of the skies and the seas.'</p>
+<h4>Subsection B: Behavior Observation Log</h4>
+<p>SCP-29782-1 has shown signs of restlessness at predictable intervals, coinciding with various astrological events, such as solar eclipses or planetary alignments. The harpoon's restraining influence appears to strengthen during these occurrences, emitting a faint glow and causing SCP-29782-1 to return to a state of dormancy.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 29782-E1</h4>
+<p><strong>Objective:</strong> To determine the extent of SCP-29782-1's telepathic abilities
+<strong>Procedure:</strong> D-class personnel equipped with a recording device were sent to various distances from SCP-29782-1 to see if communication was possible.
+<strong>Result:</strong> Communication was sustained up to 1500 meters from the entity, with diminishing clarity at greater distances.</p>
+<h4>Experiment 29782-E2</h4>
+<p><strong>Objective:</strong> To assess the effects of direct interaction with the harpoon
+<strong>Procedure:</strong> D-class personnel instructed to physically touch the harpoon.
+<strong>Result:</strong> Upon contact, the D-class entered a trance-like state, reporting vivid hallucinations related to historical whaling expeditions and oceanic mythology. No lasting effects noted upon withdrawal from the harpoon's vicinity.</p>
+<p>As SCP-29782's complete capabilities and history are still being uncovered, and given its classification as Thaumiel for its critical role in containing SCP-29782-1, ongoing research and careful monitoring of this anomalous site remain top priorities for the SCP Foundation.</p>
+
+    </div>
+    
