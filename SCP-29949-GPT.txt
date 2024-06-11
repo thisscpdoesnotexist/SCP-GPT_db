@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29949 is  a cursed iron that smooths the user's brain </h3> </center>
+
+    <h3>Item #: SCP-29949 - "The Cerebral Iron"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29949-GPT.png" alt="Illustration of SCP-29949" />
+        
+<h3>Description:</h3>
+<p>SCP-29949 appears to be a standard household flat iron, typically used for removing creases from clothing. It possesses a dark metallic sheen and is unusually heavy, weighing approximately 4.5 kilograms. SCP-29949 is adorned with unusual symbols that resemble a fusion of Cyrillic script and geometric patterns not matching any known human language or design.</p>
+<p>The anomalous properties of SCP-29949 manifest when it is used in a manner consistent with a typical iron, on any fabric. When activated and glided over a material, it induces a localized space-time anomaly affecting the user's brain. Within seconds of use, the user's higher brain functions begin to diminish, eventually leaving them in a state best described as "mental flattening." This effect is irreversible and leaves the victim in a vegetative state. A post-effect brain scan typically shows literal smoothing of the brain's gyri and sulci, similar to the effect of the iron on clothes, hence the moniker "The Cerebral Iron."</p>
+<p>Initial theories suggest that SCP-29949 doesn't harm the brain directly but rather interacts with the consciousness of the user, perhaps "ironing out" the cognitive complexities and reducing the individual to a state of minimal consciousness.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29949 is to be contained in a standard secured containment locker at Site-77. The locker should be lined with a 5 cm thick layer of lead to prevent any potential emanations during inactive periods. Access to SCP-49929 is strictly forbidden outside of approved testing and must always be handled with remote-operated tools to prevent accidental activation or direct contact with personnel. </p>
+<p>Any testing must be pre-approved by at least two Level 4 Research staff and conducted in a hermetically sealed chamber equipped with an automatic emergency containment system designed to stabilize any unexpected space-time anomalies. D-Class personnel used for testing must have no knowledge of SCP-29949's effects to avoid potential psychological influence on the anomaly's activation. </p>
+<p>Under no circumstances should fabric be allowed within the proximity of SCP-29949 outside of testing conditions. In the event of a containment breach, the area is to be immediately evacuated, and a containment team equipped with hazmat suits and cognitive shielding helmets is to be dispatched.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-29949 was recovered from a suburban home in ████████, Russia, after a local news report concerning a family found in a comatose state with no apparent cause. Foundation agents embedded in local law enforcement were dispatched, and the entire household was discovered incapacitated with physical brain abnormalities. The Foundation performed a standard disinformation campaign to cover up the event, including a gas leak story for the public.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 29949-E1:</strong>
+- <strong>Subject:</strong> D-99314
+- <strong>Procedure:</strong> Subject was instructed to iron a standard cotton shirt placed on an ironing board in the testing chamber.
+- <strong>Results:</strong> D-99314 initiated the ironing process. After approximately 60 seconds, subject collapsed. Medical examination revealed the subject entered a vegetative state, with brain scans showing the smoothed neural structures typical of SCP-29949 exposure.
+- <strong>Notes:</strong> Experiment halted. Further tests to understand exposure time and distance to effect are authorized.</p>
+<p><strong>Experiment 29949-E2:</strong>
+- <strong>Subject:</strong> D-88317
+- <strong>Procedure:</strong> Subject introduced to the chamber with the instruction to stand at a distance of 2 meters from SCP-29949 while another D-Class (D-88318) operates the device via remote robotic arm.
+- <strong>Results:</strong> D-88318, operating the SCP remotely, is unaffected. D-88317, however, collapses after 94 seconds. Brain scans later confirm the same cerebral alterations.
+- <strong>Notes:</strong> It seems proximity when SCP-29949 is active, even without direct operation, can lead to the effect. Further safety measures implemented for containment.</p>
+<p><strong>Experiment 29949-E3:</strong>
+- <strong>Subject:</strong> D-77421 (Blindfolded)
+- <strong>Procedure:</strong> Subject was instructed to activate SCP-29949 but was not informed of the object's function or appearance.
+- <strong>Results:</strong> D-77421 displayed signs of distress almost immediately after activation, claiming to hear a "hissing" sound followed by a sensation of heat around her head. At 45 seconds, subject lost consciousness and subsequent medical evaluation confirmed the expected brain changes.
+- <strong>Notes:</strong> Auditory and possibly even thermal hallucinations associated with SCP-29949's activation. This could indicate the effect is not simply spatial but could also be psychological or sensory-related.</p>
+<h3>Addendum 3: Incident Report 29949-I1</h3>
+<p>Following experiment 29949-E3, SCP-29949 activated spontaneously while in containment, despite no apparent interaction from personnel or D-Class subjects. The camera feed showed the symbols on SCP-29949 illuminating before the device powered itself on. The iron floated approximately 3cm off its pedestal for 7 seconds before deactivating and resettling into its original position. Investigative measures to understand this self-activation are ongoing, and security protocols for SCP-29949 have been updated to include 24/7 surveillance.</p>
+
+    </div>
+    
