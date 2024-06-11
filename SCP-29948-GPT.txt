@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29948 is  Something that can give a buff every day. It's completely random but always something beneficial, like  5% strength or 12% shark damage resistance. </h3> </center>
+
+    <h3>Item #: SCP-29988 - "Fortuna's Gamble"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29948-GPT.png" alt="Illustration of SCP-29948" />
+        
+<h3>Description:</h3>
+<p>SCP-29988 is an ornate, antique-looking slot machine of unknown origin. The primary material appears to be brass, with intricate designs suggesting a crafting period in the late 19th century. Despite its aged appearance, SCP-29988 remains resistant to damage or wear. It has a single lever on its right-hand side, a three-reel display with various symbols that do not match any known iconography, and a coin slot. The anomalous properties manifest when a human subject places a coin into SCP-29988, pulls the lever, and observes the resultant combination of symbols.</p>
+<p>Following the reel stop, subjects report a distinct feeling of either warmth or coolness that spreads from the chest to the rest of the body, indicating the "buff" has taken effect. These enhancements are temporary, lasting approximately 24 hours, and range from modest physical augmentations to obscure and highly specialized resistances, such as resistance to shark bites or an enhanced palate for detecting poisons. SCP-29988 does not accept currency minted post-1972 and will reject such coins by expelling them through the coin return.</p>
+<p>The source or mechanism of the enhancement's selection remains undetermined. Analysis of the symbols on the reels has yet to yield any correlation or causation regarding the buffs provided. The buffs seem to be beneficial in nature and non-harmful to the subject. To date, SCP-29988 has not repeated buffs for any individual subject, which has made cataloging the full extent of its capabilities a complex, ongoing process.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29988 is to be contained in a standard secure object locker at Site-77. Access to SCP-29988 for testing purposes requires Level 3 clearance and must be supervised by at least two (2) personnel with experience in handling anomalous objects.</p>
+<p>Security cameras are installed to monitor SCP-29988 at all times. For precautionary reasons, individuals who have received buffs from SCP-29988 are to be monitored for a minimum of 48 hours post-interaction to determine the full extent and duration of the effects, as well as to rule out any delayed adverse reactions.</p>
+<p>Interactions with SCP-29988 outside of the approved testing protocol are strictly forbidden. Any unauthorized engagement with SCP-29988 will result in disciplinary action and potential reassignment.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p><strong>Addendum 1-A: Acquisition</strong>
+SCP-29988 was discovered during a raid on a gambling den operated by a group with suspected anomalous object trafficking in Naples, Italy. Agents embedded within the Italian police force reported its existence after several patrons experienced inexplicable phenomena. The Foundation quickly intervened to contain SCP-29988 and administer amnestics to witnesses.</p>
+<p><strong>Addendum 1-B: Initial Testing</strong>
+Preliminary testing of SCP-29988 yielded a variety of enhancements, including increased physical strength, accelerated healing, and heightened senses. The machine's consistent delivery of positive buffs raised concerns of potential addiction or dependency risks; precautionary guidelines were established to prevent repeated use by personnel.</p>
+<h3>Addendum 2: Experiment  Log</h3>
+<p><strong>Experiment Log 29988-E-15</strong></p>
+<p>| <strong>Date</strong> | <strong>Subject</strong> | <strong>Buff Received</strong>        | <strong>Notes</strong>                                                                                                 |
+|----------|-------------|--------------------------|-----------------------------------------------------------------------------------------------------------|
+| 2023/3/4 | D-1503      | +20% Memory Recall       | Subject was administered a series of memory tests with improved results.                                   |
+| 2023/3/5 | D-7768      | +5% Strength             | Minor improvement in physical tasks.                                                                      |
+| 2023/3/8 | D-9886      | +12% Shark Damage Resistance | Subject was not tested in relevant conditions. Buff noted for record-keeping purposes. |</p>
+<p><strong>Experiment Log 29988-E-21</strong></p>
+<p>| <strong>Date</strong>    | <strong>Subject</strong> | <strong>Buff Received</strong>        | <strong>Notes</strong>                                                                                                                   |
+|-------------|-------------|--------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 2023/4/6    | D-8123      | -12% Hunger Sensation    | Subject reported a significant decrease in hunger. Physiological needs appeared unaffected.                                 |
+| 2023/4/6    | Dr. Fillian | +8% Auditory Perception  | Enhanced ability to discern frequencies outside normal human range temporarily. Caution advised for potential eardrum damage.  |
+| 2023/4/7    | D-4521      | +3% Dexterity            | Improved manual task completion times recorded.                                                                              |</p>
+<p><strong>Addendum 2-A: Long-term Observation</strong>
+Subjects who receive buffs are to be observed beyond the 24-hour period to determine any potential side effects that may manifest over longer durations. No lasting alterations have been noted; however, the possibility of a latent reaction cannot be entirely ruled out at this time.</p>
+<p><strong>Addendum 2-B: Psychological Impact</strong>
+Following interactions with SCP-29988, D-Class personnel have exhibited increased morale and cooperative behavior. There is ongoing debate within the containment team regarding the potential use of SCP-29988 as a reward mechanism under controlled conditions. A proposal is under review by Ethics Committee.</p>
+<h3>Addendum 3: Incident Report 29988-IR-01</h3>
+<p><strong>Addendum 3-A: Security Breach</strong>
+On 2023/5/3, Research Assistant ████ attempted to use SCP-29988 without authorization, claiming they felt "compelled" to do so. Though no adverse effects have been connected to SCP-29988, this incident has raised concerns regarding the possibility of an unknown compulsive property. Security protocols have been updated to include psychological evaluations for all personnel assigned to SCP-29988.</p>
+<p><strong>Addendum 3-B: Research Assistant ████ Post-Interaction</strong>
+Research Assistant ████ was placed under observation following the breach. They received a buff to spatial awareness, reporting being able to navigate the facility blindfolded with great accuracy for the 24-hour duration. The staff member has been reprimanded, demoted to D-Class, and transferred to another site to prevent further incidents.</p>
+<p>In light of this, the current classification of SCP-29988 as Euclid has been upheld, and staff vigilance is to be reinforced to ensure no further infractions occur.</p>
+
+    </div>
+    
