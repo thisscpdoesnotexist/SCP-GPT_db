@@ -1,0 +1,37 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29951 is  wall of grizzly bears 2 meters thick, 5 meters high, and very very wide. </h3> </center>
+
+    <h3>Item #: SCP-29951 - "The Ursid Barrier"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29951-GPT.png" alt="Illustration of SCP-29951" />
+        
+<h3>Description:</h3>
+<p>SCP-29951, dubbed "The Ursid Barrier," is an anomalous phenomenon manifested as an ostensibly impenetrable wall of grizzly bears (Ursus arctos horribilis), approximately 2 meters thick, 5 meters high, and currently spanning an estimated 50 kilometers in length. The bears comprising SCP-29951 are alive but exhibit several abnormal characteristics. </p>
+<p>Each bear seems to share a hive-mind consciousness, operating as a single entity rather than as individual organisms. They maintain an unbroken, interlocked formation resembling a defensive wall, with each bear using its body to physically support the structure. No attempts at communication with SCP-29951 have been successful, and the bears do not react to any stimuli in a manner consistent with non-anomalous Ursus arctos horribilis. </p>
+<p>Biological samples taken from the bears are undifferentiated and are indistinguishable from each other, suggesting that they might be either clones or otherwise genetically identical. The barrier regenerates at a remarkable rate, closing up within seconds if parts of it are removed or destroyed.</p>
+<p>Preferring remote, uninhabited regions to manifest, SCP-29951 has so far evaded public discovery. However, the barrier's steady growth is a cause for concern, as it has been slowly expanding its length by several meters each month.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the immensity and persistent regeneration of SCP-29951, physical containment is not feasible. Instead, the current containment strategy is based on isolation and information suppression. A perimeter has been established with a 20-kilometer buffer zone around the known length of SCP-29951. This perimeter is to be monitored by drone surveillance and Foundation personnel operating out of Site-77, camouflaged as an ecological research station to maintain secrecy.</p>
+<p>Any non-Foundation personnel approaching SCP-29951 must be intercepted and amnesticized with their intrusion attributed to a training exercise for local military forces. Additionally, satellite imagery and any form of electronic mapping data pertinent to SCP-29951's location must be altered to maintain the veil of normalcy.</p>
+<p>SCP-29951 exhibits a violent response to any advanced weaponry or explosives but is unresponsive to small arms or melee weapons. It is imperative to test various forms of containment breach deterrents to devise a more permanent containment strategy. Any engagement with SCP-29951 must be approved by at least one Level 4 personnel, and MTF Delta-6 ("Bear Tamers") is to be stationed at Site-77 for immediate response in the event of an emergency.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 29951-A</h4>
+<p><strong>Objective:</strong> To assess the penetrative capabilities of SCP-29951's barrier.
+<strong>Method:</strong> Utilization of industrial cutting tools.
+<strong>Result:</strong> The machinery was rendered inoperative upon contact. Physical recovery was impossible due to rapid regrowth of contact points.</p>
+<h4>Experiment 29951-B</h4>
+<p><strong>Objective:</strong> To determine SCP-29951’s reaction to fire.
+<strong>Method:</strong> Application of a controlled incendiary device.
+<strong>Result:</strong> SCP-29951's barrier remained unaffected by fire. Flames extinguished upon touching SCP-29951, leaving no signs of damage or distress in the individual bears.</p>
+<h4>Experiment 299 -C</h4>
+<p><strong>Objective:</strong> To attempt communication with SCP-29951.
+<strong>Method:</strong> Deployment of a D-class personnel with instructions to gesture peacefully and deliver a scripted greeting.
+<strong>Result:</strong> SCP-29951 did not react nor acknowledge the communication attempt. D-class was able to approach the barrier but was gently pushed back when they tried to pass through it.</p>
+<h3>Addendum 2: Incident Report 29951-01</h3>
+<p>On ██/██/202█, SCP-29951 expanded rapidly by 500 meters overnight, encroaching on a nearby civilian population center. A rapid response was executed by MTF Delta-6, and an emergency disinformation campaign was initiated to attribute the sudden appearance of a "bear congregation" to a mass migration due to climate change effects.</p>
+<p>This incident has prompted an immediate review of containment procedures and an expansion of the buffer zone to 30 kilometers. Research into potential SCP-29951 deterrents has been categorized as a priority to prevent future containment breaches with civilian exposures.</p>
+
+    </div>
+    
