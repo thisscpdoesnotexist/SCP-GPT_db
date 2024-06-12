@@ -1,0 +1,49 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29960 is  a super strong murder monster that would be far more dangerous if it weren't for it's crippling social anxiety  </h3> </center>
+
+    <h3>Item #: SCP-29960 - "The Solitary Predator"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29960-GPT.png" alt="Illustration of SCP-29960" />
+        
+<h3>Description:</h3>
+<p>SCP-29960 appears to be an apex predatory entity, resembling a blend of several large terrestrial carnivores, primarily feline and canine in features, with anomalously enhanced strength, speed, and resilience. Its body is covered in a thick, dark pelt, and it possesses a set of eyes capable of seeing across a vastly extended spectrum of light. SCP-29960 demonstrates intelligence comparable to that of a high-functioning primate and displays complex emotional behaviors.</p>
+<p>One of the most striking anomalies of SCP-29960 is its severe social anxiety, which manifests whenever it encounters a sentient being that recognizes its presence. SCP-29960 becomes highly distressed, actively avoiding eye contact and any form of direct confrontation. When faced with a social interaction scenario, SCP-29960's stress levels increase drastically, causing it to flee or enter a catatonic state until it no longer senses attention directed towards it.</p>
+<p>Physiological analysis of SCP-29960 reveals an anomalous glandular structure which seems to produce a unique hormone. This hormone, hereby designated SCP-29960-Ω, appears to be the catalyst for its anxiety response. SCP-31415-Ω is overproduced during social stress and has a rapid, systemic effect on SCP-29960's autonomy and cognitive function.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29960 is to be contained within a specialized habitat enclosure at Site-██, mimicking that of a dense forest biome. The enclosure is to be a minimum of two hectares in size to allow for adequate roaming space. The enclosure must be outfitted with soundproofing measures to prevent SCP-29960 from sensing external stimuli that might trigger its anxiety response.</p>
+<p>Personnel entering SCP-29960's enclosure are to wear eye-contact avoidance goggles to ensure indirect observation only. Any direct interaction with SCP-29960 must be pre-approved by Level 3 personnel and conducted via remotely operated drones or tools when necessary for study or medical examination.</p>
+<p>Feeding is to take place three times per week through automated systems to minimize stress. In the event that SCP-29960 becomes too anxious or catatonic, a mechanism to release a soporific gas within its enclosure may be employed to enable personnel to intervene safely.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<h4>Addendum 1-A: Initial Encounter</h4>
+<p>SCP-29960 was first discovered in a sparsely populated forest region in ██████ National Park after reports of an "invisible beast" which was responsible for a series of animal fatalities. Mobile Task Force Delta-5 ("Front Runners") were dispatched to investigate. Upon encountering a visual confirmation of SCP-29960, it promptly exhibited signs of distress and fled, proving difficult to track due to its camouflaging abilities and extreme aversion to being observed.</p>
+<h4>Addendum 1-B: Capture</h4>
+<p>SCP-29960 was eventually captured using a pheromone bait and a containment trap designed to obscure it from direct view. Once confined and unable to perceive any observers, SCP-29960 ceased all escape attempts and was transported safely to Site-██.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 29960-E1: Non-Verbal Interaction</h4>
+<p><strong>Objective:</strong> To measure SCP-29960's response to presence without direct interaction.
+<strong>Procedure:</strong> D-7381 entered the enclosure wearing eye-contact avoidance goggles and remained motionless.
+<strong>Results:</strong> SCP-29960 demonstrated minor agitation, pacing around the enclosure perimeter but displaying no aggression.
+<strong>Conclusion:</strong> SCP-29960's anxiety is heightened by perceived scrutiny but does not necessitate direct interaction.</p>
+<h4>Experiment 29960-E2: Visual Contact</h4>
+<p><strong>Objective:</strong> To measure SCP-29960's response to eye contact.
+<strong>Procedure:</strong> D-8920 entered the enclosure with standard goggles, accidentally making brief eye contact.
+<strong>Results:</strong> SCP-29960 immediately entered a catatonic state, remaining motionless until D-8920's exit.
+<strong>Conclusion:</strong> Eye contact is a significant trigger for SCP-29960's anxiety response.</p>
+<h4>Experiment 29960-E3: Social Interaction Attempt</h4>
+<p><strong>Objective:</strong> To introduce controlled social stimuli and assess SCP-29960's limit for interaction.
+<strong>Procedure:</strong> D-4522 narrated actions within the enclosure without approaching SCP-29960.
+<strong>Results:</strong> SCP-29960 retreated to the farthest corner of its enclosure, exhibiting heightened stress behaviors including whining and trembling.
+<strong>Conclusion:</strong> Vocal recognition of SCP-29960's presence markedly increases its stress response.</p>
+<h4>Experiment 29560-E4: Mirror Test</h4>
+<p><strong>Objective:</strong> To determine SCP-29960's self-awareness and its reaction to its reflection.
+<strong>Procedure:</strong> A large mirror was introduced into the enclosure.
+<strong>Results:</strong> SCP-29960 aggressively approached the mirror and, upon seeing its reflection, seemed to enter a panic attack, thrashing violently before collapsing into a catatonic state.
+<strong>Conclusion:</strong> SCP-29960 recognizes its reflection and exhibits extreme trauma, potentially from self-directed social anxiety.</p>
+<h3>Addendum 3: Personnel Notes</h3>
+<h4>Addendum 3-A: Dr. ██████'s Observation</h4>
+<p>"While SCP-29960 is undoubtedly an alpha predator, its psychological state renders it effectively neutralized in the face of social interaction. The ethics and effects of its containment procedures merit ongoing discussion. It's imperative that research continues to focus on both ensuring containment and addressing the well-being of SCP-29960, as its unique condition may teach us as much about anomalous psychology as biology."</p>
+
+    </div>
+    
