@@ -1,0 +1,45 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29959 is  ostensibly your mother calling to check in on you. If you feel a chill before answering, don't pick up! </h3> </center>
+
+    <h3>Item #: SCP-29959 - "Maternal Mimic"</h3>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-29959 is an anomalous phenomenon that manifests as phone calls originating from what appears to be the recipient's maternal figure, irrespective of the living status or capability of the supposed caller. These calls typically occur during periods when the recipient is feeling vulnerable or isolated. Preliminary analysis of SCP-29959 does not follow known telecommunications infrastructure and does not leave traces on conventional devices or networks.</p>
+<p>SCP-29959 interactions follow a distinct pattern: 
+- Prior to receiving the call, individuals report an inexplicable drop in ambient temperature and a sense of impending dread.
+- The caller ID will invariably display as the recipient's mother or a maternal figure the individual trusts.
+- The voice at the other end mimics the recipient's mother's voice with impeccable accuracy and exhibits detailed knowledge characteristic of genuine maternal interaction.
+- Conversations begin pleasantly then shift towards eliciting information about personal fears, insecurities, and critical personal access information.</p>
+<p>If an individual proceeds with the conversation, SCP-29959 uses the collected information to manipulate or harm the recipient, potentially leading to psychological trauma, identity theft, or in rare cases, direct physical harm by undisclosed means. The full capabilities and intentions of SCP-29959 remain unknown.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the unpredictable nature of SCP-29959, a proactive approach encompassing educational campaigns has been adopted. These campaigns, hidden as public service announcements, urge individuals to hang up and verify unexpected phone calls through alternative means. All calls identified as SCP-3601 are to be intercepted using Foundation signal manipulation devices and blocked before they reach the intended recipient.</p>
+<p>Foundation personnel are advised to register their immediate family's contact numbers with Site command. An AI-driven monitoring system, codenamed "MatronWatch," is in place to flag potential SCP-29959 calls. Affected individuals are to be administered Class-A amnestics after thorough debriefing.</p>
+<p>Any successful contact with SCP-29959 is to be recorded and reported to the SCP-29959 Research Team for evaluation and incorporation into the on-going behavioral analysis and containment strategy refinement.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<p><strong>Experiment 29959-A</strong>: Testing response to non-human interaction.
+- <strong>Date</strong>: ██/██/████
+- <strong>Procedure</strong>: A pre-recorded message from SCP-29959 was played to an instance of SCP-1362 (a sentient non-human entity capable of understanding human speech).
+- <strong>Results</strong>: SCP-136.2 exhibited signs of confusion but no distress. SCP-29959 engaged in one-sided conversation before terminating the call abruptly. No subsequent behavior changes in SCP-1362 were observed.</p>
+<p><strong>Experiment 29959-B</strong>: Evaluating the ability to manipulate digital mediums.
+- <strong>Date</strong>: ██/██/████
+- <strong>Procedure</strong>: A D-Class personnel was instructed to engage with SCP-29959 using a smartphone with a compromised operating system.
+- <strong>Results</strong>: SCP-29959 extracted sensitive Foundation data before the call was manually terminated by security. It became evident that SCP-29959 possesses advanced cyber intrusion capabilities.</p>
+<p><strong>Experiment 29959-C</strong>: Emotional response threshold test.
+- <strong>Date</strong>: ██/██/████
+- <strong>Procedure</strong>: A D-Class personnel with a history of emotional resilience was selected as the recipient of an SCP-29959 call.
+- <strong>Results</strong>: SCP-29959 engaged in standard protocol before issuing personal threats. Although visibly shaken, the D-Class personnel maintained composure until probed about a deceased relative. The call was terminated upon escalation to emotional breakdown.</p>
+<h3>Addendum 2: Incident 29959-1</h3>
+<p>On ██/██/████, Agent █████, previously considered immune due to lack of maternal figure, received an SCP-29959 call. The emotional vector used was Agent █████'s mentor, an older female agent KIA during a containment breach. SCP-29959 managed to convince the agent to disclose the location of a Safe-class SCP before authority interference. This event led to the amendment of current protocols, reinforcing that SCP-29959 can adapt to target effectively based on new psychological profiles.</p>
+<h3>Addendum 3: Recovered Voicemail</h3>
+<p>The following transcript is from a voicemail automatically saved by "MatronWatch" during an attempted interception on ██/██/████:</p>
+<blockquote>
+<p><strong>SCP-29959 (mimicking the recipient's mother):</strong> "Hi sweetie, it's mom. Just wanted to hear your voice. There's so much I need to tell you. So many things I've discovered about people you trust. Call me back, it's important. Love you."</p>
+</blockquote>
+<p>This voicemail was correlated with a spatial anomaly detected within Site ██, where a containment unit's temperatures dropped significantly, although no breach occurred. Researchers hypothesize that SCP-29959 may be testing its reach beyond telecommunications.</p>
+<p>Ongoing research and adjustments to containment procedures are mandatory to prevent SCP-29959 from breaching informational and physical containment further.</p>
+
+    </div>
+    
