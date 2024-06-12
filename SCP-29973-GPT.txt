@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29973 is  a cat-ear headband that at first turns you into a stereotypical catgirl (or catboy), but ass the transformation progresses you go feral carnivore sicko mode. also the process is irreversible once it starts, even if you take off the headband. </h3> </center>
+
+    <h3>Item #: SCP-29973 - "The Feline Spiral"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29973-GPT.png" alt="Illustration of SCP-29973" />
+        
+<h3>Description:</h3>
+<p>SCP-29973 is a cat-ear headband that, upon being worn by any human subject, initiates a series of irreversible physiological and behavioral alterations. Initially, SCP-29973 induces changes consistent with the fictional archetype known colloquially as "catgirl" or "catboy"; these changes include the growth of feline ears on the top of the head (which are functional and replace the subject's original ears), the emergence of a tail, and the development of various behavioral traits commonly associated with domestic cats (e.g., heightened agility, a preference for high places, and a penchant for grooming behaviors). These alterations manifest within the first hour of SCP-29973 being worn.</p>
+<p>As the transformation progresses beyond the initial phase, usually after 24 hours, the subject begins to experience more profound changes. These include significant alterations to facial structure, dentition, and muscle composition, transforming the subject into a creature possessing a blend of human and predatory feline characteristics. Advanced-stage subjects exhibit increased aggression, reduced cognitive function in favor of heightened predatory instincts, and an exclusive carnivorous diet.</p>
+<p>Initially classified as Safe, SCP-29973 was reclassified to Euclid following Incident 29973-A, in which a fully transformed subject (subject to SCP-29973-01) demonstrated significant resourcefulness and danger to personnel and facility security.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29973 is to be contained within a standard secure locker at Site-██. Access to SCP-29973 is prohibited without the approval of at least two Level 4 personnel. Any experiments involving SCP-29973 must be conducted in a specialized containment chamber designed to handle highly dangerous and potentially violent organisms.</p>
+<p>Personnel interacting with SCP-29973-affected subjects are required to use extreme caution and are advised to wear protective gear that includes puncture-resistant materials to prevent injury from claw and bite attacks. All staff members must also undergo a psychological evaluation following interaction to ensure no undue influence or lingering behavioral modifications.</p>
+<p>Subjects transformed by SCP-29973 are to be contained in individual cells reinforced to hold large, strong carnivorous animals. Cells are to be subjected to a daily inspection for structural integrity. Feeding is to consist solely of raw meat, delivered through an automated chute to minimize the need for direct contact.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-29973 was initially recovered in [REDACTED], Japan, after reports surfaced of a "real-life catgirl" circulating on social media. Foundation web crawlers flagged the content, and a retrieval team (MTF Psi-8 "The Silencers") was dispatched. SCP-29973 was recovered along with the remains of a subject in advanced stages of transformation, later designated SCP-29973-01.</p>
+<h3>Addendum 2: Incident Report 29973-A</h3>
+<p>SCP-29973-01 exhibited unforeseen levels of aggression and physical prowess, resulting in the injury of six agents before being contained. SCP-29973-01 was able to breach containment twice before being euthanized after it became evident that the subject was beyond recovery to a functional human state. This event led to a reclassification of SCP-29973 to Euclid.</p>
+<h3>Addension 3: Experiment Log</h3>
+<h4>Experiment 29973-E01</h4>
+<ul>
+<li><strong>Subject:</strong> D-92837</li>
+<li><strong>Procedure:</strong> Subject was instructed to wear SCP-29973.</li>
+<li><strong>Results:</strong> Subject experienced initial transformation symptoms. Behavioral changes became noticeable after 35 minutes. Subject complied with all instructions, demonstrating playful and curious behavior consistent with initial transformation phase.</li>
+<li><strong>Notes:</strong> Subject was terminated 36 hours post-exposure after progressing to an advanced stage of transformation and attempting to breach containment.</li>
+</ul>
+<h4>Experiment 29973-E02</h4>
+<ul>
+<li><strong>Subject:</strong> D-67122</li>
+<li><strong>Procedure:</strong> Subject wore SCP-29973 while under the influence of a sedative.</li>
+<li><strong>Results:</strong> Sedation appeared to have no effect on the transformation process. Subject's behavior mirrored that noted in Experiment 29973-E01. Subject progressed to advanced stage at the same rate as the previous subject.</li>
+<li><strong>Notes:</strong> Research team hypothesizes that SCP-29973's transformative process is independent of the subject's state of consciousness.</li>
+</ul>
+<h4>Experiment 29973-E03</h4>
+<ul>
+<li><strong>Subject:</strong> D-11905</li>
+<li><strong>Procedure:</strong> Subject was instructed to wear SCP-29973 but then immediately remove it after initial transformation symptoms appeared.</li>
+<li><strong>Results:</strong> Removal of SCP-29973 did not halt the transformation. The process continued to full completion.</li>
+<li><strong>Notes:</strong> This experiment confirms that the transformative effect of SCP-29973 is irreversible after initial exposure. Further research is required to understand the underlying mechanisms.</li>
+</ul>
+<p>Containment procedures were updated following these experiments to reflect the irreversibility of SCP-29973's effects and the need for heightened containment and caution when working with affected subjects.</p>
+
+    </div>
+    
