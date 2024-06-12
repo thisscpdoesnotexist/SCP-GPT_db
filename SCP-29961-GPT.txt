@@ -1,0 +1,53 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29961 is  a fairy that steals your nipples at night, leaving behind coupons under your pillow in return </h3> </center>
+
+    <h3>Item #: SCP-29961 - "The Nipple Fair"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29961-GPT.png" alt="Illustration of SCP-29961" />
+        
+<h3>Description:</h3>
+<p>SCP-29961 is an anomalous humanoid entity, approximately 15 cm in height, resembling popular conceptions of a "fairy." Its physical features include diaphanous wings, luminescent skin, and an oversized sack carried on its back. SCP-29961's primary anomalous behavior is the nocturnal removal of human nipples by an unknown means that is both painless and bloodless. The entity appears to have a preference for adults between the ages of 18 to 40. Upon successful removal, SCP-29961 will leave behind a coupon under the pillow of the affected individual. These coupons are non-anomalous and offer various discounts for services and goods, varying from fast food chains to electronic stores. The significance of this behavior remains undetermined.</p>
+<p>Recovered individuals exhibit signs of psychological trauma after realizing the loss of their nipples but do not show any physical side effects other than the absence of the nipples themselves. Nipples removed by SCP-29961 do not regenerate and have never been recovered. Instances of SCP-29961 have proved difficult to capture due to their small size, flight capability, and apparent ability to teleport short distances.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the elusive nature of SCP-29961, no effective means of containment have been developed to date. Mobile Task Force Mu-13 ("Nip/Tuck") is currently responsible for tracking and attempting containment of SCP-29961 instances. Any reported sightings should be investigated immediately. A worldwide media blackout regarding the phenomena is in place, with affected individuals being administered Class-B amnestics following any encounter.</p>
+<p>Containment efforts are focused on predicting SCP-29961 appearance patterns to prevent further incidents. Research into the development of a pheromone or lure that attracts SCP-29961 is ongoing. Civilians who report finding coupons under their pillows are to be questioned and amnesticized as per Protocol Fair Exchange.</p>
+<h3>Addendum 1: Recovery of Affected Individuals</h3>
+<p>Affected individuals are provided with psychological counseling and, if they desire, cosmetic surgery to reconstruct the absent features. Cover stories regarding animal attacks or surgical procedures are fabricated for those who opt for reconstruction.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 29961-A</h4>
+<ul>
+<li><strong>Objective:</strong> To determine the lure effectiveness of various substances on SCP-29961.</li>
+<li><strong>Procedure:</strong> A controlled environment was set up replicating a typical bedroom, with substances ranging from human sweat to pheromones placed in proximity.</li>
+<li><strong>Result:</strong> No attraction to any of the substances was observed.</li>
+<li><strong>Note:</strong> It appears SCP-29961 cannot be lured using conventional means.</li>
+</ul>
+<h4>Experiment 29961-B</h4>
+<ul>
+<li><strong>Objective:</strong> To capture an instance of SCP-29961 using high-speed cameras to understand their teleportation mechanism.</li>
+<li><strong>Procedure:</strong> High-speed cameras were installed in a chamber where an instance of SCP-29961 was reported.</li>
+<li><strong>Result:</strong> Cameras captured only a blur, suggesting extremely rapid movement rather than teleportation.</li>
+<li><strong>Note:</strong> Further studies are needed to understand this phenomenon. Suggested experimenting with temporal stasis fields.</li>
+</ul>
+<h4>Experiment 29961-C</h4>
+<ul>
+<li><strong>Objective:</strong> To test the effects of SCP-29961 on subjects without nipples.</li>
+<li><strong>Procedure:</strong> D-Class personnel without nipples were placed in an environment where SCP-29961 sightings were common.</li>
+<li><strong>Result:</strong> SCP-29961 appeared disinterested in subjects lacking nipples, instead leaving a coupon for "10% off areola tattooing services."</li>
+<li><strong>Note:</strong> SCP-29961 seems to be aware of the condition of its targets before theengagement.</li>
+</ul>
+<h3>Addendum 3: Societal Impact Analysis</h3>
+<p>Reports from psychological experts suggest that the spread of SCP-29961 could result in widespread dysmorphia and distrust towards traditional mythological creatures. Owing to the high rate of incidents and the potential for long-term societal effects, efforts to understand and contain SCP-29961 are to be given high priority.</p>
+<h3>Addendum 4: Incident 29961-Alpha</h3>
+<p>On ██/██/20██, a surge in SCP-29961 activity was reported in the city of ██████. Over ██ individuals were affected in one night. This incident resulted in the discovery of a new behavior; SCP-29961 left behind a coupon with the message "Thank you for your contribution" printed on the back. This suggests a level of sentience and possible malice not previously recorded. Security protocols have been updated accordingly.</p>
+<h3>Addendum 5: Interview Log</h3>
+<p>An intercepted communication between two instances of SCP-29961 has been partially translated, offering some insight into their motives:</p>
+<p>SCP-29961-1: "The harvest has been plentiful this season."<br />
+SCP-29961-2: "Indeed. The Offering will be abundant."<br />
+SCP-29961-1: "Do they suspect?"<br />
+SCP-29961-2: "Their comprehension is limited. Continue as ordered."</p>
+<p>Research into "The Offering" and its significance is ongoing. All personnel involved in containment are advised to be vigilant for any related developments.</p>
+
+    </div>
+    
