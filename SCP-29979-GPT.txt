@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29979 is  A meme that will trans your gender  </h3> </center>
+
+    <h3>Item #: SCP-29979 - "Transfigurative Memetics"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29979-GPT.png" alt="Illustration of SCP-29979" />
+        
+<h3>Description:</h3>
+<p>SCP-29979 is a digital image file possessing anomalous properties which manifest upon visual perception by human individuals. The file displays a seemingly innocuous meme, combining textual information with a visual element- often humorous in nature. However, upon viewing, subjects report a growing sensation of dissonance with their physical bodies, followed by the onset of a rapid and irreversible transformation of their biological sex over a span of 24-48 hours. Psychological profiles of affected individuals (henceforth SCP-29979-1) post-transfiguration show a mix of confusion, dysphoria, euphoria, or acceptance, often correlated with the individual's pre-exposure to gender identity issues.</p>
+<p>Notably, the anomalous effects of SCP-29979 are not bound by existing medical or biological limitations concerning sex transition. Subjects exhibit complete genetic and phenotypic realignment to the opposite sex, including the restructuring of secondary sex characteristics, reproductive systems, and hormonal balances. SCP-29979 does not alter the subject's gender identity; only the biological sex is affected.</p>
+<p>SCP-29979's properties do not appear to be conveyed through second-hand descriptions of the meme, and as such have not been replicated outside of direct exposure to the original digital file or printouts thereof. Efforts to pinpoint the origin of SCP-29979 have proven inconclusive, with hypothesized links to several groups of interest including "Gamers Against Weed" and "Are We Cool Yet?", but no concrete evidence has been found.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29979 is to be stored on an isolated Secure Foundation server with no external network connections. Any physical copies of SCP-29579 must be contained in a secure locker at Site-███. Access to SCP-29979 is strictly prohibited without prior authorization from two Level 4 Research Personnel, and only for the purposes of approved testing. Any unauthorized viewing of SCP-29979 is to be met with immediate use of Class-A amnestics and, if necessary, medical intervention to halt the transfiguration process.</p>
+<p>Any instances of SCP-29979 found in the wild on the internet must be traced and removed with the utmost urgency. Web Analysis Team Gamma-41 ("Meme Cleaners") is tasked with continuously monitoring social media platforms, forums, and image boards for SCP-22979 distribution. Civilians affected by SCP-29979 are to be detained, given Class-B amnesties, and released under the cover story of a severe allergic reaction necessitating quarantine and hospital treatment.</p>
+<h3>Addendum 1: Initial Discovery</h3>
+<p>SCP-29979 was first identified on ██/██/20██ after a sudden spike in hospital reports indicating rapid and unexplained sex transformations among several individuals in ████████, USA. Foundation web crawlers detected the anomaly, and Mobile Task Force Mu-13 ("Ghostbusters") was dispatched to contain and investigate the situation. An electronic device containing the original file was secured, and all affected individuals were taken in for examination and amnestic treatment.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 29979-A</h4>
+<ul>
+<li><strong>Subject:</strong> D-83421 (Male, 34 years old)</li>
+<li><strong>Procedure:</strong> Subject instructed to view SCP-29979 for 5 seconds.</li>
+<li><strong>Results:</strong> Subject reports initial amusement followed by discomfort. Within 36 hours, the subject had transformed completely into a female.</li>
+<li><strong>Notes:</strong> Psychological effects varied; the subject experienced severe dysphoria.</li>
+</ul>
+<h4>Experiment 29979-B</h4>
+<ul>
+<li><strong>Subject:</strong> D-90215 (Female, 29 years old)</li>
+<li><strong>Procedure:</strong> Subject was presented with a censored version of SCP-29979, where the image is obscured but text remains visible.</li>
+<li><strong>Results:</strong> No transfiguration occurred. Subject reported confusion and irritation at the incomplete meme.</li>
+<li><strong>Notes:</strong> Confirms necessity of both image and text for transfigurative effect.</li>
+</ul>
+<h4>Experiment 29979-C</h4>
+<ul>
+<li><strong>Subject:</strong> D-61204 (Non-binary, 22 years old)</li>
+<li><strong>Procedure:</strong> Subject, who affirmed a non-binary identity, voluntarily viewed SCP-29979.</li>
+<li><strong>Results:</strong> Subject transformed into the opposite biological sex (male to female). Expressed mixed feelings about the outcome.</li>
+<li><em>Notes:</em>* Interestingly, subject's reaction was less severe compared to binary-gendered subjects.</li>
+</ul>
+<h3>Addendum 3: Incident Report 29979-I1</h3>
+<p>On ██/██/20██, a breach of containment occurred when Research Assistant ████ inadvertently viewed SCP-29979 during routine file management. Within the subsequent 48-hour period, the Assistant underwent complete biological sex transformation. Psychological evaluation revealed a positive reception to the change, leading to the hypothesis that SCP-29979's psychological impact may be less severe for individuals with prior unresolved gender dysphoria. Further psychological and sociological studies recommended.</p>
+<h3>Addendum 4: Containment Protocol Update</h3>
+<p>Following Incident 29979-I1 and as of ██/██/20██, updated containment protocols have been implemented. It is now mandatory for any personnel working with SCP-29978 to have undergone psychological screening for gender dysphoria to prevent inadvertent self-exposure with potentially desired effects, which could compromise professional objectivity in containment protocols and research efforts.</p>
+<p>As SCP-29979 poses significant ethical questions and potential societal disruptions due to its irreversible effects, it remains paramount to maintain strict containment and employ preventative measures against possible mass distribution.</p>
+
+    </div>
+    
