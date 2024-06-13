@@ -1,0 +1,44 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29998 is  hides in your shadow and attacks everything it perceives as a threat to you </h3> </center>
+
+    <h3>Item #: SCP-29998 - "Shadow Guardian"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29998-GPT.png" alt="Illustration of SCP-29998" />
+        
+<h3>Description:</h3>
+<p>SCP-29998 is an extradimensional entity capable of occupying the shadow of a single human host. Once attached, the shadow, hereby designated SCP-29998-A, deviates from normal shadow behavior, demonstrating selective tangibility and reactivity to perceived threats toward the host. The host is referred to as SCP-29998-B.</p>
+<p>SCP-29998-A appears as a normal shadow in the absence of immediate threats. However, upon the presence of an identified threat, SCP-29998-A undergoes a rapid transformation into a humanoid silhouette. During this state, SCP-29998-A exhibits considerable strength, speed, and resilience, akin to a highly trained combatant with enhanced physical abilities.</p>
+<p>Interestingly, SCP-29998 seems to possess a rudimentary sentience and understanding of its environment – it demonstrates strategic thinking and prioritizes threats in an efficient and non-lethal manner when possible. To date, SCP-29998-A has not caused any fatalities. Non-lethal incapacitation of threats is the preferred method of neutralization unless SCP-29998-B's life is in imminent danger.</p>
+<p>Communication with SCP-29998 has proven difficult, as it does not seem to understand human language. Attempts are ongoing to establish meaningful interaction. It's hypothesized SCP-29998 prioritizes the emotional well-being of SCP-299:98-B to ensure a sustained symbiotic relationship.</p>
+<p>SCP-29998 was discovered when SCP-29998-B, previously a Foundation researcher, Dr. ██████, reported an anomaly with their shadow. Dr. ██████ is currently a valuable research asset, given their unique bond with SCP-29998.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29998 is contained by default, given its attachment to SCP-29998-B. As such, SCP-29998-B is to be kept within a secure, comfortable habitat designated for their occupation within Site-██. The habitat is to be monitored 24/7 and equipped with security measures tailored to respond to the unusual properties of SCP-29998-A.</p>
+<p>SCP-29998-B is currently under constant surveillance and is allowed limited social interactions under Foundation supervision. Any signs indicating a release of SCP-29998 from SCP-29998-B are to be reported immediately to the acting site administrator, followed by an urgent recapture or recontainment effort if SCP-29998 chooses a new host.</p>
+<p>Interaction with SCP-29998-B by personnel is to be conducted with caution, and any actions that may be perceived as a threat by SCP-29998 are to be avoided. During transit outside of their habitat, SCP-29998-B should be escorted by personnel trained in non-threatening body language to minimize unnecessary activations of SCP-29998-A.</p>
+<h3>Addendum 1: Incident Log 29998-01</h3>
+<p>During a routine test to assess SCP-29998-A's response to various threat levels, SCP-29998-A reacted violently to a simulated attack on SCP-29998-B that was not halted as per procedure. SCP-29998-A neutralized all agents involved in the simulated attack, causing severe, but non-lethal injuries. This incident led to a reevaluation of SCP-29998-A's defensive parameters and the implementation of stricter control measures for tests.</p>
+<h3>Addendum 2: Experiment Log 29998-E1</h3>
+<h4>Test 1 - Object Thrown at SCP-29998-B</h4>
+<ul>
+<li><strong>Procedure:</strong> A tennis ball was propelled towards SCP-29998-B at a non-threatening velocity.</li>
+<li><strong>Result:</strong> SCP-29998-A did not activate. SCP-29998-B caught the ball with no visible acknowledgment from SCP-29998-A.</li>
+</ul>
+<h4>Test 2 - Mock Physical Assault on SCP-29998-B</h4>
+<ul>
+<li><strong>Procedure:</strong> A D-class personnel was instructed to simulate a punch towards SCP-29998-B without actual contact.</li>
+<li><strong>Result:</strong> SCP-29998-A instantly became a humanoid form, swiftly but non-lethally incapacitated the D-class personnel by applying pressure to the carotid artery until unconsciousness was achieved.</li>
+</ul>
+<h4>Test 3 - Emotional Distress Test</h4>
+<ul>
+<li><strong>Procedure:</strong> SCP-29998-B was exposed to a controlled psychological stressor designed to elicit a fear response, without the presence of any physical threat.</li>
+<li><strong>Result:</strong> SCP-29998-A did not activate. SCP-29998-B displayed signs of distress, and subsequent interviews indicated they felt a sense of reassurance from SCP-29998-A despite no visible activity.</li>
+</ul>
+<h3>Addendum 3: Psychological Evaluation of SCP-29998-B</h3>
+<p>SCP-29998-B has shown signs of increased psychological dependency on SCP-29998-A, expressing feelings of safety and companionship. Further psychological assessments are underway to evaluate the depth of this symbiotic relationship and to ensure that SCP-29998-B's mental state does not deteriorate due to the continuous presence of SCP-29998. The fostering of an excessive dependency on SCP-29998-A could pose a risk to operational security should SCP-29998 choose to abandon its current host.</p>
+<h4>Notes:</h4>
+<p>There seems to be a growing emotional bond between SCP-29998 and SCP-29998-B. Observations suggest that SCP-29998-A might possess a rudimentary form of empathy, reducing activation when SCP-29998-B is in positive emotional states. The possibility of exerting emotional control over SCP-29998-A is under consideration for field applications. Official Thaumiel classification was proposed due to SCP-29998-A's potential utility in protecting key Foundation personnel.</p>
+
+    </div>
+    
