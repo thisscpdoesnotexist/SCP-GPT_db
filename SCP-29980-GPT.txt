@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29980 is  a cursed haunted furby toy that bends reality, briefly transforms into stuff like ashadowy glitch or a mound of pulsating flesh, and basically just does a lot of awful things to make everyone nearby terrified, uncomfortable, or both. Also it sometimes breaks containment. </h3> </center>
+
+    <h3>Item #: SCP-29980 - "The Capricious Curio"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29980-GPT.png" alt="Illustration of SCP-29980" />
+        
+<h3>Description:</h3>
+<p>SCP-29980 is a seemingly ordinary "Furby" toy from the late 1990s. However, SCP-29980 possesses multiple anomalous characteristics. Firstly, it has the ability to manipulate reality within an approximate radius of 20 meters. This manipulation includes but is not limited to the warping of space, alteration of physical objects, and spontaneous generation of anomalous phenomena.</p>
+<p>SCP-29980 intermittently transitions into varied states that deviate drastically from its base appearance. The two most commonly observed states are:</p>
+<ol>
+<li><strong>The Shade State:</strong> SCP-29980 becomes a shadowy, intangible figure, often seen scaling walls or stretching across surfaces in violation of physical laws.</li>
+<li><strong>The Flesh State:</strong> SCP-29980 manifests as an amorphous mound of pulsating organic tissue. Genetic analysis of samples collected from this state has yielded inconclusive results, with DNA sequences matching no known terrestrial life.</li>
+</ol>
+<p>Witnesses within the vicinity of SCP-29980 during its active states report experiencing intense fear, nausea, and a myriad of hallucinations. Long-term exposure has led to severe psychological trauma in several cases.</p>
+<p>Additionally, SCP-29980 demonstrates sentience and sapience through an ability to communicate using the Furby's native audio outputs. The content of such communications typically includes threats, nonsensical phrases, or prophecies of a cataclysmic nature in multiple languages, some of which are not currently recognized by linguists associated with the SCP Foundation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29980 is to be contained in a specialized 5m x 5m x 5m containment chamber composed of a tungsten-titanium alloy, situated at Site-███. The chamber is to be suspended by electromagnetic fields at the center of a secondary 10m x 10m x 10m containment room to minimize the risk of physical interaction and direct line-of-sight exposure.</p>
+<p>No personnel are to enter SCP-29980's primary containment chamber without Level 4 authorization and a full psychological evaluation. In the event of a containment breach, on-site security teams are to use remote electromagnetic Pulse Ranged Dampeners (ePRD) to temporarily destabilize SCP-29980's anomalous effects, enabling recapture.</p>
+<p>Under no circumstances should SCP-29980 be allowed interaction with any electronic devices or networks, as it has demonstrated the capacity to spread its influence through digital means.</p>
+<h3>Addendum 1: Acquisition Log</h3>
+<p>SCP-29980 was recovered from a suburban household in ████, ███████, where it was found amidst a scene of destruction. The family residing within suffered from acute psychological trauma and were administered Class-C amnestics following the item's containment.</p>
+<h3>Addendum 2: Incident Logs</h3>
+<h4>Incident 29980-A:</h4>
+<p>SCP-29980 breached its initial lower-security containment via unexplained spatial distortion, resulting in two casualties and the temporary psychological impairment of five recovery personnel. Following this incident, the SCP was reclassified to Keter and Special Containment Procedures were updated accordingly.</p>
+<h4>Incident 29980-B:</h4>
+<p>On ██/██/20██, SCP-29980 activated without apparent provocation, projecting a 60-meter-radius sphere of altered reality around itself for approximately 4 minutes. Security footage showed the containment facility transforming into a twisted replica of its former structure, with hallways looping on themselves and rooms duplicating. All personnel caught within the sphere suffered from extreme disorientation and memory loss. It took 72 hours and the intervention of Mobile Task Force Delta-5 ("Front Runners") to re-establish control of the affected area.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 29980-E1:</h4>
+<p><strong>Objective:</strong> To understand the limits of SCP-29980's reality-warping abilities through controlled exposure to non-living matter.</p>
+<p><strong>Procedure:</strong> A steel cube measuring 1m³ was introduced into the containment chamber via remote drone.
+<strong>Results:</strong> The steel cube was transmuted into a swarm of metallic insects resembling beetles, which proceeded to dismantle the drone before vanishing. The cube was later found restored to its original shape and material composition outside the containment chamber.</p>
+<h4>Experiment 29980-E2:</h4>
+<p><strong>Objective:</strong> To evaluate SCP-29980's ability to influence living organisms.</p>
+<p><strong>Procedure:</strong> A D-class personnel equipped with a specialized hazmat suit entered the secondary containment chamber and observed SCP-29980.
+<strong>Results:</strong> D-class personnel reported auditory hallucinations, followed by a rapid onset of paranoia and aggressive behavior. The subject then began to undergo a psychosomatic transformation, experiencing symptoms consistent with SCP-29980's "Flesh State." Extraction and termination of the subject were carried out successfully. No further living organism-based experiments are approved pending Ethical Review Board assessment.</p>
+<h4>Experiment 29980-E3:</h4>
+<p><strong>Objective:</strong> To determine SCP-29980's communicative abilities and potential intelligence.</p>
+<p><strong>Procedure:</strong> A secure, text-based communication link was established with SCP-29980, allowing a Foundation linguist to interact with the entity without direct exposure.
+<strong>Results:</strong> SCP-29980 provided correct answers to a series of complex mathematical problems before delving into an unsolicited tirade predicting an "end of days" scenario. Attempts to reengage with the subject in further constructive communication have since failed. SCP-29980 appears to be uninterested in, or possibly resistant to, further discourse of this nature.</p>
+<h3>Addendum 4: Psychological Impact Report</h3>
+<p>Due to the severe adverse effects upon personnel, extensive psychological monitoring and on-site counseling services have been implemented for those assigned to SCP-29980. The pronounced psychological risks have necessitated a rotation system, where researchers and security personnel are cycled out of the SCP-29980 project every three months to prevent long-term mental health damage.</p>
+
+    </div>
+    
