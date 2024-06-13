@@ -1,0 +1,51 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29990 is  Large Animal 10 to 11 meters long thick, fat snake with a thick waist, and four symmetrical pairs of bony horns on its head </h3> </center>
+
+    <h3>Item #: SCP-29990 - The Serpent of Avaritia</h3>
+<h3>Object Name:</h3>
+<p>SCP-29990 </p>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-29990 is a large serpentine entity measuring between 10 to 11 meters in length with a particularly massive girth relative to typical snake proportions. Its skin is robust and leathery, featuring an intricate pattern that seems to shift subtly when observed peripherally, though this could be a cognitive effect rather than a physical attribute.</p>
+<p>The most striking feature of SCP-29990 is the presence of four symmetrical pairs of bony protrusions on its head, configuring a crown-like structure. These protrusions—or “horns” as they are often referred—exhibit exceptional durability and are capable of piercing most known materials with ease, including reinforced steel.</p>
+<p>SCP-29990 displays a high level of intelligence and is capable of telepathic communication. It often attempts to bargain with or manipulate individuals in its vicinity, primarily through offers of material wealth or secret knowledge in return for its release or assistance in acquiring live prey. What it desires with the prey is currently unknown, as SCP-29990 refuses to devour any form of dead matter, demonstrating a preference for what it describes as "the vitality of life essence" from living creatures.</p>
+<p>When involved in active predation or threatened, SCP-29990 can rapidly expand its size and mass, altering its bodily proportions in ways that defy known biological mechanisms. This ability, combined with its formidable strength, speed, and the observed tendency to target sentient beings preferentially, necessitates its classification as Keter.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its dangerous nature and capabilities, SCP-29990 is to be contained within a specially constructed subterranean containment chamber at Site-██. The chamber is to be forged of a composite alloy known for its high tensile strength and resistance to SCP-29990’s horn penetration, with the inner layer comprising an SCP-29990 interaction-inhibiting material to prevent its telepathic influence from reaching the main facility or compromising staff.</p>
+<p>All surveillance equipment must be installed with cognitive hazard filters to protect monitoring personnel from SCP-29990’s subtle visual effects. Access to the containment chamber is restricted to Level 4 personnel and higher, and those with direct contact are required to undergo rigorous psychological evaluation both pre- and post-interaction.</p>
+<p>Feeding is to be completed once per week through an automated system delivering a live specimen (usually a bovine or equine subject) into the containment chamber. Under no circumstances is SCP-29990 to be fed more frequently, as this may encourage growth beyond its already formidable size. All maintenance and cleaning routines are to be performed by unmanned drones controlled from outside the containment facility.</p>
+<p>In the event of a containment breach, immediate lockdown procedures will be instigated. Armed response teams are to deploy tranquillizer rounds designed to induce temporary physical constriction within SCP-29990’s tissues, limiting its movement and allowing for recontainment.</p>
+<h3>Addendum 1: Origin of SCP-29990</h3>
+<p>SCP-29990 first came to the Foundation’s attention after reports of an "undulating mass" destroying a rural farming community surfaced. Witnesses described the entity as "a dragon without wings" and "the envoy of greed," as it reportedly spoke to the wealthiest members of the community, offering to increase their wealth in exchange for violence against their neighbors. It is theorized that the creature feeds not solely on organic matter but also upon the negative emotions associated with greed and betrayal.</p>
+<h3>Addendum 2: Incident Report SCP-29990-A</h3>
+<p>On ██/██/20██, D-class personnel D-84922 was mistakenly introduced into SCP-29990’s containment chamber during a scheduled feeding. This was initially deemed a potential loss; however, SCP-29990 engaged in apparent conversation with D-84922. Audio surveillance recorded D-84922 agreeing to SCP-29990’s offers in exchange for his freedom from the facility. </p>
+<p>Shortly after, SCP-29990 initiated a containment breach, using its enhanced size and mass to compromise the structural integrity of the chamber. D-84922 was observed becoming increasingly aggressive towards Site security personnel under SCP-29990’s influence. Breach lockdown procedures were enacted, and SCP-29990 was subdued as per protocol. D-84922 was found expired, assumably due to psychological stress-induced cardiac arrest. A review of containment and interaction procedures followed, resulting in the current containment protocols. </p>
+<h3>Addendum 3: Experiment Log SCP-29990-E</h3>
+<h4>Experiment 29990-E-01:</h4>
+<ul>
+<li><strong>Purpose:</strong> To ascertain if a non-sentient prey item will be accepted by SCP-29990.</li>
+<li><strong>Procedure:</strong> A pre-deceased bovine specimen was introduced to SCP-29990’s containment chamber.</li>
+<li><strong>Result:</strong> SCP-29990 became agitated and refused to engage with the carcass, labeling it "devoid of avarice's sweet nectar."</li>
+<li><strong>Notes:</strong> SCP-29990's feeding patterns evidently rely on the prey being alive and possibly exuding particular emotional or psychological states prior to consumption.</li>
+</ul>
+<h4>Experiment 29990-E-02:</h4>
+<ul>
+<li><strong>Purpose:</strong> To understand the effects of SCP-29990’s telepathic influence at varying distances.</li>
+<li><strong>Procedure:</strong> D-class personnel equipped with audio recording devices were stationed at increasing distances from SCP-29990’s containment chamber.</li>
+<li><strong>Result:</strong> Telepathic communication was reported as possible up to 200 meters from SCP-29990. Effects weakened but remained detectable as distance increased.</li>
+<li><strong>Notes:</strong> This presents a risk of SCP-29990 exerting influence beyond immediate containment. Measures were taken to reinforce containment chamber defenses and shielding to prevent such occurrences.</li>
+</ul>
+<h4>Experiment 29990-E-03:</h4>
+<ul>
+<li><strong>Purpose:</strong> To observe SCP-29990’s reaction to non-organic entities.</li>
+<li><strong>Procedure:</strong> An unmanned ground vehicle (UGV) was introduced into SCP-29990’s chamber, simulating life-like behavior.</li>
+<li><strong>Result:</strong> SCP-29990 displayed curiosity but no predatory aggression. It ceased all communication and withdrew to the farthest corner of the chamber.</li>
+<li><strong>Notes:</strong> SCP-29990 appears to differentiate between organic and inorganic matter despite life-like mimicking, suggesting a level of sensory perception beyond standard biological means.</li>
+</ul>
+<p>Further experiments are pending approval, focusing on assessing SCP-29990’s cognitive abilities and the potential of its avarice-related feeding mechanism on a larger socio-economic scale.</p>
+
+    </div>
+    
