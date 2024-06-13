@@ -1,0 +1,58 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29997 is  three smaller SCPs in a trenchcoat </h3> </center>
+
+    <h3>Item #: SCP-29997 - "Triple Masquerade"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29997-GPT.png" alt="Illustration of SCP-29997" />
+        
+<h3>Description:</h3>
+<p>SCP-29997 is a composite entity composed of three distinct humanoid SCPs, hereby designated SCP-29997-A, SCP-29997-B, and SCP-30497-C, that work in synchronicity to mimic a single entity. SCP-29997 demonstrates a high level of intelligence and coordination, with each individual SCP performing specific roles that contribute to the overall function of the collective.</p>
+<p>SCP-29997-A, the lower entity, acts as the legs, with enhanced strength capable of supporting the weight of the other two entities. SCP-29997-B, the middle entity, acts as the torso, possessing anomalously elongated arms that are used for manipulation of objects and environment. SCP-29997-C, the uppermost entity, bears the semblance of the ‘head’ and is responsible for communication and sensory perception.</p>
+<p>When combined, SCP-29997 is concealed within an oversized trench coat, hat, and a set of clothes that give the superficial appearance of a tall, slender human male. Analysis of the entities' cooperation suggests a telepathic or otherwise non-verbal method of instant communication.</p>
+<p>Individually, the SCPs comprising SCP-29997 are relatively harmless and demonstrate simplistic behaviors. However, when acting as SCP-29997, they display complex behaviors such as deception, problem-solving, and ambulation in their disguise, attempting to blend into human society.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29997 is to be contained in a standard humanoid containment cell, modified to accommodate three separate entities. Communication between SCP-29997-A, SCP-29997-B, and SCP-29997-C should be monitored and controlled as to not allow the formation of SCP-29997 for extended periods without approval from at least one Level 3 personnel.</p>
+<p>During transportation, SCP-29997 must be kept in three separate containment units to prevent unauthorized cooperation. Personnel are forbidden to provide SCP-29997 with any clothing or material that may aid in mimicking a singular entity.</p>
+<p>To address the psychological and social needs of SCP-29997-A, SCP-29997-B, and SCP-29997-C, each entity is to be allowed one hour of daily interaction with the others under strict surveillance, and any signs of an impending formation into SCP-29997 should be interrupted immediately.</p>
+<h3>Addendum 1: Incident Log 29997-01</h3>
+<p>On ██/██/20██, SCP-29997 was discovered in ████, USA after several eyewitness reports of an unusually tall man displaying strange behavior and remarkable physical abilities. An undercover Foundation agent dispatched to the area confirmed the existence of SCP-29997.</p>
+<h3>Addendum 2: Interview Log 29997-A</h3>
+<h4>Interviewed: SCP-29997-A</h4>
+<h4>Interviewer: Dr. Gabrielle Munoz</h4>
+<h4>Foreword: The following is an excerpt from an interview conducted three days after containment.</h4>
+<p><strong>Dr. Munoz:</strong> Can you explain why you form SCP-29997?</p>
+<p><strong>SCP-29997-A:</strong> To see. To speak. To touch.</p>
+<p><strong>Dr. Munoz:</strong> What do you mean by that?</p>
+<p><strong>SCP-29997-A:</strong> Together. Stronger. Understand more. Alone, weak. Simple.</p>
+<p><strong>Dr. Munoz:</strong> Are you trying to escape or harm anyone?</p>
+<p><strong>SCP-29997-A:</strong> No… Only to see. Learn. Hide. Being big is being seen, and not seen.</p>
+<p><strong>Dr. Munoz:</strong> Are the other parts of you in agreement?</p>
+<p><strong>SCP-29997-A:</strong> Yes. Together, one mind. One purpose.</p>
+<p><strong>Dr. Munoz:</strong> I see. And what is that purpose?</p>
+<p><strong>SCP-29997-A:</strong> To be. To live. To find place.</p>
+<h3>Addendum 3: Experiment Log 29997</h3>
+<h4>Experiment 29997-E-01</h4>
+<ul>
+<li><strong>Purpose:</strong> To observe basic cooperation and motor skills of SCP-29997 when formed.</li>
+<li><strong>Procedure:</strong> SCP-29997-A, SCP-29997-B, and SCP-29997-C were provided with a trench coat and hat and were allowed to form SCP-29997 under supervision.</li>
+<li><strong>Results:</strong> SCP-29997 successfully mimicked an awkward but passable human gait. The entity managed to perform simple tasks such as opening doors and holding objects.</li>
+</ul>
+<h4>Experiment 29997-E-02</h4>
+<ul>
+<li><strong>Purpose:</strong> To assess SCP-29997's response to complex social interactions.</li>
+<li><strong>Procedure:</strong> A D-Class personnel was tasked to engage in conversation with SCP-29997.</li>
+<li><strong>Results:</strong> SCP-29997-C engaged in rudimentary conversation, displaying an understanding of language and context but struggled with non-verbal cues and idiomatic expressions.</li>
+</ul>
+<h4>Experiment 29997-E-03</h4>
+<ul>
+<li><strong>Purpose:</strong> To test the individual cognitive capabilities of SCP-29997-A, SCP-29997-B, and SCP-29997-C when separated.</li>
+<li><strong>Procedure:</strong> Each member was given a simple logic puzzle to solve.</li>
+<li><strong>Results:</strong> All three entities failed the test individually, further underscoring the importance of their collective intelligence when formed as SCP-29997.</li>
+</ul>
+<h3>Addendum 4: Security Breach 29997-02</h3>
+<p>On ██/██/20██, during Experiment 29997-E-04, which involved testing the limits of SCP-29997's physical abilities, a containment breach occurred when SCP-29997 displayed unforeseen agility, using SCP-29997-B's elongated arms to manipulate the containment door mechanisms. The incident resulted in the temporary loss of SCP-29997, recovered 12 hours later in the nearby town, seemingly attempting to 'live' among humans. This event has prompted a reevaluation of SCP-29997's containment procedures.</p>
+
+    </div>
+    
