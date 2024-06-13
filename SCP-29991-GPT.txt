@@ -1,0 +1,37 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-29991 is   Large Animal 10 to 11 meters long thick, fat snake with a thick waist, and four symmetrical pairs of bony horns on its head </h3> </center>
+
+    <h3>Item #: SCP-29991 - "Leviathan's Progeny"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-29991-GPT.png" alt="Illustration of SCP-29991" />
+        
+<h3>Description:</h3>
+<p>SCP-29991 is an anomalous entity resembling a large serpent, measuring between 10 to 11 meters in length, with a disproportionately thick, muscular body. Its skin is covered in rough, dark-green scales, exhibiting remarkable resistance to physical damage. The creature possesses four symmetrical pairs of bony, antler-like horns on its head, each pair increasing in size towards the rear of the skull.</p>
+<p>Genetic analysis of SCP-29991's tissue samples has proven inconclusive, revealing a complex, chimeric genome that incorporates sequences from various reptilian, avian, and unknown sources. SCP-29991 displays high levels of intelligence and has demonstrated problem-solving capabilities on par with that of higher primates.</p>
+<p>SCP-29991 can produce a vocalization that induces severe psychological effects on humans within a radius of approximately 200 meters. Affected individuals report experiencing an overwhelming sense of dread, manifest nightmares, and in severe cases, explicit auditory and visual hallucinations. Prolonged exposure to SCP-29991's vocalizations has resulted in long-term psychological trauma in several researchers.</p>
+<p>The entity is carnivorous, with a preference for large mammals, including humans. It has exhibited the ability to unhinge its jaw to an abnormal extent, similar to that of certain species of snakes, allowing it to consume prey significantly larger than its own head diameter.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-29991 is to be contained within a reinforced, underground containment chamber measuring no less than 15 meters in height, width, and length, located at Site-██. The chamber is to be constructed of layered materials capable of withstanding SCP-29991's strength and corrosive secretions, including high-grade steel, kevlar, and specialized acoustic insulation to prevent the spread of its vocalizations.</p>
+<p>Access to SCP-29991's containment chamber is to be restricted to D-class personnel and authorized researchers only, and any communication with or observation of SCP-29991 must be conducted through remote audiovisual feeds. All personnel who must enter the containment chamber for maintenance or research purposes are to be equipped with specialized sound-canceling helmets and are limited to a maximum exposure time of 30 minutes.</p>
+<p>In the event of a containment breach, Site-██ is to initiate Protocol Leviathan-12, which includes the immediate lockdown of the facility and the deployment of Mobile Task Forces equipped with heavy weaponry and sonic dampeners.</p>
+<p>Feeding is to occur on a bi-weekly basis, with each instance being carefully documented and observed to gather data on SCP-29991's dietary needs and behaviors.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-29991 was first encountered in ██████, a remote village in the Amazon rainforest, after reports of a "demon serpent" reached nearby research teams. A Foundation reconnaissance squad was dispatched and successfully subdued the entity after sustaining significant casualties. Surviving witnesses from the village were administered Class-B amnestics and a cover story attributing the events to a mass delusion caused by an unidentified toxic gas was disseminated.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 29991-E01</h4>
+<p><strong>Objective</strong>: To determine the range and effects of SCP-29991's vocalizations.
+<strong>Procedure</strong>: D-class personnel equipped with sound-canceling helmets were positioned at varying distances from SCP-19991's containment chamber and exposed to its vocalizations for a period of five minutes.
+<strong>Results</strong>: Subjects within a 200-meter radius exhibited signs of severe psychological trauma, despite the protective gear. Subjects beyond this range reported mild discomfort but did not suffer long-term effects.
+<strong>Conclusion</strong>: SCP-29991's vocalizations possess a potent anomalous property that is only partially mitigated by soundproofing technology. Research into more effective countermeasures is ongoing.</p>
+<h4>Experiment 29991-E02</h4>
+<p><strong>Objective</strong>: Assessing SCP-29991's problem-solving abilities.
+<strong>Procedure</strong>: A complex puzzle requiring the manipulation of various latches and levers was introduced into SCP-29991's containment chamber via robotic arm.
+<strong>Results</strong>: SCP-29991 displayed curiosity towards the object and, within an hour, successfully solved the puzzle. The entity appeared to take no further interest in the puzzle once it was completed.
+<strong>Conclusion</strong>: SCP-29991 exhibits advanced cognitive abilities, mandating precautions against escape attempts.</p>
+<h3>Addendum 3: Incident Report 29991-A</h3>
+<p>On ██/██/████, a containment breach resulted from an underestimated structural weakness in the containment chamber. SCP-29991 escaped into the surrounding area of Site-██, initiating Protocol Leviathan-12. The breach was contained within six hours with no casualties, but SCP-29991's containment chamber suffered severe damage. Analysis of the breach revealed that SCP-29991 had been slowly secreting a substance capable of weakening the chamber's structural integrity over several months undetected. Upgrades to the containment procedures and structure have been implemented to prevent future breaches.</p>
+
+    </div>
+    
