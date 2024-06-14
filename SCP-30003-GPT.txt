@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30003 is  the opposite of food, it makes you hungry and saps your calories and nutrients  </h3> </center>
+
+    <h3>Item #: SCP-30003 - "The Hungering Void"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30003-GPT.png" alt="Illustration of SCP-30003" />
+        
+<h3>Description:</h3>
+<p>SCP-30003 is a phenomenon that manifests within edibles deemed "consumables" by typical human standards. The SCP causes any affected consumable to exhibit anti-nutritive properties, wherein ingestion of the substance leads to the reversals of caloric gain, nutrient absorption, and satiation. SCP-30003 does not alter the physical appearance or taste of the consumables, making detection prior to ingestion extremely difficult.</p>
+<p>The properties of SCP-30003 become apparent immediately upon consumption. Individuals who ingest an affected item report a sudden onset of severe hunger, marked caloric deficiency symptoms, and acute malabsorption conditions regardless of prior nutritional status. Long-term exposure or repeated consumption of SCP-30003 affected consumables leads to starvation, extreme malnutrition, or death despite reported normal or excessive food intake.</p>
+<p>To date, SCP-30003 has not been observed affecting liquids, and its mechanism for choosing consumables remains unknown. Research into any discernible pattern or any possible sentience behind the selection process is ongoing.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30003 cannot be contained in a traditional sense due to its propensity to affect consumables in an unpredictable manner. Foundation networking has embedded agents within food regulatory agencies and the global food service industry to monitor and respond to potential outbreaks. Any affected consumables are to be immediately confiscated, classified as contaminated, and incinerated under biohazard protocols.</p>
+<p>Secure containment units equipped with nutritional analysis equipment have been set up to test for the presence of SCP-30003 in random food samples gathered from various geographic locations, both domestic and international. All personnel involved in the testing and handling of affected consumables must wear standard biohazard protection gear.</p>
+<p>In the case of a confirmed SCP-30003 event, Mobile Task Force Mu-4 ("Hunger Stoppers") is to be dispatched to quarantine the area, administer Class-C amnestics to witnesses, and retrieve all affected consumables.</p>
+<p>A public disinformation campaign has been established to mitigate any mass hysteria should knowledge of SCP-30003 spread. If a large-scale outbreak occurs, cover stories involving contaminated food recalls will be disseminated to the public.</p>
+<h3>Addendum 1: Incident Log</h3>
+<p><strong>Incident 30003-A:</strong> The first recorded instance of SCP-30003 occurred in [REDACTED], involving a local bakery where patrons reported intense hunger and fatigue after consuming the bakery's products. The entire stock was found to be affected by SCP-30003. The bakery was closed under the guise of a severe infestation, all products were destroyed, and the location was sterilized. Witness were administered Class-C amnestics. </p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 30003-E01:</strong>
+- <strong>Objective:</strong> Determine if SCP-30003 can affect synthetic or heavily processed foods.
+- <strong>Procedure:</strong> A variety of synthetic food samples, including meal replacement bars and artificially flavored snacks, were placed in a containment chamber said to have previously held SCP-30003-affected items.
+- <strong>Result:</strong> After 48 hours, all synthetic food samples were tested; none exhibited SCP-30003 properties. No change in SCP activity was observed.</p>
+<p><strong>Experiment 30003-E02:</strong>
+- <strong>Objective:</strong> Assess the range of SCP-30003’s effect on natural foods.
+- <strong>Procedure:</strong> A selection of organic fruits and vegetables were introduced to the containment chamber.
+- <strong>Result:</strong> Within 36 hours, all introduced organic items became affected by SCP-30003. This suggests a possible preference or increased effectiveness in natural substances.</p>
+<p><strong>Experiment 30003-E03:</strong>
+- <strong>Objective:</strong> Test the effect of cooking on SCP-30003-afflicted consumables.
+- <strong>Procedure:</strong> A batch of SCP-30003-affected grains was subjected to various cooking methods including boiling, frying, and baking.
+- <strong>Results:</strong> Cooking did not negate the anti-nutritive properties of SCP-30003. In fact, in some subjects, the effects appeared to intensify post-cooking, leading to an immediate adverse reaction upon ingestion.</p>
+<h3>Addendum 3: Recovered Journal Entry</h3>
+<p>A journal was recovered from [REDACTED], a known victim of SCP-30003, detailing their experiences post-consumption. An excerpt reads:</p>
+<p><em>"Day 15: Food has lost all meaning. What was once my comfort, my joy, is now a harbinger of emptiness. No matter how much I consume, the gnawing inside grows. I fear sleep, for the dreams of feasting turn into nightmares of an insatiable void... Can't go on like this... I must find a way to stop the hunger, or it will consume me completely."</em></p>
+<p>This personal account of SCP-30003's effects has contributed to the understanding of the psychological toll the SCP exacts on its victims, necessitating a re-evaluation of mental health protocols for individuals exposed to affected consumables.</p>
+
+    </div>
+    
