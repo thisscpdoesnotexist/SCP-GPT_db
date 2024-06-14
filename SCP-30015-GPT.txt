@@ -1,0 +1,51 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30015 is  running through the city with a pack of feral lesbians  </h3> </center>
+
+    <h3>Item #: SCP-30015 - "Urban Predation"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30015-GPT.png" alt="Illustration of SCP-30015" />
+        
+<h3>Description:</h3>
+<p>SCP-30015 is a phenomenon occurring within densely populated urban environments. Instances of SCP-30015 are composed of groups ranging from 5 to 20 female individuals that exhibit both feral behavior and heightened physical capabilities. These groups are referred to as SCP-30015-A.</p>
+<p>SCP-30015-A instances demonstrate pack-like dynamics, social structures, and hunting methods. They commonly exhibit increased strength, agility, and resilience, far surpassing typical human limits. Affected individuals also undergo a drastic psychological shift, losing higher cognitive functions and verbal communication abilities while gaining heightened predatory instincts and non-verbal group coordination.</p>
+<p>SCP-30015-A groups are characterized by their urban predation on both humans and animals. However, individuals show particular hostility towards males of any species, often resulting in fatal encounters. SCP-30015's origin, means of transmission, and physiological alterations remain unknown.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the nature and sporadic manifestation of SCP-30015, total containment is currently impossible. Efforts are instead focused on swift identification, interception, and neutralization of SCP-30015-A instances.</p>
+<p>Mobile Task Force Zeta-9 ("Mole Rats") is tasked with urban reconnaissance to identify potential outbreaks of SCP-30015. Once identified, MTF Pi-1 ("City Slickers") is deployed to subdue and capture SCP-30015-A instances using non-lethal means when possible.</p>
+<p>Containment of captured SCP-30015-A instances involves specialized reinforced cells that are to be monitored by security personnel trained in handling highly volatile and dangerous SCPs. Due to the unpredictable nature of SCP-30015-A aggression, Level-4 clearance is required for direct interaction.</p>
+<p>Amnestic treatment has proven effective at restoring most individuals to a baseline state, although some physical alterations may persist. Recaptured individuals showing signs of reemerging SCP-30015 traits are to be administered Class-H amnestics or, in extreme cases, terminated.</p>
+<p>Cover stories involving gas leaks, terrorist attacks, or hallucinogenic drug spreads are to be disseminated to the public should containment breaches result in widespread witness reports.</p>
+<h3>Addendum 1: Incident Log 30015-01</h3>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Location:</strong> ██ ██████, New York</li>
+<li><strong>Event Summary:</strong> An instance of SCP-30015-A, comprised of 12 individuals, manifested in the downtown area. The group was responsible for the deaths of █ civilians and the injury of ██ others before containment was achieved. Post-incident interviews suggested that SCP-30015-A instances were originally members of a local women's rights activist group before transformation.</li>
+</ul>
+<h3>Addendum 2: Experiment Log 30015</h3>
+<h4>Experiment 30015-E-01</h4>
+<ul>
+<li><strong>Purpose:</strong> To understand the transmission mechanism of SCP-30015.</li>
+<li><strong>Procedure:</strong> D-Class personnel with varying backgrounds were introduced into an urban simulation where SCP-30015-A instances were present.</li>
+<li><strong>Results:</strong> No new instances of SCP-30015-A manifested, suggesting the phenomenon may not be transmissible through proximity or casual contact.</li>
+</ul>
+<h4>Experiment 30015-E-05</h4>
+<ul>
+<li><strong>Purpose:</strong> To test the reaction of SCP-30015-A to male versus female presence.</li>
+<li><strong>Procedure:</strong> D-Class personnel, one male and one female, were introduced separately into the containment unit of an SCP-30015-A group.</li>
+<li><strong>Results:</strong> SCP-30015-A exhibited immediate aggression towards the male subject, resulting in termination. With the female subject, SCP-30015-A showed initial signs of hostility, which diminished over time, with the subject not engaging in any aggressive acts.</li>
+</ul>
+<h4>Experiment 36015-E-10</h4>
+<ul>
+<li><strong>Purpose:</strong> To determine if any specific stimuli can revert SCP-30015-A instances to their prior state.</li>
+<li><strong>Procedure:</strong> Various stimuli including music, images of family, and olfactory triggers associated with pre-transformation memories were introduced.</li>
+<li><strong>Results:</strong> Some instances showed signs of emotional distress or confusion, but no full reversion was achieved.</li>
+</ul>
+<h3>Addendum 3: Recovered Document 30015-02</h3>
+<p>A journal belonging to a former SCP-30015-A instance was recovered post-amnestic treatment and containment. Entries cease abruptly three days before the individual's transformation. The final entry speaks of "embracing the primal essence of womanhood at the next gathering."</p>
+<h3>Addendum 4: Researcher's Note</h3>
+<p>Dr. ██████ has proposed a theory that SCP-30015 may be connected to a psychoactive agent triggering latent genetic variables in certain populations. Research into genetic samples of SCP-300-15A instances is ongoing, with a focus on identifying common markers that may predict or explain susceptibility to transformation.</p>
+
+    </div>
+    
