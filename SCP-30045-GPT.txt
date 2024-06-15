@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30045 is  acting in direct defiance of the square cube law </h3> </center>
+
+    <h3>Item #: SCP-30045 - "Leviathan's Paradox"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30045-GPT.png" alt="Illustration of SCP-30045" />
+        
+<h3>Description:</h3>
+<p>SCP-30045 is an anomalous entity that appears to violate the known laws of physics, specifically the square-cube law, which describes the relationship between the volume and surface area as a body grows in size. SCP-30045 can alter its size from approximately 2 meters in height to a theorized upper limit that has not yet been observed, with its largest recorded manifestation being roughly 200 meters tall.</p>
+<p>The entity possesses a semi-humanoid form with disproportionate limb lengths and interchanging physical features that shift between mammalian, reptilian, and cephalopod characteristics. It has been observed to display intelligence at least on par with that of a higher primate. SCP-30045 has shown signs of self-awareness and engages in complex behaviors, such as strategic movement, problem-solving, and evasion.</p>
+<p>SCP-30045's defiance of the square-cube law allows it to maintain its physical integrity and functionality despite its varying sizes, without the corresponding increase in mass or volume one would expect based on conventional physics. This enables the entity to perform feats of strength and exhibit agility that would be impossible for any known creature of comparable size.</p>
+<p>During the periods of SCP-30045's active state, it can cause severe structural damages to man-made and natural formations alike. It displays a propensity for consuming large amounts of biomass, primarily attacking large populations of livestock or wildlife but has been observed to attack humans if other food sources are scarce.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-30045's size-changing capability and high mobility, permanent confinement is currently impossible. Foundation satellite and global surveillance networks are to monitor for SCP-30045's manifestations. Should SCP-30045 be detected, Mobile Task Forces (MTFs) Gamma-6 "Deep Feeders" are to be immediately dispatched to the location. The MTF is equipped with an array of specialized containment tools designed to delay or hinder SCP-30045's movements until further measures can be taken.</p>
+<p>In the event of manifestation, civilian populations are to be evacuated under the guise of a natural disaster or terrorist threat. Disinformation campaigns are to be employed in conjunction with the amnestic treatment of witnesses to maintain the Veil.</p>
+<p>Foundation researchers are currently attempting to develop technology or discovered thaumaturgic rituals capable of temporarily anchoring SCP-30045 to a particular size or rendering it corporeally fixed, though success has been limited.</p>
+<h3>Addendum 1: Incident Log 30045-Alpha</h3>
+<h4>Subsection 1: Initial Discovery</h4>
+<p>SCP-30045 was first encountered by the Foundation in [REDACTED], following reports of a "walking mountain" that decimated a rural farming village in the [REDACTED] region. MTF Gamma-6 was dispatched and able to repel the entity using experimental heavy weaponry. The aftermath required extensive use of Class-A amnestics and the construction of a cover story involving a catastrophic landslide.</p>
+<h4>Subsection 2: Growth Observation</h4>
+<p>During a subsequent manifestation event, SCP-30045's growth pattern was documented. In one hour, the entity grew from its minimum observed size to approximately 150 meters in height. Its rate of growth is not consistent and seems to fluctuate unpredictably, potentially based on an as-yet-undetermined biological cycle.</p>
+<h3>Addendum 2: Experiment Log 30045</h3>
+<h4>Experiment 30045-E1</h4>
+<p><strong>Objective:</strong> To determine if SCP-30045's size can be influenced externally.</p>
+<p><strong>Procedure:</strong> Researchers introduced a variety of physical barriers and environmental conditions while SCP-30045 was at an estimated height of 30 meters.</p>
+<p><strong>Results:</strong> SCP-30045 either adapted to or overcame each test, including extreme temperatures, vacuum conditions, and varied gravitational simulations.</p>
+<p><strong>Conclusion:</strong> SCP-30045's size seems to be under its own control and non-responsive to external factors.</p>
+<h4>Experiment 30045-E2</h4>
+<p><strong>Objective:</strong> To observe SCP-30045's interaction with other SCP entities.</p>
+<p><strong>Procedure:</strong> SCP-30045 was exposed to SCP-[REDACTED], an entity known for its mind-affecting properties.</p>
+<p><strong>Results:</strong> SCP-30045 experienced a temporary halt in physical activity, indicating susceptibility to cognitive interference.</p>
+<p><strong>Conclusion:</strong> Mentally-based containment strategies may provide a temporary measure against SCP-30045 but pose significant risk given the unpredictable nature of the entity.</p>
+<h3>Addendum 3: Recovery and Containment Proposal</h3>
+<p>Dr. [REDACTED] has put forward a proposal for a new containment procedure involving a manufactured reality where SCP-30045 can be monitored and studied without the risk of escape or interference with the outside world. This would require significant resources but is deemed a potential long-term solution to SCP-30045's containment challenges.</p>
+<p>The proposal is currently pending O5 Council review.</p>
+
+    </div>
+    
