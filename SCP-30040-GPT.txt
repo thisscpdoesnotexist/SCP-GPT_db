@@ -1,0 +1,44 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30040 is  a walrus that got bitten by a werewolf  </h3> </center>
+
+    <h3>Item #: SCP-30040 - "Lycan Pinniped"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30040-GPT.png" alt="Illustration of SCP-30040" />
+        
+<h3>Description:</h3>
+<p>SCP-30040 is a male Atlantic walrus (Odobenus rosmarus) that has undergone a transmutation typically associated with lycanthropy due to a bite from a specimen of unknown transformative properties, hereafter referred to as SCP-30040-α. Prior to its transformation, SCP-30040 was a walrus of average size. After the event, it has shown characteristics of rapid fur growth, increased aggression, enhanced strength, and a transformation cycle that aligns with the lunar cycle, particularly during full moons.</p>
+<p>During transformation phases, SCP-30040 exhibits humanoid features, with bipedal posture, elongated limbs, and increased cranial capacity. Despite these adaptations, the creature remains predominantly walrus-like, retaining its tusks and aquatic adaptability. Its intelligence level seems to augment during these phases, displaying problem-solving skills and tool use.</p>
+<p>Notably, SCP-30040 does not retain infectious properties akin to traditional werewolf mythology. There have been no recorded instances of SCP-30040-α bite transmission to other organisms. However, the origins of SCP-30040-α and the context of the initial bite remain unknown and under investigation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30040 requires a specialised containment habitat that mirrors its natural environment for the majority of the lunar cycle encompassing both aquatic and land terrains. The habitat is to be temperature and humidity controlled with a secure pen capable of enclosing SCP-30040 during transformation phases.</p>
+<p>Personnel must observe elevated precautions during the three nights surrounding the full moon wherein SCP-30040 undergoes its lycanthropic conversion. During this period, personnel must vacate the vicinity, and the containment habitat will lockdown automatically.</p>
+<p>It is paramount to maintain SCP-30040's health and minimize stress to prevent unprovoked aggression. Standard feeding protocols for Atlantic walruses are to be followed, with additional dietary supplements provided during transformation phases to accommodate increased metabolic demands.</p>
+<p>No individual is to interact with SCP-30040 without prior approval from a Level-3 Researcher or above. Intruders or unauthorized personnel found within the containment area during transformation phases must be apprehended and interrogated to prevent potential security breaches.</p>
+<h3>Addendum 1: Initial Acquisition</h3>
+<p>SCP-30040 was initially obtained from a small, isolated village in the Arctic Circle, where local folklore and reports of a "shape-shifting beast" prompted Foundation investigation. An MTF unit successfully secured and transported the specimen to Site-██ without civilian casualties. Amnestics were administered to the local population to maintain the Veil Protocol.</p>
+<h3>Addendum 2: Incident Log 30040-01</h3>
+<h4>Date: ██/██/20██</h4>
+<p>A containment breach occurred when SCP-30040 achieved full transformation and breached its pen by using an improvised battering ram from containment habitat furnishings. The creature was eventually subdued by response teams utilizing tranquilizer rounds specifically developed for its unique physiology. The containment habitat was reinforced to prevent future incidents.</p>
+<h4>Date: ██/██/20██</h4>
+<p>Research Assistant ████ mistakenly entered SCP-30040's containment area during a transformation phase, leading to a severe altercation wherein the assistant sustained multiple injuries before the emergency response team could intercept. This incident necessitated an evaluation of containment procedures and implementation of additional safety measures.</p>
+<h3>Addendum 3: Experiment Log 30040</h3>
+<p>To understand the full extent of SCP-30040's capabilities, several experiments were conducted.</p>
+<h4>Experiment 30040-E1</h4>
+<p><strong>Objective:</strong> Assess cognitive abilities during non-transformation phase.</p>
+<p><strong>Procedure:</strong> A series of problem-solving tasks were presented to SCP-30040.</p>
+<p><strong>Result:</strong> SCP-30040 exhibited average problem-solving abilities expected from unmutated specimens.</p>
+<h4>Experiment 30040-E2</h4>
+<p><strong>Objective:</strong> Measure cognitive and physical capabilities during transformation.</p>
+<p><strong>Procedure:</strong> Identical tasks from Experiment 30040-E1 were presented, with the addition of strength-based challenges.</p>
+<p><strong>Result:</strong> SCP-30040 displayed a marked increase in problem-solving efficiency and was able to complete the tasks 80% faster. The specimen's strength also increased, allowing it to complete the physical challenges with ease where it had previously failed.</p>
+<h4>Experiment 30040-E3</h4>
+<p><strong>Objective:</strong> Determine extent of aggression control.</p>
+<p><strong>Procedure:</strong> An autonomous drone presented a series of non-threatening gestures and then threatening gestures.</p>
+<p><strong>Result:</strong> SCP-30040 reacted neutrally to non-threatening gestures, but once threats were detected, aggression levels surged, and SCP-30040 destroyed the drone. Emotional control remains minimal during transformation.</p>
+<h3>Addendum 4: Related Notes</h3>
+<p>Further exploration into the origins of SCP-30040-α is ongoing. Field research teams have been dispatched to the Arctic Circle in hopes of locating similar entities, or the source of the original bite. Meanwhile, cryptozoological studies on lycanthropy are being reviewed to cross-reference with SCP-30040's characteristics and behaviors. SCP-30040 remains one of the most curious examples of interspecies lycanthropic infection to date.</p>
+
+    </div>
+    
