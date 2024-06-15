@@ -1,0 +1,38 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30043 is  acting in direct defiance of the square cube law </h3> </center>
+
+    <h3>Item #: SCP-30043 - "Leviathan's Cube"</h3>
+<h3>Object: Class Keter</h3>
+<h3>Description:</h3>
+<p>SCP-30043, known as "Leviathan's Cube," is a cubic entity measuring exactly 3 meters on each side. The surface of SCP-30043 exhibits a depthless black color that seems to absorb all forms of light. Photons do not reflect off its surface, making it visible only through the absence of light in its immediate vicinity.</p>
+<p>The most anomalous property of SCP-30043 is its defiance of the square-cube law. While it maintains the appearance of a solid cube, its gravitational pull is inconsistent with its assumed mass. Objects and individuals that come within a 10-meter radius begin to experience gravitational anomalies, with the force increasing exponentially as the proximity to SCP-30043 decreases. SCP-30043 is also believed to possess a variable density and mass that can change in ways not fully understood by our current physical laws, often causing severe spatial distortions and localized gravitational inconsistencies. </p>
+<p>It is hypothesized that SCP-30043 might be a multi-dimensional object, with certain aspects of its existence extending into dimensions beyond human perception. This could account for its irregular and dangerous gravitational effects.</p>
+<p>SCP-30043's origin, method of creation or transportation, and purpose, if any, remain completely unknown at this time. </p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30043 is contained within a specially designed vacuum chamber suspended in the center of a 50-meter-diameter spherical containment room at Site-██. The containment room employs active gravitational stabilization technology derived from other gravitational anomaly SCP objects to counteract SCP-30043's effects.</p>
+<p>Personnel are forbidden from entering the containment room when gravitational stabilization systems are offline or during maintenance. All observations and experiments with SCP-30043 must be approved by at least two Level 4 personnel and conducted via remote-operated drones resistant to high-gravitational fields.</p>
+<p>In the event of a containment breach or failure of the gravitational stabilization systems, Site-██ is to initiate Protocol Leviathan-43, entailing the immediate evacuation of non-essential personnel and the engagement of secondary and tertiary containment measures to re-establish gravitational control.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-30043 was first discovered in ████████, Russia, after a series of unexplained disappearances and reports of "a patch of darkness that swallows everything." A retrieval team was dispatched after local news coverage attracted the attention of SCP field agents. </p>
+<p>Initial retrieval attempts were met with significant casualties, as standard containment protocols did not account for SCP-30043's intense gravitational anomalies. Subsequent adaptation of anti-gravitational SCP technology allowed for safer extraction and containment procedures.</p>
+<h3>Addendum 2: Experiment Logs</h3>
+<h4>Experiment 30043-E-01</h4>
+<p><strong>Objective:</strong> Determine the effects of SCP-30035 on non-organic matter.</p>
+<p><strong>Procedure:</strong> A one-kilogram steel cube was introduced to the 10-meter radius around SCP-30043.</p>
+<p><strong>Results:</strong> Steel cube began to experience gravitational distortion once it entered the 5-meter mark, becoming elongated and eventually collapsing into SCP-30043 at the 2-meter mark. No increase in SCP-30043's outward dimensions were observed.</p>
+<h4>Experiment 30043-E-02</h4>
+<p><strong>Objective:</strong> Test SCP-30043's interaction with living organisms.</p>
+<p><strong>Procedure:</strong> Remote operated drone delivered a D-Class personnel with safety tether into the 10-meter radius.</p>
+<p><strong>Results:</strong> D-Class personnel reported feeling weightless upon entering the 8-meter mark. At the 4-meter mark, personnel began to display signs of extreme physical distress. Retrieval was initiated but the gravitational influence of SCP-30043 increased to the extent that the tether snapped, resulting in the loss of the personnel. All future human testing has been suspended indefinitely.</p>
+<h4>Experiment 30043-E-03</h4>
+<p><strong>Objective:</strong> Understand SCP-30043's response to high-energy directed at it.</p>
+<p><strong>Procedure:</strong> A high-powered laser was aimed towards SCP-30043 to assess whether light could be refracted, reflected, or absorbed.</p>
+<p><strong>Results:</strong> The laser beam seemingly disappeared upon contact with SCP-30043's surface with no discernible effect on SCP-30043. The energy absorption rate is theorized to be 100%; however, SCP-30043 has not displayed any increase in mass or energy emission.</p>
+<h3>Addendum 3: Incident Report 30043-A</h3>
+<p>On ██/██/20██, a Category 4 power failure resulted in the simultaneous shutdown of both primary and backup gravitational stabilization systems within Site-██. SCP-30043 began to exert an uncontrolled gravitational pull, causing severe structural damage to the containment facility, including the bending and warping of reinforced walls.</p>
+<p>Mobile Task Force Epsilon-11 ("Nine-Tailed Fox") intervened with emergency gravitational stabilization equipment. After twelve hours of consistent effort, SCP-30043 was successfully re-contained with no significant breach. An in-depth review of containment procedures is ongoing to prevent future incidents.</p>
+
+    </div>
+    
