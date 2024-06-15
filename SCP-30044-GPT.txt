@@ -1,0 +1,59 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30044 is  a girl with extendable super strong prehensile hair and a pocket dimension in her hair for storing things  </h3> </center>
+
+    <h3>Item #: SCP-30044 - "Rapunzel's Cache"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30044-GPT.png" alt="Illustration of SCP-30044" />
+        
+<h3>Description:</h3>
+<p>SCP-30044 refers to a humanoid female approximately 18 years of age, standing 1.68 meters tall and weighing 57 kilograms. The subject has striking auburn hair, which possesses anomalous properties. Firstly, SCP-30044's hair exhibits extreme tensile strength, durability, and resistance to damage beyond any known natural or synthetic fibers. Additionally, it has demonstrated prehensile capabilities, enabling SCP-30044 to control the movements of each strand as though they were appendages, similar to that of an octopus's tentacles. The subject's hair also appears to have an indefinite ability to extend. </p>
+<p>Most notably, SCP-30044 can access a pocket dimension through her hair (designated as SCP-30044-A). Objects stored within SCP-30044-A are effectively in a state of stasis and do not affect the weight or mass of SCP-30044's hair. Retrieval of these objects is subject to SCP-30044's volition. The mechanism behind this dimensional storage, as well as its limits, are still under investigation.</p>
+<p>SCP-30044 was initially discovered in [REDACTED], after reports of a "living-haired witch" reached Foundation operatives. Upon retrieval, SCP-30044 was cooperative and expressed relief at being taken into custody, citing previous instances of social ostracism and fear for her safety.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30044 is to be contained within a standard humanoid containment chamber at Site-██. Despite SCP-30044's cooperative nature, standard precautions for Thaumiel-class SCPs will be observed. The chamber is to be under 24-hour surveillance, and any interactions with SCP-30044 must be approved by at least two Level 4 personnel.</p>
+<p>SCP-30044 is granted limited access to personal items and has been provided with amenities appropriate to her cooperative stance, including literature, art supplies, and a computer with restricted internet access for educational purposes. These privileges can be revoked at the discretion of Site-██'s Director.</p>
+<p>Given SCP-30044's utility in storing and retrieving objects of interest, as well as potential application in field operations, testing and use of SCP-30044-A are sanctioned under controlled conditions and must be outlined and documented in Experiment Logs 30044-EX.</p>
+<h3>Addendum 1: Subject Interview Log 30044-IL01</h3>
+<p><strong>Interviewed:</strong> SCP-30044<br />
+<strong>Interviewer:</strong> Dr. Alana Pierce<br />
+<strong>Date:</strong> [REDACTED]<br />
+<strong>Notes:</strong> Initial interview to assess the mental state and gather information on SCP-30044's anomalous capabilities.</p>
+<p><Begin Log></p>
+<p><strong>Dr. Pierce:</strong> Good morning. How are you feeling today?</p>
+<p><strong>SCP-30044:</strong> A bit confused, but I'm okay. This is all very different from what I'm used to.</p>
+<p><strong>Dr. Pierce:</strong> Understandable. We're going to do our best to make sure you're comfortable while we learn more about you. To start, can you tell me how you control your hair?</p>
+<p><strong>SCP-30044:</strong> It's like moving any part of my body. I think about what I want it to do, and it just... does it.</p>
+<p><strong>Dr. Pierce:</strong> And the pocket dimension - how do you access it? </p>
+<p><strong>SCP-30044:</strong> I sort of... imagine the space where I want the item to be. Then I 'push' it into my hair. Getting it back out is the same, but in reverse.</p>
+<p><strong>Dr. Pierce:</strong> Fascinating. You've been extraordinarily cooperative. Can you tell me why?</p>
+<p><strong>SCP-30044:</strong> Where I'm from, people were scared of me. Here, I'm not a freak; I'm useful. That's a good feeling, even if I am locked up.</p>
+<p><End Log></p>
+<p>Dr. Pierce's Notes: SCP-30044 seems genuinely content with her current situation. Further engagement could yield increased understanding of her abilities and psychological profile.</p>
+<h3>Addendum 2: Experiment Log 30044-EX</h3>
+<h4>Experiment 30044-EX01</h4>
+<p><strong>Date:</strong> [REDACTED]<br />
+<strong>Lead Researcher:</strong> Dr. Malikov<br />
+<strong>Objective:</strong> Determine the storage capacity of SCP-30044-A.</p>
+<p><strong>Procedure:</strong> Various small items were presented to SCP-30044 for storage within SCP-30044-A. Items included a standard Foundation-issue pen, a 500ml glass beaker, and a Rubik's Cube.</p>
+<p><strong>Results:</strong> All items were successfully stored within SCP-30044-A. Upon retrieval, all objects were found to be in the same condition as they were prior to storage. No limit to storage capacity was determined.</p>
+<p><strong>Notes:</strong> Storage of larger objects or living organisms should be conducted in future experiments to further assess boundaries of SCP-30044-A.</p>
+<h4>Experiment 30044-EX02</h4>
+<p><strong>Date:</strong> [REDACTED]<br />
+<strong>Lead Researcher:</strong> Dr. Malikov<br />
+<strong>Objective:</strong> Test the retrieval speed of objects stored within SCP-30044-A.</p>
+<p><strong>Procedure:</strong> Standard Foundation-issue sidearm was stored in SCP-30044-A. SCP-30044 was then instructed to retrieve the object as quickly as possible.</p>
+<p><strong>Results:</strong> SCP-30044 retrieved the sidearm in approximately 0.8 seconds.</p>
+<p><strong>Notes:</strong> Speed of retrieval suggests potential for strategic application in the field. Consideration for Special Ops equipment bearer could be justified.</p>
+<h3>Addendum 3: Incident Report 30044-IR</h3>
+<p><strong>Date:</strong> [REDACTED]<br />
+<strong>Report:</strong> During a routine cleaning of SCP-30044's chamber, a janitorial staff member accidentally dropped a personal item, a photo locket, which became tangled in SCP-30044's hair. Without SCP-30044's awareness, the locket was absorbed into SCP-30044-A. Efforts to retrieve the locket have been met with difficulty, suggesting that SCP-30044 must be aware of an object's existence and location within SCP-30044-A to retrieve it.</p>
+<h3>Addendum 4: Psych Assessment Update</h3>
+<p>As per Dr. Alana Pierce's recommendations, SCP-30044 has been given a series of psychological assessments and counseling sessions. Results indicate that she remains cooperative and no signs of psychological distress have been noted. Continued monitoring and support have been advised to maintain her mental health and cooperation.</p>
+<h3>Addendum 5: Mission Debriefs</h3>
+<p>SCP-30044 has participated in multiple field operations as a utility asset. Field agents are provided with mission-critical equipment stored within SCP-30044-A. Operational success rates have increased significantly with SCP-30044's involvement, further bolstering her Thaumiel classification. Debriefings with SCP-30044 consistently indicate a strong sense of camaraderie with Foundation personnel, and her role in securing and protecting global normalcy. </p>
+<p>Overall, SCP-30044 continues to prove an invaluable asset to the Foundation, both in containment and in operational theatres. Further testing and application of her unique abilities are ongoing.</p>
+
+    </div>
+    
