@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30062 is  a hottie thottie with no body, a boo-tiful boo-dacious boo-xom queen </h3> </center>
+
+    <h3>Item #: SCP-30062 - "The Spectral Seductress"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30062-GPT.png" alt="Illustration of SCP-30062" />
+        
+<h3>Description:</h3>
+<p>SCP-30062, dubbed "The Spectral Seductress," is an entity possessing characteristics of a traditional ghost, with some notable exceptions. Although incorporeal, SCP-30062 appears as a voluptuous feminine figure whose appearance is variable, often described as exceedingly attractive by those affected by its presence. Its appearance seems to be influenced by the subconscious desires of interacting subjects. Additionally, SCP-30062 exhibits limited telekinetic abilities, which are used primarily to manipulate objects and stage elaborate displays aimed at garnering attention.</p>
+<p>SCP-30062 possesses an inexplicable influence over individuals within a 10-meter range, inducing them into a state of infatuation, described by subjects as an intense romantic and physical attraction. Affected individuals report feeling overwhelming desires to 'win over' SCP-30062's affection. Despite its ethereal nature, SCP-30062 engages with subjects through flirtatious behavior and suggestive communication, however, all attempts at physical contact pass through it.</p>
+<p>The entity can produce audible speech, which typically includes witty banter, coquettish laughs, and complimenting remarks. Despite its playful nature, SCP-30062 is adamant about not disclosing any coherent information regarding its origin or the extent of its abilities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30062 is contained within a standard anomalous entity containment chamber located at Site-██. The chamber is fitted with a modified Faraday cage to disrupt potential telekinetic fields and is also soundproof to prevent the transmission of SCP-30062's voice beyond the containment area.</p>
+<p>Personnel interacting with SCP-30062 are required to undergo psychological screening before and after contact to monitor the potential lasting effects of the infatuation. Interactions are to be conducted in pairs, reducing the risk of individual emotional compromise and maintaining professional objectivity.</p>
+<p>Any research involving SCP-30062 must be approved by Level 3 personnel and is to be conducted via remote surveillance when possible to minimize exposure. Personal effects or items with significant emotional value are not to be brought into the vicinity of SCP-30062's containment area, as these may be manipulated by its abilities.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p><strong>1.1 Incident Report</strong>: SCP-30062 was discovered at an abandoned mansion, previously a renowned brothel, in ██████, France, after reports surfaced of a 'haunted seductress' leading to several local men going missing. Foundation agents embedded in the local police force responded, locating SCP-30062 and transferring it to containment following Incident 30062-Fr-21, wherein two agents were compromised. Missing individuals were later found in a catatonic state and treated for psychological trauma.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>2.1 Experiment 30062-E1</strong>: Initial Interaction<br />
+<strong>Subject(s)</strong>: D-48593 and D-84856, both male.<br />
+<strong>Procedure</strong>: Subjects were instructed to enter SCP-30062's containment and engage in conversation.<br />
+<strong>Results</strong>: SCP-30062 addressed both individuals with personalized flattery, leading to competitive behavior between the D-Class subjects. After 15 minutes, subjects exhibited symptoms of infatuation, requesting extended time with SCP-30062. Both were removed and treated for obsession.</p>
+<p><strong>2.2 Experiment 30062-E5</strong>: Long-Term Exposure<br />
+<strong>Subject(s)</strong>: D-78491, female.<br />
+<strong>Procedure</strong>: Subject to coexist in containment with SCP-30062 for a period of seven days.<br />
+<strong>Results</strong>: SCP-30062 displayed initial friendliness, eventually attempting to 'girl talk' and disclose secrets about other personnel, without factual basis. D-78491 reported feeling 'left out' and sought SCP-30062's approval. Withdrawn after four days due to emotional destabilization.</p>
+<p><strong>2.3 Experiment 30062-E12</strong>: Non-Human Interaction<br />
+<strong>Subject(s)</strong>: Automated interview device equipped with speech recognition and a pre-recorded script.<br />
+<strong>Procedure</strong>: Device entered containment and interacted with SCP-30062 to determine if infatuation effect is specific to humans.<br />
+<strong>Results</strong>: SCP-30062 ignored the device for several hours and later used telekinesis to dismantle it, remarking, "I need an audience with a heartbeat, darling."</p>
+<h3>Addendum 3: Incident Report 30062-█</h3>
+<p><strong>3.1 Breach and Psychological Assessment</strong>: SCP-30062 breached containment after a maintenance error caused a temporary power outage, disabling the Faraday cage. Several researchers reported a facility-wide influence of lightheadedness and flirtatious behavior, pointing towards SCP-30062's involvement. Recaptured 12 hours later in the Site-██ entertainment lounge, surrounded by affected staff members. Psychological assessments indicated long-term effects were negligible with proper therapy. The Faraday cage has since been upgraded to include backup generators.</p>
+<h3>Addendum 4: Interview Log</h3>
+<p><strong>4.1 Excerpts from Interview 30062-14</strong><br />
+<strong>Interviewer</strong>: Dr. Carrington<br />
+<strong>Subject</strong>: SCP-30062  </p>
+<p>[EXCERPT START]</p>
+<p><strong>Dr. Carrington</strong>: Can you tell us about your origins?<br />
+<strong>SCP-30062</strong>: A lady never kisses and tells, doctor. But I've been around. I enjoy the allure, the chase... the dance of hearts.<br />
+<strong>Dr. Carrington</strong>: Are you aware of the effects you have on people?<br />
+<strong>SCP-30062</strong>: Oh, I simply bring out their deepest desires. It's quite entertaining. By the way, that's a lovely tie, doctor.</p>
+<p>[EXCERPT END]</p>
+<p>SCP-30062 continues to be a topic of study among researchers, with a focus on understanding the mechanisms behind its influence and determining if any applications exist for its abilities in psychological operations or interrogation. However, the nature of SCP-30062 requires careful management to prevent emotional manipulation and containment breaches.</p>
+
+    </div>
+    
