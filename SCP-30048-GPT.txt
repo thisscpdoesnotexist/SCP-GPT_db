@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30048 is  has reality stabilizing farts </h3> </center>
+
+    <h3>Item #: SCP-30048 - "The Unseen Anchor"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30048-GPT.png" alt="Illustration of SCP-30048" />
+        
+<h3>Description:</h3>
+<p>SCP-30048 is an adult male in his mid-30s, known officially as Mr. ████, but colloquially referred to by research staff as "The Unseen Anchor". SCP-30048 possesses an extraordinary anomalous property: the ability to emit gaseous expulsions (henceforth referred to as "farts") that exhibit reality-stabilizing effects. These emissions have proven to counteract localized reality distortions and have been invaluable in containment breaches involving reality-altering SCPs.</p>
+<p>SCP-30048 appears to have full control over the timing of these expulsions but claims no conscious control over their anomalous properties. Frequency and intensity of the emissions do not correlate with the quantity of food intake or specific dietary components. However, emotional distress seems to enhance the emissions' effects, leading to more potent reality reassertion.</p>
+<p>The emissions themselves consist of typical components found in non-anomalous human flatulence but are surrounded by an unobservable 'field' detectable only by its effect on reality-distorting phenomena. For SCP-30048's safety and confidentiality, the subject's appearance and background are classified beyond O5-level clearance.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30048 is to be housed in a comfortable, standard humanoid containment chamber at Site-██, equipped with furnishings equivalent to a mid-range apartment. To minimize psychological distress and ensure the effective performance of its anomalous abilities, SCP-30048's well-being and comfort are to receive priority.</p>
+<p>Due to SCP-30048's Thaumiel classification, it is to be escorted by a minimum of two (2) armed guards at all times outside of its containment chamber for the subject's protection. All personnel must refrain from commenting on or reacting to SCP-30048's expulsions outside of a professional, research context.</p>
+<p>Interaction with reality-altering SCPs for stabilization purposes must be authorized by no fewer than two (2) Level 4 personnel and be conducted under controlled conditions. Additionally, research staff may request voluntary emissions in controlled environments to further understand the extent and mechanics of SCP-30048's anomalous properties.</p>
+<h3>Addendum 1: Incident Log</h3>
+<h4>Addendum 1.1: Encounter with SCP-████</h4>
+<p>SCP-30048 played a pivotal role in the recontainment of SCP-████ after it breached containment on ██/██/20██ and began warping reality in Site-██. SCP-30048 was brought to the location of SCP-████'s activity and produced a single emission. Within seconds, the reality-altering effects of SCP-████ were nullified, allowing for its recontainment without further incident.</p>
+<h4>Addendum 1.2: Mental Health Considerations</h4>
+<p>SCP-30048 has exhibited signs of psychological distress pertaining to the nature of his anomaly. Despite SCP-30048's understanding of its valuable role in maintaining normalcy within the Foundation, regular counseling sessions have been mandated to ensure mental stability. Foundation psychologists are exploring methods to improve SCP-30048's self-esteem and mitigate feelings of indignity related to its anomaly.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Addendum 2.1: Experiment 30048-A</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> SCP-30048 was exposed to a controlled environment affected by a minor reality-altering device.</li>
+<li><strong>Results:</strong> An emission from SCP-30048 completely stabilized the affected area within 4.7 seconds. The reality-altering device was rendered inert for 48 hours following exposure.</li>
+</ul>
+<h4>Addendum 2.2: Experiment 30048-B</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> SCP-30048 was asked to consume a diet high in cruciferous vegetables to determine if emission potency could be increased.</li>
+<li><strong>Results:</strong> No significant changes in emission potency were observed. SCP-30048 reported discomfort due to bloating, leading to the conclusion that diet does not affect the anomaly's efficacy.</li>
+</ul>
+<h4>Addendum 2.3: Experiment 30048-C</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> SCP-30048 was placed under mild psychological stress by solving complex mathematical problems.</li>
+<li><strong>Results:</strong> Emission frequency increased, but with no discernible enhancement in reality-stabilizing effects. Following the experiment, additional counseling sessions were deemed necessary to address SCP-30048's increased anxiety levels.</li>
+</ul>
+<h3>Addendum 3: SCP-30048 Collaboration</h3>
+<p>SCP-30048 has expressed a willingness to cooperate closely with the Foundation for the purposes of enhancing its understanding of the anomaly and containing other SCPs. A Memorandum of Understanding (MoU) has been drafted, which details SCP-30048's voluntary collaboration, provided that its safety, dignity, and comfort are maintained.</p>
+<p>Proposals for further testing and possible training of SCP-30048's control over the emission timing and potency to fine-tune its usage in the field are under review by the Ethics Committee. SCP-30048 has demonstrated commitment and effectiveness unmatched by current technological means, making it an invaluable asset to the Foundation's mission.</p>
+
+    </div>
+    
