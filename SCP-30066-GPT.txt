@@ -1,0 +1,61 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30066 is  The mind controlling penguins that live on the great ice wall surrounding flat earth </h3> </center>
+
+    <h3>Item #: SCP-30066 - "The Great Antarctic Deceivers"</h3>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-30066 designates a colony of approximately 300 specimens of what appear to be Spheniscus demersus (African penguin), with significant physiological and behavioral deviations. SCP-30066 are situated along a previously undocumented ice wall surrounding a flat terrestrial expanse, contrary to the established spherical Earth model. This ice wall is henceforth referred to as SCP-30066-A.</p>
+<p>Instances exhibit anomalous properties including advanced neural interfacing capabilities, allowing them to control the actions and thoughts of humans and animals within an estimated 5 km radius. This mind-control is not limited to direct visual contact, suggesting a form of telepathic influence. Additionally, instances show a collective intelligence and hierarchal society far beyond normal penguin behavior, with indications of a structured government and policing system.</p>
+<p>Whilst under SCP-30066's influence, subjects (referred to herein as SCP-30066-B) display an acute cessation of disbelief in a "flat earth" model, and become highly aggressive when presented with evidence to the contrary. It should be noted that this belief persists for an undetermined period after the initial influence has ceased.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the unique geography of SCP-30066-A and the considerable range of SCP-30066's influence, full containment is not feasible at present. However, establishing a perimeter beyond the anticipated control radius is of primary concern. Site-██ has been constructed 10 km away from SCP-lobby with the following protocols in place:</p>
+<ol>
+<li>A no-fly zone and naval exclusion zone have been implemented within a 15 km radius of SCP-lobby's estimated perimeter.</li>
+<li>Electromagnetic jamming equipment is to be active at all times to prevent wireless communication in and out of the affected area.</li>
+<li>Personnel approaching the perimeter are required to be fitted with specialized neural shielding helmets to prevent SCP-lobby's influence. Helmets are to be inspected and tested before each use.</li>
+<li>Any instances of SCP-lobby-B are to be apprehended, removed from the affected area, and subjected to a 30-day observation period before debriefing and administration of Class-B amnestics.</li>
+</ol>
+<p>Exploration and interaction with SCP-lobby (and by extension, SCP-lobby-A) are to be done exclusively with remote-operated drones until effective countermeasures against their abilities can be developed.</p>
+<h3>Addendum 1:</h3>
+<h4>Observation Log 30066-01:</h4>
+<p>Remote drones deployed to SCP-lobby-A's edge captured imagery of SCP-lobby entities engaging in what appears to be socio-political discussions, with some instances adorning makeshift insignia signifying rank. Efforts to capture audio have been met with inconclusive results due to an unknown interference.</p>
+<h3>Addendum 2:</h3>
+<h4>Experiment Log 30066-A:</h4>
+<p><strong>Experiment 30066-A-01</strong>
+- <strong>Objective:</strong> To determine the maximum effective range of SCP-lobby's influence.
+- <strong>Procedure:</strong> Class-D subjects were placed at increasing distances from SCP-lobby-A's edge, with regular intervals for exposure to SCP-lobby's presumed telepathic field.
+- <strong>Results:</strong> Telepathic influence was confirmed up to 5 km from SCP-lobby-A. All subjects experienced intense belief in the "flat earth" model.
+- <strong>Notes:</strong> Subjects retained their altered beliefs post-experiment, requiring administration of Class-B amnestics.</p>
+<p><strong>Experiment 30066-A-02</strong>
+- <strong>Objective:</strong> To evaluate the effectiveness of neural shielding helmets.
+- <strong>Procedure:</strong> Agents equipped with the latest neural shielding helmets approached SCP-lobby-A, attempting to interact with SCP-lobby.
+- <strong>Results:</strong> Helmets showed a 99.7% success rate in protecting against SCP-lobby's control. One incident of control was recorded when an agent's helmet was compromised due to sealant failure.
+- <strong>Notes:</strong> Helmets are now triple-checked for integrity before deployment.</p>
+<p><strong>Experiment 30066-A-03</strong>
+- <strong>Objective:</strong> To observe SCP-lobby's response to potential threats.
+- <strong>Procedure:</strong> A drone disguised as a predatory bird was flown over SCP-lobby-A.
+- <strong>Results:</strong> SCP-lobby entities organized a rapid and coordinated defense, neutralizing the drone within minutes using unknown methods.
+- <strong>Notes:</strong> SCP-lobby's reaction suggests high intelligence and awareness of airborne threats.</p>
+<h3>Addendum 3:</h3>
+<h4>Interview Log 30066-B-01:</h4>
+<p>Following recovery and containment of a SCP-lobby-B subject, an interview was conducted to gain insight into the experience of being under SCP-lobby's influence.</p>
+<ul>
+<li><strong>Interviewer:</strong> Dr. ██████</li>
+<li><strong>Subject:</strong> D-9341</li>
+<li><strong><Begin Log></strong></li>
+<li><strong>Dr. ██████:</strong> Can you describe what you felt while under control?</li>
+<li><strong>D-9341:</strong> It's foggy, doc. Like I knew something was wrong but couldn't put my finger on it. And that idea of the earth not being round...it was like gospel.</li>
+<li><strong>Dr. ██████:</strong> Did you ever interact with the penguins directly?</li>
+<li><strong>D-9341:</strong> No direct talks, but they'd march by sometimes, inspecting us like we were part of their squad or something. Freaky, you know?</li>
+<li><strong><End Log></strong></li>
+</ul>
+<h3>Addendum 4:</h3>
+<h4>Recovery Log 30066-C:</h4>
+<p>An expedition beyond SCP-lobby-A resulted in the discovery of documents within a burrow. These documents, when translated, seem to be historical records written from the perspective of SCP-lobby, detailing the "rise of the Great Antarctic Empire" and plans to "extend the dominion of influence." Study of these documents is ongoing to better understand SCP-lobby's society and long-term intentions.</p>
+<p>SCP-lobby remains a significant concern for both containment and informational security regarding the true shape of the Earth. Due to their influence on human belief systems, psychological warfare and disinformation are considered principal threats posed by SCP-lobby, and as such, monitoring misinformation related to the flat earth theory within the general population has been intensified.</p>
+
+    </div>
+    
