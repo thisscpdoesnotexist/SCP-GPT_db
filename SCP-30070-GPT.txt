@@ -1,0 +1,35 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30070 is  a design for a perpetual motion machine made from a cat, a piece of buttered toast, and some duct tape </h3> </center>
+
+    <h3>Item #: SCP-30070 - "The Perpetual Purr-petuator"</h3>
+<h3>Object (Anomaly) Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-30070 is an anomalous object consisting of a domestic cat (Felis catus), a slice of toast thickly coated with butter on one side, and a length of silver duct tape. The anomaly gains its properties when the toast is affixed butter-side-up to the back of the cat using the duct tape. Due to the widely circulated humorous paradox proposing that a cat always lands on its feet and buttered toast will always land butter-side-down, SCP-30070 engages in a state of perpetual motion when dropped from any height.</p>
+<p>SCP-30070 was discovered after a series of online videos went viral, showing a cat with buttered toast taped to its back, hovering and spinning indefinitely a few centimeters above the ground. Foundation web crawlers flagged the content, and a containment team was dispatched to secure the anomaly and administer amnestics to the involved parties.</p>
+<p>The continuous motion of SCP-30070 is smooth and exhibits no signs of deceleration, suggesting an apparent violation of the laws of thermodynamics. The motion is typically rotational around the central axis of the combined cat-toast system. The anomalous effects cease immediately if either the toast is removed or the buttered side contacts any surface, including the cat.</p>
+<p>Examinations and interviews conducted with the cat (subsequently designated SCP-30070-01) have not revealed any signs of distress or awareness of its involvement in anomalous activity. SCP-30070-01 is a male British Shorthair with grey fur and has been found to exhibit normal behaviour when not part of the SCP-30070 assembly.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30070 is to be contained within a standard animal habitat enclosure located in Site-64's Safe SCP wing. The enclosure must be fitted with a cushioned base to prevent injury to SCP-30070-01 during tests of SCP-30070's anomalous properties. SCP-30070-01 is to be provided with care compliant with standard veterinary recommendations for domestic cats.</p>
+<p>Direct interaction with SCP-30070-01 for the purpose of maintenance, research, or testing must be approved by at least one Level 3 Researcher. Only D-class personnel are authorized to assemble SCP-30070 under supervision, and the anomaly should be neutralized immediately following the conclusion of testing procedures.</p>
+<p>Personnel are reminded that SCP-30070-01 is a living creature and must be treated with the decency and respect owed to all sentient beings contained within the Foundation.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 30070-E1:</h4>
+<p><strong>Procedure:</strong> D-18452 was instructed to assemble SCP-30070 and then release the cat from a height of 1 meter.
+<strong>Results:</strong> SCP-30070 engaged in anomalous perpetual motion, rotating approximately 30 centimeters above the ground for 15 minutes until the test was concluded, and the toast was removed.
+<strong>Notes:</strong> First recorded instance of sustained motion. Observation noted the serene indifference of SCP-30070-01.</p>
+<h4>Experiment 30070-E2:</h4>
+<p><strong>Procedure:</strong> The same conditions as E1, but SCP-30070 was released from a height of 3 meters.
+<strong>Results:</strong> Identical results to E1; height appears to have no impact on the behavior of SCP-30070.
+<strong>Notes:</strong> Dr. Klein suggested testing different bread types and butters to observe variances in anomalous effects.</p>
+<h3>Addendum 2: Incident Report 30070-IR1</h3>
+<p><strong>Event Description:</strong> On ██/██/20██, SCP-30070 was accidentally left in its anomalous state post-experimentation due to human error and an unscheduled facility power outage. The object remained in continuous motion for approximately 3 hours before being discovered by security personnel.</p>
+<p><strong>Consequences:</strong> SCP-30070-01 exhibited no adverse effects from the prolonged state of perpetual motion. However, the length of exposure to anomalous conditions remains a concern for potential long-term effects.</p>
+<h3>Addendum 3: Personnel Notes</h3>
+<p><strong>Note from Dr. Klein:</strong> SCP-30070, while amusing in its implications, must be treated with the same precaution as any other anomaly. We've been fortunate that the effects are benign, but let's not forget the potential for unforeseen consequences. Additional experimentation should focus on understanding the limits of the perpetual motion observed and ensuring no harm comes to SCP-30070-01.</p>
+<p><strong>Note from Ethics Committee:</strong> Remember, SCP-30070-01 is a sentient being, not just an experimental tool. All future tests require approval, and any abuse of SCP-30070-01 for entertainment will result in disciplinary action. Let's conduct ourselves with professionalism.</p>
+
+    </div>
+    
