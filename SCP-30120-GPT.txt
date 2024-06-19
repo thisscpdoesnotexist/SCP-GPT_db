@@ -1,0 +1,53 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30120 is  a girl with no bones  </h3> </center>
+
+    <h3>Item #: SCP-30120 - "The Cartilage Prodigy"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30120-GPT.png" alt="Illustration of SCP-30120" />
+        
+<h3>Description:</h3>
+<p>SCP-30120 is a female human adolescent, approximately 14 years of age, known as "Emma." What distinguishes SCP-30120 from a normal human is the complete absence of ossified bone tissue; instead, her skeletal structure is comprised entirely of a cartilaginous substance similar to that found in human embryos before bone calcification.</p>
+<p>Despite the lack of bones, SCP-30120 is capable of locomotion and maintains a form similar to that of an average human. This is made possible by the unique properties of her cartilaginous skeletal structure, which possesses an anomalous strength and rigidity while still being flexible. SCP-30120's muscular system is slightly more developed than the average for her age, possibly to compensate for her unique physiology. However, the subject is prone to fatigue and cannot sustain physical activity for extended periods.</p>
+<p>SCP-30120 has a full range of emotions and intelligence appropriate for her age. She has no memory of her origins or how she came to possess her anomalous properties. Genetic testing has confirmed that SCP-30120 is genetically human, though there are several unidentified sequences in her DNA that may be responsible for her condition. Psychological evaluations indicate that SCP-30120 is stable and has adapted remarkably well to her condition, showing resilience and a generally positive demeanor.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30120 is to be housed in a standard humanoid containment cell at Site-17. The cell is furnished to accommodate a comfortable living environment with amenities suitable for a human adolescent, including educational materials, entertainment, and personal items upon request, within reason.</p>
+<p>Staff assigned to SCP-30120 are to follow standard precautions for Safe-class anomalous humanoid interactions. Due to SCP-30120's unique physiology, the cell is to be kept at a constant temperature of 23°C (73°F) to prevent her from becoming too cold, which could cause her cartilaginous structure to become excessively rigid.</p>
+<p>SCP-30120 is to undergo weekly medical examinations to monitor her health and any potential changes in her anomalous condition. Physical therapy sessions are scheduled thrice weekly to ensure that SCP-30120 retains muscle strength and joint flexibility.</p>
+<p>Personnel with experience in pediatric care and psychological counseling have been assigned to SCP-30120 to attend to her mental well-being and development. Interaction with SCP-30120 must be documented and any significant changes in her behavior reported to the supervising researcher, Dr. Milena Ivanov.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-30120 was discovered in Alberta, Canada, when local hospital staff reported a girl with an unknown medical condition that left her with extraordinary flexibility and no detectable bone structure. Foundation agents embedded within the medical community were alerted and SCP-30120 was retrieved for containment and study. The Foundation has since replaced SCP-30120's records with a cover story involving a fatal accident to prevent any inquiry into her disappearance.</p>
+<h3>Addendum 2: Interview and Psychological Evaluation</h3>
+<h4>Interview Log - SCP-30120</h4>
+<p><strong>Interviewer:</strong> Dr. Ivanov</p>
+<p><strong>Subject:</strong> SCP-30120 - "Emma"</p>
+<p>[EXTRACT]</p>
+<p><strong>Dr. Ivanov:</strong> "Hello Emma, how are you feeling today?"</p>
+<p><strong>SCP-30120:</strong> "I'm okay, Dr. Ivanov. Just a little stiff from sitting around."</p>
+<p><strong>Dr. Ivanov:</strong> "Understandable, we'll have a physical therapy session after this. Emma, can you tell me anything about your life before coming to the Foundation?"</p>
+<p><strong>SCP-30120:</strong> "It's all really blurry. I remember being in different hospitals a lot. Doctors poking and prodding me. My parents were always sad, or scared... I don't know where they are now."</p>
+<p><strong>Dr. Ivanov:</strong> "We're trying to learn as much as we can so that we can help you. Do you ever remember being hurt or suffering any bone fractures before you realized you were different?"</p>
+<p><strong>SCP-30120:</strong> "No, never. I fell off my bike once, really hard, but I just got right up. It didn't hurt, and nothing broke. Then people started noticing I wasn't… normal."</p>
+<p>[END EXTRACT]</p>
+<p>SCP-30120 continues to show resilience and adaptability concerning her condition. Psychological evaluations reveal no significant mental health issues, though she has expressed feelings of loneliness and concern about her parents' whereabouts.</p>
+<h3>Experiment Log:</h3>
+<h4>Experiment 30120-E01: Evaluation of Physical Limitations</h4>
+<ul>
+<li><strong>Objective:</strong> To assess the extent to which SCP-30120 can perform physical activities common to non-anomalous humans her age.</li>
+<li><strong>Result:</strong> SCP-30120 demonstrated below-average endurance in running tests but above-average flexibility. No injuries sustained during testing.</li>
+</ul>
+<h4>Experiment 30120-E02: Response to Temperature Variations</h4>
+<ul>
+<li><strong>Objective:</strong> To record SCP-30120's physiological reactions to changing temperatures.</li>
+<li><strong>Result:</strong> SCP-30120 showed discomfort and reduced mobility in temperatures below 15°C (59°F). Heated environments do not seem to affect her negatively.</li>
+</ul>
+<h4>Experiment 30120-E03: Sensory and Pain Threshold</h4>
+<ul>
+<li><strong>Objective:</strong> To determine SCP-30120's sensory response and pain threshold compared to non-anomolous humans her age.</li>
+<li><strong>Result:</strong> SCP-30120 possesses normal sensory capabilities. She exhibits a slightly elevated pain threshold, arguably due to her cartilaginous structure's resistance to typical bone-related injuries.</li>
+</ul>
+<p>Further experiments are ongoing to understand SCP-30120's unique condition and to develop procedures that could be used to treat similar anomalous phenomena.</p>
+
+    </div>
+    
