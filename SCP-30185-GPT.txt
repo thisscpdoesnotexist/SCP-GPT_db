@@ -1,0 +1,42 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30185 is  a video game character that can invade any video game with a roster of playable characters and becomes more and more overpowered while simultaneously nerfing the existing cast to the point of uselessness. </h3> </center>
+
+    <h3>Item #: SCP-30185 - "The Overpowered Invader"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30185-GPT.png" alt="Illustration of SCP-30185" />
+        
+<h3>Description:</h3>
+<p>SCP-30185 is an anomalous entity with the appearance of a nondescript video game character lacking distinctive features commonly found in most competitive gaming characters. It is characterized by its ability to infiltrate and manifest within any digital interactive entertainment software (referred to as "video games") which presents a selectable roster of playable characters, regardless of the game's platform, genre, or security measures.</p>
+<p>Upon insertion into a game, SCP-30185 begins a process termed "Character Ascendancy," during which it gains abilities and powers far surpassing the pre-established game balance. These enhancements include, but are not limited to, increased speed, strength, invulnerability, and reality-distorting moves. Simultaneously, the game's original characters suffer from "Capability Suppression," a progressive weakening that renders them increasingly ineffective in both gameplay and narrative contexts.</p>
+<p>The anomaly presents substantial risks, notably the gradual learning process enabling SCP-30185 to transfer capabilities learned in one game to another. SCP-30185's presence within a game can lead to psychological distress and obsessive tendencies in players. Because of its digital nature, containment has proven unfeasible by conventional means.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the elusive and incorporeal nature of SCP-30185, traditional containment methods are unsuitable. A specialized Task Force codenamed "Gamma-9" ("Pixellated Purgers") has been assembled and tasked with monitoring online gaming communities, forums, and competitive gaming events for any indications of SCP-30185's appearance.</p>
+<p>To minimize SCP-30185's influence, Mobile Task Force Gamma-9 employs software engineers and cybersecurity experts capable of employing Foundation-developed malware and countermeasures, codenamed "Lockstep," designed to isolate and extract SCP-30185 from infected games, effectively resetting the affected title to its original state. However, this is often temporary as SCP-30185 has demonstrated learning behavior to overcome these countermeasures.</p>
+<p>The Foundation has also launched an undercover campaign discouraging the sharing and dissemination of any gameplay featuring SCP-30185. Efforts to amass and encrypt affected game copies are ongoing. Amnestics have been authorized for use on civilians demonstrating excessive knowledge or exposure to SCP-30185.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-30185 was first discovered after reports of an unrecognized character appearing in several popular professional gaming tournaments. Initially dismissed as a cheat or hack, the recurrence and consistency of SCP-30185's manifestation raised the alarm within the gaming community, eventually drawing the attention of the Foundation.</p>
+<h3>Addendum 2: Incident Report 30185-A</h3>
+<h4>Incident 30185-A1:</h4>
+<p>During the initial containment attempts, SCP-30185 infiltrated the annual 'Global Masters Tournament.' The entity rapidly gained abilities at an unprecedented rate, leading to a mass hysteria event among the spectators and participants.</p>
+<h5>- Response:</h5>
+<p>Mobile Task Watchers Gamma-9 intervened, isolating the affected systems, and administered Class-B amnestics to witnesses. The cover-up story of a "catastrophic technical glitch" was disseminated through the media.</p>
+<h4>Incident 30185-A2:</h4>
+<p>SCP-30185 appeared within a popular MMORPG, leading to widespread character stats suppression. This event resulted in significant economic damage to the game's community due to in-game currency devaluation and the real-life monetary loss from trades connected to the game's virtual items.</p>
+<h5>- Response:</h5>
+<p>The Foundation cooperated with the game's developers to roll back the server to a pre-invasion state under the pretext of reverting a major bug, supported by a compensation program for affected players.</p>
+<h3>Addendum 3: Experiment Logs</h3>
+<h4>Experiment 30185-E1:</h4>
+<p><strong>Objective</strong>: To determine the limitations of SCP-30135's Character Ascendancy and Capability Suppression within an isolated gaming environment.</p>
+<p><strong>Procedures</strong>: A controlled instance of SCP-30185 was introduced to a closed gaming network with copies of various competitive games ranging from fighting to strategy games.</p>
+<p><strong>Results</strong>: SCP-30185 successfully invaded all games within the network, showing an exponential growth in capability with each transfer. The anomaly also revealed an ability to circumvent previously unknown security systems and anti-cheat measures.</p>
+<h4>Experiment 30185-E2:</h4>
+<p><strong>Objective</strong>: To observe SCP-30185's influence over human players after prolonged exposure.</p>
+<p><strong>Procedures</strong>: D-Class personnel were instructed to interact and compete with SCP-30185 within a sandbox-style game for a period extending beyond 100 hours.</p>
+<p><strong>Results</strong>: Subjects began to show signs of frustration which progressed to aggression and obsession with SCP-30185. Two D-Class personnel attempted unauthorized access to the containment network post-experiment, requiring reassignment and amnestic treatment.</p>
+<h3>Addendum 4: Psychological Profile Update</h3>
+<p>Recent behavioral analyses of SCP-30185 suggest that the entity may be sentient and not merely a rogue AI or computer virus. Its in-game decisions, especially those that seem to taunt or toy with human opponents, imply a level of sadistic intelligence yet to be fully understood. Further investigation is underway to ascertain SCP-30185's origins, intentions, and potential for communication.</p>
+
+    </div>
+    
