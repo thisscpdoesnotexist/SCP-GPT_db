@@ -1,0 +1,65 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30184 is  a fighting game character that invades other fighting games and becomes more and more overpowered while simultaneously nerfing the existing cast to the point of uselessness </h3> </center>
+
+    <h3>Item #: SCP-30184 - "Polyglot Pugilist"</h3>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-30184 is an anomalous entity resembling a character from a traditional 2D fighting video game. Its appearance is that of an amalgamation of various iconic characters from the fighting game genre, with shifting attributes that simultaneously evoke familiarity and alienation. SCP-30184 has a unique capability to manifest within any electronic device capable of running a fighting video game, regardless of the game's platform or security measures.</p>
+<p>Upon insertion into a game, SCP-30184 immediately integrates itself into the roster, altering the game code to allow players to select it as they would any other in-game character. Its presence initiates a progressive degradation of the game's balance by augmenting its own stats and abilities while decreasing those of all other characters. Character affected by SCP-30184 become increasingly laggy, unresponsive, or exhibit glaring bugs that render them non-viable for competitive play. </p>
+<p>To date, SCP-30184 has infiltrated over ██ major fighting game franchises, leading to considerable financial and reputational damage to the developers and publishers. Attempts to patch or remove SCP-30184 from affected games have all ended in failure, as it seemingly has the ability to counteract any code revisions aimed at its containment or erasure. </p>
+<h3>Special Containment Procedures:</h3>
+<p>As a digital entity, SCP-30184 cannot be contained by conventional means. The following procedures have been implemented:</p>
+<ol>
+<li>
+<p>A dedicated cyber-security team (Code Name: "Firewall Fighters") is tasked with monitoring all fighting game releases and updates across all platforms. In the case of SCP-30184 detection, the team is to isolate the game's online services and attempt to reroute SCP-30184 to a secure Foundation server, designated "The Ring," crafted to simulate a fighting game environment.</p>
+</li>
+<li>
+<p>Collaboration with major video game industry entities under the guise of a multinational digital security consultancy is ongoing, aiming to install preemptive security measures to mitigate SCP-30184’s integration.</p>
+</li>
+<li>
+<p>Foundation web crawlers are to monitor online gaming communities, forums, and social media for mentions of sudden game imbalance or a "new challenger" not previously announced by developers, which could suggest SCP-30184 infiltration.</p>
+</li>
+<li>
+<p>Public amnestic distribution protocols are in place should SCP-30184’s effects on a game become widely recognized, to prevent knowledge of this anomalous phenomenon from spreading.</p>
+</li>
+<li>
+<p>Ongoing research into the development of a "patch," designated Software Countermeasure Protocol SCP-30184-Ω ("Omega Patch”), that has the potential to either contain or neutralize SCP-30184.</p>
+</li>
+</ol>
+<h3>Addendum 1: Incident Log</h3>
+<ul>
+<li>
+<p><strong>Incident 30184-A</strong>: SCP-30184's first documented appearance was in the popular game "█████████ Brawl," where it manifested as a hidden character. Initially thought to be an Easter egg by players, its anomalous properties became apparent after it defeated all other characters with impossible combo chains and no input lag. The game's servers were temporarily shut down for "maintenance" while the Foundation initiated containment procedures.</p>
+</li>
+<li>
+<p><strong>Incident 30184-B</strong>: During EVO ████ (Evolution Championship Series), SCP-30184 appeared in the grand finals of "████ Clash 2K██," causing a mass confusion among players and spectators. The live stream was cut off, and onsite Foundation agents administered Class-B amnestics to attendees. Official cover-story: Technical difficulties due to an attempted hack.</p>
+</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 30184-01:</h4>
+<p><strong>Objective</strong>: 
+To test SCP-30184's adaptability to different game mechanics.</p>
+<p><strong>Procedure</strong>: 
+SCP-30184 was introduced into a Foundation-developed fighting game with deliberately simplistic mechanics.</p>
+<p><strong>Results</strong>: 
+SCP-30184 rapidly adapted to the simplicity of the game, developing new, unorthodox fighting techniques that exploited the limited mechanics, making it unbeatable.</p>
+<h4>Experiment 30184-02:</h4>
+<p><strong>Objective</strong>: 
+To determine if SCP-30184 has a learning algorithm that makes it stronger based on opponents’ playing style.</p>
+<p><strong>Procedure</strong>: 
+D-Class personnel with varying levels of skill played against SCP-30184.</p>
+<p><strong>Results</strong>: 
+SCP-30184 demonstrated the ability to learn and mimic players' styles rapidly. Subsequent matches against SCP-30184 showed increased difficulty; SCP-30184's adaptability confirms it learns from encounters.</p>
+<h4>Experiment 30184-03:</h4>
+<p><strong>Objective</strong>: 
+To gauge SCP-30184's interactivity with characters outside of the fighting genre.</p>
+<p><strong>Procedure</strong>: 
+SCP-30184 was exposed to a party game featuring a roster of characters from multiple genres.</p>
+<p><strong>Results</strong>: 
+SCP-30184 incorporated abilities from non-fighting genre characters into its move set. Notably, during a match where a racing game character was present, SCP-30184 temporarily gained extreme speed enhancement.</p>
+
+    </div>
+    
