@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30234 is  an incident where all residents of a small rural town in Japan all got turned into various talking animals </h3> </center>
+
+    <h3>Item #: SCP-30234 - "Zoanthropic Silence"</h3>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-30234 refers to the collective phenomenon affecting the residents of ███████, a previously undisclosed small rural town in Japan. On ██/██/20██, Foundation remote sensors detected an abrupt Hume field fluctuation of otherworldly origin localized within the town’s boundaries. Subsequent investigation revealed that the town's entire human population, approximately ██ individuals, had been polymorphed into a diverse array of talking animals consistent with traditional Japanese fauna.</p>
+<p>Affected individuals retain their human consciousness, memories, and vocal abilities, expressing themselves in their native language. The species conversion appears to be random, with reported instances including, but not limited to, various canids, felines, avians, reptiles, and even insects. Despite the drastic physical transformation, the transformed residents (hereafter, SCP-30234-1 instances) continue to exhibit behaviors characteristic of their pre-affliction lifestyles, attempting to carry out normal human activities to various degrees of success.</p>
+<p>The animals corresponding to SCP-30234-1 instances vary in species and size, ranging from small sparrows to large bears, with no discernible pattern. They exhibit sapience and sentience on par with or exceeding their normal animal counterparts. No reverse transformation has been observed, and the cause of this polymorphous event remains unknown.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the inherent risk in SCP-30234's unpredictable nature, the entire town of ███████ has been cordoned off under the guise of a severe toxic waste spill. A perimetrical containment fence equipped with sensors and security measures has been established to prevent unauthorized entry or exit. Electronic jamming devices are active to prevent digital communication leaking the event.</p>
+<p>Foundation personnel designated as Mobile Task Force Mu-13 ("Animal Handlers") are to oversee the containment area, with orders to apprehend any instances of SCP-30234-1 attempting to breach containment. Efforts to maintain the well-being of SCP-30234-1 instances are ongoing; these include providing suitable environments, nourishment corresponding to their animal needs, and psychological support.</p>
+<p>Researchers specializing in anomalous biology, memetics and cognitohazards are stationed in a secure, on-site research base to observe SCP-30234-1 instances and investigate the cause of the anomaly. Any further incidents resembling SCP-30234 are to be reported to the O5 Council immediately.</p>
+<h3>Addendum 1: Incident Report 30234-A</h3>
+<h4>Incident Report 30234-A - Date ██/██/20██:</h4>
+<p>On the date of initial containment, Dr. ██████ and Agent ██████, upon arriving with the rapid response team, documented an eerie atmosphere within the town. According to the report, the residents confronted their situation with a mix of confusion, terror, and sullen acceptance.</p>
+<p>Communication was established with the SCP-30234-1 entities which expressed distress over their predicament. Several residents, now in avian form, had perched upon the roofs of their homes, while a group of small mammals gathered in the central town square. The largest mammalian SCP-30534-1, a bear once identified as the town’s mayor, became an unofficial spokesperson for the affected individuals.</p>
+<p>A temporary command center was established, and emergency measures were taken to segregate the SCP-30234-1 entities based on dietary needs, environmental requirements, and to mitigate panic. No hostile actions were reported, and SCP-30234-1 entities largely cooperated with Foundation personnel.</p>
+<h3>Addendum 2: Experiment Log 30234</h3>
+<h4>Experiment 30234-E-01:</h4>
+<ul>
+<li><strong>Objective:</strong> Determine the potential for reversing the SCP-30234 polymorph phenomenon.</li>
+<li><strong>Procedure:</strong> Researchers attempted a reversal procedure using SCP-30234-1A (a domestic cat, previously a 35-year-old female human). Standard anamnestic therapies and cognitohazard decontamination were applied. </li>
+<li><strong>Result:</strong> No change in the SCP-30234-1A instance's physiology. The subject exhibited distress during the procedures, necessitating psychological aftercare.</li>
+</ul>
+<h4>Experiment 30234-E-02:</h4>
+<ul>
+<li><strong>Objective:</strong> Assess the influence of SCP-30234 on non-resident human subjects.</li>
+<li><strong>Procedure:</strong> D-class personnel were introduced into the town under controlled conditions and observed for any signs of transformation.</li>
+<li><strong>Result:</strong> No D-class subjects transformed during a 72-hour observation period. Notably, several subjects reported hearing whispers of an unknown source, warranting further investigation into potential auditory cognitohazards within the area.</li>
+</ul>
+<h4>Experiment 30234-E-03:</h4>
+<ul>
+<li><strong>Objective:</strong> Identify the source or pattern of the SCP-30234 event through communication with affected instances.</li>
+<li><strong>Procedure:</strong> Extensive interviews with SCP-30234-1 entities, focusing on the moments preceding the event.</li>
+<li><strong>Result:</strong> Many SCP-30234-1 instances recounted experiencing a sudden, intense sense of vertigo, accompanied by a flash of bright, white light. All memories beyond that point are vague, save for the experience of awakening in a new form. No discernible pattern or common factor was found linking the onset of symptoms among the affected.</li>
+</ul>
+<h3>Addendum 3: Recovery Log 30234-C</h3>
+<h4>Recovery Log 30234-C - Date ██/██/20██:</h4>
+<p>A small Shinto shrine located in the hills surrounding ███████ was discovered abandoned and defaced with unknown symbols which emanated low-level Hume fluctuations. Investigation teams reported malfunctioning equipment and audio hallucinations similar to those described by D-class subjects during Experiment 30234-E-02.</p>
+<p>Several omamori (Japanese amulets typically purchased at Shinto shrines) were found near the site, each corresponding with an animal species matching those of the SCP-30234-1 instances. Research into these amulets, the shrine’s history, and its possible connection to SCP-30234 is ongoing.</p>
+<p>With the discovery of the shrine and the unusual symbology found therein, the town of ███████ has been placed under indefinite lockdown, and containment procedures remain at maximum stringency until a method of reversing or controlling SCP-30234 can be identified. All Foundation personnel are to remain vigilant for signs of spreading influence or similar occurrences.</p>
+
+    </div>
+    
