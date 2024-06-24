@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30237 is  an illegally cute cat  </h3> </center>
+
+    <h3>Item #: SCP-30237 - "The Irresistible Felidae"</h3>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-30237 appears to be a domestic short-haired feline, exhibiting a variety of coat colors that shift when not under direct observation. Although its physical dimensions are consistent with that of a standard house cat, SCP-30239 possesses highly anomalous effects on human behavior and cognition.</p>
+<p>Subjects within a visual range of approximately 30 meters experience an overwhelming compulsion to interact with SCP-30237. This compulsion overrides all other desires, including self-preservation. Affected individuals exhibit a significant elevation in dopamine and oxytocin levels, and engagement with SCP-30237 results in near-immediate addiction with severe withdrawal symptoms upon separation.</p>
+<p>Prolonged exposure leads to an unwillingness to part from SCP-30237 and a deterioration of the subject's will to perform even the most basic functions without its presence. Subjects often refer to SCP-30237 as 'impossibly cute' or 'unbearably adorable', regardless of whether they have previously demonstrated an affinity for felines.</p>
+<p>SCP-30237's secondary anomalous effect becomes apparent when it receives physical affection from a subject. In such instances, the subject’s personal and sensitive information (e.g., passwords, security codes, classified information) is transmitted to an unknown recipient. The method of transmission and the identity of the receiving entity remain undetermined. Efforts to trace any form of signal have proved unsuccessful.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30237 must be kept in a soundproof, electromagnetically shielded containment cell within Site-77. The cell is to be monitored through infrared cameras, as direct visual contact must be avoided to prevent SCP-30237's compulsive effects. Meals are dispensed automatically, and any waste is to be cleaned via robotic units to minimize human contact.</p>
+<p>Any personnel displaying an inordinate interest in SCP-30237 or expressing a desire to enter its containment cell must be immediately detained and screened for potential exposure. In the event of a containment breach, all on-site personnel are to be equipped with visual restrictors and auditory dampening devices until SCP-30237’s recapture.</p>
+<p>Under no circumstances should information-sensitive personnel be allowed within 100 meters of SCP-30237's containment.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-30237 was discovered in ████████, Japan, after reports of an entire neighborhood refusing to evacuate an impending disaster zone. Mobile Task Force Epsilon-6 ("Village Idiots") was dispatched to investigate. Surviving members of Epsilon-6 were found in a state of psychological infatuation with SCP-30237, having disregarded their orders and protective gear. After considerable effort, SCP-30237 was contained, and affected MTF members underwent extensive deprogramming.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 30237-A</h4>
+<ul>
+<li><strong>Subject:</strong> D-84322, a 32-year-old male with no prior exposure to SCP-30237.</li>
+<li><strong>Procedure:</strong> Subject was introduced to SCP-30237’s containment via a remote-operated door.</li>
+<li><strong>Results:</strong> Subject immediately became enthralled and approached SCP-30237, disregarding all instructions. Subject proceeded to vocalize endearing terms towards SCP-30237 and initiated physical contact. D-84322 voluntarily provided his banking PIN number and mother's maiden name before being forcibly removed from the containment cell.</li>
+<li><strong>Notes:</strong> Subject D-84322 displayed severe withdrawal symptoms post-exposure, refusing food and water for 72 hours until terminated.</li>
+</ul>
+<h4>Experiment 30237-B</h4>
+<ul>
+<li><strong>Subject:</strong> D-97688, a 28-year-old female with a history of antipathy towards cats.</li>
+<li><strong>Procedure:</strong> Subject was exposed to SCP-30237 from a distance of 30 meters, with physical barriers preventing closer interaction.</li>
+<li><strong>Results:</strong> Subject's predisposition towards cats was overridden; she expressed a strong desire to 'pet the cutest kitty'. Subject became agitated when denied access and assaulted the observation staff. D-97688 was subdued and placed in solitary confinement.</li>
+<li><strong>Notes:</strong> Post-experiment screening revealed critical Foundation security protocols unwittingly spoken by D-97688 during her outburst.</li>
+</ul>
+<h3>Addendum 3: Incident 30237-01</h3>
+<p>On ██/██/20██, SCP-30237 breached containment due to an electrical fault in the automated feeding system. Three personnel were affected by its anomalous properties before it was successfully re-contained. Subsequent interrogation revealed the exposure led to the inadvertent disclosure of Site-77's secure access codes, necessitating a site-wide security protocol overhaul.</p>
+<h3>Addendum 4: Researcher Notes</h3>
+<p>Researcher ████ has proposed the development of a memetic inoculation against SCP-30237's compulsive effects. Preliminary trials are underway, though the complexity of the anomalous compulsion has proven challenging. Until a reliable countermeasure is developed, containment protocols remain paramount to maintaining site security.</p>
+
+    </div>
+    
