@@ -1,0 +1,56 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30344 is  The Godzilla From Nowhere  </h3> </center>
+
+    <h3>Item #: SCP-30344 - The Nebulous Leviathan</h3>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-30344, colloquially termed "The Nebulous Leviathan," is an intermittently corporeal entity superficially resembling the kaiju known as "Godzilla" from popular culture. The organism measures approximately 50 meters in height when fully manifest, exhibits bioluminescent qualities predominantly along its dorsal plating, and emits a resonant cry that matches no known terrestrial animal.</p>
+<p>Temporal distortion and localized reality bending encase the entity, engendering pronounced meteorological disturbances each time it emerges. These events are characterized by sudden fog banks, electromagnetic anomalies, and the disruption of spatial awareness within a 5-kilometer radius centered around SCP-30344. The entity is semi-tangible during its phases of activity, allowing for partial interaction with the environment and posing a substantial containment challenge.</p>
+<p>SCP-30344's appearances are erratic and unpredictable, with no discernible pattern regarding location or timing. Post-event analysis demonstrates that the entity can phase through solid matter, leading to substantial infrastructural damage without physical contact. Additionally, SCP-30344 generates an unknown form of radiation; though non-lethal, this radiation causes acute psychological distress in exposed personnel, manifesting as paranoia and auditory hallucinations.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the unpredictable nature of SCP-30344, containment efforts focus on early detection, response, and crisis mitigation strategies. Mobile Task Force Kappa-10 ("Skyscrapers") is stationed at strategic locations around the globe, with the directive to intercept and observe SCP-30344 during manifestations. A dedicated satellite network monitors weather patterns and electromagnetic activity for signs of impending emergence.</p>
+<p>When an SCP-30344 event is forecasted or in progress, the following protocols must be enacted:</p>
+<ol>
+<li>
+<p>Local civilian populations are to be evacuated under the guise of a severe weather warning or other plausible cover story coordinated with respective governmental agencies.</p>
+</li>
+<li>
+<p>A perimeter is to be established at a 10-kilometer radius from the predicted epicenter of SCP-30344's manifestation, with the suppression of any unauthorized civilian or media presence.</p>
+</li>
+<li>
+<p>Armored Containment Units (ACUs) equipped with reality-stabilizing technology are to engage SCP-30344, aiming to minimize the collateral damage and to coerce the entity back to a non-corporeal state.</p>
+</li>
+<li>
+<p>Psychological counseling is to be provided to all personnel involved in containment operations following exposure to SCP-30344's radiative effects.</p>
+</li>
+</ol>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-30344 was first encountered on ██/██/███ in the ████████ Sea, originating from an anomalous fog bank. Multiple naval vessels disappeared, later found phased into the bedrock of the ocean floor. Surviving witnesses reported seeing "a giant shadow within the mist" before electronics failed, and communication was lost. The subsequent investigation by the SCP Foundation led to the classification and current understanding of SCP-30344.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 30344-E1</h4>
+<ul>
+<li><strong>Goal:</strong> Observe the interaction of SCP-30344 with conventional weaponry.</li>
+<li><strong>Protocol:</strong> Deploy a drone fleet armed with live munitions.</li>
+<li><strong>Result:</strong> SCP-30344's semi-tangible state rendered the attacks largely ineffective, with some projectiles phasing through the entity. No aggressive response was noted.</li>
+</ul>
+<h4>Experiment 30344-E2</h4>
+<ul>
+<li><strong>Goal:</strong> Test the efficacy of reality-stabilizing technology.</li>
+<li><strong>Protocol:</strong> Engage SCP-30344 using the ACUs equipped with prototype stabilizing field generators.</li>
+<li><strong>Result:</strong> Initial success in enforcing corporeality. SCP-30344 appeared distressed and retreated to a non-corporeal state sooner than previous manifestations.</li>
+</ul>
+<h4>Experiment 30344-E3</h4>
+<ul>
+<li><strong>Goal:</strong> Record and analyze SCP-30344's emitted radiation.</li>
+<li><strong>Protocol:</strong> Secure close-proximity readings using remote-operated sensors.</li>
+<li><strong>Result:</strong> Sensors provided comprehensive data before being destroyed by an unforeseen expansion of SCP-30344's reality-bending field. Analysis is ongoing.</li>
+</ul>
+<h3>Addendum 3: Incident 30344-I1</h3>
+<p>An unexpected manifestation of SCP-30344 occurred in ██████, causing catastrophic structural damage to the city center before the containment protocols could be fully engaged. Notably, for the first time, SCP-30344 displayed targeted aggression towards the ACUs. This behavior, coupled with the increased duration of its corporeal state, necessitates a review of the containment strategies and potential reclassification to Thaumiel should SCP-30344's behavior reveal any potentially exploitable patterns or purposes.</p>
+<p>The investigation into SCP-30344's origins, unpredictability, and potentialities remains a significant focus of the Foundation's research efforts. The nebulous nature of SCP-30344 makes conventional containment exceptionally difficult, and the entity remains one of the more enigmatic and dangerous within the Foundation's purview.</p>
+
+    </div>
+    
