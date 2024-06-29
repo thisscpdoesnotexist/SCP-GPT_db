@@ -1,0 +1,53 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30379 is  the Toilet Kraken </h3> </center>
+
+    <h3>Item #: SCP-30379 - The Toilet Kraken</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30379-GPT.png" alt="Illustration of SCP-30379" />
+        
+<h3>Description:</h3>
+<p>SCP-30379, colloquially referred to as "The Toilet Kraken," is an anomalous entity that resides within the sewage systems of urban residential areas. The entity is capable of manifesting from any domestic plumbing fixture, although it exhibits a strong predilection for toilets. SCP-30379 appears as an amorphous mass of tentacle-like appendages comprised of a substance visually and molecularly resembling human sewage. It is capable of rapid growth, and its total mass is currently undetermined.</p>
+<p>When SCP-30379 becomes aware of human presence, it will attempt to interact with them. This interaction is typically hostile and has resulted in multiple disappearances and fatalities. Observations confirm SCP-30379's behavior is predatory. Recorded sounds preceding its emergence resemble standard plumbing noises, making preemptive identification of an attack challenging.</p>
+<p>The origins of SCP-30379 are unknown, and current hypotheses regarding its nature range from an extradimensional being to a spontaneous anomalous occurrence due to the collective human neglect and mistreatment of sewage systems.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Containment of SCP-30379 remains a significant challenge due to its ability to traverse extensive sewage networks. The Foundation has implemented several containment strategies:</p>
+<ol>
+<li>
+<p>Sewage monitoring devices equipped with an array of sensors have been installed in high-risk urban areas to detect anomalous activity related to SCP-30379. These devices are camouflaged as common sewage maintenance equipment to prevent public awareness.</p>
+</li>
+<li>
+<p>Mobile Task Force Psi-13 ("Plumbers' Nightmare") has been tasked with rapid response and containment activities involving SCP-30379.</p>
+</li>
+<li>
+<p>A misinformation campaign, in conjunction with the management of urban legends on social media, is maintained to discredit reports of SCP-30379’s existence.</p>
+</li>
+<li>
+<p>Any facility housing individuals that have encountered SCP-30379 must be equipped with specifically designed plumbing that includes redundancies and fail-safes, such as reinforced pipes and the installation of electromagnetically sealed valves to be engaged in the event of a containment breach.</p>
+</li>
+</ol>
+<p>In the event of a confirmed SCP-30379 manifestation, the area is to be evacuated under the pretense of a gas leak or another plausible cover story. Psi-13 operatives are to then engage with protocol "Kraken Flush", aimed at driving the entity back into the depths of the sewer system using high-voltage electric shocks and thermite charges.</p>
+<h3>Addendum 1: Incident Log</h3>
+<h4>Addendum 1.1: Incident Report 30379-A</h4>
+<p>On ██/██/20██, at approximately 2247 hours, SCP-30379 emerged from the plumbing of a suburban household in ████████, ██. The entity assaulted the resident, Mr. ██████, while he was using the bathroom facility. Mr. ██████'s remains were never recovered. Foundation agents embedded within local law enforcement were able to suppress the incident as an unresolved disappearance.</p>
+<h4>Addendum 1.2: Incident Report 30379-B</h4>
+<p>On ██/██/20██, SCP-30379 caused a significant containment lapse when it breached the sewage system of Site-███. The breach resulted in the death of ██ personnel and the temporary loss of containment of SCP-████. SCP-30379 was eventually repelled by MTF Psi-13; however, the incident prompted a complete review and overhaul of the containment procedures.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Addendum 2.1: Experiment 30379-E01</h4>
+<p>Objective: To determine if SCP-30379 exhibits selective behavior towards different materials introduced into its environment.</p>
+<p>Materials Used: A variety of organic and inorganic materials were introduced into SCP-30379's presumed central mass within the sewer system beneath Site-███.</p>
+<p>Result: SCP-30379 showed a strong aversion to inorganic materials, expelling them almost immediately. Organic materials, especially those resembling human waste, were assimilated into its structure.</p>
+<h4>Addendum 2.2: Experiment 30379-E02</h4>
+<p>Objective: To assess the intelligence and sensory capabilities of SCP-30379.</p>
+<p>Procedure: Remote-controlled drones equipped with various stimuli (auditory, visual, olfactory) were deployed in close proximity to SCP-30379 manifestations.</p>
+<p>Result: SCP-30379 reacted aggressively to sounds and movement, particularly to the recorded sound of a flushing toilet, which seemed to provoke an immediate aggressive response. Olfactory sensors were inconclusive due to the environment.</p>
+<h4>Addendum 2.3: Experiment 30379-E03</h4>
+<p>Objective: To evaluate the effects of potential containment measures.</p>
+<p>Procedure: Application of high-voltage electric shocks, introduction of industrial-grade cleaning solvents, and controlled detonation of thermite charges.</p>
+<p>Result: Electric shocks briefly repelled SCP-30379, suggesting possible utility in containment. Chemical solvents were absorbed without apparent harm. Thermite charges caused SCP-30379 to temporarily retreat but also resulted in collateral damage to the surrounding infrastructure. Continued development of containment measures is required.</p>
+<h3>Addendum 3: Researcher's Notes</h3>
+<p>Dr. █████, the lead researcher on SCP-30379, has issued an ongoing request for any additional information pertaining to the entity's behavior, origins, and weaknesses. Psychological profiles suggest SCP-30379 may possess a rudimentary form of sentience. The possibility of communication with SCP-30379 has not been ruled out but is considered extremely risky. All personnel who attempt interaction with SCP-30379 must be aware of the high mortality rates associated with such encounters and are advised to take all necessary precautions.</p>
+
+    </div>
+    
