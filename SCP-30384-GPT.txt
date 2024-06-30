@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30384 is  a magician's hat that contains a portal to a dimension of infinite bunnies. Only problem is the bunnies are evil. </h3> </center>
+
+    <h3>Item #: SCP-30384 - "The Hare's Abyss"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30384-GPT.png" alt="Illustration of SCP-30384" />
+        
+<h3>Description:</h3>
+<p>SCP-30384 is an old, silk top hat, visually consistent with those used by stage magicians in the late 19th and early 20th centuries. The hat shows signs of extensive wear but remains remarkably resilient against further damage or alteration when attempted by Foundation personnel.</p>
+<p>When a living human places their hand entirely into SCP-30384, they report an absence of a bottom to the hat. Instead, their hand seems to enter an extradimensional space. This space is inhabited by entities referred to as SCP-30384-1. Instances of SCP-30384-1 resemble Oryctolagus cuniculus, or common European rabbits, but exhibit heightened intelligence and malevolent intent.</p>
+<p>SCP-30384-1 are capable of exiting the extradimensional space within the hat but only maintain physical form within an approximate radius of 5 meters from SCP-30384. If an instance moves beyond this threshold or the hat is removed from the vicinity, the entity will vanish. No maximum capacity for SCP-30384-1 exists within the dimension, and the entities are highly aggressive upon emergence, enacting coordinated attacks on nearby personnel.</p>
+<p>SCP-30384 was recovered on ██/██/19██, after a series of disappearances in █████████, ███████, reportedly linked to a street magician's performance gone awry.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30384 is to be contained in a standard secure item locker at Site-██. Access to SCP-30384 is restricted to Level 3 personnel or higher and requires approval from two Level 4 personnel for testing purposes. All interactions with SCP-30384 must occur in a specialized containment chamber designed to contain SCP-30384-1. The chamber is equipped with automated incinerators capable of dematerializing any instances of SCP-30384-1 that appear.</p>
+<p>Personnel are required to wear puncture-resistant gloves when placing their hands inside SCP-30384 to minimize injury from SCP-30384-1. Under no circumstances should personnel's heads enter the extradimensional space within SCP-30384. The use of video or remotely operated tools to observe the inside of SCP-30384 is ongoing.</p>
+<h3>Addendum 1: Incident Log 30384-A</h3>
+<p>On ██/██/20██, during Experiment 30384-█, Research Assistant ██████ inadvertently leaned too close to SCP-30384, resulting in partial entry of their head into the extradimensional space. SCP-30384-1 instances swarmed and commenced an assault, causing severe cranial trauma. The containment breach was contained, but Research Assistant ██████ succumbed to their injuries. Experiment protocols have since been updated to prevent similar occurrences.</p>
+<h3>Addendum 2: Experiment Log 30384</h3>
+<h4>Experiment 30384-03</h4>
+<p><strong>Purpose:</strong> To determine the effect of introducing non-human entities into SCP-30384.</p>
+<p><strong>Procedure:</strong> A live Drosophila melanogaster (fruit fly) was introduced into SCP-30384.</p>
+<p><strong>Result:</strong> SCP-30384-1 did not respond to the presence of the fruit fly. No aggressive behavior was observed.</p>
+<h4>Experiment 30384-07</h4>
+<p><strong>Purpose:</strong> Study of SCP-30384-1's physical characteristics upon exit from SCP-30384.</p>
+<p><strong>Procedure:</strong> One D-class personnel placed their hand inside SCP-30384, allowing 5 instances of SCP-30384-1 to emerge.</p>
+<p><strong>Result:</strong> SCP-30384-1 instances appeared as typical rabbits until approached, at which point they revealed anomalously elongated fangs and displayed coordinated attack patterns. Incinerators activated successfully upon instances crossing the threshold.</p>
+<h4>Experiment 30384-12</h4>
+<p><strong>Purpose:</strong> To determine the range of SCP-30384-1 outside of the containment chamber.</p>
+<p><strong>Procedure:</strong> SCP-30384 was temporarily moved to a larger containment room. One D-class personnel initiated contact with SCP-30384.</p>
+<p><strong>Result:</strong> SCP-30384-1's dematerialization threshold proved consistent at 5 meters. One instance of SCP-30384-1 briefly remained visible beyond this limit but vanished after 3 seconds.</p>
+<h4>Experiment 30384-19</h4>
+<p><strong>Purpose:</strong> Assess the ability of SCP-30384-1 to interact with and manipulate objects.</p>
+<p><strong>Procedure:</strong> Various small objects were placed around SCP-30384. D-class personnel was instructed to initiate SCP-30384-1 emergence.</p>
+<p><strong>Result:</strong> Instances of SCP-30384-1 ignored most objects but showed a strange affinity for a standard deck of playing cards, arranging them in seemingly random patterns before disappearing.</p>
+<h3>Addendum 3: Researcher Note</h3>
+<p>Following the series of experiments, it appears that SCP-30384-1 demonstrates not only malevolence but also a primitive level of intelligence and understanding of our dimension. Further research is necessary to ascertain the full extent of SCP-30284-1's abilities and the origins of SCP-30384. Exploratory missions using miniaturized drones are being considered to map out the extradimensional space and to potentially locate the source of SCP-30384-1's hostility. It is highly advised that any interaction with SCP-30384 remains cautious due to the unpredictable behavior of SCP-30384-1.</p>
+
+    </div>
+    
