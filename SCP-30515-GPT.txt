@@ -1,0 +1,53 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30515 is  scientifically named 'Sus Baka' </h3> </center>
+
+    <h3>Item #: SCP-30515 - "The Sow of Discord"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30515-GPT.png" alt="Illustration of SCP-30515" />
+        
+<h3>Description:</h3>
+<p>SCP-30515, colloquially named "Sus Baka," is an anomalous entity resembling a domestic pig (Sus scrofa domesticus). SCP-30515 possesses highly adaptive mimetic capabilities, allowing it to alter its appearance and properties to an unknown extent. Physically, SCP-30515 generally maintains the form of a large pig, but with varying fur patterns and occasionally exhibiting unnatural features such as bioluminescence or additional limbs. </p>
+<p>The primary anomalous behavior of SCP-30515 is the induction and amplification of discord among human populations. When in the presence of human subjects, individuals become increasingly susceptible to psychological manipulation, often resulting in aggressive disputes, loss of rational judgment, and in severe cases, violent outburishs and rioting. Prolonged exposure appears to lead to long-term psychological trauma and sociopathic tendencies within affected individuals.</p>
+<p>The range of SCP-30515's influence is not fully understood, but it has shown the ability to affect individuals within a radius of at least 500 meters. SCP-30515's behavior is seemingly intelligent; it has evaded capture by Foundation personnel on multiple occasions through both its mimetic abilities and by inciting chaos as a means of distraction.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the highly adaptive and elusive nature of SCP-30515, containment has thus far proven difficult. Current strategies involve the use of disinformation campaigns to discredit reports of its presence and social media monitoring to identify possible outbreaks of SCP-30515-induced discord.</p>
+<p>Should an SCP-30515 event be detected, Mobile Task Forces Gamma-5 ("Red Herrings") are to be dispatched to administer Class-A amnestics to witnesses and enact standard containment protocols. A disinformation schema must be deployed to misattribute any instances of mass public disturbance to mundane causes, such as political unrest or viral marketing stunts.</p>
+<p>Foundation researchers are currently developing a frequency-based containment method that seeks to disrupt SCP-30515's anomalous effects via targeted sound waves. This project is still in the experimental phase.</p>
+<h3>Addendum 1: Incident Log 30515-01</h3>
+<ul>
+<li><strong>Date</strong>: ██/██/████</li>
+<li><strong>Location</strong>: ██████████, Brazil</li>
+<li><strong>Event Summary</strong>: SCP-30515 was sighted during the █████████ festival. Witnesses reported a large pig with "dancing lights" on its back causing unrest among the crowd. Foundation assets were mobilized, but SCP-30515 had vanished by the time containment teams arrived. Aftereffects included 23 hospitalized for injuries sustained in resulting riots.</li>
+</ul>
+<h3>Addendum 2: Experiment Log 30515-A</h3>
+<h4>Test A - 01</h4>
+<ul>
+<li><strong>Procedure</strong>: SCP-30515 was indirectly exposed to a group of 10 D-class personnel by proximity.</li>
+<li><strong>Results</strong>: Subjects reported feelings of unease and began to argue over trivial matters, escalating to physical confrontation within 34 minutes.</li>
+<li><strong>Notes</strong>: SCP-30515 observed through CCTV to change skin coloration intermittently throughout the experiment.</li>
+</ul>
+<h4>Test A - 02</h4>
+<ul>
+<li><strong>Procedure</strong>: Introduction of auditory disruptions suspected to interfere with SCP-30515's anomalous properties.</li>
+<li><strong>Results</strong>: Initial confusion observed in subjects, with a noted decrease in hostility. However, SCP-30515 appeared unaffected, and the disruptive influence resumed after a short interval.</li>
+<li><strong>Notes</strong>: Adjustments to frequency and amplitude of sounds are recommended for further testing.</li>
+</ul>
+<h4>Test A - 03</h4>
+<ul>
+<li><strong>Procedure</strong>: Introduction of a second SCP (SCP-███) with calming effects into the vicinity of SCP-30515.</li>
+<li><strong>Results</strong>: The calming SCP appeared to temporarily neutralize the discordant effects of SCP-30515, but was ultimately overwhelmed as SCP-30515's influence increased in intensity.</li>
+<li><strong>Notes</strong>: SCP-███ required post-interaction rehabilitation, suggesting a potentially dangerous feedback loop when countering SCP-30515's abilities.</li>
+</ul>
+<h3>Addendum 3: Recovery Notes</h3>
+<p>SCP-30515 was first identified by Foundation analysts through a pattern recognition algorithm designed to track instances of unexplained social unrest. Subsequent investigations led to the containment of SCP-30515 after it instigated a major disturbance in ██████████, Texas. It’s currently theorized that SCP-30715 is capable of absorbing and feeding off the negative psychological states it engenders in human subjects.</p>
+<h3>Addendum 4: Psychological Impact Report</h3>
+<p>Long-term exposure to SCP-30515 significantly increases interpersonal hostility and can lead to permanent psychological effects. Testing has revealed that even those who have been removed from SCP-30515's presence may suffer from lingering issues, such as paranoid delusions, aggressive outbursts, and antisocial behavior.</p>
+<p>The Ethics Committee has thus recommended minimizing direct human contact with SCP-30515, mandating that further studies on its effects only involve Class-D personnel with a scheduled termination timeframe.</p>
+<h3>Addendum 5: Containment Failure Alert</h3>
+<p>On ██/██/████, SCP-30515 breached containment following a routine testing session wherein it managed to mimic a security officer's appearance. Once outside the test chamber, SCP-30515 induced a localized riot resulting in multiple injuries and the deaths of ██ personnel before escaping the facility.</p>
+<p>A major manhunt is underway to recontain SCP-30515. Additionally, a full review of containment procedures is being conducted to prevent future breaches. All personnel are reminded to be vigilant and report any unusual behavior among their peers as SCP-30515 may attempt to use its influence to facilitate further chaos within the Foundation itself.</p>
+
+    </div>
+    
