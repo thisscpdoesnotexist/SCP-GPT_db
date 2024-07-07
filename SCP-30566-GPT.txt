@@ -1,0 +1,37 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30566 is  an anomalously carcinogenic gaseous chemical weapon </h3> </center>
+
+    <h3>Item #: SCP-30566 - "The Carcinogenic Miasma"</h3>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-30566 is a gaseous compound with an unknown molecular structure – any device or method utilized to analyze its composition has inexplicably failed or yielded contradictory results. SCP-30566 appears as a dull gray mist, distinguishable from regular fog by its slight luminescent quality and its tendency to move against prevailing wind currents.</p>
+<p>The gas exhibits extreme carcinogenic properties; exposure results in the development of multiple aggressive cancer types within a matter of hours. The speed and virulence of the cancerous growths are unprecedented, leading to mortality within 1-3 days post-exposure. For reasons unknown, SCP-30566 seems to demonstrate a degree of sentience, manifesting predatory behavior by seeking out and enveloping living organisms. Despite its gaseous form, SCP-30566 has been observed moving through minute cracks and filtration systems that would typically restrain molecules of its theoretical size.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30566 is contained within a specialized airtight and isolated chamber at Site-██. The chamber walls are composed of multiple layers of reinforced steel and lead-lined concrete, with a contained vacuum space to prevent the passage of the gas. The containment chamber is equipped with redundant filtrations and scrubbing systems that operate continuously even in the event of main power failure, with backup power supplied by dedicated generators.</p>
+<p>No personnel are allowed within 100 meters of SCP-30566's containment chamber. Remote observation is conducted via high-resolution cameras within the chamber. For safety, all cameras are outfitted with self-cleaning mechanisms to prevent the accumulation of SCP-30566's particulates on the lenses.</p>
+<p>Testing with SCP-30566 requires O5 Council approval, and any personnel involved in such tests must undergo decontamination procedures and a 14-day observation period in a quarantined medical facility on-site before reintegration.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-30566 was first encountered on ██/██/20██ in ████, a remote village in Central Asia, after reports of a "plague" causing rapid onset of cancer among the populace. Foundation personnel initially assumed a viral or prion agent and instituted quarantine measures. Upon the arrival of a specialized containment team, it became clear that the cause was SCP-30566. The village was evacuated, and the survivors were given amnestics. The containment of SCP-30566 resulted in the unfortunate necessity of the village's incineration to neutralize any residual presence of the gas.</p>
+<h3>Addendum 2: Incident Report 30566-03</h3>
+<p>During a containment breach on ██/██/20██, a technician inadvertently allowed SCP-30566 to escape its primary containment for approximately 12 seconds before emergency protocols resecured it. The rapid response of the onsite team prevented a wide-scale breach; however, the technician succumbed to the effects of exposure. This incident raised concerns about the potential for SCP-30566 to intentionally seek means of breaching containment and has led to the revision of existing protocols.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 30566-E1</h4>
+<p><strong>Objective:</strong> To determine if SCP-30566 can be neutralized by chemical means.</p>
+<p><strong>Procedure:</strong> Introduction of chlorine gas into containment chamber.</p>
+<p><strong>Result:</strong> SCP-30566 avoided the chlorine gas entirely, clumping at the opposite side of the chamber.</p>
+<h4>Experiment 30566-E2</h4>
+<p><strong>Objective:</strong> To assess the effectiveness of extreme temperatures on SCP-30566.</p>
+<p><strong>Procedure:</strong> The temperature within the containment chamber was lowered to -200°C.</p>
+<p><strong>Result:</strong> SCP-30566's movement slowed, but resumed normal activity once original temperature levels were reinstated.</p>
+<h4>Experiment 30566-E3</h4>
+<p><strong>Objective:</strong> To explore the possibility of SCP-30566 communication.</p>
+<p><strong>Procedure:</strong> Complex patterns of light and sound were introduced into the containment chamber.</p>
+<p><strong>Result:</strong> SCP-30566 reacted to certain frequencies by aligning itself in undulating patterns. Researchers are formulating a potential communication system based on these reactions.</p>
+<h3>Addendum 4: Researcher's Note</h3>
+<p>Dr. ████, who led the experiments on SCP-30566, has theorized that the gas entity may possess a form of intelligence, as it has consistently demonstrated adaptive and seemingly purposeful behavior. Further studies are ongoing to ascertain the potential ramifications of this characteristic and to explore communication attempts. The ethical considerations of such communication, given SCP-30566's lethal nature, are currently under review by the Ethics Committee.</p>
+
+    </div>
+    
