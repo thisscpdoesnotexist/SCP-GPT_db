@@ -1,0 +1,50 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30593 is  a mysterious orifice that only eats craft store glitter </h3> </center>
+
+    <h3>Item #: SCP-30593 - The Glittering Void</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30593-GPT.png" alt="Illustration of SCP-30593" />
+        
+<h3>Description:</h3>
+<p>SCP-30593 is an extradimensional orifice measuring approximately two meters in diameter, manifesting as a circular void with a seemingly infinite depth. The rim of the orifice is lined with an unidentified resin-like substance, which analysis has shown to contain chemical signatures not corresponding to any known element on Earth. It emits a faint, lilac-hued glow and a constant, inaudible hum detectable only by specialized equipment.</p>
+<p>SCP-30593 appears to selectively absorb craft store glitter. When presented with a variety of substances, it remains inert to all but craft store glitter, which it consumes with an unknown purpose or effect. Upon contact with said glitter, the ambient light intensity within a three-meter radius noticeably dims, and the hum increases in pitch. The consumed glitter appears to vanish completely, with no detectable mass or energy exiting the orifice. No other forms of matter or energy have been observed to interact with SCP-30593.</p>
+<p>SCP-30593 was first discovered in ██████, ███████ after several reports of missing craft supplies from a local hobby store. Foundation agents were dispatched when local authorities reported the phenomenon after validating the implausible disappearance of said materials. The subsequent investigation led to the containment of SCP-30593.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30593 is to be contained on-site due to the difficulty of transporting the anomaly. A Foundation-operated cover operation, designated "Site-██," has been established around the anomaly, posing as a defunct craft supply store to justify security measures and prevent unauthorized access.</p>
+<p>A 5-meter perimeter marked by a pentagonal enclosure made of steel alloy has been constructed around SCP-30593. Any unauthorized entrance within this perimeter will trigger an alarm and response by security personnel. Access is restricted to Level 3 personnel and above, or with special authorization from the Site Director.</p>
+<p>The following procedures have been enacted regarding the handling of SCP-30593:</p>
+<ol>
+<li>No glitter or glitter-containing products are allowed within 5 kilometers of Site-██ to prevent unintended interaction with SCP-30593.</li>
+<li>Observation of SCP-30593 is to be conducted through remote monitoring only.</li>
+<li>In the event of an accidental interaction with SCP-30593, emergency protocols are to be immediately enacted, which include evacuation and potential site lockdown.</li>
+<li>Bi-weekly tests are to be conducted using commercially sourced craft glitter to observe any changes in SCP-30593's behavior. Results are to be documented and analyzed.</li>
+</ol>
+<h3>Addendum 1: Incident Log 30593-A</h3>
+<h4>Event 30593-A1:</h4>
+<p>On ██/██/████, a breach of containment procedures occurred when a janitorial staff member, unaware of SCP-30593's properties, entered the containment area to clean. The individual accidentally spilled a container of commercial-grade glitter within close proximity to SCP-30593. Upon coming into contact with the spilled glitter, SCP-30593's luminescence increased tenfold, and the surrounding area's temperature dropped by approximately 15°C for 10 minutes. No further anomalies were reported, and the staff member was administered a Class-B amnestic.</p>
+<h4>Event 30593-A2:</h4>
+<p>Experimentation logs indicate that on ██/██/████, SCP-30593 absorbed approximately 1 kilogram of glitter over a period of 2 hours. An analysis of the surrounding air composition post-absorption showed trace anomalous particles, which dissipated after 12 hours. The long-term effects of these particles, if any, are unknown.</p>
+<h3>Addendum 2: Experiment Log 30593-E</h3>
+<h4>Experiment 30593-E1:</h4>
+<p><strong>Date</strong>: ██/██/████
+<strong>Materials</strong>: 50g of red glitter from 'Craft Kingdom'
+<strong>Procedure</strong>: Glitter sprinkled evenly around the edge of SCP-30593.
+<strong>Results</strong>: Full absorption within 3 minutes. Hum's pitch increased for the duration, returning to normal after absorption ceased.</p>
+<h4>Experiment 30593-E2:</h4>
+<p><strong>Date</strong>: ██/██/████
+<strong>Materials</strong>: 50g of a glitter blend containing non-craft elements (glass, metal flakes, etc.)
+<strong>Procedure</strong>: Glitter blend introduced to containment area by mechanical dispenser.
+<strong>Results</strong>: SCP-30593 absorbed the craft glitter components and repelled the non-craft elements outward, projecting them at high speed against the containment walls.</p>
+<h4>Experiment 30593-E3:</h4>
+<p><strong>Date</strong>: ██/██/████
+<strong>Materials</strong>: 200g of a new eco-friendly, biodegradable glitter product
+<strong>Procedure</strong>: Glitter introduced via remote-operated vehicle.
+<strong>Results</strong>: Absorption took 20 minutes longer than prior experiments. Luminescence decreased rather than increased during absorption, contradicting previous behavior.</p>
+<h3>Addendum 3: Research Note 30593-N</h3>
+<p><strong>Note from Dr. █████</strong>:
+"We are yet to understand the full implications of SCP-30593's selective consumption behavior. It seems evident that some characteristic inherent to craft store glitter is required for absorption, though the exact nature of this is unclear. I recommend additional testing with varying compositions of glitter to isolate the specific qualities that trigger SCP-anine_locale's reaction. Furthermore, the anomaly's effect on local spacetime needs thorough investigation. It may represent a breakthrough in our understanding of extradimensional phenomena."</p>
+
+    </div>
+    
