@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30587 is  Quetzalcoatl </h3> </center>
+
+    <h3>Item #: SCP-30587 - "The Feathered Serpent"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30587-GPT.png" alt="Illustration of SCP-30587" />
+        
+<h3>Description:</h3>
+<p>SCP-30587 is a massive, semi-corporeal entity resembling the Mesoamerican deity Quetzalcoatl. It possesses a serpentine body, approximately 70 meters in length, with vibrant iridescent feathers covering its scales. The entity possesses a pair of large, feathered wings with a wingspan of roughly 40 meters, which it uses with surprising agility given its size. SCP-30587's head bears a close resemblance to that of a dragon, with an elongated snout and sharp teeth, and it is adorned with elaborate feathered headdress-like structures.</p>
+<p>The essence of SCP-30587 seems to be tied to the concept of balance and equilibrium. It has shown the ability to pacify anomalies classified as Keter and Euclid, though the exact mechanics of how it accomplishes this are still under study. Observations indicate that SCP-30587 emits a harmonic frequency that resonates with anomalous signatures, effectively "calming" them or rendering them inert when necessary. </p>
+<p>SCP-30587 generally remains in a dormant state, manifesting physical properties only when it deems necessary to maintain the balance of anomalous activity within a specified circumference which appears to be centered around ancient Mesoamerican ruins. When at rest, SCP-30587 appears as a stone statue, albeit with an anomalous energy signature detectable by Foundation instruments.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given SCP-30587's Thaumiel classification and its beneficial uses in containing other anomalies, the entity is not contained in the traditional sense. Instead, the Foundation has constructed an underground facility (Site-88) designed to monitor SCP-30587 and study its behaviors while maintaining its cover as an archaeological research base.</p>
+<p>Site-88 personnel are tasked with cataloging SCP-30587's activities, researching its properties, and developing methods to potentially collaborate with the entity in the containment of high-risk anomalies. Experiments involving SCP-30587 are to be approved by O5 Command due to the potential risks of destabilizing its balance-keeping function.</p>
+<p>To aid in SCP-30587's rest state, local folklore has been encouraged and disseminated to prevent the general population from disturbing the entity's dormant site. A schedule of regular ceremonies, consistent with historical worship practices of Quetzalcoatl, are performed by Foundation-trained operatives to maintain this façade.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<h4>Addendum 1.1: Initial Encounter</h4>
+<p>SCP-30587 was discovered in 19██ when the Foundation was tracking down reports of a "living god" near the ruins of ████████. Upon arrival, the local populace was engaged in what appeared to be a traditional ceremony. During this event, SCP-30587 manifested in its corporeal form, calming an outbreak of SCP-████ which had previously eluded containment. Following this event, Site-88 was established, and the entity was given Thaumiel classification.</p>
+<h4>Addendum 1.2: Impact on Local Culture</h4>
+<p>Anthropological studies indicate that SCP-30587 has been a central figure in local beliefs for centuries, possibly even millennia. It is hypothesized that the entity has long played a role in managing anomalous occurrences in Mesoamerica. Therefore, SCP-30587's mythological and religious significance is an asset to its containment due to the natural protection afforded by local customs and the reverence of the populace.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Addendum 2.1: Experimentation with SCP-XXXX</h4>
+<p>Date: ██/██/20██
+Procedure: Introduction of SCP-XXXX, a Class Keter object capable of spontaneous combustion, to SCP-30587.</p>
+<p>Results: SCP-30587 produced a frequency that suppressed the combustion effect of SCP-XXXX. After approximately fifteen minutes, SCP-XXXX reverted to a non-anomalous chemical sample.</p>
+<p>Notes: SCP-30587 remained active for several hours after the experiment, displaying signs of increased alertness. Further experiments with highly unstable anomalies have been suspended until more is understood about SCP-30587's threshold for exertion.</p>
+<h4>Addendum 2.2: Experimentation with SCP-████ (The "Pied Piper" Object)</h4>
+<p>Date: ██/██/20██
+Procedure: SCP-████, an entity capable of luring human subjects into catatonic states, was placed within proximity to SCP-30587.</p>
+<p>Results: SCP-30587 vocalized patterns in an unknown language, causing SCP-████ to cease anomalous behavior and enter into a dormant state akin to its own rest state. No harm to SCP-████ was detected.</p>
+<p>Notes: The response of SCP-████ raises questions about SCP-30577's ability to communicate with other sentient anomalies.</p>
+<h3>Addendum 3: Incident 30587-Ω</h3>
+<h4>Addendum 3.1: Breach of Site-88</h4>
+<p>Date: ██/██/20██
+Details: Site-88 experienced a catastrophic containment breach involving multiple Keter class anomalies. SCP-30587 became fully active, manifesting in an unprecedented display of power and directing its energies toward the anomalies. The entity was able to re-establish containment for all affected SCPs through a display of force previously unrecorded.</p>
+<h4>Addendum 3.2: Aftermath and Recovery</h4>
+<p>Following Incident 30587-Ω, SCP-30587 returned to its dormant state without any perceivable signs of exhaustion. Site-188 sustained considerable structural damage, requiring extensive repairs. The event precipitated the re-evaluation of containment strategies involving collaboration with SCP-30587.</p>
+<p>It is to be noted this occurrence has significantly shifted the Foundation's perspective on SCP-30587's capabilities and has underlined the importance of developing procedures to maintain the entity's well-being as a crucial aspect of broader SCP containment strategies.</p>
+
+    </div>
+    
