@@ -1,0 +1,38 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30643 is  something that chooses to appear as a harmless adorable amputee kitten but is actually a demon that feasts on betrayal </h3> </center>
+
+    <h3>Item #: SCP-30643 - "The Betrayer's Feline"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30643-GPT.png" alt="Illustration of SCP-30643" />
+        
+<h3>Description:</h3>
+<p>SCP-30643 is an entity that predominantly manifests as an amputee kitten, possessing a congenial and endearing demeanor to solicit care and empathy from human subjects. Its fur is typically a mix of white and light grey, and it maintains a consistent injury, appearing as a missing front limb which engenders a sympathetic response.</p>
+<p>Beyond its harmless façade, SCP-30643 possesses a malevolent sentience with abilities to manipulate the emotional state of individuals around it, intensifying feelings of trust and camaraderie. Its primary anomalous effect becomes apparent when the subject to which SCP-30643 has bonded commits an act of betrayal. Upon such actions, the subject experiences severe psychological disturbances, ultimately leading to catastrophic actions driven by guilt and paranoia.</p>
+<p>Furthermore, it has been observed that SCP-30643 can telepathically induce feelings that may lead to betrayal, effectively creating its own feeding ground. It is hypothesized that SCP-30643 ‘feeds’ on the emotional energy released during these events. The 'nourishment' enables it to undergo periods of dormancy, wherein it is undetectable and can persist without sustenance or detection for extended durations.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-30643's ability to remain undetected and its potential for widespread psychological distress, containment is focused on immediate suppression and isolation upon manifestation. Upon detection, Mobile Task Force Psi-7 ("Home Wreckers") is to be dispatched to execute containment with priority on minimizing emotional disturbances that may provoke SCP-30643's feeding response.</p>
+<p>A standard containment cell has been prepared with modifications to prevent emotional manipulation by SCP-30643, including soundproof walls and embedded Faraday cage to impede any form of telepathic activity. Task force personnel engaging with SCP-30643 must be regularly rotated and screened for psychological stability to prevent emotional attachment and any subsequent betrayal events.</p>
+<p>Any manifestation of kittens or similar juvenile animals with amputated limbs in close proximity to Foundation personnel or within Foundation facilities must be reported and investigated immediately.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-30643 was first encountered in ████████, where a string of mysterious mental breakdowns culminated in tragic domestic incidents. Survivors reported experiencing a profound sense of betrayal prior to the onset of their psychological disturbances, and numerous accounts included interactions with a 'one-legged kitten' in the vicinity of the events.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 30643-A</h4>
+<ul>
+<li><strong>Subjects:</strong> D-8432 and D-1594, both with a history of sociopathic behavior and low empathy scores.</li>
+<li><strong>Procedure:</strong> Subjects were instructed to bond with SCP-30643 over a period of 7 days. On the eighth day, D-8432 was commanded to betray D-1594 by sabotaging their meal with non-lethal contaminants.</li>
+<li><strong>Result:</strong> Shortly after consuming the contaminated meal, D-1594 was immobilized by SCP-30643's gaze. D-1594 then experienced an acute psychotic break characterized by auditory hallucinations and self-harming behaviors, necessitating medical intervention.</li>
+</ul>
+<h4>Experiment 30643-B</h4>
+<ul>
+<li><strong>Subjects:</strong> D-7801, who had no history of betrayal but possessed a deep affection for animals.</li>
+<li><strong>Procedure:</strong> D-7801 was allowed to spend an extended period of time bonding with SCP-30643 with occasional provocations towards disloyalty.</li>
+<li><strong>Result:</strong> SCP-30643 induced feelings of jealousy and anger in D-7801, eventually driving him to betray a fellow D-class Personnel he had previously formed a bond with. The resulting psychological torment experienced by D-7801 was profound, leading to extreme withdrawal and mutism.</li>
+</ul>
+<h3>Addendum 3: Incident 30643-1</h3>
+<p>On ██/██/████, SCP-30643 breached containment following a site-wide emotional disturbance due to unrelated SCP activity. During this event, SCP-30643 amplified the ambient distress, triggering a cascade of betrayals across multiple levels of the facility. The subsequent emotional turmoil provided SCP-30643 with considerable sustenance, as evidenced by subsequent dormancy lasting approximately 4 months. Enhanced containment procedures were put in place post-incident.</p>
+<p>This incident has prompted additional research into potential memetic and emotional inoculation against SCP-30643’s influence, as well as enhanced psychological screening measures for personnel with access to sensitive or high-risk SCP items.</p>
+
+    </div>
+    
