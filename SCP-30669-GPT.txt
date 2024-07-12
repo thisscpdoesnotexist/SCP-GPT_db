@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30669 is  the birthday skeleton </h3> </center>
+
+    <h3>Item #: SCP-30669 - "The Birthday Skeleton"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30669-GPT.png" alt="Illustration of SCP-30669" />
+        
+<h3>Description:</h3>
+<p>SCP-30669, colloquially known as "The Birthday Skeleton," is an animate humanoid skeleton possessing anomalous properties triggered around the human recognition of birthdays. SCP-30669 is approximately 170 centimeters in height, with a structure similar to an average adult male Homo sapiens. Its bones emit a soft glow, fluctuating in intensity, with colors ranging from a warm amber to a chilling blue. </p>
+<p>Though resembling a typical human skeleton anatomically, SCP-30669's most extraordinary characteristic becomes apparent during any individual's birthday within a one-kilometer radius. SCP-30669 will anomalously teleport to the vicinity of the aforementioned individual and begin to manifest physical party attributes such as a conical birthday hat, a noise maker, and a satchel filled with various party favors. These materials are designated SCP-30669-1 through SCP-30669-n, varying in form and anomalous activity.</p>
+<p>Upon arrival, SCP-30669 displays knowledge of the individual's personal life, speaking in short, cryptic sentences pertinent to the celebrant's past, present, or future accompanied by the bone-chilling sounds of children singing a distorted version of the "Happy Birthday" song. Contact with SCP-39669 on one's birthday results in a compulsion to engage with it and accept one party favor from its satchel.</p>
+<p>The effects of accepting SCP-30669's party favors are unpredictable, ranging from benign to fatal, with observed outcomes including but not limited to accelerated aging, regression to infantile states, materialization of long-lost loved ones, or sudden internal combustion. The mechanism through which SCP-30669 initiates teleportation and gathers personal information is not understood and is currently under intense study.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-30669's mobility and the unpredictable nature of its teleportation, permanent containment has proved impossible. Current containment procedures focus on prediction algorithms to determine its next appearance and to intercept SCP-30669 before it interacts with civilians.</p>
+<p>The SCP Foundation has embedded agents in vital civil record-keeping entities worldwide to monitor birthday events and flag potential SCP-30669 appearances. Any flagged event is to be investigated by Mobile Task Force Delta-5 ("Party Crashers"), who are specifically trained to deal with SCP-30669 sightings. Once SCP-30669 manifests, MTF Δ-5 are to administer amnestics to any witnesses and return SCP-30669 to Temporary Containment Area-30669, an adaptable facility designed to restrain the entity until its next teleportation.</p>
+<p>Research into preventing the propagation of SCP-30669's party favors is ongoing. Personnel is strictly forbidden from accepting any item(s) from SCP-30669-1 to SCP-30669-n. In the event of accidental acquisition, the affected personnel is to be quarantined and observed until the nature of the favor's effect is ascertained.</p>
+<h3>Addendum 1: Incident Log 30669-A</h3>
+<p>On ██/██/████, Dr. ██████'s birthday was inadvertently taken into account by the algorithm, resulting in SCP-30669 appearing in Site-██'s cafeteria. SCP-30669 presented a favor (SCP-30669-34, a silver whistle) to Dr. ██████, who, entranced by the compulsion, accepted it. Upon blowing the whistle, time around Dr. ██████ seemed to dilate, leaving him in a suspended state for 34 hours. Further research into the temporal effects of SCP-30669-34 is ongoing.</p>
+<h3>Addendum 2: Experiment Log 30669</h3>
+<h4>Experiment 30669-E01</h4>
+<p><strong>Subject:</strong> D-45234 (29-year-old male, birthday recorded as ██/██)
+<strong>Procedure:</strong> D-45234 placed within a test chamber designed to simulate a birthday party. SCP-30669 manifested as predicted.
+<strong>Result:</strong> SCP-30669 offered D-45234 SCP-30669-12 (a brightly wrapped gift box). Upon opening, the box released a butterfly, which subsequently dematerialized. D-45234 reported feeling a "sense of closure" regarding an unmentioned personal regret.</p>
+<h4>Experiment 30669-E02</h4>
+<p><strong>Subject:</strong> Agent ████ (whose birthday was disguised using disinformation)
+<strong>Procedure:</strong> Agent ████ posed as personnel with an upcoming birthday. Monitoring continued for SCP-30669's potential manifestation.
+<strong>Result:</strong> SCP-30669 did not manifest. This experiment suggested SCP-30669's awareness surpasses simple data and may involve a more innate recognition of birthdays.</p>
+<h4>Experiment 30669-E03</h4>
+<p><strong>Subject:</strong> D-19877 (31-year-old female, birthday falsified for the experiment)
+<strong>Procedure:</strong> Deliberate exposure to SCP-30669 during the faux birthday celebration.
+<strong>Result:</strong> SCP-30669 manifested and presented D-19877 with SCP-30669-48 (a small tiara). Upon wearing the tiara, D-19877's head vanished completely, causing immediate death. SCP-30669 de-manifested immediately following the event.</p>
+<p>Further experiments are suspended indefinitely pending review by the Ethics Committee.</p>
+<h3>Addendum 3: Recovered Note</h3>
+<p>Following Experiment 30669-E03, a note written on a parchment-like material was discovered in the test chamber, seemingly left by SCP-30669. It was inscribed with the following message:</p>
+<p>"Each year marks a time not just to celebrate life but to acknowledge its fleeting nature. Choose your favors wisely, for not all gifts are blessings, and not every celebration is merry."</p>
+
+    </div>
+    
