@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30712 is  the platonic template of the ideal booger, the very embodiment of the perfect booger, the booger all other boogers are based off of </h3> </center>
+
+    <h3>Item #: SCP-30712 - "The Nasal Archetype"</h3>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-30712 is a viscous, semi-solid entity resembling a typical human nasal mucus or "booger." However, unlike ordinary mucus, SCP-30712 demonstrates anomalous properties which define it as the "platonic template" of the ideal booger. Its dimensions vary, but the entity maintains a constant mass of approximately 0.4 grams. SCP-30712's coloration is an opaque green with a slight shimmer under direct light, believed to be an outcome of its unique molecular structure.</p>
+<p>SCP-30412 is animated, displaying a limited form of sentience and an apparent desire to return to a nasal cavity. This motive drives it to exhibit behaviors such as slithering and jumping, despite lacking any visible organs or appendages. SCP-30712 can exert a force disproportionate to its mass, capable of overcoming obstacles and evading capture by altering its shape and consistency. When in contact with human nasal mucus, SCP-30712 can induce psychotropic effects, causing mild to severe hallucinations influencing subjects to believe they are experiencing the 'perfect' sensation of removing a booger.</p>
+<p>Extended contact with SCP-30712 or inhalation thereof may result in adverse physiological changes in subjects, leading to an obsessive-compulsive desire to pick their nose in search of similarly 'ideal' specimens, though none have been found to exist. This compulsion is detrimental to the mental health of affected individuals and can result in severe nasal tissue damage.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30712 is to be contained within a hermetically sealed, transparent-acrylic containment unit measuring 1m x 1m x 1m located at Site-██. The unit must be suspended at least 1 meter above the ground to prevent unauthorized access from the floor level and is to be checked bi-weekly for any signs of degradation.</p>
+<p>Personnel interacting with SCP-30712 are required to wear HAZMAT suits to prevent direct skin contact or accidental ingestion/inhalation. Any tools used for interaction must be sterilized pre- and post-use.A full psychological evaluation and a 48-hour observation period are mandatory for any personnel who come into contact with SCP-30712, regardless of the presence of protective equipment.</p>
+<p>The containment chamber is equipped with temperature and humidity controls set to maintain conditions unsuitable for the proliferation of ordinary human nasal mucus to prevent SCP-30712 from attempting to assimilate with any potential mucus deposits.</p>
+<p>SCP-30712's containment chamber is to be fitted with high-speed cameras to monitor its movements at all times, especially during experimental procedures. Access to SCP-30712 for experimental purposes must be approved by at least two (2) Level 3 personnel.</p>
+<h3>Addendum 1:</h3>
+<h4>Addendum 1-A: Discovery</h4>
+<p>SCP-30712 was discovered in [REDACTED], USA, after a series of hospitalizations related to extreme nasal tissue damage amongst the local population. Foundation agents embedded in healthcare centers identified the anomaly and the Mobile Task Force Mu-4 ("Snotters") was dispatched to apprehend the entity.</p>
+<h4>Addendum 1-B: Incident Log</h4>
+<p>Incident 30712-01: On ██/██/20██, SCP-30712 succeeded in breaching its containment by forming a pseudopod and manipulating the locking mechanism of its former containment unit. It was found attempting to integrate itself with the nasal mucus of Research Assistant ██████, who was subsequently placed in quarantine and treated for psychological effects. Containment procedures were updated to prevent recurrence.</p>
+<h3>Addendum 2:</h3>
+<h4>Addendum 2-A: Experiment Log</h4>
+<p><strong>Experiment 30712-05</strong>
+- <strong>Objective</strong>: To determine the extent of SCP-30712's ability to alter its consistency.
+- <strong>Procedure</strong>: SCP-30712 was subjected to varying degrees of force through compression in a hydraulic press.
+- <strong>Result</strong>: SCP-30712 fluctuated its density, becoming nearly liquid at high pressure and reverting to a malleable solid state upon release of pressure. </p>
+<p><strong>Experiment 30712-09</strong>
+- <strong>Objective</strong>: Assess SCP-30712's response to differing humidity levels.
+- <strong>Procedure</strong>: Incremental adjustments to humidity levels were administered within the containment unit.
+- <strong>Result</strong>: SCP-30712 became extremely viscous and immobile at low humidity levels (&lt;25%) and displayed a significant increase in movement and hostility at high humidity levels (&gt;75%).</p>
+<p><strong>Experiment 30712-14</strong>
+- <strong>Objective</strong>: Observe the psychological effects of SCP-30712 on human subjects.
+- <strong>Procedure</strong>: D-Class personnel equipped with protective gear were allowed brief, controlled exposure to SCP-30712.
+- <strong>Result</strong>: Subjects reported euphoria during the initial phase of exposure, followed by extreme nasal discomfort. All subjects later developed nose-picking compulsions, requiring medical intervention and amnestic treatment.</p>
+<p><strong>Experiment 30712-20</strong>
+- <strong>Objective</strong>: Determine SCP-30712's capacity for regeneration.
+- <strong>Procedure</strong>: A small sample of SCP-30712 (approx. 0.02 grams) was extracted and observed for signs of regeneration.
+- <strong>Result</strong>: The extracted sample disintegrated after 24 hours. SCP-30712 showed no noticeable decrease in total mass, implying it either quickly regenerated or the sample was not part of its essential structure.</p>
+<h3>Addendum 3:</h3>
+<h4>Addendum 3-A: Security Breach</h4>
+<p>On ██/██/20██, a minor breach occurred when SCP-30712 was mistakenly exposed to personnel without appropriate safety gear. Affected individuals reported intense craving for tactile nasal stimulation and were administered Class-B amnestics post-observation. Security protocols were reinforced, and additional fail-safes were implemented in containment unit maintenance procedures.</p>
+
+    </div>
+    
