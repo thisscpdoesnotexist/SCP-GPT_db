@@ -1,0 +1,42 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30710 is  something so scary it will make your skeleton run away and leave you as a trembling boneless heap on the ground. It's even able to scare things that the concept of fear doesn't normally apply to. </h3> </center>
+
+    <h3>Item #: SCP-30710 - "Fear's Epitome"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30710-GPT.png" alt="Illustration of SCP-30710" />
+        
+<h3>Description:</h3>
+<p>SCP-30710 is an entity of fluctuating appearance, which induces an unparalleled level of fear in all sentient beings. The entity appears to manifest differently for each observer, typically taking the form of their greatest fear, amplified to an extreme extent. It is not clear if SCP-30710 has a true form or if it is entirely conceptual in nature.</p>
+<p>The fear induced by SCP-30710 is so potent that it can cause permanent psychological trauma, catatonia, or death from shock. In certain cases, exposure has led to victims becoming devoid of bone structure, collapsing into an amorphous, boneless state while still alive – a phenomenon that has never been observed with any other SCP. This effect does not discriminate between organic, inorganic, sentient, non-sentient, metaphysical, or conceptual entities, suggesting an influence over the fundamental nature of reality or perception itself.</p>
+<p>SCP-30710 was first contained by the Foundation following a string of inexplicable events in [REDACTED], where entire city districts were found deserted, with handfuls of survivors reduced to boneless masses, unable to articulate their experiences comprehensively. Initial attempts to contain SCP-30710 resulted in heavy casualties.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its nature, SCP-30710 cannot be contained within a traditional physical space. Instead, containment is achieved through the use of specialized Cognitive Anchor Points (CAPs) stationed at various intervals around a designated Zone of Suppression. These CAPs emit calibrated memetic and anti-memetic signals to create a "null region" wherein the concept of fear is suppressed, effectively negating SCP-30710’s ability to manifest.</p>
+<p>Personnel working within the Zone of Suppression must undergo rigorous psychological screening and be fitted with memetic inoculation devices (MIDs) to further mitigate the risk of exposure. Should an individual exhibit signs of SCP-30710 exposure while inside the Zone, they are to be removed immediately and treated with Class-X amnestics. </p>
+<p>In the event of a containment breach, Procedure 30710-Epsilon is to be enacted, in which emergency broadcasts containing anti-memetic countermeasures are to be transmitted globally.</p>
+<h3>Addendum 1: Incident Report 30710-A</h3>
+<p>During a containment breach on ██/██/████, SCP-30710 affected a population of approximately 10,000 within the town of [REDACTED]. Response teams reported mechanical and automated systems failing in the face of SCP-30710, including advanced AI systems demonstrating 'fearful' behavior before shutting down.</p>
+<h3>Addendum 2: Experiment Log 30710</h3>
+<h4>Experiment Log 30710-E01:</h4>
+<p>Objective: To ascertain the threshold at which inanimate objects are affected by SCP-30710.</p>
+<p>Procedure: A series of objects, ranging from simple tools to complex machinery, were placed in the vicinity of SCP-30710's manifestation point.</p>
+<p>Results: Objects began to exhibit inexplicable behaviors—screws and bolts undoing themselves, AI systems functioning erratically, and in the case of a detailed painting, the scenery depicted transformed into a chaotic and disturbing image.</p>
+<p>Notes: The test indicates that SCP-30710 may affect the very essence of objects, not merely living observers.</p>
+<h4>Experiment Log 30710-E05:</h4>
+<p>Objective: To determine SCP-30710's effects on organisms devoid of a central nervous system.</p>
+<p>Procedure: A colony of ants, plants, and single-celled organisms were exposed to SCP-30710.</p>
+<p>Results: The ants scattered in a manner inconsistent with any known panic response in such species. Plants wilted and became discolored. Microscopic observation revealed single-celled organisms ceasing all function and disintegrating.</p>
+<p>Notes: SCP-30710’s influence seems indiscriminate of biological complexity.</p>
+<h4>Experiment Log 30710-E12:</h4>
+<p>Objective: To test SCP-30710’s interaction with SCP-682, an entity known for its resilience and aggression.</p>
+<p>Procedure: SCP-682 was briefly exposed to SCP-30710 under maximum containment protocols.</p>
+<p>Results: SCP-682 entered a state of extreme agitation, displaying fear responses inconsistent with previous observations. Following exposure, SCP-682 became temporarily docile, repeatedly uttering "No," a behavior that lasted several days before returning to baseline aggression levels. </p>
+<p>Notes: The interaction with a notoriously intractible SCP highlights SCP-30710's unparalleled capability to evoke fear. Potential utility as a containment aid for other SCPs is under consideration.</p>
+<h3>Addendum 3: Researcher's Note</h3>
+<p>Foundation research into SCP-30710's origin remains inconclusive. There are theories suggesting SCP-30710 might be a manifestation of collective fear, a sentient being feeding on emotional responses, or even a byproduct of a yet-unknown anomalous event. Continued research and observation are imperative to understand SCP- questo-entity better and devise more reliable containment methods.</p>
+<h3>Addendum 4: Ethics Committee Review</h3>
+<p>After extensive review of SCP-30710’s containment procedures and its effects on sentient life, the Ethics Committee has recommended additional safeguards to prevent unnecessary exposure. Containment protocols have been updated accordingly, and any interaction with SCP-30710 now requires O5 Council approval. The mental health of personnel involved in containment and research of SCP-30710 must be monitored regularly, with mandatory psychological evaluations scheduled bi-weekly.</p>
+
+    </div>
+    
