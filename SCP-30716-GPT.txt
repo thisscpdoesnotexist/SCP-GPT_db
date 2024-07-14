@@ -1,0 +1,44 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30716 is  the goddess of poverty, who is– as a consequence of her own domain– constantly stricken with poverty and ill fortune herself, which greatly limits her threat level as an anomaly. </h3> </center>
+
+    <h3>Item #: SCP-30716 - "The Beggar's Plight"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30716-GPT.png" alt="Illustration of SCP-30716" />
+        
+<h3>Description:</h3>
+<p>SCP-30716 is a humanoid entity that claims to be the personification of poverty, referring to itself as "Penura," a name derived from ancient linguistics associated with scarcity and need. Despite exhibiting supernatural abilities, SCP-30716's potential for causing widespread effects is greatly limited by the nature of its own anomaly—perpetual misfortune and poverty. The entity appears as a middle-aged woman of indeterminate ethnicity, clad in tattered garments that seem to reform if attempts at replacement are made.</p>
+<p>The entity's anomalous properties manifest as a localized aura of destitution, within up to a 5-meter radius. Non-sentient objects within this aura undergo rapid depreciation in value and quality, akin to accelerated wear and tear. Sentient beings affected by SCP-30716 report heightened feelings of loss, monetary worries, and sudden incidents of unlucky occurrences. If SCP-40716 touches an individual directly, these effects become more profound and may result in complete financial ruin within days. </p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30716 is to be contained within a standard humanoid containment chamber, which has been modified to accommodate the item's degradation effect. All furnishings and maintenance equipment must be selected with consideration for rapid replacement and minimal cost. The entity shall be provided with a clothing allowance, which is to be strictly managed by the on-site procurement department; however, all provided clothing will deteriorate rapidly due to the entity's anomalous effect.</p>
+<p>Personnel interacting with SCP-30716 must adhere to a strict psychological evaluation schedule to monitor for depressive symptoms or excessive concerns regarding personal finances. Any personnel affected by SCP-30716's aura is to be administered Class-A amnestics and undergo a period of financial advisement.</p>
+<p>Due to SCP-30716's effect on electronic devices, all observations and interactions must be recorded via traditional, non-digital means. Personnel are forbidden from bringing personal items of significant financial or sentimental value into SCP-30716's presence.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-30716 was discovered in a dilapidated urban area when local reports emerged of a "curse" causing widespread financial distress and property damage. Mobile Task Force Pi-1 ("City Slickers") was deployed, and upon confirmation of the anomaly, they implemented standard humanoid containment protocols. Interviews with the local population revealed a myth of a sorrowful spirit that "feeds on wealth and spits out ruin."</p>
+<h3>Addendum 2: Interview Log</h3>
+<h4>Interviewer: Dr. Harlan</h4>
+<h4>Subject: SCP-30716</h4>
+<p><strong>Dr. Harlan:</strong> Good morning. How are you feeling today, SCP-30716?</p>
+<p><strong>SCP-30716:</strong> As expected, in perpetual deficiency. It is my essence, after all.</p>
+<p><strong>Dr. Harlan:</strong> Can you control your effect on others?</p>
+<p><strong>SCP-30716:</strong> No more than the sun can cease its glow or the river its flow. It is not malice that drives me, but nature.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 30716-E1</h4>
+<p><strong>Objective:</strong> To test the extent of SCP-30716's influence over non-sentient objects.</p>
+<p><strong>Procedure:</strong> A new $20 bill was placed within SCP-30716's containment chamber.</p>
+<p><strong>Results:</strong> Within ten minutes, the bill became discolored and began to disintegrate. After twenty minutes, the bill was reduced to tattered fibers.</p>
+<h4>Experiment 30716-E2</h4>
+<p><strong>Objective:</strong> To understand the limit of SCP-30716's influence on living beings.</p>
+<p><strong>Procedure:</strong> D-8432 was instructed to engage in a 15-minute conversation with SCP-30716 without physical contact.</p>
+<p><strong>Results:</strong> D-8432 exhibited increased anxiety and a focus on financial concerns post-interaction. A lottery ticket in D-8432's possession was later found defaced and deemed invalid.</p>
+<h3>Addendum 4: Incident Log 30716-A</h3>
+<h4>Details</h4>
+<p>An unintentional containment breach occurred when a plumbing malfunction adjacent to SCP-30716's containment chamber caused extensive water damage. Upon repair crew entrance, SCP-30716's aura affected the crew leading to additional equipment failure and personal injury accidents. The breach was contained, but the affected personnel suffered significant financial setbacks, as the effects persisted longer than previously documented.</p>
+<p>The containment procedures were updated to stipulate that SCP-30716 must remain at least 25 meters away from any essential site utilities or infrastructure.</p>
+<h3>Addendum 5: Psychological Evaluation</h3>
+<p>Following repeated interactions with SCP-30716, it has been noted that the entity itself suffers from extreme depression and a sense of loneliness, directly linked to the inherent nature of its own anomalous properties. Therapeutic sessions have been sanctioned not only for the mental well-being of SCP-30716 but also to assess whether its sense of self-identity is malleable and capable of attenuating the destructive nature of its anomaly. Initial sessions suggest a deep-seated resignation to its fate as the harbinger of poverty.</p>
+<p>Through the glimpses of SCP-30716's unique existence, the SCP Foundation aims to better understand the anomaly's origins and potential relief measures. Continued observation and research into SCP-30716 may yield insights into curative approaches for affected individuals and the potential for reclassifying SCP-30716, should its threat be nullified or contained more effectively.</p>
+
+    </div>
+    
