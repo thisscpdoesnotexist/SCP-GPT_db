@@ -1,0 +1,52 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30715 is  the poverty goddess </h3> </center>
+
+    <h3>Item #: SCP-30715 - "The Pauper's Deity"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30715-GPT.png" alt="Illustration of SCP-30715" />
+        
+<h3>Description:</h3>
+<p>SCP-30715 is an anomalous humanoid entity superficially resembling a middle-aged woman of indeterminate ethnicity with the notable characteristic of appearing perpetually shabbish and impoverished regardless of its actual attire or hygiene. Physical examination has shown that SCP-30715's appearance does not change to match its surroundings or the viewer's expectations, a rarity among human-imitative SCPs.</p>
+<p>SCP-30715 claims to be a deity representing and presiding over concepts of poverty, economic downturn, and material insufficiency. Despite its self-proclaimed divine status, SCP-30715 does not demonstrate omniscience, omnipresence, or omnipotence, and is, in practice, no more physically or mentally capable than the average human.</p>
+<p>When in the vicinity of SCP-30715, individuals report a heightened sense of empathy towards the socioeconomically disadvantaged and are often compelled to engage in acts of charity. Notably, prolonged exposure to SCP-30715 has led to cases of voluntary wealth relinquishment, with affected persons redistributing their personal assets among the less fortunate. No compulsion effect is believed to be at play; these actions appear to stem from sincere, albeit uncharacteristically strong, moral convictions.</p>
+<p>SCP-30715 communicates in a multitude of languages, often alternating between them mid-sentence. The content of SCP-30715's communication typically revolves around moral and ethical discussions related to wealth distribution and the state of the impoverished.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30715 is to be contained in a standard humanoid containment chamber in Site-17. The chamber is equipped with minimal amenities to ensure SCP-30715's comfort. Due to the SCP's cooperative nature and lack of escape attempts, security measures can remain at a minimal but sufficient level to prevent unauthorized access.</p>
+<p>Personnel assigned to SCP-30715 are to undergo psychological screening to determine their susceptibility to the entity's influence regarding wealth redistribution. Those with high susceptibility to SCP-30715's presence are to be rotated out of assignment every thirty (30) days to prevent adverse effects on personal financial responsibilities and stability.</p>
+<p>Any books, periodicals, or documentaries on socioeconomic topics provided to SCP-30715 for recreational purposes must first be reviewed and approved by Site-17's Ethics Committee to prevent potential memetic influence on the staff.</p>
+<h3>Addendum 1:</h3>
+<p><strong>Interview Log-30715-01</strong></p>
+<p>Interviewed: SCP-30715</p>
+<p>Interviewer: Dr. Marcus Vintner</p>
+<p><strong><Begin Log></strong></p>
+<p>Dr. Vintner: Can you tell us why you are here?</p>
+<p>SCP-30715: I am here because it is where I am needed. Your world is flush with inequality, and my very essence is drawn to such places.</p>
+<p>Dr. Vintner: And your purpose?</p>
+<p>SCP-30715: To remind those who have, of those who have not. Wealth blinds the soul. My presence whispers to it, urges it to see again.</p>
+<p>Dr. Vintner: How do you do that?</p>
+<p>SCP-30715: By being. It is enough to exist among you to stir the waters of conscience.</p>
+<p><strong><End Log></strong></p>
+<h3>Addendum 2:</h3>
+<p><strong>Experiment Log-30715-A</strong></p>
+<p><strong>Objective:</strong> To determine the range and limitations of SCP-30715's influence on individuals' generosity and empathy.</p>
+<p><strong>Experiment-01:</strong>
+- <strong>Subject(s):</strong> Class-D Personnel, D-4339
+- <strong>Procedure:</strong> D-4339 was interviewed and assessed for baseline generosity. Following initial assessments, D-4339 was exposed to SCP-30715 for a period of one hour.
+- <strong>Result:</strong> D-4339 began redistributing commissary items among fellow Class-D personnel despite prior selfish behavior.</p>
+<p><strong>Experiment-02:</strong>
+- <strong>Subject(s):</strong> Researcher Dr. Emily Yang
+- <strong>Procedure:</strong> Dr. Yang volunteered for exposure to SCP-30715 for two hours while her financial decisions and charitable donations were monitored over the following week.
+- <strong>Result:</strong> Dr. Yang increased her monthly charitable donations by 200% and initiated a fundraising event for local homeless shelters.</p>
+<p><strong>Experiment-03:</strong>
+- <strong>Subject(s):</strong> Site-17 Security Personnel, Officer Kaleb Hart
+- <strong>Procedure:</strong> Officer Hart was exposed to SCP-30715 for three hours with subsequent monitoring of his financial and interpersonal interactions.
+- <strong>Result:</strong> Officer Hart filed for a reduction of his work hours to volunteer at a soup kitchen. No coercion from SCP-30715 detected.</p>
+<p><strong>Analysis:</strong> SCP-30715’s influence on individuals appears to increase with exposure time, suggesting an accumulative effect, although subjects do not report any unnatural or external compulsion to alter their behavior. The full extent and permanent impact of SCP-30715’s ability to inspire generosity remain subjects of ongoing study.</p>
+<h3>Addendum 3:</h3>
+<p><strong>Memo from Site-17's Ethics Committee</strong></p>
+<p>After careful deliberation, we recognize the potential positive influence SCP-30715 could have on the world. However, the potential for widespread economic disruption is also of paramount concern. It is the Committee's decision to continue containment of SCP-30715 and to reject proposals for intentional release or utilization outside of a controlled environment. We must study SCP-30715's capabilities further and understand the long-term ramifications of its influence. The balance between altruism and societal stability must be maintained.</p>
+
+    </div>
+    
