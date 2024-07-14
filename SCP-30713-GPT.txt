@@ -1,0 +1,50 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30713 is  a Shinto guardian deity who's domain happens to be junior researcher Amanda Connors's ass. </h3> </center>
+
+    <h3>Item #: SCP-30713 - "Kami's Keeper"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30713-GPT.png" alt="Illustration of SCP-30713" />
+        
+<h3>Description:</h3>
+<p>SCP-30713 is a metaphysical entity that identifies as a Shinto guardian deity, with a unique domain purported to be the immediate vicinity of Junior Researcher Amanda Connors's posterior. The entity manifests as an incorporeal protective force, which seems to expand roughly 0.5 meters around the designated area.</p>
+<p>Initial skepticism regarding the anomaly was put to rest after several incidents where potentially lethal harm was averted through highly improbable occurrences solely within SCP-30713's domain. Objects, projectiles, and even harmful intentions seem to be deflected or redirected by an unseen force when within this half-meter radius "sanctuary."</p>
+<p>The entity exhibits intelligence and is capable of rudimentary communication through the arrangement of nearby objects and occasional electronic interference. SCP-30713 refers to itself as "守護者" (Shugosha), suggesting an origin related to ancient Japanese religious beliefs. However, its choice of domain—specifically centering on a living human's body part—is unprecedented and not well-understood.</p>
+<p>SCP-30713 has designated Junior Researcher Connors as its "shrine," and by extension, a subject of its protection. The entity's presence has also led to Junior Researcher Connors being granted an unofficial status as a living containment measure.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given SCP-30713's benevolent behavior and unique attachment to Junior Researcher Connors, the entity has been classified as Thaumiel and has been employed in an advisory capacity for the containment of other SCPs. Junior Researcher Connors has been advised to remain on-site within Secure Facility-███ and is under constant surveillance for her safety and to collect further data on SCP-30713's capabilities and limitations.</p>
+<p>Junior Researcher Connors has been provisioned with a special containment suit, which provides additional protection and allows for less conspicuous movement within the facility. The suit also includes monitoring equipment to study SCP-30713's interactions with the environment.</p>
+<p>Any testing with SCP-307236 must be approved by at least two Level 4 personnel, and direct physical contact with Junior Researcher Connors's designated domain is strictly prohibited without prior approval.</p>
+<h3>Addendum 1: Initial Discovery</h3>
+<p>SCP-30713's existence was first noted when Junior Researcher Connors survived an explosion in Lab 19 with minor injuries. The subsequent investigation showed that shrapnel and the blast wave were anomalously redirected away from her lower back area. Further testing confirmed the presence of an unseen protective field.</p>
+<h3>Addendum 2: Interview &amp; Communication</h3>
+<p><strong>Interviewer:</strong> Dr. Yusuke Tanaka, Site-███ Linguistics and Anthropology Expert</p>
+<p><strong>Subject:</strong> SCP-30713 (via Junior Researcher Connors's laptop)</p>
+<p><em>Begin Log</em></p>
+<p><strong>Dr. Tanaka:</strong> Can you tell us why you have chosen Junior Researcher Connors as your shrine?</p>
+<p><em>The laptop screen flickers, and a series of Japanese characters appear spelling "運命" (unmei), meaning fate or destiny.</em></p>
+<p><strong>Dr. Tanaka:</strong> Is there a specific reason why her...ahem, posterior region, is under your protection?</p>
+<p><em>Characters appear again, spelling "憩い" (Ikoi), meaning rest or respite. Followed by "強い保護" (tsuyoi hogo), meaning strong protection.</em></p>
+<p><em>End Log</em></p>
+<h3>Addendum 3: Experiment Log</h3>
+<p><strong>Experiment 30713-A: Blunt Force Trauma Simulation</strong></p>
+<ul>
+<li><strong>Procedure:</strong> A weighted pendulum was directed towards Junior Researcher Connors while she stood with her back towards it.</li>
+<li><strong>Result:</strong> The pendulum inexplicably veered off course approximately 0.4 meters before making contact.</li>
+</ul>
+<p><strong>Experiment 30713-B: Projected Liquid</strong></p>
+<ul>
+<li><strong>Procedure:</strong> A stream of colored liquid was sprayed at Junior Researcher Connors from a fixed nozzle.</li>
+<li><strong>Result:</strong> The stream divided into two, arcing around her lower back, and never made contact with the "protected" area.</li>
+</ul>
+<p><strong>Experiment 30713-C: Mental Influence</strong></p>
+<ul>
+<li><strong>Procedure:</strong> D-Class personnel instructed to entertain harmful intent towards Junior Researcher Connors while within proximity.</li>
+<li><strong>Result:</strong> All subjects reported a sudden change of heart and reluctance to cause any harm.</li>
+</ul>
+<h3>Addlicant 4: Additional Notes</h3>
+<p>SCP-30713's domain occasionally fluctuates in size, and may expand in response to higher threat levels. It remains unclear how SCP-30713 determines the threat level, as it appears to respond to both physical and psychological dangers. Junior Researcher Connors has been tasked to maintain a diary of her sensations and daily experiences to further understand the nature of SCP-30713's protective mechanism.</p>
+
+    </div>
+    
