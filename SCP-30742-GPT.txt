@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30742 is  SCP-682's peanut allergy </h3> </center>
+
+    <h3>Item #: SCP-30742 - The Allergenic Abomination</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30742-GPT.png" alt="Illustration of SCP-30742" />
+        
+<h3>Description:</h3>
+<p>SCP-30742 refers to the anomalous phenomenon tightly associated with SCP-682 (henceforth referred to as the subject), an entity known for its extreme strength, regenerative ability, and intense hatred of all life. This phenomenon manifests as a severe allergic reaction in the subject when exposed to any derivatives of <em>Arachis hypogaea</em> (commonly known as the peanut plant).</p>
+<p>SCP-30742's effects on the subject include anaphylactic symptoms incompatible with its otherwise nigh-indestructable physiology — cutaneous reactions, respiratory distress, and a rapid decrease in regenerative capabilities. It should be noted that these reactions are unprecedented given the subject's known resistances to a wide band of lethal assaults, both physical and metaphysical in nature.</p>
+<p>The allergic reaction provides a window of opportunity to neutralize the subject temporarily or to coerce cooperation from the subject when necessary. SCP-30742 is one of the few known "weaknesses" of SCP-682 and, as such, has been classified as Thaumiel due to its potential utility in containment or control of the subject.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30742's vectors, namely all substances derived from peanuts, must be contained within Bio-Safety Level 4 containment units when not in use. Usage is restricted to times when SCP-682 breaches containment or necessitates reorientation to cooperative behavior. All personnel handling such vectors must suitably be equipped with hazmat gear to prevent contamination and allergic cross-reaction. Under no circumstance should these vectors be exposed to the open environment, as the potential for widespread allergic reactions and their subsequent socioeconomic implications are potentially catastrophic.</p>
+<p>Due to SCP-30742's importance in the containment of SCP-682, an emergency reserve of peanut-derived substances is to be maintained at all times. Usage protocols for SCP-30742 require authorization from at least two (2) Level 4 Senior Researchers and confirmation from the site's Director.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-30742 was discovered during Incident-682-E4 when SCP-682 ingested D-Class personnel who reportedly had a peanut butter-based snack prior to the test. SCP-682 displayed sudden and severe allergic symptoms, leading to a temporary remission of its aggressive actions.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 30742-E001</h4>
+<p><strong>Objective:</strong> Confirm SCP-30742 as a consistent weakness in SCP-682.</p>
+<p><strong>Procedure:</strong> Introduce a 2g peanut extract solution into SCP-682's containment chamber via aerosol.</p>
+<p><strong>Result:</strong> SCP-682 began to exhibit signs of anaphylactic shock, with significant swelling and respiratory difficulty noted.</p>
+<p><strong>Notes:</strong> This represents the first controlled observation of SCP-30742's effect on the subject. It's both intriguing and mildly disconcerting that such a pervasive threat to humanity can be mitigated, albeit temporarily, with such a ubiquitous substance.</p>
+<h4>Experiment 30742-E005</h4>
+<p><strong>Objective:</strong> Determine the minimum effective dose required to induce an allergic reaction in SCP-682.</p>
+<p><strong>Procedure:</strong> Incrementally increase dosages of peanut extract, starting from 0.5g, until the desired effect is achieved.</p>
+<p><strong>Result:</strong> SCP-682 displayed allergic reactions at a minimal dosage of 0.75g. The reaction's severity appeared to scale with increased dosages linearly.</p>
+<p><strong>Notes:</strong> This result has profound implications for the containment of SCP-682. A relatively small amount of allergen can be used to potentially subdue the subject.</p>
+<h4>Experiment 30742-E010</h4>
+<p><strong>Objective:</strong> Evaluate the longevity of SCP-30742's effects with the intent of extending containment breach response times.</p>
+<p><strong>Procedure:</strong> Introduce a sustained aerosolized release of peanut extract at a concentration maintained at the minimum effective dose.</p>
+<p><strong>Result:</strong> SCP-682's allergic reaction was sustained for approximately 43 minutes, after which the subject showed signs of adaptation. However, immediate reintroduction post-adaptation was again effective, indicating SCP-682 cannot develop a long-term tolerance.</p>
+<p><strong>Notes:</strong> While adaptation was anticipated given SCP-682's known abilities, the interval at which SCP-30742 remains effective could provide critical response time during containment breaches.</p>
+<h3>Addendum 3: Ethical Considerations</h3>
+<p>Following the exploitation of SCP-30742, ethical debates arose regarding the continued use of this method. Several human rights advocacy groups within the Foundation have argued the disrespectful and inhumane nature of exploiting an allergic reaction, even in an entity as malicious as SCP-682.</p>
+<h3>Addendum 4: Security Memo</h3>
+<p>Despite the attractiveness of utilizing SCP-30742 as a containment measure, the possibility of SCP-682 developing a complete resistance remains an ever-present concern. Research into alternative containment strategies must continue apace, with SCP-30742 considered only a temporary solution to an enduring problem.</p>
+
+    </div>
+    
