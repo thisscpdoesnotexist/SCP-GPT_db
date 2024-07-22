@@ -1,0 +1,38 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30922 is  cursed pyramid fungus that swaps your gender </h3> </center>
+
+    <h3>Item #: SCP-30922 - "The Transmuting Mycota"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30922-GPT.png" alt="Illustration of SCP-30922" />
+        
+<h3>Description:</h3>
+<p>SCP-30922 refers to a species of fungus closely resembling that of the genus <em>Pyramidomyces</em>. What distinguishes SCP-30922 is its unique spore-mediated effect that triggers irreversible biological sex and gender identity transmutation in human subjects. The fungus is typically found in dark, damp environments, with an unusual distribution confined to the ruins of what is believed to be an ancient, unidentified civilization, located in [REDACTED].</p>
+<p>Once a spore from SCP-30922 is inhaled, it begins to affect the subject's endocrine system, inducing a complex alteration in their genetic and epigenetic makeup. Within 72 hours post-inhalation, the subject experiences a complete and permanent transformation of secondary sexual characteristics, reproductive systems, as well as a profound cognitive shift aligning with their new gender identity. This change is both physiological and psychological. Post-transmutation, subjects report a strong sense of identification and comfort with their new gender, with no memories of dysphoria from their previous biological sex. Notably, this mental realignment suggests a cognitohazardous aspect to SCP-30922's effect.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the nature of SCP-30922, the containment zone is the ruins within which it naturally propagates. The area surrounding the ruins, approximately 5 kilometers in radius, is to be cordoned off under the guise of a military research facility to deter civilian entry. Any unauthorized individuals attempting to enter the containment zone must be intercepted, detained, administered Class-A amnestics, and released at a safe distance from the area.</p>
+<p>The ruins themselves are to be kept under surveillance with specialized biohazard filters installed on all air circulation and ventilation systems to prevent spore escape. Personnel entering the containment zone must wear hazmat suits equipped with high-efficiency particulate air (HEPA) filtration systems. Those who suspect accidental spore inhalation must report immediately for quarantine and observation.</p>
+<p>No experimental interaction with SCP-30922 is to occur without approval from at least two Level 4 Senior Researchers familiar with gender-affecting anomalies. Should an individual become affected by SCP-30922, they are to be offered psychological support and counseling as part of their acclimation to their new identity.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-30922 was initially discovered in [REDACTED], following a series of inexplicable missing persons reports, when local law enforcement officers, collaborating with embedded Foundation agents, noticed an unusual pattern of transformations in the towns surrounding the unidentified ruin sites. Foundation mycologists and archaeologists were dispatched to investigate, leading to the classification and containment of SCP-30922.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 30922-A</h4>
+<p><strong>Objective:</strong> To determine the effects of SCP-30922 on non-human primates.
+<strong>Protocol:</strong> Four subjects, two male, and two female chimpanzees, were exposed to SCP-30922 spores in controlled conditions.
+<strong>Result:</strong> No observable changes in physiology or behavior occurred in any subjects. Transformation effects appear human-specific.</p>
+<h4>Experiment 30922-B</h4>
+<p><strong>Objective:</strong> To explore whether the cognitive alignment to new gender identity is consistent across various cultures and identities.
+<strong>Protocol:</strong> Subjects from diverse ethnic, cultural, and gender backgrounds were exposed to SCP-30922 under controlled voluntary consent, with aftercare arrangements pre-established.
+<strong>Result:</strong> Transmutation and cognitive realignment were consistent across all subjects, with remarkably unanimous expressions of contentment and self-identification with their new gender. This implies a universally programmed response within SCP-30922 affecting human neurological and genetic fabric.</p>
+<h4>Experiment 30422-C</h4>
+<p><strong>Objective:</strong> To test the range and limitation of SCP-30922's spore effectiveness.
+<strong>Protocol:</strong> D-class personnel were exposed to diluted concentrations of spores at incremental distances from the source.
+<strong>Result:</strong> It was concluded that the maximum effective range of SCP-30422 spores is approximately 1 meter from the point of origin, with no effect occurring beyond this threshold.</p>
+<h3>Addendum 3: Incident Report 30922-01</h3>
+<p><strong>Date:</strong> [REDACTED]
+<strong>Details:</strong> An outbreak of SCP-30922 was reported among the staff after a containment breach caused by structural failure due to heavy rainfall. The breach exposed twelve personnel to the spores, resulting in their transformations. Following this incident, the structural integrity of the containment zone has been reinforced, and additional atmospheric purification systems have been installed throughout the site. All affected personnel have been offered reassignment per their request, with ongoing psychological support and medical care.</p>
+<p>In light of this incident, ongoing discussions among the Ethics Committee are reviewing the implications of SCP-30922's effects on personal identity and the potential for applications in the medical transition for transgender individuals. However, until a comprehensive understanding of the anomaly is achieved, SCP-30922 is to remain under strict containment, and all interactions with it are to be approached with extreme caution to prevent any further unintended transformations.</p>
+
+    </div>
+    
