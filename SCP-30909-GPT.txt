@@ -1,0 +1,67 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30909 is  A species of onion that makes you experience genuine sorrow when it's cut </h3> </center>
+
+    <h3>Item #: SCP-30909 - "The Mourning Bulb"</h3>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-30909 refers to a genetically distinct species of allium, superficially resembling Allium cepa, commonly known as the onion. SCP-30309 exhibits atypical properties upon being cut or damaged, inducing an anomalous psycho-emotional effect on nearby humans.</p>
+<p>Subjects within a five-meter radius experience sudden and acute episodes of sorrow when SCP-30909 specimens are cut. Notably, the grief experienced is not related to the typical eye irritation caused by non-anomalous onions. Affected individuals report a feeling of profound loss or mourning, often likened to the sorrow felt during significant personal tragedies. The intensity and duration of the emotional response appear to be directly related to the proximity and the quantity of SCP-30909 being cut.</p>
+<p>The manifestation of this effect does not seem to correspond with the known chemical compounds released by conventional onion cutting. Additionally, tests have shown that the effect is solely psychological and does not result from any memetic or cognitohazardous influence. SCP-30909's genome has been sequenced and is currently under analysis to identify possible genetic factors responsible for its anomalous properties.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30909 is contained within Bio-Research Area-12, in a secured, environmentally-controlled agricultural chamber. Access is restricted to Level 2 personnel and above who have undergone psychological screening.</p>
+<p>To prevent accidental emotional distress, appropriate signs have been posted to warn personnel of the chamber's contents. Researchers entering the containment area are required to wear sound-cancelling headphones to mitigate inadvertent exposure to the emotional effects, as it's hypothesized that hearing the sound of SCP-30909 being cut may contribute to the onset of symptoms.</p>
+<p>Specimens of SCP-30909 are to be cultivated in limited quantities sufficient only for research purposes. Harvesting and experimental procedures involving SCP-30909 are to be conducted only with prior approval from the Area Director and in the presence of on-site psychological staff. Any emotional trauma experienced by personnel as a result of exposure to SCP-30909 effects is to be treated immediately by psychological staff.</p>
+<h3>Addendum 1:</h3>
+<ul>
+<li>
+<p><strong>Addendum 1-A: Discovery</strong>
+    SCP-30909 was first discovered in [REDACTED], Russia, after reports of an entire village succumbing to unexplained collective episodes of mourning. Foundation agents embedded in local law enforcement were dispatched, subsequently identifying and containing the anomalous onion specimens. Amnestic treatments were administered to the affected population, and a cover story involving a gas leak causing mild hallucinogenic effects was disseminated.</p>
+</li>
+<li>
+<p><strong>Addendum 1-B: Communication Attempts</strong>
+    Given that emotional response suggests a form of sapience or sentience, attempts to communicate with SCP-30909 or discern a purpose behind the induced emotional effects have been made. To date, no successful communication has been established, and no discernible intelligence or sentience has been detected.</p>
+</li>
+</ul>
+<h3>Addendum 2: Experiment Log SCP-30909</h3>
+<ul>
+<li>
+<p><strong>Experiment 2-A: Effect on D-Class Personnel</strong>
+    <em>Date:</em> ██/██/20██
+    <em>Procedure:</em> D-21948 was instructed to cut a specimen of SCP-30909.
+    <em>Results:</em> D-21948 began to cry uncontrollably within 30 seconds, reporting feelings of grief associated with the loss of her mother, who had passed away several years prior. Emotional effects subsided approximately two hours after removal from SCP-30909's proximity.</p>
+</li>
+<li>
+<p><strong>Experiment 2-B: Exposure to Non-sentient Entities</strong>
+    <em>Date:</em> ██/██/20██
+    <em>Procedure:</em> A robotic arm was used to cut SCP-30909 while various animals were placed at varying distances.
+    <em>Results:</em> No observable effects on the animals were noted, suggesting that SCP-30909 specifically affects human subjects.</p>
+</li>
+<li>
+<p><strong>Experiment 2-C: Acoustic Contribution</strong>
+    <em>Date:</em> ██/██/20██
+    <em>Procedure:</em> Researchers wearing noise-cancelling headphones observed D-Class personnel cutting SCP-30909.
+    <em>Results:</em> Reduced emotional response was observed, suggesting that auditory cues may play a role in the intensity of SCP-30909's effects. Further acoustic analysis is in progress.</p>
+</li>
+<li>
+<p><strong>Experiment 2-D: Cross-testing with SCP-███</strong>
+    <em>Date:</em> ██/██/20██
+    <em>Procedure:</em> SCP-███, known for its ability to suppress emotional responses in human subjects, was brought to SCP-30909's containment chamber.
+    <em>Results:</em> The effects of SCP-███ successfully prevented the emotional response from SCP-30953. This cross-test may lead to novel treatments for affective disorders using controlled exposure to SCP-30953 and SCP-███.</p>
+</li>
+</ul>
+<h3>Addendum 3: Researcher Notes</h3>
+<ul>
+<li>
+<p>It has been hypothesized that SCP-30909 could be the result of an unidentified group's attempt to create plant species capable of eliciting specific emotional responses in humans for reasons yet unknown. Further investigation into potential creators of SCP-30909 or related anomalies is ongoing.</p>
+</li>
+<li>
+<p>Proposals for experimenting with possible therapeutic applications of controlled exposure to SCP-30909 are under ethical review, given the distress caused by the anomaly. The potential for controlled emotional catharsis could, however, represent a significant breakthrough in psychological treatment, warranting further investigation with the utmost consideration for the well-being of test subjects.</p>
+</li>
+</ul>
+<p>Continued monitoring and research into SCP-30909's properties and potential uses will carry on under strict containment protocols to prevent any psychological harm from unintentional exposure and to safeguard against possible misuse of its anomalous effects.</p>
+
+    </div>
+    
