@@ -1,0 +1,55 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30924 is  a black tar superheroine </h3> </center>
+
+    <h3>Item #: SCP-30924 - "The Ebon Sylph"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30924-GPT.png" alt="Illustration of SCP-30924" />
+        
+<h3>Description:</h3>
+<p>SCP-30924, known colloquially as "The Ebon Sylph," is a humanoid entity approximately 1.7 meters in height, with a sleek physique that evokes a feminine form. The entity is composed entirely of a viscous, jet-black substance, visually similar to petroleum-based tar yet exhibiting physical and chemical properties not found in any known material.</p>
+<p>SCP-30924 exhibits high intelligence and articulate speech and identifies as female. While SCP-30924 is generally cooperative with Foundation personnel, her full origin, motivations, and potential remain only partially understood.</p>
+<p>Notable abilities of SCP-30924 include:</p>
+<ul>
+<li>Morphological fluidity: SCP-30924 can alter her shape, density, and volume, manifesting tools, weapons, wings, or additional appendages as required.</li>
+<li>Regenerative Healing Factor: Any damage incurred by SCP-30924 heals within moments, with no apparent limit to the extent of recoverable trauma.</li>
+<li>Substance Absorption: SCP-30924 can integrate external sources of tar-like substances to replenish mass or create constructs. Experiments have revealed a threshold for this ability, as SCP-30924 appears to experience discomfort and cognitive dissonance when absorbing mass beyond a certain point.</li>
+</ul>
+<p>SCP-30924 claims her abilities are intended for the protection of humanity from "existential threats of an unnatural nature." Further inquiries into her origins are met with vague responses, suggesting either memory suppression or reluctance to disclose information.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30924 is currently housed in a specialized containment unit at Site-██. The chamber is constructed with advanced alloy plating and features an internal structure that can be reconfigured remotely, designed to accommodate SCP-30924's variable physical requirements.</p>
+<p>Due to her cooperative nature and Thaumiel classification, SCP-30924 is permitted to engage in supervised reconnaissance and limited field operations concerning other SCPs, following approval from no fewer than two O5 Council members.</p>
+<p>Security personnel assigned to SCP-30924 must undergo psychological screening to withstand her persuasive aura, a subtle effect of prolonged exposure that inclines individuals to act protectively towards her.</p>
+<p>Bi-weekly assessments are conducted to evaluate SCP-30924's psychological state, capabilities, and any potential expansion of her abilities.</p>
+<h3>Addendum 1: Interview Log-30924-07</h3>
+<h4>Interviewer: Dr. Julian Weiss</h4>
+<h4>Subject: SCP-30924</h4>
+<h4>Date: ██/██/20██</h4>
+<p><strong>Dr. Weiss:</strong> Good afternoon. How are you feeling today, SCP-30924?</p>
+<p><strong>SCP-30924:</strong> As well as one can feel in such circumstances, Dr. Weiss. How can I assist the Foundation today?</p>
+<p><strong>Dr. Weiss:</strong> We are still trying to understand the full scope of your capabilities. Can you tell us more about your origin?</p>
+<p><strong>SCP-30924:</strong> I fear that your human documents would fail to comprehend the completeness of my genesis. Indeed, I am from a place of darkness seeking to prevent the extinguishing of light within your world.</p>
+<p><strong>Dr. Weiss:</strong> Are you referring to a literal or metaphorical darkness?</p>
+<p><strong>SCP-30924:</strong> Both, in equal measure.</p>
+<p><em>(Truncated for brevity; Full interview available in Archive-30924-07)</em></p>
+<h3>Addendum 2: Experiment Log-30924</h3>
+<h4>Experiment-30924-E07</h4>
+<p><strong>Purpose:</strong> To determine the limits of SCP-30924's morphological abilities.</p>
+<p><strong>Procedure:</strong> SCP-30924 was provided with 50 kg of a tar-like substance to observe absorption and construct creation.</p>
+<p><strong>Results:</strong> SCP-30924 successfully absorbed the material and formed various complex shapes, including functioning mechanical devices, proving a deep understanding of structural engineering. Discomfort was noted after 40 kg had been absorbed, leading to termination of the experiment.</p>
+<h4>Experiment-30924-E15</h4>
+<p><strong>Purpose:</strong> To test SCP-30924's regenerative healing factor.</p>
+<p><strong>Procedure:</strong> A 5 cm incision was made on SCP-30924's appendage.</p>
+<p><strong>Results:</strong> The incision closed within 3.5 seconds. No discernible discomfort displayed by SCP-30924.</p>
+<h4>Experiment-30920-E23</h4>
+<p><strong>Purpose:</strong> To analyze SCP-30924's ability to protect vulnerable targets.</p>
+<p><strong>Procedure:</strong> SCP-30924 was placed in a simulated urban environment with civilian dummies and an active SCP-███ instance.</p>
+<p><strong>Results:</strong> SCP-30924 demonstrated remarkable tactical prowess, shielding dummies, and subduing SCP-███ using non-lethal constriction until backup containment teams arrived.</p>
+<p><em>(Complete log accessible to personnel with Level 4 clearance or higher)</em></p>
+<h3>Addendum 3: Incident Report-30924-I01</h3>
+<p>On ██/██/20██, a containment breach at Site-██ resulted in the release of multiple Keter-class SCPs. SCP-30924 requested deployment and was instrumental in re-establishing site security. The entity's ability to understand and counteract the abilities of other SCPs proved critical, leading to the recapture of all escaped entities with minimal casualties.</p>
+<p>Following this event, the O5 Council has upgraded SCP-30924's operational allowance level and is considering the potential for an SCP-30924-led Special Operations unit, pending further technical and psychological assessment.</p>
+
+    </div>
+    
