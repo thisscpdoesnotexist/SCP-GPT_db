@@ -1,0 +1,50 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30923 is  a collection of cursed memes… that are actually cursed </h3> </center>
+
+    <h3>Item #: SCP-30923 - "The Caustic Collection"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30923-GPT.png" alt="Illustration of SCP-30923" />
+        
+<h3>Description:</h3>
+<p>SCP-30923 refers to a set of digital image macros, colloquially known as "memes," which display anomalous and hazardous effects upon observation. Each instance of SCP-30923 visually resembles popular humorous internet memes but with subtle alterations in content that convey a sense of unease or dread.</p>
+<p>Upon viewing SCP-30923, subjects (designated SCP-30923-1) experience a range of symptoms including severe paranoia, involuntary mimetic spreading of the images, and a compulsion to discuss the content of the memes with others, regardless of context or appropriateness. Continued exposure leads to further psychological deterioration, characterized by hallucinations, aggression, and in extreme cases, a complete loss of cognitive functions. In addition to mental effects, physical symptoms, such as nosebleeds, fainting spells, and spontaneous combustion, manifest in a small percentage of SCP-30923-1 instances.</p>
+<p>Research into SCP-30923's origin is ongoing. As of this report, SCP-30923 is believed to propagate through electronic means, with instances appearing in social media feeds, email inboxes, and file sharing services without discernible patterns.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-30923's digital nature and propensity for spreading, containment focuses on cyber-based countermeasures. Foundation AI, codenamed "NetScraper," continually monitors the internet for SCP-30923 instances, using algorithms to identify and isolate new variations that bypass previous detection methods.</p>
+<p>All confirmed SCP-30329 instances are to be quarantined in an isolated server located at Site-██. Access is restricted to personnel with Level 4 clearance and a demonstrated psychological resilience to cognitohazardous anomalies.</p>
+<p>Individuals influenced by SCP-30923 (SCP-30923-1) are to be detained for observation and debriefing. In cases where rehabilitation is deemed impossible, SCP-30923-1 must be secluded indefinitely in a cognitohazard containment chamber to prevent further spread. Amnestics have proven only partially effective due to SCP-30923's crippling long-term psychological effects.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-30923 first came to the Foundation's attention after a series of unexplained mental breakdowns reported across multiple college campuses. Investigators isolated the vector of transmission to a university's meme-sharing group on social media. Embedded Foundation cybersecurity agents swiftly enacted information suppression protocols and disseminated disinformation narratives, attributing the phenomenon to a viral Internet challenge.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 30923-A-07</strong></p>
+<ul>
+<li><strong>Subject:</strong> D-48721</li>
+<li><strong>Procedure:</strong> Subject was exposed to SCP-30923 for five seconds.</li>
+<li><strong>Results:</strong> Subject reported mild unease and difficulty concentrating. Subject returned to baseline after 24 hours.</li>
+<li><strong>Notes:</strong> Minimal exposure confirmed to cause short-term effects. Longer durations planned for forthcoming trials.</li>
+</ul>
+<p><strong>Experiment 30923-B-13</strong></p>
+<ul>
+<li><strong>Subject:</strong> D-50241</li>
+<li><strong>Procedure:</strong> Subject was asked to create a derivative meme using SCP-30923 as a template.</li>
+<li><strong>Results:</strong> Subject became increasingly withdrawn, insisting on including their personal information in the meme. Subject was terminated following an attempt to breach containment.</li>
+<li><strong>Notes:</strong> Creation of derivative content exacerbates SCP-30923's compulsive traits.</li>
+</ul>
+<p><strong>Experiment 30923-C-19</strong></p>
+<ul>
+<li><strong>Subject:</strong> D-51784</li>
+<li><strong>Procedure:</strong> Subject exposed to SCP-30923 was given a cognitive resistance test.</li>
+<li><strong>Results:</strong> Subject showed heightened aggression towards the testing apparatus, eventually suffering a cerebral hemorrhage.</li>
+<li><strong>Notes:</strong> Advanced stages of exposure may lead to physical as well as psychological damage.</li>
+</ul>
+<h3>Addendum 3: Incident Report 30923-██</h3>
+<p>On ██/██/████, an SCP-30923 instance breached containment via an unsuspecting researcher's smartphone. Said researcher, while displaying early symptoms, attempted to share SCP-30923 with external contacts. The breach was contained, but not before inference of a Class-C "Broken Masquerade" scenario. The Foundation invoked emergency measures, including mass amnestic dispersion and digital footprint purging. </p>
+<p>Containment procedures were updated to emphasize the compulsory relinquishment of all personal electronic devices upon entering sensitive Foundation sites. The researcher in question has since been re-assigned after successful rehabilitation.</p>
+<h3>Addendum 4: Researcher Notes</h3>
+<p>Given the adaptive nature of SCP-30923, research efforts have pivoted towards developing anti-memetic agents that can "vaccinate" digital space against this anomaly's propagation. The ultimate goal is to render SCP-30923 inert, allowing for the release of affected individuals from indefinite containment. This is, however, a distant aspiration, given our current understanding of SCP-30923 and the mercurial nature of memetic phenomena.</p>
+<p>Anomalies such as SCP-30923 pose significant threats not solely due to their immediate effects but also due to their capability to blend seamlessly with modern digital communication. Continued vigilance and advanced counter-cyber measures are of utmost importance to prevent a possible XK-Class End-of-the-World scenario, where communication networks could collapse under the weight of rampant, uncontainable cognitohazards.</p>
+
+    </div>
+    
