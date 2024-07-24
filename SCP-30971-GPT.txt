@@ -1,0 +1,55 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-30971 is  a 12 year old girl with giant lobster claws instead of hands </h3> </center>
+
+    <h3>Item #: SCP-30971 - "Clawed Innocence"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-30971-GPT.png" alt="Illustration of SCP-30971" />
+        
+<h3>Description:</h3>
+<p>SCP-30971 appears to be a 12-year-old girl of unspecified ethnicity. The entity stands at approximately 1.5 meters in height and weighs around 41 kilograms. The primary anomaly of SCP-30971 is the presence of two large, chitinous claws resembling those of a Homarus americanus (American lobster), replacing the entity's hands. These claws are fully functional and can exert significant pressure. Despite the claws, SCP-30971 maintains dexterity through yet-unexplained means and is capable of manipulating objects in a manner similar to an individual with normal human hands.</p>
+<p>SCP-30971 displays a typically human range of emotions and intelligence for her apparent age. Standard psychological evaluations have shown no significant abnormalities, aside from mild distress originating from the SCP-30971's physical condition and occasional difficulties with social integration. The entity is capable of speech and has provided valuable information about her past, though it is unclear how much of this information is factual versus imaginative or deceitful.</p>
+<p>Concerning biological functions, SCP-30971 requires sustenance similar to that of a human child, with a noted preference for seafood, particularly crustaceans. Anomalous regeneration properties have been observed within the SCP's lobster-like claws—if damaged, they can regrow fully within the span of a month.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-30971 is contained within a standard humanoid containment chamber in Site-64, furnished to accommodate a child. The chamber is fitted with appropriate furniture, recreational items, and educational materials. The containment chamber should retain a friendly environment to ensure the mental well-being of SCP-30971, who responds positively to a stable and caring atmosphere.</p>
+<p>Each day, SCP-30971 is provided with three meals designed according to the dietary preferences and nutritional needs of a human child. Special care is taken to include a regular supply of seafood, which seems to aid in maintaining the health of SCP-30971's anomalous features.</p>
+<p>Physical interaction with SCP-30971 is allowed under supervision for mental health welfare purposes but must be approached with caution due to the potential danger posed by the entity's claws. Only D-Class personnel are permitted direct handling, and even then, the use of safety equipment is required.</p>
+<p>In efforts to normalize SCP-30971's environment, standard education is provided, and psychological evaluations are conducted biweekly. SCP-30971 is permitted a monitored schedule of leisure activities, specifically those which aid in preserving a healthy psychological state and may reduce the entity's stress levels. All interactions are to be logged and reviewed by the supervising researcher.</p>
+<h3>Addendum 1: Discovery</h3>
+<ul>
+<li>
+<h4>Addendum 1-A: Initial Report</h4>
+<p>SCP-30971 was initially discovered in [REDACTED], Maine, after local reports of a "little monster girl" reached undercover Foundation agents. Agents were able to locate the entity, discreetly remove her from the community, and transport her to Site-64 without attracting public attention.</p>
+</li>
+<li>
+<h4>Addendum 1-B: Interview Excerpts</h4>
+<p>SCP-30971 has provided varying accounts of her life prior to containment, often narrating whimsical stories about living among sea creatures or being the daughter of a mermaid and a fisherman. Despite the fantasy-driven narratives, certain details suggest SCP-30971 had parents who might have been previous SCP subjects or persons of interest to the Foundation. These details are currently under investigation.</p>
+</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li>
+<h4>Addendum 2-A: Dexterity Tests</h4>
+<p>To understand the extent of SCP-30971's ability to manipulate objects with her claws, several tests were conducted involving fine motor skill tasks such as writing, assembling small objects, and using electronic devices. Surprisingly, SCP-30971 consistently performed these tasks with remarkable proficiency.</p>
+</li>
+<li>
+<h4>Addendum 2-B: Regeneration Study</h4>
+<p>Following a controlled injury procedure to SCP-30971's left claw, extensive observations were made regarding the rapid regeneration capabilities. Tissue samples were collected during the regeneration process, offering potential insights into advanced biological restoration applications.</p>
+</li>
+<li>
+<h4>Addendum 2-C: Psychological Impact Assessment</h4>
+<p>Given SCP-30971's human psychological characteristics, a series of assessments were initiated to gauge the impact of prolonged containment. Results indicate a strong need for social interaction and mental stimulation to prevent the onset of depression or anxiety disorders commonly associated with isolated juveniles.</p>
+</li>
+</ul>
+<h3>Addendum 3: Update on Status</h3>
+<p>Following a unanimous decision by the Ethics Committee, SCP-30971 has been slated for a potential integration program that may allow for more social interaction, including supervised outings and controlled encounters with select staff members. The goal is to assess whether SCP-30971 could socialize with non-anomalous humans without risking the exposure of her anomalous traits or endangering the public. This program is currently under review, with plans for implementation pending further risk assessment.</p>
+<h3>Addendum 4: Personal Note</h3>
+<ul>
+<li>
+<h4>Addendum 4-A: Researcher's Log</h4>
+Dr. [REDACTED], the lead researcher on SCP-30971, has included in his confidential logs a personal investment in the well-being and future of SCP-30971, highlighting the importance of balancing containment protocols with humane treatment. Dr. [REDACTED] notes SCP-30971's potential for growth and possible integration into society, advocating for research into ways to possibly revert or mitigate her anomalous features for a more normal life.</li>
+</ul>
+
+    </div>
+    
