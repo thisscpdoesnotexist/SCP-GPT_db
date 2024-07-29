@@ -1,0 +1,45 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31082 is  Hard To Destroy Quetzalcoatl With Arms Quetzalcoatl friend Of SCP-682 </h3> </center>
+
+    <h3>Item #: SCP-31082 - "The Armored Serpent"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31082-GPT.png" alt="Illustration of SCP-31082" />
+        
+<h3>Description:</h3>
+<p>SCP-31082 appears to be a colossal entity sharing morphological characteristics with the mythical Mesoamerican deity Quetzalcoatl and the modern conception of a dragon. Its primary body resembles that of a feathered serpent, extending approximately 200 meters in length with a diameter of 5 meters at its thickest point.</p>
+<p>Most anomalously, SCP-31082 possesses a pair of muscular arms with clawed hands, each limb being roughly 40 meters in length. These appendages appear to possess immense strength, capable of tearing through most known materials with relative ease.</p>
+<p>SCP-31082 has demonstrated an extraordinary resistance to destruction, surviving numerous termination attempts using various conventional and experimental weapons. The entity displays sentience and sapience comparable to that of humans and has on multiple occasions engaged in complex communication with Foundation personnel, often referring to SCP-682, the "Hard-to-Destroy Reptile," as a "compatriot" or "ally."</p>
+<p>The creature is capable of flight at speeds exceeding Mach 2 and has exhibited control over various weather phenomena within an undetermined radius. Recorded manifestations of this control include but are not limited to: localized thunderstorms, hurricane-force winds, and focused lightning strikes.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-31082's formidable abilities and size, permanent containment has thus far been infeasible. Current procedures are focused on constant surveillance and immediate response to manifestation events.</p>
+<p>A global network of Foundation satellites and rapid-response teams, designated "Quetzal Containment Units" (QCUs), are tasked with monitoring and intercepting SCP-31082 as quickly as possible upon its appearance.</p>
+<p>Teams are equipped with heavy weaponry and experimental technology capable of at least temporarily disabling or slowing SCP-31082 to facilitate evacuation of nearby civilian populations. Long-term containment strategies currently under development include specialized airborne drones to deliver sedatives and an extensive underground bunker system to house SCP-31082 should capture become feasible.</p>
+<p>Civilians who witness SCP-31082 are to be given Class-B amnestics, and all evidence of its manifestations are to be discredited or destroyed.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 31082-E1</h4>
+<ul>
+<li><strong>Purpose</strong>: To test the effectiveness of conventional artillery against SCP-31082.</li>
+<li><strong>Results</strong>: Projectiles were observed to detonate upon impact with minimal effect. SCP-31082 remained largely unaffected and subsequently retaliated with a directed lightning strike, resulting in the loss of equipment and unanticipated site damage.</li>
+<li><strong>Conclusion</strong>: Conventional weaponry is highly ineffective.</li>
+</ul>
+<h4>Experiment 31082-E2</h4>
+<ul>
+<li><strong>Purpose</strong>: To gauge SCP-31082's communication abilities and gather intelligence on its association with SCP-682.</li>
+<li><strong>Results</strong>: SCP-31082 engaged in dialogue, expressing dissatisfaction with containment efforts and revealing a cryptic history between itself and SCP-682 dating back centuries. Discussed mutual "plans," the details of which remain unknown.</li>
+<li><strong>Conclusion</strong>: SCP-31082 should be considered highly intelligent and potentially cooperative under certain undefined conditions.</li>
+</ul>
+<h3>Addendum 2: Incident Log</h3>
+<h4>Incident 31082-I1</h4>
+<p>SCP-31082 breached containment during a transfer operation, using previously unseen speed and agility. The entity caused widespread destruction across [REDACTED], necessitating the largest deployment of amnestics in Foundation history to date. Recapture was achieved after 72 hours of concerted effort; however, SCP-31082 alluded to an orchestrated distraction to facilitate another anomalous event elsewhere.</p>
+<h4>Incident 31082-I2</h4>
+<p>Coinciding with a containment breach by SCP-682, SCP-31082 manifested directly above the Site-██, housing SCP-682 at the time. While the two entities did not come into direct contact, SCP-31082's actions caused significant weather disturbances, complicating recontainment efforts and resulting in severe structural damage to Site-██.</p>
+<p>Following these incidents, the Foundation is investigating possible telepathic or empathic links between SCP-31082 and SCP-682, as well as the potential need for collaborative containment protocols.</p>
+<h3>Addendum 3: Recovery Log</h3>
+<p>SCP-31082 was originally discovered in the Valley of Mexico after several reports of a "flying serpent god" reached Foundation ears through leaks in local governments. Initial containment was achieved via an extensive cover-up of the area's historical records, as well as the dissemination of disinformation campaigns presenting SCP-31082 sightings as promotional stunts for a fictitious film.</p>
+<p>Subsequent breaches and increased activity have made it clear that initial containment strategies were insufficient, prompting ongoing development for improved measures. The mythology surrounding Quetzalcoatl has been closely examined for potential insights into the anomalous properties and behaviors of SCP-31082, though much remains speculative at this juncture.</p>
+<p>Given the currently indeterminate limits of SCP-31082's abilities, updates to containment procedures and ongoing research into its origins and potential weaknesses remain top priorities for the Foundation.</p>
+
+    </div>
+    
