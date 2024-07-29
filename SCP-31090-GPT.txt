@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31090 is  Largest Quetzalcoatl In Ocean  </h3> </center>
+
+    <h3>Item #: SCP-31090 - "Leviathan's Seraph"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31090-GPT.png" alt="Illustration of SCP-31090" />
+        
+<h3>Description:</h3>
+<p>SCP-31090 is a colossal serpentine entity residing in the Earth's oceans, measures approximately 3,000 meters in length, with a diameter of 50 meters at its widest point. It closely resembles depictions of Quetzalcoatl, the feathered serpent deity from Mesoamerican mythology. Its body exhibits bioluminescence capable of emitting light in intricate patterns, and it has an array of feather-like appendages along its sides that seem to function both as fins and as a form of sensory organ.</p>
+<p>DNA analysis has shown that SCP-31090 is not directly related to any known terrestrial lifeforms. It does not appear to require food, as it absorbs energy through an unknown process, possibly related to thermal or nuclear reactions occurring within its body. This process is thought to play a role in hydrothermal vent ecosystems due to the unusual abundance of life around the entity's resting locations.</p>
+<p>SCP-31090 has displayed a high degree of intelligence and awareness. It communicates through a complex series of lights and sounds, which have been partially translated. It appears to be benevolent in nature and has intervened on multiple occasions to prevent ecological disasters, such as the redirection of tsunamis or the detoxification of large regions of water suffering from pollution or radiation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-31090's size and mobility, containment in the traditional sense is not feasible. Instead, the SCP Foundation focuses on monitoring and cooperation with the entity. A designated task force, codenamed "Poseidon's Shepherds," is responsible for tracking its movements, researching its behavior, conducting communication attempts, and enforcing a no-entry perimeter to avoid civilian encounters.</p>
+<p>Submersibles used in interactions with SCP-31090 must adhere to Protocol Aether-Wings, which involves the use of non-invasive research tactics and ensuring that all artificial light sources are dimmed to prevent interference with the entity's bioluminescence communication patterns.</p>
+<p>The Foundation also ensures the disinformation campaign to disguise SCP-31090's existence, attributing its sightings to deep sea gigantism, undiscovered species of whale, or optical illusions within naval folklore. </p>
+<h3>Addendum 1: Documented Interventions of SCP-31090</h3>
+<h4>Intervention Log 31090-A12</h4>
+<ul>
+<li><strong>Event</strong>: Near collision of a rogue iceberg with an oil drilling platform in the North Atlantic Ocean.</li>
+<li><strong>Action</strong>: SCP-31090 redirected the iceberg's trajectory by gently pushing against it. The immediate threat to the platform was neutralized.</li>
+</ul>
+<h4>Intervention Log 31090-C07</h4>
+<ul>
+<li><strong>Event</strong>: Uncontained oil spill from a damaged super-tanker.</li>
+<li><strong>Action</strong>: SCP-31090 surfaced beneath the spill and emitted a high-frequency sound accompanied by a bright, pulsating light. Within hours, the oil began breaking down into non-toxic components which were then absorbed by marine life without adverse effects.</li>
+</ul>
+<h3>Addendum 2: Communication and Experimentation Log</h3>
+<h4>Experiment 31090-E01</h4>
+<ul>
+<li><strong>Objective</strong>: To establish a basic communication protocol with SCP-31090.</li>
+<li><strong>Procedure</strong>: Researchers used synchronized light and sound patterns to mimic SCP-31090's communications.</li>
+<li><strong>Result</strong>: SCP-31090 responded by repeating the pattern and adding variations. A rudimentary form of dialogue has been established.</li>
+</ul>
+<h4>Experiment 31090-E15</h4>
+<ul>
+<li><strong>Objective</strong>: Testing SCP-31090's reaction to environmental hazards.</li>
+<li><strong>Procedure</strong>: A controlled release of a non-toxic, luminescent dye was introduced into the ocean near SCP-31090's location.</li>
+<li><strong>Result</strong>: SCP-31090 emitted light in a pattern that reflected the dye's dispersal, then manipulated water currents to contain it. Following this experiment, SCP-31090 increased its interactions with researchers, suggesting a possible understanding of our environmental conservation efforts.</li>
+</ul>
+<h3>Addendum 3: SCP-31090's Existential Significance Evaluation</h3>
+<p>After years of observation and interaction with SCP-31090, Foundation scholars and researchers have come to hypothesize that the entity's existence may be intrinsically linked to the Earth's oceanic health and, by extension, global ecological stability. Thanks to SCP-31090's interventions, the risk of multiple environmental catastrophes has been significantly mitigated.</p>
+<p>Despite its Thaumiel classification, SCP-31090 has a profound impact on Earth's natural order, making it a figure of both reverence and academic fascination within the Foundation. Efforts to learn from and collaborate with SCP-31090 continue, guided by respect for its pivotal role in the planet's ecosystem and recognition of its sapient status.</p>
+
+    </div>
+    
