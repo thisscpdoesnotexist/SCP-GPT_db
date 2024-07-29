@@ -1,0 +1,45 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31089 is  The Evil Quetzalcoatl  </h3> </center>
+
+    <h3>Item #: SCP-31089 - The Accursed Quetzal</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31089-GPT.png" alt="Illustration of SCP-31089" />
+        
+<h3>Description:</h3>
+<p>SCP-31089, referred to as "The Accursed Quetzal", is a highly anomalous entity that resembles a large Quetzalcoatlus pterosaur with an approximate wingspan of 15 meters. Unlike its prehistoric counterpart, SCP-31089 displays an array of supernatural abilities, most notably its capability to manipulate weather patterns and cause local time distortions. </p>
+<p>The entity has vibrant plumage that changes colors in an unpredictable pattern, seemingly independent of lighting or environmental conditions. Its eyes emit an eerie luminescence that has a mesmerizing effect on those who gaze directly into them. SCP-31089 possesses a level of intelligence on par with that of a high-functioning primate and has demonstrated the ability to understand and respond to complex commands. </p>
+<p>Researchers have observed SCP-31089 displaying what appears to be ritualistic behavior during certain weather phenomena, suggesting a connection between the entity's mood and meteorological events. It can become especially agitated during thunderstorms, at which time it becomes highly aggressive, with its anomalous effects becoming markedly enhanced.</p>
+<p>The entity's most perplexing attribute is its occasional benevolence towards humanity, particularly in matters concerning natural disasters. SCP-31089 has, on multiple instances, mitigated the intensity of hurricanes, floods, and other climatic calamities, leading to its classification as Thaumiel.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31089 is housed in a specialized climatized avian habitat, Site-1211, constructed to withstand and contain its anomalous weather-influencing abilities. This habitat is equipped with temporal anomaly detection equipment, designed to alert staff of any time distortion events. All personnel assigned to SCP-31089 must undergo rigorous psychological screening and be equipped with ocular protection to prevent extended direct eye contact with the entity.</p>
+<p>Given its Thaumiel status and potential to prevent or alleviate widespread destruction, SCP-31089 is not to be engaged with lethal force under any circumstances. In the event of an aggressive episode, containment specialists equipped with EMP devices—designed to temporarily inhibit SCP-31089’s abilities without causing harm—are to be dispatched to de-escalate the situation.</p>
+<p>Feeding protocols involve a bi-weekly schedule, during which SCP-31089 is to be provided with a diet consisting primarily of large fish, supplemented with a variety of meats to mimic its natural predatory patterns.</p>
+<h3>Addendum 1: Incident 31089-A</h3>
+<h4>Addendum 1-A: Event Summary</h4>
+<p>On ██/██/20██, SCP-31089 manifested an unprecedented weather phenomenon in the form of a localized rainstorm of a clear, unknown liquid within its habitat. Upon contact, the liquid induced a state of euphoria and heightened cognitive abilities in the affected staff. This state persisted for three hours, after which no long-term side effects were reported. A sample of the liquid has been archived for further analysis; however, SCP-31089 has not repeated this behavior since the incident.</p>
+<h4>Addendum 1-B: Response Log</h4>
+<p>Due to the potential utility of the induced state for enhancement of Foundation personnel, the O5 Council has authorized controlled experimentation with the liquid samples obtained during the event. A new research directive, Project Euphrosyne, has been established to investigate possible applications.</p>
+<h3>Addendum 2: Experiment Log 31089</h3>
+<h4>Experiment 31089-E1</h4>
+<p><strong>Objective:</strong> To understand the range of SCP-31089’s capability to influence weather.
+- <strong>Initiation:</strong> Generate rainfall within habitat.
+- <strong>Result:</strong> SCP-31089 initiated a sudden onset of precipitation, followed by a shift in wind patterns. Localized weather was contained.
+- <strong>Notes:</strong> The entity appears to have control over microclimates within a defined radius.</p>
+<h4>Experiment 31089-E2</h4>
+<p><strong>Objective:</strong> To observe SCP-31089’s response to simulated threat scenarios.
+- <strong>Initiation:</strong> Introduction of controlled electrical disturbances.
+- <strong>Result:</strong> SCP-31089 responded with heightened color fluctuations and produced a lightning bolt directed at the disturbance source, neutralizing it.
+- <strong>Notes:</strong> The entity's protective tendencies are triggered by perceived threats to its environment.</p>
+<h4>Experiment 31089-E3</h4>
+<p><strong>Objective:</strong> Testing SCP-31089's reaction to a major weather-induced disaster simulation.
+- <strong>Initiation:</strong> Simulation of a Category 5 hurricane within a virtual model visible to SCP-31089
+- <strong>Result:</strong> SCP-31089 exhibited distress and began altering its habitat's weather patterns in an apparent effort to counteract the simulated hurricane in the virtual model.
+- <strong>Notes:</strong> SCP-31089's potential for disaster mitigation has been further validated.</p>
+<h3>Addendum 3: O5 Directive</h3>
+<p>Following a thorough review from the Ethics Committee and approval from the O5 Council, SCP-31089 has been incorporated into several covert disaster response initiatives. Raids on illicit anomaly smuggling, particularly involving weather-controlling or time-distorting entities, are to be conducted under SCP-31089's assistance. Its involvement remains highly classified, with even the existence of SCP-31089’s specific abilities being compartmentalized within the Foundation. </p>
+<p>The significance of maintaining secrecy around SCP-31089 cannot be overstated, as its unique capacitates hold invaluable assets to the Foundation's mandate of protecting humanity while containing and researching anomalous phenomena.</p>
+
+    </div>
+    
