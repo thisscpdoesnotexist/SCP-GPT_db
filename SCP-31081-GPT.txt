@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31081 is  Russian Vodka  </h3> </center>
+
+    <h3>Item #31081: "The Neverending Toast"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31081-GPT.png" alt="Illustration of SCP-31081" />
+        
+<h3>Description:</h3>
+<p>SCP-31081 is a collection of twelve (12) crystal vodka glasses and a matching decanter, all made from transparent quartz-like material. The items exhibit no unusual properties when separated. However, when vodka is poured into the decanter and subsequently into at least one of the glasses, the liquid will not deplete, regardless of the number of times it is poured out or consumed, thus earning the moniker "The Neverending Toast."</p>
+<p>SCP-31081 was recovered from an estate sale in ████████, Russia, after the Foundation intercepted local police reports about a "vigorous and undying feast" involving several individuals in a remote village. Initially, it was believed to be a case of mass hysteria or a local prank, but investigations proved otherwise.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31081 is kept in a standard secure locker at Site-███. Access to SCP-31081 is restricted to Level 2 personnel and above or with written permission from at least two Level 3 researchers for testing purposes. Any experimentation with SCP-31081 is to be done under controlled conditions, with a strict limit on the amount and duration of exposure to the objects to prevent potential alcohol poisoning due to the anomalous properties of the vodka produced.</p>
+<p>To avoid unnecessary cleaning, disposable containers are recommended for indirect testing. Personnel are reminded that, despite SCP-31081 being classified as Safe, standard personnel sobriety codes remain in effect.</p>
+<h3>Addendum 1: Recovery Report</h3>
+<h4><em>1.1 Initial Recovery:</em></h4>
+<p>The operatives found SCP-31081 amidst a celebration that had purportedly been ongoing for approximately two weeks. All involved civilians have been administered Class-A Amnestics, and the items in question were secured without further incident. The owner of the estate, an elderly man identified only as Mikhail, suffered fatal alcohol poisoning prior to containment.</p>
+<h4><em>1.2 Estate Information:</em></h4>
+<p>Research into estate documents and the late owner's personal journals suggests that SCP-31081 has been in the family for generations, possibly since the late 18th century. No previous anomalous activities have been documented, or perhaps were simply not recognized as such. The estate sale that led to its discovery was due to the owner's descendants being unable to agree on the inheritance distribution.</p>
+<h4><em>1.3 Interviews with Locals:</em></h4>
+<p>Several individuals from the local community reported that the glasses and decanter had been used in every significant family event and holiday, rumored to bring good fortune and plentiful joy. There were no indications of SCP-31081's effects being common knowledge outside of Mikhail's family.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4><em>2.1 Experiment Series 31081-A: Testing the Limits of SCP-31081's Anomalous Properties.</em></h4>
+<ul>
+<li>Experiment A1: A controlled amount of standard vodka poured into SCP-31081 decanter and served into one (1) glass. Result: As expected, the glass refilled itself immediately after being emptied. </li>
+<li>Experiment A2: Different alcoholic beverages were attempted. Only vodka maintained the regenerative properties.</li>
+<li>Experiment A3: Non-alcoholic liquids tested resulted in no anomalous behavior.</li>
+<li>Experiment A4: Pouring vodka directly into SCP-31081 glasses without using the decanter halted the anomalous effect. </li>
+</ul>
+<h4><em>2.2 Experiment Series 31081-B: Human Interaction.</em></h4>
+<ul>
+<li>Experiment B1: D-Class personnel instructed to drink from SCP-31081 to satiation. Result: Subject exhibited ordinary signs of inebriation; however, they reported that the resulting hangover was significantly reduced compared to regular alcohol consumption.</li>
+<li>Experiment B2: D-Class personnel with a history of alcohol addiction were allowed to interact with SCP-31081. Result: Though initially showing signs of habitual dependence, subjects reported a gradual decrease in urge to consume alcohol over several testing sessions.</li>
+<li>Experiment B3: Objective was to observe the long-term psychological effects of repeated exposure to SCP-31081. Result: Subjects developed a sense of camaraderie and improved morale with repeated tests. The cessation of the experiment led to mild depression in several subjects.</li>
+</ul>
+<h3>Addendum 3: Incident Report</h3>
+<h4><em>3.1 Unauthorized Consumption:</em></h4>
+<p>On ██/██/20██, Research Assistant ████ ██████ was found to have breached containment procedures of SCP-31081 for personal use during non-operating hours of the Site-███. ██████ managed to consume a dangerous quantity of the anomalous vodka before being discovered by security personnel and taken to the medical wing for detoxification. The employee faced disciplinary actions and a reevaluation of their security clearance.</p>
+<p>The incident has prompted a review of the containment procedures to ensure a stricter control of access to SCP-31081, emphasizing the management of potential addictive behaviors related to its effects.</p>
+
+    </div>
+    
