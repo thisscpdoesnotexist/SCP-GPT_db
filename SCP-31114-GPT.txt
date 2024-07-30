@@ -1,0 +1,44 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31114 is  SCP-001 The Gate Quetzalcoatl </h3> </center>
+
+    <h3>Item #: SCP-31114 - The Quetzalcoatl Gateway</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31114-GPT.png" alt="Illustration of SCP-31114" />
+        
+<h3>Description:</h3>
+<p>SCP-31114 is an anomalous structure located in a concealed subterranean chamber beneath the Temple of Quetzalcoatl in Teotihuacan, Mexico. The structure resembles an archway, standing approximately 7 meters in height and 4 meters in width, carved from a single block of obsidian. Along its surface, intricate carvings depict the Mesoamerican deity, Quetzalcoatl, intertwined with unrecognized esoteric symbols. </p>
+<p>The Gateway possesses the ability to create apertures in space-time leading to alternate realities and dimensions. These passages only open when specific conditions within the carvings are met, such as celestial alignments, ritualistic sacrifices, and the recitation of ancient Mesoamerican chants. The mechanics behind the Gateway's operational principles remain poorly understood, as its properties defy conventional physics and our current understanding of reality.</p>
+<p>SCP-31114 exhibits a sentience that is not fully comprehensible to human researchers. It displays a form of communication through the shifting of its carvings, which form symbols and hieroglyphs from various ancient languages. This has allowed for limited interaction with the SCP's apparent consciousness, though its intent and the extent of its sapience are not yet clear.</p>
+<p>The Gateway has shown both a protective mechanism and a potential for significant destruction. While it has acted to prevent catastrophic events from affecting the Earth – thereby deeming it a Thaumiel class – it has also been known to transport objects, entities, or individuals to locations or realities where their continued existence is uncertain at best.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31114 cannot be moved from its position due to the risk of destabilizing its properties or triggering unintentional trans-dimensional ruptures. Therefore, the chamber housing SCP-31114 has been designated as Site-αVII, which is to simulate the original temple environment to prevent activation anomalies.</p>
+<p>Access is restricted to Level 4 personnel and above, with an on-site team of archeologists, physicists, and linguists rotated bi-monthly to minimize exposure to SCP-31114's memetic properties and to continue research into its operation and communication methods.</p>
+<p>Standard contingency protocols related to extra-dimensional breaches are in effect. Armed response teams are on standby to intercept any entities emerging from the Gateway. In case of an uncontrolled aperture event, Site-αVII is equipped with a nuclear fail-safe to be activated under O5 Command authorization.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-31114 was discovered in 19██ during an unauthorized excavation beneath the Temple of Quetzalcoatl by a group of archaeologists led by Dr. ██████. The Foundation intercepted a transmission that detailed an encounter with "a living portal." SCP-31114 was immediately contained, and the archaeologists were administered Class B amnestics.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 31114-E-001</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Procedure:</strong> Two D-Class personnel instructed to approach SCP-31114 and attempt to communicate using pre-translated Nahuatl phrases.</li>
+<li><strong>Result:</strong> The carvings shifted, displaying pictograms which roughly translated to a warning of impending danger. No aperture was formed.</li>
+</ul>
+<h4>Experiment 31114-E-015</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Procedure:</strong> An offering of traditional Mesoamerican sacrificial artifacts was placed before SCP-31114. A Class D subject, fluent in several ancient Mesoamerican languages, recited an invocation.</li>
+<li><strong>Result:</strong> A small aperture opened, revealing a view of a dense jungle setting, significantly different in flora from any Earth-based ecosystem. The aperture closed after approximately seven minutes. All objects, including the Class D subject, which passed into the aperture, failed to return.</li>
+</ul>
+<h4>Experiment 31114-E-027</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Procedure:</strong> After attuning sensors to SCP-31114's energy emissions, an artificial intelligence was tasked with mimicking its communication patterns.</li>
+<li><strong>Result:</strong> SCP-31114 responded with an unprecedented surge of energy, initiating an aperture that remained open for twelve hours. Satellite imagery later confirmed a negligible but measurable shift in Earth's orbit. The aperture led to an Earth-like reality with notable alterations in historical outcomes. Further exploration of this dimension remains pending approval.</li>
+</ul>
+<h3>Addendum 3: Incident 31114-I-003</h3>
+<p>On ██/██/████, SCP-31114 spontaneously opened an aperture without any observed provocation or interaction. The aperture remained open for 48 minutes, during which an unidentified entity emerged from the Gateway. The entity demonstrated hostile behavior but was contained by onsite security forces after sustaining multiple casualties. Subsequent investigation into the event revealed a potential link between the aperture's opening and an unreported solar flare that corresponded with the event's timing. Future containment procedures were amended to monitor and prepare for coronal mass ejections (CMEs) and other solar phenomena.</p>
+
+    </div>
+    
