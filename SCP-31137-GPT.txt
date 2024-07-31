@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31137 is  an extremely powerful reality warping cat with the intelligence of a perfectly ordinary cat </h3> </center>
+
+    <h3>Item #: SCP-31137 - "Whiskers of Distortion"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31137-GPT.png" alt="Illustration of SCP-31137" />
+        
+<h3>Description:</h3>
+<p>SCP-31137 is an adult domesticated cat (Felis catus) exhibiting a calico coat pattern. SCP-31137 possesses an anomalous ability to induce significant alterations in the reality of its immediate vicinity, which appears to be governed by its whims and basic instincts. Despite extensive testing, there seems to be no limit to the scope or nature of the distortions SCP-31137 can produce, including but not limited to spatial distortions, temporal loops, and matter transmutation.</p>
+<p>The creature's intelligence conforms to baseline metrics for its species, leading to the precarious nature of containment due to its unpredictable and undirected use of reality-warping. SCP-31137's anomalous abilities seem to activate either as a response to routine stimuli experienced by an ordinary cat, such as hunger or boredom, or at random intervals.</p>
+<p>Noteworthily, SCP-31137 shows an attachment to an object resembling a standard domestic cat's toy known as a "crinkle ball." This object, designated SCP-31137-1, does not currently display any anomalous properties of its own, but it may act as a focal point for SCP-31137's reality-warping abilities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31137 is to be housed in a multi-layered containment chamber located at Site-██. The design is adapted from standard zoological habitats suitable for felids, with additional reinforced, reality-stabilizing measures. The outer chamber is to be constructed of SCP reality anchor-reinforced steel, and the inner chamber must be made of a transparent, high-strength polymer to allow for observation.</p>
+<p>To minimize the risk induced by the capricious activation of its reality-warping, SCP-31137 is to be provided with a stimulating environment mirroring high-quality domestic cat care. This includes regular feedings, physical elements for exercise, such as climbing towers, scratching posts, and a wide variety of cat toys to interact with, including multiple duplicates of SCP-31137-1.</p>
+<p>Personnel interaction with SCP-31137 is strictly forbidden outside of scheduled experiments and approved maintenance procedures, to be conducted only while SCP-31137 is under the influence of carefully administered sedatives. Due to the high risk of reality-warping events, all personnel dealing with SCP-31137 must have undergone Cognitive Stability Training, and an emergency response team for reality distortions must be on standby at all times in proximity to SCP-31137's containment chamber.</p>
+<p>In the event of a containment breach, Site-██ is to initiate a full lockdown and personnel are to employ Scranton Reality Anchors to neutralize SCP-31137's effects. Capturing and re-containment procedures will utilize non-lethal means, with a high priority on re-acquiring SCP-31137-1 as a method of coaxing SCP-31137 back into containment.</p>
+<h3>Addendum 1: Incident Log 31137-A</h3>
+<p>On ██/██/20██, SCP-31137 managed to breach containment. The initial breach was caused by a guard accidentally bringing a laser pointer into the containment area. SCP-31137 seemingly became fixated on the point of light from the device and caused a reality-bending event that dismantled the first layer of containment. Following the breach, SCP-31137 created localized reality distortions, including but not limited to:</p>
+<ul>
+<li>A hallway that temporally looped for three hours.</li>
+<li>An open field with an artificial sun overhead, within a staff meeting room.</li>
+<li>A gravity inversion in the East Wing of Site-██.</li>
+</ul>
+<p>Recontainment was achieved after one of the research assistants recovered SCP-31137-1 and used it to lure SCP-31137 back to its containment chamber. Necessary revisions to containment procedures include restrictions on any items that may engage SCP-31137's predatory instincts.</p>
+<h3>Addendum 2: Experiment Log 31137</h3>
+<p><strong>Experiment 31137-E14</strong></p>
+<ul>
+<li><strong>Objective:</strong> To test the limits of reality distortion in response to standard stimuli.</li>
+<li><strong>Procedure:</strong> D-9382 was instructed to engage in standard play with SCP-31137 using a duplicate of SCP-31137-1, under controlled and heavily monitored conditions.</li>
+<li><strong>Result:</strong> Reality within the testing chamber appeared to become malleable, reportedly feeling similar to "soft clay," according to D-9382. The chamber experienced minor spatial fluctuations for approximately 25 minutes.</li>
+<li><strong>Notes:</strong> Experiment was terminated early. Despite the unstable environment, D-9382 was unharmed but reported severe disorientation for several hours post-exposure.</li>
+</ul>
+<p><strong>Experiment 31137-E28</strong></p>
+<ul>
+<li><strong>Objective:</strong> To determine the impact of emotional states on SCP-31137's reality-warping abilities.</li>
+<li><strong>Procedure:</strong> SCP-31137 was exposed to a series of emotive stimuli ranging from soothing music, to presenting it with empty food dishes.</li>
+<li><strong>Result:</strong> Emotional distress, especially due to hunger, greatly amplified the intensity of SCP-31137's reality alterations, resulting in an uncontrolled expansion and contraction of the testing chamber. The soothing music seemed to pacify SCP-31137 temporarily, reducing the scale of reality distortion.</li>
+<li><strong>Notes:</strong> Schedules of feeding and environmental stimulation have been adjusted to minimize the risk of distress-induced reality warping.</li>
+</ul>
+<h3>Addendum 3: Recovery Log 31137</h3>
+<p>SCP-31137 was first recovered from the small town of ██████, after reports of bizarre phenomena including houses turning into gingerbread, dogs singing in chorus, and the night sky replaced with what witnesses described as 'a vast and endless sea.' Foundation personnel were dispatched after local law enforcement reported the disturbances following numerous distressed calls from the residents. SCP-31137 was found inside SCP-31137-1 projected gingerbread house, seemingly content and unaffected by the chaos around it. After a minor localized reality disturbance during the recovery, SCP-31137 has since remained in Foundation custody.</p>
+<p>SCP-31137’s continued containment is essential, not only to prevent large-scale reality disruption but also to study the underlying principles of its unique abilities. Efforts to establish safe and reliable interaction protocols are ongoing, with hopes of reducing the inherent unpredictability and danger posed by SCP-31137's presence.</p>
+
+    </div>
+    
