@@ -1,0 +1,34 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31144 is  the world's deadliest capybara. It's not even trying to be deadly, it just kinda is. </h3> </center>
+
+    <h3>Item #: SCP-31144 - "The Grim Rodent"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31144-GPT.png" alt="Illustration of SCP-31144" />
+        
+<h3>Description:</h3>
+<p>SCP-31144 appears to be an adult capybara (Hydrochoerus hydrochaeris) measuring about 1.2 meters in length and weighing approximately 55 kilograms. Superficially, it resembles a non-anomalous member of its species; however, SCP-31144 possesses several remarkable and lethal properties that distinguish it from an ordinary capybara.</p>
+<p>SCP-31144's anomalous effects appear to stem from an invisible field of influence with a radius of exactly 12.8 meters. Within this area, commonly known as the "Zone of Calamity," electronic devices malfunction in inexplicable ways, and any living organism (aside from SCP-31144 itself) eventually meets an accidental and often bizarre demise. The death toll includes not only humans but also animals, insects, and even plants; however, SCP-31144 itself exhibits no aggressive behaviors and appears entirely uninterested in its lethal effects on its surroundings.</p>
+<p>Despite SCP-31144's benign disposition, all recorded incidents within the Zone of Calamity have resulted in casualties. Notable examples include spontaneous combustion, sudden gravitational anomalies causing immediate lethal acceleration in a downward vector, apparent localized time dilation resulting in rapid aging, and aggressive cellular necrosis in living organisms. These anomalous occurrences do not conform to any known patterns and are seemingly random.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the unpredictable and highly lethal nature of its anomalous properties, SCP-31144 must be contained in a specially constructed outdoor habitat located at Site-███. The habitat is a circular containment area with a 30-meter radius, surrounded by a triple-layered, non-conductive fence with live surveillance both inside and outside the containment area.</p>
+<p>Personnel are forbidden from entering SCP-31144's Zone of Calamity under any circumstances, and any human interaction must be conducted via remote-controlled drones. Botanical life within the containment area must be strictly controlled and monitored; any plants showing signs of SCP-31144's influence should be immediately incinerated via remote means.</p>
+<p>As SCP-31144's Zone of Calamity interferes with electronics, the use of older, purely mechanical devices for maintenance or observation within the containment zone is recommended. In the event of a containment breach, on-site personnel are to evacuate and secure a perimeter of 20 meters beyond the estimated Zone of Calamity while awaiting the arrival of Mobile Task Force Nu-7 ("Hammer Down") to re-establish containment.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-31144 was first discovered in ██████, Brazil, after reports of a "cursed" capybara causing numerous and odd fatalities in a small riverside community. An initial Foundation field team was sent to investigate and experienced casualties due to underestimating SCP-31144's anomalous effects. Following the unfortunate incident, a classified special operative (agent codename "Calypso") was dispatched and successfully managed to sedate and contain SCP-31144 with specialized equipment.</p>
+<h3>Addendum 2: Experimental Logs</h3>
+<h4>Experiment Log 31144-A1</h4>
+<p><strong>Procedure:</strong> A remote-operated drone was used to approach SCP-31144, carrying various non-organic materials to test the Zone of Calamity's effect on inanimate objects.</p>
+<p><strong>Results:</strong> The Zone of Calamity seems to exclusively affect living organisms. Non-organic materials were unaffected.</p>
+<h4>Experiment Log 31144-A2</h4>
+<p><strong>Purpose:</strong> To ascertain SCP-31144's effect on plant life.</p>
+<p><strong>Procedure:</strong> A potted plant (Ficus benjamina) was introduced into the containment area via mechanical arm.</p>
+<p><strong>Results:</strong> Within three hours, the plant had withered and died, exhibiting signs of rapid necrosis.</p>
+<h3>Addendum 3: Incident Report 31144-I1</h3>
+<p>A containment breach occurred on ██/██/20██ when a rookie technician inadvertently stepped within the Zone of Calamity, causing significant site lockdown and emergency response. The technician suffered multiple bone fractures due to a localized high gravity event followed by an inexplicable reversal, resulting in a fatal fall from three meters above the ground. SCP-31144 was observed casually grazing nearby, seemingly unaware of the event. Following this incident, containment protocols for SCP-31144 were updated and reinforced to prevent similar occurrences. </p>
+<h3>Addendum 4: Researcher Notes</h3>
+<p><em>Researcher Dr. ████</em>: We still don't fully understand SCP-31144's anomalous effects, or how it remains unharmed and apathetic while chaos unfurls around it. Its cooperative demeanor during containment and transferal is perplexing, as if it's completely oblivious to its lethal capabilities or, worse, indifferent to them. Further research is necessary to ascertain if there's any controlling mechanism behind these events or if they are purely random occurrences influenced by SCP-31144's presence. Efforts to communicate with SCP-31144 or interfere with its anomalous properties have thus far been fruitless. Proceed with utmost caution.</p>
+
+    </div>
+    
