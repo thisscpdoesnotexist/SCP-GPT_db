@@ -1,0 +1,61 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31143 is  the world's deadliest capybara </h3> </center>
+
+    <h3>Item #: SCP-31143 - "The Lurking Rodent"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31143-GPT.png" alt="Illustration of SCP-31143" />
+        
+<h3>Description:</h3>
+<p>SCP-31143 is an anomalous mammal resembling a Hydrochoerus hydrochaeris (capybara). However, it significantly deviates from any known capybara behavior and physiology. Standard adult capybaras average 1.2 meters in length and 35 to 66 kilograms in weight. SCP-31143, on the other hand, measures approximately 2 meters in length and weighs an estimated 150 kilograms.</p>
+<p>The entity exhibits extreme aggression, cunning intelligence, and predatory behaviors uncharacteristic of its non-anomalous counterparts. SCP-31143 has an ability to manipulate local wildlife, primarily predatory species, which act in concert with it during hunting or defensive actions. SCP-31143 is regarded as lethal due to its speed, strength, and a unique capability to emit high-frequency pulses that induce a state of paralysis in its victims for periods ranging up to ten minutes.</p>
+<p>SCP-31143 was first encountered in █████, Brazil, after a series of unexplained disappearances and animal mutilations in the nearby area. Local folklore referred to a "shadow" in the water that would snatch creatures and individuals alike. Investigation led to the identification and subsequent classification of SCP-31143.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-31143's high mobility and ability to evade capture, it is currently uncontained. Efforts to develop an effective containment strategy are ongoing. Interim containment procedures are as follows:</p>
+<ol>
+<li>
+<p>A perimeter must be established two kilometers out from the last known location of SCP-31143. This is to be monitored by satellite surveillance, motion sensors, and heat signature tracking.</p>
+</li>
+<li>
+<p>MTF Lambda-12 ("Pest Control") is to be deployed for onsite containment and recovery efforts. Team members are equipped with specialized sound-dampening suits and tranquilizer rounds designed to counteract SCP-31143's abilities.</p>
+</li>
+<li>
+<p>Civilians reporting sightings or encounters with SCP-31143 are to be administered Class-B amnestics.</p>
+</li>
+<li>
+<p>Research is ongoing to develop a biological deterrent or trap that will effectively incapacitate SCP-31143 without incurring excessive collateral damage to the ecosystem.</p>
+</li>
+</ol>
+<h3>Addendum 1: Incident Log-31143-A</h3>
+<h4>Date: ██/██/████</h4>
+<ul>
+<li>Incident: First recorded attack attributed to SCP-31143. Three local fishermen were reported missing; their boat was found capsized, with large bite marks not consistent with any known aquatic fauna. Localized paralysis in aquatic life was noted, suggesting the presence of SCP-31143.</li>
+<li>Action Taken: Mobile Task Force Lambda-12 dispatched for initial assessment. Area was quarantined under the guise of a toxic spill.</li>
+</ul>
+<h3>Addendum 2: Experiment Log-31143</h3>
+<h4>Experiment 31143-E1</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/████</li>
+<li><strong>Procedure</strong>: Deployment of tracking devices attached to live bait (pigs) in effort to tag and monitor SCP-31143's movements.</li>
+<li><strong>Results</strong>: SCP-31143 appeared and consumed bait; however, immediately identified and destroyed tracking devices. Note increased adaptability and problem-solving behavior.</li>
+</ul>
+<h4>Experiment 31143-E2</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/████</li>
+<li><strong>Procedure</strong>: Attempt at neutralizing SCP-31143's paralysis capability through use of high-decibel sound waves.</li>
+<li><strong>Results</strong>: SCP-31143 temporarily disoriented; however, it quickly adapted and destroyed the source of the sound waves. Minor injury to one MTF agent reported.</li>
+</ul>
+<h4>Experiment 31143-E3</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/████</li>
+<li><strong>Procedure</strong>: Testing of a chemical tranquilizer specifically designed to counteract SCP-31143's metabolism.</li>
+<li><strong>Results</strong>: Chemical was partially successful; SCP-31143's movements slowed, but it managed to escape into a river system. Increased aggression noted following recovery from tranquilizer. Adjustments to the chemical compound are in progress.</li>
+</ul>
+<h3>Addendum 3: Recovery Efforts Update</h3>
+<p>As of the latest breach, SCP-31143 has eluded all attempts at containment. The entity has demonstrated the capability to evade state-of-the-art tracking methods, displaying intelligence that surpasses initial estimations. Civilian casualties are to be minimized, and disinformation campaigns are to be employed extensively to mask the true nature of SCP-31143 from the public.</p>
+<p>Should SCP-31143 be successfully contained, the following revisions are to be made to containment procedures: Hospice care and prevention of domestic animal access to SCP-31143's containment area, soundproofing of the containment chamber, and preparation of a specialized task force to manage daily maintenance and feeding under heavy sedation protocols. </p>
+<p>Continued efforts are demanded to develop a reliable method of containment as SCP-31143 remains a significant threat to both human and animal life in the affected regions, and potentially beyond should it continue to elude Foundation grasp.</p>
+
+    </div>
+    
