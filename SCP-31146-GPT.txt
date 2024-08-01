@@ -1,0 +1,56 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31146 is  a hot goth girl. Like, literally hot though. The amount of heat she constantly emits can melt just about anything shy of tungsten </h3> </center>
+
+    <h3>Item #: SCP-31146 - The Scorching Siren</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31146-GPT.png" alt="Illustration of SCP-31146" />
+        
+<h3>Description:</h3>
+<p>SCP-31146 appears to be a young adult female of indeterminate ethnicity, with an aesthetic consistent with that of "goth" subculture. The subject is approximately 1.70 meters in height and appears to be in her early to mid-20s. SCP-31146's anomalous properties manifest in the form of extreme thermogenesis; her body consistently emits extreme heat, averaging 3500°C, a temperature high enough to melt most known materials.</p>
+<p>Notably, SCP-31146 does not appear to suffer any ill effects from her own thermogenic properties. Her body, as well as any goth-styled clothing she wears, remains unharmed by the intense heat. The radius of thermal influence extends from the surface of her skin, outwards up to approximately 1 meter. Objects and entities that enter this proximity are subjected to the risk of combustion or extreme heat damage.</p>
+<p>Further observation has revealed that SCP-31146 possesses limited control over her thermogenic output. Periods of emotional stress have been noted to increase thermal output, whereas a placid or content state correlates with marginally reduced temperatures. The full extent of SCP-31146's control over her abilities remains undetermined at this time.</p>
+<p>It must be noted that SCP-31146 is capable of speech and demonstrates a level of intelligence consistent with that of a normal human being. She has expressed distress over the damaging effects of her condition on her surroundings and is compliant with Foundation personnel. Procedures to improve containment living conditions and facilitate communication are ongoing.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31146 is to be contained in a modified humanoid containment chamber constructed with tungsten carbide walls reinforced with heat-resistant materials capable of withstanding her thermal emissions. The containment chamber requires a steady coolant system that encompasses the exterior and interior walls to mitigate the risk of structural integrity loss and to support comfortable living conditions for SCP-31146.</p>
+<p>Direct physical contact with SCP-31146 is strictly forbidden. Any interactions with the subject must be conducted via thermal-resistant drones or through a specialized intercom system.</p>
+<p>Researchers and staff assigned to SCP-31146 must wear heat-resistant suits when entering her containment chamber to conduct experiments or maintenance. These suits are to be inspected for integrity breaches before and after each entry. A rapid-response team equipped for high-temperature hazards is to be on standby during any internal containment operations.</p>
+<p>Nutritional provisions for SCP-31146 are to be delivered through a heat-resistant chute, and staff are instructed to accommodate her dietary preferences when possible to maintain her cooperation.</p>
+<p>Psychological counseling is to be provided to SCP-31146 via video calls, with a trained Foundation psychiatrist specializing in anomalous humanoids.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<ol>
+<li>
+<p><strong>Experiment 31146-E-01</strong></p>
+<p><strong>Objective:</strong> To test the limits of SCP-31146's heat emission.</p>
+<p><strong>Procedure:</strong> SCP-31146 was requested to concentrate and intensify her thermogenic output while sensors measured the temperature variations.</p>
+<p><strong>Results:</strong> SCP-31146 was able to raise her emission levels to approximately 3700°C for a short duration, at which point she reported feeling light-headed. The temperature quickly dropped back to her average.</p>
+</li>
+<li>
+<p><strong>Experiment 31146-E-02</strong></p>
+<p><strong>Objective:</strong> To observe the effects of emotional stimulation on SCP-31146's thermogenic output.</p>
+<p><strong>Procedure:</strong> SCP-31146 was exposed to a series of images and audio recordings designed to elicit various emotional responses.</p>
+<p><strong>Results:</strong> Emotional stimuli corresponding to stress, anger, or fear resulted in measurable spikes in thermal output, whereas positive emotions such as joy or amusement correlated with minor decreases in heat emission.</p>
+</li>
+</ol>
+<h3>Addendum 2: Incident Report 31146-I-01</h3>
+<p>On ██/██/████, during a routine inspection, a malfunction in the coolant system of SCP-31146's containment chamber resulted in a rapid increase in ambient temperature. SCP-31146 became highly distressed, inadvertently elevating her thermal output and causing a small fire within the containment unit.</p>
+<p>Containment staff responded promptly, donning thermal suits and extinguishing the blaze using specialized retardants. No casualties were reported, and SCP-31146 was unharmed. She thanked the response team for their quick actions, reiterating her reluctance to cause harm.</p>
+<p>Following the incident, site engineers implemented redundant safety measures for the coolant system to prevent similar occurrences in the future.</p>
+<h3>Addendum 3: Interview Log 31146-I-02</h3>
+<p><strong>Interviewer:</strong> Dr. L█████</p>
+<p><strong>Subject:</strong> SCP-31146</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. L█████:</strong> How are you feeling today?</p>
+<p><strong>SCP-31146:</strong> As well as I can, I suppose. It's difficult, you know, being like this.</p>
+<p><strong>Dr. L█████:</strong> Yes, your situation is quite unique. Your cooperation with our research is appreciated. We've noted you can control your temperature to some degree. Can you describe how that feels?</p>
+<p><strong>SCP-31146:</strong> It's like trying to hold my breath, or flexing a muscle very hard. I can't do it for too long, or else I start to feel weak.</p>
+<p><strong>Dr. L█████:</strong> Fascinating. And your emotional state?</p>
+<p><strong>SCP-31146:</strong> Yeah... I've noticed that, too. When I'm upset, it just flares up. I'm really sorry about the fire.</p>
+<p><strong>Dr. L█████:</strong> It's alright; you were in distress. We're working on improvements to your containment to make you more comfortable.</p>
+<p><strong>SCP-31146:</strong> Thanks, Doctor. I do appreciate it, honestly.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Closing Notes:</strong> SCP-31146 has shown a cooperative attitude towards research staff and appears to experience human emotions. Approaches to better understand and possibly assist SCP-31146 in controlling her abilities are underway. Therapy sessions have also been suggested to aid in controlling her emotional responses to potentially decrease unintended thermogenic spikes.</p>
+
+    </div>
+    
