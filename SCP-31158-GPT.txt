@@ -1,0 +1,44 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31158 is  Belle Delphine's bat [sic] water??? </h3> </center>
+
+    <h3>Item #: SCP-31158 - "Elixir of Obsession"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31158-GPT.png" alt="Illustration of SCP-31158" />
+        
+<h3>Description:</h3>
+<p>SCP-31158 is a substance contained within a series of 500mL transparent bottles, each labeled as "Belle Delphine's Bath Water." Chemical analysis shows the liquid to be mostly consistent with typical bathwater - largely composed of tap water with traces of soap, human skin cells, and various cosmetic products. However, SCP-31158 possesses anomalous properties that are not accounted for by its chemical composition.</p>
+<p>Subjects exposed to the substance experience a marked increase in obsessive behavior directed towards the individual, 'Belle Delphine', from whom SCP-31158 is purportedly sourced. Prolonged exposure or ingestion leads to a severe deterioration in social functioning, with affected individuals (henceforth referred to as SCP-31158-1) often compelled to seek out further instances of SCP-31158 or any related memorabilia.</p>
+<p>SCP-31158's anomalous effects do not appear to be transmittable through secondary contact with SCP-31158-1. The range of the compulsion effect is currently determined to be within a 1.5-meter radius from the container or from the SCP-31158-1 instance.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31158 is to be stored in a secure, climate-controlled containment locker at Site-██. All experimentation involving SCP-31158 must be pre-approved and conducted under strict psychological supervision, with researchers interacting with SCP-31158 no more than once per week to avoid succumbing to its effects.</p>
+<p>Any instances of SCP-31158-1 are to be detained and held in standard humanoid containment cells until such time as a cure or method of ameliorating the obsession can be found. Psychological evaluation and therapy sessions are to be provided for affected individuals, with a particular emphasis on cognitive-behavioral techniques.</p>
+<p>All personnel assigned to SCP-31158 are required to undergo a thorough background check to ensure they have no prior knowledge of or exposure to 'Belle Delphine' or the surrounding internet subculture.</p>
+<p>In the event of a containment breach, affected individuals are to be quarantined and treated with Class-A amnestics as a first line of action. Online monitoring teams are to suppress any public sale or distribution of SCP-31158, removing any content related to SCP-31158 from the internet under the guise of a copyright violation.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-31158 was initially brought to the Foundation’s attention after reports of a series of hospitalizations due to water toxicity. These individuals were found to be SCP-31158-1. Investigations led to the confiscation of SCP-31158 from the residence of an internet celebrity known as 'Belle Delphine.’ Due to the public nature of the case, misinformation campaigns were employed to discredit the legitimacy of SCP-31158's existence and reduce the risk of obsessive behavior in the broader public.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 31158-E1:</h4>
+<p><strong>Subject</strong>: D-84329, a male with no prior knowledge of 'Belle Delphine.'
+<strong>Procedure</strong>: D-84329 was instructed to drink 250ml of SCP-31158.
+<strong>Results</strong>: Subject began to exhibit mild signs of obsession, including increased internet searches for 'Belle Delphine' and reluctance to discard the container.
+<strong>Notes</strong>: Shows initial compulsion effect even with limited personal context.</p>
+<h4>Experiment 31158-E2:</h4>
+<p><strong>Subject</strong>: D-45102, a female who was aware of 'Belle Delphine,' but not a follower.
+<strong>Procedure</strong>: D-45102 was instructed to apply a small quantity of SCP-31158 to her skin.
+<strong>Results</strong>: Within hours, D-45102 exhibited heightened obsession, creating fan art and attempting to communicate with 'Belle Delphine' online.
+<strong>Notes</strong>: Transdermal contact confirms the compulsion is not limited to ingestion. </p>
+<h4>Experiment 31158-E3:</h4>
+<p><strong>Subject</strong>: D-99471, a male who identified as a 'Belle Delphine' fan.
+<strong>Procedure</strong>: D-99471 was placed in a room with SCP-31158, but given instructions to interact with it only if desired.
+<strong>Results</strong>: D-99471 became agitated when denied access to SCP-31158 after observing it for several minutes. When finally allowed to interact with it, he immediately ingested all contents and exhibited severe obsessive symptoms. He became non-compliant and aggressive when attempts were made to remove him from the containment room.
+<strong>Notes</strong>: Preexisting conditions exacerbate the compulsive effects of SCP-31158. Security protocols for affected individuals need revision.</p>
+<h3>Addendum 3: Psychological Profile Update</h3>
+<p>Extended observation has indicated that the effects of SCP-31158 may have a lasting impact on subjects' mental health. Attempts at deprogramming have met with mixed success. Research into long-term treatment plans is ongoing.</p>
+<h3>Addendum 4: Breach Incident 31158-09</h3>
+<p>On ██/██/202█, a facility breach resulted in the temporary loss of one (1) vial of SCP-31158. Surveillance footage showed an assistant researcher, later designated SCP-31158-1A, purposefully breaking containment after showing signs of obsession. SCP-31158-1A used social media platforms to advocate for the substance's use as a "cure-all" elixir, leading to multiple civilian exposures before being apprehended. A cover-up operation was successfully executed, attributing the social media postings to a viral marketing stunt.</p>
+<p>The incident has prompted a re-evaluation of the psychological screening process for research staff and necessitated the reclassification of SCP-31158 to a more secure containment protocol.</p>
+
+    </div>
+    
