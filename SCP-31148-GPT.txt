@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31148 is  a colony of elderly retired catgirls living in rural Japan </h3> </center>
+
+    <h3>Item #: SCP-31148 - "The Feline Elders"</h3>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-31148 refers to a small, isolated settlement located in rural Japan, populated by a colony of sapient entities resembling elderly human females with feline characteristics (hereafter referred to as SCP-31148-1 instances). These characteristics include, but are not limited to, cat-like ears, tails, and eyes. The entities retain a humanoid posture and possess the ability to speak and understand Japanese, as well as rudimentary English. Each instance of SCP-31148-1 exhibits physical signs of advanced age, such as grayed or white hair, and age-related ailments such as arthritis.</p>
+<p>SCP-31148-1 instances display behavior typical of retired life, including but not limited to: tending to gardens, engaging in traditional crafts, and reminiscing over past experiences, which often include allusions to time periods extending back centuries, suggesting potential longevity beyond typical human limits. The entities coexist peacefully and maintain a close-knit community, exhibiting no hostile actions towards outsiders unless provoked.</p>
+<p>Despite their feline traits, SCP-31148-1 instances require sustenance similar to that of normal elderly humans and exhibit no enhanced senses or abilities beyond those typical of domestic cats, such as heightened agility or night vision. The origins of SCP-31148-1 instances are currently unknown, with the entities themselves providing conflicting and often fantastical accounts of their pasts.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31148 is contained by its relative remoteness and the disinterest of SCP-31148-1 instances in leaving their settlement. A Foundation-operated perimeter has been established around SCP-31148, marked with signage to discourage civilian access under the guise of a nature preserve. Foundation personnel disguised as park rangers are to patrol the perimeter to ensure no unauthorized entry or exit occurs.</p>
+<p>A small research and observation outpost has been established within visual range of SCP-31148 to facilitate study of SCP-31148-1 behavior and to maintain minimal interaction with the entities. Personnel are advised to approach SCP-31148-1 instances with respect and in a non-threatening manner. All personnel must undergo a cultural sensitivity training program with an emphasis on Japanese customs and etiquette before assignment to the outpost.</p>
+<p>Having established a rapport with the SCP-31148-1 population through non-invasive means, the Foundation has been granted permission to conduct interviews and limited examinations of the entities, with the stipulation that the community's peace is not disturbed. Any exchange of goods or services with SCP-31148-1 instances must first be approved by Site Director Kurosawa to prevent the introduction of potentially disruptive elements.</p>
+<h3>Addendum 1:</h3>
+<h4>Addendum 1-A: Discovery</h4>
+<p>SCP-31148 was initially discovered after reports of “strange sightings” in the area reached local media. The Foundation intervened after an amateur photographer took pictures of SCP-31148-1 individuals which began circulating on social media. Amnestics were administered as necessary, and a cover story was established attributing the sightings to an avant-garde art project by a reclusive local artist. The photographer's pictures have been recovered and secured by the Foundation.</p>
+<h4>Addendum 1-B: Community Dynamics</h4>
+<p>SCP-31148-1 instances appear to follow a structure loosely based on traditional Japanese social organization, with elder members being given deference in matters of decision-making. There appears to be a council of the eldest SCP-31148-1 instances that convenes to discuss community issues, though the extent or nature of their governance system is still under study.</p>
+<h4>Addendum 1-C: Anomalous Properties</h4>
+<p>Though SCP-31148 is classified as Safe, mild anomalous properties have been observed. SCP-31148-1 entities have demonstrated an ability to communicate with local fauna, primarily felids, in a manner that suggests a form of telepathic link. This connection appears to be benign and is primarily utilized for the purposes of companionship.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 31148-E1:</h4>
+<p><strong>Objective:</strong> To establish the nature of SCP-31148-1's ability to communicate with felines.</p>
+<p><strong>Procedure:</strong> A domestic cat was introduced to the SCP-31148 community under controlled conditions.</p>
+<p><strong>Results:</strong> SCP-31148-1 instances exhibited immediate and mutual recognition with the cat, engaging in one-sided conversation. The instance known as SCP-31148-1-A, presumed to be one of the eldest, spoke to the cat regarding the weather and its state of health. The cat displayed relaxed behavior typically associated with content domestic cats, settling in SCP-31148-1-A's lap.</p>
+<p><strong>Analysis:</strong> Communication with non-anomalous felids is confirmed. Mechanism remains unknown. The relationship appears to be beneficial for both parties.</p>
+<h4>Experiment 31148-E2:</h4>
+<p><strong>Objective:</strong> To explore the limits of SCP-31148-1's longevity and historical knowledge.</p>
+<p><strong>Procedure:</strong> An interview was conducted with several SCP-31148-1 instances, with questions designed to reveal consistent historical detail.</p>
+<p><strong>Results:</strong> SCP-31148-1 instances provided extensive accounts of past events, some aligning with known historical records, while others were either unverifiable or fantastical (e.g. battles with yokai). The oldest instance, SCP-31148-1-C, claimed to remember events from the Edo period with vivid detail.</p>
+<p><strong>Analysis:</strong> While oral histories provided by SCP-31148-1 instances are intriguing, without physical evidence, they cannot be deemed reliable for historical accuracy. Longevity is likely, though further evidence is required.</p>
+<h3>Addendum 3: Incident 31148-I1</h3>
+<h4>Incident 31148-I1-A: Unauthorized Entry</h4>
+<p>On [REDACTED], a local teenager inadvertently bypassed Foundation security and entered SCP-31148. SCP-31148-1 instances reacted with alarm but did not harm the intruder. Foundation personnel quickly apprehended the individual before exposure to sensitive information occurred.</p>
+<h4>Incident 31148-I1-B: Response Protocol Revision</h4>
+<p>Following Incident 31148-I1, security protocols have been revised to include additional electronic surveillance and motion detectors at the perimeter of SCP-31148. Personnel found at fault for the lapse in security have been reprimanded and subjected to retraining.</p>
+<p>The teenager was administered a Class-B amnestic and released with a cover story of having gotten lost during a hiking trip. Ongoing monitoring of the individual has been implemented to ensure no recollection of SCP-31148 surfaces.</p>
+
+    </div>
+    
