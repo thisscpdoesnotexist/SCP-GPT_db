@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31147 is  a self-identified yuki-onna with an internal body temperature of 0 degrees kelvin </h3> </center>
+
+    <h3>Item #: SCP-31147 - "The Frigid Muse"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31147-GPT.png" alt="Illustration of SCP-31147" />
+        
+<h3>Description:</h3>
+<p>SCP-31147 appears to be an adult female of East Asian descent, possessing physical characteristics commonly associated with the yuki-onna, a spirit from Japanese folklore. The entity has pale, almost translucent skin, long black hair, and blue lips, often wearing a white kimono interwoven with patterns suggestive of snowflakes and frost.</p>
+<p>SCP-31147 exhibits an anomalous thermodynamic condition; its internal body temperature is exactly 0 K, defying the Third Law of Thermodynamics. Standard physics dictates that this should be impossible, as reaching absolute zero is theoretically unachievable. However, SCP-31147 seems to maintain biological functions and consciousness without any apparent need for cellular metabolism.</p>
+<p>SCP-31147 is capable of creating and manipulating ice and snow within an undetermined range and has shown ability to induce hypothermia or instant freezing upon contact with living organisms and matter. Despite its dangerous capabilities, SCP-31147 claims no intention of causing harm and has complied with most containment protocols.</p>
+<p>Communication with SCP-31147 has revealed that it possesses a vast knowledge of various literary works, particularly Japanese poetry, often citing them in a serene voice. SCP-31147 has also demonstrated the ability to enact minor weather phenomena, typically limited to snowfall within its immediate vicinity.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31147 is to be contained in a modified humanoid containment chamber, maintained at a constant temperature of -5°C. The chamber is to be fitted with a humidity control system to prevent the formation of ice, which could facilitate SCP-31147’s anomalous effects.</p>
+<p>Personnel interacting with SCP-31147 must wear cold-insulated hazmat suits to prevent accidental freezing or hypothermia. Communication with SCP-31147 is allowed under controlled conditions and must be approved by at least two Level 4 personnel.</p>
+<p>SCP-31147 has not made any attempts to breach containment, but as a precaution, the chamber is sealed with thermally reinforced steel doors. Chamber walls are insulated and embedded with heating coils capable of rapid temperature increase should a containment breach seem imminent.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-31147 was discovered in a rural village in Hokkaido, Japan, after reports of a "frozen specter" that roamed during snowstorms, leaving a trail of ice sculptures that were once local wildlife. The Foundation dispatched a Mobile Task Force to the location. SCP-31147 was located and contained with minimal confrontation.</p>
+<p>Upon containment, SCP-31147 identified itself in the traditional Japanese dialect and willingly entered Foundation custody, expressing relief at being "understood and not feared".</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment A:</h4>
+<p><strong>Purpose</strong>: To ascertain the limits of SCP-31147's ability to manipulate cold and ice.</p>
+<p><strong>Procedure</strong>: SCP-31147 was provided with 1 liter of water at room temperature and asked to convert it into ice without touching it.</p>
+<p><strong>Results</strong>: SCP-31147 hummed a traditional Ainu song, and the water froze in 3.2 seconds, forming intricate patterns akin to snowflakes.</p>
+<h4>Experiment B:</h4>
+<p><strong>Purpose</strong>: To test the effects of SCP-31147's touch on living organisms.</p>
+<p><strong>Procedure</strong>: SCP-31147 was instructed to touch a plant leaf.</p>
+<p><strong>Results</strong>: Upon contact, the leaf instantly underwent frost formation and shattered upon falling to the ground.</p>
+<h4>Experiment C:</h4>
+<p><strong>Purpose</strong>: To explore SCP-31147's ability to affect atmospheric conditions within its containment.</p>
+<p><strong>Procedure</strong>: SCP-31147 was asked to precipitate snow within its chamber.</p>
+<p><strong>Results</strong>: SCP-31147 performed a short dance reminiscent of a traditional miko (shrine maiden) ritual, resulting in a localized snowfall confined to the chamber for approximately 10 minutes.</p>
+<h3>Addendum 3: Incident Report</h3>
+<p>SCP-31147 expressed loneliness and requested items for intellectual stimulation. The Foundation provided SCP-31147 with a selection of Japanese poetry and literary texts. SCP-31147 showed particular interest in the works of Matsuo Basho. However, during one reading session, SCP-31147 became emotionally distressed, which resulted in an uncontrolled cooling of its chamber, dropping the temperature to -20°C within minutes. Emergency heating protocols were initiated to counteract the effect.</p>
+<p>Following this incident, SCP-31147 has been more cautious with its displays of emotion, and personnel are advised to monitor SCP-31147's psychological state to prevent further occurrences.</p>
+<h3>Addendum 4: Containment Update</h3>
+<p>Due to SCP-31147's cooperative behavior and no recorded attempts to breach containment, containment procedures have been adjusted. SCP-31147 is now permitted supervised movement within a secured wing of the facility for limited durations, as exposure to different environments has shown to positively affect SCP-31147's mental well-being.</p>
+<p>Regular psychological evaluations are required to ensure that SCP-31147's emotional state remains stable. Any deviations are to be reported immediately to the assigned containment specialist, Dr. Hiroko Takahashi.</p>
+
+    </div>
+    
