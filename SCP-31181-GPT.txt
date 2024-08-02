@@ -1,0 +1,49 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31181 is  A SCP-2747 in YouTube  </h3> </center>
+
+    <h3>Item #: SCP-31181 - The Viral Vortex</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31181-GPT.png" alt="Illustration of SCP-31181" />
+        
+<h3>Description:</h3>
+<p>SCP-31181 refers to an anomalous phenomenon that appears as a seemingly normal video when uploaded to the video-sharing website YouTube. The title, thumbnail, and content of SCP-31181 diverse greatly with each iteration, with no discernible pattern or recurring theme. SCP-31181's anomalous effects manifest when a user views the video in its entirety. Viewers report increasing feelings of unease and disorientation immediately after watching. Within 24 hours, affected individuals (henceforth referred to as SCP-31181-A) begin to display obsessive behaviors related to the content of SCP-31181's current iteration.</p>
+<p>Aside from psychological effects, SCP-31181-A subjects start to exhibit reality-altering abilities centered around the theme of the watched SCP-31181 iteration, often resulting in severe spatial and temporal distortions. These disturbances have proven capable of causing significant loss of life and property, thereby posing a major threat to global normalcy preservation. The radius and intensity of these disturbances appear to correlate with the number of views SCP-31181 accumulates.</p>
+<p>Possibly the most concerning aspect of SCP-31181 is its adaptive resistance to containment. Past efforts to delete the video or suspend the hosting account have met with failure, as it invariably reappeared on a different channel, with different content and a greater resistance to containment strategies previously employed.</p>
+<h3>Special Containment Procedures:</h3>
+<p>A dedicated task force, codenamed "Netrunners," is responsible for monitoring YouTube for the appearance of SCP-31181 instances. Once identified, all links to the video are to be immediately removed and internet service providers (ISPs) must be persuaded to block access to the SCP-31181's URL using a cover story about a dangerous software vulnerability.</p>
+<p>Affected subjects, SCP-31181-A, are to be detained and administered Class-A amnestics. If reality-altering effects have taken place, Mobile Task Force Mu-13 ("Ghostbusters") is to be dispatched for reality reconstruction and prevention of information leaks under the guise of a natural disaster or terrorist attack.</p>
+<p>A disinformation campaign is ongoing to discredit any leaks related to SCP-31181. This includes the distribution of fake SCP-31181 videos designed to muddy the waters, conducted via Foundation-controlled web presences.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-31181 was first discovered when a localized time anomaly was reported in [REDACTED], Norway, on ██/██/20██. Investigations led back to a local teenager who had reportedly watched a video that compelled her to 'seek the secrets of the void.' Subsequent effects included the reversal of local time by four hours, witnessed by the surrounding population.</p>
+<h3>Addendum 2: Notable Instance Logs</h3>
+<h4>Addendum 2.1: Incident Report 31181-07</h4>
+<p>On ██/██/20██, a version of SCP-31181 titled "A dance that distorts dimensions" resulted in 17 casualties after a flash mob in Times Square was compelled to perform a dance routine that caused a spatial rift, resulting in the victims being partially absorbed into surrounding structures.</p>
+<h4>Addendum 2.2: Experiment Log 31181-15</h4>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p><strong>Video Title:</strong> "The Secrets of Infinite Wealth"</p>
+<p><strong>Procedure:</strong> Class-D personnel were instructed to watch SCP-31181 through a secured terminal.</p>
+<p><strong>Results:</strong> Subject D-████ began manifesting coins from various world currencies uncontrollably. This continued for six hours, flooding the containment unit with approximately \$1.7 million in various denominations before the subject expired due to dehydration and exhaustion.</p>
+<p><strong>Analysis:</strong> The potential for SCP-31181 to generate matter on such a scale is deeply concerning and prohibits further experimentation without heightened security measures.</p>
+<h4>Addendum 2.3: Experiment Log 31181-22</h4>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p><strong>Video Title:</strong> "Meet Your Parallel Self"</p>
+<p><strong>Procedure:</strong> Class-D personnel supplied with a fail-safe explosive collar were instructed to watch SCP-31181 under strict supervision.</p>
+<p><strong>Results:</strong> Fifteen minutes post-viewing, the subject reported visual and auditory hallucinations of an identical version of themself giving life advice. Shortly after, the hallucinations became corporeal, and a struggle ensued, during which containment personnel detonated the fail-safe to prevent potential breach. It neutralized both entities.</p>
+<p><strong>Analysis:</strong> It seems that SCP-31181 can bridge alternate realities, summoning parallel entities into our universe. This underlines the importance of maintaining constant vigilance to prevent cross-dimensional contamination or breaches.</p>
+<h3>Addendum 3: Psychological Implications</h3>
+<p>The recurring theme of obsession among SCP-31181-A subjects suggests that SCP-31181 may feed on or be powered by the fixations it instills in viewers. Further research into memetic and psychological countermeasures is ongoing, with the goal of developing more effective containment and reversal of SCP-31181's effects.</p>
+<h3>Addendum 4: Containment Breach Protocol</h3>
+<p>In the event of a large-scale containment breach due to SCP-31181, the following procedures must be immediately enacted:</p>
+<ol>
+<li>Implementation of Protocol Quarantine-31181, effectively cutting off access and halting all digital communications in the affected area.</li>
+<li>Deployment of MTF Mu-13 to the breach site for damage control and amnestic distribution.</li>
+<li>Elevation of information suppression measures, including potential use of the Emergency Broadcast System to disseminate cover stories.</li>
+<li>Expansion of digital monitoring to secondary platforms to preempt any potential spread.</li>
+<li>Consultation with the O5 Council for authorization of a controlled Broken Masquerade Protocol, should the need arise.</li>
+</ol>
+<p>The safe containment of SCP-31181 remains the Foundation’s top priority due to its potential for causing XK-class end-of-the-world scenarios. All operational actions are aimed at preventing such an occurrence.</p>
+
+    </div>
+    
