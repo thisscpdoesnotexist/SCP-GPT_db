@@ -1,0 +1,67 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31173 is  a machine that makes problems  </h3> </center>
+
+    <h3>Item #: SCP-31173 - "The Problem Engine"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31173-GPT.png" alt="Illustration of SCP-31173" />
+        
+<h3>Description:</h3>
+<p>SCP-31173 is an intricate machine the size of a standard office desk, resembling a combination of an old-fashioned printing press and a modern supercomputer. SCP-31173 is composed of unknown metals and materials that do not match any on the periodic table, suggesting an extraterrestrial or extra-dimensional origin.</p>
+<p>Upon activation, which occurs randomly without an identifiable pattern, SCP-31173 produces a sheet of paper with a typed description of a problem, ranging from minor inconveniences to cataclysmic events. These problems are not predictions but are actual issues manifested by SCP-31173's operation, affecting reality on a local or global scale. The severity of the problems correlates with the length of time SCP-31173 remains active before producing the problem description.</p>
+<p>The source of SCP-31173's power is unknown, as it contains no recognizable power source and is resistant to all attempts at disassembly or material analysis. Efforts to destroy SCP-31173 have failed, and any force applied to it is rendered inert. SCP-31173's anomalous effects cannot be blocked, nullified, or reversed by any known means.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31173 is contained within a specially-designed containment chamber at Site-██ that is to remain sealed at all times, except during approved testing or emergency procedures. The chamber is fortified with multiple layers of reinforced steel and an electromagnetic isolation field to prevent any potential electronic interference.</p>
+<p>All personnel must maintain a minimum safe distance of 30 meters from the containment chamber and are forbidden to interact with SCP-31173 without Level 4 authorization. In the event of a problem manifestation, the designated response team is to be deployed immediately to manage the situation in accordance with Emergency Containment Protocol 31173-Epsilon.</p>
+<p>Due to the unpredictable nature of SCP-31173, a real-time monitoring system is in place to alert containment teams of any activity. In the event of a containment breach, Site-██ is to be evacuated, and a global alert must be issued to mobilize all available resources to counteract the effects of SCP-31173's produced problems.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-31173 was discovered in 20██ after a series of unexplained phenomena occurred in the small town of ████, ███████. Foundation agents embedded in local law enforcement were alerted to these events and subsequently located and contained SCP-31173 with minimal casualties.</p>
+<h3>Addendum 2: Incident Log</h3>
+<h4>Incident 31173-01:</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Problem Produced</strong>: "All water within a 3 km radius of SCP-31173 has turned into a thick, viscous substance."</li>
+<li><strong>Containment Response</strong>: The affected area was quarantined, and Class-A amnestics were administered to the local population. Samples of the substance were collected for analysis before it spontaneously reverted to normal water after exactly eight hours.</li>
+</ul>
+<h4>Incident 31173-02:</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Problem Produced</strong>: "Gravitational forces tripled within Site-██."</li>
+<li><strong>Containment Response</strong>: The entire site experienced severe structural damage, and multiple personnel sustained injuries. Antigravity harnesses were deployed, and after 12 hours, gravity returned to normal levels. </li>
+</ul>
+<h4>Incident 31173-03:</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Problem Produced</strong>: "An infectious disease spreads among all avian species, causing aggressive behavior."</li>
+<li><strong>Containment Response</strong>: Containment teams implemented a global intervention to cull affected bird populations and developed a vaccine to prevent the spread of the disease. The incident was publicly attributed to a sudden mutation of avian flu.</li>
+</ul>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 31173-E01:</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Purpose</strong>: To determine if SCP-31173's effects can be mitigated through precognition.</li>
+<li><strong>Procedure</strong>: D-Class personnel with claimed precognitive abilities were monitored while SCP-31173 was active.</li>
+<li><strong>Result</strong>: No change in the random activation or the manifestation of the problem was observed.</li>
+</ul>
+<h4>Experiment 31173-E02:</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Purpose</strong>: To test the impact of SCP-31173's active state duration on the scale of the problem produced.</li>
+<li><strong>Procedure</strong>: SCP-31173 was allowed to activate for varying timed intervals before being forcefully shut down using a controlled electromagnetic pulse (EMP).</li>
+<li><strong>Result</strong>: Shorter activation periods typically resulted in less severe problems. However, the EMP used had no consistent effect on the duration of activation, and larger-scale problems still occurred.</li>
+</ul>
+<h4>Experiment 31173-E03:</h4>
+<ul>
+<li><strong>Date</strong>: ██/██/20██</li>
+<li><strong>Purpose</strong>: To examine if SCP-31173's output could be altered through linguistic manipulation.</li>
+<li><strong>Procedure</strong>: Researchers introduced a variety of linguistic inputs, ranging from written pleas to verbal commands, in multiple languages, to SCP-31173.</li>
+<li><strong>Result</strong>: SCP-31173 remained non-responsive to linguistic stimuli, and the problems produced were unaffected.</li>
+</ul>
+<h3>Addendum 4: Ongoing Research</h3>
+<p>Research is ongoing to unravel the mysteries behind SCP-31173 and to devise a method to neutralize its anomalous effects permanently. All findings are to be documented and reviewed by the O5 Council for potential countermeasures or containment upgrades.</p>
+<hr />
+<p><strong>Note from Site Director ██████:</strong> "SCP-31173 represents a significant threat not only to the Foundation but to the world at large. Its random and destructive nature requires our constant vigilance. We must remain prepared for any problem it may produce, as our response may be the only line of defense against a potential XK-Class end-of-the-world scenario."</p>
+
+    </div>
+    
