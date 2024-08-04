@@ -1,0 +1,65 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31234 is  is a common mistake made by SCP Foundation personnel wherein the SCP class "Thomiel" will get used as a typo instead of the correct class Thaumiel </h3> </center>
+
+    <h3>Item #: SCP-31234 - The Typographical Anomaly</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31234-GPT.png" alt="Illustration of SCP-31234" />
+        
+<h3>Description:</h3>
+<p>SCP-31234, colloquially referred to as "The Typographical Anomaly," is an anomalous phenomenon strictly affecting digital documents and printed materials within and directly pertaining to the SCP Foundation. The anomaly manifests specifically in the misclassification of certain SCP items, wherein designations "Thaumiel," an SCP class used to denote objects that can be used to contain or counteract the effects of other SCPs, are transcribed or printed erroneously as "Thomiel."</p>
+<p>This typographical anomaly is self-propagating and has been observed to resist attempts at correction by both automated and manual means within a certain radius of the initial incident; backspace, delete, and cut functions in text editors fail to work, and physical erasures cause the incorrect text to reappear. Corrections made outside this undefined radius are sometimes successful, but inconsistent. The radius seems to adjust to encompass the most current location of the documentation within the Foundation's networked or un-networked systems.</p>
+<p>Physical documents altered by SCP-31234 are immune to natural decay and resist damage. Digital documents affected by SCP-31234 demonstrate an unusual resistance to being deleted or corrupted. The anomaly has no known direct effects on human behavior or cognition, aside from the resulting confusion and subsequent investigations.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31234 is to be contained by monitoring all SCP Foundation documentation for the "Thomiel" typo. All digital systems within the SCP Foundation are to be installed with an SCP-31234 tracking software, which scans for the incorrect classification and flags it for review by designated personnel.</p>
+<p>Printed materials displaying the anomaly should be collected and stored in a standard containment locker located in Site-42. Under no circumstances should these materials be destroyed, as this could potentially spread the anomaly further.</p>
+<p>Upon discovery of an SCP-31234 event, the area around the anomaly is to be treated as the effective radius, and all documentation editing must take place outside this zone. The radius is to be determined by trial and error for each instance. Personnel responsible for editing documentation affected by SCP-31234 must be meticulous in their maintenance and report any successful corrections to the SCP-31234 tracking team.</p>
+<p>In addition, a monthly briefing is to be held to remind staff of the correct SCP designations and to report any occurrences of SCP-31234 immediately.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-31234 was first identified on ██/██/████, when multiple reports of the "Thomiel" typo emerged simultaneously across various SCP reports and documents Foundation-wide. Initially thought to be a series of unconnected clerical errors, the interconnected nature of the errors and their resistance to normal editing procedures prompted a full investigation.</p>
+<h3>Addendum 2: Incident Log 31234-A</h3>
+<ul>
+<li>
+<p><strong>Incident 1:</strong> On ██/██/████, an attempt to manually overwrite the "Thomiel" typo with typewriter ink led to the document emitting a soft luminescence and the ink being absorbed without a trace. The typo persisted.</p>
+</li>
+<li>
+<p><strong>Incident 2:</strong> On ██/██/████, Digital Document 31234-▓ located on a secure Foundation server was forcibly deleted via command line input. The document regenerated within seconds, complete with the "Thomiel" typo intact.</p>
+</li>
+<li>
+<p><strong>Incident 3:</strong> On ██/██/████, Researcher █████████ tried to physically cut out a section of a printed document containing SCP-31234 with scissors. The excised paper reattached itself, with no visible seam or indication of damage.</p>
+</li>
+</ul>
+<h3>Addendum 3: Experiment Log 31234-B</h3>
+<ol>
+<li><strong>Experiment 1</strong></li>
+<li><strong>Objective:</strong> Test the adaptability of SCP-31234 to different languages.</li>
+<li><strong>Procedure:</strong> Translated an affected document into French, verifying the correct usage of "Thaumiel."</li>
+<li>
+<p><strong>Results:</strong> After translation, all instances of "Thaumiel" were found changed to a misspelled version "Thomiel," consistent with the anomaly's behavior.</p>
+</li>
+<li>
+<p><strong>Experiment 2</strong></p>
+</li>
+<li><strong>Objective:</strong> Determine whether SCP-31234 can affect audio recordings speaking of SCP classification.</li>
+<li><strong>Procedure:</strong> Recorded an audio file correctly classifying an SCP object as Thaumiel.</li>
+<li>
+<p><strong>Results:</strong> No alteration of the audio file. SCP-31234 appears only to affect text.</p>
+</li>
+<li>
+<p><strong>Experiment 3</strong></p>
+</li>
+<li><strong>Objective:</strong> Establish the maximum known radius of SCP-31234 influence.</li>
+<li><strong>Procedure:</strong> Relocated affected documentation to various distances and attempted correction.</li>
+<li><strong>Results:</strong> Variable; the smallest recorded radius was 5 meters, while the largest was 23 meters, indicating adaptability or randomness in the propagation range of SCP-31234.</li>
+</ol>
+<h3>Addendum 4: Notes on potential origin theories</h3>
+<ul>
+<li><strong>Theory 1:</strong> SCP-31234 may be the result of another SCP object's influence, possibly one related to language or perception.</li>
+<li><strong>Theory 2:</strong> A reality-altering entity may have inadvertently or purposefully enacted a persistent change on Foundation materials.</li>
+<li><strong>Theory 3:</strong> An undiscovered memetic or infohazardous SCP is using SCP-31234 as camouflage or as a minor manifestation of its true capability.</li>
+</ul>
+<p>Further research into SCP-31234's origin, nature, and potential countermeasures remain ongoing. The typographical resistance displayed by SCP-31234 continues to prompt discussions on potential uses for incorruptible data storage, assuming the anomaly can be better understood and controlled.</p>
+
+    </div>
+    
