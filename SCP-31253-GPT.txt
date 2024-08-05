@@ -1,0 +1,55 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31253 is  that all orange cats share a single hivemind. (It's not that big a problem though since it's a stupid hivemind) </h3> </center>
+
+    <h3>Item #: SCP-31253 - The Ginger Hive</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31253-GPT.png" alt="Illustration of SCP-31253" />
+        
+<h3>Description:</h3>
+<p>SCP-31253 is a phenomenon observed to affect domestic cats (Felis catus) possessing an orange or "ginger" fur coloration. The affected felines have been observed to display characteristics reflective of a collective consciousness. Despite initial appearances of normal feline behavior, SCP-31253 instances exhibit coordinated actions, regardless of physical separation and without any known form of communication.</p>
+<p>Further investigations have suggested that the collective intelligence governing SCP-31253 is of notably low cognitive capability, often resulting in actions that are benign or nonsensical. Instances of SCP-31253 have been documented performing synchronized grooming, sleep patterns, and occasionally enacting what appears to be poorly organized, aimless group strategies targeting mundane objects, such as socks, cardboard boxes, or laser pointers.</p>
+<p>Instances of SCP-31253 retain normal feline instincts and can function independently for basic needs. However, when presented with problem-solving tasks or complex challenges, they act with a singular, yet intellectually impaired, approach. SCP-31253's influence has been confirmed to extend globally, with no identified limit to the range of its collective functionality.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Instances of SCP-31253 are to be housed in a standard domestic cat habitat within Site-74’s biocontainment wing. Each habitat must be equipped with environmental enrichment, including scratching posts, toys, and routine interaction with personnel to preserve normal feline behavior and well-being.</p>
+<p>Due to the extensive number of SCP-31253 instances worldwide, full containment is deemed impractical. Foundation web-crawlers are in operation to monitor social media, veterinarian records, and feline enthusiast groups for reports consistent with SCP-31253 behavior. Mobile Task Force Mu-13 ("Cat Herders") has been established to investigate potential instances, apply Class-C amnestics when necessary, and acquire or neutralize outlier SCP-31253 instances posing a risk of public exposure.</p>
+<h3>Addendum 1: Incident Logs</h3>
+<ul>
+<li>
+<p><strong>Incident 31253-A</strong>: Multiple SCP-31253 instances in [REDACTED], Maine, were observed herding a flock of local birds into a designated area simultaneously at 13:47 GMT. The purpose of this action remains unclear. No aggressive behavior was exhibited.</p>
+</li>
+<li>
+<p><strong>Incident 31253-B</strong>: SCP-31253 instances in several countries simultaneously knocked over cups filled with liquid at exactly 03:33 local time. The occurrences were recorded and shared on various social media platforms, prompting Foundation intervention.</p>
+</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 31253-E1</h4>
+<ul>
+<li><strong>Objective</strong>: Determine the range at which SCP-31253 instances can coordinate actions.</li>
+<li><strong>Procedure</strong>: Two SCP-31253 instances were placed in separate containment units over 100 km apart. Both units were equipped with an identical puzzle that released a treat upon completion.</li>
+<li><strong>Results</strong>: Both SCP-31253 instances engaged with the puzzle at the same time and made identical errors in solving it. Completion of the puzzle was not observed, and instances lost interest simultaneously after approximately 15 minutes.</li>
+</ul>
+<h4>Experiment 31253-E2</h4>
+<ul>
+<li><strong>Objective</strong>: Test the SCP-31253 response to an external stimulus that requires complex problem-solving.</li>
+<li><strong>Procedure</strong>: A simple maze was set up with a food reward at the end, and one SCP-31253 instance was introduced to the maze.</li>
+<li><strong>Results</strong>: The SCP-31253 instance made immediate progress before stopping abruptly. Moments later, it was observed that all other SCP-31253 instances in containment began pacing the perimeter of their enclosures. The instance in the maze resumed movement only when all others stopped, eventually reaching the reward with significant delays and errors.</li>
+</ul>
+<h3>Addendum 3: Researcher Notes</h3>
+<p><strong>Dr. Hemsley's Commentary</strong>:
+While the conceptual linkage of global feline behavior has presented itself as a subject of profound curiosity, the practical applications or potential threats posed by SCP-31253 remain minor. The 'Ginger Hive' presents us with a rare opportunity to study a hivemind consciousness that is, frankly, comically inept.</p>
+<p>It is essential, however, to recognize that our own interventions, examinations, and containment procedures might influence SCP-31253's development. Care should be taken to monitor any evolutionary changes within the phenomenon, especially any indication of increasing cognitive capabilities.</p>
+<h3>Addendum 4: Interview Log (Excerpt)</h3>
+<p><strong>Interviewer</strong>: Dr. Hemsley<br />
+<strong>Subject</strong>: SCP-31253-Ω (a particularly sociable instance)</p>
+<p><strong>Dr. Hemsley</strong>: "Can you tell me why all of you decided to push those cups off the tables?"</p>
+<p><strong>SCP-31253-Ω</strong>: <em>Meows placidly, blinks slowly, and begins to purr.</em></p>
+<p><strong>Dr. Hemsley</strong>: "Alright, let's try something simpler. Did you enjoy the treat after the maze test?"</p>
+<p><strong>SCP-31253-Ω</strong>: <em>Shifts gaze towards the treat jar on Dr. Hemsley's desk, tail flicking.</em></p>
+<p><strong>Dr. Hemsley</strong>: "This is going nowhere. Let's wrap this up for now."</p>
+<p><em>End log</em></p>
+<p>Although SCP-31253-Ω's responses provided no meaningful insights into SCP-31253’s intelligence or collective decision-making processes, it did succeed in knocking over Dr. Hemsley’s coffee cup during the interview, adding yet another data point to its seemingly trivial preoccupations.</p>
+
+    </div>
+    
