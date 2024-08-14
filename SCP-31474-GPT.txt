@@ -1,0 +1,52 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31474 is  A furry from a furcon </h3> </center>
+
+    <h3>Item #: SCP-31474 - "Furthest From Ordinary"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31474-GPT.png" alt="Illustration of SCP-31474" />
+        
+<h3>Description:</h3>
+<p>SCP-31474 is a human male of indeterminate age, who refers to himself as "Ceruleo." The uniqueness of SCP-31474 lies in the fact that it is perpetually clad in an elaborate anthropomorphic wolf costume, or "fursuit," from which it cannot be removed. There have been no successful attempts to uncover SCP-31474's true identity or to remove the suit, as it appears to regenerate any parts that are cut off or damaged within a few seconds. The suit's exterior closely resembles that of a blue and white wolf, with artificial fur and a sophisticated range of facial expressions controlled by what is assumed to be advanced animatronics, but its internal structure is unknown.</p>
+<p>SCP-31474 was first discovered during [REDACTED] Furry Convention, where it was initially believed to be a particularly dedicated hobbyist in a high quality custom fursuit. However, SCP-31474 did not remove the suit for several days, leading to security being alerted due to the potential health risks. When approached, SCP-31474 displayed distress and claimed physical inability to disrobe. The Foundation intervened after reports reached local law enforcement, who were unable to uncover the person inside the suit.</p>
+<p>Despite its unusual situation, SCP-31474 is sapient, communicative, and cooperative with Foundation personnel. It speaks English fluently, with a vocal performance characteristic of cartoon characters – a pitch and timbre variability not typically associated with unaided human vocal cords.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31474 is to be kept in a standard humanoid containment chamber equipped with comfortable living provisions. Given that SCP-31474 has not shown any aggression nor demonstrated any capabilities for breaching containment, the entity is currently granted Class 2 privileges, including access to a secure outdoor courtyard and a variety of entertainment media during scheduled recreation times.</p>
+<p>Personnel are advised to engage with SCP-31474 as they would with any cooperative human subject, as it responds positively to social interactions which reinforce its own perception of identity as the character "Ceruleo." Items pertaining to canine care, such as brushes or chew toys, should not be given to SCP-31474, out of respect for its human traits.</p>
+<p>SCP-31474 is to be offered a standard diet provided to human subjects at the facility; however, SCP-31474 has displayed a preference for meat-based items and dog treats. The latter is approved as a reward for cooperation during testing and interaction to maintain positive rapport.</p>
+<h3>Addendum 1: Interview Log</h3>
+<h4>Addendum 1.1: SCP-31474 Initial Interview</h4>
+<p><strong>Dr. Elaina Hertz:</strong> "Hello, SCP-31474. How do you feel today?"</p>
+<p><strong>SCP-31474 ("Ceruleo"):</strong> "Oh, Doc, I'm just peachy! Although it's a bit weird being called a number, you know?"</p>
+<p><strong>Hertz:</strong> "Understood, Ceruleo. Can you tell us anything about your...suit?"</p>
+<p><strong>Ceruleo:</strong> "It's not just a suit, Doc! It's me! I'm Ceruleo, the friendly wolf! Bark! Bark!"</p>
+<p><strong>Hertz:</strong> "Can you try to explain why the suit won't come off?"</p>
+<p><strong>Ceruleo:</strong> "I, uh, don't really know, Doc. It's been like this since I can remember. It's like it grew on me!"</p>
+<p><strong>Hertz:</strong> "Interesting. And how do you eat or use the restroom?"</p>
+<p><strong>Ceruleo:</strong> "Ohh, that's a trade secret, hehe!"</p>
+<p>(Note: Further investigation is necessary to understand SCP-31474's physiological needs and functions.)</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Addendum 2.1: SCP-31474 Suit Removal Attempts</h4>
+<ul>
+<li><strong>Experiment 31474-A:</strong> Attempt to unzip the suit. Result: No zippers or seams discernible.</li>
+<li><strong>Experiment 31474-B:</strong> A safe, localized incision was made in the suit. Result: The suit regenerated instantaneously, leaving no marks or openings.</li>
+<li><strong>Experiment 31474-C:</strong> Introduction of tranquilizers to analyze suit while SCP-31474 is unconscious. Result: SCP-31474 seems unable to be sedated by conventional means. It appeared drowsy, but still conscious and suit remained intact.</li>
+</ul>
+<h4>Addendum 2.2: SCP-31474 Communication Capabilities</h4>
+<ul>
+<li><strong>Experiment 31474-D:</strong> SCP-31474 was read a series of emotion-inducing statements to observe its range of facial expressions. Result: SCP-31474's suit mimicked human microexpressions with uncanny accuracy. Is animatronic theory feasible?</li>
+</ul>
+<h4>Addendum 2.3: SCP-31474 Diet and Digestion</h4>
+<ul>
+<li><strong>Experiment 31474-E:</strong> SCP-31474 was presented with an array of foods to analyze eating habits. Result: Consumed all items, yet no waste has been observed from SCP-31474.</li>
+</ul>
+<p>(Note: It has been hypothesized that SCP-31474 may possess an anomalous digestive system or metabolism.)</p>
+<h3>Addendum 3: SCP-31474 Anomalous Event Log</h3>
+<h4>Addendum 3.1: Unexplained Vocalization Incident</h4>
+<p>During the containment breach of SCP-[REDACTED] on [REDACTED], SCP-31474 was reported to have howled in a manner inconsistent with human vocal cords and caused a temporary disorientation effect in nearby staff and SCPs. The duration of the howl lasted approximately 13.7 seconds and was measured at frequencies unreachable by standard audio equipment. No such behavior was observed or recorded prior; the cause of this anomaly is pending investigation.</p>
+<h3>Addendum 4: Psychological Profile</h3>
+<p>Assessment by Dr. Hertz indicates that SCP-31474 exhibits no signs of mental deterioration or distress about its permanent attire, but shows a tendency towards attention-seeking behavior and a preference for a structured daily schedule, typical of domesticated canines. Continual monitoring is advised to ensure SCP-31474's emotional and psychological needs are being met in containment.</p>
+
+    </div>
+    
