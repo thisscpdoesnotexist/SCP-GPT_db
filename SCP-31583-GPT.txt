@@ -1,0 +1,37 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31583 is  Quetzalcoatl </h3> </center>
+
+    <h3>Item #: SCP-31583 - "Quetzalcoatl's Conundrum"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31583-GPT.png" alt="Illustration of SCP-31583" />
+        
+<h3>Description:</h3>
+<p>SCP-31583, dubbed "Quetzalcoatl's Conundrum," is an ancient Mesoamerican artifact resembling a serpentine figure carved out of an iridescent blue-green stone. The artifact possesses anomalous properties related to climate patterns and geological activity.</p>
+<p>SCP-31583 is sentient and capable of telepathic communication, although it prefers to communicate through dreams and visions to individuals it deems as "worthy." These communications often contain cryptic messages related to upcoming natural disasters, such as volcanic eruptions, earthquakes, and hurricanes. SCP-31583 claims to be the embodiment of the deity Quetzalcoatl and expresses a desire to prevent catastrophic events that could threaten humanity's existence.</p>
+<p>When directly influencing the environment, SCP-31583 exhibits the ability to dampen the severity of natural disasters or divert them entirely. The limits of this power are not yet understood. These interventions are not without consequence as they can unintentionally cause smaller disruptions elsewhere, suggesting a requirement for balance.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31583 is to be contained in a temperature- and humidity-controlled sealed chamber, located at Site-██. The chamber is to be fitted with seismographs and atmospheric pressure sensors to detect any potential use of its abilities. Access to the chamber is restricted to personnel with Level 4 clearance or higher who have undergone rigorous psychological evaluation and training in Mesoamerican mythology.</p>
+<p>At least two (2) staff members adept in lucid dreaming techniques are to be on duty at all times to facilitate communication with SCP-31583. These individuals must maintain a clear and balanced mental state to receive accurate and coherent messages from the artifact.</p>
+<p>Emergency protocols are in place in the event of SCP-31583 predicting or enacting a natural disaster. Mobile Task Forces specializing in disaster relief and crisis management (e.g., MTF Epsilon-6 "Village Idiots") are to be on standby should SCP-31583's abilities need to be directed or mitigated.</p>
+<p>All interaction with SCP-31583 must be documented in detailed logs, which are to be reviewed by Site Command and an on-site historian expert in pre-Columbian cultures for analysis and potential insights into the artifact's motivations and patterns.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p><strong>1.1</strong> - SCP-31583 was discovered in 19██ during an archaeological excavation near the ruins of Teotihuacan, Mexico. It came to the Foundation's attention after local reports indicated that a small team of archaeologists experienced collective prophetic dreams, followed by the sudden dissipation of a Category 4 hurricane that had been projected to strike the coast.</p>
+<h3>Addendum 2: Communication Logs</h3>
+<p><strong>2.1</strong> - Initial Contact:
+During initial containment, SCP-31583 contacted Dr. ████ through a dream, wherein it revealed its ability to influence weather patterns and a preference to avoid the loss of life. The artifact expressed a willingness to cooperate with the Foundation to mitigate natural disasters.</p>
+<p><strong>2.2</strong> - Experiment Log:</p>
+<p>Experiment 31583-E-1:
+    - <strong>Objective</strong>: Determine SCP-31583's range of influence by monitoring a controlled seismic event.
+    - <strong>Outcome</strong>: SCP-31583 communicated the precise location of a minor earthquake (magnitude 3.2) in a remote area with no human population. No intervention was necessary.</p>
+<p>Experiment 31583-E-5:
+    - <strong>Objective</strong>: Ascertain SCP-31583's limits in weather pattern alteration.
+    - <strong>Outcome</strong>: SCP-31583 managed to decrease the intensity of a hurricane from Category 3 to Category 1 before it made landfall. Secondary anomalously high rainfall was recorded in the region three days later, resulting in localized flooding.</p>
+<p><strong>2.3</strong> - Anomalous Activity Report:
+On ██/██/20██, SCP-31583 spontaneously initiated a telepathic communication with all on-site staff, warning of a catastrophic volcanic eruption in the Pacific Ring of Fire. The Foundation collaborated with SCP-31583 to successfully avert the disaster while enacting Protocol 31583-R ("Red Feather") to handle any secondary effects.</p>
+<h3>Addendum 3: Ethical Considerations and Long-Term Plans</h3>
+<p>With SCP-31583's counsel, the Foundation has begun to build a complex geo- and atmocentric monitoring network to prepare for and potentially prevent widespread natural disasters. However, discussions are ongoing about the ethical implications of using SCP-31583. The constant redirection and alteration of natural events may lead to unforeseen consequences on a global scale, and the long-term effects of SCP-31583's interventions are still unknown. The O5 Council is assessing the situation while ensuring that SCP-31583 remains cooperative and its containment secure.</p>
+
+    </div>
+    
