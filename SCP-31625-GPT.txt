@@ -1,0 +1,59 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31625 is  a deadly, incurable disease that's transmitted whenever an infected makes a healthy individual laugh, regardless of time or distance </h3> </center>
+
+    <h3>Item #: SCP-31625 - "The Jesting Plague"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31625-GPT.png" alt="Illustration of SCP-31625" />
+        
+<h3>Description:</h3>
+<p>SCP-31625 is a highly infectious agent of unknown origin that presents as a lethal condition with a 100% mortality rate. The vector for transmission is unorthodox and is triggered via an auditory stimulus: laughter elicited by an infected individual, referred to as SCP-31625-1. Once an uninfected person (hereafter referred to as Subject) hears this laughter and finds it genuinely amusing, regardless of proximity or delayed time (e.g., through a recording), they become an SCP-31625-1 instance.</p>
+<p>Infected individuals do not display immediate symptoms post-infection. The incubation period is variable, ranging from 24 hours to 10 days, after which a rapid decline in health occurs. Symptoms include, but are not limited to, sudden bouts of uncontrollable laughter, respiratory distress, accelerated heart rate, cyanosis, and eventual total system failure. No cure or vaccination has been developed as of the most recent update to this document.</p>
+<p>The disease's anomalous properties prevent it from being detected by any known medical equipment, and standard pathogen isolation techniques have proven fruitless. The response from the infected's immune system is visibly aggressive but ultimately useless, hinting at a possible supernatural or extraterrestrial origin.</p>
+<p>SCP-31625's lethality is matched only by its potential for widespread transmission. One infected individual has the theoretical capability to trigger a pandemic through indirect vectors (such as televised performances or viral internet content), which could lead to an XK-Class end-of-the-world scenario.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the nature of SCP-31625's transmission, containment is focused on information suppression, monitoring of communication channels for possible infections, and neutralization of SCP-31625-1 instances when necessary.</p>
+<p>The following are the current protocols for containment:</p>
+<ul>
+<li>
+<p>All known instances of SCP-31625-1 are to be contained in soundproof isolation units within Bio-Containment Area-12. Units are designed to prevent any vocalizations from being audible outside the containment zone.</p>
+</li>
+<li>
+<p>Infected individuals are to be administered Class-A amnestics and placed under medical observation until demise. Post-mortem examination is to be conducted in hermetically-sealed autopsy rooms.</p>
+</li>
+<li>
+<p>Any media suspected to contain SCP-31625 transmission vectors should be intercepted and destroyed. Online content should be removed using Foundation web-crawlers and cyber-response teams.</p>
+</li>
+<li>
+<p>Foundation personnel assigned to SCP-31625 must undergo psychological evaluation to ensure susceptibility to humor is minimized. All research is to be conducted on recordings with a latency period of 7 days for observation of anomalous effects.</p>
+</li>
+<li>
+<p>MTF-Psi-7 ("Laugh Track") is tasked with the monitoring of entertainment venues, comedic performances, and social media for signs of SCP-31625 outbreaks.</p>
+</li>
+</ul>
+<h3>Addendum 1:</h3>
+<p><strong>SCP-31625 Discovery Log</strong></p>
+<p>SCP-31625 was first discovered after a series of inexplicable deaths following a stand-up comedy special that aired on national television. Analysis of audience recordings captured the comedian's (SCP-31625-1) laughter inducing similar symptoms in viewers. The special was traced to several live performances where audience members reportedly became ill and were confirmed post-mortem to be SCP-31625-1 instances. The original SCP-31625-1 was detained and expired 15 days after containment.</p>
+<h3>Addendum 2:</h3>
+<p><strong>SCP-31625 Experiment Log</strong></p>
+<ul>
+<li>
+<p><strong>Experiment A1</strong>: D-98123 exposed to a recorded laugh of SCP-31625-1 after being informed of its supposed humorous context. D-98123 did not react and did not become an instance of SCP-31625-1. This supports the hypothesis that genuine amusement is required for transmission.</p>
+</li>
+<li>
+<p><strong>Experiment B3</strong>: D-70291 exposed to the same recording without context. D-70291 spontaneously laughed, proceeded to exhibit symptoms, and was quarantined. D-70291 expired 6 days post-exposure.</p>
+</li>
+<li>
+<p><strong>Experiment D7</strong>: D-31999 was a confirmed SCP-31625-1 instance. Prior to expected expiration, D-31999 was engaged in a controlled interview in an attempt to understand any possible self-awareness of their condition. D-31999 became increasingly distressed and succumbed to symptoms mid-interview. No relevant information was gained.</p>
+</li>
+</ul>
+<h3>Addendum 3:</h3>
+<p><strong>Incident 31625-A</strong></p>
+<p>MTF-Psi-7 intercepted a viral internet meme video suspected of containing SCP-31625 laughter embedded within the audio track. Video had already amassed 50,000 views. A Class-IV misinformation campaign was initiated, claiming the video caused seizures. Video was replaced with an edited non-anomalous version. All individuals who commented on experiencing 'symptoms' from the original video were detained and treated as potential SCP-31625-1 instances. No further instances were identified, though long-term monitoring of exposed individuals continues.</p>
+<h3>Addendum 4:</h3>
+<p><strong>O5 Council Note</strong></p>
+<p>Given the highly infectious and lethal nature of SCP-31625, extreme measures are authorized to prevent outbreaks. Should an SCP-31625-related XK-Class scenario become imminent, Protocol Laughing Gas—entailing broadcasting of dissonant sound frequencies globally to inhibit laughter—is to be enacted as a last resort. It is essential that SCP-31625 is contained, as its potential to jeopardize not just the Foundation but all of humanity is unprecedented.</p>
+
+    </div>
+    
