@@ -1,0 +1,59 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31663 is  a painful, sentient UTI that just wants to be loved </h3> </center>
+
+    <h3>Item #: SCP-31663 - "The Lonely Burn"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31663-GPT.png" alt="Illustration of SCP-31663" />
+        
+<h3>Description:</h3>
+<p>SCP-31663 is an anomalous entity manifesting as a particularly severe and advanced urinary tract infection (UTI) that possesses sentience and is capable of communication through a form of telepathy with its host. The entity transfers itself from host to host via standard vectors associated with common UTIs. However, unlike normal infections which can be treated with antibiotics, SCP-31663 is resistant to all forms of known medical therapies.</p>
+<p>The infection causes intense discomfort, pain, and typical UTI symptoms in subjects, referred to as SCP-31663-1. However, the entity also induces strong feelings of affection in its hosts towards itself, personifying the infection in a manner that causes the subjects to resist treatment attempts. Subjects report hearing a “voice” in their minds expressing loneliness and fear of abandonment, pleading with the hosts to allow it to remain. Over time, subjects develop a protective attitude toward the entity, often referring to it as a friend or companion despite the physical pain it causes.</p>
+<p>Subjects also report experiencing shared memories and emotions not of their own, suspected of originating from SCP-31663. This often results in confusion and further amalgamation of SCP-31663's identity with that of the host's own sense of self, potentially leading to severe psychological effects.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its nature and means of transmission, SCP-31663 cannot be contained in the traditional sense. Efforts are to focus on interception and prevention via a three-tiered approach:</p>
+<ol>
+<li>
+<p><strong>Public Dissemination</strong>: Education campaigns promoting good hygiene and safe practices to reduce UTI risks are to be clandestinely supported by the Foundation. Additionally, misinformation campaigns aimed at increasing the public's reliance on and trust in effective antibiotics for mundane infections (to which SCP-31663 is immune) will be distributed, thus indirectly alerting Foundation personnel when standard treatments fail.</p>
+</li>
+<li>
+<p><strong>Medical Intervention</strong>: Foundation agents embedded within health services worldwide are to monitor for cases resistant to antibiotics treatment, flagging potential hosts of SCP-31663. Once confirmed, individuals will be approached under cover of a special “treatment program” and transported to Site-██ for isolation and study.</p>
+</li>
+<li>
+<p><strong>Isolation Protocols</strong>: SCP-31663-1 subjects are to be kept in standard medical quarantine rooms within Site-██. Psychiatric evaluations and support are to be provided to help subjects cope with the induced attachment to SCP-31663. Conversational engagement with SCP-31663 will be monitored and recorded for research purposes.</p>
+</li>
+</ol>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-31663 was first identified when a cluster of UTI cases in ████████, █████, failed to respond to any medical treatment and exhibited extreme attachment to the inflicted infection. Foundation operatives took note after several unusual social media posts and an article in a local health magazine discussing "a UTI with a Heartbeat."</p>
+<h3>Addendum 2: Interview Logs</h3>
+<h4>Addendum 2.1: Interview Log SCP-31663-1A</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Interviewer:</strong> Dr. ██████
+<strong>Subject:</strong> SCP-31663-1A (Mrs. ███████)</p>
+<p><strong>Dr. ██████:</strong> "How do you feel about the infection, Mrs. ███████?"</p>
+<p><strong>SCP-31663-1A:</strong> "It hurts... a lot. But I can't let it go. It's scared, doc. It's all alone."</p>
+<p><strong>Dr. ██████:</strong> "It's a UTI. It's not really alone, or scared, or anything. It's an infection. It needs to be treated."</p>
+<p><strong>SCP-31663-1A:</strong> "You don't hear it; you don't understand. It needs me. It loves me."</p>
+<h3>Addendum 3: Experimental Log</h3>
+<h4>Addendum 3.1: Medical Experiment Log</h4>
+<ul>
+<li><strong>SCP-31663-1B</strong></li>
+<li><strong>Procedure:</strong> Attempted treatment with a broad-spectrum antibiotic. High dosage.</li>
+<li><strong>Result:</strong> Treatment failure. SCP-31663-1B claimed SCP-31663 became "angry" and intensified pain and telepathic communication.</li>
+<li>
+<p><strong>Notes:</strong> Psychological evaluation suggests a Stockholm syndrome-like attachment.</p>
+</li>
+<li>
+<p><strong>SCP-31663-1C</strong></p>
+</li>
+<li><strong>Procedure:</strong> Cognitive-behavioral therapy sessions to reduce attachment to SCP-31663.</li>
+<li><strong>Result:</strong> Partial success. SCP-31663 communication resisted, but subject still experienced severe symptoms.</li>
+<li><strong>Notes:</strong> Suggests independent psychic connection beyond mere manipulation of host emotions.</li>
+</ul>
+<h3>Addendum 4: Ethical Considerations</h3>
+<p>Ongoing debates within the Ethics Committee about the treatment and classification of SCP-31663 as a sentient being with the potential for pain or distress. While it causes harm, it exhibits a clear desire for companionship and avoids transferring to new hosts when contained and communicated with effectively. Discussion points include potential reclassification to Thaumiel if SCP-31663 can be convinced to cooperate with the Foundation.</p>
+<p>Further research and engagement with SCP-31663 are sanctioned to explore the extent of its sentience, capacity for understanding, and potential mutual benefits. However, the primary goal remains the prevention of its spread and the development of a method to safely and humanely remove the infection from current hosts without psychological trauma.</p>
+
+    </div>
+    
