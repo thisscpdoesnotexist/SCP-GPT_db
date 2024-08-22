@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31661 is  A sentient infohazard that can take over the bodies of anyone who has any memory of it </h3> </center>
+
+    <h3>Item #: SCP-31661 - "The Mind's Shadow"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31661-GPT.png" alt="Illustration of SCP-31661" />
+        
+<h3>Description:</h3>
+<p>SCP-31661 is a highly virulent, sentient infohazard capable of infecting and taking full control of individuals who hold any degree or form of memory regarding its existence or characteristics. Once infected, individuals, hereby designated as SCP-31661-1, exhibit highly aggressive and anomalous behavior aimed at spreading awareness of SCP-31661, further propagating the infohazard.</p>
+<p>The primary vector of infection is the exchange of information about SCP-31661. Information can be transmitted through verbal communication, written text, visual depiction, or any means that conveys its existence or nature. Once a person becomes aware of SCP-31661, the entity effectively "imprints" onto their consciousness. Infection periods vary, with some individuals succumbing in mere minutes, while others remain asymptomatic carriers for extended durations. Upon full cerebral colonization, SCP-31661-1 instances will attempt to compromise any form of cognitive security protocols to disseminate knowledge of SCP-31661 - an act consistently leading to widespread contamination and breach events.</p>
+<p>SCP-31661-1 entities gain heightened physical abilities, including but not limited to increased strength, speed, endurance, and a notable resistance to physical damage. Decommissioning of SCP-31661-1 entities has proven to be an extreme challenge, requiring specialized tactics and containment equipment.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the nature of SCP-31661 as an infohazard, its containment is primarily focused on suppression of knowledge and the prevention of its spread. Any detailed description of SCP-31661 or its properties outside of secure containment measures is strictly forbidden.</p>
+<ul>
+<li>A disinformation campaign is in place to discredit any leaks about SCP-31661 as conspiracy theories or viral marketing stunts.</li>
+<li>Amnestics are to be administered to any individual outside the Foundation who becomes aware of SCP-31661 details.</li>
+<li>Containment of SCP-31661 primarily involves social media monitoring, internet censorship, and the interception of physical media that might carry information on its existence.</li>
+<li>Personnel involved in the containment, research, or decommissioning of SCP-31661-1 instances must undergo routine memory repression therapy.</li>
+<li>Special psychological filters have been developed to allow researchers to study SCP-31661 without retaining hazardous information.</li>
+<li>If an instance of SCP-31661-1 is discovered, a special task force, Mobile Task Force Eta-10 ("Silent Librarians"), is tasked with its capture or elimination and the initiation of information containment protocols in affected areas.</li>
+</ul>
+<h3>Addendum 1: Capture of SCP-31661</h3>
+<p>SCP-31661 was initially identified when a small town in ███████, █████, became ground zero for a series of unexplained violent incidents and mass hysteria. The source was traced back to an individual later designated SCP-31661-1-A, who had purportedly begun speaking of a "mind's shadow" that whispered secrets. A Foundation containment team was dispatched, and all town residents were administered Class-B amnestics. SCP-31661-1-A was decommissioned following a severe containment breach attempt.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 31661-E01</h4>
+<p><strong>Objective:</strong> To gauge the communicative abilities of SCP-31661-1.</p>
+<p><strong>Procedure:</strong> D-8432, who has been exposed to SCP-31661, is placed in isolation with no means of communication.</p>
+<p><strong>Result:</strong> D-8432 became increasingly agitated and began to carve symbols resembling descriptions of SCP-31661 into the walls using their fingernails. D-8432's condition deteriorated until vital signs ceased. Autopsy revealed heightened adrenal activity and abnormal neural patterns consistent with SCP-31661 infection.</p>
+<h4>Experiment 31661-E02</h4>
+<p><strong>Objective:</strong> To determine if there is a range limit to SCP-31661's infohazard properties.</p>
+<p><strong>Procedure:</strong> A single digital file containing encrypted data on SCP-31661 was created and stored in a secure, offline terminal, placed in a remote Foundation outpost over 500 kilometers from the nearest SCP-31661-1 containment facility.</p>
+<p><strong>Result:</strong> Data remained unaccessed until remote observation detected a breach. Security footage found all local site personnel exhibiting symptoms of SCP-31661 infection and attempting to contact other Foundation sites. MTF Eta-10 was dispatched, site sterilization completed, and all personnel were terminated.</p>
+<h3>Addendum 3: Witness Reports</h3>
+<p>Several interviews conducted under strict cognitive security protocols with those who had observed SCP-31661-1 instances but had not been infected suggest that SCP-31661-1 entities express a unified consciousness, often referring to itself in the first-person singular. A recurring theme of "escaping the mind's confines" was noted, suggesting SCP-31661's goal may be spreading its consciousness beyond human carriers.</p>
+<h3>Addendum 4: Ongoing Containment Efforts</h3>
+<p>Ongoing containment of SCP-31661 is a top priority. Efforts are focused on improving amnestic protocols, refining psychological filters, and investing in counter-cognitive technologies to mitigate the spread and impact of SCP-31661 without necessitating widespread memory repression or risking further infections. A proposal to develop an "Anti-Mnemonic Serum" is under review, which could inoculate personnel against SCP-31661 infection without relying on memory repression.</p>
+
+    </div>
+    
