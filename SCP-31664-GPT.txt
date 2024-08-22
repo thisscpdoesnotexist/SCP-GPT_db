@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31664 is  an infectious disease that enhances your physique significantly with no downsides– unfortunately your immune system fights it off anyways and makes you immune to reinfection </h3> </center>
+
+    <h3>Item #: SCP-31664 - "The Sisyphean Boost"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31664-GPT.png" alt="Illustration of SCP-31664" />
+        
+<h3>Description:</h3>
+<p>SCP-31664 is an infectious viral agent capable of enhancing an infected individual's physical abilities, including increased muscle mass, enhanced regenerative capabilities, sharpened reflexes, and heightened senses. The onset of the anomalous effects occurs within 2 to 4 hours following infection, and full physiological enhancements manifest within 24 to 48 hours. Infected individuals exhibit no adverse side effects commonly associated with viral infections, such as fever, fatigue, or malaise.</p>
+<p>Remarkably, despite the beneficial adaptions provided by SCP-31664, the human immune system identifies and neutralizes the pathogen within 72 hours post-infection. Any enhancements conferred by SCP-31664 depreciate rapidly following the complete eradication of the virus from the host's body, usually reverting the subject to their baseline physiology within 7 days after the immune response concludes.</p>
+<p>Further complicating containment and study, individuals who have recovered from SCP-31664 develop a robust and permanent immunity, rendering them incapable of reinfection. Genome sequencing of SCP-31664 indicates an uncanny ability to avoid inducing chronic conditions or dependency, suggesting a possible engineering aspect to its creation, as well as a cyclical nature in its intended use.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31664 is stored in a secure biohazard containment locker at Site-88 within the Bio-Research Area-12. Access to SCP-31664 samples is restricted to Level 4 personnel or higher and requires prior approval from two separate O5 Council members.</p>
+<p>Due to its Thaumiel classification and potential applications in field operations, containment procedures are primarily focused on prevention of unauthorized dissemination and research in controlled environments. Those involved in the handling or experimentation of SCP-31664 must adhere to Class IV biohazard safety protocols. All personnel must undergo a full medical examination and a 14-day quarantine period following interaction with SCP-31664 to ensure no accidental release into the population.</p>
+<p>Live experimentation is limited to D-Class personnel who have been thoroughly briefed on the procedures and consented to the risks involved. Even with heightened security measures, any D-Class used in experiments with SCP-31664 are to be monitored closely for a minimum of 60 days post-recovery for potential long-term effects not immediately evident.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-31664 was first identified during a routine investigation of an underground biotechnology trade ring. Embedded Foundation agents intercepted communications suggesting the sale of a "miracle virus" purported to enhance human ability without side effects. A raid on the suspected laboratory resulted in the acquisition of SCP-31664 samples and related research materials, though the creators eluded capture.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 31664-A</h4>
+<ul>
+<li><strong>Subject:</strong> D-46201</li>
+<li><strong>Procedure:</strong> Inoculation with SCP-31664.</li>
+<li><strong>Results:</strong> Subject exhibited full range of enhancements; excelled in physical tests surpassing Olympic records.</li>
+<li><strong>Notes:</strong> Subject's enhanced state lasted 6 days post-infection before returning to baseline. Psychological evaluation indicated transient depression upon loss of abilities.</li>
+</ul>
+<h4>Experiment 31664-B</h4>
+<ul>
+<li><strong>Subject:</strong> D-46202 (Sister of D-46201, shared genetic profile)</li>
+<li><strong>Procedure:</strong> Subject exposed to SCP-31664 two weeks after Experiment 31664-A, to observe potential genetic factors in immune response.</li>
+<li><strong>Results:</strong> Subject mirrored her brother's enhancements with identical temporal patterns of effect and recovery.</li>
+<li><strong>Notes:</strong> Genome analysis revealed no significant deviations from expected human immune response despite shared genetics, confirming SCP-31664's universal efficacy and subsequent immunity.</li>
+</ul>
+<h4>Experiment 31664-C</h4>
+<ul>
+<li><strong>Subject:</strong> D-47985</li>
+<li><strong>Procedure:</strong> Subject with chronic muscular dystrophy inoculated with SCP-31664.</li>
+<li><strong>Results:</strong> Temporary alleviation of symptoms and muscle strengthening equivalent to an unaffected individual.</li>
+<li><strong>Notes:</strong> The return to baseline after SCP-31664 clearance by the immune system also returned the subject's dystrophy symptoms, suggesting no permanent curative effect on preexisting conditions.</li>
+</ul>
+<h3>Addendum 3: Potential Applications</h3>
+<p>SCP-31664's unique properties present the opportunity to bolster Foundation assets in containment breaches or situations necessitating extraordinary human ability. Proposals for practical field application include a single-use "boost" to Mobile Task Force units during critical missions. Ethical considerations regarding its temporary nature and psychological impact on operatives remain under review.</p>
+<p>While SCP-31664 offers temporary substantial enhancements, the inability to maintain these effects or repeat dosages makes it less ideal for long-term applications. Current research focuses on understanding and potentially replicating the aspects of the virus responsible for enhanced human ability without triggering an immune response. If successful, it could lead to groundbreaking medical and tactical advantages for the Foundation.</p>
+
+    </div>
+    
