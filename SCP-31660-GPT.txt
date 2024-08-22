@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31660 is  A disease that sets your blood on fire, but its pretty cool, actually  </h3> </center>
+
+    <h3>Item #: SCP-31660 - "The Phoenix's Malaise"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31660-GPT.png" alt="Illustration of SCP-31660" />
+        
+<h3>Description:</h3>
+<p>SCP-31660 is a bio-thermic anomaly manifesting as a viral infection with an affinity for human blood plasma. Upon infection, the host’s circulatory system undergoes a remarkable transformation wherein the physical properties of the blood mimic a controlled combustive reaction, often described by subjects as their blood 'catching fire'. Despite this vivid description, SCP-31660 does not cause harm to the host or directly induce pyrolysis of blood; instead, it initiates a series of enzymatic changes that produce a visible radiance and warmth through an unidentified biochemical process.</p>
+<p>Notably, the virus conveys various beneficial effects to its hosts beyond the visual spectacle, including enhanced regenerative capabilities, resistance to pathogens, and temporary heightened cognitive function. For this reason, SCP-31660 has been classified as Thaumiel, as it shows potential for strategic use in field operations or emergency medical situations.</p>
+<p>It is theorized that the original vector for SCP-31660 was a Phoenix-like entity, which may have been a creature of either myth or anomalous origin. The connection arises from the numerous references to the Phoenix in historical accounts of similar phenomena, often tied to tales of miraculous healing and rebirth.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given its utility and benign nature, active containment of SCP-31660 is not focused on eradication but on controlled proliferation and study. SCP-31660 is to be stored within a high-security bio-containment unit at Site-██. Access to SCP-31660 is strictly limited to personnel with Level 4/31660 clearance and requires dual authorization from the Site Director and the head of the Medical Division.</p>
+<p>Subjects selected for exposure to SCP-31660 are to be placed under stringent medical observation for the study of long-term effects and any potential side-effects. A sub-group of D-class personnel has been established to facilitate live environment testing for SCP-31660's applications and capabilities.</p>
+<p>In the event of an outbreak, Mobile Task Force Iota-10 ("Dam Busters") is to be deployed for containment and sterilization protocols. All instances of potential SCP-31660 exposure outside of controlled settings must be reported, and any civilian subjects are to be administered Class-A amnestics following containment procedures.</p>
+<h3>Addendum 1: Experiment Log 31660-A</h3>
+<p><strong>Experiment 31660-A-01</strong>
+- <strong>Subject:</strong> D-4162
+- <strong>Procedure:</strong> Exposure to SCP-31660 via intravenous infection.
+- <strong>Results:</strong> Subject reported immediate sensation of warmth and invigoration. Blood samples exhibited luminescent properties with no signs of combustion or harm.
+- <strong>Notes:</strong> Health checks indicated accelerated healing of minor wounds and fortified immune response.</p>
+<p><strong>Experiment 31660-A-02</strong>
+- <strong>Subject:</strong> Agent Delaney (voluntary exposure)
+- <strong>Procedure:</strong> Exposure to SCP-31660 through controlled environment.
+- <strong>Results:</strong> Agent reported heightened awareness, reflexes, and an increase in problem-solving abilities. Thermal imaging showed increased temperature in the circulatory system without damaging surrounding tissues.
+- <strong>Notes:</strong> Benefits lasted for approximately 72 hours post-exposure before diminishing.</p>
+<h3>Addendum 2: Incident Report 31660-B</h3>
+<p>On [REDACTED], an accidental breach of containment resulted in the infection of a security officer, Officer R█████. The officer reported the characteristic symptoms associated with SCP-31660, including the visible glow of the skin where veins are prominent. However, MTF Iota-10 was able to contain the incident before any major outbreak occurred.</p>
+<p>Surprisingly, Officer R█████ survived an otherwise fatal gunshot wound during the breach, with the wound closing significantly faster than in non-anomalous circumstances. This event prompted further investigation into SCP-31660's regenerative properties.</p>
+<h3>Addendum 3: Extended Applications Research</h3>
+<p><strong>Project Phoenix Down</strong>
+- <strong>Objective:</strong> To investigate the efficacy of SCP-31660 in combat and emergency medical scenarios.
+- <strong>Head Researcher:</strong> Dr. Emiliana Torrez
+- <strong>Progress Notes:</strong> SCP-31660 is showing unparalleled promise in field medicine. Directives to enhance its regenerative traits without triggering autoimmune reactions are underway. The possibility of synthesizing a stable, non-infectious derivative is a primary focus.</p>
+<p><strong>Project Glowing Blood</strong>
+- <strong>Objective:</strong> To examine the potential sociological impact of SCP-31660 exposure in isolated communities.
+- <strong>Head Researcher:</strong> Dr. S██████ K████
+- <strong>Progress Notes:</strong> Studies initiated on potential psychological effects. Concerns regarding cultural contamination and social disruption are being mitigated through the development of protocols for ethical exposure, and schema for integrating the anomaly’s existence into local folklore and explanatory frameworks, where necessary.</p>
+<h3>Addendum 4: Ethics Committee Review</h3>
+<p>A memorandum released by the Ethics Committee outlines several points of contention regarding possible long-term consequences of SCP-31660. There are concerns about dependence, potential evolution of the virus, and unforeseen interactions with other anomalies. Ongoing debates address the morality of using SCP-31660 for the betterment of humankind versus the risks such use encumbers.</p>
+<p>Contingent upon these discussions, the Committee has proposed a temporary moratorium on further active deployment of SCP-31660 outside containment and testing facilities. The final decision awaits a comprehensive risk assessment report.</p>
+
+    </div>
+    
