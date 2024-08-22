@@ -1,0 +1,34 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31662 is  an STI that turns you into a walrus </h3> </center>
+
+    <h3>Item #: SCP-31662 - The Walrus Curse</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31662-GPT.png" alt="Illustration of SCP-31662" />
+        
+<h3>Description:</h3>
+<p>SCP-31662 is an anomalous sexually transmitted infection (STI) that results in a series of physiological transformations in the infected subject, culminating in the complete transfiguration into a walrus (<em>Odobenus rosmarus</em>). The process is gradual, with initial symptoms being easily mistaken for common STI manifestations, such as skin irritation and flu-like conditions.</p>
+<p>The pathogen responsible for SCP-31662 has evaded comprehensive classification as it exhibits both viral and prionic qualities, allowing it to resist standard antiviral or antibacterial treatments and has shown an alarming adaptability to various countermeasures. Infected individuals begin to exhibit physical changes within two weeks post-infection, starting with thickening of the skin, growth of coarse bristles, and progressively more pronounced dental and skeletal alterations. By six to eight weeks post-infection, the transformation is complete, with subjects being indistinguishable from non-anomalous walruses in size, anatomy, and behavior. Subjects retain no human cognitive functions upon completion of the transformation.</p>
+<p>The SCP-31662 is highly contagious during the initial stages of infection, with the possibility of transmission through any form of sexual contact, including but not limited to intercourse, and some cases of high contact skin contact. This has made containment a priority due to the risk of a potential pandemic were it to reach non-isolated populations.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the potential for widespread infection, Foundation Web Crawlers are to monitor civilian medical channels for possible outbreaks of SCP-31662. Any reported cases are to be intercepted by Mobile Task Force Pi-1 ("City Slickers"), who are tasked with containment and transport of affected individuals to Biological Containment Site-66.</p>
+<p>Upon confirmation of infection, individuals are to be quarantined in a cell simulating an appropriate marine environment capable of supporting a fully transformed walrus. The subjects are to be provided with a diet consistent with that of non-anomalous walruses and are to be kept under continuous surveillance until such time as a cure can be developed.</p>
+<p>Personal assigned to SCP-31662 are to undergo mandatory STI screenings on a bi-weekly basis and are prohibited from engaging in any intimate activities with non-Foundation personnel without prior clearance. Should any Foundation staff become infected, they are to be administered Class D amnestics and transferred to a site-approved cover story, to maintain the illusion of disappearance consistent with Foundation protocol for dealing with such situations.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-31662 was first identified in a small coastal town in Alaska, where several residents were reported missing, later found transformed into walruses. Foundation field agents were dispatched after local wildlife officials recorded an abnormal increase in the walrus population, coinciding with the reports of missing individuals.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 31662-A:</h4>
+<p><strong>Subject:</strong> D-84321, male, 34 years old, confirmed to have contracted SCP-31662.
+<strong>Procedure:</strong> Subject was administered a course of traditional antiviral and antibiotic medications.
+<strong>Result:</strong> No change in the progression rate of symptoms. The subject completed full transformation into a walrus on schedule.</p>
+<h4>Experiment 31662-B:</h4>
+<p><strong>Subject:</strong> D-74658, female, 29 years old, confirmed to have contracted SCP-31662 one week prior to treatment.
+<strong>Procedure:</strong> Subject was treated with an experimental antiprionic medication produced by the Foundation's research team.
+<strong>Result:</strong> The progression of symptoms was slowed, with full transformation being delayed by additional two weeks. No reversal of symptoms was observed.</p>
+<h3>Addendum 3: Incident Report 31662-1</h3>
+<p>Despite stringent containment protocols, a breach occurred when a researcher, later identified as Dr. Emil Vargas, exposed himself to SCP-31662 through an undeclared relationship with an SCP-31662 subject. Upon discovery, Dr. Vargas was terminated, and an investigation into potential further breaches initiated.</p>
+<p>This incident has prompted the Foundation to increase security measures and enforce mandatory ethics training for all personnel assigned to SCP-31662 to prevent any emotional attachments that might compromise containment.</p>
+
+    </div>
+    
