@@ -1,0 +1,37 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31672 is  that the teletubbies are the larval form of an anomalous species, being exploited by the BBC for entertainment. There are no actors in suits, that's just a cover story. </h3> </center>
+
+    <h3>Item #: SCP-31672 - "The Unseen Sun"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31672-GPT.png" alt="Illustration of SCP-31672" />
+        
+<h3>Description:</h3>
+<p>SCP-31672 designates four entities visually resembling the characters from the children's television show "Teletubbies." These entities, referred to as SCP-31672-A through SCP-31672-D, are believed to be the juvenile form of an, as of yet, unclassified anomalous species. Examination of the entities has been impossible due to their inherent properties and the influence of SCP-31672-E.</p>
+<p>SCP-31672-E is an anomalous sentient aerial phenomenon taking the form of a large, brightly colored sun with a human infant's face depicted in its center. Interaction with SCP-31672-E has proven to be mentally destabilizing to all involved personnel. The presence of SCP-31672-E appears to nurture and protect SCP-31672-A through SCP-31672-D, as well as exert a type of psychological compulsion or memory-altering effect on nearby humans, leading them to believe these entities are part of a children's television program produced by the BBC.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As mainstream exposure to SCP-31672 has already occurred, containment efforts are focused on information suppression and the continual broadcast of a fictionalized, non-anomalous television show under the guise of the original "Teletubbies," to mask the existence of the true SCP-31672. The BBC has been infiltrated by Foundation personnel to maintain this narrative. All footage, merchandising, and associated media featuring the true SCP-31672 entities have been classified as top secret and restricted to Level 4 personnel or higher.</p>
+<p>Given the psychological influence of SCP-31672-E, a dedicated media analysis team is to constantly monitor broadcasts for any signs of anomalous activity. Any reports or evidence indicating the presence of SCP-31672 in mass media or public spaces are to be immediately flagged for intervention by Mobile Task Force Pi-8 ("Reality Benders"), who are to administer amnestics as necessary and perform crowd and witness suppression.</p>
+<p>Access to the actual location of the entities, which exists in a space inconsistent with current topographical understanding, is strictly prohibited without approval from two or more O5 Council members.</p>
+<h3>Addendum 1: Initial Discovery Report</h3>
+<p><strong>1.1 Encounter Report:</strong> SCP-31672 was initially reported by a BBC staff member who, under the effect of SCP-31672-E, inadvertently emailed classified production documents to non-Foundation individuals. The Foundation became involved after numerous reports of psychological trauma and unexplainable experiences from those exposed to raw footage of SCP-31672-A through SCP-31672-D sans the presence of SCP-31672-E.</p>
+<p><strong>1.2 Field Agent Statement:</strong> An embedded Foundation agent reported observing SCP-31672-A through SCP-31672-D consuming organic and inorganic matter in ways that defied known biological processes. Additionally, subjects in proximity without SCP-31672-E tended to act increasingly erratic, claiming reality was 'folding.'</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>2.1 Experiment Log #31672-03:</strong></p>
+<p><strong>Subject:</strong> D-8744 equipped with audiovisual recording devices</p>
+<p><strong>Procedure:</strong> D-8744 was instructed to approach SCP-31672-A and attempt communication.</p>
+<p><strong>Results:</strong> Upon nearing SCP-31672-A, D-8744 began to display signs of extreme psychological distress. Video feeds became distorted, and SCP-31672-A was heard emitting non-human vocalizations. D-8744 was later found in a catatonic state, repeating the phrase "the sun sees all."</p>
+<p><strong>2.2 Experiment Log #31672-12:</strong></p>
+<p><strong>Subject:</strong> Remote-controlled drone</p>
+<p><strong>Procedure:</strong> Drone equipped with a suite of scientific instruments was sent to collect samples from SCP-31672-D.</p>
+<p><strong>Results:</strong> Drone operations were disrupted by an intense luminosity emanated by SCP-31672-E. Data corrupted and drone returned manually, revealing superficial melting despite no record of high temperatures.</p>
+<h3>Addendum 3: Incident Report 31672-Alpha</h3>
+<p><strong>3.1 Incident Summary:</strong> On ██/██/20██, a broadcast equipment failure resulted in 27 seconds of unaltered SCP-31672 footage being aired during daytime television. Witnesses described intense feelings of dread and reported disturbing hallucinations.</p>
+<p><strong>3.2 Foundation Response:</strong> A worldwide disinformation campaign was initiated, attributing the broadcast to a psychological horror art project. Class-A amnestics were administered on a large scale.</p>
+<p><strong>3.3 Aftermath:</strong> Since the incident, there have been increased reports of a 'malicious sun' in children's nightmares, potentially indicating an as-yet-unmapped influence of SCP-31672-E on the collective unconscious.</p>
+<p><strong>Note from Dr. █████:</strong> "We must explore further countermeasures to SCP-31672-E's compulsion effects. I fear that even our containment procedures may not be immune to its influence. The constant vigilance of our Media Analysis division is essential to prevent any further breaches."</p>
+<p>Foundation efforts continue to focus on preventing public knowledge of SCP-31672's true nature and origins, while research teams are assigned to develop a more in-depth understanding of its lifecycle, abilities, and potential threats to both normalcy and human sanity.</p>
+
+    </div>
+    
