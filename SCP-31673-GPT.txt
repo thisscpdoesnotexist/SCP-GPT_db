@@ -1,0 +1,54 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31673 is  A cognitive behaviour therapy device that has a frighteningly high chance of melting people instead </h3> </center>
+
+    <h3>Item #: SCP-31673 - "Pandora's Couch"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31673-GPT.png" alt="Illustration of SCP-31673" />
+        
+<h3>Description:</h3>
+<p>SCP-31673 is an ostensible cognitive behavior therapy device resembling a mid-century chaise lounge. The item is upholstered in an anomalous fabric with a pattern that draws the eye but eludes detailed description; observers fail to remember the pattern's specifics moments after viewing. SCP-31673's anomalous properties manifest when a subject lies upon it and engages in self-directed speech typically associated with psychotherapy.</p>
+<p>Subjects report a heightened sense of clarity regarding their thoughts and experiences. These periods of introspection, termed 'sessions,' can vary in length from several minutes to multiple hours. In approximately 30% of recorded sessions, subjects experience a spontaneous and irreversible process of molecular destabilization, colloquially termed 'melting.' This effect has demonstrated a partial bias toward individuals harboring significant emotional trauma or repressed memories.</p>
+<p>Investigation into the object's manufacture has uncovered an association with Dr. ████████ █████, a controversial psychiatrist known for experimenting with radical treatments for mental illnesses in the 19######s. Records indicate SCP-31673 was a prototype device aimed at confronting and eradicating psychological distress by unexplained means.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31673 is housed in a standard containment chamber within Site-██. The chamber is equipped with video surveillance and a temperature-controlled environment to mitigate any unforeseen activation of SCP-31673's properties. Access is restricted to Level-3 personnel and above, or to those granted special exemption by Site Director ██.</p>
+<p>All interaction with SCP-31673 requires approval from at least two Level-4 personnel, with a full psychological evaluation conducted on the requestor. Sessions are strictly forbidden outside of controlled experiments, which must include safety measures to terminate the session remotely.</p>
+<p>To prevent accidental exposure, SCP-31673 is covered by a non-anomalous, opaque tarp when not in use. Under no circumstances are staff to sit or lie on SCP-31673 without full hazmat protection and an immediate intervention team on standby.</p>
+<h3>Addendum 1: Initial Recovery Log</h3>
+<p>SCP-31673 was recovered from a derelict warehouse in ██████████ following an uptick in local missing person reports. Foundation agents embedded in local law enforcement were dispatched to investigate and found several desiccated remains in the vicinity of the object. Forensic analysis suggested a connection between the device and the cause of death, prompting immediate containment.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 31673-E1:</h4>
+<ul>
+<li><strong>Subject</strong>: D-8492</li>
+<li><strong>Procedure</strong>: D-8492 was instructed to discuss recent disciplinary infractions.</li>
+<li><strong>Result</strong>: Subject completed a 15-minute session with no effects. Reported feeling 'a little lighter.'</li>
+</ul>
+<h4>Experiment 31673-E2:</h4>
+<ul>
+<li><strong>Subject</strong>: D-13201 (History of PTSD)</li>
+<li><strong>Procedure</strong>: Subject was asked to recount a traumatic event from their military service.</li>
+<li><strong>Result</strong>: Approximately 10 minutes into the session, D-13201 began to exhibit signs of distress before 'melting' commenced. The process concluded in 47 seconds, leaving behind a residual organic slush. Session terminated.</li>
+</ul>
+<h4>Experiment 31673-E3:</h4>
+<ul>
+<li><strong>Subject</strong>: D-4371 (No significant mental health history)</li>
+<li><strong>Procedure</strong>: Subject prompted to vocalize aspirations and future goals.</li>
+<li><strong>Result</strong>: D-4371 spoke at length for one hour, experiencing no adverse effects.</li>
+</ul>
+<h4>Experiment 31673-E4:</h4>
+<ul>
+<li><strong>Subject</strong>: Dr. ██████ (Volunteer with no known psychological ailments)</li>
+<li><strong>Procedure</strong>: Subject to engage in a self-reflective monologue about their career with the Foundation.</li>
+<li><strong>Result</strong>: At 32 minutes, Dr. ██████'s right hand began to destabilize, triggering the emergency protocol. The session was halted, and the subject successfully evacuated and treated, resulting in partial limb loss.</li>
+</ul>
+<h3>Addendum 3: Incident Log 31673-Δ</h3>
+<p>On ██/██/████, SCP-31673 activated without an occupant, a phenomenon not previously observed. Security footage later revealed that a junior researcher, Dr. ███████, had inadvertently directed a self-reflective monologue toward SCP-31673 from a distance while preparing for an unrelated experiment.</p>
+<p>Dr. ███████ experienced a complete molecular destabilization event before containment protocols could be enacted. No remains were recoverable for study. SCP-31673's effective radius for induction of therapy sessions is now under further investigation.</p>
+<h3>Addendum 4: Researcher Notes</h3>
+<p>Following the tragic loss of Dr. ███████, researchers hypothesize that SCP-31673's capacity to induce molecular destabilization is linked not to the physical contact with the object, but to a range of influence triggered by the verbalization of deep cognitive processes. Experimentation priorities have shifted to focus on understanding this radius of effect and developing countermeasures to protect against unintended activations. Continued investigation is also being carried out to decipher the potential effects of SCP-31673's anomalous fabric.</p>
+<h3>Addendum 5: Psychological Analysis</h3>
+<p>A pattern has emerged indicating that SCP-31673's 'melting' process may be associated with the intensity and veracity of the psychological traumas verbalized by subjects during sessions. This discovery raises ethical concerns regarding experimental exposure of D-class personnel with known traumatic histories. Future experiment proposals must now include a thorough ethical review and be accompanied by comprehensive psychological profiles of potential subjects.</p>
+
+    </div>
+    
