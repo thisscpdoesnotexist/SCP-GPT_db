@@ -1,0 +1,44 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31683 is  billionaire philanthropist H.J. Blood, who is actually the an immortal woman's tulpa that bound herself to a large amount of the woman's blood and animated it into a blood golem body for herself. </h3> </center>
+
+    <h3>Item #: SCP-31683 - Hematikos Resonance</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31683-GPT.png" alt="Illustration of SCP-31683" />
+        
+<h3>Description:</h3>
+<p>SCP-31683, is an anomalous entity self-identified as "H.J. Blood," a wealthy patron with a long history of benevolence and philanthropic activities. Upon investigation, SCP-31683 was found to have no verifiable past prior to the late 19th century, and several Foundation-led historical audits have failed to uncover conclusive records of their existence before this period, despite "H.J. Blood" claiming to be several centuries old.</p>
+<p>SCP-31683 possesses a corporeal form which is essentially a highly sophisticated blood golem. It maintains a human appearance at all times and is indistinguishable from a non-anomalous individual while clothed. SCP-31683's bodily composition is entirely sanguine; it can manipulate its body at will, allowing it to alter its form, regenerate from wounds that would be fatal to an ordinary human, and secrete or absorb blood through its skin.</p>
+<p>Further investigation revealed SCP-31683 to be the creation of an immortal woman, designated SCP-31683-A. SCP-31683-A, using a confluence of alchemical, thaumaturgical, and unknown anomalous methods, generated SCP-31683 through a complex ritual that imbued a portion of her blood with her consciousness. This construct was originally designed to act as a proxy, allowing SCP-31683-A to interact with society under the guise of philanthropy while she remained in isolation to avoid attracting attention due to her immortality.</p>
+<p>SCP-31683 exhibits autonomy and a distinct personality separate from SCP-31683-A, though it remains psychically tethered to its creator. SCP-31683's primary goals are aligned with the betterment of humankind and the clandestine support of the Foundation's efforts, hence its classification as Thaumiel.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31683's unique nature and beneficial objectives have positioned it as an asset rather than a threat to the Foundation. As a result, containment is focused on surveillance, the preservation of its perceived identity, and the suppression of public knowledge regarding its anomalous attributes.</p>
+<p>SCP-31683 is allowed a high degree of autonomy under the pretense of continued philanthropy. It is provided with a safe house that has been outfitted with specialized security measures to monitor its activities and to ensure that it does not breach the masquerade. Foundation personnel regularly interact with SCP-31683 under the guise of financial advisors and personal assistants to relay instructions or collect intelligence.</p>
+<p>The autonomous nature of SCP-31683 requires it to be under continuous surveillance with immediate intervention protocols in place should it deviate from established behaviors that could lead to the exposure of the anomalous community.</p>
+<p>SCP-31683-A remains uncontained yet cooperative. A liaison has been assigned to maintain discreet communication with SCP-31683-A to monitor her condition and intentions regarding SCP-31683.</p>
+<h3>Addendum 1: Historical Audit</h3>
+<ul>
+<li><strong>Addendum 1-A:</strong> Multiple donations to key scientific and medical research facilities leading to breakthroughs in blood-related disorders and diseases, which were later found to be indirectly facilitated by SCP-31683.</li>
+<li><strong>Addendum 1-B:</strong> Photographs dating back to the late 19th century depict an individual resembling SCP-31683 among various social circles of philanthropists and humanitarians. Facial recognition has affirmed the identity of SCP-31683 in these historical contexts.</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li><strong>Experiment 31683-E-01:</strong> Testing the regenerative capabilities of SCP-31683. Outcome: SCP-31683 fully regrew a deliberately amputated digit within three hours.</li>
+<li><strong>Experiment 31683-E-02:</strong> Analysis of SCP-31683's blood for potential use in Foundation medical treatment. Outcome: Partial success, though any blood samples taken from SCP-31683 gradually lose their anomalous properties when separated from the entity for more than twelve hours.</li>
+<li><strong>Experiment 31683-E-03:</strong> SCP-31683 was asked to attempt communication with SCP-31683-A through their psychic link. Outcome: Successful two-way communication was established and recorded.</li>
+<li><strong>Experiment 31683-E-04:</strong> Exposure to a conflict scenario to observe response and decision-making processes. Outcome: SCP-31683 demonstrated avoidance of violence and a preference for negotiation and resolution, in keeping with its philanthropic persona.</li>
+</ul>
+<h3>Addendum 3: Incident Log 31683-I-01</h3>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Incident:</strong> SCP-31683 was present at a high-profile charity event when an assassination attempt occurred on a public figure also in attendance. SCP-31683 neutralized the threat by discreetly manipulating its blood to form a barrier, shielding the intended victim.</li>
+<li><strong>Response:</strong> The Foundation's cover-up team disseminated a narrative attributing the event to a malfunction of a newly implemented security system.</li>
+<li><strong>Aftermath:</strong> SCP-31683 received a formal reprimand for risking exposure and was reminded of its containment protocols. Additional directives were implemented to limit its public appearances without prior Foundation approval.</li>
+</ul>
+<h3>Addendum 4: Note from Dr. ████</h3>
+<p>SCP-31683 continues to demonstrate a fascinating blend of human and anomalous traits. It has shown loyalty to the Foundation and conveys a genuine desire to support humanity's progress. While it remains a significant asset, the potential risk for an unforeseen behavior shift due to its psychic link with SCP-31683-A necessitates ongoing psychological evaluation and monitoring of both entities. All interactions and activities must be methodically recorded, ensuring that any deviations are investigated and managed promptly.</p>
+<p>It's our responsibility to ensure SCP-31683 remains an ally and does not become a liability. The ethical quandaries presented by SCP-31683's existence and its ties to SCP-31683-A add layers of complexity to the already intricate nature of our work. This case serves as a constant reminder that even Thaumiel-class SCPs require vigilant containment and oversight.</p>
+
+    </div>
+    
