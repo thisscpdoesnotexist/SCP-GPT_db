@@ -1,0 +1,68 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31695 is  Moai doo wop </h3> </center>
+
+    <h3>Item #: SCP-31695 - "The Harmony Stones"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31695-GPT.png" alt="Illustration of SCP-31695" />
+        
+<h3>Description:</h3>
+<p>SCP-31695 is a group of fifteen statues resembling the Moai of Easter Island, though with notable differences. These statues are approximately 2.5 meters tall and carved from a unique basalt compound not native to Earth, having an anomalous mineral embedded within the rock that radiates a faint blue luminescence.</p>
+<p>Close proximity to SCP-31695 induces a state of calm in living organisms, with an effective radius of 5 meters. The statues are believed to be sentient and possess the ability to produce vocal sounds akin to human humming. Analysis of the hums suggests a sophisticated level of musical composition, with harmonies and rhythms unidentified in any human culture. Upon detecting the presence of organisms within their vicinity, SCP-31695 will commence their "performance."</p>
+<p>The statues perform a synchronized musical sequence that lasts exactly 7 minutes and 31 seconds, with a two-hour intermission between performances. Their music promotes feelings of unity and peace among listeners and has been shown to temporarily alleviate symptoms of psychological stress and anxiety in subjects exposed to the hum.</p>
+<p>SCP-31695 was discovered in an underground cavern in ████████, following reports from local inhabitants about mysterious songs heard during the night. No documentation of SCP-31695's origins has been found thus far.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31695 is contained within the Acoustic Containment Chamber (ACC) at Site-45. The ACC is soundproofed to prevent unintentional exposure of personnel to SCP-31695's effects. Surveillance cameras are installed to monitor the statues' activity. Any research involving SCP-31695 must be approved by at least two Level 3 personnel.</p>
+<p>Due to the benign nature of SCP-31695, containment focuses on prevention of damage to the artifacts and to ensure their effects remain localized within Site-45. Personnel entering ACC for maintenance or research purposes must wear noise-cancelling headphones and are advised not to interact with SCP-31695 without a specific, approved purpose.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<ul>
+<li>
+<p><strong>1A:</strong> Origin Search<br />
+Initial attempts to trace the origins of SCP-31695 have been inconclusive. Radiometric dating suggests the statues were carved approximately 1500 years ago, but their presence in the discovered cavern appears more recent. Experts in geology and archaeology continue to study the material composition and potential cultural significance of SCP-31695. </p>
+</li>
+<li>
+<p><strong>1B:</strong> Initial Report<br />
+Local folklore hints at “guardians of song” that would “guide the lost back to their kin” and “soothe troubled spirits.” However, there is no concrete evidence that directly ties these legends to SCP-31695.</p>
+</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>2A:</strong> Emotional Response Test<br />
+Subjects exposed to SCP-31695 reported significantly reduced stress levels and demonstrated increased ability to cooperate with peers after the testing period ended.</p>
+</li>
+<li>
+<p><strong>2B:</strong> Extended Exposure Test<br />
+Continuous exposure for periods longer than 48 hours resulted in psychological dependence, with subjects expressing feelings of unease and irritability when removed from SCP-31695’s presence. It is recommended that all interactions with SCP-31695 be limited to a maximum of 4 hours daily.</p>
+</li>
+<li>
+<p><strong>2C:</strong> Cross SCP Experiment<br />
+SCP-███ was exposed to SCP-31695. Results inconclusive due to SCP-███’s inherent resistance to emotional influence. Experiment supervisors have suggested a retest with SCP-████, which exhibits heightened sensitivity to emotional stimuli.</p>
+</li>
+</ul>
+<h3>Addendum 3: Incident Log</h3>
+<ul>
+<li>
+<p><strong>3A:</strong> Security Breach<br />
+On [DATA EXPUNGED], an unauthorized individual gained access to SCP-31695's chamber. The subject was a member of an extremist group seeking to exploit anomalous items. However, upon nearing SCP-31695, the individual abandoned their mission, citing an overwhelming sense of peace. The individual surrendered and is under Foundation custody. This incident prompted a review of security protocols at Site-45.</p>
+</li>
+<li>
+<p><strong>3B:</strong> Healing Properties?<br />
+Three D-Class personnel with histories of PTSD were exposed to SCP-31695 to assess potential therapeutic applications. All three subjects reported temporary alleviation of PTSD symptoms. Dr. ██████ is overseeing a pilot program for incorporating SCP-31695 into trauma therapy for Foundation staff.</p>
+</li>
+</ul>
+<h3>Addendum 4: Researcher’s Notes</h3>
+<ul>
+<li>
+<p><strong>4A:</strong> Dr. Imani Ngūrutū's Statement<br />
+"The harmonic complexity of SCP-31695's music suggests a civilization with an advanced understanding of acoustic science and psychological effects of sound. Efforts to decode any potential language embedded within the hums are ongoing. The sensations induced by SCP-31695's music could be construed as a form of communication; perhaps the statues are trying to tell us something."</p>
+</li>
+<li>
+<p><strong>4B:</strong> Potential Applications<br />
+The research team is exploring ways to integrate recordings of SCP-31695's performances into stress relief programs for Foundation personnel. Ethical discussions regarding the use of SCP-31695's effects on the human psyche are in progress, particularly concerning the implications of artificial emotional manipulation.</p>
+</li>
+</ul>
+
+    </div>
+    
