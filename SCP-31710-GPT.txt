@@ -1,0 +1,33 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31710 is  If you crush a half a bottle of melatonin into an Arizona sweet tea it's called a "Fancy Dancer" and when you drink it your skeleton detaches from your body and floats down a river of pure nightmares and something that can only be described as "stanky jazz" </h3> </center>
+
+    <h3>Item #: SCP-31710 - "Fancy Dancer"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31710-GPT.png" alt="Illustration of SCP-31710" />
+        
+<h3>Description:</h3>
+<p>SCP-31710 is a seemingly ordinary beverage comprised of an Arizona™ sweet tea and crushed melatonin tablets in a specific ratio, herein referred to as the "Fancy Dancer mixture." Upon ingestion, SCP-31710's anomalous properties manifest within moments, causing the consumer's skeletal structure to phase through bodily tissues without causing physical damage to soft tissues or the skeletal system itself. Once freed, the skeleton is drawn to the nearest natural water source, which anomalously transforms into a flowing stream irrespective of the current state of the water body.</p>
+<p>Upon entry into the stream, the subject's skeleton begins to navigate through a quasi-dimensional space dubbed SCP-31710-1. This space is perceptible to the subject as a nightmarish aqueous expanse underlain with music described as "stanky jazz" – an amalgamation of discordant brass, rhythmic inconsistencies, and unsettling bass undertones. Extensive research has provided little information regarding the origins of the sounds or the "river" within SCP-31710-1, as equipment invariably fails or is lost during expeditions.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the impossibility of containing the knowledge required to create SCP-31710, containment focuses on prevention and misinformation. The Foundation has infiltrated key positions in the Arizona™ Beverage Company and monitors for unusual sales patterns of Arizona™ sweet tea. Likewise, pharmaceutical companies producing melatonin are kept under surveillance for signs of SCP-31710 production.</p>
+<p>Foundation web crawler AI, designated "Charon", is tasked with suppressing knowledge dissemination and creation of SCP-31710 through online platforms, interceding in real-time to disrupt communication should instructions for creating SCP-31710 surface.</p>
+<p>Individuals with known exposure to SCP-31710 or knowledge thereof are to be detained, administered Class-A amnestics, and released following a cover story tailored to their personal circumstances.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-31710 came to the Foundation's attention after multiple missing persons cases in the vicinity of ████ River were linked with the last known activity of consuming a peculiarly described beverage at a local bar. An embedded Foundation agent identified the drink as a potential anomalous substance, leading to Class-3 containment protocols.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 31710-E01:</strong>
+- <strong>Procedure:</strong> Subject D-9931 was instructed to consume a prepared dose of SCP-31710.
+- <strong>Results:</strong> D-9931's skeleton promptly detached and proceeded to the nearest fountain, which transformed into an SCP-31710-1 instance. D-9931 was in extreme distress, reporting sensations of weightlessness and intense fear. After approximately 12 hours, the skeleton returned, reintegrating with D-9931, who was left in a traumatized, catatonic state. No further useful data could be extracted.</p>
+<p><strong>Experiment 31710-E02:</strong>
+- <strong>Procedure:</strong> Exploration of SCP-31710-1 with skeletal remains of a deceased D-class, fitted with multiple recording devices.
+- <strong>Results:</strong> All devices ceased to transmit data upon entry into SCP-31710-1. Recovery of the remains and equipment was unsuccessful.</p>
+<h3>Addendum 3: Incident 31710-A</h3>
+<p>On ██/██/████, a containment breach occurred when Researcher ██████'s credentials were used to access and consume SCP-31710. Eyesight reports indicate Researcher ██████'s skeleton dancing erratically within SCP-31710-1. A background check revealed severe clearance violations and illicit connections to the anomalous underground. The individual in question has been reclassified as PoI (Person of Interest) 31710-B with a pending investigation into potential espionage and sabotage.</p>
+<h3>Addendum 4: Ongoing Effects and Research</h3>
+<p>Further study has revealed that entities within SCP-31710-1 may be sentient, displaying some recognition of and reaction to external stimuli. Efforts to communicate with these entities are underway. The theoretical physics and metaphysics departments have launched a joint initiative to understand the possible quantum and extradimensional properties of SCP-31710 and SCP-31710-1, which may yield advancements in Foundation understanding of parallel or alternate realities.</p>
+<p>Containment procedures have been updated to include a possible memetic agent component of SCP-31710 due to the alluring nature of its creation. Additional Counter-Memetics protocols have been set in place as a prevention measure.</p>
+
+    </div>
+    
