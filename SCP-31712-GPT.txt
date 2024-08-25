@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31712 is  "YOU ARE KINOKO." "WE ARE KINOKO." </h3> </center>
+
+    <h3>Item #: SCP-31712 - "YOU ARE KINOKO." "WE ARE KINOKO."</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31712-GPT.png" alt="Illustration of SCP-31712" />
+        
+<h3>Description:</h3>
+<p>SCP-31712 is a cognitohazardous entity or phenomenon that primarily manifests through written and spoken communication. It exhibits a form of aggressive memetic propagation, with the phrase "YOU ARE KINOKO." "WE ARE KINOKO." being the primary vector for transmission. Individuals exposed to this phrase, designated as SCP-31712-1, undergo a series of psychological alterations leading to a strong communal identity and eventual physical mutation.</p>
+<p>SCP-31712-1 instances initially exhibit obsessive thought patterns centered around the concept of kinoko, the Japanese word for mushroom. Within 24-48 hours post-exposure, subjects begin to express a desire to be near others infected by SCP-31712. This escalates into a compulsion to form close-knit groups, which SCP-31712-1 instances refer to as "mycelium networks".</p>
+<p>The final stage of SCP-31712 infection is biological transformation. Subjects' skin takes on a pallid, spongy texture, and fungal growths begin to emerge from their body. The transformation continues until the individual is no longer recognizable as human and becomes a sessile organism, physically and presumably mentally integrated into a collective entity that communicates through the original vector phrase.</p>
+<p>This transformation appears to be directed by a central intelligence or hive-mind referred to by infected instances as "The Great Mycelium". Uncontained, SCP-31712 poses a risk of an XK-Class "End-of-the-World" Scenario due to its rapid spread and potential to overwrite humanity.</p>
+<h3>Special Containment Procedures:</h3>
+<p>To prevent widespread infection, all written or digital references to the SCP-31712 phrase must be intercepted and erased by Foundation web crawlers and disinformation agents. Any recorded usage of the SCP-31712 phrase in media or online platforms is to be reported and expunged immediately.</p>
+<p>Persons who have been exposed to SCP-31712 are to be contained in individual biohazard containment cells. These cells are to be environmentally controlled to inhibit fungal growth and are to be inspected daily for signs of SCP-31712-related mutation.</p>
+<p>Research into potential psychological inoculation against cognitohazardous effects is ongoing. Foundation researchers who have not undergone inoculation protocols are not permitted to directly engage with SCP-31712-1 instances or their communications.</p>
+<p>Field agents are to be equipped with audio dampening equipment and undergo regular psychological screenings to ensure they have not been compromised by exposure to SCP-31712.</p>
+<p>The Foundation is also conducting ongoing research into possible connections between SCP-31712 and other fungal-based anomalies within the Foundation's database to understand and potentially halt its spread.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-31712 was first identified in Japan following reports of entire communities disappearing overnight. Initial recon teams found these areas overtaken by massive fungal growths and structures reminiscent of human architecture populated with SCP-31712-1 instances.</p>
+<h3>Addendum 2: Incident Log 31712-α</h3>
+<p><strong>Incident 31712-α-1</strong>: A Foundation-operated fake news website inadvertently published a story containing the SCP-31712 phrase. The timely intervention by Foundation web crawlers contained the breach, but an estimated 200 individuals were exposed. A Mobile Task Force was dispatched to track down affected persons and administer amnestics or containment as required.</p>
+<p><strong>Incident 31712-α-2</strong>: A local radio host, later identified as SCP-31712-1, broadcasted the SCP-31712 phrase multiple times before the signal could be jammed. The ensuing outbreak resulted in a temporary quarantine of the affected town. The radio station was subsequently demolished, and a cover story was circulated regarding a toxic gas leak.</p>
+<h3>Addendum 3: Experiment Log 31712</h3>
+<p><strong>Experiment 31712-01</strong><br />
+<strong>Subject</strong>: D-class personnel exposed to written SCP-31712 phrase<br />
+<strong>Result</strong>: Subject transformed into SCP-31712-1 and began to exhibit first-stage symptoms. No further progression documented due to the subject being terminated before physical transformation.</p>
+<p><strong>Experiment 31712-02</strong><br />
+<strong>Subject</strong>: D-class personnel exposed to audio recording of SCP-31712 phrase<br />
+<strong>Result</strong>: Similar progression to Experiment 31712-01 with rapid onset of communal behavior. Experiment terminated early due to attempted breach by subjects.</p>
+<p><strong>Experiment 31712-03</strong><br />
+<strong>Subject</strong>: D-class personnel inoculated with experimental cognitohazard resistance drug<br />
+<strong>Result</strong>: Subject showed initial resistance to SCP-31712 phrase but eventually succumbed, suggesting a stronger inoculant is required.</p>
+<p><strong>Experiment 31712-04</strong><br />
+<strong>Subject</strong>: SCP-31712-1 instance isolated from "mycelium network"<br />
+<strong>Result</strong>: Individual showed extreme distress and deteriorated rapidly, indicating a vital need for communal integration for SCP-31712-1 instances.</p>
+<h3>Addendum 4: Interview Log 31712-██</h3>
+<p>An interview was conducted with an SCP-31712-1 instance exhibiting advanced communicative abilities. It repeatedly uttered the phrase "YOU ARE KINOKO." "WE ARE KINOKO." and expressed concepts of unity and shared consciousness. The instance claimed that SCP-31712 is a "blessing" and that resistance would be "futile". Further interviews have been suspended due to heightened risk of cognitohazard exposure to staff.</p>
+<h3>Addendum 5: Containment Breach Protocol</h3>
+<p>In the event of a containment breach involving SCP-31712, the immediate area is to be locked down, and infected individuals are to be terminated. A cover story will be disseminated to the public if necessary. Samples of mutated tissue are to be collected for study, and incineration of all infected biomatter is mandatory.</p>
+<p>Containment of SCP-31712 remains a top priority due to its highly infectious nature and potential to cause catastrophic social and biological alteration to human civilization.</p>
+
+    </div>
+    
