@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31798 is  Santa Claus </h3> </center>
+
+    <h3>Item #: SCP-31798 - "Polarity’s Patron"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31798-GPT.png" alt="Illustration of SCP-31798" />
+        
+<h3>Description:</h3>
+<p>SCP-31798 is an anomalous entity resembling historical and popular depictions of the folklore character Santa Claus. The entity appears as an elderly male of robust build, with a prominent white beard and typically dressed in red and white winter clothing, including a distinctive hat and heavy coat.</p>
+<p>SCP-31798 has been observed to possess multiple anomalous properties, including the ability to manipulate space-time, instantaneously travel vast distances (potentially interdimensional), and produce objects from an apparently unlimited subspace inventory, hereafter referred to as SCP-31798-A. These objects range from traditional children's toys to items of a more advanced and sometimes anomalous nature.</p>
+<p>Examinations during momentary containment have revealed that SCP-31798 is biologically human but exhibits greatly enhanced durability, longevity, and regenerative capabilities. These regenerative capabilities extend to a full recovery from incidents resulting in extreme physical trauma that would otherwise be fatal.</p>
+<p>The entity has shown a consistent behavioral pattern, primarily focusing on delivering gifts to people across the globe, ostensibly based on an esoteric moral code determining the receivers' 'naughtiness' or 'niceness.' SCP-31798 is generally amiable and cooperative with Foundation personnel, although it resists any attempts at prolonged containment, escaping by unknown means when efforts are made to do so.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its beneficial anomalous effects and cooperative nature, SCP-31798 is to be monitored from a distance rather than physically contained. Satellite and ground-level surveillance are to be employed during its active periods, predominantly between the dates of November 1st and December 26th of each calendar year.</p>
+<p>In order to minimize public awareness of SCP-31798’s anomalous properties, the Foundation runs an ongoing disinformation campaign to ensure that any sightings or interactions with SCP-31798 are dismissed as holiday festivities or impersonation.</p>
+<p>Foundation personnel assigned to SCP-31798 are to carry out annual negotiations to secure various items and information from SCP-31798-A’s inventory which may be of use to the Foundation. These negotiations also serve to maintain rapport and open lines of communication between the entity and the Foundation.</p>
+<h3>Addendum 1: Recovered Document</h3>
+<h4>Addendum 1-A: Interview Log</h4>
+<p><em>The following excerpt is from an interview conducted by Dr. Alison Cho with SCP-31798 on December 24, 20██.</em></p>
+<p><strong>Dr. Cho:</strong> "Can you tell us how you determine who receives gifts each year?"</p>
+<p><strong>SCP-31798:</strong> "Ho ho ho, well, doctor, it's a matter of the heart. My list, it's more than just names; it's the stories of their lives, their struggles, and their kindness. It's a magical ledger, if you will."</p>
+<h4>Addendum 1-B: SCP-31798-A Cataloging Effort</h4>
+<p><strong>Project Leader:</strong> Dr. Menno R. Kraus</p>
+<p>As per SCP-31798’s cooperation, Foundation personnel have cataloged a comprehensive list of items produced from SCP-31798-A with particular attention to anomalous objects. These items have been invaluable in advancing Foundation research and containment capabilities.</p>
+<h3>Addendum 2: Incident 31798-Epsilon</h3>
+<h4>Addendum 2-A: Event Description</h4>
+<p>On the night of December 24th, 20██, SCP-31798 was observed deviating from its typical pattern and instead intervened in an uncontained anomalous event involving SCP-████. Local surveillance footage shows SCP-31798 producing an artifact from SCP-31798-A and utilizing it to contain and ultimately neutralize SCP-████, preventing a potential XK-Class End-of-the-world Scenario.</p>
+<h4>Addendum 2-B: After Action Report</h4>
+<p>Following the aforementioned containment breach, SCP-31798 was debriefed by Foundation personnel. It was revealed that SCP-31798 had previous knowledge of SCP-████ and had preemptively prepared a countermeasure. This indicates a sophisticated level of awareness and preparedness on the part of SCP-31798, further cementing its Thaumiel classification.</p>
+<h3>Addendum 3: Experiment Log 31798</h3>
+<h4>Addendum 3-A: Experiment 31798-12</h4>
+<p><strong>Date:</strong> November 12, 20██</p>
+<p><strong>Lead Researcher:</strong> Dr. Margot Durand</p>
+<p><strong>Purpose:</strong> To determine the extent of SCP-31798's knowledge of individuals prior to the distribution of gifts.</p>
+<p><strong>Procedure:</strong> A D-Class subject was instructed to write a fictional backstory which was then placed within SCP-31798's range of observation.</p>
+<p><strong>Results:</strong> SCP-31798 later approached the D-Class during its active period, presenting them with a gift specifically tailored to the fabricated backstory.</p>
+<p><strong>Analysis:</strong> SCP-31798 has the ability to discern genuine personal histories from fabrications, suggesting a form of omniscience or advanced prescience.</p>
+<p>Subsequent experiments have been proposed to explore the depth and mechanism of SCP-31798’s appraisal capabilities.</p>
+
+    </div>
+    
