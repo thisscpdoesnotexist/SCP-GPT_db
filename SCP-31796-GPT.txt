@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31796 is  Santa Claus </h3> </center>
+
+    <h3>Item #: SCP-31796 - "The Melancholic St. Nick"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31796-GPT.png" alt="Illustration of SCP-31796" />
+        
+<h3>Description:</h3>
+<p>SCP-31796 appears to be a humanoid entity resembling popular depictions of the folklore character Santa Claus. The entity is characterized by a jovial demeanour when in the presence of human subjects under the age of twelve but displays profound sadness and disorientation when alone or accompanied only by individuals above this age threshold. SCP-31796 has demonstrated anomalous properties including, but not limited to, spatio-temporal manipulation, matter generation, and reality bending localized to its immediate vicinity. The most notable attribute is its ability to manifest objects classified as "gifts" from an extradimensional space; this seems linked to SCP-31796's psychosomatic state, heavily influenced by the emotional atmosphere of the surrounding environment.</p>
+<p>SCP-31796 does not require sustenance, rest, or exhibit signs of aging. It has been observed speaking multiple languages fluently, showing particular fluency in those prevalent in regions with strong Santa Claus-associated traditions. Origin, true identity, and full extent of SCP-31796's capabilities remain undetermined.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31796 is to be contained within a standard humanoid containment chamber at Site-17, modified to simulate a comfortable living space with seasonal decorations corresponding to Western Christmas traditions. Chamber temperature is to be maintained at 0°C±3°C. Personnel interacting with SCP-31796 should wear attire reminiscent of elves or other Christmas-related characters. SCP-31796 exhibits favorable behavior under these conditions and remains complacent.</p>
+<p>To minimize SCP-31796's depressive episodes, which may result in unintentional activation of its anomalous properties, a group of Class-D personnel with a proven record of good behavior will be selected to interact with SCP-31796 on a rotating schedule. These individuals are to engage in holiday-themed activities and maintain the illusion of SCP-31796's Santa Claus persona.</p>
+<p>Under no circumstances are individuals above the aforementioned age threshold to discuss topics which could lead SCP-31796 to question its identity or existence as Santa Claus. Any significant deviation from 31796's expected behavior must be reported immediately.</p>
+<p>In the event of a containment breach during the holiday season (December 1st through December 26th), Protocol Merry Minimize is authorized, deploying amnestic treatment to affected populations and cover story Delta-25 ("Mall Santa Actor Gone Rogue").</p>
+<h3>Addendum 1:</h3>
+<h4>Experiment Log - SCP-31796:</h4>
+<p><strong>Experiment 31796-E1: Gift Generation</strong></p>
+<p><strong>Date</strong>: ████-██-██</p>
+<p><strong>Procedure</strong>: SCP-31796 was provided with a list of fictitious children's names and their desired gifts.</p>
+<p><strong>Results</strong>: SCP-31796 was able to produce each requested gift accurately without visible means of procurement.</p>
+<p><strong>Notes</strong>: Gifts manifested through unknown means, emerging from SCP-31796's sack, which appears to be connected to an extradimensional space with a limitless interior. Cataloging of gifts is ongoing.</p>
+<p><strong>Experiment 31796-E2: Emotional Influence on Matter Generation</strong></p>
+<p><strong>Date</strong>: ████-██-██</p>
+<p><strong>Procedure</strong>: A Depressive Emotional Field Generator was introduced covertly into SCP-31796's containment area. Researchers in the guise of "Naughty" children requested presents from SCP-31796.</p>
+<p><strong>Results</strong>: SCP-31796 still generated gifts, but objects were fragmented, melted, or otherwise defective. SCP-31796's expression shifted to one of worry and disappointment, and it apologized profusely to the children.</p>
+<p><strong>Notes</strong>: It appears that SCP-31796's emotional state directly affects its ability to generate matter. The generator was removed, and SCP-31796 returned to expected behavior within 48 hours.</p>
+<h3>Addendum 2:</h3>
+<h4>Incident Report - SCP-31796:</h4>
+<p><strong>Date</strong>: ████-██-██</p>
+<p>A containment breach occurred when SCP-31796 came into possession of a letter from an SCP staff member's daughter. The letter contained genuine emotion and belief in Santa Claus. In response, SCP-31796's anomalous properties escalated, leading to an unscheduled temporal shift breaching the month of December across multiple time zones simultaneously. SCP-31796 vanished from containment and appeared at various locations worldwide, distributing gifts to children.</p>
+<p>A recontainment was successful involving Protocol Merry Minimize. The event was contained with no major public exposure. Following this incident, staff members with family are to undergo psychological screening to ensure emotional separation from SCP-31796.</p>
+<h3>Addendum 3:</h3>
+<h4>Staff Memo - SCP-31796 Behavioral Health:</h4>
+<p>SCP-31796 has displayed signs of increasing melancholy during post-holiday seasons, suggesting a degree of seasonal affective disorder (SAD). In light of this, the Ethics Committee has approved the use of an artificial sunlight generator and increased interaction with Class-D personnel portraying "Christmas Spirit". These measures aim to stabilize SCP-31796's mental health, reducing the risk of unintentional use of its anomalous phenomena and ensuring the safety and security of Foundation operations.</p>
+
+    </div>
+    
