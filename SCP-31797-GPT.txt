@@ -1,0 +1,64 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31797 is  Santa Claus </h3> </center>
+
+    <h3>Item #: SCP-31797 - "Clandestine Crimson"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31797-GPT.png" alt="Illustration of SCP-31797" />
+        
+<h3>Description:</h3>
+<p>SCP-31797 is an anomalous entity resembling popular depictions of the Western folklore character commonly known as "Santa Claus." The entity is characterized by its traditional red suit, white beard, and jovial demeanor. However, unlike the mythical benevolent figure, SCP-31797 exhibits malevolent tendencies and possesses capabilities that present a significant threat to global security and the masquerade of normalcy upheld by the SCP Foundation.</p>
+<p>SCP-31797 has demonstrated the following anomalous properties:</p>
+<ol>
+<li>
+<p><strong>Temporal Manipulation:</strong> The entity can manipulate time within a localized area, often causing "loops" that can last for an indeterminate period. Subjects within the affected zone experience the same events repeatedly, with no memory of previous iterations.</p>
+</li>
+<li>
+<p><strong>Spatial Distortion:</strong> SCP-31797 can manifest in any dwelling with a decorative chimney or representation thereof, irrespective of physical barriers or security systems.</p>
+</li>
+<li>
+<p><strong>Mental Influence:</strong> Individuals who directly observe SCP-31797 may become affected by a cognitohazardous effect that instills an overwhelming sense of euphoria followed by a compulsion to engage in reckless behavior.</p>
+</li>
+</ol>
+<p>SCP-31797 is believed to have originated from a dimensional pocket inadvertently accessed through collective belief and ritualistic behavior surrounding the Christmas holiday. The full extent of its abilities remains unknown as it exhibits unpredictable behavior and does not communicate with researchers.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-31797's ability to breach secure facilities with ease, containment efforts focus on prediction and interception. The Foundation has established Protocol "Crimson Null" which is activated globally on December 24th of each year. The protocol includes the following measures:</p>
+<ol>
+<li>
+<p>All Foundation facilities must disable decorative chimneys and place SCP-31797 lookalike decoys around populated areas to monitor and misdirect the entity.</p>
+</li>
+<li>
+<p>MTF-Epsilon-6 ("Village Idiots") is tasked with surveillance and engagement when SCP-31797 manifests. The unit is equipped with anti-temporal field generators to counter localized time loops.</p>
+</li>
+<li>
+<p>Amnestics are to be administered to any civilian witnesses post-engagement to maintain The Veil.</p>
+</li>
+<li>
+<p>Propaganda campaigns are conducted to alter public perception of "Santa Claus," subtly dissuading the association between Santa and physical entry into homes. </p>
+</li>
+</ol>
+<h3>Addendum 1: Incident Log 31797-Alpha</h3>
+<p>On December 24th, ████, SCP-31797 manifested in [REDACTED], Ohio. The entity entered through a residential chimney and engaged in behavior characteristic of the Santa Claus mythology, such as leaving wrapped packages and consuming cookies left out by occupants. However, each package contained a dangerous object ranging from explosive devices to anomalous artifacts. MTF-Epsilon-6 intervened to contain the items and administer amnestics to the affected family. SCP-31797 managed to flee the scene.</p>
+<h3>Addendum 2: Experiment Log 31797</h3>
+<h4>Experiment A</h4>
+<p><strong>Objective:</strong> To determine the effect of non-Christmas belief systems on SCP-31797's manifestation patterns.
+<strong>Procedure:</strong> A mock household environment was established with no Christmas decorations or symbolism, and inhabited by D-class personnel educated in non-Christian belief systems.
+<strong>Result:</strong> SCP-31797 manifested, but the interval was significantly delayed. Instead of delivering packages, the entity inscribed anomalous symbols onto the walls before disappearing.
+<strong>Analysis:</strong> The entity appears to be influenced by collective belief but retains its core anomalous properties regardless of environmental factors.</p>
+<h4>Experiment B</h4>
+<p><strong>Objective:</strong> To assess SCP-31797's response to aggression.
+<strong>Procedure:</strong> A decoy household with armed D-class personnel was set up to engage SCP-31797 upon manifestation.
+<strong>Result:</strong> Upon manifestation, SCP-31797 paused time, as evidenced by synchronized clocks in the room stopping. During this temporal distortion, the personnel experienced a comprehensive "loop" of the last 24 hours. Post-loop, they appeared disoriented and did not recall the entity's presence.
+<strong>Analysis:</strong> Attempts to engage SCP-31797 with hostility lead to temporal defense mechanisms. All D-class were reconditioned and retained for future experimentation.</p>
+<h4>Experiment C</h4>
+<p><strong>Objective:</strong> To observe SCP-31797's behavior in the absence of human interaction.
+<strong>Procedure:</strong> The entity was allowed to manifest in a controlled environment devoid of human presence, monitored by automated systems.
+<strong>Result:</strong> SCP-31797 appeared to "search" the area, leaving various odd trinkets. Notably, one such object was a small bauble containing a microcosm simulating an unknown planetary system.
+<strong>Analysis:</strong> Even without an audience or subjects to influence, SCP-31797 fulfills its perceived role, suggesting a compulsion to distribute items of significance.</p>
+<h3>Addendum 3: Recovery of Correspondence</h3>
+<p>During containment efforts on December 24th, ████, a letter addressed to "[CLASSIFIED]" in an unknown script was found in close proximity to the last known manifestation point of SCP-31797. The letter's contents have been partially translated and appear to be a communication between SCP-31797 and another unidentified entity. The implications of this correspondence are currently under investigation.</p>
+<p>The containment and research of SCP-31797 continue, with further emphasis on uncovering possible connections to other entities and understanding the motivations driving its Christmas-themed activities.</p>
+
+    </div>
+    
