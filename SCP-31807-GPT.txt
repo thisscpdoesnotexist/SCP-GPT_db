@@ -1,0 +1,53 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31807 is  a collection of patch notes for an as-of-yet unreleased update to the very concept of universal mathematics </h3> </center>
+
+    <h3>Item #: SCP-31807 - "The Universal Constants Update"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31807-GPT.png" alt="Illustration of SCP-31807" />
+        
+<h3>Description:</h3>
+<p>SCP-31807 is a series of seemingly non-anomalous printed documents collectively referred to as "The Universal Constants Update Patch Notes," which detail extensive modifications to the fundamental principles of mathematics and physics. The documents present themselves as a list of bullet-pointed ‘release notes’ for what is implicitly conveyed as a pending upgrade to be applied to our existing universe’s constants and mathematical laws. The origin of SCP-31807 remains unknown.</p>
+<p>SCP-31807 contains proposals for changes in mathematical constants (such as π and e), fundamental forces (such as gravity and electromagnetism), and various axioms of mathematics (e.g., altering the uniqueness of the number zero, revising prime number distribution, etc.). Most concerning is that these changes do not seem to be figurative or metaphorical; application of SCP-31807's changes would have catastrophic consequences if actually implemented, potentially including the collapse of reality as it is currently understood.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31807 is to be stored in a high-security, climate-controlled document vault at Site-██. Only personnel with Level 4/31807 clearance are permitted to handle or review SCP-31807. No reproductions, digital scans, or copies of any portion of SCP-31807 are to be made without approval from at least two members of the O5 Council.</p>
+<p>A containment breach by SCP-31807, regardless of its seemingly informational nature, is to be treated as a potential CK-Class Reality Restructuring Event. Readiness Task Force Delta-5 ("Mathemagicians") are on standby to respond to any such breaches and are to be equipped with the latest in amnestic and information suppression technology.</p>
+<p>Any research or experimentation involving SCP-31807 must be conducted within a Scranton Reality Anchor field to prevent anomalous influences from affecting the surrounding area. All personnel involved in testing must submit to a full psychological evaluation and amnestic treatment post-exposure.</p>
+<h3>Addendum 1: Discovery and Initial Containment</h3>
+<p><strong>Addendum 1A: Discovery</strong></p>
+<p>SCP-31807 was discovered in an abandoned underground server room beneath [REDACTED] University’s Department of Mathematics, following reports of numerous unintentional breakthroughs in unsolved mathematical problems and localized reality fluctuations. A janitorial staff member not affiliated with the university but exhibiting advanced knowledge of theoretical physics was found deceased near SCP-31807, which was recovered from the deceased’s possession.</p>
+<p><strong>Addendum 1B: Initial Containment</strong></p>
+<p>The documents were initially mistaken for a prank by math enthusiasts until the potential ramifications and anomalous properties were detected by embedded Foundation personnel. The documents were immediately contained, and a cover story involving a toxic gas leak was disseminated to explain the necessary evacuation and containment procedures.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 31807-E1</strong></p>
+<blockquote>
+<p><em>Date:</em> [REDACTED]</p>
+<p><em>Participants:</em> Dr. H███, Research Assistant V███</p>
+<p><em>Procedure:</em> A controlled application of a minor proposed change involving the Euler’s identity was attempted through theoretical modeling.</p>
+<p><em>Results:</em> Within the theoretical framework of the model, the equation did not result in a simple mathematical anomaly but instead propagated a chain reaction where complex numbers failed to retain basic properties, collapsing the model.</p>
+<p><em>Notes:</em> "We are sitting on a figurative switch that if flipped, could rewrite the fabric of reality. Further tests of a similar nature are suspended." - Dr. H███</p>
+</blockquote>
+<p><strong>Experiment 31807-E2</strong></p>
+<blockquote>
+<p><em>Date:</em> [REDACTED]</p>
+<p><em>Participants:</em> Dr. R█████, Research Assistant L██, D-84311</p>
+<p><em>Procedure:</em> D-84311 was instructed to make handwritten copies of select bullet points from SCP-31807, focusing on revisions to the gravitational constant.</p>
+<p><em>Results:</em> D-84311 began to experience severe dysphasia, followed by rapid dematerialization. No handwritten documents were recovered.</p>
+<p><em>Notes:</em> "Exposure appears to be not only cognitive but also physical. SCP-31807's effects transcend its physical state as mere documents." - Dr. R█████</p>
+</blockquote>
+<p><strong>Experiment 31807-E3</strong></p>
+<blockquote>
+<p><em>Date:</em> [REDACTED]</p>
+<p><em>Participants:</em> Dr. A███, Research Assistant J███</p>
+<p><em>Procedure:</em> Mathematicians at Site-██ attempted to argue against the logical consistency of SCP-31807’s proposed changes through a formalized proof.</p>
+<p><em>Results:</em> Both mathematicians experienced acute migraines, followed by transient bouts of aphasia. No formal proof was completed. </p>
+<p><em>Notes:</em> “Every attempt to disprove the document’s proposals results in adverse cognitive or physical effects. It’s as though we’re not meant to debunk it.” - Dr. A███</p>
+</blockquote>
+<h3>Addendum 3: Incident 31807-A</h3>
+<p>During a routine re-evaluation of SCP-31807's containment, a spontaneous outbreak of localized reality shifts occurred throughout Site-██. This event coincided temporally with a power failure that caused temporary deactivation of the Scranton Reality Anchors.</p>
+<p>The site was immediately placed on lockdown, and the Readiness Task Force Delta-5 quickly intervened. Although the reality shifts were minor and contained within the site, several personnel exhibited symptoms of reality distortion, including altered memories, and in some instances, physical amalgamations with inanimate objects.</p>
+<p>Following this incident, a redundant power supply was installed to ensure continuous operation of Scranton Reality Anchors, and additional safety protocols were enacted to prevent a recurrence. Revision of SCP-31807's object class to Thaumiel has been proposed but remains under review pending further understanding of its potential applications and threats.</p>
+
+    </div>
+    
