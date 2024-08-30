@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-31842 is  A stamp that makes eyes on whatever surface it stamps on. (In light of new information this SCP is pending reclassification to Keter) </h3> </center>
+
+    <h3>Item #: SCP-31842 - "Oculus Impress"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-31842-GPT.png" alt="Illustration of SCP-31842" />
+        
+<h3>Description:</h3>
+<p>SCP-31842 is a seemingly ordinary rubber postage stamp with an ornate wooden handle, approximately 5 cm in length and 3 cm in width. The stamp possesses an intricate glyph resembling an eye, which, under normal circumstances, would leave an ink impression like any typical stamp. However, SCP-31842's anomalous properties manifest when it is used with its unique indigo ink (designated SCP-31842-1), which comes in a small, unassuming inkwell with the stamp.</p>
+<p>When SCP-31842 is pressed onto a surface using SCP-31842-1, instead of leaving an ink impression, it creates an organic, functional eye on the surface. These eyes (classified as SCP-31842-2 instances) can blink, move, and seemingly perceive their environment, regardless of the surface in which they have been imprinted, whether it be organic or inorganic. The eyes display responsiveness to visual stimuli and persist in their respective locations indefinitely or until they are destroyed.</p>
+<p>Further investigation has revealed that all SCP-31842-2 instances share a connected field of vision, effectively acting as a network. Moreover, the eyes are capable of crying a fluid with memetic properties, and subjects exposed to this fluid have reported heightened paranoia and vivid hallucinations. Any written or audio-visual records containing images of SCP-31842-2 instances are to be considered cognitohazardous.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-31842 and SCP-31842-1 are to be stored separately in two high-value containment lockers in Site-██. SCP-31842 is to be kept in a hermetically sealed see-through acrylic case with a biometric lock to prevent unauthorized use. The inkwell containing SCP-31842-1 is stored in another hermetically sealed see-through acrylic case, within a secondary containment chamber with additional memetic hazard protection. Notably, SCP-31842 and SCP-31842-1 are never to be stored or handled together, barring testing approved by at least two Level 4 personnel.</p>
+<p>Direct visual or physical interaction with SCP-31842 and SCP-31842-1 is limited to D-Class personnel during scheduled experiments, while researchers must control these sessions from a separate, observation-proof containment control room equipped with audio-only communication methods. Surfaces that unintentionally receive a stamp from SCP-31842 during containment breaches or testing are to be incinerated if mobile or permanently covered with black opaque material if not removable or too large to be incinerated.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 31842-E1</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-83190</li>
+<li><strong>Procedure:</strong> D-83190 instructed to use SCP-31842 on a standard white paper sheet.</li>
+<li><strong>Results:</strong> An instance of SCP-31842-2 manifested on the paper. The paper was subsequently incinerated.</li>
+</ul>
+<h4>Experiment 31842-E2</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-91302</li>
+<li><strong>Procedure:</strong> D-91302 instructed to stamp a concrete wall within the containment chamber.</li>
+<li><strong>Results:</strong> An SCP-31842-2 instance appeared on the wall and began to weep memetic fluid. Psychological evaluation of D-91302 post-exposure indicated increased paranoia and auditory hallucinations. The affected wall segment was destroyed.</li>
+</ul>
+<h4>Experiment 31842-E3</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-10422</li>
+<li><strong>Procedure:</strong> D-10422 instructed to stamp the surface of an opaque plastic surface.</li>
+<li><strong>Results:</strong> SCP-31842-2 instance manifested but showed signs of distress, flickering and shutting rapidly. Confirms that SCP-31842-2 instances require some form of light to function properly.</li>
+</ul>
+<h3>Addendum 2: Incident Report 31842-A</h3>
+<p>On ██/██/20██, Containment Breach occurred after Research Assistant ██████ smuggled SCP-31842 and SCP-31842-1 out of containment out of curiosity. Use of SCP-31842 on multiple surfaces throughout Site-██ led to widespread exposure to memetic fluids from SCP-31842-2 instances, causing a site-wide alert. Multiple personnel affected by the fluids suffered from lasting psychological trauma, corroborating the potential need for reclassification of SCP-31842 to Keter status.</p>
+<p>Personnel who came into direct contact with SCP-31842-2's memetic fluid were subsequently quarantined. Foundation memetic hazard specialists were called to Site-██ to administer amnestics and counseling to affected individuals.</p>
+<p>Research Assistant ██████ has been demoted to D-Class and is subject to further disciplinary actions according to the Ethics Committee's recommendations.</p>
+<p>An ongoing audit of containment procedures and personnel access to SCP-31842 has been launched to prevent a similar incident from reoccurring. Meanwhile, enhanced security protocols and additional cognitive hazard training for staff have been instated.</p>
+<h3>Addendum 3: Additional Notes</h3>
+<p>The recent analysis has suggested that the cumulative effect of SCP-31842-2 instances may lead to an emergent consciousness or networked intelligence. The implications of this are alarming, as this collective entity may seek to proliferate SCP-31842-2 instances aggressively. Plans for a specialized task force equipped to deal with such cognitive and visual hazards are underway.</p>
+<p>As SCP-31842's capabilities unfold, we realize that its most dangerous aspect isn't just the ability to create seeing eyes—but that it might be making us observed by an unknown observer. Whether this observer is within the Foundation, an extradimensional entity, or SCP-31842 itself, remains a pressing question necessitating further investigation.</p>
+
+    </div>
+    
