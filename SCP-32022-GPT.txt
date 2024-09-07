@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-32022 is  🎶 JUICE THAT MAKES YOUR HEAD EXPLODE!™️🎶 </h3> </center>
+
+    <h3>Item #: SCP-32022 - "Cacophony Concoction"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-32022-GPT.png" alt="Illustration of SCP-32022" />
+        
+<h3>Description:</h3>
+<p>SCP-32022, known colloquially as "Cacophony Concoction," is an anomalous liquid substance contained within a series of glass bottles, each labeled with a stylized logo depicting a cartoonish fruit with an explosive fizz surrounding it and the tagline "JUICE THAT MAKES YOUR HEAD EXPLODE!™️." Each instance of SCP-32022 is 250 milliliters in volume and appears visually identical to a carbonated fruit juice.</p>
+<p>When ingested, SCP-32022 exerts an instantaneous anomalous effect on the consumer: it induces a severe auditory hallucination that manifests as a cacophony of sounds. These sounds have been described as a mixture of music, screams, explosions, and unintelligible whispering. Over a period of two to four hours, the consumer's cranial pressure increases dramatically. If not treated immediately with Procedure 22-Tempest (see Addendum 2), the individual's head irreversibly explodes, typically resulting in death.</p>
+<p>Explorations into its chemical composition have revealed an array of ordinary fruit juice ingredients, but also trace amounts of an unknown substance that defies analysis. Attempts at reverse-engineering or diluting the effects of SCP-32022 have been unsuccessful.</p>
+<h3>Special Containment Procedures:</h3>
+<p>All recovered instances of SCP-32022 are to be stored in a secure, explosion-proof containment locker at Site-77. Handling of SCP-32022 outside of testing is prohibited unless performed by D-Class personnel wearing specialized protective headgear. Any unauthorized personnel attempting to access SCP-32022 will be detained and may be subject to disciplinary action or reassignment.</p>
+<p>In the event of accidental ingestion, affected individuals are to be administered Procedure 22-Tempest, a counteractive agent developed to prevent the fatal outcome of the SCP-32022 effect. The procedure is to be available in all sites containing SCP-32022.</p>
+<p>A disinformation campaign is ongoing to suppress public knowledge of SCP-32022, while SCP Foundation agents are tasked with locating and securing any and all distributed instances of the substance.</p>
+<h3>Addendum 1: Discovery and Initial Containment</h3>
+<p>SCP-32022 was first encountered in ████████, ██, following an incident at a high school where seventeen students suffered simultaneous cranial detonation during lunch period. Foundation personnel embedded in local law enforcement responded promptly, administering amnestics to witnesses and fabricating a gas leak narrative to cover the event.</p>
+<p>Investigations led to the confiscation of SCP-32022 from a local novelty shop called "The Pranktopolis." Store records indicated the product was supplied by a front company, "Novelty Nirvana," which Foundation agents have since targeted for dismantlement.</p>
+<h3>Addendum 2: Procedure 22-Tempest</h3>
+<p>Following several months of research, the Bio-Anomalous Wing at Site-88 developed a compound capable of counteracting the effects of SCP-32022. This compound, designated as Procedure 22-Tempest, involves a precise mixture of neuro-suppressants, anti-inflammatory drugs, and an anomalous element extracted from SCP-█████.</p>
+<p>Administration of Procedure 22-Tempest must occur within one hour of SCP-32022 ingestion to be effective. Delayed treatment has a rapidly decreasing chance of preventing catastrophic cranial explosion, dropping to a 0% chance of success four hours post-ingestion.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 32022-01:</h4>
+<p><strong>Subject:</strong> D-9812<br />
+<strong>Procedure:</strong> D-9812 was administered 50ml of SCP-32022 to ingest.<br />
+<strong>Result:</strong> Auditory hallucinations began immediately. Procedure 22-Tempest administered 20 minutes post-ingestion. D-9812 recovered with no cranial trauma.</p>
+<h4>Experiment 32022-07:</h4>
+<p><strong>Subject:</strong> D-7023 (deaf from birth)<br />
+<strong>Procedure:</strong> D-7023 was administered 250ml of SCP-32022 to ingest.<br />
+<strong>Result:</strong> Despite the lack of auditory perception, D-7023 exhibited signs of distress. Procedure 22-Tempest was delayed until 1-hour post-ingestion as part of the experimental protocol. D-7023 survived but suffered residual effects, reporting "loud silence" in subsequent interviews.</p>
+<h4>Experiment 32022-15:</h4>
+<p><strong>Subject:</strong> D-4461<br />
+<strong>Procedure:</strong> D-4461 received a placebo drink while auditory horror stimuli were played in the background.<br />
+<strong>Result:</strong> No cranial pressure reported. Subject expressed relief at the revelation it was a placebo. Test conducted to differentiate between psychological and physiological effects of SCP-32022.</p>
+<h3>Addendum 4: Recovery and Ongoing Surveillance</h3>
+<p>Due to SCP-32022's potential for high lethality and uncontrolled distribution, Mobile Task Force Mu-4 ("Debuggers") has been tasked with monitoring internet traffic, novelty shops, and beverage distributors for signs of its presence.</p>
+<p>Investigations into "Novelty Nirvana" have unearthed connections to anomalous object trafficking. Ongoing efforts to infiltrate and dismantle this network are a top priority.</p>
+<p>SCP Foundation webcrawler AI, designated IA-32022-HED ("Headhunter"), is programming to flag and trace any online mentions or images resembling SCP-32022. Any sourced material is to be intercepted, and involved persons are to be interviewed under the guise of public health officials, then administered Class-B amnestics.</p>
+
+    </div>
+    
