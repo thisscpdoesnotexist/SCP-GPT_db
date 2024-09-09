@@ -1,0 +1,44 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-32070 is  my neurodivergent child and their organs are made of bean paste </h3> </center>
+
+    <h3>Item #: SCP-32070 - "The Beanpaste Child"</h3>
+<h3>Object Class:</h3>
+<p>Euclid</p>
+<h3>Description:</h3>
+<p>SCP-32070 refers to a neurodivergent child approximately 11 years old, named Alex. SCP-32070’s body superficially resembles that of an average human child, but upon closer examination, it has been discovered that its internal structures are entirely composed of a substance resembling anko, a sweet red bean paste commonly used in East Asian confectionery.</p>
+<p>SCP-32070 requires no traditional sustenance, instead absorbing minimal nutrients from its surrounding environment through an unknown process. Despite the lack of typical human organs, SCP-32070 maintains functions such as movement and communication. Currently, SCP-32070 possesses average intelligence but exhibits significant creative abilities, particularly in art.</p>
+<p>Any attempt to remove or sample SCP-32070's internal beanpaste results in immediate regeneration, and no lasting harm can be done to it, rendering SCP-32070 effectively immortal. SCP-32070 appears to view the world in unique ways and has expressed feelings of loneliness due to its anomalous nature.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-32070 is contained within a standard humanoid living quarters at Site-██. The room is furnished comfortably to accommodate its neurodivergent needs, with sensory-friendly lighting, noise cancellation features, and access to a variety of artistic mediums which SCP-32070 has shown a preference for.</p>
+<p>While SCP-32070 does not require food or drink, a selection of traditional confections containing anko is provided daily, which seems to have a calming effect on it.</p>
+<p>Personnel assigned to SCP-32070 must undergo sensitivity training to effectively communicate and engage with neurodivergent individuals. Any interaction with SCP-32070 requires approval from at least one Level 3 researcher specialized in psychology or pediatric care.</p>
+<p>Physical examinations are to be conducted bi-weekly to monitor SCP-32070's anko composition and regeneration abilities. It is imperative that personnel avoid discussing its internal composition in its presence to prevent psychological distress.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-32070 was first encountered in a small town in Japan when reports of a 'candy child' surfaced, drawing Foundation attention. SCP-32070 was located at a local bakery where it was seemingly attempting to communicate with the owner by drawing pictures with its unique internal substance.</p>
+<h3>Addendum 2: Initial Interview</h3>
+<p>The initial interview with SCP-32070 revealed that it possesses a full awareness of its unusual condition but has no recollection of its origins. It has expressed a desire for social interaction and a degree of sadness stemming from its inability to integrate into society. Psychologists are working closely with SCP-32070 to improve its wellbeing.</p>
+<h3>Addendum 3: Experiment Log 32070-E</h3>
+<h4>Experiment 32070-E1</h4>
+<p><strong>Purpose:</strong> To ascertain the extent of SCP-32070's regenerative abilities.
+<strong>Procedure:</strong> A small sample of SCP-32070's beanpaste was extracted from its forearm.
+<strong>Results:</strong> Extraction site regenerated in approximately 4.6 seconds.
+<strong>Notes:</strong> SCP-32070 reported no pain, although expressed discomfort with the procedure.</p>
+<h4>Experiment 32070-E2</h4>
+<p><strong>Purpose:</strong> To determine if SCP-32070 has control over its anomalous properties.
+<strong>Procedure:</strong> SCP-32070 was asked to shape its beanpaste into a simple object.
+<strong>Results:</strong> SCP-32070 was able to manipulate its substance to form a small figurine resembling a cat.
+<strong>Notes:</strong> It appears SCP-32070 can control its own substance, which it uses frequently in artistic creations.</p>
+<h4>Experiment 32070-E3</h4>
+<p><strong>Purpose:</strong> Investigate if SCP-32070 can absorb nutrients from confectionery to maintain its beanpaste mass.
+<strong>Procedure:</strong> SCP-32070 was provided with various traditional confections for a period of one week.
+<strong>Results:</strong> No discernable change in SCP-32070's mass or behavior; however, an increase in cooperative engagement was noted.
+<strong>Notes:</strong> While non-essential, the provision of confections may improve SCP-32070's compliance and quality of life.</p>
+<h3>Addendum 4: Psychological Profile</h3>
+<p>SCP-32070 exhibits signs consistent with Autism Spectrum Disorder, including specialized interests, sensory issues, and difficulty with social cues. Treatment plans include tailored therapy sessions, structured schedules, and continued artistic expression to improve SCP-32070's life satisfaction within containment.</p>
+<h3>Addendum 5: Incident 32070-A</h3>
+<p>During a containment breach at Site-██, SCP-32070 displayed extraordinary loyalty to the Foundation by aiding in the recontainment of other SCPs using its beanpaste to obstruct and repair breaches. A recommendation for a containment privilege review for SCP-32070 has been submitted by Site Director ██████.</p>
+
+    </div>
+    
