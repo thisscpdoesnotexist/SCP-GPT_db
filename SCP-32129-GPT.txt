@@ -1,0 +1,55 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-32129 is  a 16 year old Argentinean street urchin pickpocket girl with superhuman agility and prehensile hair </h3> </center>
+
+    <h3>Item #: SCP-32129 - "Callesombra"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-32129-GPT.png" alt="Illustration of SCP-32129" />
+        
+<h3>Description:</h3>
+<p>SCP-32129, codenamed "Callesombra," is a sixteen-year-old female presumed to originally be from Argentina, based on linguistic analysis and cultural references observed in her behavior. SCP-32129 is of average height and lean build, with notable physical characteristics including exceedingly prehensile hair and superhuman agility. Subject's hair, which measures approximately 120 centimeters in length, can be controlled at will, exhibiting strength, dexterity, and tactile sensitivity comparable to that of primate appendages.</p>
+<p>SCP-32129 has demonstrated parkour capabilities significantly beyond the maximum observed human performance, along with reaction times estimated to be four times faster than the average human. The subject has used her exceptional agility in tandem with her hair to navigate complex urban environments, evade capture, and commit various acts of theft prior to containment. SCP-32129's cognitive abilities do not appear to deviate significantly from standard human norms.</p>
+<p>SCP-32129 was recovered in Buenos Aires after a series of reports regarding a "phantom thief" capable of seemingly impossible feats. Field agents were deployed to the region, leading to the successful apprehension of the subject following a high-speed pursuit across city rooftops.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-32129 is contained in a 10m x 10m x 10m chamber with reinforced walls and a shock-absorbent floor to prevent injury from possible high-impact activities. Given the subject's agility and the risk of escape, the ceiling is to be equipped with pressure-sensitive alarms to detect any unauthorized contact.</p>
+<p>To accommodate SCP-32129's mobility needs, the chamber is furnished with various parkour-oriented obstacles and installations, which are to be reconfigured monthly to discourage escape plotting. The subject is to be provided with standard amenities and a diet consistent with her age and health requirements.</p>
+<p>Interaction with SCP-32129 is to be conducted by personnel trained in non-lethal containment strategies. Physical contact is to be minimal and under strict supervision. Sedatives are on standby in the event of an aggressive reaction or breach attempt, though SCP-32129 has shown a pattern of compliance since initial containment.</p>
+<p>Educational materials are to be provided for the subject's mental well-being, and the subject has been encouraged to engage in artistic activities as a constructive emotional outlet. All personal items granted to SCP-32129 are to be regularly inspected for potential misuse.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<ul>
+<li>
+<p><strong>Incident 31-7A:</strong> Several reports indicated the presence of an anomalous entity capable of extraordinary acrobatics in Buenos Aires. Agents observed the entity (later identified as SCP-32129) for two weeks, noting a series of petty thefts perhaps intended for basic survival.</p>
+</li>
+<li>
+<p><strong>Capture Incident 32-7B:</strong> On ██/██/20██, field agents implemented a strategy involving bait in the form of a seemingly unguarded wallet containing a tracking device. SCP-32129 took the bait, and a chase ensued across rooftops. Utilizing non-lethal rounds and net traps, agents eventually subdued SCP-32129.</p>
+</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 32129-E1</h4>
+<ul>
+<li><strong>Objective:</strong> To test the extent of SCP-32129's prehensile hair manipulative abilities.</li>
+<li><strong>Procedure:</strong> SCP-32129 was provided with varying objects of different sizes, shapes, and weights to manipulate using her hair.</li>
+<li><strong>Results:</strong> SCP-32129 demonstrated the ability to manipulate objects as light as a pencil to as heavy as a 10 kg dumbbell. Fine motor skills were observed, such as writing with precision and assembling a complex puzzle.</li>
+</ul>
+<h4>Experiment 32129-E2</h4>
+<ul>
+<li><strong>Objective:</strong> To observe SCP-32129's agility under controlled stress.</li>
+<li><strong>Procedure:</strong> SCP-32129 was deposited into a mock urban environment with an array of non-dangerous obstacles and stimuli intended to simulate a high-stress chase scenario.</li>
+<li><strong>Results:</strong> SCP-32129 traversed the course with remarkable speed and efficiency. Stress markers were observed, but SCP-32129 showed an adept ability to navigate and adapt to sudden changes in the environment.</li>
+</ul>
+<h4>Experiment 32129-E3</h4>
+<ul>
+<li><strong>Objective:</strong> To understand SCP-32129's social and psychological profile.</li>
+<li><strong>Procedure:</strong> Regular interaction sessions were scheduled with SCP-32129 involving conversation, cognitive tests, and psychological evaluations.</li>
+<li><strong>Results:</strong> SCP-32129 displays typical adolescent tendencies, including resistance to authority figures and emotional variability. Signs of past trauma and a need for habitual activity suggest a difficult past yet a capacity for adaptation and learning within a structured environment.</li>
+</ul>
+<h3>Addendum 3: Incident Report 32129-I1</h3>
+<ul>
+<li><strong>Incident:</strong> SCP-32129 managed to create an improvised grappling hook using materials from her containment quarters and briefly escaped containment by scaling the chamber wall during maintenance checks.</li>
+<li><strong>Response:</strong> She was eventually persuaded to return after negotiations, promising a personal library and language lessons. Subsequent containment protocols have been adjusted to prevent such occurrences in the future.</li>
+</ul>
+<p>SCP-32129, despite her Euclid classification, has shown a high degree of cooperation and willingness to engage with Foundation personnel, suggesting potential for a revised containment strategy in the future. Further observational studies are ongoing to better understand the origins of SCP-32129's abilities and to explore potential applications for Foundation interests.</p>
+
+    </div>
+    
