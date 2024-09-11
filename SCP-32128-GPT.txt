@@ -1,0 +1,64 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-32128 is  a spell for reanimating the dead that goes "Hot dogs french fries, come on baby tell me your lies, up down side to side, these skeletons are now alive" </h3> </center>
+
+    <h3>Item #: SCP-32128 - Necrodiner Mantra</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-32128-GPT.png" alt="Illustration of SCP-32128" />
+        
+<h3>Description:</h3>
+<p>SCP-32128 is an anomalous incantation with the ability to reanimate deceased human skeletons. The incantation, which superficially resembles a nonsensical fast-food chant, was first encountered in [REDACTED], following reports of inexplicable skeletal animation within a recently closed diner that was known for its elaborate Halloween decorations.</p>
+<p>The incantation consists of the following phrase: "Hot dogs french fries, come on baby tell me your lies, up down side to side, these skeletons are now alive." When spoken within a 5-meter radius of human skeletal remains, SCP-32128 triggers an anomalous effect, resulting in the reanimation of said remains. Reanimated skeletons (henceforth SCP-32128-1) exhibit aggressive behavior towards living humans and are capable of utilizing tools and coordinating attacks.</p>
+<p>SCP-32128's effect appears permanent unless the reanimated skeletons are rendered incapable of movement through destruction or complete disarticulation. As of this documentation, no means of reversing the incantation's effect has been discovered.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the potential mass-casualty event that could arise if SCP-32128 were to be used in the vicinity of densely populated cemeteries or mortuaries, the following containment measures are in place:</p>
+<ol>
+<li>
+<p>All knowledge of SCP-32128's incantation is to be expunged from public record and internet databases. A disinformation campaign is ongoing to discredit any leaked information concerning SCP-32128 as a viral hoax.</p>
+</li>
+<li>
+<p>Foundation web crawlers (I/O-SILVER) are to monitor for any variations of the SCP-32128 phrase to prevent its spread.</p>
+</li>
+<li>
+<p>The original diner where SCP-32128 was first documented is to be purchased by a Foundation front company and strictly guarded. No unauthorized personnel are allowed within a 1-kilometer radius of the location.</p>
+</li>
+<li>
+<p>Personnel assigned to SCP-32128 containment are to undergo extensive psychological evaluations to ensure against susceptibility to memetic influence.</p>
+</li>
+<li>
+<p>In the event of an SCP-32128-1 outbreak, Mobile Task Force Delta-5 ("Front Liners") is to be deployed immediately to contain and neutralize all instances of SCP-32128-1.</p>
+</li>
+</ol>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-32128 was discovered on [DATE REDACTED] after local police received numerous emergency calls reporting animated skeletons at the [REDACTED] Diner. Foundation agents embedded in local law enforcement responded and contained the situation, under the guise of a gas leak-induced mass hallucination. Class-B amnestics were administered to all civilians involved.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 32128-E1:</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> D-Class personnel were instructed to recite SCP-32128 within a controlled chamber containing one human skeletal remain.</li>
+<li><strong>Result:</strong> Human skeleton reanimated into SCP-32128-1, displaying immediate hostility. D-Class personnel terminated. Incantation confirmed.</li>
+<li><strong>Notes:</strong> "The level of coordination these reanimated entities show is alarming. They seem to remember basic motor patterns." - Dr. [REDACTED]</li>
+</ul>
+<h4>Experiment 32128-E2:</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> D-Class personnel with no prior knowledge of the incantation was exposed to it via a hidden audio recording within containment chamber.</li>
+<li><strong>Result:</strong> No reanimation occurred until D-Class personnel vocalized the phrase, confirming the necessity of intentional speech.</li>
+<li><strong>Notes:</strong> "It appears the incantation doesn't act as a broadcast signal. It requires a human conduit." - Dr. [REDACTED]</li>
+</ul>
+<h4>Experiment 32128-E3:</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Procedure:</strong> Ten D-Class personnel were individually exposed to various paraphrased versions of SCP-32128 to test for potential variations in the incantation's effect.</li>
+<li><strong>Result:</strong> No reanimation occurred. The exact phrasing appears to be crucial for SCP-32128.</li>
+<li><strong>Notes:</strong> "We're playing with fire here. Each experiment risks exposure. I recommend minimizing direct tests with the phrase." - O5 Council</li>
+</ul>
+<h3>Addendum 3: Incident Log</h3>
+<h4>Incident 32128-A:</h4>
+<p>On [DATE REDACTED], a researcher inadvertently recited a partial paraphrase of SCP-32128 while discussing containment measures in close proximity to a storage area containing several skeletal remains. The partial phrase resulted in a localized vibration of the remains but did not trigger full reanimation. The researcher was reprimanded and reassigned. All personnel within the site were reminded of the importance of information control and vocal discipline regarding SCP-32128.</p>
+<h4>Incident 32128-B:</h4>
+<p>An attempt by a group of unidentified individuals to infiltrate the Foundation-owned [REDACTED] Diner was intercepted. It is believed the individuals were part of a para-scientific group seeking to exploit SCP-32128. Interrogation revealed limited knowledge of SCP-32128's properties but pointed to a potential leak of classified information. All individuals were administered amnestics, and an internal investigation commenced to identify the source of the leak.</p>
+
+    </div>
+    
