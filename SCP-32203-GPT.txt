@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-32203 is  time travel spider </h3> </center>
+
+    <h3>Item #: SCP-32203 - "Chronoarachnid"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-32203-GPT.png" alt="Illustration of SCP-32203" />
+        
+<h3>Description:</h3>
+<p>SCP-32203, colloquially known as the "Chronoarachnid," is an anomalous entity resembling a spider of the family <em>Theraphosidae</em>, the tarantulas. SCP-32203 displays an array of beige and dark brown patterns on its cephalothorax and abdomen, with a leg span measuring approximately 30 cm. Its most defining characteristic, however, is its ability to manipulate the flow of time within a localized area, measured with a radius of up to 10 meters.</p>
+<p>Subjects within this area experience temporal distortions, with SCP-32203 seemingly exerting control over the direction and speed of time's passage. These distortions include rapid aging or de-aging of living organisms, forward or reverse progression of chemical reactions, and suspension of time. Notably, SCP-32203 appears unaffected by its own ability and can freely move within altered temporal zones.</p>
+<p>The entity was first discovered in [REDACTED] when a cluster of disappearances, botanical anomalies, and reports of "reversed actions" prompted an undercover Foundation investigation. SCP-32203 was captured after the deployment of MTF Epsilon-11 ("Nine-Tailed Fox"), who subdued the entity using specialized temporal-stabilizing equipment provided by Dr. [REDACTED].</p>
+<p>Research into SCP-32203's origin, potential connections to other SCP objects, and the full extent of its capabilities is ongoing. All Foundation personnel interacting with or studying SCP-32203 must undergo rigorous temporal flux resistance training to mitigate the object's effects.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-32203 requires a secure, temporally stabilized containment chamber situated within Site-██. The chamber's walls must be lined with a temporally inert alloy to prevent any external exposure to the entity's time manipulation effects. Security cameras and sensors within the chamber are to be equipped with redundant temporal-resilience systems.</p>
+<p>All personnel entering the chamber must wear specialized suits composed of similar temporally inert materials and be escorted by a team trained in temporal anomaly containment. No more than two personnel are allowed inside the containment chamber at a given time to minimize the potential effects of a containment breach.</p>
+<p>Feeding of SCP-32203 is to be conducted bi-weekly by automated systems. The entity's diet consists mainly of live insects, which are unaffected by the temporal alterations due to their limited life span and breeding cycles designed to match SCP-32203's influence.</p>
+<p>Due to the high risk of a containment breach resulting in widespread temporal anomalies, SCP-32203 must be monitored remotely 24/7, with multiple fail-safes in place to prevent the entity from extending its influence beyond the containment chamber.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 1:</h4>
+<p><strong>Subject:</strong> D-19402, a 32-year-old convicted murderer.
+<strong>Procedure:</strong> Subject placed within temporal alteration field for a five-minute duration.
+<strong>Result:</strong> Subject aged approximately 50 years within a span of 5 minutes. Subject later died due to complications associated with advanced age.</p>
+<h4>Experiment 2:</h4>
+<p><strong>Subject:</strong> A steel cube with thermochromic paint.
+<strong>Procedure:</strong> The cube was placed within the field and observed over a period of 10 minutes.
+<strong>Result:</strong> The cube's thermal reactions reversed, as the cube appeared to cool and heat contrary to the laws of thermodynamics.</p>
+<h4>Experiment 3:</h4>
+<p><strong>Subject:</strong> D-87361, a 28-year-old woman with a terminal illness.
+<strong>Procedure:</strong> Subject placed within a temporal alteration field with the intent to reverse the progression of her illness.
+<strong>Result:</strong> Subject's illness appeared to regress to an earlier stage temporarily. However, upon removal from the field, the illness rapidly progressed, resulting in the subject's death within hours.</p>
+<h3>Addendum 2: Incident Log 32203-A</h3>
+<p>On [DATA EXPUNGED], a containment breach occurred when SCP-32203's chamber suffered an unforeseen malfunction in the temporal alloy lining. SCP-32203 created a localized temporal loop, causing several security personnel to relive the same moment repeatedly. The scenario resulted in significant psychological strain on the affected individuals and required the intervention of MTF Epsilon-11 employing prototype "chronal anchors" to remove SCP-32203 from the affected zone and repair the containment breach. </p>
+<p>Subsequent to this incident, upgrades to the containment procedures and materials have been mandated, along with ongoing psychological support for all affected personnel.</p>
+<h3>Addendum 3: Dr. [REDACTED]'s Notes</h3>
+<p>Research into SCP-32203's potential applications has been strictly limited by O5 Command due to the high unpredictability and inherent dangers associated with time manipulation. Any experimentation or use for covert temporal adjustments in Foundation operations requires Level 4 authorization and oversight by at least one member of O5 Command.</p>
+<p>Further analysis of SCP-32203's capabilities has raised concerns regarding its possible origins and whether it could be indicative of a larger, undiscovered ecosystem of temporally anomalous entities. It is critical to our understanding of SCP-32203 that any attempts to communicate with or understand the entity must be conducted under the highest safety protocols to avoid catastrophic temporal and causal repercussions.</p>
+
+    </div>
+    
