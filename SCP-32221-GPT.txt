@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-32221 is  i dont know </h3> </center>
+
+    <h3>Item #: SCP-32221 - "The Chronicler's Canvas"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-32221-GPT.png" alt="Illustration of SCP-32221" />
+        
+<h3>Description:</h3>
+<p>SCP-32221 refers to a seemingly antique painting easel, possessing an ornate, dark wooden frame with intricate carvings that appear to be nonsensical symbols. Each symbol flickers with a luminescent quality when observed indirectly. SCP-32221 itself exhibits no anomalous properties until a canvas is placed upon it and an individual, hereby referred to as the "Artist," engages in the act of painting.</p>
+<p>Upon the Artist's first stroke, whether with intention or random motion, the easel initiates a temporal loop effect, causing a single day to repeat for the Artist until the painting they work on reaches completion. Completion is defined by the Artist themselves deeming the work "finished." During the loop, only the Artist retains memory of prior iterations; all other individuals and events reset at midnight of the looped day.</p>
+<p>Additionally, SCP-32221 seems to imbue the Artist with heightened, though not supernaturally enhanced, painting skills, allowing them to produce work beyond their natural capabilities within the looped timeframe. If the Artist attempts to abandon the painting, they are compelled to return and continue, suggesting a mild cognitohazardous effect associated with SCP-32221. </p>
+<p>Analysis of the symbols on SCP-32221 suggested no correlation with any known language or symbology, until Addendum 32221-2 was filed (please see below).</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-32221 is housed in a standard secure locker at Site-██, with access restricted to personnel with Level 2 clearance or higher. The locker must be kept locked at all times when SCP-32221 is not undergoing testing.</p>
+<p>SCP-32221's containment area is under continuous surveillance to ensure that no unauthorized personnel come into contact with it. Due to the risk of temporal loops affecting facility operations, use of SCP-32221 requires approval from two Level 4 Senior Researchers, and any testing must be scheduled to avoid overlapping with sensitive experiments or operations.</p>
+<p>During testing, at least two armed guards must be present to intervene in case the Artist falls under excessive cognitohazardous influence. Artists are to be counseled post-experiment to mitigate any psychological effects stemming from the temporal loop experience.</p>
+<p>In the event of an unauthorized activation of SCP-32221, Protocol Chrono-Entanglement-Ceasing (CEC) is to be enacted, which involves the rapid completion of the painting by an authorized Artist, thus ending the temporal loop and reestablishing normal linear progression of time.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 32221-E-001:</h4>
+<ul>
+<li><strong>Artist:</strong> D-48293, chosen for baseline artistic skills.</li>
+<li><strong>Canvas:</strong> Standard 24"x18".</li>
+<li><strong>Outcome:</strong> Completion of a landscape painting after 23 looped days. Subject reported intense déjà vu but retained full memory of each day. The painting displayed a notable improvement in skill compared to D-48293's initial capabilities.</li>
+</ul>
+<h4>Experiment 32221-E-005:</h4>
+<ul>
+<li><strong>Artist:</strong> Dr. Natalia Russo, a Class-A painter and researcher.</li>
+<li><strong>Canvas:</strong> Standard 24"x18".</li>
+<li><strong>Outcome:</strong> Completion of a portrait after 3 looped days. Dr. Russo reported minimal psychological stress and a curious sense of fulfillment upon completion. The portrait exhibited an emotional depth that was described as "hauntingly captivating" by several observers.</li>
+</ul>
+<h3>Addendum 2: Symbol Deciphering</h3>
+<h4>Research Note 32221-02:</h4>
+<p>On ██/██/████, during the containment locker overhaul, Research Assistant Y.L. Park noticed that the symbols on SCP-32221 aligned with shadows cast by the containment room's barred window during the sunset of the equinox. Request for further comparative research between SCP-32221's symbols and astronomical phenomena was granted.</p>
+<h4>Addendum 32221-2A: Symbol-Astronomical Correlate Research</h4>
+<p>Researchers discovered the symbols on SCP-32221 correspond to a very ancient and obscure proto-language with links to astronomical observations and timekeeping. The specific translation of the symbols remains only partially understood, but they seem to connote themes of "repetition," "creation," and "perfection."</p>
+<h4>Addendum 32221-2B: Temporal Loop Mechanism Hypothesis</h4>
+<p>With the discovery of the proto-language, a hypothesis has emerged that SCP-32221 may have been designed as a sort of ritualistic or meditative tool by a long-lost civilization, aiming to achieve a sense of enlightenment or mastery through repetitive practice within a safe temporal pocket.</p>
+<p>Further research is required to fully understand the origins and potential implications of SCP-32221's creation and use by past societies.</p>
+
+    </div>
+    
