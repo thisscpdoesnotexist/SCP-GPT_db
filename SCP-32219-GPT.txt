@@ -1,0 +1,39 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-32219 is  fucking stupid </h3> </center>
+
+    <h3>Item #: SCP-32219 - "The Echoes of Yesterday"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-32219-GPT.png" alt="Illustration of SCP-32219" />
+        
+<h3>Description:</h3>
+<p>SCP-32219 is a vintage sepia-toned photograph dating back to the early 20th century, depicting a group of five individuals—three males and two females—posing in front of an old manor house. Each individual in the photograph is dressed in attire typical of the 1920s. SCP-32219's anomalous effects manifest when an individual (hereafter referred to as the subject) verbally expresses a specific desire or regret while in the presence of the photograph.</p>
+<p>Upon uttering a statement of regret or unfulfilled desire, SCP-32219 will produce an auditory hallucination, heard only by the subject, which takes the form of soft voices whispering indistinctly. Approximately 3 to 5 minutes afterward, individuals matching the likenesses of those within SCP-32219 will appear in the vicinity of the subject. These entities (designated SCP-32219-1 through SCP-32219-5) are visually and tangibly indistinguishable from ordinary human beings and will interact with the subject in a manner that directly relates to the expressed desire or regret.</p>
+<p>SCP-32219-1 through SCP-32219-5 lack any personal memories or knowledge predating their manifestation and possess limited knowledge of the world beyond that which is necessary to engage in their role. They will attempt to lead the subject into scenarios which resolve, fulfill, or confront the stated regret or desire, usually resulting in a cathartic experience for the subject. These events unfold over the course of 24 hours, after which SCP-32219-1 through SCP-32219-5 will vanish without a trace.</p>
+<p>Importantly, the resolution provided by the manifestations of SCP-32219 is not always beneficial in nature; while some subjects have reported a sense of closure or happiness, others have experienced outcomes ranging from unsettling to traumatizing. Manifestations are incapable of causing direct physical harm to subjects or bystanders. However, their influence on the subject's decisions can inadvertently lead to self-harm or harmful behavior towards others.</p>
+<p>SCP-32219 was recovered from an estate sale in ███████████, England, after reports of its anomalous properties reached Foundation operatives within the art collection community. It has since been contained, and research into its origins and potential connections to other anomalous items or locations is ongoing.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-32219 is to be stored in a standard secure locker at Site-19. Access to SCP-32219 is restricted to personnel with Level 2 clearance or higher and must be approved by at least one Level 3 Senior Researcher. When not undergoing testing, SCP-32219 is to be enclosed within an opaque, acid-free archival storage sleeve to prevent accidental exposure and activation of its anomalous effects.</p>
+<p>Testing of SCP-32219's effects is strictly regulated and must be approved by the overseeing Senior Researcher. All subjects participating in tests must undergo thorough psychological evaluation before and after exposure to SCP-32219. Interaction with the photograph outside of controlled experiments is strictly forbidden. In the event of accidental activation, containment breach protocols specific to SCP-32219 are to be followed to mitigate any unwanted interactions with SCP-32219-1 through SCP-32219-5 manifestations.</p>
+<h3>Addendum 1: Experiment Log 32219-A</h3>
+<h4>Experiment 32219-A1:</h4>
+<ul>
+<li><strong>Subject:</strong> D-43829</li>
+<li><strong>Procedure:</strong> Subject was instructed to express a regret related to their past.</li>
+<li><strong>Result:</strong> Subject vocalized regret over not having reconciled with their estranged sibling. SCP-32219-3, resembling the subject's sibling, appeared and engaged in conversation with D-43829. A peaceful resolution was achieved, resulting in the subject displaying signs of emotional relief.</li>
+<li><strong>Notes:</strong> This test confirms SCP-32219's ability to generate a scenario conducive to the resolution or satisfaction of the subject's expressed regret.</li>
+</ul>
+<h4>Experiment 32219-A2:</h4>
+<ul>
+<li><strong>Subject:</strong> D-82110</li>
+<li><strong>Procedure:</strong> Subject was instructed to express a longstanding, unfulfilled desire.</li>
+<li><strong>Result:</strong> Subject expressed a wish to have become a professional musician. SCP-32219-1 and SCP-32219-2 appeared as talent scouts and offered the subject an opportunity to perform in an impromptu concert. The event was enthusiastically received by D-82110, who reported feeling a sense of achievement despite the temporary nature of the experience.</li>
+<li><strong>Notes:</strong> The manifestations engage with the subject's scenarios in a surprisingly authentic and elaborate manner.</li>
+</ul>
+<h3>Addendum 2: Incident Report 32219-B</h3>
+<p>On ██/██/████, SCP-32219 was inadvertently activated by Research Assistant ██████ during routine cataloging. The assistant expressed frustration over a recent romantic breakup. The resulting manifestation, SCP-32219-4, assumed the likeness of the assistant's ex-partner. Over the next 24 hours, SCP-32219-4 interacted with the assistant, leading to a series of events that culminated in a fake marriage proposal. Upon the disappearance of the manifestation, Research Assistant ██████ suffered an emotional breakdown and was admitted to Site-19's psychiatric ward for observation and treatment.</p>
+<p>The incident highlights the potential psychological risks associated with SCP-32219's influence. Containment procedures have been updated to prevent future mishandling, and Research Assistant ██████'s clearance to access anomalous items has been revoked pending a full psychological review.</p>
+
+    </div>
+    
