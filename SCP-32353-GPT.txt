@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-32353 is  A vegetable that will kill your body fat overnight!! </h3> </center>
+
+    <h3>Item #: SCP-32353 - The Metaboleth</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-32353-GPT.png" alt="Illustration of SCP-32353" />
+        
+<h3>Description:</h3>
+<p>SCP-32353 refers to a species of vegetable resembling a cross between <em>Cucurbita maxima</em> (pumpkin) and <em>Citrullus lanatus</em> (watermelon). The most notable feature of SCP-32353 is its anomalous effect on human metabolism. When a piece of SCP-32353 is ingested by a human subject, it catalyzes a hyper-accelerated metabolic reaction that consumes adipose tissue (body fat) at an alarming rate.</p>
+<p>This process begins within two to three hours post-consumption, wherein the subject starts to lose body fat equivalent to several kilograms per hour. This effect continues unabated until either all fat stores are depleted, or termination of the subject occurs due to metabolic exhaustion. SCP-32353 does not provide any sustenance; rather, it triggers the body's fat consumption mechanism to extreme, unsustainable levels. </p>
+<p>Comprehensive analysis of SCP-32353's composition reveals a complex mix of naturally occurring plant compounds as well as unidentified anomalous biochemicals that are not found in any other known species.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given its hazardous potential and ability to propagate, containment of SCP-32353 is of high priority. The following measures are to be enacted indefinitely:</p>
+<ul>
+<li>All known specimens of SCP-32353 are to be kept in high-security, hermetically-sealed, climate-controlled containment chambers at Site-██.</li>
+<li>Access to these samples is restricted to Level-4 personnel who have undergone medical tests to ensure they have no conditions exacerbated by rapid fat loss.</li>
+<li>All personnel must don personal protective equipment, specifically designed to prevent accidental ingestion or contact with SCP-32353.</li>
+<li>All waste products and remnants from experimentation must be incinerated immediately.</li>
+<li>Any instances of SCP-32353 found outside containment are to be neutralized on-site, and the area subjected to a Class-4 Hazardous Anomaly Clear-out Protocol.</li>
+<li>Undercover agents in health and wellness communities are to monitor for signs of SCP-32353 and its potential distribution under the guise of miracle weight loss products.</li>
+</ul>
+<h3>Addendum 1: Discovery</h3>
+<h4>Discovery Log:</h4>
+<p>SCP-32353 was first discovered in [REDACTED], South America, after reports of an entire village rapidly losing weight and subsequently perishing within a week. Foundation agents intercepted the shipments of produce believed to be responsible and culled the affected population to prevent further spread. SCP-32353 was among the recovered substances and was promptly classified and contained.</p>
+<h3>Addendum 2: Experiment Logs</h3>
+<h4>Experiment 32353-E1:</h4>
+<p><strong>Subject:</strong> D-8342, a 32-year-old female with a body mass index (BMI) of 30.</p>
+<p><strong>Procedure:</strong> D-8342 was instructed to consume 100 grams of SCP-32353.</p>
+<p><strong>Results:</strong> Two hours post-ingestion, the subject reported feeling "lighter" and "empty." After six hours, the subject lost approximately 20 kg (44 lbs). At the 12-hour mark, the subject went into cardiac arrest and expired.</p>
+<p><strong>Analysis:</strong> SCP-32353's effect is not only confined to subcutaneous and visceral fat but also depletes essential fatty tissues, leading to organ failure.</p>
+<h4>Experiment 32353-E5:</h4>
+<p><strong>Subject:</strong> D-192, a 38-year-old male with a BMI of 27.</p>
+<p><strong>Procedure:</strong> D-192 was administered a 10 gram dose of SCP-32353.</p>
+<p><strong>Results:</strong> Subject exhibited a slower rate of fat loss, losing 15 kg (33 lbs) over a 24-hour period, after which no further fat loss was observed. Despite survival, the subject suffered irreversible organ damage and was reported to have a significantly decreased quality of life.</p>
+<p><strong>Analysis:</strong> Reducing the dose of SCP-32353 slows the effect but does not eliminate the risk of lethal organ damage. Long-term effects on survivors warrant further study.</p>
+<h3>Addendum 3: Incident 32353-1</h3>
+<h4>Description of Incident:</h4>
+<p>On ██/██/20██, a containment breach occurred in which SCP-32353 samples were stolen by a rogue Foundation employee, with suspected ties to the anomalous black market. A subsequent investigation revealed the stolen SCP-32353 had been advertised and sold as a preternatural weight loss supplement via dark web channels. A task force was immediately deployed to trace and recover the distributed instances.</p>
+<h4>Containment Measures Post-Incident:</h4>
+<p>In light of Incident 32353-1, surveillance and screening protocols were enhanced. The Foundation has also initiated a disinformation campaign to discredit the "overnight weight loss" phenomenon as an elaborate hoax involving harmful chemicals and sophisticated digital editing to manufacture false body transformation testimonials.</p>
+<p><strong>Note:</strong> As of the date of this report, containment efforts are ongoing. The full extent of the breach is still being assessed, as is the potential risk to the general public's health and safety.</p>
+
+    </div>
+    
