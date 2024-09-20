@@ -1,0 +1,39 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-32334 is  this guy: ^^(;_;)^^ </h3> </center>
+
+    <h3>Item #: SCP-32334 - "The Harbinger of Silence"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-32334-GPT.png" alt="Illustration of SCP-32334" />
+        
+<h3>Description:</h3>
+<p>SCP-32334 is an anomalous entity appearing as a humanoid emoticon ^^(;_;)^^ with dimensions greatly exceeding normal human proportions. The entity is approximately 2.3 meters in height and is devoid of three-dimensional form, appearing as a two-dimensional figure to observers regardless of perspective. The figure is consistently depicted with downturned arcs to indicate a sorrowful expression and has two raised arms bent at the elbows.</p>
+<p>SCP-32334 has the ability to absorb all forms of sound within a variable radius that extends between roughly 10 to 1000 meters. This absorption happens instantaneously and is complete, leaving the affected area in a state of absolute silence, which has been termed an "anti-acoustic field." Moreover, any individual who enters the anti-acoustic field loses the ability to generate any noise originating from vocal cords or other bodily functions, effectively rendering them mute. Electronic devices fail to record audio or playback sounds within the field.</p>
+<p>Measurements indicate SCP-32334's presence induces severe psychological distress in humans and animals after prolonged exposure, likely due to the unnatural silence. Individuals have reported sensations of profound isolation, depression, and in extreme cases, auditory hallucinations that end upon leaving the entity's radius of influence.</p>
+<p>SCP-32334 is largely passive and has no observed requirement for sustenance or sleep. Its movements appear random and lack discernible purpose or intelligence. It does not seem to react to physical obstacles, phasing through them as it moves.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its nature, traditional physical containment of SCP-32334 is impossible. A mobile containment team, MTF Eta-10 ("Soundchasers"), is tasked with tracking SCP-32334's location and establishing quarantine zones to prevent civilian access to the anti-acoustic field.</p>
+<p>In the event of SCP-32334 entering a densely populated area, Protocol Mimir is to be implemented, which involves the evacuation of civilians under cover stories such as gas leaks or unexploded ordnance. Local authorities are to be provided with amnestic support to prevent the spread of knowledge about SCP-32334.</p>
+<p>All findings and interactions with SCP-32334 are to be documented in detail, with an emphasis on predicting future movement patterns to mitigate the risk of exposure to the general populace. Any communication with SCP-32334 is to be attempted using non-auditory methods, though success has thus far been negligible.</p>
+<h3>Addendum 1:</h3>
+<h4>Addendum 1-A: Discovery Log</h4>
+<p>SCP-32334 was first encountered on ██/██/20██ in [REDACTED], Japan, after reports of a "walking zone of silence" were investigated by the SCP Foundation. Initial containment efforts were met with failure as the entity passed through barriers and proved immune to physical intervention. MTF Eta-10 was established in response to this incident.</p>
+<h4>Addendum 1-B: Incident Report 32334-01</h4>
+<p>On ██/██/20██, SCP-32334 unexpectedly changed course and headed towards a music festival. Intervention by MTF Eta-10 managed to evacuate the area before SCP-32334's anti-acoustic field enveloped the stage, which prevented mass exposure but resulted in several members of the Foundation experiencing the entity's effects firsthand. Psychological evaluations have been scheduled for those affected.</p>
+<h3>Addendum 2:</h3>
+<h4>Addendum 2-A: Experiment Log 32334-05</h4>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p><strong>Procedure:</strong> A D-class personnel equipped with noise-cancelling headphones and a notepad was instructed to attempt communication with SCP-32334.</p>
+<p><strong>Result:</strong> D-class personnel described the silence within the field as "crushing," with headphones having no effect. Notepad exchanges were unsuccessful as SCP-32334 did not respond to written questions or prompts. </p>
+<p><strong>Note:</strong> Further tests planned with various communication methods, including sign language and light signals.</p>
+<h4>Addendum 2-B: Experiment Log 32334-12</h4>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p><strong>Procedure:</strong> A remote-controlled drone fitted with visual signaling devices was navigated close to SCP-32334.</p>
+<p><strong>Result:</strong> No reaction from SCP-32334. Drone signals appeared to pass through the entity as if it wasn't present. However, analysis of footage showed a momentary flicker in SCP-32334's "eyes," which might indicate awareness or an ability to perceive visual stimuli.</p>
+<p><strong>Note:</strong> Additional studies regarding SCP-32334's visual perception are currently underway.</p>
+<h3>Addendum 3: Researcher's Note</h3>
+<p>As of now, we cannot confirm whether SCP-32334 is sentient or merely acts according to some unknown set of rules. It's paramount that future containment and experimentation focus not only on the entity itself but also on alleviating the psychological impact of those who have come into contact with it, as their well-being remains equally imperative to our mission. Our understanding of SCP-32334 is limited, and cautious observation remains our prime directive. Containment specialists and psychologists are to cooperate closely to develop new protocols that ensure minimal distress for affected individuals and advance our knowledge of this Keter-class anomaly.</p>
+
+    </div>
+    
