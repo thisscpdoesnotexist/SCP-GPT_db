@@ -1,0 +1,79 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-32377 is  that all life is evolving into crabs </h3> </center>
+
+    <h3>Item #: SCP-32377 - “The Carcinization Event”</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-32377-GPT.png" alt="Illustration of SCP-32377" />
+        
+<h3>Description:</h3>
+<p>SCP-32377 is a global phenomenon involving the gradual and forced evolutionary process known as Carcinization, where non-crab-like organisms are undergoing mutations towards a decapod crustacean form, commonly referred to as crabs. This process affects multi-cellular organisms, encompassing a wide range of species, including mammals, birds, reptiles, and insects. </p>
+<p>Initial onset of SCP-32377 is subtle, usually starting with minor physiological changes in the affected species. Over multiple generations, these changes become more pronounced, eventually leading to full carcinization. Notably, the cognitive functions of higher life forms are not preserved during the transformation, resulting in significant loss of biodiversity and ecological imbalance.</p>
+<p>The mechanism behind SCP-32377 remains unclear; however, it is hypothesized that an anomalous pathogen, gene sequence, or extraterrestrial influence may be responsible. Further research is ongoing to determine the source and to seek a possible reversal or halt to the carcinization process.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the scope of SCP-32377, containment is focused on research, mitigation, and prevention. The following procedures have been put in place to manage the effects of SCP-32377:</p>
+<ol>
+<li>
+<p>Field agents are tasked with regular monitoring of wildlife and human populations for symptoms of SCP-32377. Any newly affected species or individuals are to be captured and transported to Biological Site-88 for containment and study.</p>
+</li>
+<li>
+<p>A dedicated research task force, codenamed "Crabwalk," composed of geneticists, epidemiologists, and cryptozoologists, has been assembled to investigate SCP-32377's cause and develop possible countermeasures. </p>
+</li>
+<li>
+<p>Contamination prevention measures are implemented globally, including but not limited to, quarantine protocols, destruction of severely affected ecosystems, and genetic screening of populations.</p>
+</li>
+<li>
+<p>A disinformation campaign is active to maintain public unawareness of SCP-32377. Any leaks are to be suppressed through standard Foundation web scrub protocols and the use of amnestics where necessary.</p>
+</li>
+<li>
+<p>To avoid potential spread, the consumption of crustaceans, including crabs, is strictly forbidden for Foundation staff, and screenings are performed regularly.</p>
+</li>
+</ol>
+<h3>Addendum 1: Discovery Log</h3>
+<ul>
+<li><strong>A-1.1</strong>: SCP-32377 was first observed in a small coastal town in the Philippines when local fauna began exhibiting abnormal growth patterns consistent with brachyuran morphology.</li>
+<li><strong>A-1.2</strong>: Initial reports were dismissed as a hoax until similar cases emerged in various parts of the world, affecting both wild and domestic animals.</li>
+<li><strong>A-1.3</strong>: An emergency meeting of the O5 Council declared SCP-32377 a Keter-class anomaly due to its potential for irreversible ecological disruption and threat to human life.</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li><strong>Experiment 2.1 (Canine Carcinization Stages)</strong></li>
+<li><strong>Subject</strong>: Adult Canis lupus familiaris</li>
+<li><strong>Procedure</strong>: Subject was observed over several generations to document the progressive stages of SCP-32377.</li>
+<li><strong>Results</strong>: Over five generations, subject began showing increased resilience to saline environments, development of chitinous exoskeleton, and modified limb structure. Cognitive decline observed in latter stages.</li>
+<li>
+<p><strong>Analysis</strong>: Affirms SCP-32377’s capacity to alter higher mammals and the concerning speed at which transformations occur.</p>
+</li>
+<li>
+<p><strong>Experiment 2.2 (Human Exposure Outcomes)</strong></p>
+</li>
+<li><strong>Subject</strong>: D-Class personnel (volunteered under protocol Kappa-10)</li>
+<li><strong>Procedure</strong>: Subject exposed to environments with high SCP-32377 activity.</li>
+<li><strong>Results</strong>: After 12 weeks, subject began exhibiting early signs of Carcinization, such as toughening skin and minor reshaping of the appendages. Experiment terminated before complete transformation.</li>
+<li>
+<p><strong>Analysis</strong>: Confirms human susceptibility to SCP-32377; underscores urgency in finding a cure or preventative measures.</p>
+</li>
+<li>
+<p><strong>Experiment 2.3 (Reversal Trials)</strong></p>
+</li>
+<li><strong>Subject</strong>: Various fauna at different stages of SCP-32377-induced transformation.</li>
+<li><strong>Procedure</strong>: Subjects treated with a range of potential antidotes, including gene therapy, anomalous objects with restorative properties, and CRISPR-Cas9 editing.</li>
+<li><strong>Results</strong>: Some treatments showed temporary reversal of symptoms; however, no long-term solution has been found.</li>
+<li><strong>Analysis</strong>: Promising leads require further refinement. Suggests SCP-32377 may be counteracted under proper conditions.</li>
+</ul>
+<h3>Addendum 3: Incident Report</h3>
+<ul>
+<li><strong>Incident 3.1</strong>: On [REDACTED], a containment breach occurred at Biological Site-88, resulting in the escape of several fully transformed specimens into a nearby population center.</li>
+<li><strong>Response</strong>: Mobile Task Force Epsilon-6 ("Village Idiots") successfully recaptured 90% of the specimens. Remaining 10% required termination. Cover story involving a "toxic spill" was disseminated, and amnestics were administered to witnesses.</li>
+</ul>
+<h3>Addendum 4: O5 Council Notes</h3>
+<ul>
+<li><strong>Note 4.1</strong>: A potential link between SCP-32377 and [DATA EXPUNGED] is currently under investigation.</li>
+<li><strong>Note 4.2</strong>: Should SCP-32377 continue to elude containment, proposals for widespread teratogenic countermeasures are to be developed.</li>
+<li><strong>Note 4.3</strong>: In the event that SCP-32377 cannot be controlled or reversed, Protocol “Last Resort” will be considered – details of which are known only to the O5 Council and are classified Level 5.</li>
+</ul>
+<p>In light of the catastrophic potential SCP-32377 poses to global biodiversity and human civilization, all resources necessary are allocated towards containment and reversal efforts. Failure to do so may result in a world irreversibly ruled by shell.</p>
+
+    </div>
+    
