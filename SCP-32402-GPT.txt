@@ -1,0 +1,52 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-32402 is  An amoral morel, a mushroom that removes your ability to discern between right and wrong </h3> </center>
+
+    <h3>Item #: SCP-32402 - "The Ethical Fungus"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-32402-GPT.png" alt="Illustration of SCP-32402" />
+        
+<h3>Description:</h3>
+<p>SCP-32402 is a species of fungus closely resembling the Morchella genus, commonly known as morels. It is differentiated from non-anomalous morels by its spores, which exhibit a faint bioluminescence visible under ultraviolet light. SCP-32402's remarkable property manifests when its spores are inhaled or consumed by humans, leading to the temporary suspension of the subject's ability to discern moral values, specifically the concepts of right and wrong.</p>
+<p>Subjects affected by SCP-32402 demonstrate a condition hereby referred to as SCP-32402-1. Individuals experiencing SCP-32402-1 display a complete lack of ethical judgment, making decisions based solely on personal desires, logical outcomes, or random choice without regard for societal norms, personal relationships, or potential harm to themselves or others. Affected subjects are still able to understand laws, social etiquette, and rules but choose actions without any consideration of these frameworks’ ethical underpinnings. Further studies have confirmed that SCP-32402-1 does not impair cognitive function or awareness of consequences; instead, it only targets the moral reasoning capacities.</p>
+<p>The duration of SCP-32402-1 is variable, ranging from several hours to a few weeks, and does not appear to cause permanent damage to brain structures associated with moral decision-making, as subjects typically regain full ethical comprehension after the effect subsides.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-32402 is contained within a Secure Botanical Containment Chamber (SBCC) at Site-103. The environment within the SBCC is controlled to prevent the growth of SCP-32402 outside of research purposes. All research involving SCP-32402 must be approved by at least two Level 4 personnel, with all researchers undergoing thorough psychological evaluations before and after exposure to the fungus or its spores.</p>
+<p>Personnel entering the SBCC must wear HAZMAT suits with internal air supplies to prevent accidental inhalation or ingestion of spores. Spores and samples of SCP-32402 are to be handled within a Level 4 Biohazard containment unit.</p>
+<p>Any unauthorized personnel displaying signs of SCP-32402-1 are to be detained, administered Class-C amnestics if within the 48-hour window post-exposure, and placed under psychological observation until they demonstrate a consistent return to standard moral reasoning.</p>
+<p>Due to the risk of SCP-32402 spreading beyond containment through accidental release of its spores, Site-103 is equipped with specialized air filtration systems to capture airborne particulates down to 0.3 micrometers in diameter, and incinerate them to ensure complete eradication.</p>
+<h3>Addendum 1: Incident Report 32402-A</h3>
+<h4>Addendum 1a: Event Description</h4>
+<p>On [REDACTED], a containment breach at Site-103 occurred due to structural damage from an unrelated SCP event, resulting in the release of SCP-32402 spores into the atmosphere. The breach affected 37 personnel, all of whom began to show symptoms of SCP-32402-1.</p>
+<h4>Addendum 1b: Response and Outcome</h4>
+<p>An emergency lockdown was initiated, and the affected individuals were quarantined. Site-103's emergency filtration system successfully purged remaining airborne spores, preventing a widespread outbreak. All affected personnel were treated and subsequently cleared, with no lasting effects. Site reinforcement and additional failsafe measures were recommended and have since been implemented.</p>
+<h3>Addendum 2: Experiment Log 32402-X</h3>
+<h4>Experiment 32402-03</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Purpose:</strong> To determine the minimum spore exposure required to induce SCP-32402-1.</li>
+<li><strong>Procedure:</strong> D-class personnel were exposed to incrementally increasing concentrations of SCP-32402 spores under controlled conditions.</li>
+<li><strong>Results:</strong> SCP-32402-1 manifested in subjects after inhaling no less than 10^5 spores. Lower concentrations produced no discernible effect.</li>
+</ul>
+<h4>Experiment 32402-09</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Purpose:</strong> To test the effectiveness of potential antidotes and preventive treatments.</li>
+<li><strong>Procedure:</strong> Various antifungal medications, along with experimental compounds, were administered to D-class personnel prior to exposure.</li>
+<li><strong>Results:</strong> No significant reduction in susceptibility to SCP-32402-1 was observed. Research into preventative treatments is ongoing.</li>
+</ul>
+<h4>Experiment 32402-15</h4>
+<ul>
+<li><strong>Date:</strong> [REDACTED]</li>
+<li><strong>Purpose:</strong> To explore the effects of long-term exposure on ethical reasoning after SCP-32402-1 subsides.</li>
+<li><strong>Procedure:</strong> A group of D-class personnel was exposed to sub-threshold concentrations of SCP-32402 spores over a prolonged period.</li>
+<li><strong>Results:</strong> Subjects developed a tolerance to the spores, with no SCP-32402-1 episodes observed. Monitoring continues to assess long-term impacts on moral cognition.</li>
+</ul>
+<h3>Addendum 3: Psychological Analysis of SCP-32402-1</h3>
+<p>Following extensive observation of SCP-32402-1 affected individuals, it has been determined that while under the influence of the condition, subjects exhibit a marked increase in anti-social behaviors, disregard for authority, and in extreme cases, violent tendencies. It's clear that SCP-32402-1 poses significant risks not only to the physical well-being of affected individuals but also to the moral fabric of exposed groups. Ethical recalibration training has been recommended as a post-exposure therapy for all staff members affected by future outbreaks.</p>
+<hr />
+<p><em>Note: The potential for weaponization of SCP-32402 by Groups of Interest remains of paramount concern; all research is to be conducted with the utmost security and discretion.</em></p>
+
+    </div>
+    
