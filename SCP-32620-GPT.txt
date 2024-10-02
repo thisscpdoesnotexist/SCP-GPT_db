@@ -1,0 +1,55 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-32620 is  SCP-32620-a is blind, but tracks you by sound. SCP-32620-b can only move when not being seen, but makes a creaking noise. Together, they are Yuri. </h3> </center>
+
+    <h3>Item #: SCP-32620 "Yuri's Duality"</h3>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-32620 refers to a pair of entities, designated SCP-32620-a and SCP-32620-b, that share a symbiotic relationship, with elements reminiscent of Russian folklore involving duality and personifications of fate. Both entities appear to be manifestations of a single consciousness, which has been named "Yuri" by researchers due to the entity's preference for the moniker when communicating through SCP-32620-b.</p>
+<p>SCP-32620-a resembles a decrepit humanoid with atrophied eyes and pale skin. This entity is effectively blind and relies on acute hearing to locate its prey, which primarily consists of small animals and occasionally human subjects. SCP-32620-a emits a low, mourning wail in the presence of living creatures, which is hypothesized to be either a means of echolocation or a method of inducing fear and panic.</p>
+<p>SCP-32620-b, on the other hand, is a more enigmatic figure, often appearing as a shadowy silhouette, sometimes clothed in a tattered overcoat. This entity is bound by a set of anomalous rules: it can only move when unobserved, freezing instantly when in direct line of sight of a person or camera. However, when it moves, it emits a distinct creaking noise that betrays its presence and invariably draws attention to its location.</p>
+<p>Despite these constraints, SCP-32620 as a whole exhibits high intelligence and has shown the ability to avoid capture through cunning and the manipulation of its environment.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the mobile and perceptive nature of SCP-32620, a multi-faceted containment strategy is employed.</p>
+<ol>
+<li>
+<p>SCP-32620-a is to be contained within a soundproof chamber measuring 10 meters on all sides at Site-██. The interior walls are to be lined with a thick layer of sound-absorptive foam, and electronic noise generators are to be installed to constantly emit white noise at a frequency that disorients SCP-32620-a.</p>
+</li>
+<li>
+<p>SCP-32620-b's containment chamber is to be equipped with a 360-degree array of high-resolution cameras with overlapping fields of view to ensure constant observation. Motion detectors will trigger strobe lights and loud alarms to create a disorienting environment, hindering SCP-32620-b's movement. </p>
+</li>
+<li>
+<p>No personnel are to enter either containment chamber without the approval of at least two (2) Level 4 researchers. On entering SCP-32620-b's chamber, individuals are to be equipped with a camera affixed to their head, streaming live footage to an external observation room.</p>
+</li>
+<li>
+<p>In the event of a containment breach, MTF Lambda-5 ("White Noise") is to be dispatched. They are equipped with directionally-sensitive microphones and head-mounted display systems that show the real-time position of SCP-32620-b, regardless of the observer's direction of gaze.</p>
+</li>
+</ol>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-32620 was initially discovered in a deserted village in Siberia, where local reports described a "haunted" area where people would disappear without a trace. Foundation operatives were dispatched, and after several casualties, the entities were contained and transported to Site-██.</p>
+<h3>Addendum 2: Incident Logs</h3>
+<h4>Incident 32620-1:</h4>
+<p>On ██/██/20██, SCP-32620-a breached containment due to an electrical outage that disabled the noise generators. SCP-32620-b was simultaneously observed to cease all movement despite the lack of direct observation. It is theorized that SCP-32620-a's lack of input from SCP-32620-b somehow triggered a dormant state in the latter.</p>
+<h4>Incident 32620-2:</h4>
+<p>During routine maintenance of SCP-32620-b's chamber, the entity managed to "ride" the shadow of a technician, effectively bypassing the camera surveillance system. The movement was only noticed when SCP-32620-b produced the creaking noise from directly beside the technician. The technician experienced severe psychological trauma but survived after immediate intervention.</p>
+<h3>Addendum 3: Experiment Logs</h3>
+<h4>Experiment Log 32620-03a:</h4>
+<ul>
+<li><strong>Objective:</strong> To study the reaction of SCP-32620-b to different audio frequencies.</li>
+<li><strong>Procedure:</strong> A series of tones were played within SCP-32620-b's chamber at different frequencies while cameras observed its reactions.</li>
+<li><strong>Result:</strong> SCP-32620-b showed agitation at frequencies between 3000 to 5000 Hz, which correspond to the range of its own creaking noise. This suggests a possible method of control or containment adjustment.</li>
+</ul>
+<h4>Experiment Log 32620-05b:</h4>
+<ul>
+<li><strong>Objective:</strong> To test the communication between SCP-32620-a and SCP-32620-b.</li>
+<li><strong>Procedure:</strong> SCP-32620-a's chamber was bombarded with white noise while SCP-32620-b was presented with a sequence of simple puzzles requiring motion to solve.</li>
+<li><strong>Result:</strong> SCP-32620-b became unresponsive and remained motionless, implying a direct cognitive link between the two entities. SCP-32620-a increased its wailing, indicating distress.</li>
+</ul>
+<h3>Addendum 4: Interview Log</h3>
+<p>A partial transcript of an interview conducted with SCP-32620-b during which the entity responded by manipulating shadows to form rudimentary shapes and script, revealing some insights into its intelligence and possibly its origins.</p>
+<p>The narrative of SCP-32620 combines anomalous horror with a tale of separation and the struggle for reunion. Through containment breaches, experiments, and interviews, the nature of SCP-32620's duality and the dependency of the entities on one another is explored. This relationship hints at a tragic backstory, possibly rooted in folklore, which opens up many avenues for further research and storytelling within the SCP Foundation narrative.</p>
+
+    </div>
+    
