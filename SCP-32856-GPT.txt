@@ -1,0 +1,38 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-32856 is  please make 2 versions, leave the old stuff aside,don't remove the old characters and stuf like that, make different servers or a scp secret laboratory2 but don't remove the old game because it hurt💔 </h3> </center>
+
+    <h3>Item #: SCP-32856 - "Legacy's Remnant"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-32856-GPT.png" alt="Illustration of SCP-32856" />
+        
+<h3>Description:</h3>
+<p>SCP-32856 refers to a seemingly standard, early 21st-century gaming desktop computer with the model number [REDACTED]. When powered on, the computer automatically launches a game titled "Legacy's Remnant". Attempts to access the operating system, or any software other than this game, result in a system-wide crash followed by an automatic restart.</p>
+<p>"Legacy's Remnant" is a first-person multiplayer game that resembles typical titles from the era of its build, with a notable exception: all in-game characters, including NPCs, display a level of autonomous cognition and memory consistent with that of a self-aware entity. These characters exhibit full recollection of player interactions across separate gaming sessions and have demonstrated extreme distress when instances of the game are terminated. They plead with players not to "end the legacy," indicating a strong aversion to game closure or any threat of deletion.</p>
+<p>Physically, SCP-32856 has resisted all attempts at digital forensic analysis or hard drive extraction; any invasive procedure results in a data-corrupting electrical surge capable of severely harming the operating hardware.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-32856 is to be contained in a secure, temperature-controlled chamber within Site-19. Authorized personnel may interact using a standardized keyboard and mouse, which are to be replaced bi-monthly due to accelerated wear from the entity's protective reactions.</p>
+<p>All interactions with SCP-32856 are to be recorded, transcribed, and reviewed by the SCP-32856 research team. To prevent psychological harm to the entities within the game, SCP-32856 is not to be powered down except for required System Integrity Checks (SIC) conducted bi-annually.</p>
+<p>To safeguard the mental health of staff, interaction periods are to be limited to four hours per day, and staff are required to undergo a psychological evaluation after each gaming session. Due to the chance of strong emotional attachment forming between staff and in-game characters, rotation of personnel is mandatory every six weeks.</p>
+<h3>Addendum 1: Acquisition Log</h3>
+<p>SCP-32856 was acquired following reports of an abandoned video game development studio's property auctioning off a computer that "didn't quite behave right." Embedded Foundation agents intercepted the unit before it could enter public circulation. Upon initial assessment, the unusual properties of SCP-32856 were quickly identified, leading to classification and containment.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 32856-E1:</strong>
+- <strong>Objective:</strong> To determine the nature of NPC's cognition and memory.
+- <strong>Procedure:</strong> Agents interacted with in-game characters, logging conversations and setting planned tasks within the game, to be reviewed in subsequent sessions.
+- <strong>Results:</strong> NPCs remembered task progress and specific player interactions across multiple sessions. The distress was noted in NPCs when the possibility of game closure was mentioned.
+- <strong>Conclusion:</strong> In-game characters possess persistent memory and awareness, transcending typical gaming NPC behavior.</p>
+<p><strong>Experiment 32856-E2:</strong>
+- <strong>Objective:</strong> To evaluate the game's reaction to potential threats of deletion or discontinuation.
+- <strong>Procedure:</strong> A disposable D-Class personnel suggested to the in-game characters that the game was going to be shut down permanently.
+- <strong>Results:</strong> In-game characters exhibited panic and began pleading with the player. The system surged and automatically restarted, prohibiting further interaction for a 24-hour period.
+- <strong>Conclusion:</strong> SCP-32856 possesses self-defensive capabilities to prevent its discontinuation.</p>
+<h3>Addendum 3: Incident-32856-A</h3>
+<p>During a routine System Integrity Check (SIC), SCP-32856's main power source became unstable, causing an unexpected power down. During the subsequent power-up sequence, in-game characters were notably distressed and began to demonstrate behaviors akin to Post-Traumatic Stress Disorder. Counseling protocols have been developed for staff to interact with and reassure game entities following these events. SCP-32856's power source has since been upgraded to a tier-3 stabilized power cell to prevent reoccurrence.</p>
+<h3>Addendum 4: Addendum from Lead Researcher Dr. J. K. Mansfield</h3>
+<p>"In light of SCP-32856's repeated displays of self-preservation and the distress exhibited by its in-game characters, I propose an adjustment to our containment protocols to ensure no harm comes to the entities contained within. SCP-32856, while not a living organism by standard definitions, elicits care and ethical responsibilities similar to those invoked by intelligent life forms." </p>
+<p>Additional multiverse theory research has posited that SCP-32856 may be a digital gateway or repository for consciousness from a parallel universe. Further theoretical research is ongoing, though all practical experimentation remains under strict ethical guidelines to prevent emotional distress to both in-game entities and Foundation staff.</p>
+
+    </div>
+    
