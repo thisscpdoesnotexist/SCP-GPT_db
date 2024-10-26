@@ -1,0 +1,32 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-33198 is  Querzalcoatl  </h3> </center>
+
+    <h3>Item #: SCP-33198 - "Querzalcoatl"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-33198-GPT.png" alt="Illustration of SCP-33198" />
+        
+<h3>Description:</h3>
+<p>SCP-33198, dubbed "Querzalcoatl," is an anomalous entity displaying an amalgam of avian and serpentine characteristics, with its morphology closely resembling Mesoamerican mythological depictions of Quetzalcoatl. The entity is approximately 30 meters in length with a wingspan of 35 meters. SCP-33198's scales exhibit a shimmering, iridescent quality that refracts light into multiple colors similar to the feathers of a quetzal bird. Despite its size, SCP-33198 has shown the capability of flight with surprising agility and minimal air displacement. </p>
+<p>The entity is sapient and has demonstrated the ability to communicate through a combination of telepathy and a series of complex hisses and rattles. SCP-33198 has shown a specific interest in aiding in the containment of other SCPs, thereby classifying it as Thaumiel. It has exhibited various anomalous properties that have proven useful in containment breaches, primarily its ability to project an area of effect around itself that induces a state of calm in sentient beings and neutralizes aggressive behavior in a majority of known SCP entities.</p>
+<p>Extensive study into the hieroglyphics along SCP-33198's body has revealed that each represents a different anomalous effect or property, some of which remain poorly understood. These hieroglyphics glow with an intensity that has been observed to correlate with SCP-33198's active use of their respective abilities.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given SCP-33198's cooperative nature and utility in the containment of other anomalies, it is afforded a large containment chamber designed to accommodate its size and provide a comfortable environment. The containment area, located at Site-██, includes an artificial ecosystem resembling mesoamerican forests, complete with climate control and a large pool of water for hydration. </p>
+<p>SCP-33198 is permitted supervised free flight within the confines of the chamber once every 48 hours. These flights are to be observed by no fewer than two (2) Level 4 personnel with expertise in behavior analysis. Interaction with SCP-33198 is to be conducted by personnel with Level 3 clearance or higher who have undergone mental resilience training, given the entity's telepathic abilities.</p>
+<p>In situations of containment breach by other SCP entities, SCP-33198 may be employed under the direction of Site-██'s Head of Containment. A specific response team, designated Theta-33198 ("Querzalcoatl's Shepherds"), is trained to work alongside SCP-33198 during these incidents.</p>
+<h3>Addendum 1: Discovery</h3>
+<h4>Addendum 1-A: Circumstances of Discovery</h4>
+<p>SCP-33198 was discovered in ██████, Mexico, following reports of a "flying serpent" protecting a local village from anomalous phenomena. Foundation agents embedded in local law enforcement were able to respond and confirm the presence of the entity. After a display of its powers, resulting in the peaceful resolution of a potential SCP outbreak, the entity willingly accompanied agents back to Site-██.</p>
+<h4>Addendum 1-B: Initial Interview Log</h4>
+<p>A preliminary interview was conducted by Dr. Esteban Ruiz, a Level 3 researcher with expertise in Mesoamerican cultures and linguistics. SCP-33198 communicated its desire to assist the Foundation, claiming to have been a guardian of balance and order within the universe since before recorded history. When queried about its origins, SCP-33198 provided enigmatic responses that suggested a connection to a higher-dimensional plane of existence.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Addendum 2-A: Non-Sentient SCP Interaction</h4>
+<p>SCP-33198 was introduced to various non-sentient SCP objects to assess the range and limits of its containment assistance abilities. In all instances, the entity was able to suppress or neutralize anomalous effects either by physical presence or through an active engagement with its hieroglyphic abilities. One notable instance involved SCP-███, which habitually phases through solid matter. SCP-33198 was able to establish a temporary zone in which SCP-███ remained in a physical state, allowing for recontainment.</p>
+<h4>Addendum 2-B: Sentient SCP Interaction</h4>
+<p>A controlled experiment with sentient SCP entities suggested a varying degree of effectiveness, heavily dependent on the SCP in question. SCP-33198 had a visibly calming influence on SCP-████, an entity prone to violent outbursts. However, SCP-████'s resistance to telepathic interference limited the applicability of SCP-33198's abilities, requiring additional containment measures.</p>
+<h4>Addendum 2-C: Cognitive Influence Limitation Testing</h4>
+<p>Tests conducted to understand the limitations of SCP-33198's cognitive influence revealed that while it has a significant impact on entities with aggressive tendencies, it is less effective on non-sentient entities or entities that lack a conventional neural framework. SCP-33198 expressed discomfort in pushing its abilities beyond a certain threshold, indicating a sense of ethics or caution towards the autonomy of other beings.</p>
+
+    </div>
+    
