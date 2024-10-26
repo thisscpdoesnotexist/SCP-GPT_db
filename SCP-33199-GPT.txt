@@ -1,0 +1,54 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-33199 is  Querzalcoatl  </h3> </center>
+
+    <h3>Item #: SCP-33199 - "Querzalcoatl"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-33199-GPT.png" alt="Illustration of SCP-33199" />
+        
+<h3>Description:</h3>
+<p>SCP-33199, codenamed "Querzalcoatl," is an entity resembling a massive feathered serpent, with attributes that share similarities with various Mesoamerican mythologies. The creature's body measures approximately 70 meters in length and displays an iridescent plumage that continuously shifts in color. SCP-33199 has demonstrated a remarkable understanding of human languages and expresses a particular affinity for Nahuatl, an indigenous language of Mexico. The entity possesses vast knowledge across multiple scientific disciplines and displays reality-warping capabilities, though it exhibits a strict self-imposed restraint in their usage.</p>
+<p>Analyses of SCP-33199's feathers have revealed an intricate microstructure capable of manipulating electromagnetic fields and ambient light, effectively granting it control over invisibility and localized telekinesis. SCP-33199 has been observed to engage in behavior consistent with ritualistic practices, often involving intricate aerial patterns and harmonic vocalizations that suggest a form of communication with as-yet unidentified entities or forces.</p>
+<p>SCP-33199 has exhibited a protective behavior toward Earth, claiming that it acts as a 'warden' against extraterrestrial and extradimensional threats. The entity has proven instrumental in the containment and neutralization of several Keter-class SCPs. Due to SCP-33199's cooperative demeanor and its pivotal role in maintaining global normalcy, it has been classified as Thaumiel.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-33199's containment procedures are tailored more toward cooperative engagement than imposed restriction. It is currently housed within a modified containment hangar at Site-101, referred to as "The Aviary," which has been constructed to accommodate both its physical size and the esoteric nature of its existence. The Aviary is equipped with advanced cloaking technology to prevent satellite and aerial detection and is lined with a memetic barrier to deter unauthorized entry or cognitohazardous exposure.</p>
+<p>The on-site personnel is composed of individuals proficient in Nahuatl and trained in Mesoamerican anthropology and diplomacy to maintain a dialogue with SCP-33199. Offerings of incense, flora, and culturally significant artifacts are made bi-weekly as a gesture of goodwill. SCP-33199 is permitted to exit the Aviary under surveillance for delimited periods, primarily for the purpose of assisting in the containment of other anomalies.</p>
+<p>SCP-33199 has agreed to wear a specially designed monitoring bracelet enhanced with a translation matrix, allowing for real-time communication and location tracking. An emergency protocol dubbed "Quetzal Defense" has been approved to deploy SCP-33199 in the event of an existential threat to the planet.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<ul>
+<li>
+<p><strong>Addendum 1-A: Discovery</strong>
+    SCP-33199 was first detected on ██/██/20██ during a containment breach of SCP-████, an event that could have led to a potential XK-class end-of-the-world scenario. The presence of SCP-33199 was revealed when it intervened, subduing SCP-████ and assisting Foundation personnel in re-establishing containment. Subsequent diplomatic engagement allowed for its peaceful recovery and subsequent cooperation.</p>
+</li>
+<li>
+<p><strong>Addendum 1-B: Interview Excerpts</strong>
+    Several interviews have been conducted with SCP-33199 in order to ascertain its motives and origins. During these interviews, SCP-33199 refers to itself as "the last warden," implying the existence of others like it in the past. The entity expresses a clear intent to protect humankind and the Earth's integrity, though it remains evasive on the subject of its creation or the existence of the entities it supposedly communicates with during its rituals.</p>
+</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li>
+<p><strong>Addendum 2-A: Experimentation with SCP-███</strong>
+    SCP-33199 was instructed to assist in testing the effects of SCP-███ to determine if its reality-warping abilities could neutralize the object's anomalous properties. SCP-33199 complied and was able to temporarily suppress SCP-███'s effects, allowing for a critical window in which to study the object safely.</p>
+</li>
+<li>
+<p><strong>Addendum 2-B: Documentation of Reality-Warping</strong>
+    Careful observation of SCP-33199 during a reality-warping event detailed the appearance of complex glyphs and a localized atmospheric disturbance. It is hypothesized that SCP-33199 manipulates underlying quantum fields to assert its will over reality, a feat that remains impossible to replicate with current Foundation technology.</p>
+</li>
+</ul>
+<h3>Addendum 3: Incident Report</h3>
+<ul>
+<li>
+<p><strong>Addendum 3-A: Interdimensional Breach</strong>
+    On ██/██/20██, an unanticipated breach of an interdimensional nature occurred within Site-19. SCP-33199 responded to "Quetzal Defense" protocol activation, engaging with hostile entities that emerged from the breach. Utilizing its abilities, it was able to seal the breach and provide key intelligence on the nature of the entities for future defense contingencies.</p>
+</li>
+<li>
+<p><strong>Addendum 3-B: After Action Review</strong>
+    The post-incident review highlighted SCP-33199's integral role in neutralizing the threat; however, concerns regarding reliance on a single entity for planetary defense have led to the development of additional countermeasures in conjunction with SCP-33199's support.</p>
+</li>
+</ul>
+<p>SCP-33199 continues to be an invaluable asset to the Foundation and is to be engaged with the utmost respect and caution, as the full extent of its capabilities and the potential implications of its self-imposed restraints remain incompletely understood.</p>
+
+    </div>
+    
