@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-33348 is  Quetzalcoatl </h3> </center>
+
+    <h3>Item #: SCP-33348 - "Quetzalcoatl's Heir"</h3>
+<h3>Object Class:</h3>
+<p>Keter</p>
+<h3>Description:</h3>
+<p>SCP-33348 is a massive, quasi-reptilian entity that closely resembles the Mesoamerican deity Quetzalcoatl in its feathered serpent form. It measures approximately 70 meters in length with a fluctuating wingspan that can extend up to 100 meters during flight. Its scales exhibit a bright iridescent quality with constantly shifting hues, predominantly emerald-green and turquoise. SCP-33348 displays high intelligence and possesses the ability to communicate telepathically in several ancient and modern languages, predominantly Classical Nahuatl.</p>
+<p>SCP-33348's anomalous properties include the ability to manipulate weather patterns, generate localized seismic activity, and emit a cognitohazardous vocalization that can compel obedience or cause psychosis in human subjects. It claims stewardship over the planet, exhibiting distress towards ecological destruction and has made threats of global destruction in retaliation for environmental damage.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the entity's immense power and mobility, full containment of SCP-33348 is not feasible at this time. Instead, the entity is to be monitored via Satellite Tracking Network STN-33348 to predict and prevent potential breaches of normalcy.</p>
+<p>The current containment strategy involves a combination of disinformation campaigns to discredit sightings of SCP-33348 and rapid response units equipped with sound-cancellation technology to counteract the cognitive hazards presented by the entity's vocalizations.</p>
+<p>Several Foundation-operated bot accounts are to remain active on social media platforms to discredit any leaked information regarding SCP-33348, referring to observations as hoaxes or misidentifications of known wildlife or aircraft.</p>
+<p>Dedicated research teams are tasked with uncovering historical records that might contain references to SCP-33348 or entities of similar descriptions to better understand its capabilities, history, and motivations.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-33348 was first brought to the Foundation's attention after a series of abnormal weather events and a spike in cultist activities in Mexico, all centered around ancient Aztec ruins. Initially, Foundation personnel assumed this was a case of a previously undiscovered anomalous artifact; however, during the investigation, SCP-33348 revealed itself to embedded field agents.</p>
+<h3>Addendum 2: Communication Logs</h3>
+<h4>Subsection A: Initial Contact</h4>
+<p>SCP-33348 communicated via telepathy with field agents during the first encounter. Excerpts from communication logs reveal SCP-33348's initial message:</p>
+<p><em>"Behold, children of the stars, I arise from slumber to reclaim the mantle of steward. Your kind has wrought havoc upon this sacred terra; atonement is demanded for transgression."</em></p>
+<p>Further attempts to communicate have resulted in contradictory and often cryptic responses, with SCP-33348 shifting between benevolent guidance and apocalyptic threats.</p>
+<h4>Subsection B: Negotiation Attempts</h4>
+<p>Negotiation and rapport-building efforts continue. Offers of ecological restoration projects in SCP-33348's name have been met with temporary periods of quiescence from the entity.</p>
+<h3>Addendum 3: Incident Log 33348-Ω</h3>
+<p>While in a quiescent state, a cult known as the "Children of the Feathered Serpent" performed a ritual that temporarily enhanced SCP-33348's power, allowing it to initiate a localized cataclysm. Rapid Response Teams Delta-9 ("Stormchasers") and Gamma-5 ("Red Sky at Morning") were dispatched, deploying experimental amnestics and resonance disruptors to mitigate both the cognitohazard and geological disturbances.</p>
+<p>Following the incident, SCP-33348 released a telepathic broadcast detected by all personnel within a 300 km radius, demanding a cessation of "heretical tributes" that rouse its ire.</p>
+<h3>Addendum 4: Experiment Log</h3>
+<h4>Experiment 33348-E1</h4>
+<p><strong>Objective:</strong> To test the effects of SCP-33348's cognitohazardous vocalizations on D-class personnel with various levels of susceptibility.
+<strong>Procedure:</strong> D-class personnel were exposed to a recorded vocalization in a controlled environment.
+<strong>Results:</strong> Subject D-4367 entered a trance-like state, whereas D-5619 experienced acute psychosis. Sound-cancellation technology reduced symptoms significantly but did not eliminate them.</p>
+<h4>Experiment 33348-E2</h4>
+<p><strong>Objective:</strong> To assess SCP-33348's influence on weather patterns.
+<strong>Procedure:</strong> SCP-33348 was engaged in conversation while meteorological equipment monitored the atmosphere.
+<strong>Results:</strong> Atmospheric pressure dropped significantly within a 2 km radius of SCP-33348 during periods of its apparent anger or agitation.</p>
+<h4>Experiment 33348-E3</h4>
+<p><strong>Objective:</strong> To determine if SCP-33348's movements could be predicted or influenced.
+<strong>Procedure:</strong> Agents attempted to use historical offerings described in Aztec codices to placate and guide SCP-33348.
+<strong>Results:</strong> While SCP-33348 did not follow the proposed course, it accepted offerings with restrained contentment, reducing its overall activity for a short period.</p>
+<h3>Addendum 5: Researcher's Note</h3>
+<p>Subsequent analysis of SCP-33348's behavior and impact on global events suggests that while direct containment is not possible, indirect influence is achievable through understanding and navigating its beliefs, values, and motivations. The equilibrium between appeasement and deterrence remains precarious; further research into Pre-Columbian mythohistory may yield better methods of mitigating SCP-33348's threat potential.</p>
+
+    </div>
+    
