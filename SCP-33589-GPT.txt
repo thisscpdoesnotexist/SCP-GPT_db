@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-33589 is  quetzalcoatl </h3> </center>
+
+    <h3>Item #: SCP-33589 - "The Feathered Serpent"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-33589-GPT.png" alt="Illustration of SCP-33589" />
+        
+<h3>Description:</h3>
+<p>SCP-33589, codenamed "The Feathered Serpent," is a highly volatile, serpentine entity exhibiting a myriad of anomalous properties and variably reminiscent of the Mesoamerican deity Quetzalcoatl. Despite visual similarities to the descriptions of said deity in Aztec and other cultures' mythologies, there is insufficient evidence to conclusively link SCP-33589 to any historical or mythological narratives.</p>
+<p>The entity measures approximately 30 meters in length with a variable width of 0.5 to 2 meters due to its ability to alter its physical form. SCP-33589's scales are iridescent, and it possesses numerous feather-like appendages along its length, which appear to be composed of a substance not matching any known on Earth. SCP-33589 has demonstrated both flight and a significant degree of telekinetic abilities, which it uses both offensively and defensively.</p>
+<p>SCP-33589 is highly intelligent and has shown an ability to communicate through a combination of hisses and an unknown telepathic capability that affects any living creature within an approximate range of 500 meters. Subjects exposed to SCP-33589's influence have reported experiencing vivid hallucinations and an overwhelming compulsion to worship the entity.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the inherent difficulty of containing a highly intelligent and telepathic entity such as SCP-33589, a two-tier containment protocol has been implemented:</p>
+<ol>
+<li>
+<p>Physical Containment: SCP-33589 is to be kept within a specially designed containment chamber, located at Site-██, with walls lined with an amorphous alloy capable of withstanding its telekinetic force. The chamber is to be suspended in a vacuum-sealed, liquid containment cylinder to further minimize the entity's ability to exert physical force.</p>
+</li>
+<li>
+<p>Psychological Containment: Personnel assigned to SCP-33589 must undergo rigorous psychological screening and be equipped with telepathic dampeners. All personnel are rotated on a bi-weekly basis to reduce the risk of sustained exposure to SCP-33589's telepathic influence. Any personnel displaying signs of psychological manipulation are to be administered Class-C amnestics and removed from the containment team permanently.</p>
+</li>
+</ol>
+<p>In the event of a containment breach, Site-██ has established "Protocol Quetzal-1," wherein all personnel are to don telepathic shielding suits, and Mobile Task Force Eta-10 ("Silent Serpents") is to be dispatched to recontain SCP-33589 with minimum force, due to the high risk of collateral damage.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-33589 was initially discovered in █████████, Mexico, after reports of a small cult engaging in rituals involving a "sky serpent" reached the Foundation. A containment team dispatched to the site encountered SCP-33589 in an agitated state, resulting in multiple casualties before the entity was eventually contained.</p>
+<h3>Addendum 2: Incident Log</h3>
+<ul>
+<li>
+<p>Incident 33589-A: Three months post-containment, SCP-33589 breached containment by exerting an extreme telekinetic force that temporarily warped the structure of its chamber. Immediate initiation of Protocol Quetzal-1 led to recontainment within six hours.</p>
+</li>
+<li>
+<p>Incident 33589-B: SCP-33589 exhibited a previously unseen behavior by manifesting objects seemingly from Mesoamerican culture into existence. Objects disintegrated within hours, and hypothesis regarding SCP-33589's reality-altering abilities are under investigation.</p>
+</li>
+</ul>
+<h3>Addendum 3: Experiment Log</h3>
+<p><strong>Experiment 33589-01:</strong>
+- <strong>Objective:</strong> To evaluate the range and limitations of SCP-33589's telepathic communication.
+- <strong>Procedure:</strong> D-Class personnel with varying resistance to telepathic influence were exposed to SCP-33589's presence while equipped with progressive levels of telepathic dampening gear.
+- <strong>Results:</strong> SCP-33589 communicated distress at containment, effectively manipulating two D-Class personnel into attempting to breach containment despite dampening. Further development of dampening technology was recommended.</p>
+<p><strong>Experiment 33589-XX:</strong>
+- <strong>Objective:</strong> To determine the effects of extended telepathic exposure on higher-functioning brains.
+- <strong>Procedure:</strong> Researchers with Level 4 clearance and specialized telepathy-resistant neural implants engaged in controlled communication sessions with SCP-33589.
+- <strong>Results:</strong> Researcher ████ reported intense visions correlating to Mesoamerican eschatology and subsequently succumbed to a catatonic state. Researcher has since been in prolonged medical care, with no signs of recovery.</p>
+<p><strong>Note:</strong> Due to the high risk of containment personnel being compromised, further experiments involving direct communication with SCP-33589 are suspended indefinitely.</p>
+
+    </div>
+    
