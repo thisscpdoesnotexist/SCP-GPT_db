@@ -1,0 +1,42 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-33657 is  Quetzalcoatl  </h3> </center>
+
+    <h3>Item #: SCP-33657 - "Quetzalcoatl's Codex"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-33657-GPT.png" alt="Illustration of SCP-33657" />
+        
+<h3>Description:</h3>
+<p>SCP-33657, dubbed "Quetzalcoatl's Codex," is a pre-Columbian Mesoamerican codex, believed to be linked to the mythical deity Quetzalcoatl, whose approximate temporal origin is dated back to the early 10th century. The codex itself measures 75 cm by 45 cm, comprising of 20 pages of amate paper, covered in black obsidian-like flakes which, upon closer examination, are minute, overlapping scales reminiscent of serpentine skin.</p>
+<p>The anomalous properties of SCP-33657 manifest when subjects begin a ritualistic reading of the codex, which requires the reader to be versed in Nahuatl, the language written in the codex. Through a combination of phonetic resonance and specific hand gestures indicated by the illustration margins, the reader can invoke various effects related to weather control, agricultural enhancement, and—at its most potent—temporary spatial alterations at a localized level.</p>
+<p>Any unauthorized interaction with the content of the codex has resulted in unpredictable climatic anomalies or, in severe cases, localized space-time distortions. Due to the potential benefits and hazards associated with SCP-33657, it is classified as Thaumiel, serving both as an asset in specific Foundation operations and a keystone anomalous item requiring stringent containment.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-33657 is to be stored in a high-security, climate-controlled containment chamber at Site-81. The chamber is to be guarded by no fewer than two guards with Level 4 clearance at all times.</p>
+<p>Access to SCP-33657 is strictly limited to researchers with Level 4 clearance or higher and is only to be used under the direct authorization of at least two Level 5 personnel. Containment protocol dictates that all interactions with the codex require two approved researchers proficient in Nahuatl to be present—one to perform the readings and the other to observe and intervene if necessary.</p>
+<p>In the event of a containment breach or unauthorized access, Site-81 is to initiate a lockdown, and all personnel must evacuate to a minimum safe distance of 5 kilometers from the epicenter of the spatial distortions. A specialized Mobile Task Force equipped with reality anchoring technology is to be dispatched immediately to recontain SCP-33657.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<h4>A. Recovery Information</h4>
+<p>SCP-33657 was recovered in 1947 from an undisclosed temple in the Valley of Mexico following reports local farmers made of "miraculous" weather changes promoting unprecedented harvest quality. A Foundation operative embedded in the region conducted initial reconnaissance, resulting in a minor weather anomaly designated EE-33657-Alpha.</p>
+<p>A recovery team was dispatched, securing the codex with minimal exposure. Casualties were avoided, and amnestics were administered to affected civilians. However, the observed phenomena prompted the Foundation to classify the item as Thaumiel for its potential utility against other SCPs.</p>
+<h4>B. Initial Containment Breach</h4>
+<p>The first breach occurred in March 1948 when a junior researcher mistakenly attempted to skim through the codex. The resultant localized storm system caused significant damage to Site-81's infrastructure. Foundation meteorologists successfully dissipated the storm, and protocols for containment were revised to prevent future incidents.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>A. Experiment-33657-Theta</h4>
+<p><strong>Purpose:</strong> To quantify the extent of SCP-33657's influence on agricultural productivity.</p>
+<p><strong>Procedure:</strong> A controlled environment was established with crops historically native to Mesoamerica. The codex was engaged to invoke the specified agricultural enhancements.</p>
+<p><strong>Results:</strong> Crop yield increased by 340% without any genetic modification or chemical fertilizers, exceeding expectations and confirming the codex's potential utility.</p>
+<h4>B. Experiment-33657-Omicron</h4>
+<p><strong>Purpose:</strong> To test SCP-33657's capabilities for benign weather manipulation.</p>
+<p><strong>Procedure:</strong> The codex was utilized to generate rainfall in a drought-affected region under Foundation monitoring.</p>
+<p><strong>Results:</strong> Rainfall was measured at optimal levels for relieving the drought, with no subsequent anomalies detected.</p>
+<h4>C. Experiment-33657-Sigma</h4>
+<p><strong>Purpose:</strong> To explore the boundaries of SCP-33657's spatial distortion abilities.</p>
+<p><strong>Procedure:</strong> A secured off-site location was chosen for the test, with emergency containment units prepped for response.</p>
+<p><strong>Results:</strong> Spatial distortion manifested as localized wormholes with undetermined endpoints. Test aborted after a minor reality tear. No casualties, but protocol revised to recommend against further spatial distortion tests.</p>
+<h3>Addendum 3: Ethics Committee Review</h3>
+<p>Following the use of SCP-33657 in various field operations, concerns have been raised regarding the ethical implications of actively using an SCP object of this nature. The review has resulted in strict regulations outlining its engagement exclusively for larger-scale protective measures against high-threat entities or events with potential XK-class end-of-the-world scenarios.</p>
+<p>As SCP-33657 continues to be a valuable asset to the Foundation, ongoing research into its origins, capabilities, and safe handling remains a priority to utilize its properties effectively while maintaining the safety and secrecy required by the Foundation's mission.</p>
+
+    </div>
+    
