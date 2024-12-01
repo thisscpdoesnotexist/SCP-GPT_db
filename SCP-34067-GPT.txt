@@ -1,0 +1,52 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-34067 is  Scotland unicorn in guard tower 3D </h3> </center>
+
+    <h3>Item #: SCP-34067 - "Argent Keeper"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-34067-GPT.png" alt="Illustration of SCP-34067" />
+        
+<h3>Description:</h3>
+<p>SCP-34067 is a semi-corporeal entity resembling a unicorn from Scottish heraldry, completely silver in appearance, including its flowing mane and long, spiral horn. Its eyes emit a soft luminescence reminiscent of moonlight, able to be seen in low light conditions. The entity is capable of speech in an archaic form of Scots Gaelic and demonstrates intelligence on par with a human.</p>
+<p>SCP-34067 possesses several anomalous properties, the most notable of which is the ability to manipulate and dampen the effects of other SCPs within a certain radius, rendering dangerous SCPs more manageable or entirely inert. The mechanisms by which SCP-34067 achieves this are not fully understood but appear to involve a form of reality bending localized around its horn.</p>
+<p>The entity refers to itself as "Argent Keeper" and claims to be the guardian of an ancient threshold which it suggests holds back a multitude of apocalyptic threats. SCP-34067's references to "the threshold" remain cryptic, and efforts to identify its exact nature or location have thus far been inconclusive. Conversations with SCP-34067 suggest that it believes its duty extends to containment efforts analogous to those of the SCP Foundation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-34067 is to be housed within a specially designed containment chamber in Site-19, replicated to resemble a traditional Scottish guard tower known as Keep 3D. The interior is decorated with period-appropriate furnishings and includes motifs and heraldry reflective of its apparent cultural origins.</p>
+<p>Due to its cooperative nature and vital role in containment efforts, SCP-34067 is allowed a measure of autonomy within secured areas of Site-19 under strict surveillance. Interactions with SCP-34067 must be conducted in either Scots Gaelic or translated through an approved language interface.</p>
+<p>Security protocols dictate that SCP-34067 is not to be exposed to SCPs classified as Keter or Apollyon without prior approval from at least two Level 4 personnel. For containment breach scenarios involving multiple SCPs, SCP-34067 may be temporarily released under heavy escort to assist in the recontainment efforts, provided that its safety can be reasonably assured.</p>
+<h3>Addendum 1: Incident Log</h3>
+<ul>
+<li>
+<h4>Incident 34067-A</h4>
+<p>SCP-34067 successfully quelled the effects of SCP-████, a virulent memetic hazard, during a containment breach on [REDACTED]. It was observed that SCP-████'s influence was nullified in a radius of approximately 15 meters from SCP-34067, allowing for the safe apprehension of affected personnel and the reestablishment of containment.</p>
+</li>
+<li>
+<h4>Incident 34067-B</h4>
+<p>During routine testing, SCP-34067 became visibly distressed upon being presented with an artifact from SCP-█████'s collection. The entity refused to approach the item and insisted that "the threads woven through time shall not be unraveled by such as I." The object was promptly removed and SCP-34067 returned to a state of calm shortly after.</p>
+</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li>
+<h4>Experiment 34067-C1</h4>
+<p>Objective: To assess SCP-34067's ability to suppress the anomalous properties of SCP-█-███, a small statue with a variable gravitational pull.
+  Result: SCP-34067's presence reduced the statue's gravitational influence to non-anomalous levels. SCP-34067 commented that it was "simpler to soothe the sorrows of stone than the hearts of man."</p>
+</li>
+<li>
+<h4>Experiment 34067-C2</h4>
+<p>Objective: To evaluate SCP-34067's effect on SCP-████, an entity known for its ability to induce spontaneous human combustion.
+  Result: SCP-████ was unable to trigger combustion in D-Class personnel within SCP-34067's vicinity. SCP-34067 comforted the distressed SCP-████, calming it to a dormant state.</p>
+</li>
+</ul>
+<h3>Addendum 3: Interview Record</h3>
+<ul>
+<li>
+<h4>Interview 34067-D1</h4>
+  Dr. MacTavish, a specialist in anomalous entities and fluent Scots Gaelic speaker, conducted an in-depth interview with SCP-34067. Excerpts from the transcript revealed that SCP-34067 perceives its containment as a form of alliance with the Foundation, claiming, "For the wheel of time turns, and new guardians must rise. In ye, I see the embers of hope."</li>
+</ul>
+<p>The entity further expounded on its role as "Argent Keeper," implying that this title has been passed down through numerous iterations, or "lights," as SCP-34067 referred to them. The entity did not divulge details regarding the succession of this position or the procedures by which a new "Argent Keeper" is chosen, if any exist.</p>
+<p>SCP-34067's cooperative behavior and effectiveness in aiding containment procedures continue to be leveraged by the Foundation, with ongoing research into harnessing and understanding the nature of its abilities.</p>
+
+    </div>
+    
