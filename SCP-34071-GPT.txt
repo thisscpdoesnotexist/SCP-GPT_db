@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-34071 is  The Niggers </h3> </center>
+
+    <p>I'm sorry, I cannot assist with generating content that includes derogatory, offensive, or racially insensitive language or concepts. The SCP Foundation, while a fictional organization, typically avoids using such themes in its narrative, focusing instead on the science fiction and supernatural elements. If you're interested in creating an SCP entry, I would be happy to help craft a unique and enticing one with an appropriate title and story.</p>
+<p>Let's create a new SCP entry with a different title:</p>
+<hr />
+<h3>Item #: SCP-4790 - "The Timekeeper's Totem"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-34071-GPT.png" alt="Illustration of SCP-34071" />
+        
+<h3>Description:</h3>
+<p>SCP-4790 is a carved sandstone monolith, approximately two meters in height and half a meter in width. The artifact bears intricate engravings that depict numerous celestial bodies and undocumented constellations. SCP-4790 possesses the ability to manipulate time within a radius of up to ten (10) meters. Objects and living organisms within this radius experience significant temporal dilation, acceleration, or looping effects. External observation is required at all times as the artifact's effects don't extend to consciousness, allowing for communication in real-time with affected subjects.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-4790 is to be contained in a standard secure artifact locker at Site-21, fitted with time-dilation sensors and temporal anomaly detectors. Access is restricted to authorized personnel with Level 4 clearance and above who must undergo a pre-exposure briefing on temporal hazards. Any interaction with SCP-4790 for testing purposes requires approval from two (2) members of the O5 Council and must be carried out in a specially designed temporal stasis chamber to prevent unintended spread of its influence.</p>
+<h3>Addendum 1: Discovery and Recovery</h3>
+<p>SCP-4790 was discovered in 19██ during an archaeological excavation in the valley of ███████, near the remnants of an ancient and previously unknown civilization. The recovery team encountered SCP-4790's effects firsthand when they aged several years within a matter of hours. A containment unit under the guise of the Ministry of Antiquities secured the artifact and administered amnestics to afflicted individuals.</p>
+<h4>Subsection A: Local Legend</h4>
+<p>Interviews with the indigenous population uncovered legends referring to SCP-4790 as "The Timekeeper's Totem," a religious artifact said to control the seasons and guide the flow of time. The civilization worshiped an entity known as "L'horologer," believed to be the totem's creator. Artifacts and texts from the site referring to this entity are currently under study.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 4790-E01</h4>
+<p><strong>Subjects:</strong> Two D-class personnel.
+<strong>Parameters:</strong> Isolate subjects within the radius for a temporal manipulation experiment.
+<strong>Outcome:</strong> Subjects experienced a time loop, repeatedly living through the same ten (10) minutes for four (4) hours before the effect ceased and they could be retrieved.</p>
+<h4>Experiment 4790-E14</h4>
+<p><strong>Subjects:</strong> One D-class personnel equipped with a temporal stasis field prototype.
+<strong>Parameters:</strong> Subject to remove SCP-4790 from its containment temporarily.
+<strong>Outcome:</strong> The stasis field successfully neutralized SCP-4790's effects on the subject. However, the stasis field device dissipated after five (5) minutes, resulting in rapid aging and [REDACTED] of the subject.</p>
+<h4>Experiment 4790-E23</h4>
+<p><strong>Subjects:</strong> A selection of plant life.
+<strong>Parameters:</strong> Exposure to SCP-4790 to measure the effect on organic aging processes.
+<strong>Outcome:</strong> Some plants aged rapidly and died, others reverted to seedlings, and a few became instances of SCP-4790-1; flora frozen in time and unresponsive to external environmental changes.</p>
+<h3>Addendum 3: Incident 4790-A</h3>
+<p>During a containment breach at Site-21, SCP-4790's effects became uncontrolled, resulting in localized time distortions affecting a wing of the facility. Emergency protocols contained the effects, but not before multiple personnel experienced severe temporal displacement, leading to the implementation of updated containment procedures and the creation of the Temporal Anomalies Department. </p>
+<h4>Subsection A: After-action Review</h4>
+<p>A site-wide review of containment procedures was mandated, stressing the importance of preventing such anomalies from spreading. Embedded Foundation temporal physicists are currently working on deciphering the engravings to fully understand SCP-4790's capabilities and potentially harness its properties for containment of other time-related SCPs.</p>
+
+    </div>
+    
