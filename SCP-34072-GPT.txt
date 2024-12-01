@@ -1,0 +1,53 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-34072 is  Ookii Ryuu Ne </h3> </center>
+
+    <h3>Item #: SCP-34072 - "Ookii Ryuu Ne"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-34072-GPT.png" alt="Illustration of SCP-34072" />
+        
+<h3>Description:</h3>
+<p>SCP-34072, dubbed "Ookii Ryuu Ne" (Japanese for "The Great Sleeping Dragon"), is an anomalous entity resembling a traditional eastern dragon, approximately 500 meters in length, with a serpentine body adorned with a mane of feathers and glowing, ethereal blue scales. SCP-34072 is capable of flight through an as-yet-unexplained levitational ability. Despite its size and capable appearance, SCP-34072 has remained in a state of hibernation since its discovery in ∎∎∎∎∎∎, deep within the mountains of [REDACTED], Japan.</p>
+<p>What differentiates SCP-34072 from a mythical dragon are the unique spatiotemporal fluctuations that emanate from its body, capable of causing severe disturbances in the local environment. Observed effects include rapid aging of organic matter, temporal loops, and spontaneous translocation of objects and personnel. Initial reports suggested it was initially awakened by a local construction project that disrupted its rest.</p>
+<p>To date, SCP-34072 has not shown signs of waking from its dormant state. The entity is seemingly sustained by an unknown energy source, as it has not required food or water during containment. The internal structure and physiology of SCP-34072 remain a mystery, as all attempts at taking samples have resulted in molecular destabilization of the collected matter.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the nature of SCP-34072's passive spatiotemporal effects, it has been deemed infeasible to transport the entity to a standard secure facility. Instead, Site-449 has been established around SCP-34072's resting location. The site has been disguised as a geological research institute with a no-fly zone enforced by Foundation assets. Any unauthorized personnel attempting to approach the perimeter are to be apprehended, administered Class-A amnestics, and released at a safe distance.</p>
+<p>A 1-kilometer exclusion zone has been set around SCP-34072. Within this zone, a series of temporal anomaly detectors are positioned to monitor and analyze any fluctuation in the local spacetime fabric. Additionally, electromagnetic field disruptors have been installed to form a containment barrier, designed on the hypothesis that an electromagnetic field can interfere with SCP-34072's passive abilities.</p>
+<p>Containment personnel must be rotated every two weeks due to the psychological strain caused by exposure to SCP-34072's effect on the passage of time. Researchers working within the exclusion zone are required to undergo rigorous mental resilience training and carry personal temporal stabilizers.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<h4>Subsection 1.1: Initial Encounters and Containment</h4>
+<p>SCP-34072 was first encountered when local reports of missing livestock and temporally displaced objects surfaced. Initially dismissed as folklore and myths resurfacing in the rural communities, Foundation personnel were dispatched after a temporal distortion event caused the disappearance of a scientific expedition team. The team was later found unharmed 4 kilometers west from their last known position with substantial memory loss.</p>
+<p>The decision was made to contain SCP-34072 in situ after Mobilization Containment Team-12 (MCT-12 or "Clockwork Custodians") experienced adverse effects upon approaching the entity, including rapid cellular degradation.</p>
+<h4>Subsection 1.2: Mitigation Efforts</h4>
+<p>After the establishment of Site-449, containment specialists developed a theoretical framework for temporal stabilization techniques. Currently, these techniques are employed to maintain perimeter integrity and reduce SCP-34072's influence.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 34072-E-001</h4>
+<ul>
+<li><strong>Objective:</strong> Establish baseline effects on living organisms.</li>
+<li><strong>Procedure:</strong> D-class personnel equipped with a temporal stabilizer entered a 500-meter range of SCP-34072.</li>
+<li><strong>Result:</strong> Personnel reported distorted perceptions of time, suffering vertigo and nausea. Temporal stabilizer readings were off the expected parameters but maintained enough integrity to ensure safe return of the D-class.</li>
+</ul>
+<h4>Experiment 34072-E-002</h4>
+<ul>
+<li><strong>Objective:</strong> Test electromagnetic field disruptors' ability to suppress spatial anomalies.</li>
+<li><strong>Procedure:</strong> Activation of field disruptors at 25%, 50%, 75%, and 100% capacity while monitoring spatiotemporal fluctuations.</li>
+<li><strong>Result:</strong> Fluctuations were reduced by 30% at full capacity, with no discernable effect on SCP-34072's physiology.</li>
+</ul>
+<h4>Experiment 34072-E-003</h4>
+<ul>
+<li><strong>Objective:</strong> Examine potential communication capability.</li>
+<li><strong>Procedure:</strong> Exposure to various stimuli including sound frequencies, light patterns, and electromagnetic pulses.</li>
+<li><strong>Result:</strong> No reaction from SCP-34072. Its state remained unchanged throughout testing.</li>
+</ul>
+<h4>Experiment 34072-E-004</h4>
+<ul>
+<li><strong>Objective:</strong> Investigate the nature of temporal displacement caused by SCP-34072.</li>
+<li><strong>Procedure:</strong> Deployment of temporal anomaly recorders on 50 D-class personnel while within proximity to SCP-34072 before a known minor temporal flux event.</li>
+<li><strong>Result:</strong> Varied displacements recorded, mostly spanning a few seconds to minutes. In one case, D-class personnel D-18234 reappeared 28 hours after the expected return time, with subjective experiences of an alternate history where SCP-34072 had awakened.</li>
+</ul>
+<h3>Addendum 3: Incident 34072-I-014</h3>
+<p>On ██/██/20██, SCP-34072 emitted a low-frequency hum for approximately 7 seconds. This event coincided with anomalous atmospheric disturbances and a temporary but pronounced increase in local temporal fluctuations. Foundation seismologists and chronologists are currently working to understand the potential significance of this new behavior and whether it is indicative of a change in SCP-34072's dormant state. Further experimentation has been postponed pending a full review of containment protocols.</p>
+
+    </div>
+    
