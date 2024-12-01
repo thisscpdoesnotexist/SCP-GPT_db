@@ -1,0 +1,52 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-34070 is  Scotland unicorn attack Guard Tower unicorn arm hit guard tower  </h3> </center>
+
+    <h3>Item #: SCP-34070 - "The Tartan Horn"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-34070-GPT.png" alt="Illustration of SCP-34070" />
+        
+<h3>Description:</h3>
+<p>SCP-34070, colloquially referred to as "The Tartan Horn," is an animate entity with the appearance of a traditional unicorn as described in Scottish mythology, with distinct anomalous properties and behaviors. The entity is approximately 1.8 meters tall at the shoulder and exhibits a pelt of shimmering white hair with incandescent properties. Its mane and tail are said to contain strands of intertwined silver and gold fibers. The most notable feature, however, is its spiraled horn, approximately 0.8 meters in length, with a plaid pattern that visually shifts colors in a manner reminiscent of Scottish tartan.</p>
+<p>The entity displays substantial regenerative capabilities and resistance to physical harm, capable of reconstituting its form after suffering injuries that would be lethal to a non-anomalous equine. It is highly aggressive towards architectural structures of any kind and has displayed a particular propensity for targeting watchtowers or guard posts, ostensibly constructed by human hands, which it relentlessly assails with its horn.</p>
+<p>SCP-34070 manifests at random intervals in the vicinity of the Scottish Highlands, and upon materializing, immediately seeks out the nearest structure of noted criteria to attack. Following these assaults, SCP-34070 will dematerialize, leaving little evidence of its presence beyond the damage inflicted and occasionally residual traces of its plaid-patterned keratin.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-34070's sporadic appearance and dematerialization patterns, permanent containment remains infeasible. Current containment strategies are aimed at minimizing interaction between SCP-34070 and potential structural targets. Foundation-operated Mobile Task Forces are deployed with the following priority objectives:</p>
+<ol>
+<li>
+<p>Deception: Construction of decoy towers in remote areas to divert SCP-34070's attention from populated regions. These towers are to be fitted with concealed high-speed cameras and sensors for data collection during SCP-34070 manifestations.</p>
+</li>
+<li>
+<p>Intervention: Rapid-response units equipped with flashbang grenades and high-intensity spotlights are tasked with interrupting SCP-34070's assaults, providing an opportunity for research personnel to apply experimental containment procedures in situ.</p>
+</li>
+<li>
+<p>Concealment: Dissemination of misleading information to the public regarding the cause of any witnessed events involving SCP-34070, classified as localized seismic activities, to maintain the Veil Protocol.</p>
+</li>
+</ol>
+<p>Site-45 has been established near the Scottish Highlands to serve as SCP-34070's primary observation post, with a remotely operated command center that interfaces with an array of surveillance equipment scattered throughout the suspected manifestation zones.</p>
+<h3>Addendum 1: Historical Context</h3>
+<p>SCP-34070's existence was first documented in the late 12th century, where it was referred to as "The Beithir's Bard" in local folklore. Initially dismissed as mere legend, a significant uptick in regional structural damage in the 20th century led to the Foundation's awareness and subsequent reevaluation of these myths as potential SCP documentation.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 34070-E01</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> An unmanned decoy tower was constructed and observed for signs of SCP-34070 manifestation.</li>
+<li><strong>Result:</strong> SCP-34070 appeared at 02:34 AM and demolished the decoy after a 15-minute assault.</li>
+<li><strong>Analysis:</strong> The attack patterns were consistent with prior observations, with SCP-34070 targeting load-bearing elements first.</li>
+</ul>
+<h4>Experiment 34070-E05</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> Deployment of rapid-response unit to test flashbang effectiveness in disrupting an active SCP-34070 assault.</li>
+<li><strong>Result:</strong> SCP-34070 was successfully driven away from the target structure but rematerialized exactly 48 hours later at a different location.</li>
+<li><strong>Analysis:</strong> SCP-34070 shows resilience to auditory and visual distractions but may have an underlying pattern to its manifestations.</li>
+</ul>
+<h3>Addendum 3: Recovery Log</h3>
+<p>In one incident, a fragment of SCP-34070's horn was recovered post-assault. The plaid-patterned keratin exhibited self-repair capabilities, fully restoring the fragment to its original shape within a 72-hour period. The regenerative tissue is currently held in a biocontainment unit at Site-45 for study of potential anomalous tissue regeneration applications.</p>
+<h3>Addendum 4: Incident Report 34070-I12</h3>
+<p>On ██/██/20██, SCP-34070 materialized inside the proximity of Inverness, causing structural damage to a historic watchtower before Foundation intervention could be effectively mounted. There were multiple civilian witnesses. The ensuing operation to restore normalcy adhered to Protocol "Piper's Ghillie," which involves mass amnestics and the dissemination of a cover story involving a staged reconstruction project for the watchtower due to "previously undetected foundation settling."</p>
+<p>The incident has prompted a reassessment of SCP-34070's containment procedures, with a renewed focus on predictive algorithms to anticipate manifestation zones more accurately. Interdisciplinary teams, including Unusual Incidents Unit liaisons, have been formed to explore the development of a more sophisticated faux structure network to better manage SCP-34070's aggressive behaviors while reducing the risk to the public and historically significant architecture.</p>
+
+    </div>
+    
