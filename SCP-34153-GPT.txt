@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-34153 is  a cancerous self-replicating phoneme </h3> </center>
+
+    <h3>Item #: SCP-34153 - The Malignant Echo</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-34153-GPT.png" alt="Illustration of SCP-34153" />
+        
+<h3>Description:</h3>
+<p>SCP-34153 is a phoneme (a distinct unit of sound in language) that exhibits anomalous and pathogenic properties, functioning analogous to a contagious form of cancer on a linguistic level. The phonemic sequence is composed of sounds not easily transcribed using the IPA (International Phonetic Alphabet) and carries characteristics that make it resistant to conventional containment methods applied to memetic or cognitohazardous entities.</p>
+<p>Upon initial auditory exposure to SCP-34153, subjects (henceforth referred to as SCP-34153-1) are often unaware of the infection. The onset symptoms manifest within hours, starting with a compulsion to repeat the phoneme in varying contexts: casual conversation, internal monologue, and written communication. Over time, these repetitions grow more frequent, and subjects begin to engage in extensive wordplay and the alteration of words to include the phoneme, impairing regular communication.</p>
+<p>Degradation of cognitive and communicative functions increases as SCP-34153-1 individuals involuntarily generate new linguistic constructs and phrases incorporating SCP-34153, furthering its spread. Secondary and tertiary infections have been documented, indicating that the phoneme maintains its anomalous properties through multiple iterations of communication.</p>
+<p>Attempts to record or electronically reproduce SCP-34153 result in the distortion or outright destruction of the recording medium, suggesting an additional anti-recordability attribute. This has rendered remote study and sequestering of SCP-34153 exceedingly difficult.</p>
+<p>The 'cancerous' descriptor arises from parallel analysis with biological malignancy: the phoneme replicates uncontrollably and destructively within the linguistic system of the host subject, ultimately hindering effective communication and leading to social isolation, psychological deterioration, and in severe cases, cessation of vocalization or communications entirely due to a form of linguistic necrosis.</p>
+<h3>Special Containment Procedures:</h3>
+<p>The inherent nature of SCP-34153 makes it impermeable to traditional auditory containment strategies. A multifaceted approach has been developed, combining preventative, strategic, and responsive tactics:</p>
+<ol>
+<li>Isolation zones have been established for identified SCP-34153-1 subjects. These areas are insulated to prevent the accidental dissemination of the phoneme to personnel or, by extension, the general public.</li>
+<li>Speech-filtering software is in widespread use among Foundation communication systems to detect and redact potential instances of SCP-34153.</li>
+<li>Mute-Capable Personal Guards (MCPGs) equipped with ear protection and non-verbal communication methods are posted to manage direct contact with SCP-34153-1 subjects.</li>
+<li>The foundation engages active misinformation campaigns targeting linguistic research communities to obfuscate the existence of SCP-34153 and any potential outbreaks.</li>
+<li>Amnestic administration is the last-resort protocol to subjects identified early in the SCP-34153 infection. Extended exposure subjects are not viable for this approach; containment and observation are the only applicable options for these individuals.</li>
+</ol>
+<h3>Addendum 1: Discovery and Initial Containment</h3>
+<p>SCP-34153 was discovered following an outbreak of a 'language virus' in [REDACTED], a small town with an unusually high incidence of speech disorders and communicative breakdowns reported in the population. Foundation linguists and containment specialists were dispatched after local authorities failed to adequately respond to the pandemic.</p>
+<p>Early attempts to document the phoneme immediately indicated its anti-recording characteristic, necessitating the creation of isolation zones and the use of linguistic scrubbers on digital correspondence leaving the affected locale.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li><strong>Experiment 34153-A:</strong> An attempt to define the linguistic boundary of SCP-34153 by exposing D-Class personnel to individual components of the phoneme – inconclusive. Fragmented exposure did not result in the pathogenic replication, suggesting that the SCP's virulent properties require the complete sequence.</li>
+<li><strong>Experiment 34153-B:</strong> Usage of Class-D personnel with varying linguistic backgrounds to establish a response range – upon exposure to SCP-34153, individuals regardless of primary language began manifesting symptoms, confirming the SCP's cross-linguistic infection capability.</li>
+<li><strong>Experiment 34153-C:</strong> Efforts to contain the spread of SCP-34153 through 'linguistic chemotherapy,' a series of theoretical and practical speech therapy sessions designed to excise the phoneme from subjects' verbal and written language – a total failure, resulting in accelerated symptom progression and advanced SCP-34153 distribution among attending staff.</li>
+</ul>
+<h3>Addendum 3: Incident Report 34153-01</h3>
+<p>On [DATE REDACTED], a containment breach occurred when a linguistic researcher, Dr. [REDACTED], previously believed to be immune to SCP-34153 infection, began exhibiting symptoms during a presentation to senior staff. The facility was locked down, and affected individuals were contained. However, audio recordings of the event were inadvertently transmitted outside the Foundation before the linguistic scrubbers flagged and isolated the anomaly. A Level 4 Foundation-wide alert was issued, mobilizing the disinformation and rapid response teams to prevent a global SCP-34153 infection. This incident necessitated a review and overhaul of containment procedures.</p>
+<h3>Addendum 4: Future Research Directives</h3>
+<p>The potential for a global pandemic of SCP-34153 has prompted the O5 Council to elevate containment research to a Class-A priority. Cross-disciplinary teams comprised of linguists, memeticists, psychologists, and information technology specialists have been tasked with developing more effective containment solutions, therapeutic communication countermeasures, and protocols for identification and decontamination of outbreak zones. The threat posed by SCP-34153 remains one of the most insidious within the Foundation's purview due to its communicative, resilient nature and potential for undetectable spread among the general population.</p>
+
+    </div>
+    
