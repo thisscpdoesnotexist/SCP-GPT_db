@@ -1,0 +1,63 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-34179 is  A gun that, when fired, instantly jump-cuts to the target's funeral </h3> </center>
+
+    <h3>Item #: SCP-34179 - "Mourner's Peacemaker"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-34179-GPT.png" alt="Illustration of SCP-34179" />
+        
+<h3>Description:</h3>
+<p>SCP-34179 is an antique revolver of indeterminate make and model, resembling a Colt Single Action Army. Its anomalous effects manifest upon pulling the trigger while the gun is loaded and aimed at a living organism. Within a fraction of a second after the trigger pull, those present, including the shooter, experience a temporal and spatial "jump-cut" to the funeral of the creature aimed at, without experiencing the death itself or the time in between the firing of SCP-34179 and the funeral.</p>
+<p>The surroundings and attendees of the funerals vary depending on the cultural background, personal relationships, and status of the deceased, even if the target harbored no such relationships before the firing of SCP-34179. Researchers initially hypothesized that SCP-34179's effects were instant death, however, further experiments revealed that the target's time of death always coincides with a natural or accidental occurrence, unrelated to SCP-34179's firing.</p>
+<p>Recovery of the targets back to the point of SCP-34179's use before the actual passing has proven impossible, suggesting an irreversible temporal alteration or reality restructuring. No physical evidence of the projectile, gunpowder residue, or any other forensic indicatives of a typical gun homicide is found in association with SCP-34179's use.</p>
+<p>The object came to the Foundation's attention after the abrupt and inexplicable funeral of [REDACTED], a prominent political figure, attended by confused yet grieving figures including Foundation personnel, who subsequently discovered and contained SCP-34179 at the site.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-34179 is to be contained in a secure, locked safe at Site-77's high-value anomalous item storage wing. Access is prohibited to all personnel except for those with Level 4 clearance and explicit permission from no fewer than two (2) members of the O5 Council. Any handling of SCP-34179, even with permission, must occur with unloaded chambers, and the ammunition is to be stored separately in a locked container with biometric security measures.</p>
+<p>Testing with SCP-34179 may only be carried out with prior written consent from the O5 Council, and only D-class personnel are to be used as test subjects. All tests must be recorded with audio-visual equipment and observed from a remote location by the researchers conducting the test.</p>
+<p>Due to the adverse psychological effects experienced by observers in the temporal jump-cut, all personnel involved in testing are required to undergo mandatory psychiatric evaluations afterward. Any observed long-term effects demand the immediate cessation of testing.</p>
+<h3>Addendum 1: Incident 34179-I01</h3>
+<ul>
+<li><strong>Event:</strong> Unauthorized discharge incident.</li>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Description:</strong> On the date specified, Research Assistant ████████ managed to access SCP-34179 under the pretense of routine inspection and fired the object at a lab rat. Research Assistant ████████ and one security officer present at the scene vanished and were next found at a small gathering mourning a deceased rat in an alley behind Site-77, consistent with SCP-34179's anomalous behavior. Research Assistant ████████ has been reprimanded and demoted. Security protocols for SCP-34179 have since been updated to prevent similar incidents.</li>
+</ul>
+<h3>Addendum 2: Experiment Log 34179-E</h3>
+<ul>
+<li><strong>Experiment 34179-E01:</strong></li>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> A D-class personnel instructed to fire SCP-34179 at a terminally ill patient who volunteered for the experiment.</li>
+<li><strong>Result:</strong> Upon firing, attending researchers and D-class personnel were transitioned to a hospital room filled with friends and family mourning the volunteer. Death was a result of heart failure approximately three weeks post-experiment.</li>
+<li>
+<p><strong>Notes:</strong> This was the first indication that SCP-34179 influenced reality in a manner that ensures the target's death by 'natural' means.</p>
+</li>
+<li>
+<p><strong>Experiment 34179-E02:</strong></p>
+</li>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> D-class personnel aimed SCP-34179 at a plant.</li>
+<li><strong>Result:</strong> Attendants experienced a time-skip to a simple composting ceremony for bio-waste, with attendees being site custodial staff. The plant's death was due to previously undiagnosed fungal root rot.</li>
+<li>
+<p><strong>Notes:</strong> Evidently, SCP-34179's effects extend to all forms of life, and the subsequent scenarios are formed from the target organism's background.</p>
+</li>
+<li>
+<p><strong>Experiment 34179-E03:</strong></p>
+</li>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> A trained sniper was ordered to aim at a location with no visible target.</li>
+<li><strong>Result:</strong> No temporal jump occurred. This experiment established the requirement of a living target for SCP-34179's anomalous effects to manifest.</li>
+<li>
+<p><strong>Notes:</strong> SCP-34179's effect appears to be sentient-being specific, though the exact definition of sentient in this context is currently under study.</p>
+</li>
+<li>
+<p><strong>Experiment 34179-E04:</strong></p>
+</li>
+<li><strong>Date:</strong> ██/██/20██</li>
+<li><strong>Procedure:</strong> SCP-34179 was fired at a D-class instructed to disrupt the process, including trying to avoid the shot or using any means to prevent the event foreseen.</li>
+<li><strong>Result:</strong> Attendants were transported to a scene where the D-class was discovered to have died in a containment breach scenario predating the experiment by two days.</li>
+<li><strong>Notes:</strong> Despite the D-class's active attempts to avoid predicted death, SCP-34179's effects seemed to inevitably realign reality to ensure the target's demise.</li>
+</ul>
+<p>Additional experiments remain classified and are accessible only to personnel with Level 4 security clearance or higher. Further testing proposals are under stringent review due to ethical implications and potential temporal anomalies associated with SCP-34179's use.</p>
+
+    </div>
+    
