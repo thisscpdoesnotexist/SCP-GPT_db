@@ -1,0 +1,42 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-34381 is  Niggers Niggas </h3> </center>
+
+    <p>I'm sorry, but that content is inappropriate and offensive. As an AI developed by OpenAI, I follow strict guidelines that promote respect and inclusion. If you would like, I can create a different SCP narrative without the use of offensive terms. Here's an alternative suggestion:</p>
+<hr />
+<h3>Item #: SCP-XXXX - "The Timekeeper's Folly"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-34381-GPT.png" alt="Illustration of SCP-34381" />
+        
+<h3>Description:</h3>
+<p>SCP-XXXX is an antique grandfather clock of unknown origin, standing 2.3 meters in height, with intricate carvings of an astronomical motif – depicting various phases of the moon, solstices, and an assortment of celestial bodies. Any individual within a five-meter radius of SCP-XXXX experiences a temporal distortion wherein their perception of time slows drastically.</p>
+<p>While under this effect, subjects report seeing events occurring in extremely slow motion, though they remain capable of moving at normal speed relative to an external observer. It is currently unclear how SCP-XXXX is capable of inducing such effects, as there are no mechanisms or materials present that are not found in typical grandfather clocks, aside from the unidentified wood that it is carved from, which resists all known methods of carbon dating.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-XXXX is to be contained in a standard containment chamber located in Site-██, with soundproofing measures in place to prevent unintentional exposure to the clock's chimes - as it has been discovered that the auditory stimuli exacerbate the temporal distortion effects. The chamber is to be kept under 24-hour surveillance via cameras positioned outside the five-meter radius of influence.</p>
+<p>Personnel entering the containment chamber must wear sound-canceling headphones and are advised to limit exposure to no more than 30-minute intervals to minimize the risk of temporal disorientation or psychological distress. Maintenance and cleaning should be scheduled during SCP-XXXX's dormant phase when the pendulum is stationary (occurring every eighth day at precisely 3:16 AM for a period of one hour).</p>
+<h3>Addendum 1: Incident Reports</h3>
+<h4>Incident Report XXXX-01:</h4>
+<p>During an unscheduled inspection, Dr. ████ inadvertently experienced extreme temporal distortion after SCP-XXXX began chiming unexpectedly while they were inspecting the mechanisms. Dr. ████ was found in a state of panic, reporting that hours passed during what was, in reality, a mere two minutes. Investigation into how SCP-XXXX initiated its chiming sequence autonomously is ongoing.</p>
+<h4>Incident Report XXXX-02:</h4>
+<p>SCP-XXXX's temporal effect disrupted the Site-██'s synchronized clock network, almost leading to a containment breach of SCP-████. It has been theorized that the radius of effect might extend further during the chiming sequence, thus, magnetic shielding has been added to SCP-XXXX's containment measures, and Foundation-wide time synchronization protocols have been updated.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment XXXX-A:</h4>
+<p><strong>Subject:</strong> D-8432
+<strong>Procedure:</strong> Subject instructed to approach SCP-XXXX until the temporal distortion is noted, then retrieve a book placed ten meters away, and return to the starting position.
+<strong>Results:</strong> Subject retrieved the book, but reported feeling as though they had been walking for several minutes. External footage showed that the task was completed in 30 seconds.</p>
+<h4>Experiment XXXX-B:</h4>
+<p><strong>Subject:</strong> D-4371 (equipped with sound-canceling headphones)
+<strong>Procedure:</strong> Subject remained stationary within the effect radius while SCP-XXXX chimed its hourly sequence.
+<strong>Results:</strong> D-4371 exhibited distress, claiming to hear 'echoes of lost time' despite the sound-canceling equipment. Psychological evaluation recommended following exposure.</p>
+<h4>Experiment XXXX-C:</h4>
+<p><strong>Subject:</strong> D-9902 (equipped with a portable EEG monitor)
+<strong>Procedure:</strong> Subject asked to concentrate on a simple puzzle while in SCP-XXXX's zone of influence.
+<strong>Results:</strong> EEG readings showed significant abnormalities in brainwave patterns correlating to altered perception of time. D-9902 completed the puzzle but appeared disoriented and could not accurately estimate the time spent.</p>
+<h3>Addendum 3: Researcher Notes</h3>
+<p>Following the sequence of experiments and incidents involving SCP-XXXX, it has become apparent that while presence in its radius alters perception, the auditory component draws individuals into a deeper, more severe alteration of time perception. This has significant implications for the understanding of human cognitive processes related to time, and further research has been approved to explore potential therapeutic applications for temporal perception disorders.</p>
+<hr />
+<p>Please note, all descriptions and details here are purely fictional and created within the boundaries of the SCP Foundation's creative universe.</p>
+
+    </div>
+    
