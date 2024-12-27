@@ -1,0 +1,42 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-34682 is  Quetzalcoatl  </h3> </center>
+
+    <h3>Item #: SCP-34682 - "Quetzalcoatl's Compass"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-34682-GPT.png" alt="Illustration of SCP-34682" />
+        
+<h3>Description:</h3>
+<p>SCP-34682, colloquially known as "Quetzalcoatl's Compass," is an anomalous object resembling an astrolabe, combined with intricate mechanisms not consistent with any technology known to contemporary science. Its components appear to be made of an unidentifiable gold-like alloy, with glyphs and iconography resembling Mesoamerican cultures, most notably those venerating the deity Quetzalcoatl.</p>
+<p>SCP-34682 possesses the ability to manipulate the probability field within a limited radius, effectively 'guiding' the outcome of events towards a predetermined result. The targeting and precision of these alterations are contingent upon the configuration of the device's moving parts, which indicate an understanding of an esoteric form of mathematics not yet fully deciphered by Foundation researchers.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-34682 is to be contained within a high-security locker located at Site-93, accessible only by personnel with Security Clearance 4/34682 or higher. The locker is to be guarded at all times by two (2) armed personnel. Due to SCP-34682's potential utility in averting catastrophic events, its accessibility protocol is subject to O5 Command discretion.</p>
+<p>The use of SCP-34682 must be approved by at least two (2) members of O5 Command. Following usage, all personnel involved must undergo a mandatory psychological evaluation and a debrief conducted by the Ethics Committee to address any repercussions stemming from the manipulation of probability.</p>
+<p>SCP-34682 should never be aligned in accordance with the configurations outlined in Document 34682-QC unless under the express direction of O5 Command, as these configurations seem to correlate with world-altering events.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-34682 was discovered in the ruins of an ancient temple believed to date back to the late Postclassic period of Mesoamerica, near what is now █████, Mexico. Initial containment was complicated by the manifestation of localized temporal disruptions and a series of unlikely coincidental obstacles preventing retrieval. It was eventually secured by Mobile Task Force Delta-7 ("Probability Pirates") employing counter-anomalous technology to negate these effects.</p>
+<h3>Addendum 2: Incident 34682-01</h3>
+<p>During a routine examination on ██/██/20██, Researcher Gonzalez accidentally aligned SCP-34682 into a previously undocumented configuration. This resulted in an unpredictable localized reality shift, causing minor structural damage to Site-93 and the temporary disappearance of Researcher Gonzalez. She returned 27 hours later with no recollection of the event, but with extensive knowledge of an advanced branch of mathematics. Her work, recorded under Document 34682-GZ, is now integral to further studies of SCP-34682.</p>
+<h3>Addendum 3: Experiment Log 34682-EX</h3>
+<p>Due to the potential for disaster, experimentation on SCP-34682 is highly restricted. The following are excerpts from the approved tests:</p>
+<ul>
+<li>
+<p><strong>Experiment 34682-EX-03</strong>: Utilizing a controlled configuration to influence the probability of a coin toss. Result was a 100% success rate in predicting 50 consecutive flips.</p>
+</li>
+<li>
+<p><strong>Experiment 34682-EX-09</strong>: Configuration set to affect the likelihood of a contained SCP-███ breaching containment. Setup was immediately aborted when seismic activity inexplicably began within a 3km radius of Site-93.</p>
+</li>
+<li>
+<p><strong>Experiment 34682-EX-15</strong>: A controlled test to avoid a Level 4 Containment Breach of SCP-████ by using SCP-34682. The breach was averted, but resulted in the reassignment of all involved personnel to other projects due to the psychological impact of experiencing multiple nearly catastrophic timelines.</p>
+</li>
+<li>
+<p><strong>Experiment 34682-EX-22</strong>: With O5 approval, SCP-34682 was configured to increase the likelihood of locating SCP-█████. The SCP was located within 48 hours, although agents reported encountering bizarre and highly improbable obstacles.</p>
+</li>
+</ul>
+<h3>Addendum 4: O5 Directive 34682-OMEGA</h3>
+<p>Following the events of Experiment 34682-EX-15 and the evidenced psychological distress among involved staff, O5 Command issued Directive 34682-OMEGA, restricting the use of SCP-34682 to situations classified as "existential threats" to humanity or reality itself. All other applications are indefinitely suspended pending further review.</p>
+<p>SCP-34682 remains one of the Foundation's most potent assets, balancing the paradox of its capability to avert catastrophe with the inherent risks of tampering with the fabric of probability. As such, its existence is classified, and knowledge of "Quetzalcoatl's Compass" is limited to a select group of Foundation personnel.</p>
+
+    </div>
+    
