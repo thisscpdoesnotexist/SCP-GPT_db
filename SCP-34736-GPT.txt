@@ -1,0 +1,53 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-34736 is  a song that makes you see nonexistent colors </h3> </center>
+
+    <h3>Item #: SCP-34736 - "The Chromatic Requiem"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-34736-GPT.png" alt="Illustration of SCP-34736" />
+        
+<h3>Description:</h3>
+<p>SCP-34736 is an anomalous musical piece, provisionally titled "The Chromatic Requiem." The piece is notable for instigating a unique sensory phenomenon in listeners. Upon hearing the composition in its entirety, subjects report experiencing a new chromatic perception outside the recognizable visual spectrum. These reports consistently describe the additional colors as "beyond description" using the extant color vocabulary and immensely beautiful.</p>
+<p>The auditory stimulus of SCP-34736 is non-digital and is only effective when played on an acoustic grand piano, with the piece currently unable to be recorded by any known means. Attempts to document the melody, harmony, or rhythm have invariably resulted in corruption or degradation of the recording medium. Written musical scores of SCP-34736, once read or played, appear to change arbitrarily, making it impossible to replicate precisely.</p>
+<p>Affected individuals (henceforth designated SCP-34736-1) maintain remnant visual anomalies consistent with the original effect. These anomalies persist for the indefinite future and can induce a variety of psychological effects, including euphoria, obsession with the newly perceived colors, and in some cases, significant cognitive dissonance as subjects try to reconcile their new perception with reality. No physical changes to the ocular anatomy of SCP-34736-1 instances have been detected, indicating the effect is of a purely neurological or psychological nature.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-34736 is to be kept in a sound-proof, locked containment chamber, accessible only by personnel with Level 4 clearance or higher who have demonstrated a psychological profile resistant to compulsive behavioral patterns. The grand piano that SCP-34736 must be played upon is to remain within this chamber at all times, tuned regularly by authorized staff who have not been exposed to the piece.</p>
+<p>Staff assigned to the maintenance, security, and study of SCP-34736 are to undergo periodic psychological evaluations and are prohibited from entering the containment chamber during performances of the piece. Any personnel exhibiting obsession with SCP-34736 or who have been affected by it (SCP-34736-1) are to be reassigned and administered Class-B amnestics.</p>
+<p>Live performances of SCP-34736 are strictly forbidden unless for authorized testing purposes. All experimental exposure to the piece must be approved by no fewer than three Level 4 Research Directors and be conducted under strict observation, with appropriate measures taken to prevent any observer from hearing SCP-34736.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-34736 came to the Foundation's attention after a series of reports involving a prodigious pianist, ████████ █████, who performed the piece during a closed concert in ██████████. Audience members at the event began describing and pursuing "impossible" colors, leading local authorities to contact embedded Foundation personnel. The pianist was found deceased, presumably due to malnutrition and dehydration, seated at the grand piano used to play SCP-34736.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 34736-A</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-8432, with no notable musical background.</li>
+<li><strong>Procedure:</strong> D-8432 was instructed to listen to SCP-34736 performed live.</li>
+<li><strong>Result:</strong> Subject reported seeing colors "like a new kind of sunrise, full of colors I never knew existed." Subject became increasingly fixated on the experience and unresponsive to external stimuli.</li>
+<li><strong>Notes:</strong> Subject was later found attempting to paint the new colors using standard non-anomalous paints, leading to frustration and eventual apathy.</li>
+</ul>
+<h4>Experiment 34736-B</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-5179, D-6221, D-9034, all blind from birth.</li>
+<li><strong>Procedure:</strong> Subjects were exposed to SCP-34736 performed live.</li>
+<li><strong>Result:</strong> All subjects reported experiencing a "sense of color" despite never having the framework to interpret it. They described it as an "overwhelming warmth and emotion" linked to their newfound perception.</li>
+<li><strong>Notes:</strong> These reports hint at SCP-34736's ability to stimulate entirely novel sensory modalities in the brain rather than solely altering visual perception.</li>
+</ul>
+<h4>Experiment 34736-C</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-9931, diagnosed with synesthesia.</li>
+<li><strong>Procedure:</strong> Subject was exposed to SCP-34736 performed live.</li>
+<li><strong>Result:</strong> Subject's existing synesthetic experiences were altered, creating intense, debilitating sensory overload. Subject was later terminated due to ongoing distress and inability to function without constant sedation.</li>
+<li><strong>Notes:</strong> SCP-34736's interaction with neurological conditions is now deemed a critical vector for study.</li>
+</ul>
+<h4>Experiment 34736-D</h4>
+<ul>
+<li><strong>Subject(s):</strong> D-8882, possessing perfect pitch.</li>
+<li><strong>Procedure:</strong> Subject was instructed to transcribe SCP-34736 as they listened to it performed live.</li>
+<li><strong>Result:</strong> The subject was initially successful in transcribing portions of the melody but quickly became obsessed with capturing the exact essence of the piece. After several hours, the written score ceased to represent any known musical notation.</li>
+<li><strong>Notes:</strong> There may be an element of cognitohazardous information inherent in the structure of SCP-34736 that prevents accurate documentation.</li>
+</ul>
+<h3>Addendum 3: Interview Logs</h3>
+<p><em>An interview with Dr. ████, a senior researcher on SCP-34736, detailed the psychological impact of repeated exposure to the anomaly and its effect on research personnel. The interview highlighted the increasing difficulty in maintaining a stable research team due to the compulsive and obsessive behavior associated with SCP-34736. Dr. ████ has since been reassigned after showing early signs of SCP-34736 obsession.</em></p>
+
+    </div>
+    
