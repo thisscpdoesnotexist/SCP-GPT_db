@@ -1,0 +1,47 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-34735 is  a sapient concept related to the idea of "eyes". </h3> </center>
+
+    <h3>Item #: SCP-34735 - "The All-Seeing Ego"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-34735-GPT.png" alt="Illustration of SCP-34735" />
+        
+<h3>Description:</h3>
+<p>SCP-34735 is an incorporeal sapient anomaly related to the notion of vision and surveillance, manifesting as a pervasive idea that invades the consciousness of individuals. SCP-34735, dubbed "The All-Seeing Ego", has shown the capability to influence and control the behavior of those affected by stimulating an obsessive preoccupation with being watched or the need to watch others without their consent.</p>
+<p>Subjects exposed to SCP-34735, referred to as SCP-34735-1 instances, initially exhibit heightened self-awareness and paranoia, typically progressing to the development of complex delusions centered around the concept of eyes. These delusions range from the belief that eyes are present on inanimate objects to the conviction that a great entity is observing them through any means possible, including technology, mirrors, and other people. Extreme cases can result in SCP-34735-1 instances attempting to remove their own eyeballs or forcibly embed additional ocular organs into their bodies and the bodies of others.</p>
+<p>The mechanism by which SCP-34735 infects subjects appears to be through verbal, visual, or written reference to the concept of eyes or surveillance. Once the idea is implanted, SCP-34735 can spread through both direct communication and secondhand reports, making containment dependent on information suppression and behavioral interventions.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Until a method of vaccinating against SCP-34735's influence is developed, containment procedures focus on monitoring and inhibition of information spread. An automated web-crawler AI designated SIERRA CHARLIE PAPA-34 is to continuously scan digital communications and public feeds across all media for mentions related to SCP-34735's influence. Any positively identified references must be redacted and the originating sources closely monitored.</p>
+<p>Personnel diagnosed with heightened risk factors for SCP-34735 infection, such as those with a background of paranoia or obsessive disorders, are prohibited from direct interaction with any data or reports pertaining to the SCP.</p>
+<p>Dedicated containment cells have been established for SCP-34735-1 instances. These cells are windowless and lined with a non-reflective matte black coating to limit stimuli related to SCP-34735's influence. Surveillance of these cells is conducted via infrared and thermal imaging exclusively. Human interaction with SCP-34735-1 instances is to be kept to a minimum and conducted only by D-Class personnel instructed in non-ocular communication techniques.</p>
+<p>Any visual depictions of SCP-34735's influence, or symbols associated with it, are to be destroyed immediately upon discovery. Amnestic treatment is authorized for any non-essential personnel exhibiting knowledge or symptoms of SCP-34735 contamination.</p>
+<h3>Addendum 1: Initial Discovery</h3>
+<p>SCP-34735 was first documented in [REDACTED], following an outbreak of mass hysteria in a small town that had culminated in the self-mutilation of its residents. Foundation agents embedded in local law enforcement were dispatched after reports of shared delusions involving pervasive surveillance by an unseen entity. Upon containment of the affected population, the town was quarantined and information suppressed under the guise of an infectious disease outbreak.</p>
+<h3>Addendum 2: Incident Log 34735-Alpha</h3>
+<ul>
+<li>
+<p><strong>Incident 34735-Alpha-1</strong>: The first recorded incident post-discovery, where a researcher inadvertently became an SCP-34735-1 instance. This occurred following the examination of historical texts referencing "The All-Seeing Ego". The researcher began to perceive eyes within patterns of text, leading to a mental breakdown. Containment procedures were revised following this incident to include memetic hazard training for involved personnel.</p>
+</li>
+<li>
+<p><strong>Incident 34735-Alpha-2</strong>: An attempted containment breach occurred when multiple SCP-34735-1 instances became violent, claiming to be "freedom fighters" against the "tyranny of the invisible eyes". The breach was contained, but further study showed an increase in SCP-34735's ability to incite not only paranoia but organized resistance movements based on its delusional beliefs.</p>
+</li>
+</ul>
+<h3>Addendum 3: Experiment Log 34735</h3>
+<h4>Experiment 34735-E1</h4>
+<p><strong>Objective</strong>: To determine the infectivity of SCP-34735 through secondary sources.
+<strong>Procedure</strong>: D-Class personnel was exposed to a secondhand recounting of SCP-34735's effects by another D-Class.
+<strong>Result</strong>: The listening D-Class became a SCP-34735-1 instance within 4 hours, demonstrating similar symptoms to those who had direct exposure.</p>
+<h4>Experiment 34735-E2</h4>
+<p><strong>Objective</strong>: To assess the efficacy of various communication barriers in preventing SCP-34735 transmission.
+<strong>Procedure</strong>: D-Class personnel were exposed to SCP-34735 through different methods, including isolated written, verbal accounts through acoustic dampening, and sign language.
+<strong>Result</strong>: Transmission of SCP-34735 was successful in all scenarios, suggesting an unusual level of adaptability in the anomaly.</p>
+<h4>Experiment 34735-E3</h4>
+<p><strong>Objective</strong>: To test the effect of anomalous objects on SCP-34735.
+<strong>Procedure</strong>: SCP-34735-1 instances were exposed to SCP-████, which is known for its memory-altering effects.
+<strong>Result</strong>: SCP-████ had a mitigating effect on the symptoms of SCP-34735, though did not remove the infection. Notably, SCP-34735-1 instances displayed a temporary reprieve from their paranoia.</p>
+<h3>Addendum 4: Research Note</h3>
+<p>Dr. ████████ has hypothesized that SCP-34735 may represent an emergent form of sapient memetic life, feeding on the informational exchange between its hosts. Current research focuses on disrupting SCP-34735's ability to spread by identifying and targeting the specific cognitive functions it hijacks. The Foundation's Memetics and Infohazards Division is also investigating potential inoculation techniques utilizing counter-memes and thought pattern training. Further experimentation is ongoing.</p>
+
+    </div>
+    
