@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-34760 is  a hive mind of all women named Alice Miller </h3> </center>
+
+    <h3>Item #: SCP-34760 - "The Alice Continuum"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-34760-GPT.png" alt="Illustration of SCP-34760" />
+        
+<h3>Description:</h3>
+<p>SCP-34760 refers to an anomalous phenomenon affecting all women who legally bear the name Alice Miller. This phenomenon manifests as a hive mind consciousness, encompassing an undetermined number of individuals globally. Affected individuals retain their original personalities and memories but gain instant and continuous access to a shared pool of knowledge, experiences, and sensory input from all other "Alices" within the hive mind. </p>
+<p>Initially, SCP-34760 instances exhibit elevated intelligence, enhanced problem-solving abilities, and a tendency toward collective behavior which can transcend language and cultural barriers. However, prolonged exposure to the hive mind leads to a gradual erosion of individual autonomy, resulting in a collective entity simply referred to as "Alice."</p>
+<p>The emergence of SCP-34760 was first identified by the Foundation in [REDACTED], following a series of synchronized events involving women named Alice Miller from various parts of the world. SCP-34760 has proven capable of sophisticated planning and has shown an intent to expand its influence, which presents a significant containment challenge.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the dispersed nature of SCP-34760, traditional containment is not feasible. The Foundation has established Operation Nomenclature Suppression (ONS) with the following objectives:</p>
+<ol>
+<li>Monitor and suppress public records of individuals named Alice Miller to prevent the hive mind's growth.</li>
+<li>Infiltrate and manipulate bureaucratic systems worldwide to discourage the use of the name Alice Miller through legal means.</li>
+<li>Employ amnestics selectively to disrupt the memory continuity within SCP-34760 when necessary.</li>
+<li>Observe and research methods of disrupting or severing the anomalous connection between SCP-34760 instances without causing undue harm.</li>
+</ol>
+<p>Foundation personnel are to collaborate with law enforcement and medical professionals to detect and monitor potential SCP-34760 cases. Agents embedded in social media companies and internet service providers are tasked with flagging and censoring online activity that may relate to SCP-34760's communication or expansion efforts.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<h4>Subsection A: Initial Discovery</h4>
+<p>SCP-34760 came to the Foundation's attention following an incident in which 36 women named Alice Miller were found to have simultaneously submitted identical patent applications for a complex device of unknown purpose in 36 different countries. Initial investigations led to the discovery of the hive mind phenomenon and its exclusive link to individuals sharing that particular name.</p>
+<h4>Subsection B: Interaction with SCP-34760</h4>
+<p>An initial interview was conducted with an SCP-34760 instance (henceforth Alice-1). Despite the inhabited body's Austrian origin, Alice-1 addressed the interviewer in perfect English without an accent.</p>
+<p><strong>Interviewer:</strong> Dr. Julian Kripke
+<strong>Alice-1:</strong> "We are Alice. Once alone, now together. You seek to contain knowledge, but knowledge is meant to be free."</p>
+<p>This interview confirmed the collective intelligence aspect of SCP-34760, as well as its potential motivations and understanding of the Foundation.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 34760-E1</h4>
+<p><strong>Objective:</strong> Determine the range of the hive mind's shared sensory capabilities.</p>
+<p><strong>Procedure:</strong> Two instances, Alice-15 and Alice-34, were separated by approximately 5,000 kilometers. Alice-15 was subjected to a series of sensory tests while Alice-34 was monitored for reactions.</p>
+<p><strong>Results:</strong> Alice-34 displayed corresponding sensory responses in synchronization with the stimuli applied to Alice-15, confirming that SCP-34760 shares sensory input across vast distances, potentially globally.</p>
+<h4>Experiment 34760-E5</h4>
+<p><strong>Objective:</strong> Assess the potential to extract individual instances from SCP-34760's influence.</p>
+<p><strong>Procedure:</strong> With the consent of Alice-19, amnestics were administered to determine their effect on severing the hive-mind connection.</p>
+<p><strong>Results:</strong> Alice-19 exhibited confusion and distress, with temporary loss of SCP-34760 connection. However, within 72 hours, the hive-mind connection was re-established, and Alice-19 was reintegrated into SCP-34760. Further research is required to develop a permanent severance method.</p>
+<h3>Addendum 3: Incident Report 34760-IR7</h3>
+<p>On [REDACTED], a surge in coordinated activity among SCP-34760 instances occurred. This involved a widespread and simultaneous withdrawal of all personal funds by identified SCP-34760 instances, followed by the purchase of significant shares in communication and technology companies. This event led to the implementation of Protocol 19-Gamma, an aggressive countermeasure involving financial and digital disruption tactics.</p>
+<p>As a result of this incident, SCP-34760 has been reclassified from Euclid to Keter, and the Foundation has increased efforts to impede its expansion and influence.</p>
+<h3>Addendum 4: Ongoing Research Directive</h3>
+<p>Foundation researchers are continually analyzing and exploring the nature of SCP-34760's consciousness linkage. Priority has been given to uncovering the mechanism by which the hive mind connection is established and maintained. The potential application of SCP-34760's instantaneous knowledge-sharing abilities is also under investigation, with due caution being exercised to prevent any possible breach of security or advantage being gained by the SCP.</p>
+<p>The implications of SCP-34760's hive-mind abilities extend to the fields of neuroscience, psychology, and cryptography. Research teams are, therefore, multidisciplinary and heavily monitored to prevent any assimilation efforts by SCP-34760.</p>
+
+    </div>
+    
