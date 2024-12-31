@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-34784 is  a satellite of extraterrestrial origin that is orbiting Neptune </h3> </center>
+
+    <h3>Item #: SCP-34784 - "Neptune's Whisperer"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-34784-GPT.png" alt="Illustration of SCP-34784" />
+        
+<h3>Description:</h3>
+<p>SCP-34784 refers to an anomalous satellite of extraterrestrial origin that is currently in a stable orbit around the planet Neptune. The object is roughly cylindrical, with dimensions measuring approximately 10 meters in length and 2 meters in diameter. Its surface is comprised of an unidentified black, metallic substance that exhibits neither reflectivity nor emissivity, making it virtually invisible to standard forms of optical telescope observation.</p>
+<p>Using specialized containment telescopes with anomalous spectrum capabilities, SCP-34784 has been observed to sporadically emit low-frequency radio signals in a complex pattern. This transmission does not match any known communication method utilized by humans, nor does it resemble patterns normally found in nature.</p>
+<p>The origin of SCP-34784 is unknown, as is its purpose. No attempts at communication have been reciprocated, and the object appears to be dormant, except for the intermittent emissions of radio signals. Studies suggest the object could be hundreds, if not thousands, of years old, owing to the weathered condition of its surface as observed during the rare instances of reflectivity.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-34784's remote location and its inert behavior have led to a Safe classification. Ongoing containment is focused on monitoring and information suppression rather than physical restriction.</p>
+<p>The Foundation has partnered with various space agencies under the guise of the International Anomaly Research Satellite Program (IARSP), ensuring that any data pertaining to SCP-34784 collected by unaffiliated organizations is intercepted and altered before public dissemination.</p>
+<p>Containment telescope installations, codenamed "Watchtower Sites," have been set up in undisclosed locations with the primary objective of maintaining continuous surveillance of SCP-34784. A small team of researchers with high-level clearance is tasked with analyzing the object's emissions and investigating potential security breaches.</p>
+<p>Should SCP-34784 begin showing signs of activity beyond signal emission, Mobile Task Force Mu-3 ("Sky Watchers") will be deployed to implement additional containment protocols as necessary.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-34784 came to the Foundation's attention on ████-██-██, when an operative embedded within NASA intercepted a transmission from the Voyager 2 spacecraft that had been flagged for its anomalous signature. The discovery was promptly classified, and all records of the transmission outside of the Foundation were expunged.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 34784-E01</h4>
+<p><strong>Date:</strong> ██-██-20██<br />
+<strong>Lead Researcher:</strong> Dr. Alain Mercier<br />
+<strong>Objective:</strong> To determine if SCP-34784's signal emissions could be triggered by various stimuli.<br />
+<strong>Procedure:</strong> The following stimuli were sequentially employed: directed radio pulses, high-energy laser bursts, and variably modulated quantum entanglement messengers.<br />
+<strong>Results:</strong> No response or variation in emission pattern noticed; SCP-34784 remained otherwise dormant.</p>
+<h4>Experiment 34784-E02</h4>
+<p><strong>Date:</strong> ██-██-20██<br />
+<strong>Lead Researcher:</strong> Dr. Hina Patel<br />
+<strong>Objective:</strong> To analyze emission pattern for potential communication or data storage.<br />
+<strong>Procedure:</strong> Signals were recorded and analyzed using advanced cryptanalysis techniques and quantum computing protocols.<br />
+<strong>Results:</strong> Patterns revealed a structure suggesting language or data; however, no further meaning or coherent messages have been decoded. Research is ongoing.</p>
+<h3>Addendum 3: Incident 34784-I01</h3>
+<p>On ██-██-20██, SCP-34784 shifted its orbit slightly for a period of approximately six hours, which has been the only recorded instance of SCP-34784 exhibiting kinetic activity since its discovery. This event coincided with [REDACTED], leading some researchers to speculate the possibility of a causal relationship. The object returned to its original orbital path after the six-hour period. Further monitoring and investigation into this incidence and potential connections to other cosmic events were recommended by the research team.</p>
+<h3>Addendum 4: Research Note</h3>
+<p>Dr. Mercier, head of the SCP-34784 research team, published a hypothesis in a secure Foundation journal suggesting that SCP-34784's signals could potentially be a form of time capsule, containing vast amounts of data from an ancient extraterrestrial civilization. This hypothesis is pending further evidence but has initiated a series of deep-analysis projects aimed at uncovering the possible messages hidden within its emissions.</p>
+<p>Given the nature of SCP-34784, contingency plans have been drafted for a wide array of potential future developments, ranging from a sudden departure from Neptune's orbit to the deployment of probes or the unhealthy interest of outside parties. SCP-34784 remains under continuous observation as a window into the capabilities and intentions of possible extraterrestrial intelligences.</p>
+
+    </div>
+    
