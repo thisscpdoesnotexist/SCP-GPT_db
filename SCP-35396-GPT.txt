@@ -1,0 +1,37 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-35396 is  A randomized benign storefront that takes over unused commercial space where it opens up and then progresses to taking the property of other businesses through a variety of means, discovered in 1924 when a general store took over a 38-mile radius  </h3> </center>
+
+    <h3>Item #: SCP-35396 - "The Expanding Emporium"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-35396-GPT.png" alt="Illustration of SCP-35396" />
+        
+<h3>Description:</h3>
+<p>SCP-35396 is an anomalous phenomenon manifesting as a retail storefront known as "Gerald's General Goods." The anomaly has a propensity to occupy and spontaneously appear in vacant commercial spaces within urban, suburban, and occasionally rural settings. Once established, SCP-35396 demonstrates an inexplicable ability to assimilate adjacent businesses and properties into its operation, regardless of their prior nature or ownership.</p>
+<p>The exterior of SCP-35396 mimics local architectural styles and appears unremarkable to unsuspecting consumers. Upon entry, individuals report an ever-expanding interior, anomalously large compared to the building's exterior dimensions. The inventory within SCP-35396 is extensive, often including items that are either out of production or have never been documented elsewhere.</p>
+<p>SCP-35396 was first officially documented by the Foundation in 1924 after a series of reports about a general store that had inexplicably overtaken a 38-mile radius in ████████, USA, replacing a variety of businesses and homes. Following this event, SCP-35396 began to demanifest and reappear in different global locations, usually in economically depressed regions in need of revitalization.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the transient nature of SCP-35396, permanent containment is unfeasible. Mobile Containment Unit Gamma-4 ("Shop Sweepers") has been tasked with monitoring real estate listings, business closures, and economic downturns in various municipalities that could predicate the appearance of SCP-35396.</p>
+<p>Upon confirmation of SCP-35396 manifestation, a perimeter must be established under the guise of hazardous material containment or construction. Civilians are to be deterred from entering the premises through standard cover-story protocols. Foundation front companies should then acquire surrounding real estate whenever possible to ensure controlled expansion of SCP-35396.</p>
+<p>When SCP-35396 attempts to assimilate other properties, Mobile Task Force lambda-5 ("Property Managers") are to negotiate with the entity posing as interested buyers or investors. These interactions must aim to hinder or reverse SCP-35396's expansion without prompting aggressive responses from SCP-35396.</p>
+<p>Foundation-employed economists and sociologists are to continuously study and analyze SCP-35396's impact on local economies and communities, with the intent of minimizing financial and societal disruption.</p>
+<p>Should SCP-35396 begin to demanifest, all assets and acquisitions related to containment are to be liquidated immediately, with profits directed towards the Foundation's front companies and future containment operations.</p>
+<h3>Addendum 1: Incident Log</h3>
+<h4>Incident 35396-01:</h4>
+<p>In 1952, SCP-35396 appeared in █████, France. The rapid expansion of the storefront led to the acquisition of an entire shopping district within two weeks. Local businesses reported a sedative-like effect permeating the area, causing widespread apathy and decreased resistance to SCP-35396's expansion. Foundation intervention successfully ceased the expansion by utilizing a previously tested memetic agent that induced a strong aversion to SCP-35396 in the local population.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 35396-A:</h4>
+<p><strong>Objective:</strong> To determine the limits of SCP-35396's inventory.
+<strong>Procedure:</strong> An undercover Foundation agent posing as a customer requested items of increasing rarity and specificity.
+<strong>Results:</strong> SCP-35396 was able to produce all requested items up until a ████████ █████, at which point SCP-35396's attendant claimed it was a "special-order item."</p>
+<h4>Experiment 35396-B:</h4>
+<p><strong>Objective:</strong> To observe the assimilation process of neighboring properties.
+<strong>Procedure:</strong> Foundation surveillance witnessed SCP-35396's expansion into an adjacent hardware store.
+<strong>Results:</strong> The hardware store's inventory was rapidly replaced with that akin to SCP-35396. Employees of the original store had no memory of their previous employer and were now under the belief that they had always worked for "Gerald's General Goods."</p>
+<h3>Addendum 3: Recovery Log</h3>
+<p>Following Incident 35396-07, wherein SCP-35396 attempted to integrate a Foundation-fronted bank, a recovery operation was initiated. The entity was engaged economically, with a staged hostile takeover from a rival fictional corporation. This led to SCP-35396 voluntarily contracting to a more manageable size, with a minimal loss of real estate and assessed at a minimal threat level for the following 18 months.</p>
+<p>SCP-35396 remains under constant surveillance, with all findings regarding its behavior, expansion patterns, and economic strategies integrated into the containment strategies. Continued research into the nature and motivations of SCP-35396 is to be prioritized to ensure that any future expansions can be anticipated and mitigated with minimal impact on the civilian population.</p>
+
+    </div>
+    
