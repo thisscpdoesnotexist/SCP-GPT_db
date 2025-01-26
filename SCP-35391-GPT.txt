@@ -1,0 +1,58 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-35391 is  A collection of stores that slowly expand and take over shopping centers in American towns until it is the only store in the area and then attempts to integrate into residential areasFound in the 1960 after a general store had grown into a massive complex that spanned over 78 miles road  </h3> </center>
+
+    <h3>Item #: SCP-35391 - "Retail's Labyrinth"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-35391-GPT.png" alt="Illustration of SCP-35391" />
+        
+<h3>Description:</h3>
+<p>SCP-35391 is a phenomenon occurring within the United States characterized by the anomalous expansion of a single retail store into an immense, complex labyrinth of consumer goods, encompassing and assimilating nearby shopping outlets. SCP-35391 instances are not bound to any single brand or type of store; recorded instances have included general stores, supermarkets, and department stores.</p>
+<p>Once established, SCP-35391 will undergo a rapid period of unchecked spatial expansion, with internal architecture that defies Euclidean geometry. Shelves and aisles realign and expand continuously, seemingly in an attempt to confuse and trap individuals within. Products within the stores regularly rearrange to create a sense of unfamiliarity, and exits become increasingly scarce and difficult to locate.</p>
+<p>The entity appears to exhibit a form of sentience with a goal aimed at metropolitan integration. Once SCP-35391 takes over an entire shopping center, it begins to manifest residential property within its own structure, creating homes stocked with supplies and furnished in accordance to local median standards. These residences contain no doors leading outside SCP-35391, effectively trapping occupants within the entity. Attempts at egress typically result in individuals re-emerging in different areas of the store.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-35391's expansive nature and the severe risk of it spreading unchecked, a multi-tiered containment strategy has been enacted:</p>
+<ol>
+<li>
+<p>Mobile Task Force Eta-10 ("Shop Till You Drop") has been deployed to identify and contain instances of SCP-35391 rapidly. Any reported cases of rapid expansion in retail stores must be investigated immediately.</p>
+</li>
+<li>
+<p>Once an instance is confirmed, a perimeter is to be established around the affected shopping center. Civilians are to be evacuated on the pretext of hazardous material leaks, health code violations, or other plausible cover stories.</p>
+</li>
+<li>
+<p>A false storefront is to be created around SCP-35391's original entrance, while all other potential exits are to be identified and monitored.</p>
+</li>
+<li>
+<p>SCP-35391 is to be kept in a state of constant confusion through the use of unmanned drones, which will traverse its aisles and manipulate the internal environment to counteract the entity's spatial reconfiguration properties. This measure is intended to delay its growth.</p>
+</li>
+<li>
+<p>Embedded Foundation agents within local government and real estate agencies are to discourage urban and suburban development near SCP-35391 containment sites to prevent the absorption of residential zones.</p>
+</li>
+</ol>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-35391 was initially discovered in 1960 after reports of a general store in ███████, █████, expanding to cover a 78-mile radius of interconnected retail spaces. The store’s anomalous properties became evident when local residents became disoriented or lost for days within its structure. Foundation intervention became necessary after several missing person cases were linked to the store. </p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 35391-E01:</h4>
+<p><strong>Objective:</strong> To ascertain SCP-35391's response to deliberate external alterations.
+<strong>Procedure:</strong> Remote-controlled drones altered shelf arrangements in sector 12 of SCP-35391.
+<strong>Results:</strong> SCP-35391 reconfigured its internal layout at an accelerated rate, resulting in the temporary loss of two drones.
+<strong>Notes:</strong> SCP-35391 appears to be resistant to changes in its structure not of its own making.</p>
+<h4>Experiment 35391-E05:</h4>
+<p><strong>Objective:</strong> To introduce a group of D-class personnel with an escape task.
+<strong>Procedure:</strong> Five D-class subjects equipped with GPS tracking devices were tasked with locating an exit within SCP-35391.
+<strong>Results:</strong> After 48 hours, only two subjects returned; one had become psychologically unstable. Tracking devices showed erratic movements not compatible with the physical layout.
+<strong>Notes:</strong> Subjects reported shifts in the environment and a sense of being "herded" by the store itself.</p>
+<h4>Experiment 35391-E19:</h4>
+<p><strong>Objective:</strong> To analyze the integration mechanism's effect on residential simulation within SCP-35391.
+<strong>Procedure:</strong> Surveillance equipment was installed in one of the simulated residential units within SCP-35391.
+<strong>Results:</strong> Over time, the unit began to alter itself, suggesting adaptability to the occupant's perceived desires. No physical exits remained present.
+<strong>Notes:</strong> The impetus behind SCP-35391's need to absorb and simulate human living conditions remains undetermined.</p>
+<h3>Addendum 3: Incident Report 35391-A</h3>
+<p>On ██/██/20██, during maintenance of the containment perimeter, an SCP-35391 instance managed to encroach upon a nearby suburban area under cover of night. Foundation intervention was rapid, resulting in the demolition of the expanded structure and Class-A amnestics administered to witnesses. This event marked the introduction of the current perimeter defense protocols and heightened preventative measures.</p>
+<h3>Addendum 4: Researcher Notes</h3>
+<p>The behavior of SCP-35391 suggests an end goal far beyond simple expansion. The inclusion of residential structures implies an intent to create a self-contained ecosystem, wherein humans serve as an integral component. The exact nature of this relationship – parasitic, symbiotic, or something else entirely – is an ongoing subject of study. It is paramount that we prevent SCP-35391 from reaching a point where it can sustain a human population independently, as this may result in a scenario where containment becomes virtually impossible.</p>
+<p>Monitoring and research efforts continue to fully understand and counteract SCP-35391's anomalous properties, with the ulterior aim of discovering a method to halt or reverse its expansion without necessitating the destruction of urban infrastructure.</p>
+
+    </div>
+    
