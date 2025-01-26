@@ -1,0 +1,74 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-35394 is  An randomizing anomalous store brand that rapidly fills the empty commercial area in a mid-size town </h3> </center>
+
+    <h3>Item #: SCP-35394 - "The Everchanging Market"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-35394-GPT.png" alt="Illustration of SCP-35394" />
+        
+<h3>Description:</h3>
+<p>SCP-35394 is an anomalous retail brand that spontaneously materializes as various storefronts in any given vacant commercial space within a designated mid-sized town, hereby referred to as Site-██. The facade, name, and type of store SCP-35394 adopts change unpredictably, with alterations observed anywhere from a few hours to several weeks apart. Each incarnation of SCP-35394 exhibits distinct and anomalous properties typically themed to the type of store displayed. Common threads amongst manifestations include the immediate draw of local populous, alterations in surrounding reality consistent with enhancing the shopping experience, and items for sale that exhibit anomalous properties.</p>
+<p>The products sold within SCP-35394 range from mundane objects with slight alterations to items with significant anomalous effects. Purchased items retain their anomalous characteristics outside the confines of SCP-35394. Testing has shown that these items' effects can be neutralized or otherwise contained with proper intervention by Foundation assets.</p>
+<p>Attempts to trace the brand, ownership, or any corporate entity associated with SCP-35394 have yielded no viable results; all paperwork, signage, and digital footprints vanish or become corrupted upon the storefront's transition.</p>
+<p>The unpredictable nature of SCP-35394's manifestations and the potential impact on the local population's safety and normalcy has led to the classification of Keter. </p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-35394's unpredictable nature and rooted presence in Site-██, the following containment procedures have been established:</p>
+<ol>
+<li>Site-██ has been placed under indefinite Foundation control, with a cover story disseminated to explain the sudden decrease in the town's population and business activity.</li>
+<li>All entrances and exits to Site-██ are to be guarded at all times by Foundation personnel. Civilians attempting to enter are to be deterred or amnesticized if necessary.</li>
+<li>A surveillance network has been established to monitor all commercial spaces for signs of SCP-35394 manifestation.</li>
+<li>Foundation front companies are acquiring properties within Site-██ to create controlled vacancies and to monitor for SCP-35394 occurrences.</li>
+<li>Upon manifestation of SCP-35394, a Mobile Task Force (MTF) designated "Market Sweepers" is to be deployed to secure the perimeter, investigate the premises, and document the stored properties and available items.</li>
+<li>All items procured from SCP-35394 are to be cataloged and transferred to Site-19 for containment or disposal, depending on the object's classification.</li>
+<li>Under no circumstances are civilians allowed to purchase or interact with SCP-35394's inventory.</li>
+<li>Foundation disinformation campaigns are to be ongoing to suppress public knowledge and concern regarding the anormal activities in Site-██.</li>
+</ol>
+<h3>Addendum 1: Manifestation Log</h3>
+<p><strong>Manifestation 35394-01</strong></p>
+<ul>
+<li>Form: Hardware Store ("HammerTime Home Solutions")</li>
+<li>Notable Anomaly: Tools sold were able to repair or assemble structures with no input from users.</li>
+<li>Containment Follow-up: Items were secured and classified as Safe; contained individually at Site-19.</li>
+</ul>
+<p><strong>Manifestation 35394-02</strong></p>
+<ul>
+<li>Form: Toy Shop ("The Neverending Playroom")</li>
+<li>Notable Anomaly: Toys would animate and interact with customers, some exhibiting aggressive behaviors.</li>
+<li>Containment Follow-up: MTF "Market Sweepers" sustained minor injuries; animated toys were neutralized and contained.</li>
+</ul>
+<p><strong>Manifestation 35394-03</strong></p>
+<ul>
+<li>Form: Grocery Store ("The Infinite Pantry")</li>
+<li>Notable Anomaly: Consumables caused various non-lethal, yet significant, alterations in biology and cognitive function.</li>
+<li>Containment Follow-up: Perishables were incinerated; other objects were placed under examination and experimentation at Bio-Site-66.</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 35394-E-01</strong></p>
+<ul>
+<li>Item: Hammer from "HammerTime Home Solutions"</li>
+<li>Procedure: Used to repair a damaged wall in Testing Chamber 03.</li>
+<li>Results: Wall repaired to a level exceeding previous structural integrity without any human interaction.</li>
+<li>Notes: Potential applications in site maintenance and fortification could be valuable.</li>
+</ul>
+<p><strong>Experiment 35394-E-02</strong></p>
+<ul>
+<li>Item: Doll from "The Neverending Playroom"</li>
+<li>Procedure: Interaction with D-Class personnel in a controlled environment.</li>
+<li>Results: Doll displayed sentience and began communicating with D-Class before attempting escape. Was detained and re-contained.</li>
+<li>Notes: The sentience level of toys from SCP-35394 varies, suggesting some form of selection or adaptation. Further study is needed.</li>
+</ul>
+<p><strong>Experiment 35394-E-03</strong></p>
+<ul>
+<li>Item: Chocolate Bar from "The Infinite Pantry"</li>
+<li>Procedure: Consumption by D-Class personnel with medical monitoring.</li>
+<li>Results: D-Class personnel experienced temporary elasticity in their extremities, allowing significant stretching without pain. Effect lasted for 48 hours.</li>
+<li>Notes: The physiological implications are stunning, but the uncontrollability of effects makes it a containment priority.</li>
+</ul>
+<h3>Addendum 3: Incident Report 35394-IR-05</h3>
+<p>On [REDACTED], SCP-35394 manifested as an "All You Wish Electronics" storefront offering highly advanced, yet unknown technology. The manifestation was not immediately detected, resulting in several devices being sold to civilians.</p>
+<p>The incident necessitated a widespread retrieval operation and amnesticization of affected individuals. A total of [REDACTED] electronic devices were retrieved, displaying capabilities ranging from matter replication to localized temporal displacement.</p>
+<p>This failure in containment has led to a review and subsequent reinforcement of containment protocols, including increased MTF presence and improved surveillance techniques.</p>
+
+    </div>
+    
