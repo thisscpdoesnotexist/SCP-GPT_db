@@ -1,0 +1,53 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-35411 is  The Moth Maker </h3> </center>
+
+    <h3>Item #: SCP-35411 - The Moth Maker</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-35411-GPT.png" alt="Illustration of SCP-35411" />
+        
+<h3>Description:</h3>
+<p>SCP-35411 is an anomalous entity resembling a vintage sewing machine with brass components and intricate designs etched into its surface, believed to date back to the late 19th century. SCP-35411's anomalous effects manifest when operated by an individual expressing a clear desire or a strong subconscious yearning to "change" or "escape" their current form or circumstance.</p>
+<p>When such an individual uses SCP-35411, the machine animates regardless of any power source, and fabrics placed within its work area are transmuted into a variety of live moths. These moths (hereafter referred to as SCP-35411-1) vary in species and size but often possess unusual patterns or colors not typically observed in nature. Post-transmutation, SCP-35411-1 instances exhibit a range of anomalous behaviors, from displaying extraordinary resistance to physical damage to the ability to phase through solid objects. </p>
+<p>Subjects operating SCP-35411 (hereafter referred to as SCP-35411-2) undergo a progressive psychological alteration characterized by escapism and identity dissociation and eventually attempt to "merge" with SCP-35411-1 instances. The exact purpose or end result of this compulsion is not fully understood.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-35411 is to be contained within a standard secure item locker at Site-██. The locker is fitted with a keypad lock, and the access code is to be known only by personnel with Level 3 clearance or higher. The containment room is to be equipped with EMP shielding to prevent any outside electronic signals from interacting with SCP-35411.</p>
+<p>Physical interaction with SCP-35411 is prohibited unless approved for testing purposes. All testing must be conducted under strict safety protocols, including psychological screening for all personnel involved to ensure immunity to SCP-35411's anomalous effects. At no point should a single researcher be left alone with SCP-35411.</p>
+<p>To prevent the risk of uncontrolled SCP-35411-1 propagation, the containment chamber is equipped with an enclaved secondary containment cell where live specimens of SCP-35411-1 can be quarantined until they naturally expire or are appropriately disposed of.</p>
+<h3>Addendum 1: Discovery and Acquisition</h3>
+<p>SCP-35411 was acquired from an antique shop in [REDACTED], France, after a series of missing person cases were linked to the object. The shop owner, now designated PoI-35411, claimed to have no knowledge of its origins but was taken into Foundation custody for further interrogation. The local police's investigation has been amnesticized and attributed to an unsolved mystery.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 35411-A</h4>
+<ul>
+<li><strong>Subject:</strong> D-86123 (selected for lack of any overt desire to change circumstances)</li>
+<li><strong>Procedure:</strong> Subject instructed to operate SCP-35411 as one would a typical sewing machine.</li>
+<li><strong>Result:</strong> SCP-35411 remained inert. No anomalous activity observed.</li>
+<li><strong>Notes:</strong> This confirms that SCP-35411's effects are predicated on the psychological state of its user.</li>
+</ul>
+<h4>Experiment 35411-B</h4>
+<ul>
+<li><strong>Subject:</strong> D-91452 (selected for expressed dissatisfaction with status quo)</li>
+<li><strong>Procedure:</strong> Same as Experiment 35411-A.</li>
+<li><strong>Result:</strong> SCP-35411 animated without apparent power source. Three moths (SCP-35411-1) were produced, each with unique wing patterns resembling solar eclipses. Subject D-91452 displayed immediate attachment to SCP-35411-1 instances and attempted to open the containment to follow them as they phased through walls.</li>
+<li><strong>Notes:</strong> Subject was restrained and placed into psychological observation. Moths exhibited no observable lifespan beyond 48 hours.</li>
+</ul>
+<h3>Addendum 3: Incident Report 35411-Alpha</h3>
+<h4>Event Summary:</h4>
+<p>On ██/██/████, SCP-35411 breached containment due to a guard suffering from undisclosed personal issues operating the machine. The resulting SCP-35411-1 specimen was a single, significantly larger moth displaying hypnotic wing patterns that affected all personnel who viewed it, resulting in a temporarily altered mental state.</p>
+<p>Containment was reestablished after 6 hours with no casualties, though all affected personnel required amnestic treatment. The guard in question was demoted and re-assigned. </p>
+<h3>Addendum 4: Interviews and Psychological Impact</h3>
+<h4>Subject: Researcher Gwen ███████</h4>
+<p><strong>Interviewed By:</strong> Dr. A█████</p>
+<p><strong><Begin Log></strong></p>
+<p><strong>Dr. A█████:</strong> Tell me about your interaction with SCP-35411.</p>
+<p><strong>Researcher Gwen ███████:</strong> I should've known better. It's not like I wanted a "change" really, but curiosity... That's a form of desire too, isn't it?</p>
+<p><strong>Dr. A█████:</strong> Do you feel affected by the SCP-35411-1 you created?</p>
+<p><strong>Researcher Gwen ███████:</strong> Affected? No... Fascinated, yes. They're beautiful, Dr. A█████, beautiful and sad. They just... flutter towards freedom and then disappear, like they never even existed at all.</p>
+<p><strong><End Log></strong></p>
+<p><strong>Notes:</strong> Following the interview, Researcher Gwen ███████ was subjected to a more thorough psychological evaluation. They have been temporarily suspended from active duty and are undergoing cognitive behavioral therapy.</p>
+<h3>Addendum 5: Additional Instructions</h3>
+<p>For further information regarding the containment and research of SCP-35411, all personnel must review Document 35411-Gamma concerning the ethical treatment of SCP-35411-1 instances and the psychological wellbeing of research staff. It is paramount to remember that while the moths appear non-sentient, their creation and existence are directly linked to human emotion, necessitating compassionate handling.</p>
+
+    </div>
+    
