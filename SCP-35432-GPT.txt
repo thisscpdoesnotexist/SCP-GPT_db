@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-35432 is  The big moth making box </h3> </center>
+
+    <h3>Item #: SCP-35432 - The Lepidopteran Enigma</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-35432-GPT.png" alt="Illustration of SCP-35432" />
+        
+<h3>Description:</h3>
+<p>SCP-35432 is an intricately carved wooden box, measuring 30 cm × 20 cm × 20 cm. The wood used is an unidentifiable species, impervious to damage by any known means. The box features complex moth motifs and runes that to date have not been matched to any known language or culture. When opened, SCP-35432 emits a pale, luminescent fog from which moths of varying species emerge. These moths are designated SCP-35432-A.</p>
+<p>SCP-35432-A specimens display highly anomalous properties. Upon emerging from SCP-35432, the specimens do not seek food or light sources, as is typical moth behavior. Instead, they can alter their flight patterns to create luminescent glyphs in the air, which have reality-bending effects on the immediate environment. Effects observed include temporal displacement, localized gravity inversion, and transmutation of materials.</p>
+<p>The glyphs' effects are unpredictable and seem to depend on factors such as the number of SCP-35432-A specimens present, their species, and the current lunar phase. The box does not require any external power source and can function indefinitely. It's hypothesized that SCP-35432 was once used in ritualistic practices by an as-yet-undiscovered culture or civilization.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-35432 is to be contained within a standard containment locker, lined with a one-meter-thick layer of lead. The locker is housed in a secondary containment chamber equipped with purple UV lights to deter SCP-35432-A from approaching the containment locker doors. Access to SCP-35432 is restricted to Level 3 personnel and above and is only to be opened for approved experiments.</p>
+<p>During experiments, the chamber should be evacuated except for D-class personnel involved in the testing. Observations are to be made remotely, and no electronic devices are allowed within 50 meters of the primary containment area to prevent potential reality-bending effects on device functionality.</p>
+<p>In the event of an SCP-35432-A escape, the containment chamber is to be flooded with bright white light from high-lumen floodlights, inducing positive phototaxis in the specimens. Personnel equipped with specialized nets treated with reality stabilizing agents will then capture and return SCP-35432-A to SCP-35432.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p><strong>Discovery Date:</strong> ██/██/████
+<strong>Location:</strong> ██████████, Siberia</p>
+<p>SCP-35432 was discovered after a localized time discrepancy was reported by a Foundation temporal anomaly monitoring satellite. A retrieval team (Gamma-12) was dispatched. Upon arrival, they found a small abandoned town, with evidence suggesting it had been unoccupied for several decades despite records indicating recent habitation.</p>
+<p>Central to the town square was SCP-35432, unopened, surrounded by a large number of preserved moth specimens, later identified as SCP-35432-A. Gamma-12 secured the box with no resistance and transported it to Site-██ for containment and study.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 35432-01:</strong>
+- <strong>Purpose:</strong> To observe the initial opening of SCP-35432 and behavior of SCP-35432-A specimens within a controlled environment.
+- <strong>Results:</strong> Upon opening SCP-35432, a total of seventeen SCP-35432-A specimens emerged. Five quickly began flight patterns that were identified as a likely containment breach risk. The glyphs produced caused a localized freezing of the air, resulting in a minor facility power outage. The test was terminated, and specimens were returned to SCP-35432. Further testing was approved with increased safety measures.</p>
+<p><strong>Experiment 35432-07:</strong>
+- <strong>Purpose:</strong> To study the effects of lunar phases on SCP-35432-A specimen behavior.
+- <strong>Results:</strong> Testing was conducted during a full moon. Moths displayed heightened aggressiveness in their flight and glyph production. One glyph resulted in a mild gravitational anomaly lasting approximately seven minutes. A D-class personnel was temporarily suspended 2 meters above the ground before the effect subsided. Containment protocols remained effective.</p>
+<p><strong>Experiment 35432-15:</strong>
+- <strong>Purpose:</strong> To determine if communication with SCP-35432-A is possible.
+- <strong>Results:</strong> Communication attempts using light signals and mimicking moth pheromones yielded no discernible change in SCP-35432-A behavior. However, upon displaying various symbols similar to those on SCP-35432, one specimen produced a glyph that temporarily transmuted a steel rod into gold. The effect reverted after six hours. More research into potential communication methods is ongoing.</p>
+<h3>Addendum 3: Incident Report 35432-03</h3>
+<p><strong>Date:</strong> ██/██/████
+<strong>Event Summary:</strong> SCP-35432 unexpectedly opened during a routine containment locker inspection, despite no personnel interaction. Fifteen SCP-35432-A specimens escaped before containment procedures could be initiated.</p>
+<p>The resulting glyphs caused a brief, but significant alteration in the site's timeline, where several research projects were inexplicably advanced by two years. The event lasted approximately two minutes before normality was restored.</p>
+<p>Following this incident, changes to the containment procedures were implemented, additional safety protocols were established, and research into the origins of SCP-35432 was prioritized to better understand and prevent spontaneous anomalies.</p>
+
+    </div>
+    
