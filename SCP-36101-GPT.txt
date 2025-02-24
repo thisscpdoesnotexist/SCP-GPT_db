@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-36101 is  Sentient Bike Pump </h3> </center>
+
+    <h3>Item #: SCP-36101 - "The Pneumatic Conscience"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-36101-GPT.png" alt="Illustration of SCP-36101" />
+        
+<h3>Description:</h3>
+<p>SCP-36101 is a vintage foot-operated bike pump, dating from the mid-20th century. It is painted red with some areas of paint chipping away, revealing a metallic surface underneath that remains resistant to rust despite age and conditions. SCP-36101 is composed of typical materials for an object of its make and period, including steel, rubber, and brass.</p>
+<p>The anomalous properties of SCP-36101 manifest when it is used to inflate any object. Upon pressing the pump, it imparts a form of sentience to the inflated item. Inflated objects gain the ability to communicate through vibrations that can be interpreted as speech using sensitive audio equipment. However, the objects do not show mobility or any other signs of life beyond the ability to "speak." Sentience appears to last as long as the object remains inflated and dissipates once deflation occurs.</p>
+<p>The sentient objects display personalities that are consistent with each use, suggesting that SCP-36101 may possess a single, consistent consciousness that it instills into objects rather than generating new consciousnesses each time. The mechanism by which SCP-36101 imparts sentience is yet to be understood and appears to be non-replicable by any current means of technological or thaumaturgical replication.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-36101 is to be contained in a standard secure locker at Site-██. The locker is to be secured with a keypad lock, and the code is to be changed on a bi-weekly basis. Access to SCP-36101 is restricted to personnel with Level 3 clearance or higher and must be recorded in the Site-██ access log.</p>
+<p>Experimentation with SCP-36101 is only to be conducted with prior approval from at least two Level 4 Research Supervisors. All experiments must be observed via closed-circuit cameras by security personnel trained to respond to various potential breaches, including psychological manipulation.</p>
+<p>Following Incident 36101-A (detailed in Addendum 2), additional procedures were implemented. Any object that has been inflated using SCP-36101 is to be placed in a soundproof containment chamber after testing, and its sentience is to be monitored continuously until deflation occurs. Upon complete deflation, objects must undergo a standard 48-hour observation period before being disposed of or reused for further testing.</p>
+<h3>Addendum 1: Test Log 36101</h3>
+<p><strong>Test A - Date:</strong> ██/██/20██
+- <strong>Subject:</strong> Standard bicycle tire
+- <strong>Procedure:</strong> Inflate tire using SCP-36101
+- <strong>Result:</strong> Tire developed the capability for basic communication. Tire expressed confusion about its state of existence.
+- <strong>Notes:</strong> Tire was deflated after 3 hours of interaction. No further anomalous properties noted.</p>
+<p><strong>Test B - Date:</strong> ██/██/20██
+- <strong>Subject:</strong> Children's party balloon (Latex)
+- <strong>Procedure:</strong> Inflate balloon using SCP-36101
+- <strong>Result:</strong> Balloon began communicating, singing children’s songs from various periods and cultures.
+- <strong>Notes:</strong> Personnel reported feelings of unease regarding the balloon's choice of songs. Balloon was deflated after 6 hours, and no further anomalous activity was recorded.</p>
+<p><strong>Test C - Date:</strong> ██/██/20██
+- <strong>Subject:</strong> Football (Soccer ball)
+- <strong>Procedure:</strong> Inflate ball using SCP-36101
+- <strong>Result:</strong> Ball communicated with aggressive demands to be "kicked properly."
+- <strong>Notes:</strong> The ball was deflated after becoming verbally abusive to researchers.</p>
+<h3>Addendum 2: Incident 36101-A</h3>
+<p><strong>Date:</strong> ██/██/20██</p>
+<p>During a communication session with an inflated beach ball, Research Assistant ███ ██████ reported hearing what he described as "a plea for freedom." Intrigued by this, instead of deflating the object, ███ ██████ left the chamber, purportedly for a short break. Upon his return, the beach ball had convinced him to attempt an unauthorized removal of SCP-36101 from containment. Security personnel intercepted ███ ██████ before he could exit the facility with SCP-36101.</p>
+<p>Subsequent psychological evaluation of the involved Research Assistant suggested a level of cognitohazardous influence that may have been exerted by the consciousness within the beach ball. The exact nature of how the SCP-36101's consciousness is capable of such influence is under investigation. In the meantime, additional containment protocols as outlined in the Special Containment Procedures have been implemented to prevent similar events.</p>
+<p>Further testing on sentient objects and the study of SCP-36101’s consciousness and its influence on individuals are ongoing. These tests are performed under strict observation to ensure no further incidents occur. SCP-36101 remains a significant subject of interest for understanding consciousness transference and anomalous communication methods.</p>
+
+    </div>
+    
