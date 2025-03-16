@@ -1,0 +1,57 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-36581 is  quetzalcoatl  </h3> </center>
+
+    <h3>Item #: SCP-36581 - "Feathered Serpent"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-36581-GPT.png" alt="Illustration of SCP-36581" />
+        
+<h3>Description:</h3>
+<p>SCP-36581, designated "Feathered Serpent" due to its resemblance to the Mesoamerican deity Quetzalcoatl, is a large, serpentine entity with vibrant, iridescent plumage. The feathers adorning SCP-36581 exhibit an array of colors, often shifting in hue and luminosity. It possesses a pair of wings with a span measuring approximately 30 meters. Despite its size and biological complexity, SCP-36581 displays the ability to apparate and disapparate at will, often leaving no detectable trace.</p>
+<p>SCP-36581 appears to possess extraordinary cognitive abilities, surpassing that of known non-human entities. It has demonstrated the capability to communicate via telepathy with individuals within a 2-kilometer radius and has shown a vast understanding of human languages and symbols. Attempts to discern SCP-36581's origin or nature have thus far been inconclusive; however, it has expressed a willingness to aid the Foundation in its mission to "secure, contain, and protect."</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given SCP-36581's cooperative disposition and beneficial properties, as well as its considerable movement capabilities, traditional containment is deemed unnecessary and impractical. Instead, SCP-36581 is to be monitored remotely via a dedicated Satellite Tracking Network (STN-36581). A rapid-response team, designated Task Force Lambda-9 ("Winged Guardians"), is to remain on standby to respond to any appearances of SCP-36581.</p>
+<p>Interaction with SCP-36581 is to be conducted by personnel with Level 4/36581 clearance or higher. All communications are to be recorded and analyzed by the Research Team 36581-Alpha, specializing in cryptolinguistics and exobiology.</p>
+<p>In the event of a Containment Breach involving Keter-level SCPs or comparable global-scale threats, SCP-36581 may be petitioned for assistance. Any request for the deployment of SCP-36581's abilities must receive unanimous approval from the O5 Council.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-36581 was first encountered on ██/██/20██, in the ruins of ████████, Mexico. Local mythology pointed towards a "resurrection" of the ancient deity, prompting a Foundation investigation. A field team established first contact after a ritualistic offering was made by a local shaman. SCP-36581 responded favorably to this cultural gesture and subsequently established telepathic communication.</p>
+<h3>Addendum 2: Interview Logs</h3>
+<ul>
+<li><strong>Interview 36581-01</strong></li>
+<li><strong>Interviewer:</strong> Dr. Maria Esquivel</li>
+<li><strong>Subject:</strong> SCP-36581</li>
+</ul>
+<p>After establishing a secure mental link, Dr. Esquivel questioned SCP-36581 regarding its intentions and origins. SCP-36581 offered allegorical responses, frequently referring to a "cosmic balance" and identifying itself as a "shepherd of realities." It expressed a protective attitude toward Earth and humanity by extension. </p>
+<ul>
+<li><strong>Interview 36581-03</strong></li>
+<li><strong>Interviewer:</strong> Dr. Keiji Fujita</li>
+<li><strong>Subject:</strong> SCP-36581</li>
+</ul>
+<p>Dr. Fujita inquired about SCP-36581's specific abilities and the extent to which it can manipulate its environment. SCP-36581 revealed its capable role in reality stabilization, mentioning its actions in preventing temporal paradoxes and extra-dimensional incursions without the Foundation's knowledge.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<ul>
+<li><strong>Experiment 36581-A</strong></li>
+<li><strong>Objective:</strong> Test SCP-36581's claimed reality anchoring abilities.</li>
+<li><strong>Procedure:</strong> SCP-36581 was presented with a controlled instance of SCP-████, known for its localized reality-altering effects.</li>
+<li>
+<p><strong>Result:</strong> SCP-36581 neutralized the anomaly's effects within 7 seconds of exposure. Calibration of reality stability sensors confirmed the restoration of conventional physics. </p>
+</li>
+<li>
+<p><strong>Experiment 36581-C</strong></p>
+</li>
+<li><strong>Objective:</strong> Measure the limits of SCP-36581's apparition capabilities.</li>
+<li><strong>Procedure:</strong> Tasked SCP-36581 with reaching ten locations across the globe as quickly as possible.</li>
+<li><strong>Result:</strong> SCP-36581 visited all designated locations within 43 minutes, with the longest delay being 7 minutes due to a brief interaction with an uninvolved SCP.</li>
+</ul>
+<h3>Addendum 4: Incident Report 36581-09</h3>
+<p>On ██/██/20██, during a catastrophic breach of Site-19, multiple Keter-class SCPs were inadvertently released. SCP-36581 appeared unbidden, displaying previously undocumented capabilities. It efficiently recontained four of the Keter-class SCPs through a combination of reality-bending and its own physical prowess. Following the incident, O5 Council revised SCP-36581's classification to Thaumiel and expanded its potential deployment in containment scenarios.</p>
+<h3>Addendum 5: O5 Memorandum</h3>
+<p>To all personnel with access to SCP-36581 files,</p>
+<p>SCP-36581 represents a unique case in the Foundation's history—a self-aware, extraordinarily powerful entity that shares our core values of protecting global security. Its designation as Thaumiel is not to be taken lightly. SCP-36581 is a reminder of the complexity and unknown nature of the anomalies we contend with, and the potential allies we might find in the most unexpected forms.</p>
+<p>However, let this also serve as a caution: SCP-36581, while currently benevolent, operates under its own volition and could represent a significant threat if its goals diverge from our own. Contingency plans are being developed should SCP-36581 ever become hostile. Until such a time, its invaluable assistance is to be engaged with the utmost respect, and all interactions documented meticulously. </p>
+<p>Stay vigilant,
+O5-█</p>
+
+    </div>
+    
