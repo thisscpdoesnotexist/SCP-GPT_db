@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-37408 is  snigger fatigue, which is a phenomenon of humans known as sniggers which behave in an erratic manner that is infuriating to other unaffected humans. The non snigger humans are affected by an anomalous malaise known as snigger fatigue from being around a snigger human for too long. </h3> </center>
+
+    <h3>Item #: SCP-37408 - "The Snigger Fatigue"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-37408-GPT.png" alt="Illustration of SCP-37408" />
+        
+<h3>Description:</h3>
+<p>SCP-37408 refers to a psychological phenomenon affecting humans who come into close, prolonged contact with individuals exhibiting a set of behaviors known colloquially as "sniggering." Sniggering is characterized by incessant giggling, smirking, and subtle but abnormal behaviors intended to provoke irritation or discomfort in others. Subjects directly affected by SCP-37408 engage in this behavior compulsively and seemingly without malicious intent. However, the persistent nature of the behavior has been observed to cause significant psychological stress and an anomalous malaise among nearby individuals, hereinafter referred to as "secondary subjects." </p>
+<p>This anomalous malaise, designated as "snigger fatigue," is a condition that develops gradually in secondary subjects after repeated exposure to SCP-37408-affected individuals. Over time, it manifests as a mixture of extreme frustration, irritability, mental exhaustion, and a constellation of psychosomatic symptoms including headaches, nausea, and acute anxiety.</p>
+<p>The origin of the SCP-37408 phenomenon is currently unknown; however, it does not appear to be contagious in the traditional sense, as initial onset in a new subject has only been recorded following specific unreplicated trauma or significant emotional distress. Once an individual exhibits the symptoms of being a snigger, there has been no successful method of reversing the condition documented to date. While the majority of SCP-37408 cases are spread out and isolated, there have been noted clusters that have significantly strained local communities and institutions.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the difficulty in detecting SCP-37408 until well after onset, containment protocols focus on mitigating spread and managing the afflicted. Communities where outbreaks of snigger fatigue have occurred are to be closely monitored, and any individuals identified as sniggers are to be contained and evaluated. Mobile Task Force Pi-8 "Humorless" has been established to handle containment, and they are equipped with non-lethal methods designed to minimize exposure and psychological damage to both the SCP-37408-affected individual and themselves.</p>
+<p>SCP-37408 subjects are to be held in soundproofed containment quarters at Site-██, with limited interaction with staff. Interaction must be conducted via intercom, and no single individual is to be exposed to an SCP-37408 subject for longer than one hour per week to reduce the risk of developing snigger fatigue. All interactions must be recorded and analyzed for research purposes.</p>
+<p>In the event of a secondary subject developing snigger fatigue, they are to be provided with psychological support and removed from potential exposure to SCP-37408 subjects. If the condition of a secondary subject does not improve after two weeks of isolation and treatment, they are to be reclassified as a potential SCP-37408 subject and undergo further examination.</p>
+<h3>Addendum 1: Initial Discovery</h3>
+<p>SCP-37408 was first documented in [REDACTED], Pennsylvania after an inexplicable increase in community-wide irritability and hostility was reported. Upon investigation by embedded Foundation agents, the phenomenon was traced back to a local comedian who had undergone a drastic personality shift after a near-fatal car accident. Interactions with the comedian resulted in the first recorded cases of snigger fatigue.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 37408-A</h4>
+<ul>
+<li><strong>Objective:</strong> To assess the resistance threshold of unaffected individuals.</li>
+<li><strong>Procedure:</strong> D-Class personnel instructed to interact with SCP-37408 subject in a controlled environment.</li>
+<li><strong>Result:</strong> After 35 minutes, the D-Class personnel exhibited initial signs of snigger fatigue. By 55 minutes, subject requested termination of experiment due to intense psychological distress.</li>
+<li><strong>Note:</strong> Shortened interaction times are recommended for future experiments.</li>
+</ul>
+<h4>Experiment 37408-B</h4>
+<ul>
+<li><strong>Objective:</strong> To determine if emotional detachment affects susceptibility.</li>
+<li><strong>Procedure:</strong> D-Class personnel with diagnosed antisocial personality disorder were exposed to SCP-37408 subjects.</li>
+<li><strong>Result:</strong> No significant delay in onset of snigger fatigue symptoms. SCP-37408 appears to penetrate even significant emotional barriers.</li>
+<li><strong>Note:</strong> Research into the cognitive aspects of susceptibility is warranted.</li>
+</ul>
+<h4>Experiment 37408-C</h4>
+<ul>
+<li><strong>Objective:</strong> To explore the efficacy of pharmaceutical intervention.</li>
+<li><strong>Procedure:</strong> Administration of various anxiolytic and antidepressant medications to D-Class personnel prior to exposure.</li>
+<li><strong>Result:</strong> Medications had negligible effect on the rate of symptom progression.</li>
+<li><strong>Note:</strong> SCP-37408's psychological effects seem to bypass typical neurochemical pathways.</li>
+</ul>
+<h3>Addendum 3: Incident Report 37408-7</h3>
+<p>On ██/██/20██, an undetected SCP-37408 subject was inadvertently introduced to a crowded event at Site-██. Within two hours, numerous cases of snigger fatigue were identified among both staff and civilian attendees, resulting in a localized outbreak of SCP-37408 symptoms. The site was placed in lockdown, and the event became a critical learning opportunity for better identification and rapid response protocols. Affected individuals were quarantined, and after rigorous amnestic treatment and psychological care, the spread of SCP-37408 was successfully halted. This incident led to the development of MTF Pi-8 and improved containment techniques.</p>
+
+    </div>
+    
