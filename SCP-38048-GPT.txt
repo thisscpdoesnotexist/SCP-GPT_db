@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-38048 is   a R25 Bomber resembling a B52 Bomber but with massive alterations. The cockpit is completely empty and won’t respond to any regular communication. The SCP foundation at Site-34 have tried containing it but SCP 10,092-1, but failed. </h3> </center>
+
+    <h3>Item #: SCP-38048 - "Ghost Aviator"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-38048-GPT.png" alt="Illustration of SCP-38048" />
+        
+<h3>Description:</h3>
+<p>SCP-38048 is an anomalous aircraft superficially resembling a B-52 Stratofortress. SCP-38048 exhibits extensive external and internal modifications that are not consistent with any known iterations or prototypes related to the B-52 series or any other aircraft. The most significant alteration is within the cockpit, which is entirely devoid of any control systems or instrumentation typically present in an aircraft of its size and presumed complexity.</p>
+<p>SCP-38048 is capable of autonomous flight and displays a level of maneuverability that exceeds the known capabilities of similar aircraft. The craft has been observed to phase through solid matter, suggesting it is non-corporeal or possesses the ability to become such at will. Attempts to establish communication with SCP-38048 have been met with silence or, on occasion, cryptic and seemingly disjointed phrases that are currently under analysis.</p>
+<p>SCP-38048 has been linked to several aerial disappearances and incidents and appears to be attracted to areas of high military engagement or historical aerial combat. It is hypothesized that the craft may be piloted by an unknown entity or entities, designated as SCP-38048-1, that refuse or are unable to communicate through conventional means.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its elusive nature and ability to phase through physical barriers, SCP-38048 cannot be contained by conventional means. Site-34 has been tasked with overseeing the tracking and confinement efforts associated with the anomaly.</p>
+<ol>
+<li>A designated fleet of unmanned aerial vehicles (UAVs) equipped with specialized tracking and surveillance equipment is to monitor for manifestations of SCP-38048 around the clock.</li>
+<li>SCP-38048 is to be intercepted using remote disruption techniques, including EMF scrambling and reality anchoring beams, developed by the SCP Foundation's Department of Extraphysical Anomalies.</li>
+<li>In the event of an encounter with SCP-38048, personnel are instructed to maintain a safe distance and to avoid direct engagement unless expressly ordered by Site Command.</li>
+<li>Any and all communication attempts by SCP-38048 are to be recorded, transcribed, and analyzed by the Linguistics and Cryptography Unit at Site-34.</li>
+<li>In the scenario that SCP-38048 becomes hostile or a risk to public exposure, Protocol Sky Chain is to be enacted, calling for immediate misinformation campaigns and, if required, the deployment of the Foundation's aerial counter-anomaly forces.</li>
+</ol>
+<h3>Addendum 1: Incident Log 38048-A</h3>
+<h4>Incident 38048-A1:</h4>
+<p>On 20██-██-██, SCP-38048 was observed over ██████, a region with historical significance related to World War II air battles. The object entered a dogfight simulation exercise being conducted by the local air force and disrupted the event. Two aircraft were lost with SCP-38048's involvement. Amnestics were administered, and a cover story was disseminated to mask the true nature of the event.</p>
+<h4>Incident 38048-A2:</h4>
+<p>On 20██-██-██, an attempt to contain SCP-38048 utilizing SCP-10192-1 (a reality-anchoring device) was made. SCP-38048 responded with unprecedented levels of aggression, initiating attack patterns against Site-34, leading to significant structural damage and casualties within the facility. SCP-38048 eventually dematerialized and eluded containment. The use of SCP-10192-1 was discontinued, and its parameters were revised for future containment efforts.</p>
+<h3>Addendum 2: Experiment Log 38048</h3>
+<h4>Experiment 38048-E1: Remote Communication Attempt</h4>
+<p><strong>Procedure</strong>: A remotely piloted vehicle was sent within proximity of SCP-38048 to attempt to communicate using various radio frequencies and patterns.
+<strong>Results</strong>: SCP-38048 remained unresponsive until frequencies matching those from WWII-era communication equipment were used. SCP-38048 broadcasted the message "RETURN TO FORMATION" before accelerating and vanishing from radar.</p>
+<h4>Experiment 38048-E2: Reality Anchoring</h4>
+<p><strong>Procedure</strong>: Reality anchors were deployed around Site-34 in anticipation of SCP-38048's reappearance.
+<strong>Results</strong>: SCP-38048 managed to avoid all anchored areas, confirming that it is capable of seeking out and evading these countermeasures.</p>
+<h4>Experiment 38048-E3: High-Energy Laser Engagement</h4>
+<p><strong>Procedure</strong>: A high-energy laser was directed at SCP-38048 to assess potential effects on its incorporeal phase.
+<strong>Results</strong>: When targeted by the laser, SCP-38048 shifted to a corporeal state, absorbing the energy without apparent damage. A voice was recorded by the weapon system stating, "CAN'T SHAKE HIM." SCP-38048 then returned to an incorporeal state and departed.</p>
+<h3>Addendum 3: Recovered Communication Logs</h3>
+<p>Transcripts of the fractured communications originating from SCP-38048 have begun to form coherent patterns. Many messages are indicative of the experiences of WWII bomber crews, though no direct historical links have been confirmed. These communications are composed of phrases such as "SKIES ARE CLEAR" and "BANDITS, TEN O’CLOCK HIGH."</p>
+<p>Efforts to understand and engage with the presumed consciousness of SCP-38048 continue, with the aim of eventually pacifying or leading the entity to voluntary containment.</p>
+
+    </div>
+    
