@@ -1,0 +1,39 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-38047 is  is a dead scp </h3> </center>
+
+    <h3>Item #: SCP-38047 - "The Silenced Sentinel"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-38047-GPT.png" alt="Illustration of SCP-38047" />
+        
+<h3>Description:</h3>
+<p>SCP-38047, known as "The Silenced Sentinel," was a humanoid entity approximately 2.3 meters in height, with a vague and shifting appearance that seemed to simultaneously embody many cultural depictions of guardian figures. It was observed to possess a range of anomalous abilities, including reality alteration, spatial manipulation, and ontokinetic effects, which it utilized exclusively for the protection and maintenance of global normalcy and containment of other SCP entities.</p>
+<p>Originally discovered in a dormant state within an underground chamber beneath the ruins of an ancient temple in [REDACTED], SCP-38047 was theorized to have been a safeguard put in place by a prehistoric civilization with advanced knowledge of anomalous phenomena.</p>
+<p>Prior to its demise, SCP-38047 demonstrated a sentient and cooperative nature, communicating in a non-verbal, telepathic manner with Foundation personnel. It seemed to prioritize the prevention of existential threats and would activate from its dormant state when such dangers became imminent.</p>
+<p>The entity met its demise during Incident 38047-Omega, in which it sacrificed itself to prevent a XK-class end-of-the-world scenario involving multiple SCP objects breaching containment simultaneously. SCP-38047's actions not only successfully reverted the world to a state prior to the potential catastrophe but resulted in its own destruction.</p>
+<h3>Special Containment Procedures:</h3>
+<p>As SCP-38047 is deceased, containment procedures are no longer focused on the entity itself but rather on the preservation and study of its remains and habitat. SCP-38047's chamber is to be kept under constant surveillance, and access is strictly limited to Level 4 personnel and above. The chamber has been transformed into a high-security research facility, codenamed Site-38047, where SCP Foundation researchers continue to study artifacts, writings, and residual energies present to understand the full extent of SCP-38047's abilities.</p>
+<p>All research and experiments concerning SCP-38047 are to be logged and reviewed by the Overseer Council. Any attempt to recreate, resurrect, or utilize remaining SCP-38047 energies for the purpose of containment or reality alteration is prohibited without unanimous approval from the Overseer Council.</p>
+<h3>Addendum 1: Incident 38047-Omega Report</h3>
+<h4>Subsection 1: Event Summary</h4>
+<p>During a catastrophic breach event, multiple Keter and Euclid class SCPs escaped containment, leading to widespread destruction and potential reality compromise. SCP-38047 was activated and engaged the anomalies. Witnesses reported seeing the entity emit a blinding light before the world seemingly 'reset' to a point 24 hours prior to the breach, with no trace of SCP-38047 left behind.</p>
+<h4>Subsection 2: Repercussions</h4>
+<p>Post-incident analysis revealed no memory of the event among affected personnel and the general population. However, Foundation forensics and deep-time analysis confirmed that the incident did occur and was reverted by SCP-38047's intervention. Its self-destructive mechanism remains a subject of intense research.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 38047-E1</h4>
+<p><strong>Objective:</strong> To understand the extent of SCP-38047's dormant reactivation capabilities.
+<strong>Procedure:</strong> Introduce a contained, minimal-threat SCP entity into SCP-38047's chamber to observe response.
+<strong>Result:</strong> SCP-38047 did not reactivate. It appears that its protective responses were reserved for significant existential threats.</p>
+<h4>Experiment 38047-E2</h4>
+<p><strong>Objective:</strong> To elicit a proactive containment response from SCP-38047.
+<strong>Procedure:</strong> A simulated breakout of an SCP object was enacted.
+<strong>Result:</strong> SCP-38047 briefly manifested signs of activity but did not fully reawaken. Researchers concluded that SCP-38047 was capable of distinguishing simulated threats from real ones.</p>
+<h3>Addendum 3: Memorial and Legacy</h3>
+<h4>Subsection 1: SCP-38047 Monument</h4>
+<p>A monument has been erected at Site-38047 in honor of SCP-38047's sacrifice. Its image has been adopted as a symbol of hope and resilience within the Foundation.</p>
+<h4>Subsection 2: Continued Research</h4>
+<p>Continuous research is underway to unravel the origins of SCP-38047 and the mechanisms behind its reality-altering sacrifice. Efforts include in-depth studies of the surrounding temple ruins and interpretation of glyphs that may provide insights into the creation and purpose of "The Silenced Sentinel."</p>
+
+    </div>
+    
