@@ -1,0 +1,51 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-38049 is  an SCP that used to train SCP-38047, but due to the recent incident, this has been refocused on the new SCP-38047-1 and it's containment and research. This has caused multiple close calls for SCP-38048 </h3> </center>
+
+    <h3>Item #: SCP-38049 - "The Mentor's Echo"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-38049-GPT.png" alt="Illustration of SCP-38049" />
+        
+<h3>Description:</h3>
+<p>SCP-38049 is a spectral entity resembling a middle-aged human male wearing a dated suit, visually corresponding to styles from the mid-20th century. Its appearance is consistent with photographs of Dr. ███████ █████, a former Foundation researcher specializing in parapsychology, who was involved in early training programs for various SCP entities. SCP-38049 possesses extensive knowledge of anomalous entities and their containment procedures.</p>
+<p>SCP-38049 exhibits guardian-like behavior toward containment personnel and has, on numerous occasions, provided critical advice during containment breaches, leading to its initial classification as Thaumiel. This entity is capable of limited telekinesis, phasing through solid matter, and telepathic communication with individuals within a 10-meter radius.</p>
+<p>The reclassification to Euclid occurred following an incident involving SCP-38047, a previously contained cognitohazardous entity. SCP-38047 underwent a transformative event, resulting in the creation of SCP-38047-1, a more volatile and less comprehensible iteration. SCP-38049's attempts to aid in the subsequent containment of SCP-38047-1 resulted in multiple near-breaches and unpredictable behavior from SCP-38049. The current hypothesis proposes that SCP-38049's guidance programs and protocols, initially effective, are now obsolete and possibly detrimental due to SCP-38047-1's altered state.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-38049 is contained within a modified humanoid containment chamber located at Site-██. The chamber's walls are embedded with a continuous circuit of copper and silver to disrupt its ability to phase through barriers. An array of electromagnetic field generators operates at all times around the perimeter of the chamber to further inhibit SCP-38049's movement.</p>
+<p>Two Level 3 personnel with backgrounds in psychology and parapsychology are to communicate with SCP-38049 bi-weekly to assess its knowledge of SCP-38047-1 and to re-evaluate its understanding of current containment methodologies. Personnel are advised to remain skeptical of SCP-38049's advice until it has been rigorously vetted by the SCP-38047-1 containment team.</p>
+<p>SCP-38049's chamber is under constant surveillance. Any deviations from its standard behavior patterns are to be reported immediately to the Site Director and the SCP-38047-1 containment team.</p>
+<p>Due to SCP-38049's history with SCP-38047-1, interactions between the two entities are strictly forbidden unless approved for testing purposes by at least two personnel with Level 4 clearance or higher.</p>
+<h3>Addendum 1: Transformation Incident Log of SCP-38047 to SCP-38047-1</h3>
+<h4>Incident Report 38047-A1:</h4>
+<p>Date: ██/██/20██</p>
+<p>SCP involved: SCP-38047, SCP-38049</p>
+<p>Event Summary:
+SCP-38047 underwent an unexpected metamorphosis, triggered by an undetermined stimulus, resulting in its transformation into SCP-38047-1. SCP-38049 manifested in the containment area shortly after and attempted to apply standard pacification protocols. The entity's intervention proved ineffective, leading to a containment breach that lasted approximately 2.4 hours before SCP-38047-1 was re-contained.</p>
+<p>Casualties: 3 Foundation personnel (Deceased), 8 Injured</p>
+<p>It was at this time that SCP-38049 was reclassified from Thaumiel to Euclid, as it could no longer reliably assist in containment efforts without posing a risk to personnel and overall site security.</p>
+<h3>Addendum 2: Experiment Log 38049-E1</h3>
+<h4>Experiment 38049-E1-01:</h4>
+<p>Purpose: To assess SCP-38049's adaptability to SCP-38047-1 containment protocols.</p>
+<p>Procedure: SCP-38049 was provided with updated containment procedures for SCP-38047-1 and allowed to suggest modifications.</p>
+<p>Result: SCP-38049's suggestions demonstrated a lack of understanding of SCP-38047-1's new capabilities, leading to proposals that would have resulted in additional breaches.</p>
+<h4>Experiment 38049-E1-02:</h4>
+<p>Purpose: To determine the potential for SCP-38049 offering psychological support to personnel.</p>
+<p>Procedure: D-Class personnel were allowed to interact with SCP-38049 following exposure to mild cognitohazards.</p>
+<p>Result: The presence of SCP-38049 had a measurable calming effect on the subjects, suggesting it retains value as a psychological asset.</p>
+<h3>Addendum 3: Interview Log 38049-I1</h3>
+<h4>Interview 38049-I1:</h4>
+<p>Interviewed: SCP-38049</p>
+<p>Interviewer: Dr. Yelena Petrova</p>
+<p><Begin Log></p>
+<p>Dr. Petrova: Can you explain your ongoing intentions with regards to SCP-38047-1?</p>
+<p>SCP-38049: My purpose hasn't changed. I am here to serve, to protect the Foundation and its goals. But I concede my understanding of [SCP-38047-1] is...incomplete.</p>
+<p>Dr. Petrova: Are you aware of the risks your advice has posed recently?</p>
+<p>SCP-38049: I am. It distresses me that my guidance has led to harm. This was never my intent... Perhaps I am...outdated.</p>
+<p>Dr. Petrova: Would you be willing to surrender your involvement in SCP-38047-1's containment?</p>
+<p>SCP-38049: If that is the will of the Foundation, then yes. My commitment is to your safety, not my involvement.</p>
+<p><End Log></p>
+<p>Following this interview, SCP-38049 has been restricted from engaging directly with SCP-38047-1 containment efforts. Research into updating SCP-38049's knowledge base is ongoing. SCP-38049 has been reassigned to personnel support roles under close supervision until further notice.</p>
+
+    </div>
+    
