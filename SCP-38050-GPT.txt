@@ -1,0 +1,39 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-38050 is  nude young person about 5'4" and is estimated to be 20. Tests  have shown that without the MTF googles that are for 096, you could die. it is NOT consistent with results </h3> </center>
+
+    <h3>Item #: SCP-38050 - "The Unseen Timer"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-38050-GPT.png" alt="Illustration of SCP-38050" />
+        
+<h3>Description:</h3>
+<p>SCP-38050 is a humanoid entity, approximately 5'4" in height, appearing to be in its early twenties with an androgynous physique. The entity lacks any discernible clothing and is anatomically detailed. Its skin is a pale hue, with no evidence of pigmentation. SCP-38050's face remains constantly blurred to all who observe it directly, regardless of the medium through which it is viewed (e.g., direct sighting, live video feed). Attempts to capture the entity's facial details through artistic depiction have similarly resulted in failure, with sketches and paintings spontaneously altering to render the face indistinct.</p>
+<p>Exposure to SCP-38050's face has been shown to initiate a fatal psychosomatic response in approximately 70% of instances. Subjects exposed to the entity's face reportedly experience a sense of impending doom and anxiety that escalates over a period ranging from 3 to 60 minutes, culminating in sudden cardiac arrest. The remaining 30% of subjects experience immediate and intense euphoria, followed by amnesia regarding the event. The cause of this dichotomous effect is currently unknown and under investigation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-38050 is to be contained in a standard humanoid containment cell outfitted with frosted glass to prevent inadvertent viewing of its face. Interaction with the entity is to be conducted via audio communication only. Any personnel entering SCP-38050's containment area must wear a modified version of the visual restriction goggles designed for SCP-096, which prevent direct sight while allowing peripheral navigation.</p>
+<p>Those conducting experiments on SCP-38050 must undergo psychological screening to determine their susceptibility to the entity's anomalous effects. All testing must be approved by at least two Level 4 personnel.</p>
+<p>In the event that any personnel inadvertently view SCP-38050's face, they are to be immediately quarantined, monitored for symptoms, and provided with psychological support if necessary. Should signs of the fatal response manifest, emergency medical procedures are to be initiated in an attempt to prevent cardiac arrest.</p>
+<h3>Addendum 1: Incident Report 38050-A</h3>
+<h4>Addendum 1a: Description of Incident</h4>
+<p>On [REDACTED], during a routine psychological evaluation, Dr. [REDACTED] inadvertently viewed SCP-38050's face. The observation was brief as Dr. [REDACTED] immediately recognized their error and averted their gaze. Over the following 47 minutes, Dr. [REDACTED] reported increasing anxiety and was later found collapsed in their office, having suffered a cardiac arrest. Despite the immediate medical response, resuscitation was unsuccessful. This incident has prompted the upgrade of visual restriction equipment currently in use.</p>
+<h4>Addendum 1b: Post-Incident Analysis</h4>
+<p>It remains unclear why SCP-38050's face causes such extreme psychosomatic reactions. The entity itself has shown no active aggression toward staff and, when communicated with via audio methods, has demonstrated a calm and cooperative demeanor.</p>
+<h3>Addendum 2: Experiment Log 38050-E</h3>
+<h4>Addendum 2a: Experiment E-38050-05</h4>
+<p><strong>Subject: D-9341</strong>
+<strong>Procedure:</strong> D-9341 was instructed to converse with SCP-38050 without viewing its face.
+<strong>Results:</strong> Conversation maintained for 15 minutes. D-9341 reported feelings of calmness. No long-term effects noted.</p>
+<h4>Addendum 2b: Experiment E-38050-09</h4>
+<p><strong>Subject: D-2817 (previously exposed to SCP-38050 and survived)</strong>
+<strong>Procedure:</strong> D-2817 was exposed to SCP-38050's face once again, under controlled conditions.
+<strong>Results:</strong> D-2817 exhibited immediate symptoms of euphoria, followed by amnesia as per prior exposure.</p>
+<h4>Addendum 2c: Experiment E-38050-16</h4>
+<p><strong>Subject: Two D-class personnel, one known to have a heart condition (D-4173)</strong>
+<strong>Procedure:</strong> D-4173 was exposed to SCP-38050's face while another D-class (D-9021) wearing visual restriction equipment was in the room to assist in case of a medical emergency.
+<strong>Results:</strong> D-4173 experienced a panic attack within 3 minutes and succumbed to cardiac arrest within 5 minutes of exposure. D-9021 was able to call for medical help but revival efforts were unsuccessful. D-9021 reported no adverse effects from indirect exposure.</p>
+<h3>Addendum 3: Researcher Notes</h3>
+<p>Based on the gathered data, there appears to be a correlation between an individual's psychosomatic resilience and their reaction to SCP-38050's face. It has been hypothesized that existing psychological or cardiac vulnerabilities may amplify the entity's effect, leading to the fatal response observed in some cases. Further research is ongoing to understand and potentially inoculate against these effects. SCP-38050's enigmatic capacity to evoke such disparate reactions remains a priority for investigation by Foundation scientists.</p>
+
+    </div>
+    
