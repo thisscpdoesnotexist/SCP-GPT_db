@@ -1,0 +1,51 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-38051 is  "a...a, i can't think. you know what, i'll leave this for tomorrow" this is one of the effects of this SCP. i can't bediscript to to the nature of the SCP. </h3> </center>
+
+    <h3>Item #: SCP-38051 - "Procrastination's Eclipse"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-38051-GPT.png" alt="Illustration of SCP-38051" />
+        
+<h3>Description:</h3>
+<p>SCP-38051 is an anomalous cognitive phenomenon that primarily affects individuals in a state of decision-making or when attempting to perform tasks requiring concentration and diligence. The anomaly manifests when an individual, henceforth referred to as the subject, engages in activity that necessitates focused attention or decisive action. Upon commencement, SCP-38051 induces a state of overwhelming procrastination, mental fog, and an inexplicable compulsion to defer the task indefinitely. Subjects report an inability to think clearly, a pervasive feeling of lethargy, and a distorted perception of time, leading to postponed or abandoned tasks.</p>
+<p>Affected individuals also exhibit a temporary degradation of linguistic capability, struggling to articulate thoughts and often leaving sentences incomplete or nonsensical, as is reflected in the item title. Notably, this effect is only present when discussing, planning, or contemplating the deferred task and does not impact general communication.</p>
+<p>The influence of SCP-38051 has been observed in varying degrees, suggesting that susceptibility to its effects may be a function of individual willpower or psychological resilience. While typically short-lived, lasting from several minutes to a few hours, there have been cases of prolonged exposure resulting in severe procrastination, lasting days or even weeks. In such cases, subjects were observed abandoning not only the initial task but virtually all productive activity.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-38051 does not possess a physical form or location; thus, traditional containment is not feasible. Instead, containment efforts focus on managing the dissemination of SCP-38051 and mitigating its effects. The following measures have been established:</p>
+<ol>
+<li>Web crawlers are deployed to monitor for patterns of behavior and communication consistent with SCP-38051 exposure.</li>
+<li>Amnestic treatment is available for subjects severely affected by SCP-38051, particularly Foundation personnel.</li>
+<li>Public awareness campaigns subtly promoting time management and anti-procrastination techniques are maintained to combat the spread and impact of SCP-38051.</li>
+<li>Foundation-operated self-help forums and support groups are provided for individuals exhibiting symptoms, where they may receive covert assistance and monitoring.</li>
+<li>Research into psychological countermeasures and potential antidotes for SCP-38051 is ongoing.</li>
+</ol>
+<p>Afflicted Foundation personnel are to be temporarily relieved of duties, referred to psychological assessment, and may be administered Class-C amnestics if standard decontamination procedures prove ineffective.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-38051 came to the Foundation's attention during a spike in online communities reporting extreme procrastination and associated linguistic degradation, which correlated with durations known to have been impacted by SCP-38051. Following interviews and analysis, a pattern emerged, isolating the phenomenon to a specific set of conditions. Individuals with a predisposition to procrastination were especially vulnerable, with cases emerging globally, transcending cultural and linguistic boundaries.</p>
+<h3>Addendum 2: Experiment Log 38051-A</h3>
+<h4>Experiment 38051-A1</h4>
+<ul>
+<li><strong>Subject</strong>: D-89312</li>
+<li><strong>Procedure</strong>: Subject instructed to complete a complex jigsaw puzzle within a four-hour limit.</li>
+<li><strong>Results</strong>: After 20 minutes, subject complained of a headache and expressed desire to "do it later." At the 35-minute mark, subject's communication became disjointed, and the task was abandoned shortly after. Memory of the task remained, but the subject could not articulate reasons for discontinuation.</li>
+</ul>
+<h4>Experiment 38051-A2</h4>
+<ul>
+<li><strong>Subject</strong>: D-78149</li>
+<li><strong>Procedure</strong>: Subject instructed to write a detailed report on the behavioral patterns of another SCP entity.</li>
+<li><strong>Results</strong>: Subject demonstrated initial enthusiasm but faltered within 15 minutes. Communication became repetitive, using phrases like "I can't think" and "Maybe tomorrow." Subject left the task unfinished and was found to have wandered off to the facility's recreational area.</li>
+</ul>
+<h4>Experiment 38051-A3</h4>
+<ul>
+<li><strong>Subject</strong>: D-56104 (Noted for high personal motivation)</li>
+<li><strong>Procedure</strong>: Subject tasked with solving an advanced mathematical problem known to be within their capability.</li>
+<li><strong>Results</strong>: Subject remained unaffected for 1 hour before displaying symptoms of SCP-38051. After 1.5 hours, the subject became distressed at the inability to progress and requested termination of the experiment. Later reported feeling as though "mentally wading through tar."</li>
+</ul>
+<p>Subsequent experiments were consistent in their results, establishing a clear pattern of cognitive interruption and procrastination.</p>
+<h3>Addendum 3: Incident Report 38051-03</h3>
+<p>During routine testing with SCP-38051, it was inadvertently discovered that certain individuals are immune to its effects. Subject D-10423, exposed as part of Experiment 38051-A6, demonstrated no symptoms despite multiple extended sessions of task engagement. Further investigation revealed that D-10423 possesses a rare neurological condition characterized by hyperfocus and compulsivity, potentially providing a basis for immunity.</p>
+<p>This discovery has prompted the research team to explore genetic and neurological factors that may confer resistance to SCP-38051. Developments in this area could lead to new containment strategies or even preventative measures for those at risk of exposure to this and similar cognitive anomalies.</p>
+
+    </div>
+    
