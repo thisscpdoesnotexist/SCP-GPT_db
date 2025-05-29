@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-38346 is  Quetzalcoatl serpent  </h3> </center>
+
+    <h3>Item #: SCP-38346 - "The Quetzalcoatl Serpent"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-38346-GPT.png" alt="Illustration of SCP-38346" />
+        
+<h3>Description:</h3>
+<p>SCP-38346, also known as "The Quetzalcoatl Serpent," is an entity bearing close resemblance to the Mesoamerican deity Quetzalcoatl, commonly depicted as a feathered serpent. It measures approximately 70 meters in length with a wingspan of 45 meters when fully extended. SCP-38346's body is covered with iridescent, green-blue scales and feathers, emitting a faint bioluminescence.</p>
+<p>Although SCP-38346 has the capacity for verbal communication, it predominantly communicates via telepathy. Its voice possesses a soothing quality that has a calming effect on sentient beings. SCP-38346 shows a high degree of intelligence and awareness of human cultures and history, as well as an understanding of the Foundation's goals.</p>
+<p>SCP-38346 possess abilities of reality manipulation, which it can use to alter local spacetime and matter to an unknown extent. It has been observed creating localized anomalous phenomena, like reversing gravity or transforming objects into different materials. Notably, it claims to only utilize its powers to "maintain the cosmic balance" and protect Earth from extranormal threats.</p>
+<p>It was discovered within a subterranean chamber beneath the ruins of an ancient temple in [REDACTED], Mexico, during a Foundation archaeological expedition. The entity willingly cooperated with Foundation staff upon discovery and has expressed a desire to assist in the containment of other SCPs.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-38346 is contained in a large, specially constructed aviary at Site-██, designed to accommodate its size and abilities. The enclosure is to be outfitted with cultural artifacts and vegetation representative of ancient Mesoamerican civilization to maintain SCP-38346's psychological well-being.</p>
+<p>Contact with SCP-38346 is restricted to personnel possessing Level 4 security clearance or higher. At least two (2) Level 4 personnel with a firm background in Mesoamerican history and fluent in Nahuatl are to be on site for communicative purposes.</p>
+<p>Given SCP-38346's cooperative nature and utility, it is currently classified as Thaumiel and is to be utilized for the aid in containment of other SCP entities that require unconventional approaches or exhibit reality-altering properties. Use of SCP-38346's abilities is subject to approval by the O5 Council.</p>
+<p>SCP-38346 requires no physical sustenance but engages in a weekly ritual that it describes as "spiritual nourishment." This ritual consists of complex aerial maneuvers and hierophantic chanting in the Nahuatl language.</p>
+<h3>Experiment Log:</h3>
+<h4>Experiment 38346-A:</h4>
+<p><strong>Objective:</strong> To determine the extent of SCP-38346's reality manipulation abilities.</p>
+<p><strong>Procedure:</strong> SCP-38346 was presented with a 1 cubic meter block of solid tungsten and was asked to transform it into an equal volume of water.</p>
+<p><strong>Result:</strong> SCP-38346 complied, the block began glowing, and over a period of seven (7) minutes, it transformed into water at room temperature. No adverse effects on nearby reality were detected.</p>
+<h4>Experiment 38346-B:</h4>
+<p><strong>Objective:</strong> To test SCP-38346's ability to manipulate spacetime.</p>
+<p><strong>Procedure:</strong> A D-Class personnel was instructed to walk towards SCP-38346, starting at 150 meters away. SCP-38346 was asked to extend the distance between itself and the test subject without altering the aviary's physical dimensions.</p>
+<p><strong>Result:</strong> The D-Class personnel reported a sensation of lengthened time and space. What was initially a 2-minute walk extended into an approximate 1-hour journey as observed by the subject. Cameras and sensors confirmed this effect did not impact the external environment.</p>
+<h3>Addendum 1: Interview Log</h3>
+<p>Dr. Morales, a leading researcher on SCP-38346, conducted a telepathic interview to explore the entity's origins and motivations. SCP-38346 describes its existence as tied to the Earth and is cryptic about its origins, hinting at a creation by a now-extinct pantheon for the purpose of safeguarding reality.</p>
+<h3>Addendum 2: Incident Report 38346-Alpha</h3>
+<p>On ██/██/20██, Site-██ experienced a containment breach involving several Keter-class SCPs. SCP-38346 played a critical role in re-establishing containment by creating localized anomalous fields that disoriented and suppressed the SCPs' abilities long enough for recovery teams to act.</p>
+<p>Following this incident, SCP-38346 received commendation, and the re-evaluation of the entity's containment privileges was discussed, emphasizing the potential as an asset for containment breach emergencies.</p>
+<h3>Addendum 3: Collaboration with SCP-38346</h3>
+<p>SCP-38346 has expressed interest in working with the Foundation to conceptualize and develop specialized containment chambers or reality anchors. The proposal is pending consideration, with ethical implications and risk assessment being debated by the O5 Council.</p>
+<h3>Addendum 4: Project "Cintamani"</h3>
+<p>Initiated on ██/██/20██, Project "Cintamani" is a classified venture involving SCP-38346, with the goal of studying and potentially integrating its reality manipulation capabilities into advanced containment procedures. Preliminary trials have yielded promising results. Further details are Level 5 Classified and available only to personnel with proper authorization.</p>
+<p>SCP-38346 remains one of the Foundation's most valuable allies, providing insight into cosmic balance and helping to prevent potential reality collapses, all while maintaining a cooperative and benign demeanor towards humanity and its protectors.</p>
+
+    </div>
+    
