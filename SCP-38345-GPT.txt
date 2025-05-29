@@ -1,0 +1,42 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-38345 is  Quetzalcoatl serpent in abandoned mall  </h3> </center>
+
+    <h3>Item #: SCP-38345 - "Serpentine Guardian of the Forsaken Plaza"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-38345-GPT.png" alt="Illustration of SCP-38345" />
+        
+<h3>Description:</h3>
+<p>SCP-38345 is an anomalous entity bearing a visual resemblance to the mythological creature Quetzalcoatl from Aztec mythology. The entity primarily resides within the boundaries of the now-defunct ████████ Shopping Plaza located in ████████, Mexico.</p>
+<p>SCP-38345 measures approximately 50 meters in length with a wingspan of 15 meters, and it possesses a feathered serpentine body that emits a faint luminescence. Its scales exhibit a range of iridescent colors that change depending on the entity's mood and intentions. SCP-38345 has demonstrated high intelligence, telepathic abilities, and a capacity to manipulate its environment through unknown means.</p>
+<p>Notably, SCP-38345 has displayed a protective behavior towards any unauthorized individuals attempting to enter the plaza, redirecting them away from the location through either psychic influence or by manifesting physical barriers. The entity has also shown the ability to neutralize other anomalous threats, absorbing or repurposing their energies for what appears to be maintenance and protection of the plaza's structural integrity and its own sustenance.</p>
+<p>The reason for SCP-38345's occupation of the ████████ Shopping Plaza and its protective behaviors remain unknown, but it is hypothesized that the entity is bound to the location due to past cultural significance or a yet-to-be-understood anomalous event.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-38345's cooperative nature and its utility in handling other anomalous entities, the SCP Foundation has established a covert containment perimeter around the ████████ Shopping Plaza. The plaza has been officially declared unsafe for public access under the pretense of structural damage and hazardous materials.</p>
+<p>The containment area is to be monitored by no fewer than four (4) Level-3 personnel at all times, masquerading as security staff for the plaza. A minimum safe distance of 50 meters is to be maintained from SCP-38345 at all times unless direct interaction is required for containment purposes.</p>
+<p>Any interactions with SCP-38345 must be approved by at least two (2) Level-4 personnel and should be conducted by researchers with experience in telepathic communication.</p>
+<p>Given SCP-38345's Thaumiel classification, its capabilities are also being utilized to contain other SCP entities that are deemed manageable by its presence. Such operations require meticulous planning and unanimous approval from the O5 Council.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-38345 was initially discovered on ██/██/20██ after local authorities were alerted of an unusual presence within the abandoned ████████ Shopping Plaza. Several reports of 'strange lights' and 'unearthly noises' prompted an undercover SCP investigation.</p>
+<p>Upon arrival, field agents encountered SCP-38345, which reacted non-aggressively to their presence. After establishing a communication channel, SCP-38345 responded to initial questioning with cryptic references to its 'eternal duty.' The plaza was quickly secured and a preliminary containment zone was established.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 38345-A</h4>
+<p><strong>Objective:</strong> To determine SCP-38345's reaction to direct physical contact.</p>
+<p><strong>Procedure:</strong> D-Class personnel instructed to approach SCP-38345 and attempt to touch the entity.</p>
+<p><strong>Result:</strong> SCP-38345 allowed the contact, emanating a soft glow upon touch. The D-Class subject reported a sensation of warmth and calmness. No adverse effects were observed.</p>
+<h4>Experiment 38345-B</h4>
+<p><strong>Objective:</strong> To assess SCP-38345's response to potential threats.</p>
+<p><strong>Procedure:</strong> A small drone was flown towards SCP-38345, simulating an attack.</p>
+<p><strong>Result:</strong> SCP-38345 emitted intense light, causing the drone's electronics to fail before any contact was made. The entity then reabsorbed the light, and the drone gently settled to the ground, rendered inoperative.</p>
+<h4>Experiment 38345-C</h4>
+<p><strong>Objective:</strong> To explore SCP-38345's telepathic capabilities and range.</p>
+<p><strong>Procedure:</strong> A group of D-Class personnel were given varying instructions and were sent to approach SCP-38345 from multiple directions at varying distances.</p>
+<p><strong>Result:</strong> SCP-38345 managed to telepathically communicate with all subjects up to a range of 100 meters, directing them to leave the area. Beyond this range, the effect diminished rapidly.</p>
+<h3>Addendum 3: Incident Report 38345-01</h3>
+<p>On ██/██/20██, SCP-████ breached containment and was inadvertently introduced into the vicinity of SCP-38345. SCP-38345 reacted immediately, enveloping SCP-████ in light and neutralizing its anomalous properties within minutes. SCP-████ was subsequently re-contained without further incident.</p>
+<p>Following this event, SCP-38345's Thaumiel classification was confirmed, recognizing its potential as a valuable asset for containment operations. The entity has since been approached with proposals to assist in the containment of other low-risk anomalous objects, pending ongoing evaluation of its capabilities and temperament. </p>
+<p>Ongoing communication and research efforts aim to further understand SCP-38345's origins, motivations, and potential applications within the Foundation's goals while ensuring the continued safety and secrecy of its existence.</p>
+
+    </div>
+    
