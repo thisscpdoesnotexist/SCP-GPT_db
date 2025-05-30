@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-38370 is  A white void </h3> </center>
+
+    <h3>Item #: SCP-38370 - "The Blank Expanse"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-38370-GPT.png" alt="Illustration of SCP-38370" />
+        
+<h3>Description:</h3>
+<p>SCP-38370 refers to an anomaly manifesting as a spatial void that is purely white in coloration and impervious to all conventional forms of measurement. Visual witnesses describe the anomaly as resembling a tear in reality that leads to a limitless white expanse. The interior is an infinite white space with no discernible features, landmarks, or borders. Subjects entering SCP-38370 are unable to perceive any sensory information other than the uniform white color and their own body, leading to rapid-onset sensory deprivation.</p>
+<p>The boundaries of SCP-38370 fluctuate randomly in both size and location, making containment challenging. SCP-38370 seems to have a sentience or a guiding force, as its movements often avoid capture or full enclosure. Efforts to probe the anomaly with unmanned drones have resulted in the complete loss of the apparatus upon entering the expanse.</p>
+<p>Any matter that enters SCP-38370 disappears from conventional space. Data suggest that SCP-38370 does not destroy matter but displaces it to an unknown location or dimension. Communication with subjects entering SCP-38370 is severed immediately upon crossing its threshold.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-38370 is currently uncontainable due to its unpredictable nature and resistance to all known containment measures. A provisional site (Site-38370) has been established in the vicinity of the anomaly to monitor its behavior and intercept it when it materializes.</p>
+<p>A perimeter of at least 500 meters is to be established around SCP-38370's last known position with automated surveillance to alert the on-site response team. Any civilian sightings of SCP-38370 are to be dismissed as mass hysteria, and amnestics are to be administered as necessary.</p>
+<p>Site-38370 is to research potential methods of stabilizing or containing SCP-38370. Any personnel showing signs of excessive stress or desire to enter SCP-38370 is to be removed from the site immediately and subject to psychological evaluation.</p>
+<p>The use of D-class personnel for testing with SCP-38370 requires approval from at least two Level 4 personnel. Under no circumstances are staff members with a clearance level above D-class allowed to interact directly with the anomaly.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-38370 was first discovered in [REDACTED], Russia, after local media reported an 'atmospheric gap' that caused multiple disappearances. Mobile Task Force Psi-8 ("The Silencers") was dispatched to investigate and confirmed the existence of the anomaly. Witnesses were administered Class-A amnestics, and a cover story involving a flash snowstorm was disseminated.</p>
+<h3>Addendum 2: Experiment Log 38370-A</h3>
+<h4>Experiment A-01:</h4>
+<p><strong>Subject:</strong> D-3837001
+<strong>Procedure:</strong> Subject instructed to throw a GPS-tracked probe into SCP-38370.
+<strong>Result:</strong> Probe signal lost upon entering the anomaly. Subject reported no resistance when the probe crossed the boundary.</p>
+<h4>Experiment A-02:</h4>
+<p><strong>Subject:</strong> D-3837002
+<strong>Procedure:</strong> Subject instructed to enter SCP-38370 while attached to a 100-meter tether.
+<strong>Result:</strong> Tether severed at the point of entry into SCP-38370. No resistance felt by the team holding the tether.</p>
+<h4>Experiment A-03:</h4>
+<p><strong>Subject:</strong> D-3837003
+<strong>Procedure:</strong> Subject equipped with bio-monitoring equipment and instructed to enter SCP-38370 under the effect of a mild sedative.
+<strong>Result:</strong> Contact with subject and all equipment lost upon entry. Bio-monitoring data erratic prior to signal loss, indicating extreme stress or panic.</p>
+<h3>Addendum 3: Incident Report 38370-I</h3>
+<p>On [REDACTED], SCP-38370 anomalously shifted 430 meters south from its previous location, directly into Site-38370's living quarters. Twelve personnel were enveloped by the anomaly before it could be evacuated. A spatial distortion prevented the immediate rescue, and by the time the anomaly moved again, it left behind no trace of the personnel.</p>
+<p>Post-incident psychological support has been provided for the survivors, and Site-38370 has implemented emergency spatial distortion alerts to facilitate quicker responses to SCP-38370's movements.</p>
+<h3>Addendum 4: Researcher Notes</h3>
+<p>Dr. [REDACTED]'s personal log, dated [REDACTED]:</p>
+<p>"We've observed SCP-38370 for months, yet we know almost nothing about it. The deeper we delve, the stranger it gets. If something sentient is guiding this phenomenon, what's their purpose? Until we find a way to stabilize or communicate with SCP-38370, we can't predict what it might do next. For now, all we can do is wait and watch."</p>
+<p>Current research is focused on detecting patterns in SCP-38370's movements to develop prediction models. Multi-dimensional theory and paratechnology are also being applied to test the feasibility of observing or interacting with the space beyond SCP-38370's white expanse.</p>
+
+    </div>
+    
