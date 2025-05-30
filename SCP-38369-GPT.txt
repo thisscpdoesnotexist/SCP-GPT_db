@@ -1,0 +1,45 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-38369 is  The Feathered Serpent" </h3> </center>
+
+    <h3>Item #: SCP-38369 - The Feathered Serpent</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-38369-GPT.png" alt="Illustration of SCP-38369" />
+        
+<h3>Description:</h3>
+<p>SCP-38369, colloquially referred to as "The Feathered Serpent," is an anomalous entity bearing a resemblance to the Mesoamerican deity Quetzalcoatl. The entity measures approximately 15 meters in length with a wingspan of 18 meters. Its scales exhibit an iridescent property, refracting light in multiple colors, predominantly emerald-green and turquoise. Feathers are interspersed with its scales, all of which possess minor reality-warping properties.</p>
+<p>SCP-38369 is sapient, capable of speech in several languages, including Nahuatl, Spanish, English, and an unknown dialect presumed to be pre-Columbian in origin. The entity demonstrates a deep understanding of Mesoamerican culture and claims an affiliation with the preservation of equilibrium in terrestrial ecosystems. Interviews suggest SCP-38369 views itself not as a deity but as a custodian of balance, its existence tied intrinsically to the health of the planet.</p>
+<p>SCP-38369 has the ability to induce localized temporal stasis and facilitate the growth of plant life, which it uses to prevent or reverse ecological catastrophes. These abilities appear to be limited by the entity's physical and mental stamina.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-38369's cooperative nature and essential role in maintaining ecological stability, the SCP Foundation has initiated Protocol Vermis Aequilibrium. This protocol delegates containment efforts to a unit of specialized personnel, codenamed "Gardeners," who work symbiotically with SCP-38369 to identify and rectify ecological threats.</p>
+<p>SCP-38369 is housed within a specially designed arboretum at Site-112, mimicking the habitat of a Mesoamerican tropical forest. The habitat is under constant surveillance, with any deviations from expected behavior reported immediately to the Director of Site-112.</p>
+<p>Regular health assessments are conducted to ensure SCP-38369's capabilities remain unimpaired. In the event of a necessary intervention, Gardeners are to accompany SCP-38369 to the affected area, with a mobile task force on standby should complications arise.</p>
+<p>Contact with SCP-38369 is limited to Gardeners, the Site Director, and personnel with Level 4 clearance or higher. Information pertaining to SCP-38369's role in ecological preservation is classified and may only be disseminated with approval from the O5 Council.</p>
+<h3>Addendum 1: Recovery Log</h3>
+<p>SCP-38369 was first encountered by Foundation personnel in 2005 following the reversal of a devastating wildfire in the Amazon rainforest. An initial containment team was deployed, but SCP-38369 willingly accompanied them after a brief dialogue, expressing its desire to collaborate with humans to "mend the tapestry of life."</p>
+<h3>Addendum 2: Interview Log 38369-A</h3>
+<p><strong>Date:</strong> 2006-03-15
+<strong>Interviewer:</strong> Dr. Maria Gutierrez
+<strong>Subject:</strong> SCP-38369</p>
+<p><em>Transcript Excerpt:</em></p>
+<p><strong>Dr. Gutierrez:</strong> Can you tell us why you intervened in the Amazon fire?</p>
+<p><strong>SCP-38369:</strong> The flames were but a symptom. I exist to restore balance when the scales tip too far and nature's chorus falters.</p>
+<p><strong>Dr. Gutierrez:</strong> How do you determine where and when to act?</p>
+<p><strong>SCP-38369:</strong> I feel the Earth's pains, the dissonance. Much like your instruments detect imbalances, my senses alert me.</p>
+<h3>Addendum 3: Experiment Log 38369</h3>
+<h4>Experiment 38369-Epsilon-5</h4>
+<p><strong>Objective:</strong> To observe SCP-38369's ability to restore a deliberately deforested area.</p>
+<p><strong>Procedure:</strong>
+A controlled area of 1 hectare of forest was clear-cut under secure conditions. SCP-38369 was then introduced to the environment.</p>
+<p><strong>Results:</strong>
+SCP-38369 initiated a trance-like state, levitating above the ground. A noticeable shift in temperature and atmospheric pressure was recorded as new seedlings began sprouting rapidly, maturing into fully grown trees within a matter of hours.</p>
+<p><strong>Conclusion:</strong>
+SCP-38369's abilities confirm its crucial role in ecological restoration. The entity's cooperation presents significant opportunities for offsetting environmental damages caused by human activities.</p>
+<h3>Addendum 4: Ethical Considerations</h3>
+<p><strong>Date:</strong> 2009-07-07</p>
+<p>Following extensive discussions, the Ethics Committee has decreed that SCP-38369's unique capacities for ecological restoration necessitate a careful balance between utilizing its abilities for the greater good and ensuring the entity's own well-being. Exploitation of SCP-38369 could lead to unforeseen consequences, potentially nullifying its Thaumiel status. As such, Protocol Vermis Aequilibrium stresses judicious use of SCP-38369's capabilities.</p>
+<p>Measures have been implemented to analyze the potential psychological impact on SCP-38369 and to investigate means of augmenting its restorative powers without causing harm. Cooperation with SCP-38369 remains a top priority to uphold the delicate balance between SCP containment and environmental conservation.</p>
+
+    </div>
+    
