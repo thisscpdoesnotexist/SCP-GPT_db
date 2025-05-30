@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-38379 is  Quetzalcoatl Vs Godzilla  </h3> </center>
+
+    <h3>Item #: SCP-38379 - "Quetzalcoatl Vs Godzilla"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-38379-GPT.png" alt="Illustration of SCP-38379" />
+        
+<h3>Description:</h3>
+<p>SCP-38379 is a metaphysical anomaly manifesting as an ongoing conflict between two entities resembling mythological and cinematic characters: the Mesoamerican deity Quetzalcoatl and the fictional kaiju Godzilla. Manifestations of SCP-38379, referred to as SCP-38379-A (Quetzalcoatl) and SCP-38379-B (Godzilla), are observed only within a parallel dimension accessible through a portal located in [REDACTED], Mexico. These entities do not appear to physically exist in our reality but have tremendous influence on both physical and metaphysical realms.</p>
+<p>SCP-38379-A resembles the feathered serpent god associated with the creation in Aztec and other Mesoamerican cultures. SCP-38379-B closely aligns with Toho's depiction of Godzilla, circa the Heisei film era, and demonstrates similar abilities, such as atomic breath and immense physical strength.</p>
+<p>The conflict observed in SCP-38379 is cyclical and appears to be ritualistic in nature, with each bout followed by a period of dormancy that lasts for a random duration before the entities reengage. The fight scenes, as witnesses describe, transcend the limits of ordinary physics, often involving manipulation of elemental forces and reality-warping effects.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to the intangibility of SCP-38379 within our dimension, the primary containment focus is on the point of access to the otherworldly arena where SCP-38379 takes place. A secure facility has been erected around the portal, disguised as an archaeological research outpost to deter civilian interest. The facility is to be staffed by personnel with expertise in both metaphysical anomalies and Mesoamerican history and mythology.</p>
+<p>Access to the portal is strictly forbidden except during sanctioned research expeditions or testing periods, which must be authorized by no less than two Level 4 personnel. Safety measures are in place to prevent any possibility of the conflict in SCP-38379 influencing our own reality.</p>
+<p>As SCP-38379 is classified Thaumiel, the Foundation employs the phenomenon for the purpose of negating or counterbalancing other SCP entities that pose a significant threat to global or universal security. Staff are reminded that SCP-38379, while useful in this regard, represents a volatile and unpredictable force. Its use in Foundation strategies must be calculated with the utmost caution.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-38379 was first discovered after several anomalous events took place in the vicinity of the portal location, originally mistaken by local civilians for scenes from a movie production or a complex holographic display. Foundation agents embedded in the Mexican government were alerted to the disturbances and subsequently secured the site.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 38379-01:</h4>
+<p><strong>Objective:</strong> To determine the effect of introducing non-native objects into the conflict arena.
+<strong>Procedure:</strong> A remote-controlled drone carrying a standard-issue Foundation camera and several testing instruments was flown through the portal.
+<strong>Results:</strong> Instruments read wild fluctuations in thermodynamic and gravitational constants. The drone was destroyed by an accidental tail swipe from SCP-38379-B.
+<strong>Analysis:</strong> SCP-38379's realm operates under physical laws markedly different from our own.</p>
+<h4>Experiment 38379-02:</h4>
+<p><strong>Objective:</strong> To test whether the entities in SCP-38379's realm can perceive and interact with human observers.
+<strong>Procedure:</strong> D-Class personnel, equipped with protective gear and a live-feed video camera, was sent through the portal.
+<strong>Results:</strong> Personnel successfully entered the dimension and was aware of the SCP-38379 entities. The entities did not engage or acknowledge the human presence during the bout. Personnel safely returned after 10 minutes.
+<strong>Analysis:</strong> SCP-38379 entities seem focused exclusively on their conflict, ignoring other forms of life entirely.</p>
+<h4>Experiment 38379-03:</h4>
+<p><strong>Objective:</strong> To introduce another anomalous entity into SCP-38379's dimension to observe potential interactions.
+<strong>Procedure:</strong> SCP-[REDACTED], a small, non-hostile anomalous entity, was introduced to the dimension under heavy supervision.
+<strong>Results:</strong> SCP-[REDACTED] became highly agitated and evasive. SCP-38379-A seemed momentarily curious and diverted its attention towards SCP-[REDACTED], causing a pause in the ongoing conflict. SCP-38379-B regarded the new entry as a threat and attacked it, prompting immediate retrieval of SCP-[REDACTED].
+<strong>Analysis:</strong> The entities can distinguish anomalous presences and may respond defensively. Introduction of other SCPs into SCP-38379's realm is indefinitely suspended due to risk of collateral harm and threat escalation.</p>
+<h3>Addendum 3: Implications for Thaumiel Application</h3>
+<p>Assessment by Dr. [REDACTED] and the Thaumiel Research Committee has suggested potential utility in leveraging SCP-38379's conflict for the mitigation of Keter and Apollyon class SCPs. Current proposals include the redirection of reality-warping effects from SCP-38379 towards these threats. However, experiments involving direct engagement are on hold until a dependable method of control over SCP-38379-A and SCP-38379-B is developed.</p>
+
+    </div>
+    
