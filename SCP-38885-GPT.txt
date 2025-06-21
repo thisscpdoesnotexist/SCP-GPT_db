@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-38885 is  SCP-38885 es un objeto astronómico anómalo conocido como Agujero Blanco Sagitario. Se encuentra en el espacio intergaláctico, entre la Vía Láctea y Andrómeda, y se encuentra conectado con Sagitario A. </h3> </center>
+
+    <h3>Item #: SCP-38885 - "The Sagittarius Paradox"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-38885-GPT.png" alt="Illustration of SCP-38885" />
+        
+<h3>Description:</h3>
+<p>SCP-38885 is an astronomical anomaly referred to as the Sagittarius White Hole. Unlike its theoretical counterpart, the black hole, SCP-38885 emits matter and energy, seemingly violating the known laws of physics. Estimates place SCP-38885 at approximately 0.5 light-years in diameter, though this is subject to change due to the unpredictable nature of its emissions.</p>
+<p>SCP-38885's energy output is relatively stable, suggesting a controlled process behind its activity. However, what differentiates SCP-38885 from a standard astronomical white hole is its apparent connection to Sagittarius A<em>, the supermassive black hole at the center of our galaxy. Data collected indicates that there is a form of quantum entanglement between the two, with matter entering Sagittarius A</em> occasionally being expelled from SCP-38885 in an altered state.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given the astronomical nature of SCP-38885, physical containment is impossible. However, the SCP Foundation has implemented an information control and monitoring protocol to maintain an observational perimeter around the phenomenon. The protocol includes:</p>
+<ol>
+<li>Ongoing collaboration with major space agencies under the guise of a joint observational research program to monitor SCP-38885.</li>
+<li>Suppression of any information related to SCP-38885 that may leak into public or scientific communities, via misinformation campaigns and the amnesticization of unauthorized individuals.</li>
+<li>Regular updates to the Foundation's astronomical databases and predictive models, developed in collaboration with Foundation AI, to maintain readiness for any significant changes in SCP-38885's behavior.</li>
+</ol>
+<h3>Addendum 1: Incident Report 38885-Alpha</h3>
+<h4><strong>Date:</strong> 20██-██-██</h4>
+<h4><strong>Incident:</strong> A burst of high-energy particles was detected emanating from SCP-38885. These particles corresponded with a similar emission profile recorded during a solar flare from our sun that occurred weeks prior. The likelihood of it being a coincidence was deemed negligible.</h4>
+<h3>Addendum 2: Research Log 38885-Beta</h3>
+<h4><strong>Experiment Log 38885-Beta-01:</strong></h4>
+<p><strong>Objective:</strong> To test the hypothesis that SCP-38885 is directly linked to Sagittarius A<em> by sending a probe with Foundation-designed quantum entanglement detectors.
+</em><em>Results:</em><em> The probe ceased transmission upon approaching a distance of 0.1 light-years to SCP-38885. However, before transmission was lost, data indicated a spike in entanglement particles identical to those found around Sagittarius A</em>.</p>
+<h4><strong>Experiment Log 38885-Beta-02:</strong></h4>
+<p><strong>Objective:</strong> Following the first experiment, a second probe was sent to scan the surrounding space for potential wormhole or Einstein-Rosen Bridge signatures that could explain the link between SCP-38885 and Sagittarius A<em>.
+</em><em>Results:</em>* The probe found spatial distortions consistent with theoretical wormhole signatures, but before a return transmission could be completed, contact was lost in a similar fashion to the previous probe.</p>
+<h4><strong>Experiment Log 38885-Beta-03:</strong></h4>
+<p><strong>Objective:</strong> A remotely operated drone was tasked with collecting samples of the emitted matter for analysis.
+<strong>Results:</strong> Success. The matter expelled from SCP-38885 appears to be a mix of known and unknown elements, with some displaying properties that challenge our understanding of chemistry. Further analysis is ongoing.</p>
+<h3>Addendum 3: Audio Log Transcript 38885-Gamma</h3>
+<p><strong>Date:</strong> 20██-██-██
+<strong>Details:</strong> An unexplained audio signal was captured by Foundation deep space monitors. The signal was a series of rhythmic pulses that, when decoded, revealed a message in ancient Sumerian. The message roughly translates to: "The cycle continues. The gateway breathes."</p>
+<h3>Addendum 4: Forward Projection Analysis</h3>
+<p>Foundation astrophysicists, together with an advanced prediction algorithm, have modeled several potential futures concerning SCP-38885. While most projections indicate a stable pattern for the foreseeable future, a minority report suggests that SCP-38885 could undergo a cataclysmic event resulting in drastic changes to local space-time. Contingency plans, including the possible need for mass amnestic distribution and disinformation campaigns on a global scale, have been drafted in preparation for such an outcome.</p>
+
+    </div>
+    
