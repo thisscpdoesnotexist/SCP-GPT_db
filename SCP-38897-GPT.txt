@@ -1,0 +1,35 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-38897 is  Quetzalcoatl </h3> </center>
+
+    <h3>Item #: SCP-38897 - "Quetzalcoatl's Covenant"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-38897-GPT.png" alt="Illustration of SCP-38897" />
+        
+<h3>Description:</h3>
+<p>SCP-38897 is an entity displaying attributes characteristic of Mesoamerican mythological representations of Quetzalcoatl, the feathered serpent deity. The entity manifests as a colossal serpentine creature with vibrant plumage, spanning approximately 70 meters in length. SCP-38897 possesses extraordinary regenerative abilities, high resistance to physical damage and advanced cognitive abilities, including telepathic communication and limited precognitive vision.</p>
+<p>SCP-38897 is sentient and demonstrates a willingness to cooperate with the Foundation under certain conditions that align with its own enigmatic motivations. Its presence appears to be linked to the stability of local ecosystems, contributing to an increased biodiversity and environmental rejuvenation in regions it inhabits. However, SCP-38897 can additionally cause localized temporal anomalies, leading to the occurrence of flora and fauna native to various historical periods, in some cases, stemming from the Cretaceous period.</p>
+<p>SCP-38897's regenerative tissue samples exhibit anomalous properties, including rapid cellular regeneration and adaptability. These samples, designated SCP-38897-A, have become instrumental in the Foundation's efforts to develop advanced medical treatment procedures for personnel and in containing other SCPs that pose an existential threat to global ecosystems.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to SCP-38897's cooperative nature and beneficial environmental impact, the Foundation has opted for an atypical containment approach. A cordoned no-fly zone and a 50-kilometer exclusion perimeter have been established around its known habitat in the [REDACTED] rainforest. Warning signs and disinformation campaigns are in place to discourage unauthorized entry.</p>
+<p>Foundation personnel embedded within local government and environmental groups monitor the region, ensuring SCP-38897's presence remains concealed from the public. A research outpost, Outpost-38897, has been constructed at the perimeter's edge to facilitate the study of SCP-38897 and management of its effects.</p>
+<p>Due to the temporal anomalies produced by SCP-38897, a Temporal Anomalies Department subunit has been assigned to Outpost-38897 to research and contain any temporal shifts or incursions of out-of-period organisms.</p>
+<p>Extraction and research on SCP-38897-A samples must be approved by no less than two Level 4 personnel. Samples are to be transported and stored under maximum biological containment protocols to prevent unauthorized use or proliferation.</p>
+<p>In the event of a containment breach or hostile action towards SCP-38897, Mobile Task Force Lambda-5 ("White Serpents") is to be deployed to ensure its protection and re-establish containment through non-lethal means.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-38897 was first encountered by Foundation agents following reports of a "walking jungle" rapidly regenerating deforested areas in [REDACTED]. Satellite imagery confirmed the anomalous growth patterns, prompting an investigative expedition. Initial contact with SCP-38897 resulted in the loss of three agents but also revealed the entity's capacity for telepathic communication. Subsequent dialogues established SCP-38897's benign intentions and led to an agreement of mutual assistance, forming the basis of current containment measures.</p>
+<h3>Addendum 2: Incident Log</h3>
+<h4>Incident 38897-1:</h4>
+<p>A temporal anomaly event occurred on ██/██/████, resulting in the appearance of several prehistoric species within the exclusion perimeter. SCP-38897 was observed enacting a containment procedure of its own devising, corralling the entities into a localized area and reversing the anomaly. Two researchers were temporarily displaced in time but were returned unharmed after the anomaly's collapse.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 38897-A:</h4>
+<p>The application of SCP-38897-A samples to subjects with terminal illnesses resulted in complete remission, suggesting possible medical applications. However, a minority of subjects began manifesting anomalous abilities related to local ecosystem manipulation. Further research is pending on these secondary effects.</p>
+<h4>Experiment 38897-B:</h4>
+<p>Researchers conducted tests to determine if SCP-38897-A could assist in the recontainment of other SCP entities. Results were promising, with significant reductions in containment breach occurrences within test sites implanted with SCP-38897-A biomass. One SCP, previously classified as Keter, has since been reclassified as Euclid due to reduced hostility and a stabilized containment situation.</p>
+<h3>Addendum 4: SCP-38897's Telepathic Communications</h3>
+<p>On multiple occasions, SCP-38897 has communicated with Foundation personnel, dispensing advice and warnings about forthcoming ecological threats. The entity has expressed concern over "disruptions in the balance" and has requested assistance in countering these disruptions. Such communications have led to the successful thwarting of several ecological catastrophes, seemingly unrelated to anomalous activities.</p>
+<p>These events have deepened the Foundation's understanding of SCP-38897's global ecological impact, and ongoing dialogues continue to aid in understanding and leveraging its anomalies for the betterment of Earth's environment and the containment of other SCP entities.</p>
+
+    </div>
+    
