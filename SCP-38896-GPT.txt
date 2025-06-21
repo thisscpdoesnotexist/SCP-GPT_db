@@ -1,0 +1,41 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-38896 is  quetzalcoatl serpent </h3> </center>
+
+    <h3>Item #: SCP-38896 - "Quetzalcoatl's Legacy"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-38896-GPT.png" alt="Illustration of SCP-38896" />
+        
+<h3>Description:</h3>
+<p>SCP-38896, colloquially known as "Quetzalcoatl's Legacy," is an anomalous entity resembling a feathered serpent that closely aligns with descriptions of the Mesoamerican deity Quetzalcoatl. The entity measures approximately 15 meters in length and is capable of flight without the need for visible wing flapping. SCP-38896 has displayed sapience and communicates via a combination of telepathy and a complex series of hisses.</p>
+<p>SCP-38896 exhibits reality-altering properties; primarily, it is capable of 'cleansing' certain anomalous items and entities of their hazardous effects without destroying them. This has made it invaluable in reclassifying anomalous objects that were previously deemed unsafe for study or containment.</p>
+<p>Initial encounters with SCP-38896 were hostile; however, through sustained communication and offering of various items significant to Mesoamerican culture, SCP-38896 now cooperates with the Foundation to maintain global normalcy.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Given SCP-38896's cooperative nature and its unique role in the containment and potential neutralization of other SCPs, the entity is housed within a specially constructed aviary located at Site-██. The aviary simulates a Mesoamerican temple environment, complete with a micro-ecosystem that includes flora and fauna native to Central America.</p>
+<p>Staff interacting with SCP-38896 are required to undergo rigorous cultural sensitivity training focusing on Mesoamerican history and religious practices. In addition, SCP-38896 is provided with offerings of jade, quetzal feathers, and handcrafted gold ornaments twice monthly to maintain its collaborative relationship with the Foundation.</p>
+<p>SCP-38896's containment area is surrounded by a Scranton Reality Anchor to prevent any unintended alterations to baseline reality due to its presence. Due to the beneficial nature of SCP-38896's abilities, it is escorted under heavy security to any area where an anomalous object requires 'cleansing.'</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-38896 was first encountered in ████, Mexico, after a series of reports regarding a 'flying serpent' restoring previously barren land to a fertile state. Foundation agents were deployed and, after ensuring no civilian casualties, managed to guide SCP-38896 to a temporary containment area.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 38896-E-01</h4>
+<p><strong>Subject:</strong> SCP-████ (a small, malignant entity causing severe paranoia in subjects within a 10m radius)
+<strong>Procedure:</strong> SCP-38896 was introduced to SCP-████'s containment.
+<strong>Results:</strong> SCP-38896 enveloped SCP-████ in its feathers for approximately two minutes. Following this, SCP-████ no longer exhibited its paranoia-inducing properties.
+<strong>Notes:</strong> SCP-████ has since been reclassified from Keter to Safe.</p>
+<h4>Experiment 38896-E-02</h4>
+<p><strong>Subject:</strong> A sample of SCP-███ (a liquid previously deemed capable of spontaneous combustion at room temperature)
+<strong>Procedure:</strong> SCP-38896 gently enveloped the liquid in its feathers for several moments.
+<strong>Results:</strong> The liquid's anomalous properties were nullified, rendering it chemically identical to water.
+<strong>Notes:</strong> This demonstrates SCP-38896's potential use in the neutralization of hazardous materials.</p>
+<h3>Addendum 3: Incident Log</h3>
+<h4>Incident 38896-I-01</h4>
+<p>During maintenance of SCP-38896's containment area, a containment breach of nearby SCP-█████ occurred. The entity began assimilating organic matter, which could lead to a potential XK-class end-of-the-world scenario. </p>
+<p>Personnel immediately released SCP-38896 from its aviary, and under heavy guard, directed it towards SCP-█████. SCP-38896 wrapped itself around SCP-█████ while emitting a bright, enveloping light. Within ten minutes, SCP-█████ ceased all anomalous activity and reverted to a dormant state. </p>
+<p>As a result of this event, SCP-38896's containment protocol has been updated to include rapid response measures for containing other SCP entities should a similar situation arise.</p>
+<h3>Addendum 4: Researcher Notes</h3>
+<p>Dr. Ramirez, a leading researcher of SCP-38896, has suggested that the entity may be empathically linked to the collective human subconscious desire for order and balance, possibly explaining its cooperative behavior and abilities. Additional research is ongoing to explore this theory.</p>
+<p>SCP-38896's significant value in the containment and potential neutralization of other SCP entities has led to its classification as Thaumiel. It is one of the few known SCPs utilized in an official capacity for the betterment of the Foundation's operations and the safeguarding of normalcy. Further study of this entity's capabilities and possible origin is of high priority.</p>
+
+    </div>
+    
