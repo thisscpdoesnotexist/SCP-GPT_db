@@ -1,0 +1,36 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-39047 is  Adolf Hitlers 2nd missing testicle  </h3> </center>
+
+    <h3>Item #: SCP-39047 - "The Führer's Lost Orchid"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-39047-GPT.png" alt="Illustration of SCP-39047" />
+        
+<h3>Description:</h3>
+<p>SCP-39047 is a biological entity believed to be the second testicle of Adolf Hitler, notably absent during his autopsy and long surrounded by myth. The organ is preserved in a form of stasis, demonstrating neither decay nor conventional life signs and is enveloped in a persistent, low-level telekinetic field. SCP-39047 exhibits anomalous properties, including the capacity to exert subtle influences on individuals within a radius of approximately 10 meters, affecting their decision-making processes to avoid actions that could lead to large-scale conflict.</p>
+<p>The SCP's anomalous properties were not evident until after the Cold War when political tensions began to de-escalate globally. Observations and recordings have linked SCP-39047's influence radius with the inexplicable resolution of several potentially catastrophic events. Researchers hypothesize that SCP-39047's function may have been a failsafe device, either bioengineered or evolved, to prevent the outbreak of another world war, thereby ensuring the survival of humanity.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-39047 must be contained within a high-value item containment locker at Site-77, designed to suppress its telekinetic field. The locker is constructed with Faraday cage properties, electromagnetic dampening, and telekinetic activity suppressors, monitored around the clock. Personnel with a history of violent behavior or those susceptible to coercive persuasion are not permitted within the 100-meter exclusion zone around the containment locker.</p>
+<p>Since SCP-39047 possesses Thaumiel-class qualities that have been deemed beneficial to maintaining global peace, containment protocols prioritize secrecy and the prevention of its influence over unauthorized personnel or foreign powers. Any transportation of SCP-39047 outside of Site-77 requires approval from at least two O5 Council members and must be conducted with the utmost discretion.</p>
+<h3>Addendum 1: Discovery of SCP-39047</h3>
+<p>SCP-39047 came to the Foundation's attention in 1993 when an anonymous tip linked its whereabouts to a private collection in Argentina. Upon recovery, initial containment was complicated by several containment breaches, coincidentally coinciding with significant de-escalation of violent confrontations in the immediate vicinity of Site-77. This correlation led to the categorization of SCP-39047's properties and its reclassification to Thaumiel.</p>
+<h3>Addendum 2: Recorded Influence</h3>
+<p>SCP-39047’s influence is often subtle but has been linked to the following events:
+- The resolution of a border dispute between two nuclear-capable nations.
+- Defusing of a highjacking situation on an international flight without casualties.
+- A last-minute diplomatic agreement that halted the advance of military troops towards a disputed territory.</p>
+<h3>Addendum 3: Experiment Log</h3>
+<h4>Experiment 39047-E-01</h4>
+<p><strong>Objective:</strong> To determine the range of SCP-39047’s influence over decision-making in potentially violent situations.</p>
+<p><strong>Procedure:</strong> D-Class personnel trained in conflict resolution and negotiation were placed at 5-meter intervals from SCP-39047 to engage in a simulated trade dispute designed to escalate to violence.</p>
+<p><strong>Results:</strong> Subjects within a 10-meter radius of SCP-39047 exhibited increased empathy and were significantly more likely to seek non-violent resolutions. Outside of this radius, subjects displayed typical behaviors associated with their personalities.</p>
+<h4>Experiment 39047-E-04</h4>
+<p><strong>Objective:</strong> To ascertain the effect of SCP-39047 on an individual with known violent tendencies.</p>
+<p><strong>Procedure:</strong> A D-Class subject with a history of aggravated assault was placed in a room with SCP-39047 for a period of one hour.</p>
+<p><strong>Results:</strong> The subject showed a marked reduction in aggressive behavior and expression of violent intent. When interviewed, the subject expressed confusion and an inability to explain their pacific disposition.</p>
+<h3>Addendum 4: O5 Council Directive</h3>
+<p>After extensive review of SCP-39047 and its implications for both normalcy and global dynamics, the O5 Council has issued a directive that SCP-39047's containment is a top priority. Any developments in its properties or influence are to be reported directly to the Council. All research aims to enhance our understanding of SCP-39047's underlying mechanisms and assess potential applications in conflict resolution at regional, national, and global scales.</p>
+
+    </div>
+    
