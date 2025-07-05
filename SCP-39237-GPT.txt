@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-39237 is  Disease that slowly turns you into a tree, and you remain sentient but trapped inside your now immobile body </h3> </center>
+
+    <h3>Item #: SCP-39237 - "Arboreal Sentience"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-39237-GPT.png" alt="Illustration of SCP-39237" />
+        
+<h3>Description:</h3>
+<p>SCP-39237 is a transmissible metaphysical condition that transforms affected humans into tree-like entities, designated SCP-39237-A instances. The transformation process is gradual, taking between 1 to 6 months to complete. Initially, victims report heightened environmental awareness and increased sensitivity to sunlight and water. Subsequent stages involve the hardening of skin into a bark-like substance, the growth of branch-like appendages, and the rooting of the subject's feet into the ground. Once rooted, SCP-39237-A instances cease to move and take on the full appearance of a tree.</p>
+<p>Notably, individuals affected by SCP-39237 retain full cognitive functions and sensory perception but are unable to communicate through traditional means due to their immobile state. Brain scans reveal activity levels consistent with those of non-affected individuals, suggesting a state of 'locked-in syndrome'. Victims are aware of their surroundings and can experience pain, though the latter fades as the transformation progresses.</p>
+<p>The disease seems to target individuals with specific genetic markers; however, these markers are not rare, meaning a considerable portion of the human population is at risk. Transmission pathways are currently not well understood, but the presence of SCP-39237 in the vicinity of these individuals is sufficient for infection. The Foundation is actively researching methods to identify and block these pathways.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its nature, SCP-39237 cannot be contained in the conventional sense. The current strategy involves the identification and monitoring of individuals at risk of SCP-39237 infection. Foundation-operated surveillance algorithms are in place to scan medical records globally for early symptoms of SCP-39237 transformation. Once identified, individuals are discreetly brought into Foundation care under the pretense of a rare disease study.</p>
+<p>All instances of SCP-39237-A are to be kept in isolation at Bio-Containment Site-112. The area is to be monitored for any attempts at communication from the entities. Researchers are to remain at least 5 meters away from SCP-39237-A instances to prevent potential transmission. Entry to containment areas requires Level-4 authorization and must be conducted in biohazard suits with an independent oxygen supply.</p>
+<p>Efforts to reverse the condition have thus far proven unsuccessful, and the focus has shifted to developing preventative measures. Personnel involved in containment and research are to undergo genetic screening to prevent accidental infection.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-39237 was first identified in a small rural community after several missing person reports culminated in the discovery of a grove of trees with human features. Foundation agents embedded in local law enforcement took over the investigation and confirmed the anomalous nature of the entities.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 39237-E5</h4>
+<ul>
+<li><strong>Purpose</strong>: To test if SCP-39237-A can communicate post-transformation</li>
+<li><strong>Procedure</strong>: An instance of SCP-39237-A was provided with a touch-sensitive panel linked to a text-generating device.</li>
+<li><strong>Results</strong>: After several weeks of no interaction, the instance managed to produce coherent text, confirming their sentience and ability to communicate.</li>
+<li><strong>Notes</strong>: This discovery has prompted ethical debates about the treatment of SCP-39237-A instances and potential 'euthanasia' measures for advanced-stage victims.</li>
+</ul>
+<h4>Experiment 39237-E12</h4>
+<ul>
+<li><strong>Purpose</strong>: To assess the possibility of halting the progression of SCP-39237</li>
+<li><strong>Procedure</strong>: A D-Class subject in the early stages of transformation was treated with a combination of antiviral and experimental metaphysical drugs.</li>
+<li><strong>Results</strong>: Drug treatment delayed transformation by 17 days; however, the subject eventually fully transformed into SCP-39237-A.</li>
+<li><strong>Notes</strong>: Subject's requests for termination were denied for further study—the ethics committee to review.</li>
+</ul>
+<h3>Addendum 3: Incident Report 39237-A7</h3>
+<p>On ██/██/████, Researcher ████ accidentally pricked a finger on a thorn from SCP-39237-A instance #7. Within 48 hours, they began showing early signs of SCP-39237. This incident provided an invaluable case study on the early stages of the disease but resulted in the loss of a valuable staff member, now SCP-39237-A instance #23. Enhanced safety protocols have been implemented.</p>
+<h3>Addendum 4: Communication Efforts</h3>
+<p>Continuous efforts to develop communication with SCP-39237-A instances have resulted in an adaptation of Morse code through the use of slight vibrations or the rustling of leaves. Insights from these entities have provided limited information about the experience of their condition and have been instrumental in refining containment procedures. They describe the transformation as a forced oneness with nature, and express various degrees of distress or acceptance.</p>
+<h3>Addendum 5: Ongoing Research</h3>
+<ul>
+<li>Research into a cure continues, focusing on genetic therapy and metaphysical countermeasures.</li>
+<li>Study of the ecological impact of SCP-39237-A instances, including effects on local wildlife and plant life.</li>
+<li>Investigation into the origins of SCP-39237, with hypotheses ranging from an ancient curse to a modern bio-weapon gone wrong.</li>
+</ul>
+<p>The containment and study of SCP-39237 remain a top priority for the SCP Foundation, with the ultimate goal of preventing further transformation and potentially reversing the effects of those already affected.</p>
+
+    </div>
+    
