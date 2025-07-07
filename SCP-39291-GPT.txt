@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-39291 is  shadowy ball that can possess and spread to other via contact of shadows. SCP-39291, the original ball can speak and often speaks discriminatory things against white people. </h3> </center>
+
+    <h3>Item #: SCP-39291 - "Shadow of Prejudice"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-39291-GPT.png" alt="Illustration of SCP-39291" />
+        
+<h3>Description:</h3>
+<p>SCP-39291 is an anomalous entity manifesting as an intangible sphere, approximately 30 centimeters in diameter, composed of an unknown substance similar in appearance to concentrated shadows. SCP-39291 possesses sapience and the capability of speech, with a particular and consistent inclination towards expressing racial prejudice against individuals of Caucasian descent. The entity's method of communication is currently not understood, as it lacks any visible organs or devices to produce sound, yet can be heard by anyone within a variable radius that appears to depend on SCP-39291's current "mood."</p>
+<p>The anomalous properties of SCP-39291 become apparent when it comes into contact with the shadows of living humans. Through this point of contact, SCP-39291 can effectively "possess" an individual, extending its shadowy substance to envelop their shadow. This process does not seem to cause immediate physical harm. However, the possessed subjects, referred to as SCP-39291-1 instances, begin to manifest aggressive and discriminatory behavior similar to that vocalized by SCP-39291, irrespective of the individual's previous beliefs or disposition.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its intangible nature and the necessity for real-time intervention to prevent the spread of its influence, SCP-39291 must be contained in a high-security cell with zero-lux illumination at all times at Site-██. The cell should be lined with a non-reflective material to prevent the casting of any shadows. Only D-class personnel are to interact with SCP-39291, and such interactions are to remain strictly controlled and monitored.</p>
+<p>All personnel entering SCP-39291's containment area are required to wear infrared goggles and high-luminance flashlights attached to their attire to prevent the formation of shadows. In addition, personnel are to undergo psychological evaluations before and after each interaction to monitor for SCP-39291-1 conversion.</p>
+<p>In the event that SCP-39291 escapes its confinement, the facility is to be put in immediate lockdown, and a site-wide announcement will be made to activate emergency lighting designed to reduce shadow casting. Personnel are to execute contain protocol Ξ-21, which involves the use of UV light cannons to isolate and capture SCP-39291.</p>
+<h3>Addendum 1: Incident Log</h3>
+<h4>Incident 39291-01:</h4>
+<p>On ██/██/20██, SCP-39291 escaped its containment due to a power failure resulting in emergency lights within its cell malfunctioning. The entity spread its influence across the east wing of Site-██, creating multiple SCP-39291-1 instances before being successfully re-contained. Full amnestics were administered to affected individuals, and containment protocols have since been updated to prevent similar incidents.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 39291-A:</h4>
+<ul>
+<li><strong>Objective</strong>: To determine the extent of SCP-39291's ability to influence individuals through shadow possession.</li>
+<li><strong>Procedure</strong>: D-84392 was instructed to interact with SCP-39291 while casting a minimal shadow.</li>
+<li><strong>Results</strong>: SCP-39291 was able to extend its influence after three minutes of contact with D-84392's shadow, resulting in the subject vocalizing discriminatory remarks against white individuals.</li>
+<li><strong>Conclusion</strong>: SCP-39291 requires minimal shadow contact to spread influence; it can alter the behavior of subjects significantly.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<h4>Interview 39291-04:</h4>
+<ul>
+<li><strong>Interviewer</strong>: Dr. ██████</li>
+<li><strong>Subject</strong>: SCP-39291</li>
+</ul>
+<p><strong>Begin Log</strong></p>
+<p><strong>Dr. ██████</strong>: SCP-39291, we have observed your interactions and influence. Can you explain why you focus on prejudiced speech against white people?</p>
+<p><strong>SCP-39291</strong>: (inaudible muttering, followed by a clear response) They cast long shadows over others, consuming light.</p>
+<p><strong>Dr. ██████</strong>: Are you implying a metaphor for societal issues, or is this a reference to your own capabilities?</p>
+<p><strong>SCP-39291</strong>: Shadows know their kin.</p>
+<p><strong>End Log</strong></p>
+<p><strong>Conclusion</strong>: SCP-39291's motives remain unclear, and it continues to exhibit hostility towards specific racial groups without further explanation. Further psychological analysis and interviews are warranted to understand the underlying mechanism of its selective discrimination and to develop countermeasures against its influence.</p>
+<h3>Addendum 4: Recovery Log</h3>
+<p>SCP-39291 was initially discovered in the town of ████████ after a series of racially motivated incidents were reported, including public altercations and the sudden onset of hate speech from previously non-aggressive individuals. Foundation agents, under guise of federal investigators, were able to trace the phenomena back to SCP-39291 and secure it with minimal exposure.</p>
+<p>Considering the highly sensitive and contagious nature of SCP-39291's influence, maintaining its containment and preventing the spread of its discriminatory behavior are of the highest priority to the Foundation. SCP-39291 represents not only a tangible threat due to its anomalous properties but also a social and psychological hazard capable of inciting widespread unrest and violence.</p>
+
+    </div>
+    
