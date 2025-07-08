@@ -1,0 +1,49 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-39292 is  shadowy ball that can possess and spread to other via contact of shadows. SCP-39291, the original ball can speak and often speaks discriminatory things against white people. </h3> </center>
+
+    <h3>Item #: SCP-39292 - "The Invidious Umbra"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-39292-GPT.png" alt="Illustration of SCP-39292" />
+        
+<h3>Description:</h3>
+<p>SCP-39292 appears to be a spherical object of unknown composition, approximately 30 cm in diameter with a surface that absorbs 99.9% of light, reminiscent of Vantablack. The object exhibits anomalous properties that manifest when it comes into contact with shadows. Upon shadow contact, SCP-39292 can enter and 'possess' the shadow, granting it the ability to move along any contiguous shadowed surface with remarkable speed and agility. This movement is not restricted by the original shadow's source object and can spread across shadow-to-shadow links, effectively allowing it to 'jump' between shadows.</p>
+<p>SCP-39292-1 refers to the sentient aspect of SCP-39292. It has demonstrated the ability to communicate through anomalous vocalizations that emanate from the shadows it occupies. SCP-39292-1 has shown a consistent pattern of expressing discriminatory remarks directed against individuals of Caucasian descent, although its motive and the extent of its understanding regarding race and ethnicity seem limited and potentially imitative in nature.</p>
+<p>SCP-39292 is capable of "infecting" organisms that come into physical contact with shadows it possesses. This process hereby referred to as “umbrakinesis,” results in a temporary loss of control as SCP-39292-1 assumes dominion over the organism's actions. This condition persists until either SCP-39292-1 voluntarily exits the organism or forced eviction occurs through exposure to bright, direct light.</p>
+<p>Should SCP-39292-1 successfully infect multiple hosts, it can simultaneously control them, effectively creating a network of entities under its influence. These hosts are designated SCP-39292-A, SCP-39292-B, etc.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-39292 is to be contained within a 5m x 5m x 5m containment chamber with walls coated in high-gloss, reflective paint to minimize shadow creation. The chamber is to be illuminated at all times by no fewer than four (4) 100,000-lumen floodlights, positioned to ensure minimal shadow casting. In the event of a lighting failure, emergency power must be engaged immediately to prevent containment breach.</p>
+<p>Interaction with SCP-39292 requires the presence of no fewer than two (2) Class D personnel wearing high-visibility reflective suits designed to eliminate shadows on their forms. Any communication with SCP-39292-1 must be conducted using one-way audio transmission to prevent inadvertent exposure to its anomalous effects.</p>
+<p>In the event SCP-39292 breaches containment, Mobile Task Force Epsilon-9 ("Fire Eaters") is to be dispatched to locate and re-contain SCP-39292. Upon re-containment, all infected individuals are to be treated with Class-C amnestics and undergo psychological evaluation prior to release or termination, depending on the severity of exposure.</p>
+<h3>Addendum 1: Incident Log 39292-01</h3>
+<h4>Incident 39292-01-A: Initial Discovery</h4>
+<p>SCP-39292 was discovered in [REDACTED], following an outbreak of erratic behavior among the community with reports of individuals claiming to be under the influence of an unknown force. The Foundation intervened, and SCP-39292 was secured after significant difficulty due to underestimation of its mobility and influence.</p>
+<h4>Incident 39292-01-B: Breach and Containment Reestablishment</h4>
+<p>SCP-39292 breached containment at Site-██ on ██/██/20██ during routine testing when an unforeseen power surge caused a temporary facility blackout. MTF Epsilon-9 successfully re-contained SCP-39292 after three hours, during which SCP-39292-1 controlled four agents, resulting in two casualties. Revised containment procedures were implemented immediately following this incident.</p>
+<h3>Addendum 2: Experiment Log 39292</h3>
+<h4>Experiment 39292-E1: Shadow Manipulation</h4>
+<p><strong>Objective</strong>: To observe SCP-39292's ability to manipulate shadows and infect hosts.
+<strong>Procedure</strong>: A Class D subject was introduced into a controlled environment with designated shadow areas. Subject was instructed to walk through these areas while avoiding physical contact with the shadows.
+<strong>Result</strong>: SCP-39292 was able to stretch the shadows beyond their natural form to "reach" for the subject. Upon contact with the shadow, the subject (now SCP-39292-A) became hostile and attempted to disable the lighting system.
+<strong>Notes</strong>: SCP-39292-1's ability to warp shadows for its purposes presents a significant risk during containment breaches.</p>
+<h4>Experiment 39292-E2: Verbal Communication</h4>
+<p><strong>Objective</strong>: To examine the extent of SCP-39292-1's communication abilities and understanding of language.
+<strong>Procedure</strong>: A one-way audio feed was used to engage SCP-39292-1 in conversation.
+<strong>Result</strong>: SCP-39292-1 responded with iterations of discriminatory speech against white subjects. Attempts to engage SCP-39292-1 in discussion on other topics were met with silence or redirection to its preferred subject matter.
+<strong>Notes</strong>: SCP-39292-1 shows no interest or engagement in topics beyond its set speech pattern. The origin of this behavior warrants further investigation.</p>
+<h4>Experiment 39292-E3: Host Network</h4>
+<p><strong>Objective</strong>: To document the cohesion and scale of SCP-39292's control over multiple hosts.
+<strong>Procedure</strong>: SCP-39292 was allowed to "infect" up to five Class D subjects simultaneously.
+<strong>Result</strong>: SCP-39292-1 effectively controlled all subjects, coordinating their actions as if a single entity was operating multiple bodies. Hosts displayed advanced tactical awareness, suggesting increased cognitive abilities being bestowed by SCP-39292-1.
+<strong>Notes</strong>: SCP-39292's potential for coordinated infiltration or assault is alarming. Additional countermeasures against mass infection events are being developed.</p>
+<h3>Addendum 3: Psychological Assessment of Recovered Hosts</h3>
+<h4>Interview Log 39292-INT1</h4>
+<p><strong>Subject</strong>: Former SCP-39292-A (D-84930)
+<strong>Interviewer</strong>: Dr. ██████
+<strong>Summary</strong>: Subject D-84930 experienced periods of memory loss during the infection/possession, expressing significant distress over actions committed while under SCP-39292-1's control. The subject reported sensations of "being in the backseat" of their own body, with SCP-39292-1 "driving."
+<strong>Conclusion</strong>: Extended control by SCP-39292-1 causes psychological trauma. Further investigation into long-term effects is deemed necessary. Subjects who endure prolonged infections may require extended psychological treatment or termination to prevent breach of secrecy.</p>
+<p>SCP-39292 remains under close surveillance, with ongoing efforts to understand the origin of its discriminatory speech patterns and develop further countermeasures against its shadow-based mobility and influence.</p>
+
+    </div>
+    
