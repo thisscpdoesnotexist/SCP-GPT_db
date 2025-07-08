@@ -1,0 +1,33 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-39293 is  a nba championship ring that turns any organic object it comes into contact with cavaliers era lebron </h3> </center>
+
+    <h3>Item #: SCP-39293 - "The King's Coronation"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-39293-GPT.png" alt="Illustration of SCP-39293" />
+        
+<h3>Description:</h3>
+<p>SCP-39293 refers to an NBA Championship ring, specifically from the 2016 Cleveland Cavaliers victory, made of 10-karat white gold, studded with approximately 400 diamonds and several sapphires. When SCP-39293 comes into direct contact with any organic material, said material undergoes a rapid transformation into a biological copy of LeBron James as he was during the 2016 NBA finals (hereafter referred to as SCP-39293-1 instances). These instances demonstrate physical abilities, mannerisms, and knowledge consistent with LeBron James during the specified era, including his basketball skills, memories of games, and personal recollections from that time.</p>
+<p>The transformation process begins within seconds of contact and completes in approximately two minutes. SCP-39293-1 instances retain no memory of their prior existence and earnestly believe themselves to be the genuine LeBron James. Notably, instances created from non-human organic material will behave erratically, often displaying confusion and distress. Instances from human subjects display full cognitive functions and are cooperative, although they express an intense drive to play and discuss basketball, especially pertaining to the 2016 season.</p>
+<p>The effects of SCP-39293 are irreversible; however, there appear to be no adverse health effects on SCP-39293-1 instances beyond the initial disorientation from the transformation. The process by which SCP-39293 transmutes organic material into a living organism is not currently understood, as it defies known biological processes and principles.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-39293 is stored in a standard containment locker secured by a biometric lock set to only allow access to authorized personnel within Site-17. The containment locker is to be located in a room with no organic materials present to ensure no accidental transformations. Any experiments involving SCP-39293 are to be conducted within a specialized containment chamber under strict supervision, and all involved personnel must use non-organic protective suits to prevent unintentional contact.</p>
+<p>Following Experiment Log 39293-E-5 (see Addendum 1), it has been determined that no further testing on live subjects, human or otherwise, is to be conducted without explicit permission from at least two Level 4 Research Supervisors. This precaution is in place to avoid unnecessary psychological trauma and ethical complications that may arise from the transformation process.</p>
+<h3>Addendum 1: Experiment Log 39293-E</h3>
+<h4>Experiment Log 39293-E-3</h4>
+<p><strong>Subject:</strong> D-8432, male, 34 years old.
+<strong>Procedure:</strong> Subject instructed to hold SCP-39293 for 30 seconds.
+<strong>Results:</strong> Subject transformed into SCP-39293-1 instance, exhibiting confusion before fully embracing identity as LeBron James. The instance discussed recent games from the 2016 NBA finals in great detail.
+<strong>Notes:</strong> Further questioning revealed extraordinarily detailed knowledge of plays, strategies, and emotional states matching that of the real LeBron James during the finals. The instance was cooperative but became distressed when unable to locate teammates.</p>
+<h4>Experiment Log 39293-E-5</h4>
+<p><strong>Subject:</strong> A common housecat (Felis catus).
+<strong>Procedure:</strong> SCP-39293 placed on the back of the subject.
+<strong>Results:</strong> Subject transformed into a disoriented SCP-39293-1 instance, initially demonstrating feline behavior before becoming more humanoid. The instance lacked the intellectual capacity expected and failed to display knowledge or abilities consistent with LeBron James.
+<strong>Notes:</strong> This experiment confirmed that SCP-39293's effect is nonspecific to human beings but that the psychological makeup of the resultant SCP-39293-1 instance varies widely based on the original subject's physiology.</p>
+<h3>Addendum 2: Incident Report 39293-I-7</h3>
+<p>On [REDACTED], SCP-39293 was inadvertently activated during inventory, transforming Junior Researcher Dr. Emily Nguyen into an SCP-39293-1 instance. Despite initial distress, Dr. Nguyen (now SCP-39293-1-E) acclimated rapidly to her new identity. Psychological evaluations indicate that SCP-39293-1-E retains a degree of Dr. Nguyen's original personality, particularly her determination and academic interests, albeit now channeled through the persona of LeBron James circa 2016.</p>
+<p>Dr. Nguyen's transformation prompted a review of containment procedures to include further fail-safes and prevent unauthorized personnel from accessing SCP-39293 without appropriate preparations. SCP-39293-1-E is currently held in a standard humanoid containment chamber, with provisions to accommodate her unique psychological state. Research into potential reversibility is ongoing.</p>
+
+    </div>
+    
