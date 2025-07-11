@@ -1,0 +1,42 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-39385 is  weed that makes you purple </h3> </center>
+
+    <h3>Item #: SCP-39385 (The Purple Nettle)</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-39385-GPT.png" alt="Illustration of SCP-39385" />
+        
+<h3>Description:</h3>
+<p>SCP-39385, colloquially known as "The Purple Nettle," is a botanical anomaly with the appearance of a common stinging nettle (Urtica dioica). Its most distinguishing characteristic is the iridescent purple hue of its leaves and stem. SCP-39385 is capable of photosynthesis and demonstrates standard nettle growth patterns outside of its anomalous properties.</p>
+<p>When an individual comes into direct skin contact with SCP-39385, their epidermal layer starts to adopt a similar iridescent purple coloration within 3 to 5 minutes. This effect spreads through the physical contact area and then proceeds to encompass the entire body over the course of 48 hours. The pigmentation change appears to penetrate all dermal layers but does not affect the function or health of the skin. Affected subjects report only mild discomfort during the initial stages of coloration change.</p>
+<p>The discoloration will persist for approximately seven days before slowly fading away, leaving no discernible damage or lasting effects. SCP-39385's sap has been analyzed and contains a unique compound (currently designated SCP-39385-1) which is responsible for the pigment alteration. Attempts to synthesize SCP-39385-1 have been unsuccessful, and its molecular structure remains an enigma to Foundation researchers.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-39385 is contained in a standard botanical containment cell at Site-XX, with environmental controls set to replicate its natural habitat. Personnel entering the containment cell are required to wear hazmat suits to prevent accidental contact.</p>
+<p>Due to its non-hostile nature and limited range of effect, SCP-39385 has been classified as Safe. However, any propagation or research must be approved by the overseeing botanist to prevent accidental exposure outside of a controlled environment.</p>
+<p>No more than twenty (20) instances of SCP-39385 are to be cultivated at any given time. Any seeds produced by SCP-39385 specimens are to be collected and incinerated, and any accidental growth discovered outside the containment area should be reported and removed by containment personnel using standard biohazard protocols.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-39385 was discovered in ██████, England after several local reports of people suddenly developing purple skin. An embedded field agent brought the case to the attention of the SCP Foundation. The plant was quickly identified and contained, and affected individuals were given amnestics to obscure their memories of the event.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment 39385-E1:</h4>
+<p>Subject: D-3956
+Procedure: D-3956 was instructed to gently brush his forearm against SCP-39385 for two seconds.
+Results: Within five minutes, the site of contact began to show signs of discoloration. Full body purple pigmentation was established after approximately 56 hours; the subject expressed a preference for the color change.
+Note: Pigmentation faded after seven days, as observed in initial reports.</p>
+<h4>Experiment 39385-E2:</h4>
+<p>Subject: D-4051
+Procedure: A sample of SCP-39385-1 was applied to the subject's back using a pipette.
+Results: Pigmentation effect was identical to that observed with direct plant contact. Notably, pigmentation spread at a slightly slower rate than the contact exposure, achieving full-body coverage in 62 hours.
+Note: As anticipated, the clearance time remained consistent with previous instances.</p>
+<h4>Experiment 39385-E3:</h4>
+<p>Subject: D-4162 (with a history of vitiligo)
+Procedure: Subject was instructed to touch SCP-39385 with the hand most affected by vitiligo.
+Results: Surprisingly, SCP-39385's pigment effects were able to completely overshadow the subject's vitiligo patches, resulting in a uniform purple hue across the entire body, unlike the previous irregular skin pigmentation.
+Note: Monitoring continued for this subject to investigate any potential ameliorative effects on vitiligo. No lasting effects noted upon pigment reversal.</p>
+<h3>Addendum 3: Potential Applications</h3>
+<p>Due to SCP-39385's ability to induce an evenly pigmented skin tone in subjects, there has been consideration for its potential use in treating certain skin conditions, such as vitiligo or melasma. Research is ongoing to understand the mechanism by which SCP-39385-1 interacts with skin without causing harm. All experiments related to medical applications are to adhere strictly to ethical standards and require approval from the Ethics Committee.</p>
+<h3>Addendum 4: Incident 39385-A</h3>
+<p>On ██/██/20██, unauthorized removal of SCP-39385 seeds by Research Assistant █████ led to a minor containment breach when the seeds were mistakenly spread in the cafeteria gardens. Seventeen (17) Foundation staff members were affected before the breach was contained. The influence of SCP-39385 was successfully passed off as a harmless prank among staff, and affected personnel were treated and observed until the pigmentation effects subsided. Disciplinary action was taken against Research Assistant █████, and containment protocols were subsequently reviewed to prevent future breaches.</p>
+
+    </div>
+    
