@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-39380 is  a process for erasing the practitioner from consensus reality via a Class CK event </h3> </center>
+
+    <h3>Item #: SCP-39380 - "The Vanishing Point"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-39380-GPT.png" alt="Illustration of SCP-39380" />
+        
+<h3>Description:</h3>
+<p>SCP-39380 is an anomalous procedure theorized to be capable of erasing its practitioner from consensus reality through a localized Class CK reality restructuring event. The specific details of the procedure remain withheld within this document due to its highly dangerous nature. SCP-39380 seemingly allows the practitioner to effectively "delete" themselves from existence, alongside any memory or record of their presence within the known world, digital, historical, or otherwise.</p>
+<p>SCP-39380's documentation was initially discovered within a dilapidated library of a defunct secret society labeled as [REDACTED]. The procedure appears to require an intricate pattern of reality-warping rituals, spoken incantations in a yet-to-be-deciphered language, and the use of several anomalous artifacts that are yet to be fully contained by the Foundation. It is currently unknown how SCP-39380 was developed or by whom.</p>
+<p>Once enacted, the procedure reportedly culminates in a localized Class CK reality restructuring event. This event leads to a selective and retroactive alteration of history, possibly branching from the moment of the practitioner's birth, such that the individual in question no longer appears to have ever existed, with physical evidence and living memory of the individual being altered or removed.</p>
+<p>Although direct evidence of SCP-39380's successful implementation is difficult to establish, due to the nature of its effect, several instances and repercussions of this SCP have been observed and documented by the Foundation.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-39380's procedure details are to be kept in a secure, encrypted database with access strictly limited to personnel with Level 4 clearance or higher. Any attempted access by unauthorized personnel is to be logged and investigated immediately.</p>
+<p>Foundation web crawlers are actively monitoring and suppressing information related to SCP-39380 across the internet and various other communication channels worldwide. Due to the potential catastrophic consequences, any performing or advocating of SCP-39380 is to be met with immediate intervention by the nearest Foundation task force.</p>
+<p>Following Incident-39380-A, security protocols at the site containing the physical evidence of SCP-39380 have been upgraded to include anti-memetic defenses, specialized reality anchors, and a standing order for a 24-hour armed surveillance team.</p>
+<h3>Addendum 1: Incident Log 39380-A</h3>
+<h4>Incident-39380-A Summary:</h4>
+<p>On [DATA EXPUNGED], a Foundation researcher with Level 3 clearance, Dr. ██████, attempted SCP-39380. His disappearance went unnoticed for approximately 72 hours until routine personnel accounting discrepancies prompted a review of surveillance footage, where it was observed that Dr. ██████ had infiltrated the secure archive housing SCP-39380's procedure documentation.</p>
+<h4>Post-Incident Analysis:</h4>
+<p>Dr. ██████'s motivations remain unclear due to his successful erasure from known existence. It has been theorized that certain psychological profiles may be more susceptible to SCP-39380's corruptive influence, leading to the initiation of preemptive psychological screening protocols for all personnel assigned to SCP-39380.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment Log 39380-E-01:</h4>
+<p>Research into the effects of SCP-39380 on retrieved, non-sentient objects has been authorized in an attempt to understand the reach and limits of its reality-altering capabilities. The following are abbreviated records from the experiment log:</p>
+<ul>
+<li>
+<p>E-01a: The use of SCP-39380 on a standard Foundation-issue pen resulted in all documentation of the pen's existence, along with mental recollection of its use by personnel, being erased. The pen was originally part of a set, which now only contains [REDACTED] units instead of [REDACTED].</p>
+</li>
+<li>
+<p>E-01b: A D-class subject with no living relatives or significant historical impact was subjected to a modified version of SCP-39380. D-████'s existence could not be verified through any available records post-procedure, and all staff memories relating to D-████ were affected despite the deployment of cognitive shielding devices.</p>
+</li>
+<li>
+<p>E-01c: Further testing has been suspended due to the significant risk of unforeseen alterations to consensus reality and the moral implications of non-consensual testing on human subjects.</p>
+</li>
+</ul>
+<h3>Addendum 3: Recovery Log</h3>
+<p>An attempt to recover any additional documents or artifacts linked to SCP-39380's origin has resulted in [DATA EXPUNGED]. All Foundation sites have been advised to report and apprehend individuals or groups attempting to recover or utilize SCP-39380 artifacts.</p>
+<h3>Addendum 4: Ethical Review Notice</h3>
+<p>The Foundation's Ethics Committee has issued a cease and desist order on all experiments related to SCP-39380, citing unacceptable risks to human life and the potential for irreversible harm to the fabric of consensus reality. All current and future research proposals must be submitted for rigorous ethical review prior to approval.</p>
+<h3>Addendum 5: O5 Council Directive</h3>
+<p>As per directive from the O5 Council, SCP-39380 is to be reclassified under Thaumiel should a method to control or safely replicate its effects without the risk of a Class CK reality restructuring event be developed. Until such breakthroughs are made, SCP-39380 is to be contained under the highest security and scrutiny to prevent misuse or accidental triggering of its effects.</p>
+
+    </div>
+    
