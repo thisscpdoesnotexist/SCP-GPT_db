@@ -1,0 +1,43 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-39928 is  Cat wich can eat energy </h3> </center>
+
+    <h3>Item #: SCP-39928 - "The Energy Eater"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-39928-GPT.png" alt="Illustration of SCP-39928" />
+        
+<h3>Description:</h3>
+<p>SCP-39928 appears to be an adult domestic cat (Felis catus), with a coat that is pitch black and seems to absorb light. Its eyes are an unusually bright emerald green that appear to give off their own luminescence. Genetic testing reveals several anomalies that cannot be found in any known species or breeds of cat.</p>
+<p>SCP-39928 possesses the unique ability to consume various forms of energy as its sustenance. This includes electrical, thermal, kinetic, and in some cases, anomalous or metaphysical energies. There appears to be no upper limit to the amount of energy SCP-39928 can consume at one time, leading to several containment breaches. Observations have shown that when SCP-39928 consumes energy, its eye luminescence intensifies, and its coat appears more lustrous.</p>
+<p>The 'feeding' process is achieved by SCP-39928 establishing a field of unknown composition around a source of energy, which then seems to drain into its body. Devices and life forms within the field often become inactive or lifeless as a result. The field's range is variable, though it has been recorded to extend up to 20 meters under duress, with SCP-39928 at the epicenter.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-39928 is to be housed in a standard containment chamber at Site-77, with the walls constructed of materials that have been treated to resist energy drainage. The interior should be furnished as per guidelines for non-anomalous feline containment to promote psychological well-being. </p>
+<p>Under no circumstances are electronic devices allowed within 25 meters of SCP-39928's containment area, with the exception of monitoring equipment designed to withstand its abilities. Multiple redundant mechanical locks should be used to secure the containment chamber, as SCP-39928 has been known to deplete the energy of electronic security measures.</p>
+<p>Personnel responsible for feeding SCP-39928 must use specialized tools to deliver its 'meals' — energy contained in batteries of varying sizes, depending on the required caloric intake, as determined by the Site Veterinarian and Research Head. Interaction with SCP-39928 is not advised unless necessary for research or health monitoring purposes.</p>
+<p>In the event of containment breach, personnel are to employ the use of non-electrical means to recapture SCP-39928, as it will be drawn to the highest concentration of energy within its vicinity. Usage of energy-based weapons is strictly prohibited in such scenarios.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-39928 was discovered in [REDACTED], USA, after a series of localized blackouts and unexplained deaths of domestic animals were reported. Foundation agents embedded in the local utility company were dispatched, and upon witnessing the ability of SCP-39928, standard containment protocols were enacted, and amnestics were administered to the local populace.</p>
+<h3>Addendum 2: Incident Log 39928-A</h3>
+<p>On ██/██/████, SCP-39928 breached containment after a routine feeding procedure went awry. Dr. ██████ inadvertently brought a smartwatch within proximity of SCP-39928's containment field, leading to a rapid enlargement of the energy-absorption field and subsequent failure of the containment chamber's electronic locks. SCP-39928 consumed the energy from the entire containment wing before being subdued through the use of brooms and non-powered nets. Researchers sustained minor injuries, and Dr. ██████ was disciplined accordingly. Procedures were updated to prevent future similar incidents.</p>
+<h3>Addendum 3: Experiment Log 39928</h3>
+<h4>Experiment 39928-E1</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Purpose:</strong> To determine the limits of SCP-39928's energy consumption.</li>
+<li><strong>Procedure:</strong> SCP-39928 was exposed to a variable-output electrical current starting at 1 ampere, increasing incrementally.</li>
+<li><strong>Result:</strong> SCP-39928's absorption field activated at 5 amperes, growing in size relative to the energy increase. Termination occurred at an output of 100 amperes due to safety concerns.</li>
+<li><strong>Notes:</strong> It appears SCP-39928's ability to consume energy is directly proportional to the available amount. It exhibited signs of agitation as the field increased, and subsequent 'feeding sessions' were adjusted accordingly to prevent stress.</li>
+</ul>
+<h4>Experiment 39928-E2</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Purpose:</strong> To determine SCP-39928's ability to consume kinetic energy.</li>
+<li><strong>Procedure:</strong> SCP-39928 was placed in a room with a number of mechanical toys set in motion. </li>
+<li><strong>Result:</strong> Toys within SCP-39928's immediate vicinity ceased movement abruptly. Toys beyond 10 meters continued normal operation until approached by SCP-39928.</li>
+<li><strong>Notes:</strong> SCP-39928 seems to have an innate sense of where energy is present and emanates a containment field instinctively.</li>
+</ul>
+<p>Further experiments with SCP-39928 require clearance from at least two Level 4 Researchers, due to the unpredictable nature of SCP-39928's abilities and the potential for dangerous situations.</p>
+
+    </div>
+    
