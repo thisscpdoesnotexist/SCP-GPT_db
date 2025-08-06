@@ -1,0 +1,48 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-39994 is  clown fart porn </h3> </center>
+
+    <h3>Item #: SCP-39994 - "Echoes of Hilarity"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-39994-GPT.png" alt="Illustration of SCP-39994" />
+        
+<h3>Description:</h3>
+<p>SCP-39994 is a collection of digital video files seemingly originating from no known producer or distributor. These files depict individuals dressed as clowns engaging in acts of flatulence with exaggerated sound effects and comedic timing. While the content appears to be intended for adult entertainment, no explicit sexual acts are depicted.</p>
+<p>The anomalous properties of SCP-39994 become apparent when individuals view any segment of the videos. Affected individuals (hereafter referred to as subjects) begin to perceive every natural sound as variations of the exaggerated flatulent sounds heard in the videos. This auditory hallucination persists for approximately 48-72 hours, after which the subject's perception gradually returns to normal.</p>
+<p>The affected subjects do not suffer any long-term physical side effects, but the experience has been reported to cause significant psychological distress, with some developing a temporary aversion to humor related to flatulence.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-39994 is to be stored on a secure, air-gapped hard drive housed in a standard containment locker at Site-██. Access to SCP-39994 is restricted to personnel with Level 2 security clearance and above, and only for research purposes. Viewing SCP-39994 without proper authorization will result in disciplinary action.</p>
+<p>At no point are copies of SCP-39994 to be made without O5 approval, and any attempt to distribute or upload the content to any public and private digital networks is strictly forbidden.</p>
+<p>Players, monitors, or any kind of device capable of audio-visual display must be removed from the containment room to avoid accidental exposure. Researchers are required to use designated soundproof viewing chambers equipped with noise-canceling headphones calibrated to filter out the audio track of SCP-39994 during analysis.</p>
+<p>Given the non-hazardous nature of SCP-39994 when contained, it has been designated as 'Safe'.</p>
+<h3>Addendum 1: Discovery Log</h3>
+<p>SCP-39994 was first intercepted by the Foundation's web-crawler AI, codenamed "Watchdog", after it flagged an untraceable distribution of the files across various adult websites. The rapid spread and the lack of origin triggered further investigation, isolating the phenomenon and identifying its anomalous properties. The digital files were traced to a private server located in [REDACTED], which was promptly raided and secured by MTF Gamma-4 ("Jesters"). No individuals were found in connection with the server, and its origin remains a mystery.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<p><strong>Experiment 39994-E1</strong>
+- <strong>Subject</strong>: D-8432
+- <strong>Procedure</strong>: Subject was prompted to watch a 3-minute clip from SCP-39994.
+- <strong>Results</strong>: Subject began to hear flatulent sounds in place of usual auditory stimuli immediately after viewing.
+- <strong>Notes</strong>: Subject reported distress at the sounds, becoming increasingly agitated with every noise. Recovery followed the expected duration with no long-term effects.</p>
+<p><strong>Experiment 39994-E2</strong>
+- <strong>Subject</strong>: D-9471
+- <strong>Procedure</strong>: Subject was exposed to SCP-39994 for 5 seconds.
+- <strong>Results</strong>: Despite the brief exposure, subject experienced full effect. This confirmed that any exposure, no matter how brief, would trigger the anomalous effect.
+- <strong>Notes</strong>: This experiment established the minimum exposure time necessary to trigger an instance of SCP-39994.</p>
+<p><strong>Experiment 39994-E3</strong>
+- <strong>Subject</strong>: D-10344
+- <strong>Procedure</strong>: Subject watched SCP-39994 with audio muted.
+- <strong>Results</strong>: Subject did not experience the auditory hallucinations.
+- <strong>Notes</strong>: This confirms that the audio component of SCP-39994 is necessary for its anomalous effect.</p>
+<p><strong>Experiment 39994-E4</strong>
+- <strong>Subject</strong>: D-10344 (repeat test)
+- <strong>Procedure</strong>: Subject listened to audio only from SCP-39994.
+- <strong>Results</strong>: Subject reported onset of effect within minutes, comparable to visual exposure.
+- <strong>Notes</strong>: This isolates the anomaly to the audio track of the files. Research into isolating the specific frequencies or patterns responsible for the effect is ongoing.</p>
+<h3>Addendum 3: Incident 39994-01</h3>
+<p>On ██/██/20██, a containment breach occurred when Junior Researcher ████ accidentally played a 10-second clip of SCP-39994 audio over Site-██'s public address system. ███ personnel were affected, reporting auditory hallucinations consistent with SCP-39994's effect. The Site Director ordered a lockdown, and amnestics were administered to all involved personnel after the effects wore off.</p>
+<p>Following this incident, the Site Director has issued a memo reiterating the importance of adhering to containment procedures and has requested a review of protocol for handling audio-based SCPs.</p>
+<p>In response to Incident 39994-01, additional containment procedures have since been implemented, including further restrictions on file access and mandatory auditory anomaly training for personnel assigned to SCP-39994.</p>
+
+    </div>
+    
