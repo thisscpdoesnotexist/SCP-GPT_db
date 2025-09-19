@@ -1,0 +1,46 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-41059 is  Tree Monster </h3> </center>
+
+    <h3>Item #: SCP-41059 - "The Arboreal Guardian"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-41059-GPT.png" alt="Illustration of SCP-41059" />
+        
+<h3>Description:</h3>
+<p>SCP-41059 is an animate entity resembling a deciduous tree, approximately 7 meters in height. It possesses a humanoid silhouette with branching limbs extending outward, terminating in what appear to be delicate, leaf-like appendages. Samples of its tissue confirm it is primarily composed of plant matter, closely akin to the Quercus genus (oak trees). Despite its plant-based structure, SCP-41059 is capable of locomotion and displays a level of sentience and environmental awareness.</p>
+<p>SCP-41059 was discovered in ████████ Forest after reports of a "walking tree" reached local authorities. Further investigation by the Foundation confirmed the existence of the entity and led to its containment. Notably, SCP-41059 exhibits protective behavior towards the local flora and fauna, which it displayed by intervening when an operative attempted to harm a rabbit during its initial capture.</p>
+<p>SCP-41059 is capable of communication through a form of sign language, using its limbs and branches to form rudimentary symbols. Though communication is slow, SCP-41059 has expressed a clear desire to protect its habitat and a willingness to cooperate with Foundation personnel as long as the surrounding ecosystem is not threatened.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-41059 is to be contained in a customized environment chamber simulating its native forest habitat, with appropriate flora and ambient conditions maintained to ensure its continued health and cooperation. No pesticides, herbicides, or other potential environmental toxins are to be introduced into this environment.</p>
+<p>Foundation personnel assigned to SCP-41059 are advised to treat the entity with caution and respect, especially concerning environmental conservation efforts. Interaction should be limited to a minimum, with only essential maintenance personnel entering the containment chamber. Communication with SCP-41059 is to be conducted under supervision and only for purposes of research or to maintain the entity's cooperation.</p>
+<h3>Addendum 1: Discovery</h3>
+<ul>
+<li><strong>1.1 Initial Report:</strong> The local police audio logs and witness statements regarding "a living tree defending the woods" that led to the identification and containment of SCP-41059.</li>
+<li><strong>1.2 Capture Protocol:</strong> Detail of the procedures developed and utilized to safely contain SCP-41059 without causing undue stress or harm to it or the environment.</li>
+</ul>
+<h3>Addendum 2: Experiment Log</h3>
+<ul>
+<li><strong>2.1 Experiment A:</strong> Investigation into SCP-41059's environmental impact, confirming its positive influence on surrounding plant life and soil quality.</li>
+<li><strong>2.2 Experiment B:</strong> Behavioral observation log, tracking SCP-41059's interactions with various animal species introduced into its environment. Notably, it acted with clear intent to protect smaller, more vulnerable creatures from predation.</li>
+<li><strong>2.3 Experiment C:</strong> Communication trials, aimed at developing an effective dialogue with SCP-41059. Success was achieved using a modified version of American Sign Language, adapted for SCP-41059's unique anatomy.</li>
+</ul>
+<h3>Addendum 3: Interview Log</h3>
+<ul>
+<li><strong>3.1 Interview with Dr. █████:</strong> A transcript of the sessions held with SCP-41059 to understand its origins, aims, and the extent of its abilities. SCP-41059 remains evasive about its origins but is articulate about its mission to protect its home environment.</li>
+<li><strong>3.2 Incident 41059-A:</strong> Documentation of an incident where an unauthorized personnel attempted to extract a sample from SCP-41059 for personal research. This resulted in SCP-41059 manifesting rapid growth, ensnaring the individual until they were retrieved and reprimanded. Protocols for tissue sampling were revised following this event.</li>
+</ul>
+<h3>Addendum 4: Environmental Impact Study</h3>
+<ul>
+<li><strong>4.1 Positive Impact Report:</strong> Detailing the benefits SCP-41059 has had on its contained environment, including increased biodiversity and plant vitality.</li>
+<li><strong>4.2 Potential Applications:</strong> Discussions regarding the possible use of SCP-41059's abilities to aid in reforestation efforts or combat ecological degradation in other areas without jeopardizing containment protocols or risking wider exposure.</li>
+</ul>
+<h3>Addendum 5: Personal Notes</h3>
+<ul>
+<li><strong>5.1 Researcher's Diary Entries:</strong> Personal observations from a key researcher on the SCP-41059 project, providing insight into the day-to-day experiences working with the entity and its growing "personality."</li>
+<li><strong>5.2 SCP-41059 Artifacts:</strong> A collection of items—leaves, twigs, bark—carefully shaped by SCP-41059 into various forms, possibly as gifts or communication attempts, which may hold symbolic significance.</li>
+</ul>
+<p>By observing and interacting with SCP-41059 under these guidelines, research will continue to elucidate the nature of this entity, its potential utility in environmental conservation initiatives, and the prospect of other, similar entities existing undetected in the world's forests.</p>
+
+    </div>
+    
