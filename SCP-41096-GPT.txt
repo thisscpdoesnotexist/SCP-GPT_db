@@ -1,0 +1,38 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-41096 is  A big pancake that is Also a ufo </h3> </center>
+
+    <h3>Item #: SCP-41096 - "The Flying Breakfast"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-41096-GPT.png" alt="Illustration of SCP-41096" />
+        
+<h3>Description:</h3>
+<p>SCP-41096 is a large, circular object resembling a buttermilk pancake approximately 5 meters in diameter. Its surface is golden-brown with textural similarities to a standard cooked pancake. However, its composition is vastly different; SCP-41096 appears to possess advanced mechanical and electronic components embedded within its layers, allowing it to levitate and maneuver through the air with a degree of control akin to unidentified flying objects (UFOs) described in popular culture.</p>
+<p>Scans have revealed sophisticated propulsion systems and unknown energy sources within SCP-41096, suggesting an origin other than Earth. Despite this, SCP-41096 exhibits behavior akin to curiosity rather than hostility and has been observed to navigate around obstacles with the apparent intention to avoid damage to both itself and its surroundings. When "active," SCP-41096 emits a faint humming noise and occasionally a pleasant aroma similar to that of cooking batter.</p>
+<p>SCP-41096 was discovered in █████, Vermont, after a series of reported UFO sightings were investigated by local authorities and subsequently classified as an anomalous event by the SCP Foundation. Agents retrieved SCP-41096 after it was found hovering over a local diner, reportedly "scanning" the establishment's kitchen before attempting a retreat upon detection.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-41096 is to be contained in Hangar-7 at Site-19. The hangar has been outfitted with specialized non-stick flooring and a domed roof to accommodate SCP-41096's levitation abilities without risk of damage or escape. Containment procedures prioritise the minimization of potential harm to SCP-41096 due to its fragile state resembling cooked breakfast food.</p>
+<p>Personnel are to engage in daily maintenance checks to monitor SCP-41096's internal mechanisms for signs of wear or malfunction. No food or food-related items, particularly maple syrup and butter, are allowed within 50 meters of SCP-41096's containment area to prevent any potential reactive behavior.</p>
+<p>SCP-41096 is to be "fed" with a mixture of water and flour in a mist form twice a week to sustain its inexplicable need for substances typical of pancake ingredients. These sessions are to be overseen by a research team specialized in anomalous objects and culinary science.</p>
+<p>In the event of SCP-41096 becoming active and attempting to leave its containment, sound frequencies that mimic bacon sizzling are to be played on the hangar's PA system. This sound has been observed to pacify SCP-41096 and should be used to guide it back to its designated containment zone peacefully.</p>
+<h3>Addendum 1: Experiment Log</h3>
+<h4>Experiment 41096-E1</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Procedure:</strong> A collection of standard cooking utensils was introduced into the containment area to observe SCP-41096's response.
+<strong>Results:</strong> SCP-41096 hovered over each item, emitting a series of clicks before returning to its passive state. No aggressive or defensive maneuvers recorded.</p>
+<h4>Experiment 41096-E2</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Procedure:</strong> A small remote-controlled drone disguised as a pat of butter was flown in close proximity to SCP-41096.
+<strong>Results:</strong> SCP-41096 quickly rose to 3 meters and rotated horizontally. It then emitted a series of low-pitched tones before opening what appeared to be a port and "absorbing" the drone. The drone was discovered later in a dismantled state, coated in a greasy residue but otherwise undamaged.</p>
+<h4>Experiment 41096-E3</h4>
+<p><strong>Date:</strong> ██/██/████
+<strong>Procedure:</strong> Syrup-like substance (primarily composed of non-sugar-based polymers to prevent actual stickiness) was sprayed onto SCP-41096's surface.
+<strong>Results:</strong> SCP-41096 immediately became highly active, emitting high-pitched whirring sounds and attempting ascent to the hangar's ceiling. Researchers hypothesized discomfort or an attempt to "cleanse" itself of the substance. Application ceased, and SCP-41096 returned to normal after a 24-hour period.</p>
+<h3>Addendum 2: Recovery Incident</h3>
+<p>SCP-41096 was initially brought to the Foundation's attention when a local diner owner in █████ reported a strange object hovering behind their establishment. Witnesses described it as "a massive flapjack spinning in the air like a frisbee." Local authorities dismissed the sightings as pranks until a diner patron captured video footage of SCP-41096 emitting a bright beam of light towards the restaurant's kitchen, resulting in all pancakes within suddenly becoming 'perfectly cooked' irrespective of prior condition.</p>
+<p>Mobile Task Force Mu-9 ("Batter Up") was dispatched to secure the object and administer amnestics to the local population as necessary. The chef of the diner, an individual known for experimenting with molecular gastronomy, was subject to additional observation due to potential exposure to anomalous influences.</p>
+<p>SCP-41096 was transported to Site-19 with no incidents, floating docilely aboard the containment vehicle as agents reported an inexplicable craving for breakfast foods during the journey. Since containment, SCP-41096 has predominantly remained passive. The potential for utilizing its pancake-confection abilities for the benefit of the Foundation is under ongoing evaluation.</p>
+
+    </div>
+    
