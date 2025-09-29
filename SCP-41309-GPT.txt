@@ -1,0 +1,35 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-41309 is  A pale magenta humanoid creature that is completely headless but still has a mouth located on its abdomen </h3> </center>
+
+    <h3>Item #: SCP-41309 - The Silent Guardian</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-41309-GPT.png" alt="Illustration of SCP-41309" />
+        
+<h3>Description:</h3>
+<p>SCP-41309 is a pale magenta humanoid entity standing approximately 2.1m tall. It possesses a slender build with elongated limbs and digits, and it lacks a discernable head or neck. Despite its headless nature, SCP-41309 contains an anatomically correct human mouth located on the abdomen, concealed beneath a layer of skin when not active. The entity is unable to vocalize but exhibits the capacity for sapient thought and emotion, primarily communicated through body language and written means. </p>
+<p>SCP-41309 demonstrates an acute awareness of anomalous activity and a unique ability to perceive extradimensional threats. Furthermore, it displays an instinctual drive to protect and assist in the containment of other anomalous entities, which has established its Thaumiel classification.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-41309, due to its Thaumiel classification, is housed within a specially designed containment chamber at Site-██, which allows the entity freedom of movement within a secure environment. The interior is equipped with amenities suitable for the entity's comfort and a series of whiteboards for written communication. Access to SCP-41309's containment chamber is restricted to Level 4 personnel and above, unless authorized by the acting Site Director or for scheduled research purposes.</p>
+<p>SCP-41309's containment chamber is monitored at all times via closed-circuit cameras, with audio recording disabled in respect to the entity's preferences. Given SCP-41309's cooperative nature and integral role in Foundation operations, it is permitted to roam within certain secured sections of Site-██ under strict supervision. </p>
+<p>Personnel interacting with SCP-41309 are advised to communicate in writing or via hand signals. Attempts to engage in oral communication may agitate the entity, although it has never shown aggression towards Foundation staff.</p>
+<p>In the event of containment breaches or unforeseen threats, SCP-41309 is to be utilized as an immediate response asset. A detailed protocol has been developed outlining the cooperation between SCP-41309 and Foundation security teams in these scenarios.</p>
+<h3>Addendum 1: Discovery</h3>
+<p>SCP-41309 was discovered after several reports of a "headless protector" surfaced from a small town in ██████, where a spike in anomalous activity had occurred. Foundation agents embedded in local law enforcement were dispatched to investigate. They found SCP-41309 actively assisting containment efforts of a separate, unaffiliated anomalous creature.</p>
+<p>Upon containment of both entities, SCP-41309 demonstrated a clear understanding of Foundation objectives and cooperated in its capture. Further analysis confirmed its unique capabilities and potential for assisting in other containment operations, thus warranting its Thaumiel classification.</p>
+<h3>Addendum 2: Experiment Log</h3>
+<h4>Experiment Log 41309-A</h4>
+<p><strong>Objective:</strong> To determine SCP-41309's capacity for anomaly detection and threat assessment.</p>
+<p><strong>Procedure:</strong> SCP-41309 was exposed to various innocuous objects, alongside a known safe-level anomalous artifact (SCP-████).</p>
+<p><strong>Results:</strong> SCP-41309 showed no interest in non-anomalous objects but immediately approached SCP-████, placing one hand onto the artifact and remaining stationary for approximately three minutes. It then retrieved a pen and notepad, writing: "Not harmful. Tethers the unseen." The artifact’s properties married with the entity's description.</p>
+<h4>Experiment Log 41309-B</h4>
+<p><strong>Objective:</strong> To evaluate SCP-41309's response to a simulated containment breach scenario.</p>
+<p><strong>Procedure:</strong> A mock breach was staged with the controlled release of a Euclid class SCP (SCP-████).</p>
+<p><strong>Results:</strong> Upon the alert, SCP-41309 calmly approached the containment breach location, gestured toward containment personnel to remain behind, and entered the zone. Surveillance footage revealed it approaching SCP-████ and performing a series of movements that resulted in the Euclid-class entity returning to its dormant state. SCP-41309 then resealed the containment chamber using an adjacent control panel.</p>
+<h3>Addendum 3: Incident Report 41309-C</h3>
+<p>On ███ █, 20██, during a massive containment breach involving multiple Keter-class anomalies, SCP-41309 exhibited extraordinary abilities beyond its established capabilities. It showcased a precognitive awareness of danger, moving swiftly to neutralize threats before they could escalate. SCP-41309 was instrumental in the recontainment efforts, saving numerous lives and preventing widespread structural damage to the facility.</p>
+<p>Subsequently, it drafted via written communication on the whiteboard: "We guard. We protect. Not just the many, but each other." These words have since become a colloquial motto among staff working closely with SCP-41309, and an investigation into potential origins or connections between other Thaumiel-class SCPs and SCP-41309 is ongoing.</p>
+
+    </div>
+    
