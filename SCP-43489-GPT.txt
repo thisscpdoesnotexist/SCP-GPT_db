@@ -1,0 +1,40 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-43489 is  A cartoon rabbit that stands on 2 legs and red ears and red pupils and can be easily heartbroken and cries ocular gushers(the teats in a cartoon not the candy)AND hugs anyone </h3> </center>
+
+    <h3>Item #: SCP-43489 - "The Lonely Hare"</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-43489-GPT.png" alt="Illustration of SCP-43489" />
+        
+<h3>Description:</h3>
+<p>SCP-43489 is an anomalous entity resembling an anthropomorphic cartoon rabbit, standing at a height of approximately 1.2 meters. Its most distinguishable features are its vivid red ears and red pupils, which stand in stark contrast to its otherwise white and soft fur. SCP-43489 exhibits behaviors and characteristics consistent with traditional cartoon physics, including exaggerated expressions, the ability to recover quickly from physical harm, and the capacity to produce large volumes of tears when distressed, akin to 'ocular gushers.'</p>
+<p>SCP-43489 has demonstrated a profound need for social interaction and affection. When in close proximity to humans or other entities that it perceives as potential 'companions,' it attempts to engage in friendly physical contact, typically in the form of a heartfelt embrace. SCP-43489 appears to understand and speak English, although its voice and diction are characterized by a jovial, high-pitched tone often found in animated characters.</p>
+<p>If SCP-43489 experiences rejection or feels ignored, it becomes visibly heartbroken, entering a state of exaggerated sorrow that includes the copious shedding of tears. This state can last between several minutes to an hour, after which SCP-43489 will return to its usual cheery disposition, albeit more subdued until comforted or consoled.</p>
+<p>SCP-43489 was discovered in [REDACTED], where reports emerged of an animated rabbit character interacting with the locals and causing minor disruptions. The Foundation intervened after multiple instances of SCP-43489's public displays of sorrow resulted in localized flooding. Class A amnestics were administered to witnesses, and SCP-43489 was subsequently contained without resistance.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-43489 is to be housed in a comfortable, furnished containment cell measuring at least 4m x 4m within Site-64's Safe SCP wing. The cell's design should resemble a cozy living environment, with aesthetic considerations taken into account to ensure SCP-43489's emotional well-being.</p>
+<p>Personnel assigned to SCP-43489 must engage in a minimum of one (1) hour of social interaction daily to prevent onset of SCP-43489's distress response. These interactions can include simple conversation, shared meals, or light recreational activities.</p>
+<p>Personnel are instructed to approach SCP-43489 with a friendly demeanor to mitigate its need for affection and reduce the risk of emotional outbursts. SCP-43489 is allowed access to age-appropriate media, including cartoons, picture books, and simple games, to provide additional entertainment and comfort.</p>
+<p>Physical contact with SCP-43489 is to be kept at a minimum outside of scheduled interaction periods. However, when emotional distress is observed, immediate consolation is authorized to prevent excessive tear production. SCP-43489 is known to actively seek reassurance through hugs, which are permitted as necessary to uphold containment stability.</p>
+<h3>Addendum 1: Incident Report 43489-A</h3>
+<h4>Incident Report 43489-A-1:</h4>
+<p>On [DATE], SCP-43489 breached containment following an accidental emotional trigger by one of the security personnel. While SCP-43489 does not pose a direct physical threat, the amount of liquid produced from its ocular gushers led to minor flooding in the adjacent hallway.</p>
+<p>Efforts to re-contain SCP-43489 were initially hampered by its overwhelming desire for reassurance, manifesting in attempts to hug personnel. After SCP-43489 was consoled and comforted adequately by Dr. [REDACTED], it voluntarily returned to its containment unit. Procedure revisions were recommended to prevent similar events.</p>
+<h4>Incident Report 43489-A-2:</h4>
+<p>Following the incident, the assigned containment procedures for SCP-43489 were updated to include regular emotional check-ins and a reminder system for personnel to initiate positive interactions.</p>
+<h3>Addendum 2: Experiment Log 43489</h3>
+<h4>Experiment 43489-E-1:</h4>
+<p><strong>Objective:</strong> To determine the capacity of SCP-43489's ocular gushers in a controlled setting.</p>
+<p><strong>Procedure:</strong> SCP-43489 was introduced to a mock scenario in which it was mildly 'rejected' by a class-D personnel, instructed to ignore the entity's friendly greeting.</p>
+<p><strong>Results:</strong> SCP-43489 immediately entered a state of exaggerated sadness, producing tears at an impressive rate. The containment cell was equipped with water level sensors, which recorded an accumulation of approximately 37.8 liters before SCP-43489's emotional distress was alleviated by a researcher providing comfort and reassurance.</p>
+<p><strong>Notes:</strong> SCP-43489's tear production is not infinite and appears to be tied to its emotional state. Once consoled, no further tears were produced, and SCP-43489 returned to normal.</p>
+<h4>Experiment 43489-E-2:</h4>
+<p><strong>Objective:</strong> To assess SCP-43489's recovery rates from physical cartoonish mishaps.</p>
+<p><strong>Procedure:</strong> SCP-43489 was shown a humorously exaggerated 'slip on a banana peel' animation and was encouraged to replicate the action in a safe and padded area of its containment cell.</p>
+<p><strong>Results:</strong> SCP-43489 performed the action with a high degree of physical comedy before seemingly sustaining a dramatic 'injury.' Within seconds, however, SCP-43489 reverted to an uninjured state and continued engaging with researchers with normal behavior.</p>
+<p><strong>Notes:</strong> SCP-43489 appears to embrace cartoon logic, where physical setbacks are temporary and do not result in lasting harm. Caution is still advised to prevent unnecessary distress.</p>
+<p>Personnel interactions with SCP-43489 have led to improved morale in Site-64's Safe SCP wing, with many noting its uniquely optimistic perspective. While SCP-43489 requires specific emotional management, its presence is now considered a benign part of daily operations at the site.</p>
+
+    </div>
+    
