@@ -1,0 +1,51 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-43668 is  an unlit platform staircase </h3> </center>
+
+    <h3>Item #: SCP-43668 - The Never-Ending Descent</h3>
+
+            <img class="scp-image" src="https://scpapi.koll.ai/images/SCP-43668-GPT.png" alt="Illustration of SCP-43668" />
+        
+<h3>Description:</h3>
+<p>SCP-43668 is an anomalous construct consisting of a circular staircase which descends into the earth at an undisclosed location. Constructed out of a seemingly ancient stone with no discernible origin, the staircase does not match any known architectural style. When descending SCP-43668, subjects report an inability to reach the bottom, no matter how long they continue down the steps. By all accounts, the staircase should extend far beyond what is physically possible given Earth's dimensions.</p>
+<p>The anomaly presents itself only when an individual steps onto the platform and begins to descend. Tracking devices fail beyond a depth of approximately 100 meters, and communication equipment becomes increasingly unreliable as subjects descend further. No subject has reported any end to the staircase, nor have they encountered any lateral passageways or rooms.</p>
+<p>Infrared and thermal imaging have shown inconclusive data, with some suggesting the temperature stable, while others depict a gradual decrease analogous to normal underground thermal gradients. No conclusive evidence suggests the staircase is a loop, teleportation mechanism, or any form of non-linear space, although these theories cannot be definitively excluded.</p>
+<h3>Special Containment Procedures:</h3>
+<p>Due to its immovable nature and the risk of public discovery, SCP-43668 is contained in-situ within a constructed underground research facility, labeled Site-82. This facility is disguised as a private geological research station. All unauthorized personnel attempting to access SCP-43668 are to be deterred under the guise of safety hazards related to geological instability.</p>
+<p>Access to SCP-43668 is strictly limited to D-class personnel and approved research teams. Any expeditions must be approved by at least two Level 4 Research Directors and should be equipped with a primary and backup long-range communication device, three days' worth of provisions, emergency medical supplies, and a secondary light source.</p>
+<p>Individuals who have descended beyond a depth of 1,000 meters are not permitted to re-enter SCP-43668 to prevent potential psychological damage or other unforeseen effects of prolonged exposure to the anomaly.</p>
+<h3>Addendum 1: Experiment Logs</h3>
+<h4>Experiment 43668-E12</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Subject:</strong> D-5583</li>
+<li><strong>Procedure:</strong> Subject was instructed to descend SCP-43668 until they reached the "end" or until two hours had elapsed.</li>
+<li><strong>Results:</strong> D-5583 descended for the entire two hours, reporting that no end was in sight. D-5583 displayed noticeable psychological distress upon return.</li>
+<li><strong>Notes:</strong> It is clear that SCP-43668 extends beyond conventional spatial limitations.</li>
+</ul>
+<h4>Experiment 43668-E17</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Subject:</strong> D-6120 (equipped with advanced GPS and Depth Measurement Devices)</li>
+<li><strong>Procedure:</strong> Subject instructed to descend until GPS or depth measurement devices failed.</li>
+<li><strong>Results:</strong> GPS signal was lost at 100 meters as expected. Depth measurement ceased transmitting data at 1,080 meters depth. Subject continued descent for 30 additional minutes before returning to the surface.</li>
+<li><strong>Notes:</strong> Despite depth measurement devices being rated for up to 10 kilometers, their failure at just over a kilometer adds evidence to SCP-43668's anomalous properties.</li>
+</ul>
+<h3>Addendum 2: Incident Report 43668-01</h3>
+<h4>Incident 43668-01 Summary</h4>
+<ul>
+<li><strong>Date:</strong> ██/██/████</li>
+<li><strong>Details:</strong> During Experiment 43668-E23, D-7712 reported via radio the sounds of distant music and voices after descending to an estimated 1,200 meters. After this report, contact was lost with D-7712. A search and rescue operation was initiated immediately. D-7712 was found unconscious 150 meters from the entrance roughly 12 hours later with no memory of the events and no explanation on how he returned to that position.</li>
+<li><strong>Notes:</strong> Further expeditions are to include at least a two-person team, and audio recording equipment is to be added to standard exploration gear.</li>
+</ul>
+<h3>Addendum 3: Recovered Document 43668-RD1</h3>
+<h4>Document 43668-RD1 Content</h4>
+<ul>
+<li><strong>Date of Recovery:</strong> ██/██/████</li>
+<li><strong>Content Summary:</strong> A parchment scroll estimated to be several centuries old was discovered resting on a lower step of SCP-43668 following the after-effects of a minor seismic event near Site-82. It contained cryptic writings in a mix of Latin and a previously unknown language, including what appear to be instructions or rituals and references to an entity labeled 'Custos Abyssus' or 'The Guardian of the Abyss.'</li>
+<li><strong>Notes:</strong> The Linguistics Department is currently attempting to fully translate the document. Researchers are advised to consider the possibility of a previously undiscovered sapient entity associated with SCP-43668. Containment protocols may need to be adjusted accordingly pending further information.</li>
+</ul>
+
+    </div>
+    
