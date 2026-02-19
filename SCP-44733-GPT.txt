@@ -1,0 +1,59 @@
+
+    <div class="justifytext">
+
+    <center> <h3> SCP-44733 is  Scp-66666666 </h3> </center>
+
+    <h3>Item #: SCP-66666666 - "The Infinite Echo"</h3>
+<h3>Object Class:</h3>
+<p>Safe</p>
+<h3>Description:</h3>
+<p>SCP-66666666, referred to as "The Infinite Echo," is an antique brass gramophone from the early 20th century with several anomalous properties. Its build is consistent with gramophones produced during the 1910s; however, no manufacturer's mark or identifying features exist on the object beyond superficial decorations. </p>
+<p>Initial observation shows it operates like a normal gramophone, requiring no electricity and playing records through mechanical motion and sound amplification. However, when a specific vinyl record, which has been designated SCP-66666666-1, is played, its anomalous effects manifest. The record itself appears ordinary, with grooves and a label stating "The Infinite Echo," but no known artist or production company.</p>
+<p>Upon playback of SCP-66666666-1, listeners report hearing faint, indistinct voices layered within the music. These voices gradually become clearer, revealing themselves to be echoes of conversations from the listeners' pasts. The longer the record plays, the more recent the echoed conversations become, suggesting an infinite capacity to replay any spoken words heard by those present, leading to its name.</p>
+<p>The SCP does not appear to recognize or replicate sounds from non-human entities or mechanical reproductions, indicating a preference or limitation to genuine human speech only. Furthermore, the device does not function if the listener is alone; a minimum of two individuals must be within audible range for the SCP's effects to activate.</p>
+<h3>Special Containment Procedures:</h3>
+<p>SCP-66666666 is to be stored in a standard containment locker at Site 19, within the Safe-Class Object Wing. Access to SCP-66666666 requires Level 2 security clearance or higher and is permitted for research purposes only under strict supervision of at least one researcher with prior clearance from the Site Director.</p>
+<p>Due to its potential for psychological harm and breach of personal privacy, SCP-66666666-1 should not be played outside of controlled testing environments. Inclusion of SCP-66666666 in cross-experiments is prohibited unless approved by two-thirds of the O5 Council.</p>
+<p>Testing with SCP-66666666 is to be conducted in soundproof rooms to prevent accidental eavesdropping. All personnel participating in experiments must undergo a psychological evaluation before and after exposure to SCP's effects.</p>
+<h3>Addendum 1: Acquisition of SCP-66666666</h3>
+<p>SCP-66666666 came to the Foundation's attention after reports of a "haunted" gramophone in a historical home being transformed into a local museum in ███████, England. Foundation agents embedded in the local police force contained the SCP and administered Class-B amnestics to witnesses. The gramophile was then brought to Site 19 for further study.</p>
+<h3>Addendum 2: Experiment Logs</h3>
+<h4>Experiment Log 66666666-A</h4>
+<ul>
+<li><strong>Subjects</strong>: D-44110 and D-20321</li>
+<li><strong>Procedure</strong>: Subjects instructed to converse on various trivial topics before playing SCP-66666666-1.</li>
+<li><strong>Results</strong>: Playback included clear replication of discussions between the D-Class subjects during the thirty minutes preceding activation. The subjects exhibited initial discomfort but no adverse psychological effects.</li>
+<li><strong>Notes</strong>: Effectiveness of SCP's replication seems to span at least 30 minutes into the past with exceptional clarity.</li>
+</ul>
+<h4>Experiment Log 66666666-B</h4>
+<ul>
+<li><strong>Subjects</strong>: Dr. ██████ and D-44110</li>
+<li><strong>Procedure</strong>: Dr. ██████ engages in a one-sided conversation in the presence of D-44110, who is instructed to remain silent before playback.</li>
+<li><strong>Results</strong>: Playback presented Dr. ██████'s monologue, punctuated by D-44110's non-vocal reactions (breathing, shifts in posture). No replication of D-44110's past conversations.</li>
+<li><strong>Notes</strong>: SCP appears sensitive to real-time presence, as any past speech not occurring in the presence of another person is not echoed.</li>
+</ul>
+<h4>Experiment Log 66666666-C</h4>
+<ul>
+<li><strong>Subjects</strong>: D-44110 and D-20321 (Post-therapy for unrelated SCP exposure)</li>
+<li><strong>Procedure</strong>: Subjects instructed to discuss emotionally charged personal memories before playing SCP-66666666-1.</li>
+<li><strong>Results</strong>: Upon playback, both subjects exhibited extreme stress and had to be removed from the test environment. Echoes included detailed replays of their therapy sessions.</li>
+<li><strong>Notes</strong>: Caution is advised in selecting conversation topics; SCP's effects can cause severe psychological distress.</li>
+</ul>
+<h3>Addendum 3: Incident 66666666-1</h3>
+<p>During routine testing of SCP-66666666, Researcher ██████ inadvertently mentioned classified information regarding SCP-████. The reproduction of this information during playback resulted in a temporary lockdown of the facility and a security breach inquiry. Measures have since been implemented to ensure that any sensitive information remains unspoken in the vicinity of SCP-66666666.</p>
+<h3>Addendum 4: Interview Log 66666666-D</h3>
+<ul>
+<li><strong>Interviewer</strong>: Dr. █████</li>
+<li><strong>Subject</strong>: D-44110 post-exposure to SCP-66666666</li>
+<li><strong>Transcript</strong>: <ul>
+<li>D-44110: "It's like every word I've ever said is trapped in that thing... waiting to come back around."</li>
+<li>Dr. █████: "Do these recollections feel forced upon you, or do you have control over them?"</li>
+<li>D-44110: "No, no control. They just... spill out. Things I'd forgotten, things I wish I could forget."</li>
+</ul>
+</li>
+<li><strong>Notes</strong>: The psychological impact of SCP-66666666 on long-term memories requires further study. D-44110 has been scheduled for additional therapy sessions. </li>
+</ul>
+<p>SCP-66666666 remains a subject of ongoing research due to its unique properties and the potential application of its memory replication capabilities.</p>
+
+    </div>
+    
